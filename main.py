@@ -22,4 +22,4 @@ res = conn.getresponse()
 data = res.read().decode("utf-8")
 jwt = json.loads(data)["access_token"]
 
-print(jwt)
+print(f"jwt: {jwt}")
