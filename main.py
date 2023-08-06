@@ -5,6 +5,7 @@ import urllib.parse
 import base64
 import re
 import datetime
+from collections import defaultdict
 
 # Set up env
 client_id = os.environ["CLIENT_ID"]
@@ -38,6 +39,9 @@ headers = {
 }
 
 # Process a batch of avatar bot comments.
+totals = defaultdict(lambda:0,{})
+biggest = ("", "", 0)
+
 def process(data):
   for comment in data["children"]:
     res = re.match("(/u/\w+)\W(has)\W(tipped)\W(/u/\w+)\W(\d+)\W(Bitcone)", comment["data"]["body"])
@@ -51,6 +55,11 @@ def process(data):
       currency = (res.groups()[5])
       print(f"{utc}, {fromUser}, {toUser}, {amount}, {currency}, {sub}")
 
+      totals[fromUser] += amount
+      global biggest
+      if(amount >= biggest[2]):
+        biggest = (fromUser, toUser, amount)
+
 # Download batches of avatarbot comments.
 after = ""
 while after != None :
@@ -60,3 +69,23 @@ while after != None :
   data = json.loads(data.decode("utf-8"))
   process(data["data"])
   after = (data["data"]["after"])
+
+# Create reddit post output
+totals = (dict(sorted(totals.items(), key=lambda item: -item[1])))
+first = list(totals.items())[0]
+
+rank = 0
+comment = f"\r\nSince the official tipping leaderboard is still under construction I created a tipping leaderboard for just a single day. " \
+          f"Congratulation to {first[0]} tipping {'{:,}'.format(first[1])} put you in the #1 spot. The biggest tip was from {biggest[0]} tipping {'{:,}'.format(biggest[2])} to {biggest[1]}\r\n" \
+          "\r\nRank | Username | Totals Tips\r\n:-|:-|-:\r\n"
+for name, total in totals.items():
+  rank += 1
+  comment += f"{rank} | {name.removeprefix('/u/')} | {'{:,}'.format(total)}\r\n"
+
+comment += f"\r\nThis day is defined starting at {yesterday.date()} 00:00 UTC and ending at {datetime.datetime.now().date()} 00:00 UTC"
+print(comment)
+
+title=f"Daily Tipping Leaderboard {yesterday.strftime('MonthName dd')}th (Unofficial)"
+payload = f'sr=ConeHeads&kind=self&title={urllib.parse.quote_plus(title)}&flair_id=d5c93210-4062-11ed-8995-3222414e6f3b&text={urllib.parse.quote_plus(comment)}'
+
+print(title)
