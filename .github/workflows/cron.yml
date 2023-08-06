@@ -5,6 +5,12 @@ on:
   schedule:
     - cron: '0 0 * * *' # At 00:00 Every day
 
+env:
+  CLIENT_ID: ${{secrets.CLIENT_ID}}
+  CLIENT_SECRET: ${{secrets.CLIENT_SECRET}}
+  REDDIT_NAME: ${{secrets.REDDIT_NAME}}
+  PASSWORD: ${{secrets.PASSWORD}}
+
 jobs:
   build:
     runs-on: ubuntu-latest
