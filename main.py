@@ -34,7 +34,7 @@ print(f"jwt obtained: {jwt}")
 conn = http.client.HTTPSConnection("oauth.reddit.com")
 payload = ''
 headers = {
-  'User-Agent': 'avatar_bot_reader/0.1 by birdwastheword',
+  'User-Agent': f'avatar_bot_reader/0.1 by {username}',
   'Authorization': f'Bearer {jwt}'
 }
 
