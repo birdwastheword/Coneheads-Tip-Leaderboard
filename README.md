@@ -7,5 +7,5 @@ After the leaderboard is created a post will be submitted to https://www.reddit.
 
 # download_comments.py
 This script will run daily [action](.github/workflows/download_comments.yml) at `00:23 UTC` and save comments data for future use.  
-In order to be able to create overview for multiple day this script will save all tips of one in in `run/yyyy-dd-mm/tips.csv`  
-And will also save all raw comment json in `run/yyyy-dd-mm/comments.json`
+In order to be able to create overview for multiple day this script will save all tips of one in in `runs/yyyy-dd-mm/tips.csv`  
+And will also save all raw comment json in `runs/yyyy-dd-mm/comments.json`
