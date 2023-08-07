@@ -1,5 +1,11 @@
 # Coneheads Tip Leaderboard
-A script to create to daily leaderboard based on tips processed by https://www.reddit.com/user/avatarbot/comments
+Scripts to create a daily leaderboard based on tips processed by https://www.reddit.com/user/avatarbot/comments
 
-This script will run daily at 00:15 UTC and create a daily leaderboard for the previous day.
+# main.py
+This script will run daily [action](.github/workflows/cron.yml) at `00:15 UTC` and create a daily leaderboard for the previous day.  
 After the leaderboard is created a post will be submitted to https://www.reddit.com/r/ConeHeads.
+
+# download_comments.py
+This script will run daily [action](.github/workflows/download_comments.yml) at `00:23 UTC` and save comments data for future use.  
+In order to be able to create overview for multiple day this script will save all tips of one in in `run/yyyy-dd-mm/tips.csv`  
+And will also save all raw comment json in `run/yyyy-dd-mm/comments.json`
