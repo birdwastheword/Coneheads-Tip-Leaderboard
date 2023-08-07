@@ -3,7 +3,7 @@ name: cron run main.py
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # At 00:00 Every day
+    - cron: '15 0 * * *' # At 00:00 Every day
 
 env:
   CLIENT_ID: ${{secrets.CLIENT_ID}}
