@@ -1,0 +1,34 @@
+name: cron run download_comments.py
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '50 10 * * *' # At 00:00 Every day
+
+env:
+  CLIENT_ID: ${{secrets.CLIENT_ID}}
+  CLIENT_SECRET: ${{secrets.CLIENT_SECRET}}
+  REDDIT_NAME: ${{secrets.REDDIT_NAME}}
+  PASSWORD: ${{secrets.PASSWORD}}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: execute py script # run main.py
+        run: python download_comments.py
+
+      - name: commit data
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: Show GitHub Actions logo
+          committer_name: GitHub Actions
+          committer_email: actions@github.com
