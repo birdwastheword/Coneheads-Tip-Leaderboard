@@ -86,7 +86,7 @@ comment += f"\r\nThis day is defined starting at {yesterday.date()} 00:00 UTC an
            f"The code generating this leaderboard is available for review here: https://github.com/birdwastheword/Coneheads-Tip-Leaderboard"
 print(comment)
 
-title=f"Daily Tipping Leaderboard {yesterday.strftime('%B %d')}th (Unofficial)"
+title=f"Daily Tipping Leaderboard {yesterday.strftime('%B %-d')} (Unofficial)"
 payload = f'sr=ConeHeads&kind=self&title={urllib.parse.quote_plus(title)}&flair_id=d5c93210-4062-11ed-8995-3222414e6f3b&text={urllib.parse.quote_plus(comment)}'
 
 print(title)
