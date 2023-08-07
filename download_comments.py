@@ -58,7 +58,7 @@ while after != None :
   process(data["data"])
   after = (data["data"]["after"])
 
-filename = f"{yesterday.date()}/comments.json"
+filename = f"runs/{yesterday.date()}/comments.json"
 os.makedirs(os.path.dirname(filename), exist_ok=True)
 f = open(filename, "w")
 f.write(json.dumps(comments_total))
