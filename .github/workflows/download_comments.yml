@@ -3,7 +3,7 @@ name: cron run download_comments.py
 on:
   workflow_dispatch:
   schedule:
-    - cron: '50 10 * * *' # At 00:00 Every day
+    - cron: '11 11 * * *' 
 
 env:
   CLIENT_ID: ${{secrets.CLIENT_ID}}
@@ -29,6 +29,6 @@ jobs:
       - name: commit data
         uses: EndBug/add-and-commit@v9
         with:
-          message: Show GitHub Actions logo
+          message: Added new Comment download for today
           committer_name: GitHub Actions
           committer_email: actions@github.com
