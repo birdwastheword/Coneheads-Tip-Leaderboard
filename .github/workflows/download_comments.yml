@@ -3,7 +3,7 @@ name: cron run download_comments.py
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0/5 * * * *' 
+    - cron: '7/10 * * * *' 
 
 env:
   CLIENT_ID: ${{secrets.CLIENT_ID}}
