@@ -1,4 +1,4 @@
-Last updated: 23-08-08 21:51:38 UTC  
+Last updated: 23-08-08 22:26:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -17,29 +17,29 @@ Rank | Username | Totals Tips
 14 | Jeff5704 | 2,951,115
 15 | avyun | 2,617,051
 16 | ZukoBih | 2,490,102
-17 | VIVOffical | 2,339,936
+17 | VIVOffical | 2,342,599
 18 | Ginomania | 2,307,865
 19 | send420nudes | 2,200,833
 20 | Geniuskills | 2,198,262
 21 | Mean_Bandicoot_7481 | 1,898,009
-22 | IveDoneItAtLast | 1,825,918
+22 | IveDoneItAtLast | 1,836,570
 23 | LuminousViper | 1,690,172
 24 | thom_orrow | 1,621,485
 25 | GooderZBK | 1,569,495
 26 | ashinamune | 1,500,715
-27 | GuyOne | 1,400,277
+27 | GuyOne | 1,400,885
 28 | Affectionate_Hand_76 | 1,399,681
 29 | bray_martin03 | 1,380,770
 30 | _Royal_Insylum | 1,298,924
 31 | transfermymoons | 1,292,428
 32 | HestiaIsTheBestia | 1,188,043
 33 | LordBobTheWhale | 1,129,327
-34 | ImAlekBan | 1,055,603
+34 | ImAlekBan | 1,058,266
 35 | swampyswede | 1,035,234
 36 | WarmBiertje | 1,000,000
 37 | thee_monster | 896,696
 38 | saintajoras | 885,587
-39 | Modestexcuse | 860,126
+39 | Modestexcuse | 873,297
 40 | investigator100 | 799,322
 41 | _ships | 733,766
 42 | DontLaughArt | 721,353
@@ -175,7 +175,7 @@ Rank | Username | Totals Tips
 172 | wolfman333 | 92,306
 173 | PushyDevolution | 91,927
 174 | H3adshotfox77 | 89,773
-175 | DogSpark84 | 88,838
+175 | DogSpark84 | 89,258
 176 | IOTA_Tesla | 87,742
 177 | Extreme_Issue7325 | 87,133
 178 | ACorDC | 86,489
@@ -270,7 +270,7 @@ Rank | Username | Totals Tips
 267 | CrossPuffs | 35,430
 268 | ultra_terrestrial | 35,422
 269 | Clonkerz | 34,840
-270 | urlz | 34,246
+270 | urlz | 34,653
 271 | Adrewmc | 34,177
 272 | zuzieey7719 | 33,655
 273 | preemcuz | 33,443
@@ -499,11 +499,11 @@ Rank | Username | Totals Tips
 496 | forceworks | 5,509
 497 | theindoshow | 5,479
 498 | TheConeHodler | 5,427
-499 | Independent_Safe1351 | 5,352
-500 | KONGXIANG | 5,326
-501 | moonmanuk | 5,326
-502 | ineedmoney2024 | 5,243
-503 | theBarefootedBastard | 5,234
+499 | theBarefootedBastard | 5,372
+500 | Independent_Safe1351 | 5,352
+501 | KONGXIANG | 5,326
+502 | moonmanuk | 5,326
+503 | ineedmoney2024 | 5,243
 504 | stspts | 5,222
 505 | gonzOkook | 5,169
 506 | SecretSuch420 | 5,166
