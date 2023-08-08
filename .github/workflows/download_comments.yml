@@ -32,6 +32,6 @@ jobs:
       - name: commit data
         uses: EndBug/add-and-commit@v9
         with:
-          message: Added new Comment download for today
+          message: Update leaderboard
           committer_name: GitHub Actions
           committer_email: actions@github.com
