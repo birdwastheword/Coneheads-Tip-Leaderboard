@@ -1,15 +1,13 @@
-Last updated: 23-08-08 16:23:43  
-Rank | Username | Totals Tips
-:-|:-|-:
+Last updated:23-08-08 14:26:13  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 18,841,076
 3 | Wonderful_Bad6531 | 12,499,112
 4 | Parush9 | 10,287,311
-5 | ConeDesk | 9,932,103
+5 | ConeDesk | 9,942,711
 6 | crypto_grandma | 8,327,172
-7 | SammyCraigar | 7,121,486
+7 | SammyCraigar | 7,124,149
 8 | rikbona | 4,534,779
 9 | bigbilly1234567899 | 4,356,688
 10 | Homeslicekilla | 4,082,909
@@ -24,7 +22,7 @@ Rank | Username | Totals Tips
 19 | send420nudes | 2,200,833
 20 | Geniuskills | 2,198,262
 21 | Mean_Bandicoot_7481 | 1,845,683
-22 | IveDoneItAtLast | 1,811,501
+22 | IveDoneItAtLast | 1,814,164
 23 | LuminousViper | 1,689,564
 24 | thom_orrow | 1,618,822
 25 | GooderZBK | 1,569,495
@@ -41,7 +39,7 @@ Rank | Username | Totals Tips
 36 | thee_monster | 896,696
 37 | saintajoras | 885,587
 38 | Modestexcuse | 856,482
-39 | investigator100 | 793,996
+39 | investigator100 | 796,659
 40 | _ships | 733,766
 41 | DontLaughArt | 721,353
 42 | starterpack420694 | 710,420
@@ -145,7 +143,7 @@ Rank | Username | Totals Tips
 140 | CalligrapherEnough83 | 127,227
 141 | DamnWhySoLow | 124,748
 142 | high5s_inureye | 124,038
-143 | Obi1eyeKenobi | 122,899
+143 | Obi1eyeKenobi | 123,515
 144 | tjex666 | 122,101
 145 | GoodMornEveGoodNight | 121,118
 146 | Schl0tz | 120,000
@@ -586,11 +584,11 @@ Rank | Username | Totals Tips
 581 | offgridgecko | 2,385
 582 | Painfulblisteronmyb | 2,363
 583 | bonneatoutfaire | 2,303
-584 | exclaim_bot | 2,280
-585 | funkymyname | 2,280
-586 | sparanaghcoar | 2,258
-587 | Far_Movie_6595 | 2,248
-588 | Lillica_Golden_SHIB | 2,226
+584 | Lillica_Golden_SHIB | 2,295
+585 | exclaim_bot | 2,280
+586 | funkymyname | 2,280
+587 | sparanaghcoar | 2,258
+588 | Far_Movie_6595 | 2,248
 589 | JJJaxMax | 2,200
 590 | Niksa2007 | 2,188
 591 | ODoyles_Banana | 2,157
