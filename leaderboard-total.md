@@ -1,4 +1,4 @@
-Last updated: 23-08-08 19:15:41 UTC  
+Last updated: 23-08-08 19:24:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | bigbilly1234567899 | 4,356,688
 10 | Homeslicekilla | 4,138,912
 11 | HippieStarTraveler | 3,878,341
-12 | thelonliestcrowd | 3,149,247
+12 | thelonliestcrowd | 3,151,910
 13 | redzrex | 2,987,151
 14 | Jeff5704 | 2,945,789
 15 | avyun | 2,617,051
