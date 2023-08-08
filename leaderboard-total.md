@@ -1,12 +1,12 @@
-Last updated: 23-08-08 16:33:08 UTC  
+Last updated: 23-08-08 16:42:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 18,841,076
-3 | Wonderful_Bad6531 | 12,919,802
+3 | Wonderful_Bad6531 | 12,920,222
 4 | Parush9 | 10,287,311
 5 | ConeDesk | 9,942,711
-6 | crypto_grandma | 8,367,172
+6 | crypto_grandma | 8,387,172
 7 | SammyCraigar | 7,124,149
 8 | rikbona | 4,534,779
 9 | bigbilly1234567899 | 4,356,688
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | thelonliestcrowd | 3,143,921
 13 | redzrex | 2,987,151
 14 | Jeff5704 | 2,945,789
-15 | avyun | 2,611,725
+15 | avyun | 2,614,388
 16 | ZukoBih | 2,490,102
 17 | VIVOffical | 2,331,070
 18 | Ginomania | 2,307,865
@@ -333,18 +333,18 @@ Rank | Username | Totals Tips
 330 | mofayew | 21,840
 331 | Tasty_Bag | 21,375
 332 | AlternativeBag2619 | 21,298
-333 | ACE415_ | 21,000
-334 | Lucabba | 20,314
-335 | Expensive_Being_4038 | 20,069
-336 | NoahG59 | 20,002
-337 | PassiveRoadRage | 20,000
-338 | stupidcupid112 | 20,000
-339 | AMAxyz | 19,775
-340 | Duskopia | 19,338
-341 | Iiwip | 19,044
-342 | bentolman | 18,871
-343 | f0n1xr131ng | 18,587
-344 | keyoh321 | 18,552
+333 | keyoh321 | 21,215
+334 | ACE415_ | 21,000
+335 | Lucabba | 20,314
+336 | Expensive_Being_4038 | 20,069
+337 | NoahG59 | 20,002
+338 | PassiveRoadRage | 20,000
+339 | stupidcupid112 | 20,000
+340 | AMAxyz | 19,775
+341 | Duskopia | 19,338
+342 | Iiwip | 19,044
+343 | bentolman | 18,871
+344 | f0n1xr131ng | 18,587
 345 | PsLJdogg | 18,546
 346 | DrD_D | 18,288
 347 | ___MOM___ | 17,853
