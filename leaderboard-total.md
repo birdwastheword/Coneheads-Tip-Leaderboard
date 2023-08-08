@@ -1,4 +1,4 @@
-Last updated: 23-08-08 21:25:35 UTC  
+Last updated: 23-08-08 21:34:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -198,17 +198,17 @@ Rank | Username | Totals Tips
 195 | DAMG808 | 69,365
 196 | adi_00_ | 69,095
 197 | beanwiggin420 | 66,564
-198 | imp3order | 65,546
-199 | Jadenindubai | 65,511
-200 | damnusernamegotcutof | 65,004
-201 | HokkaidoNights | 62,857
-202 | ItailianStallion101 | 62,826
-203 | standArtpluto | 62,100
-204 | WhateverAlready | 61,926
-205 | TubeNerd92 | 61,334
-206 | dinoyeti | 60,395
-207 | dopelifer09 | 59,501
-208 | UniversalNoobMaster | 59,172
+198 | UniversalNoobMaster | 66,141
+199 | imp3order | 65,546
+200 | Jadenindubai | 65,511
+201 | damnusernamegotcutof | 65,004
+202 | HokkaidoNights | 62,857
+203 | ItailianStallion101 | 62,826
+204 | standArtpluto | 62,100
+205 | WhateverAlready | 61,926
+206 | TubeNerd92 | 61,334
+207 | dinoyeti | 60,395
+208 | dopelifer09 | 59,501
 209 | MisterM0H0 | 59,122
 210 | TheD1ceMan | 57,861
 211 | hellosamaira | 57,069
