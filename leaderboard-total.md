@@ -1,4 +1,4 @@
-Last updated: 23-08-08 21:43:17 UTC  
+Last updated: 23-08-08 21:51:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -112,11 +112,11 @@ Rank | Username | Totals Tips
 109 | Street_Addd | 168,161
 110 | superlonelyboy | 166,804
 111 | LongCauliflower6791 | 164,334
-112 | rustyybikes | 161,807
-113 | Esco1980 | 160,702
-114 | SnooMacarons9203 | 160,461
-115 | YourThighsWarmMyEars | 160,407
-116 | Flimsy_Brilliant_239 | 160,398
+112 | Flimsy_Brilliant_239 | 163,061
+113 | rustyybikes | 161,807
+114 | Esco1980 | 160,702
+115 | SnooMacarons9203 | 160,461
+116 | YourThighsWarmMyEars | 160,407
 117 | ruccarucca | 157,894
 118 | 6reficul | 153,884
 119 | Forward_Today2849 | 151,835
