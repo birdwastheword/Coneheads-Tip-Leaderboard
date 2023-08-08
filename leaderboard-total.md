@@ -1,4 +1,4 @@
-Last updated:23-08-08 14:28:18  
+Last updated: 23-08-08 14:40:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | LrnFaroeseWthBergur | 354,927
 71 | SKITZ_ZA | 348,993
 72 | Westy3000 | 345,003
-73 | Cravensworth_redux | 341,467
+73 | Cravensworth_redux | 341,887
 74 | CMDRGlamdring | 337,508
 75 | tsudrat | 321,591
 76 | farmertypoerror | 313,866
@@ -343,9 +343,9 @@ Rank | Username | Totals Tips
 340 | Duskopia | 19,338
 341 | Iiwip | 19,044
 342 | bentolman | 18,871
-343 | keyoh321 | 18,552
-344 | PsLJdogg | 18,546
-345 | f0n1xr131ng | 18,518
+343 | f0n1xr131ng | 18,587
+344 | keyoh321 | 18,552
+345 | PsLJdogg | 18,546
 346 | DrD_D | 18,288
 347 | ___MOM___ | 17,853
 348 | kwickle | 17,835
