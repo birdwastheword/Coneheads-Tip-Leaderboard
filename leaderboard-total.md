@@ -1,10 +1,10 @@
-Last updated: 23-08-08 19:41:32 UTC  
+Last updated: 23-08-08 19:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 18,853,739
 3 | Wonderful_Bad6531 | 12,920,222
-4 | Parush9 | 10,301,308
+4 | Parush9 | 10,311,656
 5 | ConeDesk | 9,942,711
 6 | crypto_grandma | 8,387,172
 7 | SammyCraigar | 7,124,149
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | WarmBiertje | 1,000,000
 37 | thee_monster | 896,696
 38 | saintajoras | 885,587
-39 | Modestexcuse | 856,482
+39 | Modestexcuse | 860,126
 40 | investigator100 | 799,322
 41 | _ships | 733,766
 42 | DontLaughArt | 721,353
