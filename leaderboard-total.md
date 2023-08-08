@@ -1,4 +1,4 @@
-Last updated: 23-08-08 20:22:05 UTC  
+Last updated: 23-08-08 20:30:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Geniuskills | 2,198,262
 21 | Mean_Bandicoot_7481 | 1,863,390
 22 | IveDoneItAtLast | 1,825,918
-23 | LuminousViper | 1,689,564
+23 | LuminousViper | 1,690,172
 24 | thom_orrow | 1,621,485
 25 | GooderZBK | 1,569,495
 26 | ashinamune | 1,500,715
@@ -167,7 +167,7 @@ Rank | Username | Totals Tips
 164 | SetoXlll | 100,000
 165 | adrefofadre | 99,717
 166 | MelonFarmer420 | 99,641
-167 | shreyaskg | 97,663
+167 | shreyaskg | 97,732
 168 | ashketchup422 | 97,225
 169 | Knaeggebrott | 97,076
 170 | BrendanTFirefly | 94,857
