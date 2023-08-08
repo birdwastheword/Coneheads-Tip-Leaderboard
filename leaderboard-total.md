@@ -5,8 +5,8 @@ Rank | Username | Totals Tips
 2 | Bitdream200K | 18,841,076
 3 | Wonderful_Bad6531 | 12,499,112
 4 | Parush9 | 10,287,311
-5 | ConeDesk | 9,814,807
-6 | crypto_grandma | 8,266,752
+5 | ConeDesk | 9,926,023
+6 | crypto_grandma | 8,286,752
 7 | SammyCraigar | 7,121,486
 8 | rikbona | 4,534,779
 9 | bigbilly1234567899 | 4,356,688
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | Independent_Heart_15 | 578,825
 55 | Feetfailmenot | 543,941
 56 | Due_Insurance8159 | 529,004
-57 | evilninjarobot | 478,894
+57 | evilninjarobot | 479,502
 58 | birdwastheword | 460,175
 59 | Alanski22 | 451,717
 60 | Mopeiooo | 427,266
