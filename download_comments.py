@@ -38,7 +38,6 @@ headers = {
 }
 
 # Collect all JSON batches in one file
-comments_total = json.loads("[]")
 tips_csv = "utc, from_user, to_user, amount, currency, sub_reddit\r\n"
 
 def process(data):
@@ -72,16 +71,9 @@ while after != None :
   process(data["data"])
   after = (data["data"]["after"])
 
-#Save the raw JSON to file
-filename = f"runs/{yesterday.date()}/comments.json"
-os.makedirs(os.path.dirname(filename), exist_ok=True)
-f = open(filename, "w")
-f.write(json.dumps(comments_total))
-print(f"written to {f.name}")
-f.close()
-
 #Save the comment tip to CSV file
 filename = f"runs/{yesterday.date()}/tips.csv"
+os.makedirs(os.path.dirname(filename), exist_ok=True)
 f = open(filename, "w")
 f.write(tips_csv)
 print(f"written to {f.name}")
