@@ -92,7 +92,7 @@ Rank | Username | Totals Tips
 89 | BeardedBro_ | 223,068
 90 | thecrabdad | 216,909
 91 | Zalkwalker | 216,803
-92 | joeviani | 213,131
+92 | joeviani | 213,232
 93 | redditavanft | 194,822
 94 | AverageLiberalJoe | 194,376
 95 | SourBeefHoop | 192,213
