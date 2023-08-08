@@ -1,4 +1,4 @@
-Last updated: 23-08-08 20:50:47 UTC  
+Last updated: 23-08-08 21:17:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -12,9 +12,9 @@ Rank | Username | Totals Tips
 9 | bigbilly1234567899 | 4,356,688
 10 | Homeslicekilla | 4,138,912
 11 | HippieStarTraveler | 3,878,341
-12 | thelonliestcrowd | 3,159,899
+12 | thelonliestcrowd | 3,165,225
 13 | redzrex | 2,987,151
-14 | Jeff5704 | 2,945,789
+14 | Jeff5704 | 2,951,115
 15 | avyun | 2,617,051
 16 | ZukoBih | 2,490,102
 17 | VIVOffical | 2,339,936
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | HestiaIsTheBestia | 1,188,043
 33 | LordBobTheWhale | 1,129,327
 34 | ImAlekBan | 1,055,603
-35 | swampyswede | 1,029,908
+35 | swampyswede | 1,032,571
 36 | WarmBiertje | 1,000,000
 37 | thee_monster | 896,696
 38 | saintajoras | 885,587
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | DontLaughArt | 721,353
 43 | starterpack420694 | 710,420
 44 | WarmIyWacky | 675,624
-45 | cutsickass | 650,721
+45 | cutsickass | 654,277
 46 | goldyluckinblokchain | 646,047
 47 | Autom4tic_Soze | 621,510
 48 | frickdom | 615,614
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | sinlesco | 388,070
 68 | Lady_Lucks_Man | 372,903
 69 | CluelessSurvivor | 361,324
-70 | Cravensworth_redux | 357,307
+70 | Cravensworth_redux | 359,307
 71 | dronegeeks1 | 356,168
 72 | LrnFaroeseWthBergur | 354,927
 73 | SKITZ_ZA | 348,993
@@ -94,15 +94,15 @@ Rank | Username | Totals Tips
 91 | BeardedBro_ | 223,068
 92 | thecrabdad | 216,909
 93 | Zalkwalker | 216,803
-94 | joeviani | 214,233
-95 | redditavanft | 194,822
-96 | AverageLiberalJoe | 194,376
-97 | SourBeefHoop | 192,213
-98 | Beenthorny | 192,043
-99 | CedricDiccory | 190,387
-100 | MuhSound | 189,763
-101 | MediaPrestigious8342 | 189,647
-102 | doktastonks | 188,083
+94 | doktastonks | 214,746
+95 | joeviani | 214,233
+96 | redditavanft | 194,822
+97 | AverageLiberalJoe | 194,376
+98 | SourBeefHoop | 192,213
+99 | Beenthorny | 192,043
+100 | CedricDiccory | 190,387
+101 | MuhSound | 189,763
+102 | MediaPrestigious8342 | 189,647
 103 | Skank_cunt_42 | 181,809
 104 | isthistomorrow_ | 180,871
 105 | SigSalvadore | 179,337
@@ -116,7 +116,7 @@ Rank | Username | Totals Tips
 113 | Esco1980 | 160,702
 114 | SnooMacarons9203 | 160,461
 115 | YourThighsWarmMyEars | 160,407
-116 | Flimsy_Brilliant_239 | 159,978
+116 | Flimsy_Brilliant_239 | 160,398
 117 | ruccarucca | 157,894
 118 | 6reficul | 153,884
 119 | Forward_Today2849 | 151,835
@@ -184,7 +184,7 @@ Rank | Username | Totals Tips
 181 | junkwatch | 84,984
 182 | Ashamed_Raccoon9918 | 84,789
 183 | ShopALF | 83,929
-184 | Most_Being_4002 | 79,163
+184 | Most_Being_4002 | 79,583
 185 | wato4000 | 79,158
 186 | GodOfWarGuy737 | 79,069
 187 | Pwny_b0y | 78,826
@@ -204,8 +204,8 @@ Rank | Username | Totals Tips
 201 | HokkaidoNights | 62,857
 202 | ItailianStallion101 | 62,826
 203 | standArtpluto | 62,100
-204 | TubeNerd92 | 61,334
-205 | WhateverAlready | 61,249
+204 | WhateverAlready | 61,926
+205 | TubeNerd92 | 61,334
 206 | dinoyeti | 60,395
 207 | dopelifer09 | 59,501
 208 | UniversalNoobMaster | 59,172
