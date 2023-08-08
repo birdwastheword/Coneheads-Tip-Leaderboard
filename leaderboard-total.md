@@ -1,4 +1,4 @@
-Last updated: 23-08-08 17:52:01 UTC  
+Last updated: 23-08-08 18:28:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -17,11 +17,11 @@ Rank | Username | Totals Tips
 14 | Jeff5704 | 2,945,789
 15 | avyun | 2,617,051
 16 | ZukoBih | 2,490,102
-17 | VIVOffical | 2,331,070
+17 | VIVOffical | 2,339,936
 18 | Ginomania | 2,307,865
 19 | send420nudes | 2,200,833
 20 | Geniuskills | 2,198,262
-21 | Mean_Bandicoot_7481 | 1,856,335
+21 | Mean_Bandicoot_7481 | 1,860,067
 22 | IveDoneItAtLast | 1,825,918
 23 | LuminousViper | 1,689,564
 24 | thom_orrow | 1,621,485
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Affectionate_Hand_76 | 1,399,681
 29 | bray_martin03 | 1,380,770
 30 | _Royal_Insylum | 1,298,924
-31 | transfermymoons | 1,192,428
+31 | transfermymoons | 1,292,428
 32 | HestiaIsTheBestia | 1,188,043
 33 | LordBobTheWhale | 1,129,327
 34 | ImAlekBan | 1,055,603
@@ -72,9 +72,9 @@ Rank | Username | Totals Tips
 69 | CluelessSurvivor | 361,324
 70 | dronegeeks1 | 356,168
 71 | LrnFaroeseWthBergur | 354,927
-72 | SKITZ_ZA | 348,993
-73 | Westy3000 | 345,003
-74 | Cravensworth_redux | 344,307
+72 | Cravensworth_redux | 349,307
+73 | SKITZ_ZA | 348,993
+74 | Westy3000 | 345,003
 75 | CMDRGlamdring | 337,508
 76 | tsudrat | 321,591
 77 | ValiantJudge29500 | 313,968
@@ -83,7 +83,7 @@ Rank | Username | Totals Tips
 80 | VincentVanGTFO | 295,604
 81 | liwipe | 292,869
 82 | Real_Player_0 | 282,702
-83 | djrcollectables | 277,283
+83 | djrcollectables | 279,946
 84 | Tinman_ApE | 276,177
 85 | virmamies | 274,085
 86 | RazPie | 270,909
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | BeardedBro_ | 223,068
 91 | thecrabdad | 216,909
 92 | Zalkwalker | 216,803
-93 | joeviani | 213,232
+93 | joeviani | 214,233
 94 | redditavanft | 194,822
 95 | AverageLiberalJoe | 194,376
 96 | SourBeefHoop | 192,213
@@ -108,9 +108,9 @@ Rank | Username | Totals Tips
 105 | x52x | 175,705
 106 | waterhasnocalories | 173,669
 107 | crodbtc | 169,956
-108 | Street_Addd | 168,161
-109 | superlonelyboy | 166,804
-110 | send_tacoz | 165,821
+108 | send_tacoz | 168,484
+109 | Street_Addd | 168,161
+110 | superlonelyboy | 166,804
 111 | LongCauliflower6791 | 164,334
 112 | rustyybikes | 161,738
 113 | Esco1980 | 160,702
@@ -211,7 +211,7 @@ Rank | Username | Totals Tips
 208 | MisterM0H0 | 59,122
 209 | TheD1ceMan | 57,861
 210 | hellosamaira | 57,069
-211 | Significant_Talk4943 | 55,840
+211 | Significant_Talk4943 | 56,260
 212 | imbarrydylan | 55,689
 213 | shellystarzz | 55,401
 214 | orangesandonions | 54,718
