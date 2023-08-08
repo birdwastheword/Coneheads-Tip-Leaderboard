@@ -12,7 +12,7 @@ cliend_secret = os.environ["CLIENT_SECRET"]
 username = os.environ["REDDIT_NAME"]
 password = os.environ["PASSWORD"]
 token = base64.b64encode(f"{client_id}:{cliend_secret}".encode('utf-8')).decode("ascii")
-yesterday = datetime.datetime.now() - datetime.timedelta(days = 1)
+today = datetime.datetime.now()
 
 # Obtain JTW
 conn = http.client.HTTPSConnection("www.reddit.com")
@@ -48,7 +48,7 @@ def process(data):
     global tips_csv
     res = re.match("(/u/\w+)\W(has)\W(tipped)\W(/u/\w+)\W(\d+)\W(Bitcone)", comment["data"]["body"])
     sub = comment["data"]["subreddit_name_prefixed"]
-    if(res and (utc.date() == yesterday.date())) :
+    if(res and (utc.date() == today.date())) :
       fromUser = (res.groups()[0])
       toUser = (res.groups()[3])
       amount = int(res.groups()[4])
@@ -58,7 +58,7 @@ def process(data):
 # Download batches of avatarbot comments.
 after = ""
 while after != None :
-  conn.request("GET", f"/user/avatarbot/comments?limit=100&after={after}", payload, headers)
+  conn.request("GET", f"/user/avatarbot/comments?limit=1000&after={after}", payload, headers)
   res = conn.getresponse()
   data = res.read()
   data = json.loads(data.decode("utf-8"))
@@ -66,7 +66,7 @@ while after != None :
   after = (data["data"]["after"])
 
 #Save the comment tip to CSV file
-filename = f"runs/{yesterday.date()}/tips.csv"
+filename = f"runs/{today.date()}/tips.csv"
 os.makedirs(os.path.dirname(filename), exist_ok=True)
 f = open(filename, "w")
 f.write(tips_csv)
