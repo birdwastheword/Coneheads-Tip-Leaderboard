@@ -1,8 +1,8 @@
 # Coneheads Tip Leaderboard
-Scripts to create a daily leaderboard based on tips processed by https://www.reddit.com/user/avatarbot/comments
+Scripts to create leaderboards based on tips processed by https://www.reddit.com/user/avatarbot/comments
 
 # Genaral note on CRON tiggers in `github/workflows`
-Unfortunatly the CRON trigger in Github actions are on a best effort basis and could experience quite some delay.  
+Unfortunatly the CRON triggers in Github actions are on a best effort basis and could experience quite some delay.  
 
 # main.py
 This script will run daily [action](.github/workflows/cron.yml) at `00:15 UTC` and create a daily leaderboard for the previous day.  
