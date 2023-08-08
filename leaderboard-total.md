@@ -1,4 +1,4 @@
-Last updated: 23-08-08 23:31:27 UTC  
+Last updated: 23-08-08 23:40:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
