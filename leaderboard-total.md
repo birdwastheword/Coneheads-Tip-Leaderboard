@@ -1,4 +1,4 @@
-Last updated: 23-08-08 18:40:41 UTC  
+Last updated: 23-08-08 18:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -82,8 +82,8 @@ Rank | Username | Totals Tips
 79 | EffinDrongoC | 301,710
 80 | VincentVanGTFO | 295,604
 81 | liwipe | 292,869
-82 | Real_Player_0 | 282,702
-83 | djrcollectables | 282,609
+82 | djrcollectables | 285,272
+83 | Real_Player_0 | 282,702
 84 | Tinman_ApE | 276,177
 85 | virmamies | 274,085
 86 | RazPie | 270,909
@@ -227,13 +227,13 @@ Rank | Username | Totals Tips
 224 | lucivaryas | 51,000
 225 | ky0984 | 50,928
 226 | Astrochrono | 49,851
-227 | RollingSkull0 | 48,175
-228 | d_Shazam_b | 48,068
-229 | Tapiz3land | 47,938
-230 | I_AM_MORE_BADASS | 46,832
-231 | redditinchina | 46,704
-232 | BeefaloSlim | 46,647
-233 | UniversalNoobMaster | 46,354
+227 | UniversalNoobMaster | 49,713
+228 | RollingSkull0 | 48,175
+229 | d_Shazam_b | 48,068
+230 | Tapiz3land | 47,938
+231 | I_AM_MORE_BADASS | 46,832
+232 | redditinchina | 46,704
+233 | BeefaloSlim | 46,647
 234 | shredslanding | 45,854
 235 | dealkhabari | 45,433
 236 | qwertywich | 45,329
