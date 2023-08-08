@@ -1,8 +1,8 @@
-Last updated: 23-08-08 18:28:26 UTC  
+Last updated: 23-08-08 18:40:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
-2 | Bitdream200K | 18,841,076
+2 | Bitdream200K | 18,843,739
 3 | Wonderful_Bad6531 | 12,920,222
 4 | Parush9 | 10,287,311
 5 | ConeDesk | 9,942,711
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | bigbilly1234567899 | 4,356,688
 10 | Homeslicekilla | 4,138,912
 11 | HippieStarTraveler | 3,878,341
-12 | thelonliestcrowd | 3,143,921
+12 | thelonliestcrowd | 3,146,584
 13 | redzrex | 2,987,151
 14 | Jeff5704 | 2,945,789
 15 | avyun | 2,617,051
@@ -72,7 +72,7 @@ Rank | Username | Totals Tips
 69 | CluelessSurvivor | 361,324
 70 | dronegeeks1 | 356,168
 71 | LrnFaroeseWthBergur | 354,927
-72 | Cravensworth_redux | 349,307
+72 | Cravensworth_redux | 354,307
 73 | SKITZ_ZA | 348,993
 74 | Westy3000 | 345,003
 75 | CMDRGlamdring | 337,508
@@ -83,7 +83,7 @@ Rank | Username | Totals Tips
 80 | VincentVanGTFO | 295,604
 81 | liwipe | 292,869
 82 | Real_Player_0 | 282,702
-83 | djrcollectables | 279,946
+83 | djrcollectables | 282,609
 84 | Tinman_ApE | 276,177
 85 | virmamies | 274,085
 86 | RazPie | 270,909
