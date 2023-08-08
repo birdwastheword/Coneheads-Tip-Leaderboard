@@ -1,6 +1,7 @@
 from collections import defaultdict
 import os
 import csv
+import datetime
 
 totals = defaultdict(lambda:0,{})
 
@@ -26,7 +27,7 @@ for file in os.listdir(directory):
 
 totals = (dict(sorted(totals.items(), key=lambda item: -item[1])))
 rank = 0
-leaderboard = "\r\nRank | Username | Totals Tips\r\n:-|:-|-:\r\n"
+leaderboard = f"Last updated:{datetime.datetime.now().strftime('%y-%m-%d %H:%M:%S')}  \r\nRank | Username | Totals Tips\r\n:-|:-|-:\r\n"
 for name, total in totals.items():
   rank += 1
   leaderboard += f"{rank} | {name.removeprefix(' /u/')} | {'{:,}'.format(total)}\r\n"
