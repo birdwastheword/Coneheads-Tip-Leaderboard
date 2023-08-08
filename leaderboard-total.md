@@ -1,10 +1,10 @@
-Last updated: 23-08-08 19:33:16 UTC  
+Last updated: 23-08-08 19:41:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
-2 | Bitdream200K | 18,843,739
+2 | Bitdream200K | 18,853,739
 3 | Wonderful_Bad6531 | 12,920,222
-4 | Parush9 | 10,287,311
+4 | Parush9 | 10,301,308
 5 | ConeDesk | 9,942,711
 6 | crypto_grandma | 8,387,172
 7 | SammyCraigar | 7,124,149
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | bigbilly1234567899 | 4,356,688
 10 | Homeslicekilla | 4,138,912
 11 | HippieStarTraveler | 3,878,341
-12 | thelonliestcrowd | 3,154,573
+12 | thelonliestcrowd | 3,159,899
 13 | redzrex | 2,987,151
 14 | Jeff5704 | 2,945,789
 15 | avyun | 2,617,051
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Ginomania | 2,307,865
 19 | send420nudes | 2,200,833
 20 | Geniuskills | 2,198,262
-21 | Mean_Bandicoot_7481 | 1,860,067
+21 | Mean_Bandicoot_7481 | 1,862,390
 22 | IveDoneItAtLast | 1,825,918
 23 | LuminousViper | 1,689,564
 24 | thom_orrow | 1,621,485
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | WarmlyWacky | 425,166
 63 | clean_cut89 | 420,574
 64 | unhingedbigfoot | 418,587
-65 | StepAsideSuckers | 400,490
+65 | StepAsideSuckers | 402,958
 66 | MorrisBrett514 | 389,244
 67 | sinlesco | 388,070
 68 | Lady_Lucks_Man | 372,903
@@ -82,7 +82,7 @@ Rank | Username | Totals Tips
 79 | EffinDrongoC | 301,710
 80 | VincentVanGTFO | 295,604
 81 | liwipe | 292,869
-82 | djrcollectables | 287,935
+82 | djrcollectables | 290,598
 83 | Real_Player_0 | 282,702
 84 | Tinman_ApE | 276,177
 85 | virmamies | 274,085
@@ -220,13 +220,13 @@ Rank | Username | Totals Tips
 217 | Jefe0457 | 53,368
 218 | netnemirepxE | 52,645
 219 | ConeHead710 | 52,012
-220 | BitCone_CONE | 51,434
-221 | deedopete | 51,334
-222 | WarningKey6517 | 51,247
-223 | fleshlyLoath | 51,096
-224 | lucivaryas | 51,000
-225 | ky0984 | 50,928
-226 | UniversalNoobMaster | 50,823
+220 | UniversalNoobMaster | 51,513
+221 | BitCone_CONE | 51,434
+222 | deedopete | 51,334
+223 | WarningKey6517 | 51,247
+224 | fleshlyLoath | 51,096
+225 | lucivaryas | 51,000
+226 | ky0984 | 50,928
 227 | Astrochrono | 49,851
 228 | BeefaloSlim | 49,310
 229 | RollingSkull0 | 48,175
@@ -256,9 +256,9 @@ Rank | Username | Totals Tips
 253 | PushyDevoIution | 39,056
 254 | mutinomonem | 38,685
 255 | rowdy1212 | 38,129
-256 | ysnmingle | 38,038
-257 | samer109 | 37,973
-258 | alex_si_davies | 37,564
+256 | alex_si_davies | 38,072
+257 | ysnmingle | 38,038
+258 | samer109 | 37,973
 259 | Brandillio | 37,470
 260 | shitwhenismycakeday | 37,340
 261 | redditisalt | 37,307
