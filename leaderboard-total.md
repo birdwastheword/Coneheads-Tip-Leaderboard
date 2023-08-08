@@ -1,4 +1,4 @@
-Last updated: 23-08-08 14:50:38 UTC  
+Last updated: 23-08-08 15:22:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 12,499,112
 4 | Parush9 | 10,287,311
 5 | ConeDesk | 9,942,711
-6 | crypto_grandma | 8,327,172
+6 | crypto_grandma | 8,347,172
 7 | SammyCraigar | 7,124,149
 8 | rikbona | 4,534,779
 9 | bigbilly1234567899 | 4,356,688
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Mean_Bandicoot_7481 | 1,845,683
 22 | IveDoneItAtLast | 1,814,164
 23 | LuminousViper | 1,689,564
-24 | thom_orrow | 1,618,822
+24 | thom_orrow | 1,621,485
 25 | GooderZBK | 1,569,495
 26 | ashinamune | 1,500,715
 27 | GuyOne | 1,400,277
@@ -78,10 +78,10 @@ Rank | Username | Totals Tips
 75 | tsudrat | 321,591
 76 | farmertypoerror | 313,866
 77 | EffinDrongoC | 301,710
-78 | ValiantJudge29500 | 298,268
+78 | ValiantJudge29500 | 299,268
 79 | VincentVanGTFO | 295,604
 80 | liwipe | 292,869
-81 | Real_Player_0 | 282,094
+81 | Real_Player_0 | 282,702
 82 | djrcollectables | 277,283
 83 | Tinman_ApE | 276,177
 84 | virmamies | 274,085
@@ -166,7 +166,7 @@ Rank | Username | Totals Tips
 163 | Jlt42000 | 100,651
 164 | SetoXlll | 100,000
 165 | adrefofadre | 99,717
-166 | MelonFarmer420 | 98,801
+166 | MelonFarmer420 | 99,221
 167 | shreyaskg | 97,663
 168 | ashketchup422 | 97,225
 169 | Knaeggebrott | 97,076
@@ -390,7 +390,7 @@ Rank | Username | Totals Tips
 387 | seamonkey420 | 12,768
 388 | Fcknsmn | 12,757
 389 | Boggess | 12,715
-390 | MatrixObito8686 | 12,686
+390 | MatrixObito8686 | 12,693
 391 | FixFull | 12,501
 392 | Levl1Critter | 12,500
 393 | couchguitar | 12,490
