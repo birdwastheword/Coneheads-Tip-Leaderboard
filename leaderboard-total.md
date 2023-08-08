@@ -1,11 +1,11 @@
-Last updated: 23-08-08 21:17:16 UTC  
+Last updated: 23-08-08 21:25:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 18,853,739
 3 | Wonderful_Bad6531 | 12,920,799
 4 | Parush9 | 10,328,940
-5 | ConeDesk | 9,948,791
+5 | ConeDesk | 10,052,062
 6 | crypto_grandma | 8,387,172
 7 | SammyCraigar | 7,150,779
 8 | rikbona | 4,534,779
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | HestiaIsTheBestia | 1,188,043
 33 | LordBobTheWhale | 1,129,327
 34 | ImAlekBan | 1,055,603
-35 | swampyswede | 1,032,571
+35 | swampyswede | 1,035,234
 36 | WarmBiertje | 1,000,000
 37 | thee_monster | 896,696
 38 | saintajoras | 885,587
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | DontLaughArt | 721,353
 43 | starterpack420694 | 710,420
 44 | WarmIyWacky | 675,624
-45 | cutsickass | 654,277
+45 | cutsickass | 654,785
 46 | goldyluckinblokchain | 646,047
 47 | Autom4tic_Soze | 621,510
 48 | frickdom | 615,614
@@ -94,8 +94,8 @@ Rank | Username | Totals Tips
 91 | BeardedBro_ | 223,068
 92 | thecrabdad | 216,909
 93 | Zalkwalker | 216,803
-94 | doktastonks | 214,746
-95 | joeviani | 214,233
+94 | joeviani | 215,234
+95 | doktastonks | 214,746
 96 | redditavanft | 194,822
 97 | AverageLiberalJoe | 194,376
 98 | SourBeefHoop | 192,213
