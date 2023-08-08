@@ -25,3 +25,13 @@ jobs:
 
       - name: execute py script
         run: python main.py
+
+      - name: execute py script
+        run: python download_comments.py yesterday
+        
+      - name: commit data
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: Download final version tips.csv
+          committer_name: GitHub Actions
+          committer_email: actions@github.com

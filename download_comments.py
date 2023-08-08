@@ -5,6 +5,7 @@ import urllib.parse
 import base64
 import datetime
 import re
+import sys
 
 # Set up env
 client_id = os.environ["CLIENT_ID"]
@@ -12,7 +13,10 @@ cliend_secret = os.environ["CLIENT_SECRET"]
 username = os.environ["REDDIT_NAME"]
 password = os.environ["PASSWORD"]
 token = base64.b64encode(f"{client_id}:{cliend_secret}".encode('utf-8')).decode("ascii")
-today = datetime.datetime.now()
+
+collect_day = datetime.datetime.now()
+if len(sys.argv) == 2 and sys.argv[1] == 'yesterday':
+  collect_day = datetime.datetime.now() - datetime.timedelta(days = 1)
 
 # Obtain JTW
 conn = http.client.HTTPSConnection("www.reddit.com")
@@ -48,7 +52,7 @@ def process(data):
     global tips_csv
     res = re.match("(/u/\w+)\W(has)\W(tipped)\W(/u/\w+)\W(\d+)\W(Bitcone)", comment["data"]["body"])
     sub = comment["data"]["subreddit_name_prefixed"]
-    if(res and (utc.date() == today.date())) :
+    if(res and (utc.date() == collect_day.date())) :
       fromUser = (res.groups()[0])
       toUser = (res.groups()[3])
       amount = int(res.groups()[4])
@@ -66,7 +70,7 @@ while after != None :
   after = (data["data"]["after"])
 
 #Save the comment tip to CSV file
-filename = f"runs/{today.date()}/tips.csv"
+filename = f"runs/{collect_day.date()}/tips.csv"
 os.makedirs(os.path.dirname(filename), exist_ok=True)
 f = open(filename, "w")
 f.write(tips_csv)
