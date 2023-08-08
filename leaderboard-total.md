@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 12,499,112
 4 | Parush9 | 10,287,311
 5 | ConeDesk | 9,932,103
-6 | crypto_grandma | 8,307,172
+6 | crypto_grandma | 8,327,172
 7 | SammyCraigar | 7,121,486
 8 | rikbona | 4,534,779
 9 | bigbilly1234567899 | 4,356,688
