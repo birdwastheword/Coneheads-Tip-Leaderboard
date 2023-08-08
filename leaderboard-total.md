@@ -1,9 +1,9 @@
-Last updated: 23-08-08 15:31:01 UTC  
+Last updated: 23-08-08 15:40:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 18,841,076
-3 | Wonderful_Bad6531 | 12,499,112
+3 | Wonderful_Bad6531 | 12,919,802
 4 | Parush9 | 10,287,311
 5 | ConeDesk | 9,942,711
 6 | crypto_grandma | 8,347,172
