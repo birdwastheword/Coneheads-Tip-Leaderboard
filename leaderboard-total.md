@@ -1,4 +1,4 @@
-Last updated: 23-08-08 15:22:25 UTC  
+Last updated: 23-08-08 15:31:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | rikbona | 4,534,779
 9 | bigbilly1234567899 | 4,356,688
 10 | Homeslicekilla | 4,082,909
-11 | HippieStarTraveler | 3,877,921
+11 | HippieStarTraveler | 3,878,341
 12 | thelonliestcrowd | 3,140,452
 13 | redzrex | 2,987,151
 14 | Jeff5704 | 2,945,789
@@ -77,8 +77,8 @@ Rank | Username | Totals Tips
 74 | CMDRGlamdring | 337,508
 75 | tsudrat | 321,591
 76 | farmertypoerror | 313,866
-77 | EffinDrongoC | 301,710
-78 | ValiantJudge29500 | 299,268
+77 | ValiantJudge29500 | 304,268
+78 | EffinDrongoC | 301,710
 79 | VincentVanGTFO | 295,604
 80 | liwipe | 292,869
 81 | Real_Player_0 | 282,702
