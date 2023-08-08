@@ -1,4 +1,4 @@
-Last updated: 23-08-08 19:24:01 UTC  
+Last updated: 23-08-08 19:33:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | bigbilly1234567899 | 4,356,688
 10 | Homeslicekilla | 4,138,912
 11 | HippieStarTraveler | 3,878,341
-12 | thelonliestcrowd | 3,151,910
+12 | thelonliestcrowd | 3,154,573
 13 | redzrex | 2,987,151
 14 | Jeff5704 | 2,945,789
 15 | avyun | 2,617,051
@@ -82,7 +82,7 @@ Rank | Username | Totals Tips
 79 | EffinDrongoC | 301,710
 80 | VincentVanGTFO | 295,604
 81 | liwipe | 292,869
-82 | djrcollectables | 285,272
+82 | djrcollectables | 287,935
 83 | Real_Player_0 | 282,702
 84 | Tinman_ApE | 276,177
 85 | virmamies | 274,085
@@ -226,7 +226,7 @@ Rank | Username | Totals Tips
 223 | fleshlyLoath | 51,096
 224 | lucivaryas | 51,000
 225 | ky0984 | 50,928
-226 | UniversalNoobMaster | 50,403
+226 | UniversalNoobMaster | 50,823
 227 | Astrochrono | 49,851
 228 | BeefaloSlim | 49,310
 229 | RollingSkull0 | 48,175
