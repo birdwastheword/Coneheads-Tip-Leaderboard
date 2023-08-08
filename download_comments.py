@@ -44,12 +44,6 @@ def process(data):
   for comment in data["children"]:
     utc = datetime.datetime.utcfromtimestamp(comment["data"]["created_utc"])
 
-    #Save raw JSON for future use
-    global comments_total
-    if utc.date() == yesterday.date() :
-      print(f"comment from {utc}")
-      comments_total += [comment["data"]]
-
     #Save comment tip in CSV
     global tips_csv
     res = re.match("(/u/\w+)\W(has)\W(tipped)\W(/u/\w+)\W(\d+)\W(Bitcone)", comment["data"]["body"])
