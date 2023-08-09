@@ -1,4 +1,4 @@
-Last updated: 23-08-09 17:25:12 UTC  
+Last updated: 23-08-09 17:33:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | Due_Insurance8159 | 529,004
 58 | evilninjarobot | 479,502
 59 | birdwastheword | 468,813
-60 | Alanski22 | 451,717
+60 | Alanski22 | 454,380
 61 | Mopeiooo | 427,266
 62 | WarmlyWacky | 425,166
 63 | clean_cut89 | 420,574
@@ -91,22 +91,22 @@ Rank | Username | Totals Tips
 88 | x52x | 250,606
 89 | adrifing | 238,164
 90 | Sattack4000 | 229,721
-91 | BeardedBro_ | 223,068
-92 | thecrabdad | 216,909
-93 | Zalkwalker | 216,803
-94 | joeviani | 215,234
-95 | doktastonks | 214,746
-96 | redditavanft | 194,822
-97 | AverageLiberalJoe | 194,376
-98 | MuhSound | 193,642
-99 | SourBeefHoop | 192,213
-100 | Beenthorny | 192,043
-101 | CedricDiccory | 190,387
-102 | MediaPrestigious8342 | 189,647
-103 | Skank_cunt_42 | 182,072
-104 | isthistomorrow_ | 180,871
-105 | SigSalvadore | 179,337
-106 | waterhasnocalories | 174,221
+91 | waterhasnocalories | 224,221
+92 | BeardedBro_ | 223,068
+93 | thecrabdad | 216,909
+94 | Zalkwalker | 216,803
+95 | joeviani | 215,234
+96 | doktastonks | 214,746
+97 | redditavanft | 194,822
+98 | AverageLiberalJoe | 194,376
+99 | MuhSound | 193,642
+100 | SourBeefHoop | 192,213
+101 | Beenthorny | 192,043
+102 | CedricDiccory | 190,387
+103 | MediaPrestigious8342 | 189,647
+104 | Skank_cunt_42 | 182,072
+105 | isthistomorrow_ | 180,871
+106 | SigSalvadore | 179,337
 107 | send_tacoz | 171,147
 108 | crodbtc | 169,956
 109 | superlonelyboy | 169,467
@@ -147,7 +147,7 @@ Rank | Username | Totals Tips
 144 | tjex666 | 122,101
 145 | GoodMornEveGoodNight | 121,118
 146 | Schl0tz | 120,000
-147 | UWphoto | 119,249
+147 | UWphoto | 119,669
 148 | mvea | 115,748
 149 | nooobmaester69 | 115,093
 150 | Fox1931 | 114,000
