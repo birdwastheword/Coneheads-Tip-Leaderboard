@@ -1,4 +1,4 @@
-Last updated: 23-08-09 21:17:32 UTC  
+Last updated: 23-08-09 21:30:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -8,11 +8,11 @@ Rank | Username | Totals Tips
 5 | ConeDesk | 10,334,361
 6 | crypto_grandma | 8,709,845
 7 | Homeslicekilla | 7,238,912
-8 | SammyCraigar | 7,156,713
+8 | SammyCraigar | 7,157,321
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,341
-12 | thelonliestcrowd | 3,181,203
+12 | thelonliestcrowd | 3,183,866
 13 | Jeff5704 | 3,105,608
 14 | redzrex | 2,987,151
 15 | avyun | 2,625,111
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | send420nudes | 2,200,833
 21 | Mean_Bandicoot_7481 | 1,904,335
 22 | IveDoneItAtLast | 1,888,882
-23 | LuminousViper | 1,698,769
+23 | LuminousViper | 1,699,377
 24 | thom_orrow | 1,621,485
 25 | ashinamune | 1,586,041
 26 | GooderZBK | 1,570,103
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | thee_monster | 896,696
 39 | saintajoras | 886,237
 40 | Modestexcuse | 873,297
-41 | investigator100 | 841,963
+41 | investigator100 | 844,626
 42 | _ships | 733,766
 43 | DontLaughArt | 721,353
 44 | starterpack420694 | 710,420
@@ -268,15 +268,15 @@ Rank | Username | Totals Tips
 265 | Zap1324 | 36,891
 266 | ultra_terrestrial | 36,751
 267 | _Mitchee_ | 36,367
-268 | Imalittlestitious86 | 36,181
-269 | lovenets_ | 35,568
-270 | CrossPuffs | 35,430
-271 | urlz | 35,060
-272 | Clonkerz | 34,840
-273 | CryptoScamee42069 | 34,414
-274 | Adrewmc | 34,177
-275 | zuzieey7719 | 33,724
-276 | RegalReptile_ | 33,577
+268 | RegalReptile_ | 36,240
+269 | Imalittlestitious86 | 36,181
+270 | lovenets_ | 35,568
+271 | CrossPuffs | 35,430
+272 | urlz | 35,060
+273 | Clonkerz | 34,840
+274 | CryptoScamee42069 | 34,414
+275 | Adrewmc | 34,177
+276 | zuzieey7719 | 33,724
 277 | preemcuz | 33,443
 278 | Gerboogler | 33,314
 279 | xxapplej4ckx | 33,181
@@ -614,9 +614,9 @@ Rank | Username | Totals Tips
 611 | OddNebula2844 | 1,999
 612 | Fit_Win_541 | 1,953
 613 | theRealVim | 1,930
-614 | towntoglfeddfxyxxx | 1,885
-615 | bricks_n_coins | 1,840
-616 | Burzzzt88 | 1,820
+614 | Burzzzt88 | 1,889
+615 | towntoglfeddfxyxxx | 1,885
+616 | bricks_n_coins | 1,840
 617 | virginia669 | 1,791
 618 | lostaga1n | 1,720
 619 | PuzzleheadedDream830 | 1,650
