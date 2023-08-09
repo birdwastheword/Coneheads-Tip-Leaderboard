@@ -1,4 +1,4 @@
-Last updated: 23-08-09 07:50:44 UTC  
+Last updated: 23-08-09 08:29:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -151,9 +151,9 @@ Rank | Username | Totals Tips
 148 | mvea | 115,748
 149 | nooobmaester69 | 115,093
 150 | Fox1931 | 114,000
-151 | alexthemay | 112,616
-152 | sjakkpila | 112,163
-153 | Mj_6o4 | 112,006
+151 | Mj_6o4 | 113,222
+152 | alexthemay | 112,616
+153 | sjakkpila | 112,163
 154 | zdubs | 110,381
 155 | billywright4 | 110,076
 156 | Dry_Badger_2403 | 110,000
@@ -197,8 +197,8 @@ Rank | Username | Totals Tips
 194 | abracadabra087 | 70,326
 195 | DAMG808 | 69,365
 196 | adi_00_ | 69,095
-197 | beanwiggin420 | 66,564
-198 | UniversalNoobMaster | 66,141
+197 | UniversalNoobMaster | 66,831
+198 | beanwiggin420 | 66,564
 199 | imp3order | 65,546
 200 | Jadenindubai | 65,511
 201 | damnusernamegotcutof | 65,004
