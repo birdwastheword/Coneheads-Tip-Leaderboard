@@ -1,4 +1,4 @@
-Last updated: 23-08-09 20:50:42 UTC  
+Last updated: 23-08-09 21:17:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,341
-12 | thelonliestcrowd | 3,178,540
+12 | thelonliestcrowd | 3,181,203
 13 | Jeff5704 | 3,105,608
 14 | redzrex | 2,987,151
 15 | avyun | 2,625,111
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | send420nudes | 2,200,833
 21 | Mean_Bandicoot_7481 | 1,904,335
 22 | IveDoneItAtLast | 1,888,882
-23 | LuminousViper | 1,695,498
+23 | LuminousViper | 1,698,769
 24 | thom_orrow | 1,621,485
 25 | ashinamune | 1,586,041
 26 | GooderZBK | 1,570,103
@@ -127,8 +127,8 @@ Rank | Username | Totals Tips
 124 | martymartinator | 150,595
 125 | YarOldeOrchard | 147,242
 126 | maxfra | 145,908
-127 | legionticket | 144,762
-128 | ShortBusCult | 144,411
+127 | ShortBusCult | 144,831
+128 | legionticket | 144,762
 129 | Gregoryonetulum | 144,114
 130 | NotFullyTerrestrial | 143,198
 131 | Sad_Entertainer9961 | 140,941
@@ -186,16 +186,16 @@ Rank | Username | Totals Tips
 183 | ID404_Not_Found_8964 | 85,087
 184 | Ashamed_Raccoon9918 | 84,789
 185 | ShopALF | 83,929
-186 | Most_Being_4002 | 80,843
-187 | DAMG808 | 79,785
-188 | customsolitaires | 79,704
-189 | wato4000 | 79,158
-190 | GodOfWarGuy737 | 79,069
-191 | Pwny_b0y | 78,826
-192 | Kevin3683 | 78,354
-193 | youtooleyesing | 75,815
-194 | Puzzleheaded_Gift738 | 75,589
-195 | UniversalNoobMaster | 75,180
+186 | UniversalNoobMaster | 82,149
+187 | Most_Being_4002 | 80,843
+188 | DAMG808 | 79,785
+189 | customsolitaires | 79,704
+190 | wato4000 | 79,158
+191 | GodOfWarGuy737 | 79,069
+192 | Pwny_b0y | 78,826
+193 | Kevin3683 | 78,354
+194 | youtooleyesing | 75,815
+195 | Puzzleheaded_Gift738 | 75,589
 196 | Derefringence | 74,536
 197 | MedicineMaterial3501 | 73,988
 198 | beanwiggin420 | 70,564
