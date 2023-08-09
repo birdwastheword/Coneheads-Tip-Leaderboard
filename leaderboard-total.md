@@ -1,4 +1,4 @@
-Last updated: 23-08-09 07:40:48 UTC  
+Last updated: 23-08-09 07:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | transfermymoons | 1,292,428
 32 | HestiaIsTheBestia | 1,188,043
 33 | LordBobTheWhale | 1,129,327
-34 | ImAlekBan | 1,064,012
+34 | ImAlekBan | 1,064,081
 35 | swampyswede | 1,035,234
 36 | WarmBiertje | 1,000,000
 37 | thee_monster | 896,696
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | DontLaughArt | 721,353
 44 | starterpack420694 | 710,420
 45 | WarmIyWacky | 675,624
-46 | cutsickass | 665,699
+46 | cutsickass | 668,362
 47 | goldyluckinblokchain | 646,047
 48 | frickdom | 615,614
 49 | femacampcouncilor | 599,725
