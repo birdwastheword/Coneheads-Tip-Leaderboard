@@ -1,4 +1,4 @@
-Last updated: 23-08-09 19:16:00 UTC  
+Last updated: 23-08-09 19:24:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -196,8 +196,8 @@ Rank | Username | Totals Tips
 193 | youtooleyesing | 75,815
 194 | Puzzleheaded_Gift738 | 75,589
 195 | Derefringence | 74,536
-196 | MedicineMaterial3501 | 73,988
-197 | UniversalNoobMaster | 73,800
+196 | UniversalNoobMaster | 74,490
+197 | MedicineMaterial3501 | 73,988
 198 | beanwiggin420 | 70,564
 199 | adi_00_ | 69,095
 200 | imp3order | 65,546
@@ -275,7 +275,7 @@ Rank | Username | Totals Tips
 272 | Clonkerz | 34,840
 273 | CryptoScamee42069 | 34,414
 274 | Adrewmc | 34,177
-275 | zuzieey7719 | 33,655
+275 | zuzieey7719 | 33,724
 276 | preemcuz | 33,443
 277 | Gerboogler | 33,314
 278 | xxapplej4ckx | 33,181
@@ -555,10 +555,10 @@ Rank | Username | Totals Tips
 552 | elksteaksdmt | 3,290
 553 | acfranks | 3,290
 554 | sparanaghcoar | 3,286
-555 | Glitzxc | 3,171
-556 | PopLegion | 3,152
-557 | skollywag92 | 3,083
-558 | Lillica_Golden_SHIB | 3,060
+555 | Lillica_Golden_SHIB | 3,198
+556 | Glitzxc | 3,171
+557 | PopLegion | 3,152
+558 | skollywag92 | 3,083
 559 | obaming16 | 3,007
 560 | KingPaladin | 3,000
 561 | Soil_Electronic | 2,997
