@@ -1,4 +1,4 @@
-Last updated: 23-08-09 06:28:37 UTC  
+Last updated: 23-08-09 06:40:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | _ships | 733,766
 42 | DontLaughArt | 721,353
 43 | starterpack420694 | 710,420
-44 | Autom4tic_Soze | 682,621
+44 | Autom4tic_Soze | 685,284
 45 | WarmIyWacky | 675,624
 46 | cutsickass | 662,020
 47 | goldyluckinblokchain | 646,047
@@ -162,9 +162,9 @@ Rank | Username | Totals Tips
 159 | lordciders | 106,460
 160 | Chanyuui1 | 103,430
 161 | PortCity_MadMan | 101,608
-162 | flying_bacon | 100,717
-163 | Jlt42000 | 100,651
-164 | MelonFarmer420 | 100,481
+162 | MelonFarmer420 | 100,910
+163 | flying_bacon | 100,717
+164 | Jlt42000 | 100,651
 165 | SetoXlll | 100,000
 166 | adrefofadre | 99,717
 167 | shreyaskg | 97,939
