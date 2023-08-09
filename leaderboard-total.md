@@ -1,4 +1,4 @@
-Last updated: 23-08-09 03:40:37 UTC  
+Last updated: 23-08-09 03:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | DontLaughArt | 721,353
 43 | starterpack420694 | 710,420
 44 | WarmIyWacky | 675,624
-45 | cutsickass | 661,004
+45 | cutsickass | 662,020
 46 | goldyluckinblokchain | 646,047
 47 | Autom4tic_Soze | 621,510
 48 | frickdom | 615,614
