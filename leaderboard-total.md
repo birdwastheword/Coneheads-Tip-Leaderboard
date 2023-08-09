@@ -1,4 +1,4 @@
-Last updated: 23-08-09 08:50:54 UTC  
+Last updated: 23-08-09 09:21:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 12,920,799
 4 | Parush9 | 10,328,940
 5 | ConeDesk | 10,079,300
-6 | crypto_grandma | 8,439,835
+6 | crypto_grandma | 8,540,845
 7 | SammyCraigar | 7,150,779
 8 | rikbona | 4,534,779
 9 | bigbilly1234567899 | 4,356,688
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | send420nudes | 2,200,833
 20 | Geniuskills | 2,198,262
 21 | Mean_Bandicoot_7481 | 1,904,335
-22 | IveDoneItAtLast | 1,841,896
+22 | IveDoneItAtLast | 1,844,559
 23 | LuminousViper | 1,690,172
 24 | thom_orrow | 1,621,485
 25 | GooderZBK | 1,569,495
@@ -80,14 +80,14 @@ Rank | Username | Totals Tips
 77 | ValiantJudge29500 | 314,968
 78 | farmertypoerror | 313,866
 79 | EffinDrongoC | 301,710
-80 | djrcollectables | 295,924
+80 | djrcollectables | 301,250
 81 | VincentVanGTFO | 295,604
 82 | liwipe | 292,869
-83 | Real_Player_0 | 283,310
+83 | Real_Player_0 | 283,918
 84 | Tinman_ApE | 276,177
 85 | virmamies | 274,085
 86 | RazPie | 270,909
-87 | ArtConsitent | 269,178
+87 | ArtConsitent | 270,178
 88 | adrifing | 238,164
 89 | x52x | 235,606
 90 | Sattack4000 | 229,721
@@ -136,8 +136,8 @@ Rank | Username | Totals Tips
 133 | MymannosaurusRex | 135,756
 134 | SalliIsAFem | 135,292
 135 | GrowinStuffAndThings | 134,506
-136 | 002_timmy | 131,385
-137 | noface_reddit | 131,065
+136 | noface_reddit | 133,728
+137 | 002_timmy | 131,385
 138 | beastlybaker | 130,267
 139 | CoverYourMaskHoles | 128,091
 140 | CalligrapherEnough83 | 127,227
@@ -194,10 +194,10 @@ Rank | Username | Totals Tips
 191 | Puzzleheaded_Gift738 | 75,589
 192 | Derefringence | 74,536
 193 | MedicineMaterial3501 | 73,988
-194 | abracadabra087 | 70,326
-195 | DAMG808 | 69,365
-196 | adi_00_ | 69,095
-197 | UniversalNoobMaster | 66,831
+194 | UniversalNoobMaster | 73,800
+195 | abracadabra087 | 70,326
+196 | DAMG808 | 69,365
+197 | adi_00_ | 69,095
 198 | beanwiggin420 | 66,564
 199 | imp3order | 65,546
 200 | Jadenindubai | 65,511
