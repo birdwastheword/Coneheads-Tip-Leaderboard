@@ -1,4 +1,4 @@
-Last updated: 23-08-09 22:51:11 UTC  
+Last updated: 23-08-09 23:19:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -8,12 +8,12 @@ Rank | Username | Totals Tips
 5 | ConeDesk | 10,334,361
 6 | crypto_grandma | 8,709,845
 7 | Homeslicekilla | 7,238,912
-8 | SammyCraigar | 7,183,951
+8 | SammyCraigar | 7,186,614
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,341
-12 | thelonliestcrowd | 3,183,866
-13 | Jeff5704 | 3,132,245
+12 | thelonliestcrowd | 3,210,503
+13 | Jeff5704 | 3,137,571
 14 | redzrex | 2,987,151
 15 | avyun | 2,625,111
 16 | ZukoBih | 2,522,428
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | YourThighsWarmMyEars | 160,407
 120 | ruccarucca | 157,894
 121 | 6reficul | 153,884
-122 | Forward_Today2849 | 151,835
+122 | Forward_Today2849 | 153,069
 123 | the_judge_168 | 151,449
 124 | martymartinator | 150,595
 125 | YarOldeOrchard | 147,242
@@ -187,7 +187,7 @@ Rank | Username | Totals Tips
 184 | ID404_Not_Found_8964 | 85,087
 185 | Ashamed_Raccoon9918 | 84,789
 186 | ShopALF | 83,929
-187 | Most_Being_4002 | 80,843
+187 | Most_Being_4002 | 83,926
 188 | DAMG808 | 79,785
 189 | customsolitaires | 79,704
 190 | wato4000 | 79,158
@@ -255,18 +255,18 @@ Rank | Username | Totals Tips
 252 | matdabom | 40,068
 253 | YourLocalDuskFox | 40,000
 254 | Diamond_PnutBrain | 39,721
-255 | PushyDevoIution | 39,056
-256 | mutinomonem | 38,685
-257 | rowdy1212 | 38,129
-258 | alex_si_davies | 38,072
-259 | ysnmingle | 38,038
-260 | samer109 | 37,973
-261 | Brandillio | 37,470
-262 | shitwhenismycakeday | 37,340
-263 | redditisalt | 37,307
-264 | SpookySYN | 37,182
-265 | Zap1324 | 36,891
-266 | ultra_terrestrial | 36,751
+255 | ultra_terrestrial | 39,414
+256 | PushyDevoIution | 39,056
+257 | mutinomonem | 38,685
+258 | rowdy1212 | 38,129
+259 | alex_si_davies | 38,072
+260 | ysnmingle | 38,038
+261 | samer109 | 37,973
+262 | Brandillio | 37,470
+263 | shitwhenismycakeday | 37,340
+264 | redditisalt | 37,307
+265 | SpookySYN | 37,182
+266 | Zap1324 | 36,891
 267 | _Mitchee_ | 36,367
 268 | RegalReptile_ | 36,240
 269 | Imalittlestitious86 | 36,181
