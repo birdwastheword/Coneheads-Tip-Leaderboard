@@ -1,5 +1,5 @@
 Tips Hall of Fame:
-Rank | Date | Username | Totals Tips | to User
+Rank | Date | Username | Totals Tips | to User
 :-|:-|:-|-:|:-
 1 | 2023-07-29 10:14:39 | Wonderful_Bad6531 | 4,500,000| Bitdream200K
 2 | 2023-08-04 04:36:17 | Bitdream200K | 3,000,000| OutrageousStudy6752

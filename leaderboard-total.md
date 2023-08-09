@@ -1,4 +1,4 @@
-Last updated: 23-08-09 07:30:54 UTC  
+Last updated: 23-08-09 07:40:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -42,11 +42,11 @@ Rank | Username | Totals Tips
 39 | Modestexcuse | 873,297
 40 | investigator100 | 809,322
 41 | _ships | 733,766
-42 | DontLaughArt | 721,353
-43 | starterpack420694 | 710,420
-44 | Autom4tic_Soze | 686,285
+42 | Autom4tic_Soze | 731,017
+43 | DontLaughArt | 721,353
+44 | starterpack420694 | 710,420
 45 | WarmIyWacky | 675,624
-46 | cutsickass | 663,036
+46 | cutsickass | 665,699
 47 | goldyluckinblokchain | 646,047
 48 | frickdom | 615,614
 49 | femacampcouncilor | 599,725
