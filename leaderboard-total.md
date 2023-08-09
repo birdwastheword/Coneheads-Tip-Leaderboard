@@ -1,4 +1,4 @@
-Last updated: 23-08-09 23:19:28 UTC  
+Last updated: 23-08-09 23:30:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -203,10 +203,10 @@ Rank | Username | Totals Tips
 200 | imp3order | 65,546
 201 | Jadenindubai | 65,511
 202 | damnusernamegotcutof | 65,004
-203 | TubeNerd92 | 63,997
-204 | HokkaidoNights | 62,857
-205 | ItailianStallion101 | 62,826
-206 | dopelifer09 | 62,164
+203 | dopelifer09 | 64,827
+204 | TubeNerd92 | 63,997
+205 | HokkaidoNights | 62,857
+206 | ItailianStallion101 | 62,826
 207 | standArtpluto | 62,100
 208 | WhateverAlready | 61,926
 209 | dinoyeti | 60,395
