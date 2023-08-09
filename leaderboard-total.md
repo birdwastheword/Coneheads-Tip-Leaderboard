@@ -1,4 +1,4 @@
-Last updated: 23-08-09 17:33:45 UTC  
+Last updated: 23-08-09 17:42:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,341
 12 | thelonliestcrowd | 3,175,877
-13 | Jeff5704 | 3,047,004
+13 | Jeff5704 | 3,073,641
 14 | redzrex | 2,987,151
 15 | avyun | 2,617,051
 16 | ZukoBih | 2,521,428
@@ -79,7 +79,7 @@ Rank | Username | Totals Tips
 76 | Westy3000 | 345,003
 77 | CMDRGlamdring | 340,171
 78 | tsudrat | 321,591
-79 | ValiantJudge29500 | 316,968
+79 | ValiantJudge29500 | 318,968
 80 | farmertypoerror | 313,866
 81 | djrcollectables | 306,576
 82 | EffinDrongoC | 301,710
