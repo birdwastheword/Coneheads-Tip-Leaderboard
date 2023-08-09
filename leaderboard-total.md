@@ -1,4 +1,4 @@
-Last updated: 23-08-09 18:30:13 UTC  
+Last updated: 23-08-09 18:40:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | _Royal_Insylum | 1,298,924
 31 | transfermymoons | 1,292,428
 32 | HestiaIsTheBestia | 1,188,043
-33 | Autom4tic_Soze | 1,145,592
+33 | Autom4tic_Soze | 1,152,492
 34 | LordBobTheWhale | 1,129,747
 35 | swampyswede | 1,072,885
 36 | ImAlekBan | 1,071,633
@@ -102,14 +102,14 @@ Rank | Username | Totals Tips
 99 | redditavanft | 194,822
 100 | AverageLiberalJoe | 194,376
 101 | MuhSound | 193,642
-102 | SourBeefHoop | 192,213
-103 | Beenthorny | 192,043
-104 | CedricDiccory | 190,387
-105 | MediaPrestigious8342 | 189,647
-106 | Skank_cunt_42 | 182,072
-107 | isthistomorrow_ | 180,871
-108 | SigSalvadore | 179,337
-109 | rustyybikes | 174,468
+102 | rustyybikes | 193,109
+103 | SourBeefHoop | 192,213
+104 | Beenthorny | 192,043
+105 | CedricDiccory | 190,387
+106 | MediaPrestigious8342 | 189,647
+107 | Skank_cunt_42 | 182,072
+108 | isthistomorrow_ | 180,871
+109 | SigSalvadore | 179,337
 110 | send_tacoz | 173,810
 111 | crodbtc | 169,956
 112 | superlonelyboy | 169,467
@@ -288,10 +288,10 @@ Rank | Username | Totals Tips
 285 | 4gsboofd | 31,142
 286 | OutTop | 31,069
 287 | RegalReptile_ | 30,914
-288 | Yirii | 30,605
-289 | See0tter | 30,510
-290 | shiesto | 30,339
-291 | mastermarvs | 30,276
+288 | mastermarvs | 30,696
+289 | Yirii | 30,605
+290 | See0tter | 30,510
+291 | shiesto | 30,339
 292 | LX1070 | 30,202
 293 | rOn3OW | 30,106
 294 | Doovs | 29,967
