@@ -1,8 +1,8 @@
-Last updated: 23-08-09 15:44:02 UTC  
+Last updated: 23-08-09 15:52:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
-2 | Bitdream200K | 18,973,739
+2 | Bitdream200K | 18,983,739
 3 | Wonderful_Bad6531 | 12,920,799
 4 | Parush9 | 10,398,360
 5 | ConeDesk | 10,205,444
@@ -13,8 +13,8 @@ Rank | Username | Totals Tips
 10 | Homeslicekilla | 4,138,912
 11 | HippieStarTraveler | 3,878,341
 12 | thelonliestcrowd | 3,167,888
-13 | redzrex | 2,987,151
-14 | Jeff5704 | 2,980,415
+13 | Jeff5704 | 3,012,378
+14 | redzrex | 2,987,151
 15 | avyun | 2,617,051
 16 | ZukoBih | 2,519,428
 17 | VIVOffical | 2,342,599
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | ashinamune | 1,586,041
 26 | GooderZBK | 1,569,495
 27 | Affectionate_Hand_76 | 1,409,681
-28 | GuyOne | 1,401,493
+28 | GuyOne | 1,404,156
 29 | bray_martin03 | 1,380,770
 30 | _Royal_Insylum | 1,298,924
 31 | transfermymoons | 1,292,428
@@ -72,8 +72,8 @@ Rank | Username | Totals Tips
 69 | RazPie | 370,909
 70 | CluelessSurvivor | 361,744
 71 | Cravensworth_redux | 361,307
-72 | dronegeeks1 | 356,168
-73 | Real_Player_0 | 355,786
+72 | Real_Player_0 | 358,449
+73 | dronegeeks1 | 356,168
 74 | LrnFaroeseWthBergur | 354,927
 75 | SKITZ_ZA | 348,993
 76 | Westy3000 | 345,003
@@ -179,7 +179,7 @@ Rank | Username | Totals Tips
 176 | IOTA_Tesla | 87,742
 177 | Extreme_Issue7325 | 87,133
 178 | ACorDC | 86,489
-179 | i_wake_up_at_12 | 85,621
+179 | i_wake_up_at_12 | 86,229
 180 | junkwatch | 85,404
 181 | ID404_Not_Found_8964 | 85,087
 182 | Ashamed_Raccoon9918 | 84,789
@@ -264,8 +264,8 @@ Rank | Username | Totals Tips
 261 | redditisalt | 37,307
 262 | SpookySYN | 37,182
 263 | Zap1324 | 36,891
-264 | _Mitchee_ | 36,367
-265 | ultra_terrestrial | 36,262
+264 | ultra_terrestrial | 36,682
+265 | _Mitchee_ | 36,367
 266 | Imalittlestitious86 | 36,181
 267 | lovenets_ | 35,568
 268 | CrossPuffs | 35,430
@@ -332,9 +332,9 @@ Rank | Username | Totals Tips
 329 | Sparrow | 22,145
 330 | Particular_Equal_490 | 22,118
 331 | africanasshat | 22,084
-332 | mofayew | 21,840
-333 | Tasty_Bag | 21,375
-334 | AlternativeBag2619 | 21,298
+332 | AlternativeBag2619 | 21,906
+333 | mofayew | 21,840
+334 | Tasty_Bag | 21,375
 335 | ACE415_ | 21,000
 336 | Lucabba | 20,314
 337 | Expensive_Being_4038 | 20,069
