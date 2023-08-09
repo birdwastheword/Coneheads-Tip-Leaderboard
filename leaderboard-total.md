@@ -1,4 +1,4 @@
-Last updated: 23-08-09 20:31:09 UTC  
+Last updated: 23-08-09 20:40:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | redzrex | 2,987,151
 15 | avyun | 2,625,111
 16 | ZukoBih | 2,522,428
-17 | VIVOffical | 2,352,599
+17 | VIVOffical | 2,353,405
 18 | Ginomania | 2,307,865
 19 | Geniuskills | 2,224,892
 20 | send420nudes | 2,200,833
@@ -195,8 +195,8 @@ Rank | Username | Totals Tips
 192 | Kevin3683 | 78,354
 193 | youtooleyesing | 75,815
 194 | Puzzleheaded_Gift738 | 75,589
-195 | Derefringence | 74,536
-196 | UniversalNoobMaster | 74,490
+195 | UniversalNoobMaster | 75,180
+196 | Derefringence | 74,536
 197 | MedicineMaterial3501 | 73,988
 198 | beanwiggin420 | 70,564
 199 | adi_00_ | 69,095
@@ -548,9 +548,9 @@ Rank | Username | Totals Tips
 545 | salt_yaf | 3,706
 546 | carsonthecarsinogen | 3,700
 547 | Mrcoolguynumberone | 3,420
-548 | NEO_R1CH | 3,382
-549 | Big_Beyotch | 3,345
-550 | Lillica_Golden_SHIB | 3,336
+548 | Lillica_Golden_SHIB | 3,405
+549 | NEO_R1CH | 3,382
+550 | Big_Beyotch | 3,345
 551 | superficialization | 3,326
 552 | ziggyback | 3,300
 553 | elksteaksdmt | 3,290
