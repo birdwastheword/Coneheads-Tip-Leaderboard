@@ -1,4 +1,4 @@
-Last updated: 23-08-09 11:33:55 UTC  
+Last updated: 23-08-09 11:42:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | send420nudes | 2,200,833
 20 | Geniuskills | 2,198,262
 21 | Mean_Bandicoot_7481 | 1,904,335
-22 | IveDoneItAtLast | 1,844,559
+22 | IveDoneItAtLast | 1,850,567
 23 | LuminousViper | 1,695,498
 24 | thom_orrow | 1,621,485
 25 | GooderZBK | 1,569,495
@@ -41,8 +41,8 @@ Rank | Username | Totals Tips
 38 | saintajoras | 885,587
 39 | Modestexcuse | 873,297
 40 | investigator100 | 809,322
-41 | _ships | 733,766
-42 | Autom4tic_Soze | 733,680
+41 | Autom4tic_Soze | 736,343
+42 | _ships | 733,766
 43 | DontLaughArt | 721,353
 44 | starterpack420694 | 710,420
 45 | WarmIyWacky | 675,624
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | Feetfailmenot | 543,941
 57 | Due_Insurance8159 | 529,004
 58 | evilninjarobot | 479,502
-59 | birdwastheword | 461,286
+59 | birdwastheword | 465,730
 60 | Alanski22 | 451,717
 61 | Mopeiooo | 427,266
 62 | WarmlyWacky | 425,166
@@ -73,17 +73,17 @@ Rank | Username | Totals Tips
 70 | Cravensworth_redux | 361,307
 71 | dronegeeks1 | 356,168
 72 | LrnFaroeseWthBergur | 354,927
-73 | SKITZ_ZA | 348,993
-74 | Westy3000 | 345,003
-75 | CMDRGlamdring | 340,171
-76 | tsudrat | 321,591
-77 | ValiantJudge29500 | 314,968
-78 | farmertypoerror | 313,866
-79 | djrcollectables | 303,913
-80 | EffinDrongoC | 301,710
-81 | VincentVanGTFO | 295,604
-82 | liwipe | 292,869
-83 | Real_Player_0 | 283,918
+73 | Real_Player_0 | 353,338
+74 | SKITZ_ZA | 348,993
+75 | Westy3000 | 345,003
+76 | CMDRGlamdring | 340,171
+77 | tsudrat | 321,591
+78 | ValiantJudge29500 | 314,968
+79 | farmertypoerror | 313,866
+80 | djrcollectables | 303,913
+81 | EffinDrongoC | 301,710
+82 | VincentVanGTFO | 295,604
+83 | liwipe | 292,869
 84 | Tinman_ApE | 276,177
 85 | virmamies | 274,085
 86 | RazPie | 270,909
