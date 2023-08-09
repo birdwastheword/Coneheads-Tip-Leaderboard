@@ -1,4 +1,4 @@
-Last updated: 23-08-09 04:35:20 UTC  
+Last updated: 23-08-09 04:43:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | redzrex | 2,987,151
 14 | Jeff5704 | 2,951,115
 15 | avyun | 2,617,051
-16 | ZukoBih | 2,490,102
+16 | ZukoBih | 2,495,428
 17 | VIVOffical | 2,342,599
 18 | Ginomania | 2,307,865
 19 | send420nudes | 2,200,833
