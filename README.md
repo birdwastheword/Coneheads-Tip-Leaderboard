@@ -15,4 +15,5 @@ It will also run one final time during the creation of the daily leaderboard, in
 
 # create_leaderboard.py
 This script will run [action](.github/workflows/download_comments.yml) every 10 minutes after the latest tips are inserted in `runs/today/tips.csv`.  
-This script parses all `tips.csv` files form the `runs` folders and compiles the total leaderboard in `leaderboard-total.md`
+This script parses all `tips.csv` files form the `runs` folders and compiles the total leaderboard in `leaderboard-total.md`.  
+I will also gather all tips 1,000,000 and above and add them into the [Hall of Fame](hall-of-fame.md)
