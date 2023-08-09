@@ -1,4 +1,4 @@
-Last updated: 23-08-09 20:22:39 UTC  
+Last updated: 23-08-09 20:31:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -550,12 +550,12 @@ Rank | Username | Totals Tips
 547 | Mrcoolguynumberone | 3,420
 548 | NEO_R1CH | 3,382
 549 | Big_Beyotch | 3,345
-550 | superficialization | 3,326
-551 | ziggyback | 3,300
-552 | elksteaksdmt | 3,290
-553 | acfranks | 3,290
-554 | sparanaghcoar | 3,286
-555 | Lillica_Golden_SHIB | 3,267
+550 | Lillica_Golden_SHIB | 3,336
+551 | superficialization | 3,326
+552 | ziggyback | 3,300
+553 | elksteaksdmt | 3,290
+554 | acfranks | 3,290
+555 | sparanaghcoar | 3,286
 556 | Glitzxc | 3,171
 557 | PopLegion | 3,152
 558 | skollywag92 | 3,083
