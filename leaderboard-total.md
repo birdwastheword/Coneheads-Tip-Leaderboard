@@ -1,8 +1,8 @@
-Last updated: 23-08-09 15:26:03 UTC  
+Last updated: 23-08-09 15:35:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
-2 | Bitdream200K | 18,953,739
+2 | Bitdream200K | 18,963,739
 3 | Wonderful_Bad6531 | 12,920,799
 4 | Parush9 | 10,398,360
 5 | ConeDesk | 10,205,444
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | HippieStarTraveler | 3,878,341
 12 | thelonliestcrowd | 3,167,888
 13 | redzrex | 2,987,151
-14 | Jeff5704 | 2,953,778
+14 | Jeff5704 | 2,980,415
 15 | avyun | 2,617,051
 16 | ZukoBih | 2,519,428
 17 | VIVOffical | 2,342,599
@@ -34,9 +34,9 @@ Rank | Username | Totals Tips
 31 | transfermymoons | 1,292,428
 32 | HestiaIsTheBestia | 1,188,043
 33 | LordBobTheWhale | 1,129,327
-34 | swampyswede | 1,072,885
-35 | ImAlekBan | 1,070,827
-36 | Autom4tic_Soze | 1,026,172
+34 | Autom4tic_Soze | 1,076,172
+35 | swampyswede | 1,072,885
+36 | ImAlekBan | 1,070,827
 37 | WarmBiertje | 1,000,000
 38 | thee_monster | 896,696
 39 | saintajoras | 885,587
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | Feetfailmenot | 543,941
 57 | Due_Insurance8159 | 529,004
 58 | evilninjarobot | 479,502
-59 | birdwastheword | 465,730
+59 | birdwastheword | 466,150
 60 | Alanski22 | 451,717
 61 | Mopeiooo | 427,266
 62 | WarmlyWacky | 425,166
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | CluelessSurvivor | 361,744
 71 | Cravensworth_redux | 361,307
 72 | dronegeeks1 | 356,168
-73 | Real_Player_0 | 355,178
+73 | Real_Player_0 | 355,786
 74 | LrnFaroeseWthBergur | 354,927
 75 | SKITZ_ZA | 348,993
 76 | Westy3000 | 345,003
