@@ -1,13 +1,13 @@
-Last updated: 23-08-09 11:51:00 UTC  
+Last updated: 23-08-09 12:57:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 18,853,739
 3 | Wonderful_Bad6531 | 12,920,799
 4 | Parush9 | 10,398,360
-5 | ConeDesk | 10,085,380
-6 | crypto_grandma | 8,609,845
-7 | SammyCraigar | 7,150,779
+5 | ConeDesk | 10,098,148
+6 | crypto_grandma | 8,709,845
+7 | SammyCraigar | 7,156,105
 8 | rikbona | 4,534,779
 9 | bigbilly1234567899 | 4,356,688
 10 | Homeslicekilla | 4,138,912
@@ -22,11 +22,11 @@ Rank | Username | Totals Tips
 19 | send420nudes | 2,200,833
 20 | Geniuskills | 2,198,262
 21 | Mean_Bandicoot_7481 | 1,904,335
-22 | IveDoneItAtLast | 1,853,230
+22 | IveDoneItAtLast | 1,858,556
 23 | LuminousViper | 1,695,498
 24 | thom_orrow | 1,621,485
 25 | GooderZBK | 1,569,495
-26 | ashinamune | 1,520,715
+26 | ashinamune | 1,523,378
 27 | Affectionate_Hand_76 | 1,409,681
 28 | GuyOne | 1,400,885
 29 | bray_martin03 | 1,380,770
@@ -35,13 +35,13 @@ Rank | Username | Totals Tips
 32 | HestiaIsTheBestia | 1,188,043
 33 | LordBobTheWhale | 1,129,327
 34 | ImAlekBan | 1,070,758
-35 | swampyswede | 1,035,234
+35 | swampyswede | 1,037,897
 36 | WarmBiertje | 1,000,000
-37 | thee_monster | 896,696
-38 | saintajoras | 885,587
-39 | Modestexcuse | 873,297
-40 | investigator100 | 809,322
-41 | Autom4tic_Soze | 783,669
+37 | Autom4tic_Soze | 953,089
+38 | thee_monster | 896,696
+39 | saintajoras | 885,587
+40 | Modestexcuse | 873,297
+41 | investigator100 | 835,955
 42 | _ships | 733,766
 43 | DontLaughArt | 721,353
 44 | starterpack420694 | 710,420
@@ -78,7 +78,7 @@ Rank | Username | Totals Tips
 75 | Westy3000 | 345,003
 76 | CMDRGlamdring | 340,171
 77 | tsudrat | 321,591
-78 | ValiantJudge29500 | 314,968
+78 | ValiantJudge29500 | 315,968
 79 | farmertypoerror | 313,866
 80 | djrcollectables | 303,913
 81 | EffinDrongoC | 301,710
@@ -265,10 +265,10 @@ Rank | Username | Totals Tips
 262 | SpookySYN | 37,182
 263 | Zap1324 | 36,891
 264 | _Mitchee_ | 36,367
-265 | Imalittlestitious86 | 36,181
-266 | lovenets_ | 35,568
-267 | CrossPuffs | 35,430
-268 | ultra_terrestrial | 35,422
+265 | ultra_terrestrial | 36,262
+266 | Imalittlestitious86 | 36,181
+267 | lovenets_ | 35,568
+268 | CrossPuffs | 35,430
 269 | urlz | 35,060
 270 | Clonkerz | 34,840
 271 | CryptoScamee42069 | 34,414
