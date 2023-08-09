@@ -1,4 +1,4 @@
-Last updated: 23-08-09 11:42:21 UTC  
+Last updated: 23-08-09 11:51:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 12,920,799
 4 | Parush9 | 10,398,360
 5 | ConeDesk | 10,085,380
-6 | crypto_grandma | 8,540,845
+6 | crypto_grandma | 8,609,845
 7 | SammyCraigar | 7,150,779
 8 | rikbona | 4,534,779
 9 | bigbilly1234567899 | 4,356,688
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | send420nudes | 2,200,833
 20 | Geniuskills | 2,198,262
 21 | Mean_Bandicoot_7481 | 1,904,335
-22 | IveDoneItAtLast | 1,850,567
+22 | IveDoneItAtLast | 1,853,230
 23 | LuminousViper | 1,695,498
 24 | thom_orrow | 1,621,485
 25 | GooderZBK | 1,569,495
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | saintajoras | 885,587
 39 | Modestexcuse | 873,297
 40 | investigator100 | 809,322
-41 | Autom4tic_Soze | 736,343
+41 | Autom4tic_Soze | 783,669
 42 | _ships | 733,766
 43 | DontLaughArt | 721,353
 44 | starterpack420694 | 710,420
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | Cravensworth_redux | 361,307
 71 | dronegeeks1 | 356,168
 72 | LrnFaroeseWthBergur | 354,927
-73 | Real_Player_0 | 353,338
+73 | Real_Player_0 | 353,354
 74 | SKITZ_ZA | 348,993
 75 | Westy3000 | 345,003
 76 | CMDRGlamdring | 340,171
@@ -185,18 +185,18 @@ Rank | Username | Totals Tips
 182 | Ashamed_Raccoon9918 | 84,789
 183 | ShopALF | 83,929
 184 | Most_Being_4002 | 80,003
-185 | wato4000 | 79,158
-186 | GodOfWarGuy737 | 79,069
-187 | Pwny_b0y | 78,826
-188 | customsolitaires | 78,704
-189 | Kevin3683 | 78,354
-190 | youtooleyesing | 75,815
-191 | Puzzleheaded_Gift738 | 75,589
-192 | Derefringence | 74,536
-193 | MedicineMaterial3501 | 73,988
-194 | UniversalNoobMaster | 73,800
-195 | abracadabra087 | 70,326
-196 | DAMG808 | 69,365
+185 | DAMG808 | 79,365
+186 | wato4000 | 79,158
+187 | GodOfWarGuy737 | 79,069
+188 | Pwny_b0y | 78,826
+189 | customsolitaires | 78,704
+190 | Kevin3683 | 78,354
+191 | youtooleyesing | 75,815
+192 | Puzzleheaded_Gift738 | 75,589
+193 | Derefringence | 74,536
+194 | MedicineMaterial3501 | 73,988
+195 | UniversalNoobMaster | 73,800
+196 | abracadabra087 | 70,326
 197 | adi_00_ | 69,095
 198 | beanwiggin420 | 66,564
 199 | imp3order | 65,546
