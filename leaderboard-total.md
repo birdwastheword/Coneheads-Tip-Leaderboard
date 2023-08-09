@@ -1,4 +1,4 @@
-Last updated: 23-08-09 13:40:37 UTC  
+Last updated: 23-08-09 13:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -84,7 +84,7 @@ Rank | Username | Totals Tips
 81 | EffinDrongoC | 301,710
 82 | VincentVanGTFO | 295,604
 83 | liwipe | 292,869
-84 | Tinman_ApE | 276,177
+84 | Tinman_ApE | 277,393
 85 | virmamies | 274,085
 86 | RazPie | 270,909
 87 | ArtConsitent | 270,178
