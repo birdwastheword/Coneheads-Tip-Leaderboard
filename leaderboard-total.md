@@ -1,4 +1,4 @@
-Last updated: 23-08-09 20:40:54 UTC  
+Last updated: 23-08-09 20:50:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | redzrex | 2,987,151
 15 | avyun | 2,625,111
 16 | ZukoBih | 2,522,428
-17 | VIVOffical | 2,353,405
+17 | VIVOffical | 2,354,211
 18 | Ginomania | 2,307,865
 19 | Geniuskills | 2,224,892
 20 | send420nudes | 2,200,833
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ImAlekBan | 1,074,296
 37 | WarmBiertje | 1,000,000
 38 | thee_monster | 896,696
-39 | saintajoras | 885,587
+39 | saintajoras | 886,237
 40 | Modestexcuse | 873,297
 41 | investigator100 | 841,963
 42 | _ships | 733,766
