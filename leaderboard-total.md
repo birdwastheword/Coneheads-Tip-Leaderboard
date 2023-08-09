@@ -1,4 +1,4 @@
-Last updated: 23-08-09 10:40:33 UTC  
+Last updated: 23-08-09 10:50:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | sinlesco | 388,070
 68 | Lady_Lucks_Man | 372,903
 69 | CluelessSurvivor | 361,744
-70 | Cravensworth_redux | 360,307
+70 | Cravensworth_redux | 361,307
 71 | dronegeeks1 | 356,168
 72 | LrnFaroeseWthBergur | 354,927
 73 | SKITZ_ZA | 348,993
@@ -211,8 +211,8 @@ Rank | Username | Totals Tips
 208 | dinoyeti | 60,395
 209 | MisterM0H0 | 59,122
 210 | TheD1ceMan | 57,861
-211 | hellosamaira | 57,069
-212 | Significant_Talk4943 | 56,260
+211 | Significant_Talk4943 | 57,260
+212 | hellosamaira | 57,069
 213 | imbarrydylan | 55,689
 214 | shellystarzz | 55,401
 215 | orangesandonions | 54,718
