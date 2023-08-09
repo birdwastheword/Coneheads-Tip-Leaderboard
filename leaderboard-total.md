@@ -1,4 +1,4 @@
-Last updated: 23-08-09 06:40:49 UTC  
+Last updated: 23-08-09 06:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -44,9 +44,9 @@ Rank | Username | Totals Tips
 41 | _ships | 733,766
 42 | DontLaughArt | 721,353
 43 | starterpack420694 | 710,420
-44 | Autom4tic_Soze | 685,284
+44 | Autom4tic_Soze | 686,285
 45 | WarmIyWacky | 675,624
-46 | cutsickass | 662,020
+46 | cutsickass | 663,036
 47 | goldyluckinblokchain | 646,047
 48 | frickdom | 615,614
 49 | femacampcouncilor | 599,725
@@ -514,8 +514,8 @@ Rank | Username | Totals Tips
 511 | Zaxoosh | 5,000
 512 | dorinosss | 5,000
 513 | Crunchious1 | 5,000
-514 | Nugacity5 | 4,896
-515 | monkeybombed | 4,882
+514 | monkeybombed | 4,983
+515 | Nugacity5 | 4,896
 516 | Fcbp | 4,800
 517 | Kzis | 4,728
 518 | billw1zz | 4,722
