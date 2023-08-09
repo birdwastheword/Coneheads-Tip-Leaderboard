@@ -1,4 +1,4 @@
-Last updated: 23-08-09 05:34:46 UTC  
+Last updated: 23-08-09 05:42:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -89,7 +89,7 @@ Rank | Username | Totals Tips
 86 | RazPie | 270,909
 87 | ArtConsitent | 269,178
 88 | adrifing | 238,164
-89 | x52x | 230,026
+89 | x52x | 235,606
 90 | Sattack4000 | 229,721
 91 | BeardedBro_ | 223,068
 92 | thecrabdad | 216,909
