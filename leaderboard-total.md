@@ -1,4 +1,4 @@
-Last updated: 23-08-09 13:50:43 UTC  
+Last updated: 23-08-09 14:00:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | GooderZBK | 1,569,495
 26 | ashinamune | 1,526,041
 27 | Affectionate_Hand_76 | 1,409,681
-28 | GuyOne | 1,400,885
+28 | GuyOne | 1,401,493
 29 | bray_martin03 | 1,380,770
 30 | _Royal_Insylum | 1,298,924
 31 | transfermymoons | 1,292,428
@@ -540,20 +540,20 @@ Rank | Username | Totals Tips
 537 | nathanroberts14 | 4,000
 538 | officialzodiacbeats | 3,987
 539 | dozebull | 3,952
-540 | mcbifter | 3,923
-541 | Dreadaussie | 3,920
-542 | sicilian2124 | 3,886
-543 | salt_yaf | 3,706
-544 | carsonthecarsinogen | 3,700
-545 | Mrcoolguynumberone | 3,420
-546 | NEO_R1CH | 3,382
-547 | Big_Beyotch | 3,345
-548 | superficialization | 3,326
-549 | ziggyback | 3,300
-550 | elksteaksdmt | 3,290
-551 | Glitzxc | 3,171
-552 | PopLegion | 3,152
-553 | kanem87 | 3,070
+540 | kanem87 | 3,940
+541 | mcbifter | 3,923
+542 | Dreadaussie | 3,920
+543 | sicilian2124 | 3,886
+544 | salt_yaf | 3,706
+545 | carsonthecarsinogen | 3,700
+546 | Mrcoolguynumberone | 3,420
+547 | NEO_R1CH | 3,382
+548 | Big_Beyotch | 3,345
+549 | superficialization | 3,326
+550 | ziggyback | 3,300
+551 | elksteaksdmt | 3,290
+552 | Glitzxc | 3,171
+553 | PopLegion | 3,152
 554 | obaming16 | 3,007
 555 | KingPaladin | 3,000
 556 | Soil_Electronic | 2,997
