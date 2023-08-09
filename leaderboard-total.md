@@ -1,4 +1,4 @@
-Last updated: 23-08-09 08:29:08 UTC  
+Last updated: 23-08-09 08:40:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | LuminousViper | 1,690,172
 24 | thom_orrow | 1,621,485
 25 | GooderZBK | 1,569,495
-26 | ashinamune | 1,510,715
+26 | ashinamune | 1,520,715
 27 | Affectionate_Hand_76 | 1,409,681
 28 | GuyOne | 1,400,885
 29 | bray_martin03 | 1,380,770
