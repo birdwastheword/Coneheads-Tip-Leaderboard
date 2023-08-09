@@ -48,7 +48,7 @@ f.close()
 #Create Hall of Fame
 hall_sorted = sorted(hall_of_fame, key=lambda t: (-t[3], t[0]))
 rank = 0
-hall_text = "Tips Hall of Fame:\r\n\rRank | Date | Username | Totals Tips | to User\r\n:-|:-|:-|-:|:-\r\n"
+hall_text = "Tips Hall of Fame:\r\nRank | Date | Username | Totals Tips | to User\r\n:-|:-|:-|-:|:-\r\n"
 for (date, fromUser, toUser, amount) in hall_sorted:
   rank += 1
   hall_text += f"{rank} | {date} | {fromUser.removeprefix(' /u/')} | {'{:,}'.format(amount)}| {toUser.removeprefix(' /u/')}\r\n"
