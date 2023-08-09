@@ -1,4 +1,4 @@
-Last updated: 23-08-09 04:27:03 UTC  
+Last updated: 23-08-09 04:35:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -205,10 +205,10 @@ Rank | Username | Totals Tips
 202 | TubeNerd92 | 63,997
 203 | HokkaidoNights | 62,857
 204 | ItailianStallion101 | 62,826
-205 | standArtpluto | 62,100
-206 | WhateverAlready | 61,926
-207 | dinoyeti | 60,395
-208 | dopelifer09 | 59,501
+205 | dopelifer09 | 62,164
+206 | standArtpluto | 62,100
+207 | WhateverAlready | 61,926
+208 | dinoyeti | 60,395
 209 | MisterM0H0 | 59,122
 210 | TheD1ceMan | 57,861
 211 | hellosamaira | 57,069
