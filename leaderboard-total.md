@@ -1,4 +1,4 @@
-Last updated: 23-08-09 09:21:56 UTC  
+Last updated: 23-08-09 09:30:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -79,8 +79,8 @@ Rank | Username | Totals Tips
 76 | tsudrat | 321,591
 77 | ValiantJudge29500 | 314,968
 78 | farmertypoerror | 313,866
-79 | EffinDrongoC | 301,710
-80 | djrcollectables | 301,250
+79 | djrcollectables | 303,913
+80 | EffinDrongoC | 301,710
 81 | VincentVanGTFO | 295,604
 82 | liwipe | 292,869
 83 | Real_Player_0 | 283,918
