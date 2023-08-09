@@ -1,4 +1,4 @@
-Last updated: 23-08-09 04:51:51 UTC  
+Last updated: 23-08-09 05:24:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | bigbilly1234567899 | 4,356,688
 10 | Homeslicekilla | 4,138,912
 11 | HippieStarTraveler | 3,878,341
-12 | thelonliestcrowd | 3,165,225
+12 | thelonliestcrowd | 3,167,888
 13 | redzrex | 2,987,151
 14 | Jeff5704 | 2,951,115
 15 | avyun | 2,617,051
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Ginomania | 2,307,865
 19 | send420nudes | 2,200,833
 20 | Geniuskills | 2,198,262
-21 | Mean_Bandicoot_7481 | 1,903,335
+21 | Mean_Bandicoot_7481 | 1,904,335
 22 | IveDoneItAtLast | 1,836,570
 23 | LuminousViper | 1,690,172
 24 | thom_orrow | 1,621,485
@@ -490,10 +490,10 @@ Rank | Username | Totals Tips
 487 | DrunkDoge420 | 6,000
 488 | Fourplyer80 | 5,979
 489 | mantrakid | 5,925
-490 | charlythesecond | 5,855
-491 | Dapper_Bloke88 | 5,818
-492 | aPandox | 5,695
-493 | Coeruleus_ | 5,664
+490 | Coeruleus_ | 5,875
+491 | charlythesecond | 5,855
+492 | Dapper_Bloke88 | 5,818
+493 | aPandox | 5,695
 494 | ziggybri | 5,638
 495 | DioDilemma | 5,545
 496 | forceworks | 5,509
