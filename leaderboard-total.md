@@ -1,4 +1,4 @@
-Last updated: 23-08-09 19:41:25 UTC  
+Last updated: 23-08-09 19:50:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | x52x | 250,606
 91 | adrifing | 238,164
 92 | Sattack4000 | 229,721
-93 | waterhasnocalories | 224,221
+93 | waterhasnocalories | 224,641
 94 | BeardedBro_ | 223,068
 95 | thecrabdad | 216,909
 96 | Zalkwalker | 216,803
@@ -379,12 +379,12 @@ Rank | Username | Totals Tips
 376 | redbasl | 13,825
 377 | TamilPunk | 13,754
 378 | Rake_wlkr | 13,634
-379 | waterincorporated | 13,552
-380 | subredditlurker69 | 13,550
-381 | PoDunkYuppie | 13,503
-382 | Trink333 | 13,338
-383 | Dripbot8 | 13,315
-384 | theycallmekimpembe | 13,197
+379 | theycallmekimpembe | 13,617
+380 | waterincorporated | 13,552
+381 | subredditlurker69 | 13,550
+382 | PoDunkYuppie | 13,503
+383 | Trink333 | 13,338
+384 | Dripbot8 | 13,315
 385 | AdinaEspada | 12,997
 386 | MalarkyD | 12,916
 387 | Fivebag | 12,870
