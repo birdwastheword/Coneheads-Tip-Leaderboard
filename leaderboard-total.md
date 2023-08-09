@@ -1,4 +1,4 @@
-Last updated: 23-08-09 18:40:52 UTC  
+Last updated: 23-08-09 18:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -80,8 +80,8 @@ Rank | Username | Totals Tips
 77 | SKITZ_ZA | 354,319
 78 | Westy3000 | 345,003
 79 | CMDRGlamdring | 340,171
-80 | tsudrat | 321,591
-81 | ValiantJudge29500 | 318,968
+80 | ValiantJudge29500 | 321,631
+81 | tsudrat | 321,591
 82 | farmertypoerror | 313,866
 83 | djrcollectables | 306,576
 84 | EffinDrongoC | 301,710
@@ -186,7 +186,7 @@ Rank | Username | Totals Tips
 183 | ID404_Not_Found_8964 | 85,087
 184 | Ashamed_Raccoon9918 | 84,789
 185 | ShopALF | 83,929
-186 | Most_Being_4002 | 80,423
+186 | Most_Being_4002 | 80,843
 187 | DAMG808 | 79,785
 188 | customsolitaires | 79,704
 189 | wato4000 | 79,158
@@ -681,16 +681,16 @@ Rank | Username | Totals Tips
 678 | Porescu | 909
 679 | learnunlearnlearn | 909
 680 | Illicitterror | 897
-681 | ben4445 | 840
-682 | Machete521 | 840
-683 | RiightYouKnow | 840
-684 | iamannonymous27 | 840
-685 | raulcras5 | 839
-686 | panjjang | 834
-687 | Yegpetphoto | 825
-688 | piebagz | 815
-689 | genesis_crazy_one | 775
-690 | Straton_Conemont_Inc | 759
+681 | Straton_Conemont_Inc | 897
+682 | ben4445 | 840
+683 | Machete521 | 840
+684 | RiightYouKnow | 840
+685 | iamannonymous27 | 840
+686 | raulcras5 | 839
+687 | panjjang | 834
+688 | Yegpetphoto | 825
+689 | piebagz | 815
+690 | genesis_crazy_one | 775
 691 | lucrica | 731
 692 | SufficientNet9227 | 711
 693 | TheNano100 | 696
