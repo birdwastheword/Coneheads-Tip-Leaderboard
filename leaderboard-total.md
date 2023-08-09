@@ -1,11 +1,11 @@
-Last updated: 23-08-09 02:51:18 UTC  
+Last updated: 23-08-09 03:20:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 18,853,739
 3 | Wonderful_Bad6531 | 12,920,799
 4 | Parush9 | 10,328,940
-5 | ConeDesk | 10,078,692
+5 | ConeDesk | 10,079,300
 6 | crypto_grandma | 8,399,835
 7 | SammyCraigar | 7,150,779
 8 | rikbona | 4,534,779
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | LuminousViper | 1,690,172
 24 | thom_orrow | 1,621,485
 25 | GooderZBK | 1,569,495
-26 | ashinamune | 1,500,715
+26 | ashinamune | 1,510,715
 27 | GuyOne | 1,400,885
 28 | Affectionate_Hand_76 | 1,399,681
 29 | bray_martin03 | 1,380,770
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | DontLaughArt | 721,353
 43 | starterpack420694 | 710,420
 44 | WarmIyWacky | 675,624
-45 | cutsickass | 654,785
+45 | cutsickass | 661,004
 46 | goldyluckinblokchain | 646,047
 47 | Autom4tic_Soze | 621,510
 48 | frickdom | 615,614
@@ -164,7 +164,7 @@ Rank | Username | Totals Tips
 161 | PortCity_MadMan | 101,608
 162 | flying_bacon | 100,717
 163 | Jlt42000 | 100,651
-164 | MelonFarmer420 | 100,061
+164 | MelonFarmer420 | 100,481
 165 | SetoXlll | 100,000
 166 | adrefofadre | 99,717
 167 | shreyaskg | 97,939
