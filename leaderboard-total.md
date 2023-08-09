@@ -1,4 +1,4 @@
-Last updated: 23-08-09 22:42:47 UTC  
+Last updated: 23-08-09 22:51:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -95,10 +95,10 @@ Rank | Username | Totals Tips
 92 | Sattack4000 | 229,721
 93 | waterhasnocalories | 224,641
 94 | BeardedBro_ | 223,068
-95 | thecrabdad | 216,909
-96 | Zalkwalker | 216,803
-97 | joeviani | 215,234
-98 | doktastonks | 214,746
+95 | doktastonks | 217,409
+96 | thecrabdad | 216,909
+97 | Zalkwalker | 216,803
+98 | joeviani | 215,234
 99 | redditavanft | 194,822
 100 | AverageLiberalJoe | 194,376
 101 | MuhSound | 193,642
