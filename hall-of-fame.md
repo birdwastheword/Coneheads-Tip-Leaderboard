@@ -1,4 +1,5 @@
-Rank | Date | Username | Totals Tips | to User
+Tips Hall of Fame:
+Rank | Date | Username | Totals Tips | to User
 :-|:-|:-|-:|:-
 1 | 2023-07-29 10:14:39 | Wonderful_Bad6531 | 4,500,000| Bitdream200K
 2 | 2023-08-04 04:36:17 | Bitdream200K | 3,000,000| OutrageousStudy6752
@@ -11,25 +12,28 @@ Rank | Date | Username | Totals Tips | to User
 9 | 2023-08-04 00:33:42 | crypto_grandma | 2,000,000| OutrageousStudy6752
 10 | 2023-08-01 06:28:48 | rikbona | 1,555,000| crypto_grandma
 11 | 2023-08-05 14:56:15 | HippieStarTraveler | 1,500,000| Most_Being_4002
-12 | 2023-06-12 21:12:29 | Wonderful_Bad6531 | 1,250,069| Bitdream200K
-13 | 2023-05-06 23:43:09 | rickribera93 | 1,000,000| chuloreddit
-14 | 2023-05-09 02:03:26 | rickribera93 | 1,000,000| NotFullyTerrestrial
-15 | 2023-05-10 20:28:49 | rickribera93 | 1,000,000| Adrewmc
-16 | 2023-05-11 04:13:37 | rickribera93 | 1,000,000| WarmBiertje
-17 | 2023-05-20 18:29:27 | rickribera93 | 1,000,000| Kilv3r
-18 | 2023-05-20 20:03:09 | rickribera93 | 1,000,000| ConeDesk
-19 | 2023-05-21 04:39:34 | rickribera93 | 1,000,000| charlythesecond
-20 | 2023-05-31 08:42:50 | WarmBiertje | 1,000,000| Bitdream200K
-21 | 2023-07-22 03:26:51 | rickribera93 | 1,000,000| deedopete
-22 | 2023-07-22 03:26:51 | rickribera93 | 1,000,000| bray_martin03
-23 | 2023-07-22 03:26:52 | rickribera93 | 1,000,000| the_judge_168
-24 | 2023-07-22 03:26:58 | rickribera93 | 1,000,000| Poyal_Rines
-25 | 2023-07-22 03:27:07 | rickribera93 | 1,000,000| This_Red_Apple
-26 | 2023-07-29 15:09:22 | rickribera93 | 1,000,000| clean_cut89
-27 | 2023-08-01 14:12:45 | Bitdream200K | 1,000,000| Homeslicekilla
-28 | 2023-08-01 23:45:02 | rickribera93 | 1,000,000| SammyCraigar
-29 | 2023-08-02 03:20:21 | GooderZBK | 1,000,000| bray_martin03
-30 | 2023-08-02 13:49:34 | Bitdream200K | 1,000,000| Hoppy_Doodle
-31 | 2023-08-02 18:54:54 | Bitdream200K | 1,000,000| Parush9
-32 | 2023-08-04 17:32:35 | _Royal_Insylum | 1,000,000| LuminousViper
-33 | 2023-08-07 21:56:23 | Wonderful_Bad6531 | 1,000,000| ChipperdoodlesComic
+12 | 2023-08-08 15:57:01 | Affectionate_Hand_76 | 1,257,038| OutrageousStudy6752
+13 | 2023-06-12 21:12:29 | Wonderful_Bad6531 | 1,250,069| Bitdream200K
+14 | 2023-05-06 23:43:09 | rickribera93 | 1,000,000| chuloreddit
+15 | 2023-05-09 02:03:26 | rickribera93 | 1,000,000| NotFullyTerrestrial
+16 | 2023-05-10 20:28:49 | rickribera93 | 1,000,000| Adrewmc
+17 | 2023-05-11 04:13:37 | rickribera93 | 1,000,000| WarmBiertje
+18 | 2023-05-20 18:29:27 | rickribera93 | 1,000,000| Kilv3r
+19 | 2023-05-20 20:03:09 | rickribera93 | 1,000,000| ConeDesk
+20 | 2023-05-21 04:39:34 | rickribera93 | 1,000,000| charlythesecond
+21 | 2023-05-31 08:42:50 | WarmBiertje | 1,000,000| Bitdream200K
+22 | 2023-07-22 03:26:51 | rickribera93 | 1,000,000| deedopete
+23 | 2023-07-22 03:26:51 | rickribera93 | 1,000,000| bray_martin03
+24 | 2023-07-22 03:26:52 | rickribera93 | 1,000,000| the_judge_168
+25 | 2023-07-22 03:26:58 | rickribera93 | 1,000,000| Poyal_Rines
+26 | 2023-07-22 03:27:07 | rickribera93 | 1,000,000| This_Red_Apple
+27 | 2023-07-29 15:09:22 | rickribera93 | 1,000,000| clean_cut89
+28 | 2023-08-01 14:12:45 | Bitdream200K | 1,000,000| Homeslicekilla
+29 | 2023-08-01 23:45:02 | rickribera93 | 1,000,000| SammyCraigar
+30 | 2023-08-02 03:20:21 | GooderZBK | 1,000,000| bray_martin03
+31 | 2023-08-02 13:49:34 | Bitdream200K | 1,000,000| Hoppy_Doodle
+32 | 2023-08-02 18:54:54 | Bitdream200K | 1,000,000| Parush9
+33 | 2023-08-04 17:32:35 | _Royal_Insylum | 1,000,000| LuminousViper
+34 | 2023-08-07 21:56:23 | Wonderful_Bad6531 | 1,000,000| ChipperdoodlesComic
+
+Tips over 1,000,000 will be eligible for the Hall of Fame
