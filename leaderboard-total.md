@@ -1,4 +1,4 @@
-Last updated: 23-08-09 19:24:23 UTC  
+Last updated: 23-08-09 19:33:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | Autom4tic_Soze | 1,152,492
 34 | LordBobTheWhale | 1,129,747
 35 | swampyswede | 1,075,548
-36 | ImAlekBan | 1,071,633
+36 | ImAlekBan | 1,074,296
 37 | WarmBiertje | 1,000,000
 38 | thee_monster | 896,696
 39 | saintajoras | 885,587
@@ -555,7 +555,7 @@ Rank | Username | Totals Tips
 552 | elksteaksdmt | 3,290
 553 | acfranks | 3,290
 554 | sparanaghcoar | 3,286
-555 | Lillica_Golden_SHIB | 3,198
+555 | Lillica_Golden_SHIB | 3,267
 556 | Glitzxc | 3,171
 557 | PopLegion | 3,152
 558 | skollywag92 | 3,083
