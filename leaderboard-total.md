@@ -1,4 +1,4 @@
-Last updated: 23-08-09 06:50:37 UTC  
+Last updated: 23-08-09 07:18:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -162,7 +162,7 @@ Rank | Username | Totals Tips
 159 | lordciders | 106,460
 160 | Chanyuui1 | 103,430
 161 | PortCity_MadMan | 101,608
-162 | MelonFarmer420 | 100,910
+162 | MelonFarmer420 | 101,330
 163 | flying_bacon | 100,717
 164 | Jlt42000 | 100,651
 165 | SetoXlll | 100,000
@@ -453,16 +453,16 @@ Rank | Username | Totals Tips
 450 | guokaidi | 8,457
 451 | PRYCDaddy | 8,442
 452 | cptnkook | 8,401
-453 | akemicariocaer | 8,263
-454 | Handsome_Gourd | 8,121
-455 | allisonovo | 8,099
-456 | JAK0M0VIN0 | 8,097
-457 | Nyarlatotep781 | 8,078
-458 | PalpitationSecure660 | 8,055
-459 | Erikiller06 | 8,039
-460 | Duckeis | 8,002
-461 | Primetimemongrel | 8,001
-462 | Fictional_Blook | 7,967
+453 | Fictional_Blook | 8,387
+454 | akemicariocaer | 8,263
+455 | Handsome_Gourd | 8,121
+456 | allisonovo | 8,099
+457 | JAK0M0VIN0 | 8,097
+458 | Nyarlatotep781 | 8,078
+459 | PalpitationSecure660 | 8,055
+460 | Erikiller06 | 8,039
+461 | Duckeis | 8,002
+462 | Primetimemongrel | 8,001
 463 | j9101a | 7,796
 464 | isthisanavatar | 7,709
 465 | Chichakitty | 7,677
