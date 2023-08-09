@@ -1,4 +1,4 @@
-Last updated: 23-08-09 09:40:41 UTC  
+Last updated: 23-08-09 09:50:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Geniuskills | 2,198,262
 21 | Mean_Bandicoot_7481 | 1,904,335
 22 | IveDoneItAtLast | 1,844,559
-23 | LuminousViper | 1,690,172
+23 | LuminousViper | 1,692,835
 24 | thom_orrow | 1,621,485
 25 | GooderZBK | 1,569,495
 26 | ashinamune | 1,520,715
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | transfermymoons | 1,292,428
 32 | HestiaIsTheBestia | 1,188,043
 33 | LordBobTheWhale | 1,129,327
-34 | ImAlekBan | 1,064,081
+34 | ImAlekBan | 1,070,758
 35 | swampyswede | 1,035,234
 36 | WarmBiertje | 1,000,000
 37 | thee_monster | 896,696
