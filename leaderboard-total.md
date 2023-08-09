@@ -1,4 +1,4 @@
-Last updated: 23-08-09 14:30:47 UTC  
+Last updated: 23-08-09 14:40:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | send420nudes | 2,200,833
 20 | Geniuskills | 2,198,262
 21 | Mean_Bandicoot_7481 | 1,904,335
-22 | IveDoneItAtLast | 1,858,556
+22 | IveDoneItAtLast | 1,883,556
 23 | LuminousViper | 1,695,498
 24 | thom_orrow | 1,621,485
 25 | GooderZBK | 1,569,495
@@ -34,8 +34,8 @@ Rank | Username | Totals Tips
 31 | transfermymoons | 1,292,428
 32 | HestiaIsTheBestia | 1,188,043
 33 | LordBobTheWhale | 1,129,327
-34 | ImAlekBan | 1,070,758
-35 | swampyswede | 1,037,897
+34 | ImAlekBan | 1,070,827
+35 | swampyswede | 1,046,255
 36 | Autom4tic_Soze | 1,016,172
 37 | WarmBiertje | 1,000,000
 38 | thee_monster | 896,696
@@ -74,7 +74,7 @@ Rank | Username | Totals Tips
 71 | Cravensworth_redux | 361,307
 72 | dronegeeks1 | 356,168
 73 | LrnFaroeseWthBergur | 354,927
-74 | Real_Player_0 | 353,354
+74 | Real_Player_0 | 354,570
 75 | SKITZ_ZA | 348,993
 76 | Westy3000 | 345,003
 77 | CMDRGlamdring | 340,171
@@ -237,13 +237,13 @@ Rank | Username | Totals Tips
 234 | redditinchina | 46,704
 235 | shredslanding | 45,854
 236 | qwertywich | 45,329
-237 | d0ntmess87 | 45,126
-238 | coolpattakers | 44,425
-239 | meme_used | 44,187
-240 | NickkyDC | 43,879
-241 | Coneboy2663 | 43,783
-242 | Kilv3r | 43,432
-243 | ZeMadMan1 | 42,654
+237 | ZeMadMan1 | 45,317
+238 | d0ntmess87 | 45,126
+239 | coolpattakers | 44,425
+240 | meme_used | 44,187
+241 | NickkyDC | 43,879
+242 | Coneboy2663 | 43,783
+243 | Kilv3r | 43,432
 244 | Sativa55555 | 42,489
 245 | CaptainCheeseCake | 41,363
 246 | ZoomLong | 41,251
