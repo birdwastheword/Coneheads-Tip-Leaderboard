@@ -1,11 +1,11 @@
-Last updated: 23-08-09 14:50:53 UTC  
+Last updated: 23-08-09 15:26:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
-2 | Bitdream200K | 18,853,739
+2 | Bitdream200K | 18,953,739
 3 | Wonderful_Bad6531 | 12,920,799
 4 | Parush9 | 10,398,360
-5 | ConeDesk | 10,199,364
+5 | ConeDesk | 10,205,444
 6 | crypto_grandma | 8,709,845
 7 | SammyCraigar | 7,156,105
 8 | rikbona | 4,534,779
@@ -25,8 +25,8 @@ Rank | Username | Totals Tips
 22 | IveDoneItAtLast | 1,883,556
 23 | LuminousViper | 1,695,498
 24 | thom_orrow | 1,621,485
-25 | GooderZBK | 1,569,495
-26 | ashinamune | 1,536,041
+25 | ashinamune | 1,586,041
+26 | GooderZBK | 1,569,495
 27 | Affectionate_Hand_76 | 1,409,681
 28 | GuyOne | 1,401,493
 29 | bray_martin03 | 1,380,770
@@ -34,9 +34,9 @@ Rank | Username | Totals Tips
 31 | transfermymoons | 1,292,428
 32 | HestiaIsTheBestia | 1,188,043
 33 | LordBobTheWhale | 1,129,327
-34 | ImAlekBan | 1,070,827
-35 | swampyswede | 1,046,255
-36 | Autom4tic_Soze | 1,016,172
+34 | swampyswede | 1,072,885
+35 | ImAlekBan | 1,070,827
+36 | Autom4tic_Soze | 1,026,172
 37 | WarmBiertje | 1,000,000
 38 | thee_monster | 896,696
 39 | saintajoras | 885,587
@@ -73,8 +73,8 @@ Rank | Username | Totals Tips
 70 | CluelessSurvivor | 361,744
 71 | Cravensworth_redux | 361,307
 72 | dronegeeks1 | 356,168
-73 | LrnFaroeseWthBergur | 354,927
-74 | Real_Player_0 | 354,570
+73 | Real_Player_0 | 355,178
+74 | LrnFaroeseWthBergur | 354,927
 75 | SKITZ_ZA | 348,993
 76 | Westy3000 | 345,003
 77 | CMDRGlamdring | 340,171
@@ -141,9 +141,9 @@ Rank | Username | Totals Tips
 138 | beastlybaker | 130,267
 139 | CoverYourMaskHoles | 128,091
 140 | CalligrapherEnough83 | 127,227
-141 | DamnWhySoLow | 124,748
-142 | high5s_inureye | 124,038
-143 | Obi1eyeKenobi | 123,515
+141 | Obi1eyeKenobi | 125,515
+142 | DamnWhySoLow | 124,748
+143 | high5s_inureye | 124,038
 144 | tjex666 | 122,101
 145 | GoodMornEveGoodNight | 121,118
 146 | Schl0tz | 120,000
@@ -185,7 +185,7 @@ Rank | Username | Totals Tips
 182 | Ashamed_Raccoon9918 | 84,789
 183 | ShopALF | 83,929
 184 | Most_Being_4002 | 80,423
-185 | DAMG808 | 79,365
+185 | DAMG808 | 79,785
 186 | wato4000 | 79,158
 187 | GodOfWarGuy737 | 79,069
 188 | Pwny_b0y | 78,826
@@ -558,7 +558,7 @@ Rank | Username | Totals Tips
 555 | obaming16 | 3,007
 556 | KingPaladin | 3,000
 557 | Soil_Electronic | 2,997
-558 | Lillica_Golden_SHIB | 2,922
+558 | Lillica_Golden_SHIB | 2,991
 559 | _echnaton | 2,896
 560 | ineedmoney2023 | 2,887
 561 | sparanaghcoar | 2,866
@@ -687,10 +687,10 @@ Rank | Username | Totals Tips
 684 | Yegpetphoto | 825
 685 | piebagz | 815
 686 | genesis_crazy_one | 775
-687 | lucrica | 731
-688 | SufficientNet9227 | 711
-689 | TheNano100 | 696
-690 | Straton_Conemont_Inc | 690
+687 | Straton_Conemont_Inc | 759
+688 | lucrica | 731
+689 | SufficientNet9227 | 711
+690 | TheNano100 | 696
 691 | Indisciplinato | 677
 692 | cannainform2 | 669
 693 | Troll_humper | 665
