@@ -1,4 +1,4 @@
-Last updated: 23-08-09 10:50:55 UTC  
+Last updated: 23-08-09 11:16:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -184,7 +184,7 @@ Rank | Username | Totals Tips
 181 | ID404_Not_Found_8964 | 85,087
 182 | Ashamed_Raccoon9918 | 84,789
 183 | ShopALF | 83,929
-184 | Most_Being_4002 | 79,583
+184 | Most_Being_4002 | 80,003
 185 | wato4000 | 79,158
 186 | GodOfWarGuy737 | 79,069
 187 | Pwny_b0y | 78,826
@@ -275,10 +275,10 @@ Rank | Username | Totals Tips
 272 | zuzieey7719 | 33,655
 273 | preemcuz | 33,443
 274 | Gerboogler | 33,314
-275 | xxapplej4ckx | 33,181
-276 | AnduriII | 33,106
-277 | zenhodl | 33,045
-278 | CryptoScamee42069 | 32,590
+275 | CryptoScamee42069 | 33,198
+276 | xxapplej4ckx | 33,181
+277 | AnduriII | 33,106
+278 | zenhodl | 33,045
 279 | pwan7505 | 32,567
 280 | himthecool21 | 32,447
 281 | n00b1shm4n | 32,159
@@ -557,9 +557,9 @@ Rank | Username | Totals Tips
 554 | obaming16 | 3,007
 555 | KingPaladin | 3,000
 556 | Soil_Electronic | 2,997
-557 | _echnaton | 2,896
-558 | ineedmoney2023 | 2,887
-559 | Lillica_Golden_SHIB | 2,853
+557 | Lillica_Golden_SHIB | 2,922
+558 | _echnaton | 2,896
+559 | ineedmoney2023 | 2,887
 560 | trainspottedCSX7 | 2,840
 561 | Permanent_WSB_Bull | 2,836
 562 | Jenn2895 | 2,784
@@ -689,20 +689,20 @@ Rank | Username | Totals Tips
 686 | lucrica | 731
 687 | SufficientNet9227 | 711
 688 | TheNano100 | 696
-689 | Indisciplinato | 677
-690 | cannainform2 | 669
-691 | Troll_humper | 665
-692 | acfranks | 627
-693 | pelaguras | 627
-694 | daigsischt | 627
-695 | Avatar_Degen | 627
-696 | iiCollinHD | 608
-697 | barbiescorvette | 608
-698 | Mulleary | 608
-699 | eskimojerk | 606
-700 | Makaveli4Sheez | 569
-701 | glouglas | 558
-702 | Straton_Conemont_Inc | 552
+689 | Straton_Conemont_Inc | 690
+690 | Indisciplinato | 677
+691 | cannainform2 | 669
+692 | Troll_humper | 665
+693 | acfranks | 627
+694 | pelaguras | 627
+695 | daigsischt | 627
+696 | Avatar_Degen | 627
+697 | iiCollinHD | 608
+698 | barbiescorvette | 608
+699 | Mulleary | 608
+700 | eskimojerk | 606
+701 | Makaveli4Sheez | 569
+702 | glouglas | 558
 703 | AhhhUhmmm | 552
 704 | Dare2gamer | 544
 705 | Ge_n0 | 529
