@@ -1,4 +1,4 @@
-Last updated: 23-08-08 23:50:44 UTC  
+Last updated: 23-08-09 02:19:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 12,920,799
 4 | Parush9 | 10,328,940
 5 | ConeDesk | 10,078,692
-6 | crypto_grandma | 8,387,172
+6 | crypto_grandma | 8,399,835
 7 | SammyCraigar | 7,150,779
 8 | rikbona | 4,534,779
 9 | bigbilly1234567899 | 4,356,688
