@@ -1,4 +1,4 @@
-Last updated: 23-08-09 04:43:35 UTC  
+Last updated: 23-08-09 04:51:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | WarmIyWacky | 675,624
 45 | cutsickass | 662,020
 46 | goldyluckinblokchain | 646,047
-47 | Autom4tic_Soze | 621,510
+47 | Autom4tic_Soze | 632,621
 48 | frickdom | 615,614
 49 | femacampcouncilor | 599,725
 50 | Richicash | 598,141
