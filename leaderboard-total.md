@@ -1,11 +1,11 @@
-Last updated: 23-08-09 11:16:41 UTC  
+Last updated: 23-08-09 11:25:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 18,853,739
 3 | Wonderful_Bad6531 | 12,920,799
-4 | Parush9 | 10,328,940
-5 | ConeDesk | 10,079,300
+4 | Parush9 | 10,398,360
+5 | ConeDesk | 10,085,380
 6 | crypto_grandma | 8,540,845
 7 | SammyCraigar | 7,150,779
 8 | rikbona | 4,534,779
@@ -271,11 +271,11 @@ Rank | Username | Totals Tips
 268 | ultra_terrestrial | 35,422
 269 | urlz | 35,060
 270 | Clonkerz | 34,840
-271 | Adrewmc | 34,177
-272 | zuzieey7719 | 33,655
-273 | preemcuz | 33,443
-274 | Gerboogler | 33,314
-275 | CryptoScamee42069 | 33,198
+271 | CryptoScamee42069 | 34,414
+272 | Adrewmc | 34,177
+273 | zuzieey7719 | 33,655
+274 | preemcuz | 33,443
+275 | Gerboogler | 33,314
 276 | xxapplej4ckx | 33,181
 277 | AnduriII | 33,106
 278 | zenhodl | 33,045
