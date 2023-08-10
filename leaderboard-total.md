@@ -1,4 +1,4 @@
-Last updated: 23-08-10 05:25:11 UTC  
+Last updated: 23-08-10 05:34:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,341
-12 | thelonliestcrowd | 3,215,829
+12 | thelonliestcrowd | 3,242,466
 13 | Jeff5704 | 3,137,571
 14 | redzrex | 2,987,151
 15 | avyun | 2,694,531
@@ -135,8 +135,8 @@ Rank | Username | Totals Tips
 132 | Sad_Entertainer9961 | 140,941
 133 | AustinTX1985 | 140,297
 134 | sudrats | 139,952
-135 | luisantonio197 | 138,696
-136 | noface_reddit | 136,391
+135 | noface_reddit | 139,054
+136 | luisantonio197 | 138,696
 137 | high5s_inureye | 136,377
 138 | revdrgonzo | 135,998
 139 | MymannosaurusRex | 135,756
