@@ -1,9 +1,9 @@
-Last updated: 23-08-10 18:26:59 UTC  
+Last updated: 23-08-10 18:35:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
-2 | Bitdream200K | 19,469,065
-3 | Wonderful_Bad6531 | 12,943,072
+2 | Bitdream200K | 19,479,065
+3 | Wonderful_Bad6531 | 12,946,540
 4 | ConeDesk | 11,130,124
 5 | Parush9 | 10,419,267
 6 | crypto_grandma | 9,393,244
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | send420nudes | 2,200,833
 21 | IveDoneItAtLast | 1,965,805
 22 | Mean_Bandicoot_7481 | 1,904,335
-23 | LuminousViper | 1,705,123
+23 | LuminousViper | 1,705,731
 24 | ashinamune | 1,693,204
 25 | thom_orrow | 1,624,148
 26 | GooderZBK | 1,570,711
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | _Royal_Insylum | 1,298,924
 32 | Autom4tic_Soze | 1,294,170
 33 | HestiaIsTheBestia | 1,188,043
-34 | ImAlekBan | 1,135,945
+34 | ImAlekBan | 1,136,365
 35 | LordBobTheWhale | 1,131,383
 36 | swampyswede | 1,083,537
 37 | WarmBiertje | 1,000,000
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | StepAsideSuckers | 402,958
 69 | MorrisBrett514 | 389,244
 70 | sinlesco | 388,070
-71 | Lady_Lucks_Man | 372,903
+71 | Lady_Lucks_Man | 377,903
 72 | CMDRGlamdring | 372,834
 73 | RazPie | 370,909
 74 | Real_Player_0 | 363,544
@@ -416,7 +416,7 @@ Rank | Username | Totals Tips
 413 | Arj_123 | 11,032
 414 | xllw | 11,000
 415 | ikiyen | 11,000
-416 | masstransience | 10,902
+416 | masstransience | 10,971
 417 | deeeznotes | 10,489
 418 | GuronT | 10,438
 419 | 73i1 | 10,412
@@ -474,7 +474,7 @@ Rank | Username | Totals Tips
 471 | Pengpangolin | 7,488
 472 | ryker_69 | 7,397
 473 | Burzzzt88 | 7,284
-474 | phrodreky | 7,081
+474 | phrodreky | 7,150
 475 | tbobs04 | 6,969
 476 | 1ndy1 | 6,934
 477 | Hofmaurerad | 6,858
