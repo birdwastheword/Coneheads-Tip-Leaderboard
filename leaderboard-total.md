@@ -1,9 +1,9 @@
-Last updated: 23-08-10 19:15:28 UTC  
+Last updated: 23-08-10 19:23:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 19,489,065
-3 | Wonderful_Bad6531 | 12,961,785
+3 | Wonderful_Bad6531 | 12,962,801
 4 | ConeDesk | 11,130,124
 5 | Parush9 | 10,419,267
 6 | crypto_grandma | 9,393,244
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,761
-12 | thelonliestcrowd | 3,309,468
+12 | thelonliestcrowd | 3,312,131
 13 | Jeff5704 | 3,172,197
 14 | redzrex | 2,995,140
 15 | avyun | 2,698,531
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | _Royal_Insylum | 1,298,924
 32 | Autom4tic_Soze | 1,294,170
 33 | HestiaIsTheBestia | 1,188,043
-34 | ImAlekBan | 1,136,365
+34 | ImAlekBan | 1,136,973
 35 | LordBobTheWhale | 1,132,411
 36 | swampyswede | 1,083,537
 37 | WarmBiertje | 1,000,000
