@@ -1,4 +1,4 @@
-Last updated: 23-08-10 15:24:01 UTC  
+Last updated: 23-08-10 15:35:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -6,13 +6,13 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 12,921,219
 4 | ConeDesk | 11,130,124
 5 | Parush9 | 10,419,267
-6 | crypto_grandma | 9,373,244
+6 | crypto_grandma | 9,393,244
 7 | Homeslicekilla | 7,238,912
 8 | SammyCraigar | 7,186,614
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,761
-12 | thelonliestcrowd | 3,287,744
+12 | thelonliestcrowd | 3,296,153
 13 | Jeff5704 | 3,142,897
 14 | redzrex | 2,992,477
 15 | avyun | 2,694,531
@@ -195,11 +195,11 @@ Rank | Username | Totals Tips
 192 | GodOfWarGuy737 | 79,069
 193 | Pwny_b0y | 78,826
 194 | Kevin3683 | 78,354
-195 | youtooleyesing | 75,815
-196 | Puzzleheaded_Gift738 | 75,589
-197 | Derefringence | 74,536
-198 | MedicineMaterial3501 | 73,988
-199 | Jadenindubai | 72,629
+195 | Jadenindubai | 77,629
+196 | youtooleyesing | 75,815
+197 | Puzzleheaded_Gift738 | 75,589
+198 | Derefringence | 74,536
+199 | MedicineMaterial3501 | 73,988
 200 | beanwiggin420 | 70,564
 201 | adi_00_ | 69,095
 202 | dopelifer09 | 67,490
@@ -212,8 +212,8 @@ Rank | Username | Totals Tips
 209 | WhateverAlready | 61,926
 210 | dinoyeti | 60,395
 211 | MisterM0H0 | 59,122
-212 | Significant_Talk4943 | 58,100
-213 | TheD1ceMan | 57,861
+212 | TheD1ceMan | 58,861
+213 | Significant_Talk4943 | 58,100
 214 | hellosamaira | 57,069
 215 | shellystarzz | 56,009
 216 | imbarrydylan | 55,689
