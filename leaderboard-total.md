@@ -1,4 +1,4 @@
-Last updated: 23-08-10 07:40:32 UTC  
+Last updated: 23-08-10 07:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -199,11 +199,11 @@ Rank | Username | Totals Tips
 196 | Puzzleheaded_Gift738 | 75,589
 197 | Derefringence | 74,536
 198 | MedicineMaterial3501 | 73,988
-199 | beanwiggin420 | 70,564
-200 | adi_00_ | 69,095
-201 | dopelifer09 | 67,490
-202 | imp3order | 65,546
-203 | Jadenindubai | 65,511
+199 | Jadenindubai | 72,411
+200 | beanwiggin420 | 70,564
+201 | adi_00_ | 69,095
+202 | dopelifer09 | 67,490
+203 | imp3order | 65,546
 204 | damnusernamegotcutof | 65,004
 205 | TubeNerd92 | 63,997
 206 | HokkaidoNights | 62,857
