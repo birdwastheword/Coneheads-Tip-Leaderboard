@@ -1,12 +1,12 @@
-Last updated: 23-08-10 09:51:00 UTC  
+Last updated: 23-08-10 10:30:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
-2 | Bitdream200K | 19,096,402
+2 | Bitdream200K | 19,146,402
 3 | Wonderful_Bad6531 | 12,921,219
 4 | ConeDesk | 10,463,269
 5 | Parush9 | 10,412,298
-6 | crypto_grandma | 8,900,368
+6 | crypto_grandma | 8,960,368
 7 | Homeslicekilla | 7,238,912
 8 | SammyCraigar | 7,186,614
 9 | rikbona | 4,534,779
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | _Royal_Insylum | 1,298,924
 32 | Autom4tic_Soze | 1,291,507
 33 | HestiaIsTheBestia | 1,188,043
-34 | LordBobTheWhale | 1,130,775
+34 | LordBobTheWhale | 1,131,383
 35 | ImAlekBan | 1,088,341
 36 | swampyswede | 1,075,548
 37 | WarmBiertje | 1,000,000
@@ -43,8 +43,8 @@ Rank | Username | Totals Tips
 40 | saintajoras | 888,237
 41 | Modestexcuse | 878,631
 42 | investigator100 | 847,289
-43 | _ships | 749,881
-44 | DontLaughArt | 743,049
+43 | DontLaughArt | 761,792
+44 | _ships | 749,881
 45 | starterpack420694 | 710,420
 46 | abracadabra087 | 675,675
 47 | WarmIyWacky | 675,624
@@ -179,17 +179,17 @@ Rank | Username | Totals Tips
 176 | PushyDevolution | 91,927
 177 | DogSpark84 | 91,927
 178 | FeetAndHandFetish | 91,146
-179 | H3adshotfox77 | 89,773
-180 | IOTA_Tesla | 87,742
-181 | Extreme_Issue7325 | 87,133
-182 | ACorDC | 86,489
-183 | junkwatch | 86,382
-184 | i_wake_up_at_12 | 86,229
-185 | Ashamed_Raccoon9918 | 85,209
-186 | ID404_Not_Found_8964 | 85,087
-187 | ShopALF | 83,929
-188 | Most_Being_4002 | 83,926
-189 | DAMG808 | 79,785
+179 | DAMG808 | 90,437
+180 | H3adshotfox77 | 89,773
+181 | IOTA_Tesla | 87,742
+182 | Extreme_Issue7325 | 87,133
+183 | ACorDC | 86,489
+184 | junkwatch | 86,451
+185 | i_wake_up_at_12 | 86,229
+186 | Ashamed_Raccoon9918 | 85,209
+187 | ID404_Not_Found_8964 | 85,087
+188 | ShopALF | 83,929
+189 | Most_Being_4002 | 83,926
 190 | customsolitaires | 79,704
 191 | wato4000 | 79,158
 192 | GodOfWarGuy737 | 79,069
@@ -199,7 +199,7 @@ Rank | Username | Totals Tips
 196 | Puzzleheaded_Gift738 | 75,589
 197 | Derefringence | 74,536
 198 | MedicineMaterial3501 | 73,988
-199 | Jadenindubai | 72,411
+199 | Jadenindubai | 72,480
 200 | beanwiggin420 | 70,564
 201 | adi_00_ | 69,095
 202 | dopelifer09 | 67,490
@@ -213,7 +213,7 @@ Rank | Username | Totals Tips
 210 | dinoyeti | 60,395
 211 | MisterM0H0 | 59,122
 212 | TheD1ceMan | 57,861
-213 | Significant_Talk4943 | 57,260
+213 | Significant_Talk4943 | 57,680
 214 | hellosamaira | 57,069
 215 | shellystarzz | 56,009
 216 | imbarrydylan | 55,689
@@ -260,8 +260,8 @@ Rank | Username | Totals Tips
 257 | Diamond_PnutBrain | 39,721
 258 | PushyDevoIution | 39,056
 259 | mutinomonem | 38,685
-260 | rowdy1212 | 38,129
-261 | alex_si_davies | 38,072
+260 | alex_si_davies | 38,680
+261 | rowdy1212 | 38,129
 262 | ysnmingle | 38,038
 263 | samer109 | 37,973
 264 | shitwhenismycakeday | 37,340
