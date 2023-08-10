@@ -1,4 +1,4 @@
-Last updated: 23-08-10 09:30:41 UTC  
+Last updated: 23-08-10 09:40:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | Modestexcuse | 878,631
 42 | investigator100 | 847,289
 43 | _ships | 749,881
-44 | DontLaughArt | 730,704
+44 | DontLaughArt | 743,049
 45 | starterpack420694 | 710,420
 46 | abracadabra087 | 675,675
 47 | WarmIyWacky | 675,624
