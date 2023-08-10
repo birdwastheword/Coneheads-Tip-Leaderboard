@@ -1,4 +1,4 @@
-Last updated: 23-08-10 04:27:26 UTC  
+Last updated: 23-08-10 04:40:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | Modestexcuse | 878,631
 42 | investigator100 | 847,289
 43 | _ships | 741,826
-44 | DontLaughArt | 721,353
+44 | DontLaughArt | 724,016
 45 | starterpack420694 | 710,420
 46 | abracadabra087 | 675,675
 47 | WarmIyWacky | 675,624
@@ -92,11 +92,11 @@ Rank | Username | Totals Tips
 89 | virmamies | 274,085
 90 | ArtConsitent | 270,178
 91 | x52x | 250,606
-92 | adrifing | 238,164
-93 | Sattack4000 | 229,721
-94 | waterhasnocalories | 224,641
-95 | BeardedBro_ | 223,068
-96 | doktastonks | 217,409
+92 | doktastonks | 244,072
+93 | adrifing | 238,164
+94 | Sattack4000 | 229,721
+95 | waterhasnocalories | 224,641
+96 | BeardedBro_ | 223,068
 97 | thecrabdad | 216,909
 98 | Zalkwalker | 216,803
 99 | joeviani | 215,515
@@ -137,14 +137,14 @@ Rank | Username | Totals Tips
 134 | sudrats | 139,952
 135 | luisantonio197 | 138,696
 136 | noface_reddit | 136,391
-137 | revdrgonzo | 135,998
-138 | MymannosaurusRex | 135,756
-139 | SalliIsAFem | 135,292
-140 | GrowinStuffAndThings | 134,506
-141 | 002_timmy | 131,385
-142 | CoverYourMaskHoles | 130,754
-143 | beastlybaker | 130,267
-144 | high5s_inureye | 128,538
+137 | high5s_inureye | 136,377
+138 | revdrgonzo | 135,998
+139 | MymannosaurusRex | 135,756
+140 | SalliIsAFem | 135,292
+141 | GrowinStuffAndThings | 134,506
+142 | 002_timmy | 131,385
+143 | CoverYourMaskHoles | 130,754
+144 | beastlybaker | 130,267
 145 | Obi1eyeKenobi | 127,515
 146 | CalligrapherEnough83 | 127,227
 147 | DamnWhySoLow | 124,748
@@ -249,10 +249,10 @@ Rank | Username | Totals Tips
 246 | ultra_terrestrial | 43,346
 247 | Sativa55555 | 42,489
 248 | CHEROKEEJ4CK | 42,489
-249 | CaptainCheeseCake | 41,363
-250 | ZoomLong | 41,251
-251 | ARoyaleWithCheese | 41,000
-252 | SandersIncBV | 40,918
+249 | SandersIncBV | 42,255
+250 | CaptainCheeseCake | 41,363
+251 | ZoomLong | 41,251
+252 | ARoyaleWithCheese | 41,000
 253 | Admirito | 40,665
 254 | Brandillio | 40,133
 255 | matdabom | 40,068
