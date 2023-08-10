@@ -1,4 +1,4 @@
-Last updated: 23-08-10 07:19:47 UTC  
+Last updated: 23-08-10 07:30:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -40,7 +40,7 @@ Rank | Username | Totals Tips
 37 | WarmBiertje | 1,000,000
 38 | EvanIsBacon | 969,996
 39 | thee_monster | 896,696
-40 | saintajoras | 886,237
+40 | saintajoras | 887,237
 41 | Modestexcuse | 878,631
 42 | investigator100 | 847,289
 43 | _ships | 749,881
