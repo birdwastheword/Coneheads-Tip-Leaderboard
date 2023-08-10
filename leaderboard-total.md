@@ -1,4 +1,4 @@
-Last updated: 23-08-10 17:32:21 UTC  
+Last updated: 23-08-10 17:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,761
 12 | thelonliestcrowd | 3,301,479
-13 | Jeff5704 | 3,145,560
+13 | Jeff5704 | 3,172,197
 14 | redzrex | 2,995,140
 15 | avyun | 2,695,868
 16 | ZukoBih | 2,530,417
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Ginomania | 2,307,865
 19 | Geniuskills | 2,224,892
 20 | send420nudes | 2,200,833
-21 | IveDoneItAtLast | 1,937,811
+21 | IveDoneItAtLast | 1,946,482
 22 | Mean_Bandicoot_7481 | 1,904,335
 23 | LuminousViper | 1,702,460
 24 | ashinamune | 1,693,204
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | Autom4tic_Soze | 1,294,170
 33 | HestiaIsTheBestia | 1,188,043
 34 | LordBobTheWhale | 1,131,383
-35 | ImAlekBan | 1,114,434
+35 | ImAlekBan | 1,115,042
 36 | swampyswede | 1,083,537
 37 | WarmBiertje | 1,000,000
 38 | EvanIsBacon | 969,996
@@ -117,9 +117,9 @@ Rank | Username | Totals Tips
 114 | superlonelyboy | 169,467
 115 | Street_Addd | 168,161
 116 | LongCauliflower6791 | 164,334
-117 | Flimsy_Brilliant_239 | 163,061
-118 | Esco1980 | 160,702
-119 | SnooMacarons9203 | 160,461
+117 | SnooMacarons9203 | 163,124
+118 | Flimsy_Brilliant_239 | 163,061
+119 | Esco1980 | 160,702
 120 | YourThighsWarmMyEars | 160,407
 121 | ruccarucca | 157,894
 122 | Forward_Today2849 | 154,180
