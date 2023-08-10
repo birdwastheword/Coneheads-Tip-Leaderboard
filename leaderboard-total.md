@@ -1,9 +1,9 @@
-Last updated: 23-08-10 15:51:51 UTC  
+Last updated: 23-08-10 16:32:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
-2 | Bitdream200K | 19,269,065
-3 | Wonderful_Bad6531 | 12,921,219
+2 | Bitdream200K | 19,319,065
+3 | Wonderful_Bad6531 | 12,923,882
 4 | ConeDesk | 11,130,124
 5 | Parush9 | 10,419,267
 6 | crypto_grandma | 9,393,244
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | send420nudes | 2,200,833
 21 | IveDoneItAtLast | 1,914,461
 22 | Mean_Bandicoot_7481 | 1,904,335
-23 | LuminousViper | 1,702,040
+23 | LuminousViper | 1,702,460
 24 | ashinamune | 1,693,204
 25 | thom_orrow | 1,624,148
 26 | GooderZBK | 1,570,103
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | Autom4tic_Soze | 1,294,170
 33 | HestiaIsTheBestia | 1,188,043
 34 | LordBobTheWhale | 1,131,383
-35 | ImAlekBan | 1,093,805
+35 | ImAlekBan | 1,096,468
 36 | swampyswede | 1,083,537
 37 | WarmBiertje | 1,000,000
 38 | EvanIsBacon | 969,996
@@ -73,12 +73,12 @@ Rank | Username | Totals Tips
 70 | sinlesco | 388,070
 71 | Lady_Lucks_Man | 372,903
 72 | RazPie | 370,909
-73 | Real_Player_0 | 363,544
-74 | CluelessSurvivor | 361,744
-75 | Cravensworth_redux | 361,307
-76 | SKITZ_ZA | 356,982
-77 | dronegeeks1 | 356,168
-78 | CMDRGlamdring | 355,171
+73 | CMDRGlamdring | 365,171
+74 | Real_Player_0 | 363,544
+75 | CluelessSurvivor | 361,744
+76 | Cravensworth_redux | 361,307
+77 | SKITZ_ZA | 356,982
+78 | dronegeeks1 | 356,168
 79 | LrnFaroeseWthBergur | 354,927
 80 | Westy3000 | 345,003
 81 | ValiantJudge29500 | 326,131
@@ -214,10 +214,10 @@ Rank | Username | Totals Tips
 211 | MisterM0H0 | 59,122
 212 | TheD1ceMan | 58,861
 213 | Significant_Talk4943 | 58,100
-214 | hellosamaira | 57,069
-215 | shellystarzz | 56,009
-216 | imbarrydylan | 55,689
-217 | scientifichistorian | 55,421
+214 | scientifichistorian | 58,084
+215 | hellosamaira | 57,069
+216 | shellystarzz | 56,009
+217 | imbarrydylan | 55,689
 218 | orangesandonions | 54,718
 219 | diamondbored | 54,397
 220 | Wildspliffosis | 54,145
@@ -544,8 +544,8 @@ Rank | Username | Totals Tips
 541 | officialzodiacbeats | 3,987
 542 | dozebull | 3,952
 543 | Dreadaussie | 3,920
-544 | sicilian2124 | 3,886
-545 | Lillica_Golden_SHIB | 3,750
+544 | Lillica_Golden_SHIB | 3,888
+545 | sicilian2124 | 3,886
 546 | salt_yaf | 3,706
 547 | carsonthecarsinogen | 3,700
 548 | Mrcoolguynumberone | 3,420
