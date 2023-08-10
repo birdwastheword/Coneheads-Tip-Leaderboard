@@ -1,4 +1,4 @@
-Last updated: 23-08-10 09:21:54 UTC  
+Last updated: 23-08-10 09:30:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 12,921,219
 4 | ConeDesk | 10,463,269
 5 | Parush9 | 10,412,298
-6 | crypto_grandma | 8,840,368
+6 | crypto_grandma | 8,900,368
 7 | Homeslicekilla | 7,238,912
 8 | SammyCraigar | 7,186,614
 9 | rikbona | 4,534,779
@@ -108,7 +108,7 @@ Rank | Username | Totals Tips
 105 | Beenthorny | 192,043
 106 | CedricDiccory | 190,387
 107 | MediaPrestigious8342 | 189,647
-108 | Skank_cunt_42 | 183,288
+108 | Skank_cunt_42 | 186,559
 109 | crodbtc | 183,271
 110 | isthistomorrow_ | 180,871
 111 | SigSalvadore | 179,337
