@@ -1,9 +1,9 @@
-Last updated: 23-08-10 18:35:08 UTC  
+Last updated: 23-08-10 18:43:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 19,479,065
-3 | Wonderful_Bad6531 | 12,946,540
+3 | Wonderful_Bad6531 | 12,948,484
 4 | ConeDesk | 11,130,124
 5 | Parush9 | 10,419,267
 6 | crypto_grandma | 9,393,244
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,761
-12 | thelonliestcrowd | 3,304,142
+12 | thelonliestcrowd | 3,306,805
 13 | Jeff5704 | 3,172,197
 14 | redzrex | 2,995,140
 15 | avyun | 2,698,531
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | StepAsideSuckers | 402,958
 69 | MorrisBrett514 | 389,244
 70 | sinlesco | 388,070
-71 | Lady_Lucks_Man | 377,903
+71 | Lady_Lucks_Man | 378,511
 72 | CMDRGlamdring | 372,834
 73 | RazPie | 370,909
 74 | Real_Player_0 | 363,544
@@ -175,7 +175,7 @@ Rank | Username | Totals Tips
 172 | Knaeggebrott | 97,076
 173 | BrendanTFirefly | 94,857
 174 | DogSpark84 | 94,590
-175 | Conetent | 93,576
+175 | Conetent | 94,184
 176 | wolfman333 | 92,306
 177 | PushyDevolution | 91,927
 178 | DAMG808 | 91,465
@@ -232,7 +232,7 @@ Rank | Username | Totals Tips
 229 | lucivaryas | 51,000
 230 | ky0984 | 50,928
 231 | Astrochrono | 49,851
-232 | dealkhabari | 48,467
+232 | dealkhabari | 48,887
 233 | RollingSkull0 | 48,175
 234 | d_Shazam_b | 48,068
 235 | Tapiz3land | 47,938
@@ -537,8 +537,8 @@ Rank | Username | Totals Tips
 534 | ADT06 | 4,137
 535 | DrAgaricus | 4,111
 536 | JAlbert653 | 4,095
-537 | BelowAveIntelligence | 4,063
-538 | Lillica_Golden_SHIB | 4,026
+537 | Lillica_Golden_SHIB | 4,095
+538 | BelowAveIntelligence | 4,063
 539 | RiceRare | 4,025
 540 | Ronkad | 4,003
 541 | TeflonThaDonn | 4,000
