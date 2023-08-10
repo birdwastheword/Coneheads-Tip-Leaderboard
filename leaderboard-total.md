@@ -1,4 +1,4 @@
-Last updated: 23-08-10 02:26:14 UTC  
+Last updated: 23-08-10 02:48:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | doktastonks | 217,409
 96 | thecrabdad | 216,909
 97 | Zalkwalker | 216,803
-98 | joeviani | 215,335
+98 | joeviani | 215,515
 99 | redditavanft | 194,822
 100 | AverageLiberalJoe | 194,376
 101 | MuhSound | 193,642
@@ -143,8 +143,8 @@ Rank | Username | Totals Tips
 140 | 002_timmy | 131,385
 141 | beastlybaker | 130,267
 142 | CoverYourMaskHoles | 128,091
-143 | CalligrapherEnough83 | 127,227
-144 | Obi1eyeKenobi | 125,515
+143 | Obi1eyeKenobi | 127,515
+144 | CalligrapherEnough83 | 127,227
 145 | DamnWhySoLow | 124,748
 146 | high5s_inureye | 124,038
 147 | GoodMornEveGoodNight | 123,850
