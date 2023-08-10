@@ -1,4 +1,4 @@
-Last updated: 23-08-10 15:43:46 UTC  
+Last updated: 23-08-10 15:51:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -100,9 +100,9 @@ Rank | Username | Totals Tips
 97 | thecrabdad | 216,909
 98 | Zalkwalker | 216,803
 99 | joeviani | 216,516
-100 | redditavanft | 194,822
-101 | AverageLiberalJoe | 194,376
-102 | MuhSound | 193,642
+100 | MuhSound | 196,913
+101 | redditavanft | 194,822
+102 | AverageLiberalJoe | 194,376
 103 | rustyybikes | 193,109
 104 | SourBeefHoop | 192,213
 105 | Beenthorny | 192,043
@@ -318,7 +318,7 @@ Rank | Username | Totals Tips
 315 | chaud3r | 25,627
 316 | ThekinginYellow27 | 25,430
 317 | deltamoney | 25,321
-318 | anony666mous | 25,180
+318 | anony666mous | 25,249
 319 | AnxiousQuestioner | 25,076
 320 | tmztmz2 | 24,921
 321 | chuloreddit | 24,878
