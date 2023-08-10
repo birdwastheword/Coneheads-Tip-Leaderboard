@@ -1,10 +1,10 @@
-Last updated: 23-08-10 11:17:02 UTC  
+Last updated: 23-08-10 11:25:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 19,146,402
 3 | Wonderful_Bad6531 | 12,921,219
-4 | ConeDesk | 10,463,269
+4 | ConeDesk | 10,508,269
 5 | Parush9 | 10,412,298
 6 | crypto_grandma | 9,020,368
 7 | Homeslicekilla | 7,238,912
@@ -24,8 +24,8 @@ Rank | Username | Totals Tips
 21 | Mean_Bandicoot_7481 | 1,904,335
 22 | IveDoneItAtLast | 1,902,197
 23 | LuminousViper | 1,702,040
-24 | thom_orrow | 1,621,485
-25 | ashinamune | 1,593,204
+24 | ashinamune | 1,693,204
+25 | thom_orrow | 1,621,485
 26 | GooderZBK | 1,570,103
 27 | Affectionate_Hand_76 | 1,409,681
 28 | GuyOne | 1,404,764
@@ -73,9 +73,9 @@ Rank | Username | Totals Tips
 70 | sinlesco | 388,070
 71 | Lady_Lucks_Man | 372,903
 72 | RazPie | 370,909
-73 | CluelessSurvivor | 361,744
-74 | Cravensworth_redux | 361,307
-75 | Real_Player_0 | 360,881
+73 | Real_Player_0 | 363,544
+74 | CluelessSurvivor | 361,744
+75 | Cravensworth_redux | 361,307
 76 | SKITZ_ZA | 356,982
 77 | dronegeeks1 | 356,168
 78 | LrnFaroeseWthBergur | 354,927
