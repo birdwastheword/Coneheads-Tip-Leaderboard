@@ -1,4 +1,4 @@
-Last updated: 23-08-10 14:40:50 UTC  
+Last updated: 23-08-10 14:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,761
 12 | thelonliestcrowd | 3,258,444
-13 | Jeff5704 | 3,137,571
+13 | Jeff5704 | 3,140,234
 14 | redzrex | 2,992,477
 15 | avyun | 2,694,531
 16 | ZukoBih | 2,525,091
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | CedricDiccory | 190,387
 107 | MediaPrestigious8342 | 189,647
 108 | Skank_cunt_42 | 186,559
-109 | crodbtc | 183,271
+109 | crodbtc | 185,934
 110 | isthistomorrow_ | 180,871
 111 | SigSalvadore | 179,337
 112 | nooobmaester69 | 176,093
@@ -165,7 +165,7 @@ Rank | Username | Totals Tips
 162 | AD_VICTORIAM_x | 106,876
 163 | lordciders | 106,460
 164 | Chanyuui1 | 103,430
-165 | MelonFarmer420 | 102,590
+165 | MelonFarmer420 | 103,010
 166 | PortCity_MadMan | 101,608
 167 | flying_bacon | 100,717
 168 | Jlt42000 | 100,651
