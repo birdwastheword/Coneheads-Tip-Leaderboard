@@ -82,7 +82,7 @@ for name, total in totals.items():
   rank += 1
   comment += f"{rank} | {name.removeprefix('/u/')} | {'{:,}'.format(total)}\r\n"
 
-comment += f"\r\nThis day is defined starting at {yesterday.date()} 00:00 UTC and ending at {datetime.datetime.now().date()} 00:00 UTC.\r\n" \
+comment += f"\r\nThis day is defined starting at {yesterday.date()} 00:00 UTC and ending at {datetime.datetime.now().date()} 00:00 UTC.  \r\n" \
            f"The code generating this leaderboard is available for review here: https://github.com/birdwastheword/Coneheads-Tip-Leaderboard"
 print(comment)
 
