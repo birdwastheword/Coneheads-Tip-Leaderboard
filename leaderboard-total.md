@@ -1,10 +1,10 @@
-Last updated: 23-08-10 22:25:35 UTC  
+Last updated: 23-08-10 22:34:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 20,327,777
-3 | Wonderful_Bad6531 | 13,060,379
-4 | ConeDesk | 11,355,385
+3 | Wonderful_Bad6531 | 13,060,887
+4 | ConeDesk | 11,355,993
 5 | Parush9 | 10,474,749
 6 | crypto_grandma | 9,341,721
 7 | Homeslicekilla | 7,238,912
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,761
-12 | thelonliestcrowd | 3,344,094
+12 | thelonliestcrowd | 3,317,457
 13 | Jeff5704 | 3,172,197
 14 | redzrex | 2,997,803
 15 | VIVOffical | 2,962,211
@@ -27,10 +27,10 @@ Rank | Username | Totals Tips
 24 | ashinamune | 1,688,704
 25 | thom_orrow | 1,624,148
 26 | GooderZBK | 1,570,711
-27 | transfermymoons | 1,538,498
+27 | transfermymoons | 1,551,410
 28 | Autom4tic_Soze | 1,414,226
-29 | Affectionate_Hand_76 | 1,409,681
-30 | GuyOne | 1,406,819
+29 | GuyOne | 1,410,152
+30 | Affectionate_Hand_76 | 1,409,681
 31 | bray_martin03 | 1,380,770
 32 | _Royal_Insylum | 1,298,924
 33 | HestiaIsTheBestia | 1,188,043
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | Modestexcuse | 873,297
 41 | investigator100 | 844,626
 42 | DontLaughArt | 769,737
-43 | _ships | 748,152
+43 | _ships | 740,652
 44 | starterpack420694 | 710,420
 45 | abracadabra087 | 675,675
 46 | WarmIyWacky | 675,624
@@ -116,8 +116,8 @@ Rank | Username | Totals Tips
 113 | isthistomorrow_ | 180,871
 114 | SigSalvadore | 179,337
 115 | nooobmaester69 | 176,093
-116 | noface_reddit | 174,093
-117 | send_tacoz | 173,810
+116 | send_tacoz | 173,810
+117 | noface_reddit | 171,430
 118 | superlonelyboy | 169,467
 119 | Street_Addd | 168,161
 120 | Esco1980 | 160,702
@@ -172,13 +172,13 @@ Rank | Username | Totals Tips
 169 | adrefofadre | 99,717
 170 | ashketchup422 | 97,225
 171 | Knaeggebrott | 97,076
-172 | junkwatch | 95,418
+172 | junkwatch | 95,487
 173 | BrendanTFirefly | 94,857
 174 | DogSpark84 | 94,584
 175 | Conetent | 94,184
 176 | wolfman333 | 92,306
-177 | PushyDevolution | 91,927
-178 | zenhodl | 91,632
+177 | zenhodl | 92,132
+178 | PushyDevolution | 91,927
 179 | DAMG808 | 91,465
 180 | FeetAndHandFetish | 91,146
 181 | H3adshotfox77 | 89,773
@@ -202,9 +202,9 @@ Rank | Username | Totals Tips
 199 | MedicineMaterial3501 | 73,988
 200 | beanwiggin420 | 70,984
 201 | adi_00_ | 69,095
-202 | dopelifer09 | 67,490
-203 | imp3order | 65,546
-204 | damnusernamegotcutof | 65,004
+202 | imp3order | 65,546
+203 | damnusernamegotcutof | 65,004
+204 | dopelifer09 | 64,827
 205 | TubeNerd92 | 63,997
 206 | HokkaidoNights | 62,857
 207 | ItailianStallion101 | 62,826
