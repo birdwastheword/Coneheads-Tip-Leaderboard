@@ -1,4 +1,4 @@
-Last updated: 23-08-10 17:23:20 UTC  
+Last updated: 23-08-10 17:32:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Ginomania | 2,307,865
 19 | Geniuskills | 2,224,892
 20 | send420nudes | 2,200,833
-21 | IveDoneItAtLast | 1,926,477
+21 | IveDoneItAtLast | 1,937,811
 22 | Mean_Bandicoot_7481 | 1,904,335
 23 | LuminousViper | 1,702,460
 24 | ashinamune | 1,693,204
