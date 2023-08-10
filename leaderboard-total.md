@@ -1,4 +1,4 @@
-Last updated: 23-08-10 04:40:30 UTC  
+Last updated: 23-08-10 04:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | saintajoras | 886,237
 41 | Modestexcuse | 878,631
 42 | investigator100 | 847,289
-43 | _ships | 741,826
+43 | _ships | 742,381
 44 | DontLaughArt | 724,016
 45 | starterpack420694 | 710,420
 46 | abracadabra087 | 675,675
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | Due_Insurance8159 | 529,004
 60 | shreyaskg | 523,722
 61 | evilninjarobot | 479,502
-62 | birdwastheword | 468,813
+62 | birdwastheword | 474,809
 63 | Alanski22 | 454,380
 64 | Mopeiooo | 427,266
 65 | WarmlyWacky | 425,166
@@ -183,8 +183,8 @@ Rank | Username | Totals Tips
 180 | IOTA_Tesla | 87,742
 181 | Extreme_Issue7325 | 87,133
 182 | ACorDC | 86,489
-183 | i_wake_up_at_12 | 86,229
-184 | junkwatch | 85,893
+183 | junkwatch | 86,313
+184 | i_wake_up_at_12 | 86,229
 185 | ID404_Not_Found_8964 | 85,087
 186 | Ashamed_Raccoon9918 | 84,789
 187 | ShopALF | 83,929
