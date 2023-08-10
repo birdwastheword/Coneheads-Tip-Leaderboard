@@ -1,4 +1,4 @@
-Last updated: 23-08-10 03:21:22 UTC  
+Last updated: 23-08-10 03:30:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | bray_martin03 | 1,380,770
 30 | transfermymoons | 1,312,428
 31 | _Royal_Insylum | 1,298,924
-32 | Autom4tic_Soze | 1,222,087
+32 | Autom4tic_Soze | 1,291,507
 33 | HestiaIsTheBestia | 1,188,043
 34 | LordBobTheWhale | 1,130,775
 35 | swampyswede | 1,075,548
