@@ -1,9 +1,9 @@
-Last updated: 23-08-10 20:19:56 UTC  
+Last updated: 23-08-10 20:30:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 19,514,391
-3 | Wonderful_Bad6531 | 12,979,176
+3 | Wonderful_Bad6531 | 12,986,203
 4 | ConeDesk | 11,130,124
 5 | Parush9 | 10,419,267
 6 | crypto_grandma | 9,393,244
@@ -83,8 +83,8 @@ Rank | Username | Totals Tips
 80 | Westy3000 | 346,114
 81 | ValiantJudge29500 | 326,739
 82 | tsudrat | 321,591
-83 | farmertypoerror | 313,866
-84 | djrcollectables | 312,742
+83 | djrcollectables | 315,405
+84 | farmertypoerror | 313,866
 85 | EffinDrongoC | 301,710
 86 | VincentVanGTFO | 296,381
 87 | liwipe | 292,869
@@ -101,9 +101,9 @@ Rank | Username | Totals Tips
 98 | Zalkwalker | 216,803
 99 | joeviani | 216,516
 100 | MuhSound | 198,737
-101 | redditavanft | 194,822
-102 | AverageLiberalJoe | 194,376
-103 | rustyybikes | 193,109
+101 | rustyybikes | 195,772
+102 | redditavanft | 194,822
+103 | AverageLiberalJoe | 194,376
 104 | UniversalNoobMaster | 192,218
 105 | SourBeefHoop | 192,213
 106 | Beenthorny | 192,043
@@ -116,9 +116,9 @@ Rank | Username | Totals Tips
 113 | nooobmaester69 | 176,093
 114 | send_tacoz | 173,810
 115 | superlonelyboy | 169,467
-116 | Street_Addd | 168,161
-117 | SnooMacarons9203 | 165,787
-118 | LongCauliflower6791 | 164,334
+116 | SnooMacarons9203 | 168,450
+117 | Street_Addd | 168,161
+118 | LongCauliflower6791 | 166,997
 119 | Flimsy_Brilliant_239 | 163,061
 120 | Esco1980 | 160,702
 121 | YourThighsWarmMyEars | 160,407
@@ -292,15 +292,15 @@ Rank | Username | Totals Tips
 289 | Doovs | 31,967
 290 | 4gsboofd | 31,142
 291 | OutTop | 31,069
-292 | mastermarvs | 30,696
-293 | Yirii | 30,605
-294 | See0tter | 30,510
-295 | shiesto | 30,339
-296 | LX1070 | 30,202
-297 | rOn3OW | 30,106
-298 | masedogg98 | 29,707
-299 | LoudlySoupy | 28,681
-300 | Steadfast_Apparition | 28,224
+292 | Steadfast_Apparition | 30,887
+293 | mastermarvs | 30,696
+294 | Yirii | 30,605
+295 | See0tter | 30,510
+296 | shiesto | 30,339
+297 | LX1070 | 30,202
+298 | rOn3OW | 30,106
+299 | masedogg98 | 29,707
+300 | LoudlySoupy | 28,681
 301 | MaestroMustache | 28,202
 302 | madisonfm | 27,865
 303 | Locid | 27,677
@@ -339,7 +339,7 @@ Rank | Username | Totals Tips
 336 | mofayew | 21,840
 337 | Tasty_Bag | 21,375
 338 | ACE415_ | 21,000
-339 | Duskopia | 20,338
+339 | Duskopia | 20,758
 340 | Lucabba | 20,314
 341 | Expensive_Being_4038 | 20,069
 342 | NoahG59 | 20,002
@@ -421,9 +421,9 @@ Rank | Username | Totals Tips
 418 | GuronT | 10,438
 419 | 73i1 | 10,412
 420 | Gilbertll | 10,332
-421 | Gamestopisthe1 | 10,158
-422 | SenseiRaheem | 10,133
-423 | Flamingo777 | 10,100
+421 | Flamingo777 | 10,169
+422 | Gamestopisthe1 | 10,158
+423 | SenseiRaheem | 10,133
 424 | PRYCDaddy | 10,078
 425 | jimfird | 10,069
 426 | FoleyKali | 10,049
