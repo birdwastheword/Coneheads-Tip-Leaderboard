@@ -1,4 +1,4 @@
-Last updated: 23-08-10 10:50:48 UTC  
+Last updated: 23-08-10 11:17:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 12,921,219
 4 | ConeDesk | 10,463,269
 5 | Parush9 | 10,412,298
-6 | crypto_grandma | 8,960,368
+6 | crypto_grandma | 9,020,368
 7 | Homeslicekilla | 7,238,912
 8 | SammyCraigar | 7,186,614
 9 | rikbona | 4,534,779
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | saintajoras | 888,237
 41 | Modestexcuse | 878,631
 42 | investigator100 | 847,289
-43 | DontLaughArt | 761,792
+43 | DontLaughArt | 772,400
 44 | _ships | 749,881
 45 | starterpack420694 | 710,420
 46 | abracadabra087 | 675,675
@@ -76,9 +76,9 @@ Rank | Username | Totals Tips
 73 | CluelessSurvivor | 361,744
 74 | Cravensworth_redux | 361,307
 75 | Real_Player_0 | 360,881
-76 | dronegeeks1 | 356,168
-77 | LrnFaroeseWthBergur | 354,927
-78 | SKITZ_ZA | 354,319
+76 | SKITZ_ZA | 356,982
+77 | dronegeeks1 | 356,168
+78 | LrnFaroeseWthBergur | 354,927
 79 | Westy3000 | 345,003
 80 | CMDRGlamdring | 340,171
 81 | ValiantJudge29500 | 326,131
@@ -186,7 +186,7 @@ Rank | Username | Totals Tips
 183 | ACorDC | 86,489
 184 | junkwatch | 86,451
 185 | i_wake_up_at_12 | 86,229
-186 | Ashamed_Raccoon9918 | 85,209
+186 | Ashamed_Raccoon9918 | 85,629
 187 | ID404_Not_Found_8964 | 85,087
 188 | ShopALF | 83,929
 189 | Most_Being_4002 | 83,926
