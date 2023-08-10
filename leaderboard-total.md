@@ -1,11 +1,11 @@
-Last updated: 23-08-10 03:50:47 UTC  
+Last updated: 23-08-10 04:27:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 19,043,739
 3 | Wonderful_Bad6531 | 12,920,799
 4 | ConeDesk | 10,463,269
-5 | Parush9 | 10,405,329
+5 | Parush9 | 10,412,298
 6 | crypto_grandma | 8,785,368
 7 | Homeslicekilla | 7,238,912
 8 | SammyCraigar | 7,186,614
@@ -25,7 +25,7 @@ Rank | Username | Totals Tips
 22 | IveDoneItAtLast | 1,888,882
 23 | LuminousViper | 1,702,040
 24 | thom_orrow | 1,621,485
-25 | ashinamune | 1,588,704
+25 | ashinamune | 1,593,204
 26 | GooderZBK | 1,570,103
 27 | Affectionate_Hand_76 | 1,409,681
 28 | GuyOne | 1,404,764
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | saintajoras | 886,237
 41 | Modestexcuse | 878,631
 42 | investigator100 | 847,289
-43 | _ships | 733,766
+43 | _ships | 741,826
 44 | DontLaughArt | 721,353
 45 | starterpack420694 | 710,420
 46 | abracadabra087 | 675,675
@@ -75,13 +75,13 @@ Rank | Username | Totals Tips
 72 | RazPie | 370,909
 73 | CluelessSurvivor | 361,744
 74 | Cravensworth_redux | 361,307
-75 | Real_Player_0 | 360,273
+75 | Real_Player_0 | 360,881
 76 | dronegeeks1 | 356,168
 77 | LrnFaroeseWthBergur | 354,927
 78 | SKITZ_ZA | 354,319
 79 | Westy3000 | 345,003
 80 | CMDRGlamdring | 340,171
-81 | ValiantJudge29500 | 321,631
+81 | ValiantJudge29500 | 326,131
 82 | tsudrat | 321,591
 83 | farmertypoerror | 313,866
 84 | djrcollectables | 306,996
@@ -142,12 +142,12 @@ Rank | Username | Totals Tips
 139 | SalliIsAFem | 135,292
 140 | GrowinStuffAndThings | 134,506
 141 | 002_timmy | 131,385
-142 | beastlybaker | 130,267
-143 | CoverYourMaskHoles | 128,091
-144 | Obi1eyeKenobi | 127,515
-145 | CalligrapherEnough83 | 127,227
-146 | DamnWhySoLow | 124,748
-147 | high5s_inureye | 124,038
+142 | CoverYourMaskHoles | 130,754
+143 | beastlybaker | 130,267
+144 | high5s_inureye | 128,538
+145 | Obi1eyeKenobi | 127,515
+146 | CalligrapherEnough83 | 127,227
+147 | DamnWhySoLow | 124,748
 148 | GoodMornEveGoodNight | 123,850
 149 | tjex666 | 122,101
 150 | Schl0tz | 120,000
