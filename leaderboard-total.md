@@ -1,10 +1,10 @@
-Last updated: 23-08-10 20:30:43 UTC  
+Last updated: 23-08-10 20:40:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 19,514,391
-3 | Wonderful_Bad6531 | 12,986,203
-4 | ConeDesk | 11,130,124
+3 | Wonderful_Bad6531 | 12,990,490
+4 | ConeDesk | 11,130,732
 5 | Parush9 | 10,419,267
 6 | crypto_grandma | 9,393,244
 7 | Homeslicekilla | 7,238,912
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,761
-12 | thelonliestcrowd | 3,317,457
+12 | thelonliestcrowd | 3,320,120
 13 | Jeff5704 | 3,172,197
 14 | redzrex | 2,995,140
 15 | VIVOffical | 2,964,874
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | HestiaIsTheBestia | 1,188,043
 34 | ImAlekBan | 1,137,581
 35 | LordBobTheWhale | 1,132,411
-36 | swampyswede | 1,083,537
+36 | swampyswede | 1,086,200
 37 | WarmBiertje | 1,000,000
 38 | EvanIsBacon | 969,996
 39 | thee_monster | 896,696
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | starterpack420694 | 710,420
 46 | abracadabra087 | 675,675
 47 | WarmIyWacky | 675,624
-48 | cutsickass | 668,362
+48 | cutsickass | 668,870
 49 | goldyluckinblokchain | 646,047
 50 | frickdom | 615,614
 51 | femacampcouncilor | 599,725
@@ -100,8 +100,8 @@ Rank | Username | Totals Tips
 97 | thecrabdad | 216,909
 98 | Zalkwalker | 216,803
 99 | joeviani | 216,516
-100 | MuhSound | 198,737
-101 | rustyybikes | 195,772
+100 | rustyybikes | 209,087
+101 | MuhSound | 198,737
 102 | redditavanft | 194,822
 103 | AverageLiberalJoe | 194,376
 104 | UniversalNoobMaster | 192,218
@@ -124,8 +124,8 @@ Rank | Username | Totals Tips
 121 | YourThighsWarmMyEars | 160,407
 122 | ruccarucca | 157,894
 123 | Forward_Today2849 | 154,180
-124 | 6reficul | 153,884
-125 | the_judge_168 | 151,449
+124 | the_judge_168 | 154,112
+125 | 6reficul | 153,884
 126 | martymartinator | 150,595
 127 | YarOldeOrchard | 147,242
 128 | maxfra | 145,908
@@ -252,10 +252,10 @@ Rank | Username | Totals Tips
 249 | Sativa55555 | 42,489
 250 | CHEROKEEJ4CK | 42,489
 251 | SandersIncBV | 42,255
-252 | CaptainCheeseCake | 41,363
-253 | ZoomLong | 41,251
-254 | ARoyaleWithCheese | 41,000
-255 | RegalReptile_ | 40,903
+252 | RegalReptile_ | 41,903
+253 | CaptainCheeseCake | 41,363
+254 | ZoomLong | 41,251
+255 | ARoyaleWithCheese | 41,000
 256 | Admirito | 40,665
 257 | Brandillio | 40,133
 258 | matdabom | 40,068
