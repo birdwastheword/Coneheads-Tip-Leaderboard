@@ -1,17 +1,17 @@
-Last updated: 23-08-10 23:40:42 UTC  
+Last updated: 23-08-10 23:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 20,277,777
 3 | Wonderful_Bad6531 | 13,060,467
-4 | ConeDesk | 11,368,153
+4 | ConeDesk | 11,374,233
 5 | Parush9 | 10,474,749
 6 | crypto_grandma | 9,341,721
 7 | Homeslicekilla | 7,238,912
 8 | SammyCraigar | 7,195,211
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
-11 | HippieStarTraveler | 3,878,761
+11 | HippieStarTraveler | 3,879,181
 12 | thelonliestcrowd | 3,309,468
 13 | Jeff5704 | 3,177,943
 14 | redzrex | 2,997,803
@@ -81,7 +81,7 @@ Rank | Username | Totals Tips
 78 | LrnFaroeseWthBergur | 354,927
 79 | Westy3000 | 346,114
 80 | djrcollectables | 326,057
-81 | ValiantJudge29500 | 322,239
+81 | ValiantJudge29500 | 322,339
 82 | tsudrat | 321,591
 83 | farmertypoerror | 313,866
 84 | EffinDrongoC | 301,710
@@ -176,12 +176,12 @@ Rank | Username | Totals Tips
 173 | junkwatch | 95,487
 174 | BrendanTFirefly | 94,857
 175 | Conetent | 94,604
-176 | wolfman333 | 92,306
-177 | zenhodl | 92,132
-178 | PushyDevolution | 91,927
-179 | DAMG808 | 91,465
-180 | FeetAndHandFetish | 91,146
-181 | IOTA_Tesla | 90,742
+176 | IOTA_Tesla | 93,742
+177 | wolfman333 | 92,306
+178 | zenhodl | 92,132
+179 | PushyDevolution | 91,927
+180 | DAMG808 | 91,465
+181 | FeetAndHandFetish | 91,146
 182 | H3adshotfox77 | 89,773
 183 | Extreme_Issue7325 | 87,133
 184 | Most_Being_4002 | 87,009
@@ -263,12 +263,12 @@ Rank | Username | Totals Tips
 260 | Diamond_PnutBrain | 39,721
 261 | alex_si_davies | 39,288
 262 | PushyDevoIution | 39,056
-263 | mutinomonem | 38,685
-264 | rowdy1212 | 38,129
-265 | ysnmingle | 38,038
-266 | samer109 | 37,973
-267 | AlternativeBag2619 | 37,514
-268 | Brandillio | 37,470
+263 | Brandillio | 38,807
+264 | mutinomonem | 38,685
+265 | rowdy1212 | 38,129
+266 | ysnmingle | 38,038
+267 | samer109 | 37,973
+268 | AlternativeBag2619 | 37,514
 269 | shitwhenismycakeday | 37,340
 270 | redditisalt | 37,307
 271 | SpookySYN | 37,182
