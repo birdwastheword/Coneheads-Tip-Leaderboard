@@ -1,4 +1,4 @@
-Last updated: 23-08-10 23:30:36 UTC  
+Last updated: 23-08-10 23:40:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | thom_orrow | 1,624,148
 26 | GooderZBK | 1,570,711
 27 | transfermymoons | 1,556,736
-28 | Autom4tic_Soze | 1,537,682
+28 | Autom4tic_Soze | 1,538,793
 29 | GuyOne | 1,410,152
 30 | Affectionate_Hand_76 | 1,409,681
 31 | bray_martin03 | 1,380,770
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | swampyswede | 1,088,863
 37 | WarmBiertje | 1,000,000
 38 | thee_monster | 896,696
-39 | saintajoras | 887,237
+39 | saintajoras | 886,237
 40 | Modestexcuse | 873,297
 41 | investigator100 | 844,626
 42 | DontLaughArt | 769,737
@@ -187,8 +187,8 @@ Rank | Username | Totals Tips
 184 | Most_Being_4002 | 87,009
 185 | ACorDC | 86,489
 186 | i_wake_up_at_12 | 86,229
-187 | ID404_Not_Found_8964 | 86,000
-188 | Ashamed_Raccoon9918 | 85,629
+187 | Ashamed_Raccoon9918 | 86,049
+188 | ID404_Not_Found_8964 | 86,000
 189 | ShopALF | 83,929
 190 | customsolitaires | 79,952
 191 | wato4000 | 79,158
