@@ -1,4 +1,4 @@
-Last updated: 23-08-10 10:40:34 UTC  
+Last updated: 23-08-10 10:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | HippieStarTraveler | 3,878,761
 12 | thelonliestcrowd | 3,253,118
 13 | Jeff5704 | 3,137,571
-14 | redzrex | 2,987,151
+14 | redzrex | 2,992,477
 15 | avyun | 2,694,531
 16 | ZukoBih | 2,522,428
 17 | VIVOffical | 2,356,874
@@ -258,9 +258,9 @@ Rank | Username | Totals Tips
 255 | matdabom | 40,068
 256 | YourLocalDuskFox | 40,000
 257 | Diamond_PnutBrain | 39,721
-258 | PushyDevoIution | 39,056
-259 | mutinomonem | 38,685
-260 | alex_si_davies | 38,680
+258 | alex_si_davies | 39,288
+259 | PushyDevoIution | 39,056
+260 | mutinomonem | 38,685
 261 | rowdy1212 | 38,129
 262 | ysnmingle | 38,038
 263 | samer109 | 37,973
