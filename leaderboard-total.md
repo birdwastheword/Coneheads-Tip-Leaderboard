@@ -1,4 +1,4 @@
-Last updated: 23-08-10 07:50:48 UTC  
+Last updated: 23-08-10 08:28:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 12,921,219
 4 | ConeDesk | 10,463,269
 5 | Parush9 | 10,412,298
-6 | crypto_grandma | 8,830,368
+6 | crypto_grandma | 8,840,368
 7 | Homeslicekilla | 7,238,912
 8 | SammyCraigar | 7,186,614
 9 | rikbona | 4,534,779
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Geniuskills | 2,224,892
 20 | send420nudes | 2,200,833
 21 | Mean_Bandicoot_7481 | 1,904,335
-22 | IveDoneItAtLast | 1,891,545
+22 | IveDoneItAtLast | 1,894,208
 23 | LuminousViper | 1,702,040
 24 | thom_orrow | 1,621,485
 25 | ashinamune | 1,593,204
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | Autom4tic_Soze | 1,291,507
 33 | HestiaIsTheBestia | 1,188,043
 34 | LordBobTheWhale | 1,130,775
-35 | ImAlekBan | 1,083,694
+35 | ImAlekBan | 1,087,027
 36 | swampyswede | 1,075,548
 37 | WarmBiertje | 1,000,000
 38 | EvanIsBacon | 969,996
@@ -108,12 +108,12 @@ Rank | Username | Totals Tips
 105 | Beenthorny | 192,043
 106 | CedricDiccory | 190,387
 107 | MediaPrestigious8342 | 189,647
-108 | Skank_cunt_42 | 182,072
-109 | isthistomorrow_ | 180,871
-110 | SigSalvadore | 179,337
-111 | nooobmaester69 | 176,093
-112 | send_tacoz | 173,810
-113 | crodbtc | 172,619
+108 | crodbtc | 183,271
+109 | Skank_cunt_42 | 182,072
+110 | isthistomorrow_ | 180,871
+111 | SigSalvadore | 179,337
+112 | nooobmaester69 | 176,093
+113 | send_tacoz | 173,810
 114 | superlonelyboy | 169,467
 115 | Street_Addd | 168,161
 116 | LongCauliflower6791 | 164,334
@@ -132,10 +132,10 @@ Rank | Username | Totals Tips
 129 | legionticket | 144,762
 130 | Gregoryonetulum | 144,114
 131 | NotFullyTerrestrial | 143,198
-132 | Sad_Entertainer9961 | 140,941
-133 | AustinTX1985 | 140,297
-134 | sudrats | 139,952
-135 | noface_reddit | 139,054
+132 | noface_reddit | 141,717
+133 | Sad_Entertainer9961 | 140,941
+134 | AustinTX1985 | 140,297
+135 | sudrats | 139,952
 136 | luisantonio197 | 138,696
 137 | high5s_inureye | 136,377
 138 | revdrgonzo | 135,998
@@ -183,7 +183,7 @@ Rank | Username | Totals Tips
 180 | IOTA_Tesla | 87,742
 181 | Extreme_Issue7325 | 87,133
 182 | ACorDC | 86,489
-183 | junkwatch | 86,313
+183 | junkwatch | 86,382
 184 | i_wake_up_at_12 | 86,229
 185 | ID404_Not_Found_8964 | 85,087
 186 | Ashamed_Raccoon9918 | 84,789
@@ -241,7 +241,7 @@ Rank | Username | Totals Tips
 238 | qwertywich | 45,329
 239 | ZeMadMan1 | 45,317
 240 | d0ntmess87 | 45,126
-241 | coolpattakers | 44,425
+241 | coolpattakers | 44,525
 242 | meme_used | 44,187
 243 | NickkyDC | 43,879
 244 | Coneboy2663 | 43,783
