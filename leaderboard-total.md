@@ -1,9 +1,9 @@
-Last updated: 23-08-10 16:32:42 UTC  
+Last updated: 23-08-10 16:40:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 19,319,065
-3 | Wonderful_Bad6531 | 12,923,882
+3 | Wonderful_Bad6531 | 12,924,390
 4 | ConeDesk | 11,130,124
 5 | Parush9 | 10,419,267
 6 | crypto_grandma | 9,393,244
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,761
 12 | thelonliestcrowd | 3,296,153
-13 | Jeff5704 | 3,142,897
+13 | Jeff5704 | 3,145,560
 14 | redzrex | 2,992,477
 15 | avyun | 2,694,531
 16 | ZukoBih | 2,530,417
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | Autom4tic_Soze | 1,294,170
 33 | HestiaIsTheBestia | 1,188,043
 34 | LordBobTheWhale | 1,131,383
-35 | ImAlekBan | 1,096,468
+35 | ImAlekBan | 1,111,794
 36 | swampyswede | 1,083,537
 37 | WarmBiertje | 1,000,000
 38 | EvanIsBacon | 969,996
@@ -613,9 +613,9 @@ Rank | Username | Totals Tips
 610 | kryptoNoob69420 | 2,000
 611 | A_Dancing_Coder | 1,999
 612 | OddNebula2844 | 1,999
-613 | Fit_Win_541 | 1,953
-614 | theRealVim | 1,930
-615 | Burzzzt88 | 1,889
+613 | Burzzzt88 | 1,958
+614 | Fit_Win_541 | 1,953
+615 | theRealVim | 1,930
 616 | towntoglfeddfxyxxx | 1,885
 617 | bricks_n_coins | 1,840
 618 | virginia669 | 1,791
