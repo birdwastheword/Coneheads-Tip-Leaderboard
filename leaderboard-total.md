@@ -1,4 +1,4 @@
-Last updated: 23-08-10 10:30:24 UTC  
+Last updated: 23-08-10 10:40:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | SammyCraigar | 7,186,614
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
-11 | HippieStarTraveler | 3,878,341
+11 | HippieStarTraveler | 3,878,761
 12 | thelonliestcrowd | 3,253,118
 13 | Jeff5704 | 3,137,571
 14 | redzrex | 2,987,151
