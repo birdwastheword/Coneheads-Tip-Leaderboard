@@ -1,4 +1,4 @@
-Last updated: 23-08-10 17:40:37 UTC  
+Last updated: 23-08-10 17:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,878,761
-12 | thelonliestcrowd | 3,301,479
+12 | thelonliestcrowd | 3,304,142
 13 | Jeff5704 | 3,172,197
 14 | redzrex | 2,995,140
 15 | avyun | 2,695,868
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Ginomania | 2,307,865
 19 | Geniuskills | 2,224,892
 20 | send420nudes | 2,200,833
-21 | IveDoneItAtLast | 1,946,482
+21 | IveDoneItAtLast | 1,951,808
 22 | Mean_Bandicoot_7481 | 1,904,335
 23 | LuminousViper | 1,702,460
 24 | ashinamune | 1,693,204
@@ -156,8 +156,8 @@ Rank | Username | Totals Tips
 153 | Fox1931 | 114,000
 154 | Mj_6o4 | 113,222
 155 | alexthemay | 112,616
-156 | sjakkpila | 112,163
-157 | UniversalNoobMaster | 112,149
+156 | UniversalNoobMaster | 112,218
+157 | sjakkpila | 112,163
 158 | zdubs | 110,381
 159 | billywright4 | 110,076
 160 | Dry_Badger_2403 | 110,000
@@ -224,15 +224,15 @@ Rank | Username | Totals Tips
 221 | Jefe0457 | 53,368
 222 | netnemirepxE | 52,645
 223 | ConeHead710 | 52,012
-224 | BitCone_CONE | 51,434
-225 | deedopete | 51,334
-226 | WarningKey6517 | 51,247
-227 | fleshlyLoath | 51,096
-228 | lucivaryas | 51,000
-229 | ky0984 | 50,928
-230 | Astrochrono | 49,851
-231 | BeefaloSlim | 49,310
-232 | dealkhabari | 48,260
+224 | BeefaloSlim | 51,973
+225 | BitCone_CONE | 51,434
+226 | deedopete | 51,334
+227 | WarningKey6517 | 51,247
+228 | fleshlyLoath | 51,096
+229 | lucivaryas | 51,000
+230 | ky0984 | 50,928
+231 | Astrochrono | 49,851
+232 | dealkhabari | 48,467
 233 | RollingSkull0 | 48,175
 234 | d_Shazam_b | 48,068
 235 | Tapiz3land | 47,938
