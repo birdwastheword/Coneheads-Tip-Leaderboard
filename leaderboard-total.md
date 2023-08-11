@@ -1,4 +1,4 @@
-Last updated: 23-08-11 06:35:12 UTC  
+Last updated: 23-08-11 06:43:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 13,079,955
 4 | ConeDesk | 11,386,057
 5 | Parush9 | 10,474,749
-6 | crypto_grandma | 9,401,721
+6 | crypto_grandma | 9,404,384
 7 | Homeslicekilla | 7,238,912
 8 | SammyCraigar | 7,198,251
 9 | rikbona | 4,534,779
@@ -175,7 +175,7 @@ Rank | Username | Totals Tips
 172 | adrefofadre | 99,717
 173 | ashketchup422 | 97,225
 174 | Knaeggebrott | 97,076
-175 | junkwatch | 95,907
+175 | junkwatch | 95,976
 176 | BrendanTFirefly | 94,857
 177 | Conetent | 94,604
 178 | IOTA_Tesla | 93,742
