@@ -1,12 +1,12 @@
-Last updated: 23-08-11 06:27:05 UTC  
+Last updated: 23-08-11 06:35:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 20,237,777
-3 | Wonderful_Bad6531 | 13,079,535
+3 | Wonderful_Bad6531 | 13,079,955
 4 | ConeDesk | 11,386,057
 5 | Parush9 | 10,474,749
-6 | crypto_grandma | 9,351,721
+6 | crypto_grandma | 9,401,721
 7 | Homeslicekilla | 7,238,912
 8 | SammyCraigar | 7,198,251
 9 | rikbona | 4,534,779
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | IveDoneItAtLast | 1,977,821
 22 | LuminousViper | 1,918,517
 23 | Mean_Bandicoot_7481 | 1,904,335
-24 | ashinamune | 1,740,334
+24 | ashinamune | 1,750,334
 25 | thom_orrow | 1,624,148
 26 | GooderZBK | 1,570,711
 27 | Autom4tic_Soze | 1,561,030
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | saintajoras | 886,237
 40 | Modestexcuse | 873,297
 41 | investigator100 | 844,626
-42 | DontLaughArt | 843,294
+42 | DontLaughArt | 843,608
 43 | _ships | 740,652
 44 | starterpack420694 | 710,420
 45 | abracadabra087 | 675,675
