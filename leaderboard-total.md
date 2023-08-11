@@ -1,4 +1,4 @@
-Last updated: 23-08-11 07:30:34 UTC  
+Last updated: 23-08-11 07:41:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -217,8 +217,8 @@ Rank | Username | Totals Tips
 214 | _Mitchee_ | 59,030
 215 | TheD1ceMan | 58,861
 216 | Significant_Talk4943 | 58,100
-217 | hellosamaira | 57,069
-218 | shellystarzz | 56,401
+217 | shellystarzz | 57,401
+218 | hellosamaira | 57,069
 219 | imbarrydylan | 55,689
 220 | orangesandonions | 54,718
 221 | BeefaloSlim | 54,636
