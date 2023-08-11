@@ -1,9 +1,9 @@
-Last updated: 23-08-11 05:23:25 UTC  
+Last updated: 23-08-11 05:32:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 20,237,777
-3 | Wonderful_Bad6531 | 13,074,828
+3 | Wonderful_Bad6531 | 13,075,944
 4 | ConeDesk | 11,386,057
 5 | Parush9 | 10,474,749
 6 | crypto_grandma | 9,351,721
@@ -27,15 +27,15 @@ Rank | Username | Totals Tips
 24 | ashinamune | 1,740,334
 25 | thom_orrow | 1,624,148
 26 | GooderZBK | 1,570,711
-27 | transfermymoons | 1,556,736
-28 | Autom4tic_Soze | 1,554,470
+27 | Autom4tic_Soze | 1,557,133
+28 | transfermymoons | 1,556,736
 29 | GuyOne | 1,413,423
 30 | Affectionate_Hand_76 | 1,409,681
 31 | bray_martin03 | 1,380,770
 32 | _Royal_Insylum | 1,298,924
 33 | HestiaIsTheBestia | 1,188,043
 34 | LordBobTheWhale | 1,131,383
-35 | ImAlekBan | 1,129,470
+35 | ImAlekBan | 1,130,276
 36 | swampyswede | 1,088,863
 37 | WarmBiertje | 1,000,000
 38 | thee_monster | 896,696
