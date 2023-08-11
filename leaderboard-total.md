@@ -1,11 +1,11 @@
-Last updated: 23-08-11 21:40:53 UTC  
+Last updated: 23-08-11 21:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 23,939,750
 2 | rickribera93 | 23,675,537
-3 | ConeDesk | 14,461,093
-4 | nakamo-toe | 12,952,484
-5 | Wonderful_Bad6531 | 11,511,700
+3 | ConeDesk | 14,461,701
+4 | nakamo-toe | 12,982,940
+5 | Wonderful_Bad6531 | 11,511,092
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,467,183
 8 | Homeslicekilla | 7,953,728
@@ -13,8 +13,8 @@ Rank | Username | Totals Tips
 10 | HippieStarTraveler | 4,542,395
 11 | rikbona | 4,535,475
 12 | bigbilly1234567899 | 4,387,603
-13 | Real_Player_0 | 4,222,866
-14 | thelonliestcrowd | 3,957,148
+13 | Real_Player_0 | 4,222,258
+14 | thelonliestcrowd | 3,933,174
 15 | ArtConsitent | 3,681,278
 16 | VIVOffical | 3,645,283
 17 | Geniuskills | 3,433,202
@@ -31,13 +31,13 @@ Rank | Username | Totals Tips
 28 | Mean_Bandicoot_7481 | 2,119,875
 29 | ashinamune | 2,102,362
 30 | possibili-teas | 1,995,243
-31 | Autom4tic_Soze | 1,899,715
+31 | Autom4tic_Soze | 1,898,481
 32 | thom_orrow | 1,858,615
 33 | transfermymoons | 1,835,219
 34 | waterhasnocalories | 1,686,406
 35 | GooderZBK | 1,613,388
 36 | GuyOne | 1,559,105
-37 | ImAlekBan | 1,433,389
+37 | ImAlekBan | 1,432,583
 38 | bray_martin03 | 1,422,727
 39 | Affectionate_Hand_76 | 1,421,521
 40 | Ten-Mins-Late | 1,369,590
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | HestiaIsTheBestia | 1,188,043
 44 | catlover-100 | 1,110,627
 45 | Puddin-Luv | 1,103,440
-46 | DontLaughArt | 1,033,967
+46 | DontLaughArt | 1,034,575
 47 | avatarbot | 1,027,000
 48 | WarmBiertje | 1,000,000
 49 | EvanIsBacon | 970,416
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | piebagz | 626,815
 69 | Richicash | 621,544
 70 | slirpo | 618,225
-71 | birdwastheword | 613,357
+71 | birdwastheword | 616,020
 72 | firstmatedotxyz | 598,580
 73 | __PDS__ | 595,709
 74 | El_Gordone | 592,784
@@ -132,11 +132,11 @@ Rank | Username | Totals Tips
 129 | SigSalvadore | 212,358
 130 | MuhSound | 209,523
 131 | legionticket | 206,762
-132 | tjex666 | 204,575
+132 | crodbtc | 203,824
 133 | Skank_cunt_42 | 202,870
 134 | junkwatch | 201,705
-135 | CedricDiccory | 197,932
-136 | crodbtc | 197,324
+135 | tjex666 | 200,375
+136 | CedricDiccory | 197,932
 137 | sudrats | 197,124
 138 | noface_reddit | 196,282
 139 | redditavanft | 195,122
@@ -181,8 +181,8 @@ Rank | Username | Totals Tips
 178 | sjakkpila | 127,031
 179 | DogSpark84 | 122,856
 180 | Mj_6o4 | 120,680
-181 | MelonFarmer420 | 120,467
-182 | Schl0tz | 120,000
+181 | Schl0tz | 120,000
+182 | MelonFarmer420 | 119,627
 183 | billywright4 | 118,725
 184 | zdubs | 118,547
 185 | lordciders | 116,506
@@ -248,9 +248,9 @@ Rank | Username | Totals Tips
 245 | ItailianStallion101 | 63,028
 246 | netnemirepxE | 62,645
 247 | standArtpluto | 62,100
-248 | shellystarzz | 61,249
-249 | ultra_terrestrial | 61,172
-250 | TheD1ceMan | 60,541
+248 | ultra_terrestrial | 61,172
+249 | TheD1ceMan | 60,541
+250 | shellystarzz | 60,249
 251 | lucrica | 59,987
 252 | Big-Ticket1506 | 59,666
 253 | BeefaloSlim | 59,367
