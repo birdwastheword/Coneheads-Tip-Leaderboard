@@ -1,10 +1,10 @@
-Last updated: 23-08-11 17:21:58 UTC  
+Last updated: 23-08-11 17:31:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 23,939,750
 2 | rickribera93 | 21,675,537
 3 | ConeDesk | 14,309,552
-4 | nakamo-toe | 13,437,802
+4 | nakamo-toe | 13,456,992
 5 | Wonderful_Bad6531 | 11,525,166
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,567,183
@@ -15,15 +15,15 @@ Rank | Username | Totals Tips
 12 | bigbilly1234567899 | 4,392,551
 13 | Real_Player_0 | 4,272,866
 14 | avyun | 3,982,523
-15 | thelonliestcrowd | 3,825,185
+15 | thelonliestcrowd | 3,925,185
 16 | ArtConsitent | 3,682,278
 17 | VIVOffical | 3,634,805
 18 | Ginomania | 3,408,551
 19 | Geniuskills | 3,402,622
-20 | Jeff5704 | 3,334,742
+20 | Jeff5704 | 3,332,079
 21 | redzrex | 3,238,549
 22 | LuminousViper | 2,949,347
-23 | ZukoBih | 2,635,976
+23 | ZukoBih | 2,633,313
 24 | rustyybikes | 2,613,113
 25 | IveDoneItAtLast | 2,546,945
 26 | send420nudes | 2,445,441
@@ -31,13 +31,13 @@ Rank | Username | Totals Tips
 28 | ashinamune | 2,149,492
 29 | Mean_Bandicoot_7481 | 2,115,212
 30 | possibili-teas | 2,000,312
-31 | Autom4tic_Soze | 1,906,169
+31 | Autom4tic_Soze | 1,903,506
 32 | thom_orrow | 1,858,615
 33 | transfermymoons | 1,835,219
 34 | waterhasnocalories | 1,686,406
 35 | GooderZBK | 1,613,388
 36 | GuyOne | 1,557,150
-37 | ImAlekBan | 1,430,473
+37 | ImAlekBan | 1,435,473
 38 | Affectionate_Hand_76 | 1,421,521
 39 | bray_martin03 | 1,396,096
 40 | Ten-Mins-Late | 1,369,590
@@ -87,8 +87,8 @@ Rank | Username | Totals Tips
 84 | MorrisBrett514 | 459,391
 85 | clean_cut89 | 455,379
 86 | MediaPrestigious8342 | 449,395
-87 | unhingedbigfoot | 439,874
-88 | Cravensworth_redux | 434,670
+87 | Cravensworth_redux | 444,670
+88 | unhingedbigfoot | 439,874
 89 | Mopeiooo | 427,266
 90 | SKITZ_ZA | 425,731
 91 | StepAsideSuckers | 424,398
@@ -107,7 +107,7 @@ Rank | Username | Totals Tips
 104 | Crypto-4-Freedom | 297,252
 105 | VincentVanGTFO | 297,158
 106 | virmamies | 290,467
-107 | Tinman_ApE | 285,592
+107 | Tinman_ApE | 286,200
 108 | x52x | 273,860
 109 | doktastonks | 271,331
 110 | thecrabdad | 256,177
@@ -201,10 +201,10 @@ Rank | Username | Totals Tips
 198 | Jlt42000 | 107,091
 199 | AD_VICTORIAM_x | 106,876
 200 | Chanyuui1 | 104,940
-201 | DAMG808 | 102,435
-202 | zenhodl | 101,029
-203 | ACorDC | 100,420
-204 | SetoXlll | 100,000
+201 | zenhodl | 101,029
+202 | ACorDC | 100,420
+203 | SetoXlll | 100,000
+204 | DAMG808 | 97,948
 205 | ashketchup422 | 97,294
 206 | Knaeggebrott | 97,076
 207 | Kevin3683 | 95,507
