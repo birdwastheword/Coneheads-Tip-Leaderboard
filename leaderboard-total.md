@@ -1,9 +1,9 @@
-Last updated: 23-08-11 09:40:37 UTC  
+Last updated: 23-08-11 09:50:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 20,920,440
+1 | Bitdream200K | 21,020,440
 2 | rickribera93 | 20,655,537
-3 | Wonderful_Bad6531 | 13,081,723
+3 | Wonderful_Bad6531 | 13,082,056
 4 | ConeDesk | 11,386,665
 5 | Parush9 | 10,474,749
 6 | crypto_grandma | 9,414,384
@@ -25,10 +25,10 @@ Rank | Username | Totals Tips
 22 | IveDoneItAtLast | 1,977,821
 23 | Mean_Bandicoot_7481 | 1,904,335
 24 | ashinamune | 1,758,950
-25 | thom_orrow | 1,624,148
-26 | GooderZBK | 1,570,711
-27 | Autom4tic_Soze | 1,561,030
-28 | transfermymoons | 1,556,736
+25 | transfermymoons | 1,717,607
+26 | thom_orrow | 1,624,148
+27 | GooderZBK | 1,570,711
+28 | Autom4tic_Soze | 1,561,030
 29 | GuyOne | 1,416,086
 30 | Affectionate_Hand_76 | 1,409,681
 31 | bray_martin03 | 1,380,770
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | thee_monster | 896,696
 39 | saintajoras | 896,237
 40 | Modestexcuse | 873,297
-41 | DontLaughArt | 851,668
+41 | DontLaughArt | 851,710
 42 | investigator100 | 844,626
 43 | _ships | 740,652
 44 | starterpack420694 | 710,420
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | rustyybikes | 213,750
 103 | SnooMacarons9203 | 208,450
 104 | MuhSound | 201,400
-105 | UniversalNoobMaster | 199,877
+105 | UniversalNoobMaster | 200,567
 106 | junkwatch | 196,045
 107 | redditavanft | 194,822
 108 | AverageLiberalJoe | 194,376
@@ -204,8 +204,8 @@ Rank | Username | Totals Tips
 201 | scientifichistorian | 71,073
 202 | Jadenindubai | 70,798
 203 | dinoyeti | 70,395
-204 | adi_00_ | 69,095
-205 | _Mitchee_ | 69,030
+204 | _Mitchee_ | 69,450
+205 | adi_00_ | 69,095
 206 | ZeMadMan1 | 67,980
 207 | hellosamaira | 67,069
 208 | imp3order | 65,546
