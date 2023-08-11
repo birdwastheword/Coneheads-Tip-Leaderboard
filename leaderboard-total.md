@@ -1,4 +1,4 @@
-Last updated: 23-08-11 03:40:34 UTC  
+Last updated: 23-08-11 03:50:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | evilninjarobot | 487,260
 61 | birdwastheword | 468,813
 62 | Alanski22 | 454,988
-63 | MorrisBrett514 | 433,153
+63 | MorrisBrett514 | 437,153
 64 | Mopeiooo | 427,266
 65 | WarmlyWacky | 425,166
 66 | clean_cut89 | 420,574
@@ -98,9 +98,9 @@ Rank | Username | Totals Tips
 95 | Flimsy_Brilliant_239 | 218,061
 96 | doktastonks | 217,409
 97 | joeviani | 217,235
-98 | thecrabdad | 216,909
-99 | Zalkwalker | 216,803
-100 | LongCauliflower6791 | 214,524
+98 | LongCauliflower6791 | 217,187
+99 | thecrabdad | 216,909
+100 | Zalkwalker | 216,803
 101 | rustyybikes | 213,750
 102 | SnooMacarons9203 | 208,450
 103 | MuhSound | 201,400
@@ -243,7 +243,7 @@ Rank | Username | Totals Tips
 240 | I_AM_MORE_BADASS | 47,332
 241 | redditinchina | 46,704
 242 | shredslanding | 45,854
-243 | qwertywich | 45,329
+243 | qwertywich | 45,749
 244 | d0ntmess87 | 45,126
 245 | coolpattakers | 44,425
 246 | meme_used | 44,187
