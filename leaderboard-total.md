@@ -1,4 +1,4 @@
-Last updated: 23-08-11 03:20:07 UTC  
+Last updated: 23-08-11 03:31:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -18,8 +18,8 @@ Rank | Username | Totals Tips
 15 | redzrex | 2,997,803
 16 | VIVOffical | 2,972,211
 17 | ZukoBih | 2,533,080
-18 | Ginomania | 2,307,865
-19 | Geniuskills | 2,266,961
+18 | Geniuskills | 2,336,381
+19 | Ginomania | 2,307,865
 20 | send420nudes | 2,200,833
 21 | IveDoneItAtLast | 1,977,821
 22 | LuminousViper | 1,918,517
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | WarmIyWacky | 675,624
 47 | cutsickass | 668,870
 48 | goldyluckinblokchain | 646,047
-49 | frickdom | 615,614
+49 | frickdom | 618,277
 50 | femacampcouncilor | 599,725
 51 | Richicash | 598,141
 52 | El_Gordone | 592,784
