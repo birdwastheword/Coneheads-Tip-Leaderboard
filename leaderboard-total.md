@@ -1,4 +1,4 @@
-Last updated: 23-08-11 11:40:53 UTC  
+Last updated: 23-08-11 11:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 22,550,440
@@ -25,11 +25,11 @@ Rank | Username | Totals Tips
 22 | ZukoBih | 2,537,743
 23 | Ginomania | 2,324,843
 24 | send420nudes | 2,200,833
-25 | IveDoneItAtLast | 2,079,232
+25 | IveDoneItAtLast | 2,080,448
 26 | ashinamune | 2,047,141
 27 | Mean_Bandicoot_7481 | 2,035,726
 28 | rustyybikes | 1,964,674
-29 | transfermymoons | 1,724,153
+29 | transfermymoons | 1,726,816
 30 | thom_orrow | 1,676,898
 31 | Autom4tic_Soze | 1,571,450
 32 | GooderZBK | 1,571,319
@@ -164,10 +164,10 @@ Rank | Username | Totals Tips
 161 | DamnWhySoLow | 124,748
 162 | GoodMornEveGoodNight | 121,118
 163 | UWphoto | 120,346
-164 | Schl0tz | 120,000
-165 | billywright4 | 117,465
-166 | mvea | 115,748
-167 | DogSpark84 | 114,861
+164 | DogSpark84 | 120,187
+165 | Schl0tz | 120,000
+166 | billywright4 | 117,465
+167 | mvea | 115,748
 168 | sjakkpila | 114,826
 169 | zdubs | 114,767
 170 | Mj_6o4 | 114,438
@@ -522,11 +522,11 @@ Rank | Username | Totals Tips
 519 | kanem87 | 5,966
 520 | forceworks | 5,929
 521 | mantrakid | 5,925
-522 | Coeruleus_ | 5,875
-523 | charlythesecond | 5,855
-524 | Dapper_Bloke88 | 5,818
-525 | theBarefootedBastard | 5,785
-526 | Lillica_Golden_SHIB | 5,738
+522 | Lillica_Golden_SHIB | 5,876
+523 | Coeruleus_ | 5,875
+524 | charlythesecond | 5,855
+525 | Dapper_Bloke88 | 5,818
+526 | theBarefootedBastard | 5,785
 527 | aPandox | 5,695
 528 | DioDilemma | 5,545
 529 | theindoshow | 5,479
