@@ -1,4 +1,4 @@
-Last updated: 23-08-11 10:29:56 UTC  
+Last updated: 23-08-11 10:35:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 22,490,440
@@ -227,7 +227,7 @@ Rank | Username | Totals Tips
 224 | Ten-Mins-Late | 62,538
 225 | standArtpluto | 62,100
 226 | WhateverAlready | 61,926
-227 | Significant_Talk4943 | 59,360
+227 | Significant_Talk4943 | 59,780
 228 | RegalReptile_ | 59,330
 229 | MisterM0H0 | 59,122
 230 | TheD1ceMan | 58,861
