@@ -1,4 +1,4 @@
-Last updated: 23-08-11 17:40:38 UTC  
+Last updated: 23-08-11 17:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 23,939,750
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,567,183
 8 | Homeslicekilla | 7,953,728
-9 | SammyCraigar | 7,449,251
+9 | SammyCraigar | 7,451,914
 10 | HippieStarTraveler | 4,545,058
 11 | rikbona | 4,535,475
 12 | bigbilly1234567899 | 4,392,551
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | ashinamune | 2,149,492
 29 | Mean_Bandicoot_7481 | 2,115,212
 30 | possibili-teas | 2,000,312
-31 | Autom4tic_Soze | 1,903,506
+31 | Autom4tic_Soze | 1,902,666
 32 | thom_orrow | 1,858,615
 33 | transfermymoons | 1,835,219
 34 | waterhasnocalories | 1,686,406
@@ -54,7 +54,7 @@ Rank | Username | Totals Tips
 51 | Modestexcuse | 903,684
 52 | thee_monster | 896,765
 53 | investigator100 | 883,742
-54 | CMDRGlamdring | 841,978
+54 | CMDRGlamdring | 851,978
 55 | _ships | 825,330
 56 | CluelessSurvivor | 813,780
 57 | goldyluckinblokchain | 806,385
@@ -130,8 +130,8 @@ Rank | Username | Totals Tips
 127 | Beenthorny | 212,362
 128 | SigSalvadore | 212,358
 129 | ID404_Not_Found_8964 | 211,514
-130 | MuhSound | 208,915
-131 | legionticket | 206,762
+130 | legionticket | 206,762
+131 | MuhSound | 206,252
 132 | tjex666 | 204,575
 133 | Skank_cunt_42 | 202,870
 134 | junkwatch | 202,125
@@ -247,8 +247,8 @@ Rank | Username | Totals Tips
 244 | ItailianStallion101 | 63,028
 245 | netnemirepxE | 62,645
 246 | standArtpluto | 62,100
-247 | ultra_terrestrial | 61,592
-248 | shellystarzz | 61,249
+247 | shellystarzz | 61,249
+248 | ultra_terrestrial | 61,172
 249 | TheD1ceMan | 60,121
 250 | lucrica | 59,987
 251 | Big-Ticket1506 | 59,666
@@ -351,22 +351,22 @@ Rank | Username | Totals Tips
 348 | thestonkinator | 28,067
 349 | hvefe | 28,005
 350 | madisonfm | 27,934
-351 | FoleyKali | 27,815
-352 | deltamoney | 26,987
-353 | BottleNcanClapUrHand | 26,658
-354 | Outrageous_Storm6537 | 26,587
-355 | DOGETHEEGOD | 26,580
-356 | deathtr0 | 26,489
-357 | Trelucatre | 26,469
-358 | anony666mous | 26,008
-359 | puzzled__panther | 26,000
-360 | chuloreddit | 25,878
-361 | AnxiousQuestioner | 25,684
-362 | tmanfromEarth | 25,515
-363 | tmztmz2 | 25,490
-364 | ThekinginYellow27 | 25,431
-365 | drche35 | 25,397
-366 | open-now | 25,247
+351 | deltamoney | 26,987
+352 | BottleNcanClapUrHand | 26,658
+353 | Outrageous_Storm6537 | 26,587
+354 | DOGETHEEGOD | 26,580
+355 | deathtr0 | 26,489
+356 | Trelucatre | 26,469
+357 | anony666mous | 26,008
+358 | puzzled__panther | 26,000
+359 | chuloreddit | 25,878
+360 | AnxiousQuestioner | 25,684
+361 | tmanfromEarth | 25,515
+362 | tmztmz2 | 25,490
+363 | ThekinginYellow27 | 25,431
+364 | drche35 | 25,397
+365 | open-now | 25,247
+366 | FoleyKali | 25,152
 367 | mbashs | 24,745
 368 | slug_tamer | 24,637
 369 | liberovento | 24,307
