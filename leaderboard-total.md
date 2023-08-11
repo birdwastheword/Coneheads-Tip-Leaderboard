@@ -1,4 +1,4 @@
-Last updated: 23-08-11 18:43:40 UTC  
+Last updated: 23-08-11 18:52:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 23,949,750
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | rikbona | 4,535,475
 12 | bigbilly1234567899 | 4,392,551
 13 | Real_Player_0 | 4,272,866
-14 | thelonliestcrowd | 3,925,185
+14 | thelonliestcrowd | 3,927,848
 15 | ArtConsitent | 3,682,278
 16 | VIVOffical | 3,634,805
 17 | Geniuskills | 3,502,622
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | Gregoryonetulum | 155,909
 155 | the_judge_168 | 154,250
 156 | 6reficul | 153,884
-157 | martymartinator | 151,952
+157 | martymartinator | 151,344
 158 | NotFullyTerrestrial | 150,694
 159 | maxfra | 149,556
 160 | YarOldeOrchard | 147,662
