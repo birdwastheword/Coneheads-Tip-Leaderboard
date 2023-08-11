@@ -1,4 +1,4 @@
-Last updated: 23-08-11 11:32:24 UTC  
+Last updated: 23-08-11 11:40:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 22,550,440
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | nakamo-toe | 9,294,167
 8 | Homeslicekilla | 7,865,013
 9 | SammyCraigar | 7,395,892
-10 | LuminousViper | 7,247,272
+10 | LuminousViper | 7,386,112
 11 | possibili-teas | 5,223,408
 12 | rikbona | 4,534,779
 13 | bigbilly1234567899 | 4,391,636
@@ -25,7 +25,7 @@ Rank | Username | Totals Tips
 22 | ZukoBih | 2,537,743
 23 | Ginomania | 2,324,843
 24 | send420nudes | 2,200,833
-25 | IveDoneItAtLast | 2,078,624
+25 | IveDoneItAtLast | 2,079,232
 26 | ashinamune | 2,047,141
 27 | Mean_Bandicoot_7481 | 2,035,726
 28 | rustyybikes | 1,964,674
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | thom_orrow | 1,676,898
 31 | Autom4tic_Soze | 1,571,450
 32 | GooderZBK | 1,571,319
-33 | Real_Player_0 | 1,451,068
+33 | Real_Player_0 | 1,453,731
 34 | GuyOne | 1,426,683
 35 | Affectionate_Hand_76 | 1,419,681
 36 | bray_martin03 | 1,383,433
@@ -116,7 +116,7 @@ Rank | Username | Totals Tips
 113 | SnooMacarons9203 | 211,533
 114 | MuhSound | 205,411
 115 | ID404_Not_Found_8964 | 200,514
-116 | junkwatch | 200,037
+116 | junkwatch | 200,106
 117 | redditavanft | 194,822
 118 | AverageLiberalJoe | 194,376
 119 | Skank_cunt_42 | 192,680
@@ -526,8 +526,8 @@ Rank | Username | Totals Tips
 523 | charlythesecond | 5,855
 524 | Dapper_Bloke88 | 5,818
 525 | theBarefootedBastard | 5,785
-526 | aPandox | 5,695
-527 | Lillica_Golden_SHIB | 5,669
+526 | Lillica_Golden_SHIB | 5,738
+527 | aPandox | 5,695
 528 | DioDilemma | 5,545
 529 | theindoshow | 5,479
 530 | TheConeHodler | 5,427
