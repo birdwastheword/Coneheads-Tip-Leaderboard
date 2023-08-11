@@ -1,10 +1,10 @@
-Last updated: 23-08-11 07:17:36 UTC  
+Last updated: 23-08-11 07:30:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 20,237,777
-3 | Wonderful_Bad6531 | 13,079,955
-4 | ConeDesk | 11,386,057
+3 | Wonderful_Bad6531 | 13,080,883
+4 | ConeDesk | 11,386,665
 5 | Parush9 | 10,474,749
 6 | crypto_grandma | 9,404,384
 7 | Homeslicekilla | 7,238,912
@@ -67,8 +67,8 @@ Rank | Username | Totals Tips
 64 | Mopeiooo | 427,266
 65 | WarmlyWacky | 425,166
 66 | clean_cut89 | 420,574
-67 | unhingedbigfoot | 418,587
-68 | Real_Player_0 | 417,654
+67 | Real_Player_0 | 420,317
+68 | unhingedbigfoot | 418,587
 69 | StepAsideSuckers | 402,958
 70 | CluelessSurvivor | 391,037
 71 | sinlesco | 388,070
@@ -641,14 +641,14 @@ Rank | Username | Totals Tips
 638 | slasula | 1,295
 639 | jurgensdapimp | 1,258
 640 | Elgato_TJ | 1,242
-641 | DWBroodle | 1,240
-642 | Tekbepimpin | 1,239
-643 | Mooraell | 1,239
-644 | Digdaga | 1,216
-645 | MichaelAischmann | 1,209
-646 | Ambitious_Pirate_584 | 1,207
-647 | Patrickcscott66 | 1,185
-648 | Straton_Conemont_Inc | 1,173
+641 | Straton_Conemont_Inc | 1,242
+642 | DWBroodle | 1,240
+643 | Tekbepimpin | 1,239
+644 | Mooraell | 1,239
+645 | Digdaga | 1,216
+646 | MichaelAischmann | 1,209
+647 | Ambitious_Pirate_584 | 1,207
+648 | Patrickcscott66 | 1,185
 649 | Ask_Ari | 1,166
 650 | redditavies | 1,138
 651 | ElderberryOk469 | 1,138
