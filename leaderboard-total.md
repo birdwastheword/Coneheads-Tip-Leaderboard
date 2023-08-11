@@ -1,4 +1,4 @@
-Last updated: 23-08-11 03:31:08 UTC  
+Last updated: 23-08-11 03:40:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | saintajoras | 886,237
 40 | Modestexcuse | 873,297
 41 | investigator100 | 844,626
-42 | DontLaughArt | 778,504
+42 | DontLaughArt | 839,304
 43 | _ships | 740,652
 44 | starterpack420694 | 710,420
 45 | abracadabra087 | 675,675
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | shreyaskg | 523,722
 60 | evilninjarobot | 487,260
 61 | birdwastheword | 468,813
-62 | Alanski22 | 454,380
+62 | Alanski22 | 454,988
 63 | MorrisBrett514 | 433,153
 64 | Mopeiooo | 427,266
 65 | WarmlyWacky | 425,166
@@ -143,8 +143,8 @@ Rank | Username | Totals Tips
 140 | GrowinStuffAndThings | 134,506
 141 | 002_timmy | 131,385
 142 | beastlybaker | 130,687
-143 | CoverYourMaskHoles | 128,091
-144 | Obi1eyeKenobi | 127,515
+143 | Obi1eyeKenobi | 129,515
+144 | CoverYourMaskHoles | 128,091
 145 | CalligrapherEnough83 | 127,227
 146 | DamnWhySoLow | 124,748
 147 | high5s_inureye | 124,038
