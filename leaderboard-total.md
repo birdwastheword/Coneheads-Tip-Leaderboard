@@ -1,4 +1,4 @@
-Last updated: 23-08-11 18:35:20 UTC  
+Last updated: 23-08-11 18:43:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 23,949,750
@@ -17,11 +17,11 @@ Rank | Username | Totals Tips
 14 | thelonliestcrowd | 3,925,185
 15 | ArtConsitent | 3,682,278
 16 | VIVOffical | 3,634,805
-17 | Ginomania | 3,408,551
-18 | Geniuskills | 3,402,622
+17 | Geniuskills | 3,502,622
+18 | Ginomania | 3,408,551
 19 | Jeff5704 | 3,332,079
 20 | redzrex | 3,238,549
-21 | avyun | 2,993,860
+21 | avyun | 2,976,891
 22 | LuminousViper | 2,949,347
 23 | ZukoBih | 2,633,313
 24 | rustyybikes | 2,613,113
@@ -227,8 +227,8 @@ Rank | Username | Totals Tips
 224 | Jadenindubai | 78,342
 225 | mokkingjay | 77,914
 226 | WhateverAlready | 77,657
-227 | beanwiggin420 | 77,313
-228 | youtooleyesing | 77,229
+227 | youtooleyesing | 77,229
+228 | beanwiggin420 | 76,893
 229 | Derefringence | 76,675
 230 | MedicineMaterial3501 | 74,654
 231 | redditinchina | 74,278
@@ -257,18 +257,18 @@ Rank | Username | Totals Tips
 254 | imbarrydylan | 55,689
 255 | orangesandonions | 55,238
 256 | deedopete | 54,985
-257 | diamondbored | 54,397
-258 | Brandillio | 54,271
-259 | BitCone_CONE | 54,097
-260 | WarningKey6517 | 53,910
-261 | Astrochrono | 53,398
-262 | Jefe0457 | 53,368
-263 | fleshlyLoath | 52,877
-264 | RollingSkull0 | 52,782
-265 | Sativa55555 | 52,489
-266 | ky0984 | 52,257
-267 | ConeHead710 | 52,012
-268 | SpookySYN | 51,945
+257 | SpookySYN | 54,608
+258 | diamondbored | 54,397
+259 | Brandillio | 54,271
+260 | BitCone_CONE | 54,097
+261 | WarningKey6517 | 53,910
+262 | Astrochrono | 53,398
+263 | Jefe0457 | 53,368
+264 | fleshlyLoath | 52,877
+265 | RollingSkull0 | 52,782
+266 | Sativa55555 | 52,489
+267 | ky0984 | 52,257
+268 | ConeHead710 | 52,012
 269 | dealkhabari | 51,692
 270 | lucivaryas | 51,000
 271 | Tapiz3land | 48,892
