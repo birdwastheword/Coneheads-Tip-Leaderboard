@@ -1,4 +1,4 @@
-Last updated: 23-08-11 08:35:38 UTC  
+Last updated: 23-08-11 08:44:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 20,920,440
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | GooderZBK | 1,570,711
 27 | Autom4tic_Soze | 1,561,030
 28 | transfermymoons | 1,556,736
-29 | GuyOne | 1,413,423
+29 | GuyOne | 1,416,086
 30 | Affectionate_Hand_76 | 1,409,681
 31 | bray_martin03 | 1,380,770
 32 | _Royal_Insylum | 1,298,924
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | evilninjarobot | 487,260
 61 | birdwastheword | 468,813
 62 | Alanski22 | 454,988
-63 | MorrisBrett514 | 448,153
+63 | MorrisBrett514 | 451,153
 64 | Real_Player_0 | 430,926
 65 | Mopeiooo | 427,266
 66 | WarmlyWacky | 425,166
@@ -119,7 +119,7 @@ Rank | Username | Totals Tips
 116 | send_tacoz | 176,473
 117 | crodbtc | 175,282
 118 | nooobmaester69 | 175,093
-119 | superlonelyboy | 169,467
+119 | superlonelyboy | 172,130
 120 | Street_Addd | 168,161
 121 | Forward_Today2849 | 166,783
 122 | Esco1980 | 160,702
