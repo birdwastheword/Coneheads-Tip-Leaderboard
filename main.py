@@ -44,7 +44,7 @@ biggest = ("", "", 0)
 
 def process(data):
   for comment in data["children"]:
-    res = re.match("(/u/\w+)\W(has)\W(tipped)\W(/u/\w+)\W(\d+)\W(Bitcone)", comment["data"]["body"])
+    res = re.match("(/u/[\w-]+)\W(has)\W(tipped)\W(/u/[\w-]+)\W(\d+)\W(Bitcone)", comment["data"]["body"])
     utc = datetime.datetime.utcfromtimestamp(comment["data"]["created_utc"])
     sub = comment["data"]["subreddit_name_prefixed"]
 
