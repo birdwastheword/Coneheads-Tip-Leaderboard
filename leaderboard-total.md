@@ -1,4 +1,4 @@
-Last updated: 23-08-11 09:18:50 UTC  
+Last updated: 23-08-11 09:31:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 20,920,440
@@ -211,7 +211,7 @@ Rank | Username | Totals Tips
 208 | damnusernamegotcutof | 65,004
 209 | dopelifer09 | 64,827
 210 | TubeNerd92 | 63,997
-211 | HokkaidoNights | 62,857
+211 | HokkaidoNights | 63,277
 212 | ItailianStallion101 | 62,826
 213 | standArtpluto | 62,100
 214 | WhateverAlready | 61,926
@@ -331,12 +331,12 @@ Rank | Username | Totals Tips
 328 | Potential_Fix_5007 | 24,182
 329 | slug_tamer | 23,568
 330 | liberovento | 23,307
-331 | Qptimised | 23,060
-332 | AntonioTT05 | 22,807
-333 | Ryaol | 22,663
-334 | Trelucatre | 22,269
-335 | SirPesoOtaku | 22,222
-336 | Duskopia | 22,167
+331 | Duskopia | 23,167
+332 | Qptimised | 23,060
+333 | AntonioTT05 | 22,807
+334 | Ryaol | 22,663
+335 | Trelucatre | 22,269
+336 | SirPesoOtaku | 22,222
 337 | Sparrow | 22,145
 338 | Particular_Equal_490 | 22,118
 339 | africanasshat | 22,084
