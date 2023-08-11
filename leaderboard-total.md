@@ -1,4 +1,4 @@
-Last updated: 23-08-11 14:23:29 UTC  
+Last updated: 23-08-11 14:32:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 23,939,750
@@ -37,8 +37,8 @@ Rank | Username | Totals Tips
 34 | GooderZBK | 1,571,319
 35 | GuyOne | 1,557,150
 36 | Affectionate_Hand_76 | 1,421,521
-37 | bray_martin03 | 1,396,096
-38 | ImAlekBan | 1,391,111
+37 | ImAlekBan | 1,410,598
+38 | bray_martin03 | 1,396,096
 39 | Ten-Mins-Late | 1,369,590
 40 | _Royal_Insylum | 1,309,851
 41 | LordBobTheWhale | 1,275,464
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | goldyluckinblokchain | 806,385
 57 | 0-Give-a-fucks | 777,169
 58 | cutsickass | 761,303
-59 | CMDRGlamdring | 746,759
+59 | CMDRGlamdring | 747,759
 60 | starterpack420694 | 710,420
 61 | WarmIyWacky | 703,049
 62 | Starterpack69420 | 696,969
@@ -115,7 +115,7 @@ Rank | Username | Totals Tips
 112 | Sattack4000 | 250,837
 113 | SHIFTY-T3RROR | 246,388
 114 | adrifing | 242,452
-115 | UniversalNoobMaster | 239,543
+115 | UniversalNoobMaster | 240,233
 116 | Zalkwalker | 235,069
 117 | Lion-Hermit | 231,154
 118 | formidable-opponent | 230,801
