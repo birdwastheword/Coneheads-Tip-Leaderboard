@@ -48,7 +48,6 @@ Rank | Date | Username | Totals Tips | to User
 45 | 2023-08-06 19:20:21 | rustyybikes | 1,000,000| Successful-Walk-3902
 46 | 2023-08-07 01:23:08 | ConeDesk | 1,000,000| nakamo-toe
 47 | 2023-08-07 21:56:23 | Wonderful_Bad6531 | 1,000,000| ChipperdoodlesComic
-48 | 2023-08-11 06:31:20 | Real_Player_0 | 1,000,000| possibili-teas
-49 | 2023-08-11 16:26:26 | _Royal_Insylum | 1,000,000| Real_Player_0
+48 | 2023-08-11 16:26:26 | _Royal_Insylum | 1,000,000| Real_Player_0
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
