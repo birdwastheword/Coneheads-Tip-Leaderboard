@@ -1,4 +1,4 @@
-Last updated: 23-08-11 19:23:36 UTC  
+Last updated: 23-08-11 19:32:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 23,949,750
@@ -19,13 +19,13 @@ Rank | Username | Totals Tips
 16 | VIVOffical | 3,634,805
 17 | Geniuskills | 3,502,622
 18 | Ginomania | 3,408,551
-19 | Jeff5704 | 3,332,079
+19 | Jeff5704 | 3,326,753
 20 | redzrex | 3,238,549
 21 | avyun | 2,976,891
 22 | LuminousViper | 2,949,347
 23 | ZukoBih | 2,641,302
 24 | rustyybikes | 2,613,113
-25 | IveDoneItAtLast | 2,567,271
+25 | IveDoneItAtLast | 2,569,934
 26 | send420nudes | 2,445,441
 27 | _Royal_Insylum | 2,309,851
 28 | Mean_Bandicoot_7481 | 2,115,212
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | LordBobTheWhale | 1,276,972
 42 | swampyswede | 1,217,618
 43 | HestiaIsTheBestia | 1,188,043
-44 | DontLaughArt | 1,118,570
+44 | DontLaughArt | 1,115,907
 45 | catlover-100 | 1,110,627
 46 | Puddin-Luv | 1,106,103
 47 | avatarbot | 1,027,000
@@ -108,7 +108,7 @@ Rank | Username | Totals Tips
 105 | Crypto-4-Freedom | 297,252
 106 | VincentVanGTFO | 297,158
 107 | virmamies | 290,467
-108 | Tinman_ApE | 286,200
+108 | Tinman_ApE | 286,808
 109 | x52x | 273,860
 110 | thecrabdad | 256,177
 111 | Ambitious-Minimum-80 | 252,035
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | LongCauliflower6791 | 227,187
 121 | SnooMacarons9203 | 224,749
 122 | Flimsy_Brilliant_239 | 224,365
-123 | BeardedBro_ | 223,627
+123 | BeardedBro_ | 223,207
 124 | joeviani | 219,021
 125 | KONGXIANG | 218,153
 126 | SourBeefHoop | 217,512
@@ -183,8 +183,8 @@ Rank | Username | Totals Tips
 180 | MelonFarmer420 | 120,467
 181 | Schl0tz | 120,000
 182 | zdubs | 118,546
-183 | DogSpark84 | 117,530
-184 | billywright4 | 117,465
+183 | billywright4 | 117,885
+184 | DogSpark84 | 117,530
 185 | lordciders | 116,506
 186 | mvea | 115,748
 187 | alexthemay | 114,131
@@ -214,7 +214,7 @@ Rank | Username | Totals Tips
 211 | H3adshotfox77 | 92,574
 212 | FeetAndHandFetish | 91,146
 213 | i_wake_up_at_12 | 90,369
-214 | Most_Being_4002 | 88,689
+214 | Most_Being_4002 | 89,109
 215 | ShopALF | 87,942
 216 | Ashamed_Raccoon9918 | 87,867
 217 | customsolitaires | 85,803
@@ -548,7 +548,7 @@ Rank | Username | Totals Tips
 545 | strworld | 6,544
 546 | dexabonk | 6,541
 547 | _pondering_insomniac | 6,500
-548 | Lillica_Golden_SHIB | 6,428
+548 | Lillica_Golden_SHIB | 6,497
 549 | SeniorThiccBoi | 6,405
 550 | rpgruli | 6,364
 551 | ReasonReasonable7168 | 6,357
