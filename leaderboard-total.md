@@ -1,4 +1,4 @@
-Last updated: 23-08-11 08:52:31 UTC  
+Last updated: 23-08-11 09:18:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 20,920,440
@@ -19,10 +19,10 @@ Rank | Username | Totals Tips
 16 | VIVOffical | 2,972,211
 17 | ZukoBih | 2,533,080
 18 | Geniuskills | 2,336,381
-19 | Ginomania | 2,307,865
+19 | Ginomania | 2,310,528
 20 | send420nudes | 2,200,833
 21 | IveDoneItAtLast | 1,977,821
-22 | LuminousViper | 1,928,517
+22 | LuminousViper | 1,931,180
 23 | Mean_Bandicoot_7481 | 1,904,335
 24 | ashinamune | 1,758,950
 25 | thom_orrow | 1,624,148
@@ -41,8 +41,8 @@ Rank | Username | Totals Tips
 38 | thee_monster | 896,696
 39 | saintajoras | 896,237
 40 | Modestexcuse | 873,297
-41 | investigator100 | 844,626
-42 | DontLaughArt | 843,608
+41 | DontLaughArt | 851,668
+42 | investigator100 | 844,626
 43 | _ships | 740,652
 44 | starterpack420694 | 710,420
 45 | cutsickass | 678,870
@@ -76,7 +76,7 @@ Rank | Username | Totals Tips
 73 | Lady_Lucks_Man | 378,931
 74 | CMDRGlamdring | 377,834
 75 | RazPie | 370,909
-76 | SKITZ_ZA | 356,982
+76 | SKITZ_ZA | 359,645
 77 | dronegeeks1 | 356,168
 78 | LrnFaroeseWthBergur | 354,927
 79 | Westy3000 | 346,114
@@ -155,10 +155,10 @@ Rank | Username | Totals Tips
 152 | UWphoto | 120,346
 153 | Schl0tz | 120,000
 154 | mvea | 115,748
-155 | Fox1931 | 114,000
-156 | Mj_6o4 | 113,830
-157 | alexthemay | 112,616
-158 | sjakkpila | 112,163
+155 | sjakkpila | 114,826
+156 | Fox1931 | 114,000
+157 | Mj_6o4 | 113,830
+158 | alexthemay | 112,616
 159 | zdubs | 110,989
 160 | billywright4 | 110,076
 161 | Dry_Badger_2403 | 110,000
@@ -312,8 +312,8 @@ Rank | Username | Totals Tips
 309 | thestonkinator | 26,730
 310 | Outrageous_Storm6537 | 26,587
 311 | DOGETHEEGOD | 26,511
-312 | TummyLice | 26,298
-313 | Allions1 | 26,210
+312 | Allions1 | 26,310
+313 | TummyLice | 26,298
 314 | puzzled__panther | 26,000
 315 | BottleNcanClapUrHand | 25,992
 316 | hvefe | 25,668
