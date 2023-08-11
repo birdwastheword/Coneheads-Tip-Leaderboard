@@ -1,10 +1,10 @@
-Last updated: 23-08-11 17:31:01 UTC  
+Last updated: 23-08-11 17:40:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 23,939,750
 2 | rickribera93 | 21,675,537
 3 | ConeDesk | 14,309,552
-4 | nakamo-toe | 13,456,992
+4 | nakamo-toe | 13,466,992
 5 | Wonderful_Bad6531 | 11,525,166
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,567,183
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | rikbona | 4,535,475
 12 | bigbilly1234567899 | 4,392,551
 13 | Real_Player_0 | 4,272,866
-14 | avyun | 3,982,523
+14 | avyun | 3,992,523
 15 | thelonliestcrowd | 3,925,185
 16 | ArtConsitent | 3,682,278
 17 | VIVOffical | 3,634,805
@@ -182,15 +182,15 @@ Rank | Username | Totals Tips
 179 | Extreme_Issue7325 | 126,792
 180 | DogSpark84 | 122,856
 181 | Mj_6o4 | 120,680
-182 | Schl0tz | 120,000
-183 | zdubs | 118,546
-184 | billywright4 | 117,465
-185 | lordciders | 116,506
-186 | mvea | 115,748
-187 | alexthemay | 114,131
-188 | Fox1931 | 114,000
-189 | dopelifer09 | 113,831
-190 | MelonFarmer420 | 113,498
+182 | MelonFarmer420 | 120,467
+183 | Schl0tz | 120,000
+184 | zdubs | 118,546
+185 | billywright4 | 117,465
+186 | lordciders | 116,506
+187 | mvea | 115,748
+188 | alexthemay | 114,131
+189 | Fox1931 | 114,000
+190 | dopelifer09 | 113,831
 191 | flying_bacon | 111,860
 192 | adrefofadre | 111,817
 193 | jimfird | 110,558
@@ -204,12 +204,12 @@ Rank | Username | Totals Tips
 201 | zenhodl | 101,029
 202 | ACorDC | 100,420
 203 | SetoXlll | 100,000
-204 | DAMG808 | 97,948
-205 | ashketchup422 | 97,294
-206 | Knaeggebrott | 97,076
-207 | Kevin3683 | 95,507
-208 | BrendanTFirefly | 95,347
-209 | IOTA_Tesla | 94,162
+204 | ashketchup422 | 97,294
+205 | Knaeggebrott | 97,076
+206 | Kevin3683 | 95,507
+207 | BrendanTFirefly | 95,347
+208 | IOTA_Tesla | 94,162
+209 | DAMG808 | 94,069
 210 | wolfman333 | 93,566
 211 | H3adshotfox77 | 92,574
 212 | FeetAndHandFetish | 91,146
