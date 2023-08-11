@@ -1,4 +1,4 @@
-Last updated: 23-08-11 05:32:17 UTC  
+Last updated: 23-08-11 05:40:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 1,740,334
 25 | thom_orrow | 1,624,148
 26 | GooderZBK | 1,570,711
-27 | Autom4tic_Soze | 1,557,133
+27 | Autom4tic_Soze | 1,559,796
 28 | transfermymoons | 1,556,736
 29 | GuyOne | 1,413,423
 30 | Affectionate_Hand_76 | 1,409,681
@@ -89,7 +89,7 @@ Rank | Username | Totals Tips
 86 | liwipe | 292,869
 87 | Tinman_ApE | 277,393
 88 | virmamies | 274,085
-89 | ArtConsitent | 270,178
+89 | ArtConsitent | 271,178
 90 | x52x | 250,606
 91 | adrifing | 238,164
 92 | Sattack4000 | 229,721
