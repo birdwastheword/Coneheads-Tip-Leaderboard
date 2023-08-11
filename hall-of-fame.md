@@ -36,5 +36,6 @@ Rank | Date | Username | Totals Tips | to User
 33 | 2023-08-02 18:54:54 | Bitdream200K | 1,000,000| Parush9
 34 | 2023-08-04 17:32:35 | _Royal_Insylum | 1,000,000| LuminousViper
 35 | 2023-08-07 21:56:23 | Wonderful_Bad6531 | 1,000,000| ChipperdoodlesComic
+36 | 2023-08-11 00:26:59 | avyun | 1,000,000| send_tacoz
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
