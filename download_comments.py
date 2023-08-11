@@ -50,7 +50,7 @@ def process(data):
 
     #Save comment tip in CSV
     global tips_csv
-    res = re.match("(/u/\w+)\W(has)\W(tipped)\W(/u/\w+)\W(\d+)\W(Bitcone)", comment["data"]["body"])
+    res = re.match("(/u/[\w-]+)\W(has)\W(tipped)\W(/u/[\w-]+)\W(\d+)\W(Bitcone)", comment["data"]["body"])
     sub = comment["data"]["subreddit_name_prefixed"]
     if(res and (utc.date() == collect_day.date())) :
       fromUser = (res.groups()[0])
