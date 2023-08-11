@@ -1,4 +1,4 @@
-Last updated: 23-08-11 02:42:43 UTC  
+Last updated: 23-08-11 02:51:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | saintajoras | 886,237
 40 | Modestexcuse | 873,297
 41 | investigator100 | 844,626
-42 | DontLaughArt | 764,017
+42 | DontLaughArt | 764,625
 43 | _ships | 740,652
 44 | starterpack420694 | 710,420
 45 | abracadabra087 | 675,675
@@ -202,11 +202,11 @@ Rank | Username | Totals Tips
 199 | beanwiggin420 | 71,404
 200 | Jadenindubai | 70,729
 201 | adi_00_ | 69,095
-202 | imp3order | 65,546
-203 | damnusernamegotcutof | 65,004
-204 | dopelifer09 | 64,827
-205 | TubeNerd92 | 63,997
-206 | scientifichistorian | 63,410
+202 | scientifichistorian | 68,410
+203 | imp3order | 65,546
+204 | damnusernamegotcutof | 65,004
+205 | dopelifer09 | 64,827
+206 | TubeNerd92 | 63,997
 207 | HokkaidoNights | 62,857
 208 | ItailianStallion101 | 62,826
 209 | standArtpluto | 62,100
@@ -422,15 +422,15 @@ Rank | Username | Totals Tips
 419 | ikiyen | 11,000
 420 | masstransience | 10,971
 421 | EvanIsBacon | 10,558
-422 | deeeznotes | 10,489
-423 | GuronT | 10,438
-424 | 73i1 | 10,412
-425 | Gilbertll | 10,332
-426 | Flamingo777 | 10,169
-427 | Gamestopisthe1 | 10,158
-428 | SenseiRaheem | 10,133
-429 | PRYCDaddy | 10,078
-430 | jimfird | 10,069
+422 | jimfird | 10,489
+423 | deeeznotes | 10,489
+424 | GuronT | 10,438
+425 | 73i1 | 10,412
+426 | Gilbertll | 10,332
+427 | Flamingo777 | 10,169
+428 | Gamestopisthe1 | 10,158
+429 | SenseiRaheem | 10,133
+430 | PRYCDaddy | 10,078
 431 | maliplazi | 10,000
 432 | Consistent_Air_7646 | 10,000
 433 | nullcomplex | 10,000
