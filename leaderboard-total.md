@@ -1,9 +1,9 @@
-Last updated: 23-08-11 04:26:05 UTC  
+Last updated: 23-08-11 04:34:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
 2 | Bitdream200K | 20,227,777
-3 | Wonderful_Bad6531 | 13,060,467
+3 | Wonderful_Bad6531 | 13,073,655
 4 | ConeDesk | 11,386,057
 5 | Parush9 | 10,474,749
 6 | crypto_grandma | 9,351,721
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | thom_orrow | 1,624,148
 26 | GooderZBK | 1,570,711
 27 | transfermymoons | 1,556,736
-28 | Autom4tic_Soze | 1,545,799
+28 | Autom4tic_Soze | 1,548,462
 29 | GuyOne | 1,413,423
 30 | Affectionate_Hand_76 | 1,409,681
 31 | bray_martin03 | 1,380,770
@@ -70,12 +70,12 @@ Rank | Username | Totals Tips
 67 | unhingedbigfoot | 418,587
 68 | Real_Player_0 | 417,046
 69 | StepAsideSuckers | 402,958
-70 | sinlesco | 388,070
-71 | Cravensworth_redux | 382,307
-72 | Lady_Lucks_Man | 378,931
-73 | CMDRGlamdring | 377,834
-74 | RazPie | 370,909
-75 | CluelessSurvivor | 364,407
+70 | CluelessSurvivor | 391,037
+71 | sinlesco | 388,070
+72 | Cravensworth_redux | 382,307
+73 | Lady_Lucks_Man | 378,931
+74 | CMDRGlamdring | 377,834
+75 | RazPie | 370,909
 76 | SKITZ_ZA | 356,982
 77 | dronegeeks1 | 356,168
 78 | LrnFaroeseWthBergur | 354,927
@@ -175,7 +175,7 @@ Rank | Username | Totals Tips
 172 | adrefofadre | 99,717
 173 | ashketchup422 | 97,225
 174 | Knaeggebrott | 97,076
-175 | junkwatch | 95,418
+175 | junkwatch | 95,907
 176 | BrendanTFirefly | 94,857
 177 | Conetent | 94,604
 178 | IOTA_Tesla | 93,742
@@ -191,7 +191,7 @@ Rank | Username | Totals Tips
 188 | Ashamed_Raccoon9918 | 85,629
 189 | wato4000 | 84,484
 190 | ShopALF | 83,929
-191 | customsolitaires | 80,952
+191 | customsolitaires | 81,421
 192 | GodOfWarGuy737 | 79,069
 193 | Pwny_b0y | 78,826
 194 | Kevin3683 | 78,354
