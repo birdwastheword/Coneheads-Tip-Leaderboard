@@ -1,4 +1,4 @@
-Last updated: 23-08-11 06:52:01 UTC  
+Last updated: 23-08-11 07:17:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -333,11 +333,11 @@ Rank | Username | Totals Tips
 330 | Ryaol | 22,663
 331 | Trelucatre | 22,269
 332 | SirPesoOtaku | 22,222
-333 | Sparrow | 22,145
-334 | Particular_Equal_490 | 22,118
-335 | africanasshat | 22,084
-336 | mofayew | 21,840
-337 | Duskopia | 21,747
+333 | Duskopia | 22,167
+334 | Sparrow | 22,145
+335 | Particular_Equal_490 | 22,118
+336 | africanasshat | 22,084
+337 | mofayew | 21,840
 338 | nichnotnick | 21,709
 339 | Tasty_Bag | 21,375
 340 | ACE415_ | 21,000
