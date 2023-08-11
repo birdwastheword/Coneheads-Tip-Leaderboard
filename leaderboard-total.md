@@ -1,4 +1,4 @@
-Last updated: 23-08-11 06:43:36 UTC  
+Last updated: 23-08-11 06:52:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | Homeslicekilla | 7,238,912
 8 | SammyCraigar | 7,198,251
 9 | rikbona | 4,534,779
-10 | bigbilly1234567899 | 4,357,904
+10 | bigbilly1234567899 | 4,387,904
 11 | HippieStarTraveler | 3,881,844
 12 | avyun | 3,648,743
 13 | thelonliestcrowd | 3,346,757
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | IveDoneItAtLast | 1,977,821
 22 | LuminousViper | 1,918,517
 23 | Mean_Bandicoot_7481 | 1,904,335
-24 | ashinamune | 1,750,334
+24 | ashinamune | 1,758,950
 25 | thom_orrow | 1,624,148
 26 | GooderZBK | 1,570,711
 27 | Autom4tic_Soze | 1,561,030
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | cutsickass | 668,870
 48 | goldyluckinblokchain | 646,047
 49 | frickdom | 618,277
-50 | femacampcouncilor | 599,725
+50 | femacampcouncilor | 602,388
 51 | Richicash | 598,141
 52 | El_Gordone | 592,784
 53 | slirpo | 592,618
