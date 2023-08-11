@@ -1,7 +1,7 @@
-Last updated: 23-08-11 10:44:02 UTC  
+Last updated: 23-08-11 10:52:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 22,490,440
+1 | Bitdream200K | 22,540,440
 2 | rickribera93 | 20,655,537
 3 | Wonderful_Bad6531 | 15,756,832
 4 | ConeDesk | 13,851,406
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | HestiaIsTheBestia | 1,188,043
 39 | ImAlekBan | 1,169,287
 40 | swampyswede | 1,148,808
-41 | DontLaughArt | 1,078,881
+41 | DontLaughArt | 1,082,152
 42 | WarmBiertje | 1,000,000
 43 | saintajoras | 898,969
 44 | thee_monster | 896,696
@@ -89,7 +89,7 @@ Rank | Username | Totals Tips
 86 | dronegeeks1 | 356,168
 87 | LrnFaroeseWthBergur | 354,927
 88 | Westy3000 | 350,558
-89 | djrcollectables | 345,118
+89 | djrcollectables | 347,781
 90 | farmertypoerror | 340,529
 91 | ValiantJudge29500 | 335,555
 92 | AustinTX1985 | 330,297
@@ -199,7 +199,7 @@ Rank | Username | Totals Tips
 196 | i_wake_up_at_12 | 89,661
 197 | Most_Being_4002 | 87,009
 198 | ACorDC | 86,489
-199 | Ashamed_Raccoon9918 | 86,049
+199 | Ashamed_Raccoon9918 | 86,118
 200 | wato4000 | 84,484
 201 | ShopALF | 83,929
 202 | Kevin3683 | 83,354
@@ -228,7 +228,7 @@ Rank | Username | Totals Tips
 225 | standArtpluto | 62,100
 226 | RegalReptile_ | 61,993
 227 | WhateverAlready | 61,926
-228 | Significant_Talk4943 | 59,780
+228 | Significant_Talk4943 | 60,620
 229 | MisterM0H0 | 59,122
 230 | TheD1ceMan | 58,861
 231 | shellystarzz | 57,401
@@ -302,22 +302,22 @@ Rank | Username | Totals Tips
 299 | Gerboogler | 33,314
 300 | xxapplej4ckx | 33,181
 301 | himthecool21 | 32,447
-302 | n00b1shm4n | 32,159
-303 | Originalibb | 32,157
-304 | Doovs | 31,967
-305 | bakerdawg555 | 31,401
-306 | mastermarvs | 31,185
-307 | 4gsboofd | 31,142
-308 | OutTop | 31,069
-309 | Steadfast_Apparition | 30,887
-310 | LX1070 | 30,810
-311 | Yirii | 30,605
-312 | See0tter | 30,510
-313 | shiesto | 30,339
-314 | rOn3OW | 30,106
-315 | masedogg98 | 29,707
-316 | degree-01 | 29,656
-317 | Duskopia | 29,427
+302 | Duskopia | 32,427
+303 | n00b1shm4n | 32,159
+304 | Originalibb | 32,157
+305 | Doovs | 31,967
+306 | bakerdawg555 | 31,401
+307 | mastermarvs | 31,185
+308 | 4gsboofd | 31,142
+309 | OutTop | 31,069
+310 | Steadfast_Apparition | 30,887
+311 | LX1070 | 30,810
+312 | Yirii | 30,605
+313 | See0tter | 30,510
+314 | shiesto | 30,339
+315 | rOn3OW | 30,106
+316 | masedogg98 | 29,707
+317 | degree-01 | 29,656
 318 | Fenrir-1919 | 28,832
 319 | LoudlySoupy | 28,681
 320 | MaestroMustache | 28,202
