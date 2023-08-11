@@ -1,9 +1,9 @@
-Last updated: 23-08-11 08:44:07 UTC  
+Last updated: 23-08-11 08:52:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 20,920,440
 2 | rickribera93 | 20,655,537
-3 | Wonderful_Bad6531 | 13,080,883
+3 | Wonderful_Bad6531 | 13,081,723
 4 | ConeDesk | 11,386,665
 5 | Parush9 | 10,474,749
 6 | crypto_grandma | 9,414,384
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,387,904
 11 | HippieStarTraveler | 3,881,844
-12 | avyun | 3,658,743
+12 | avyun | 3,661,406
 13 | thelonliestcrowd | 3,346,757
 14 | Jeff5704 | 3,188,595
 15 | redzrex | 2,997,803
@@ -293,9 +293,9 @@ Rank | Username | Totals Tips
 290 | Doovs | 31,967
 291 | bakerdawg555 | 31,401
 292 | 4gsboofd | 31,142
-293 | OutTop | 31,069
-294 | Steadfast_Apparition | 30,887
-295 | mastermarvs | 30,696
+293 | mastermarvs | 31,116
+294 | OutTop | 31,069
+295 | Steadfast_Apparition | 30,887
 296 | Yirii | 30,605
 297 | See0tter | 30,510
 298 | shiesto | 30,339
