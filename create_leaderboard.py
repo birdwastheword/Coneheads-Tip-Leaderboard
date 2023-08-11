@@ -2,6 +2,7 @@ from collections import defaultdict
 import os
 import csv
 import datetime
+import exclude_tip
 
 totals = defaultdict(lambda:0,{})
 hall_of_fame = []
@@ -13,6 +14,9 @@ def process(filename):
     for row in csv_reader:
       if line_count == 0:
         #skip header
+        line_count += 1
+      elif (row[0], row[1].removeprefix(' ')) in exclude_tip.exclude_tip :
+        #skip comment
         line_count += 1
       else:
         utc = row[0]
