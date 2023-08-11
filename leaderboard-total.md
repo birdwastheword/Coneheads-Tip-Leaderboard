@@ -1,4 +1,4 @@
-Last updated: 23-08-11 02:34:23 UTC  
+Last updated: 23-08-11 02:42:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -63,13 +63,13 @@ Rank | Username | Totals Tips
 60 | evilninjarobot | 487,260
 61 | birdwastheword | 468,813
 62 | Alanski22 | 454,380
-63 | Mopeiooo | 427,266
-64 | WarmlyWacky | 425,166
-65 | clean_cut89 | 420,574
-66 | unhingedbigfoot | 418,587
-67 | Real_Player_0 | 417,046
-68 | StepAsideSuckers | 402,958
-69 | MorrisBrett514 | 389,664
+63 | MorrisBrett514 | 431,733
+64 | Mopeiooo | 427,266
+65 | WarmlyWacky | 425,166
+66 | clean_cut89 | 420,574
+67 | unhingedbigfoot | 418,587
+68 | Real_Player_0 | 417,046
+69 | StepAsideSuckers | 402,958
 70 | sinlesco | 388,070
 71 | Cravensworth_redux | 382,307
 72 | Lady_Lucks_Man | 378,931
@@ -80,8 +80,8 @@ Rank | Username | Totals Tips
 77 | dronegeeks1 | 356,168
 78 | LrnFaroeseWthBergur | 354,927
 79 | Westy3000 | 346,114
-80 | djrcollectables | 326,057
-81 | ValiantJudge29500 | 322,339
+80 | ValiantJudge29500 | 327,947
+81 | djrcollectables | 326,057
 82 | tsudrat | 321,591
 83 | farmertypoerror | 313,866
 84 | EffinDrongoC | 301,710
@@ -97,9 +97,9 @@ Rank | Username | Totals Tips
 94 | BeardedBro_ | 223,488
 95 | Flimsy_Brilliant_239 | 218,061
 96 | doktastonks | 217,409
-97 | thecrabdad | 216,909
-98 | Zalkwalker | 216,803
-99 | joeviani | 216,235
+97 | joeviani | 217,235
+98 | thecrabdad | 216,909
+99 | Zalkwalker | 216,803
 100 | LongCauliflower6791 | 214,524
 101 | rustyybikes | 213,750
 102 | SnooMacarons9203 | 208,450
@@ -206,12 +206,12 @@ Rank | Username | Totals Tips
 203 | damnusernamegotcutof | 65,004
 204 | dopelifer09 | 64,827
 205 | TubeNerd92 | 63,997
-206 | HokkaidoNights | 62,857
-207 | ItailianStallion101 | 62,826
-208 | standArtpluto | 62,100
-209 | WhateverAlready | 61,926
-210 | KONGXIANG | 61,157
-211 | scientifichistorian | 60,747
+206 | scientifichistorian | 63,410
+207 | HokkaidoNights | 62,857
+208 | ItailianStallion101 | 62,826
+209 | standArtpluto | 62,100
+210 | WhateverAlready | 61,926
+211 | KONGXIANG | 61,157
 212 | dinoyeti | 60,395
 213 | MisterM0H0 | 59,122
 214 | _Mitchee_ | 59,030
