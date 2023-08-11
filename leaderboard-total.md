@@ -1,4 +1,4 @@
-Last updated: 23-08-11 07:41:03 UTC  
+Last updated: 23-08-11 07:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -631,17 +631,17 @@ Rank | Username | Totals Tips
 628 | WhiteMoss_ | 1,488
 629 | Doublix | 1,470
 630 | mkultrahigh | 1,415
-631 | bakerdawg555 | 1,378
-632 | MrD_12 | 1,376
-633 | Prodigyyyyyy | 1,363
-634 | VGarK | 1,337
-635 | _swnt_ | 1,337
-636 | FalloutAssasin | 1,329
-637 | onemansquest | 1,303
-638 | slasula | 1,295
-639 | jurgensdapimp | 1,258
-640 | Elgato_TJ | 1,242
-641 | Straton_Conemont_Inc | 1,242
+631 | Straton_Conemont_Inc | 1,380
+632 | bakerdawg555 | 1,378
+633 | MrD_12 | 1,376
+634 | Prodigyyyyyy | 1,363
+635 | VGarK | 1,337
+636 | _swnt_ | 1,337
+637 | FalloutAssasin | 1,329
+638 | onemansquest | 1,303
+639 | slasula | 1,295
+640 | jurgensdapimp | 1,258
+641 | Elgato_TJ | 1,242
 642 | DWBroodle | 1,240
 643 | Tekbepimpin | 1,239
 644 | Mooraell | 1,239
