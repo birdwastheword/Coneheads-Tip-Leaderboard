@@ -1,4 +1,4 @@
-Last updated: 23-08-11 02:51:25 UTC  
+Last updated: 23-08-11 03:20:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 20,655,537
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | Parush9 | 10,474,749
 6 | crypto_grandma | 9,351,721
 7 | Homeslicekilla | 7,238,912
-8 | SammyCraigar | 7,197,643
+8 | SammyCraigar | 7,198,251
 9 | rikbona | 4,534,779
 10 | bigbilly1234567899 | 4,356,688
 11 | HippieStarTraveler | 3,881,844
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | thom_orrow | 1,624,148
 26 | GooderZBK | 1,570,711
 27 | transfermymoons | 1,556,736
-28 | Autom4tic_Soze | 1,542,716
+28 | Autom4tic_Soze | 1,543,136
 29 | GuyOne | 1,410,152
 30 | Affectionate_Hand_76 | 1,409,681
 31 | bray_martin03 | 1,380,770
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | saintajoras | 886,237
 40 | Modestexcuse | 873,297
 41 | investigator100 | 844,626
-42 | DontLaughArt | 764,625
+42 | DontLaughArt | 778,504
 43 | _ships | 740,652
 44 | starterpack420694 | 710,420
 45 | abracadabra087 | 675,675
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | evilninjarobot | 487,260
 61 | birdwastheword | 468,813
 62 | Alanski22 | 454,380
-63 | MorrisBrett514 | 431,733
+63 | MorrisBrett514 | 433,153
 64 | Mopeiooo | 427,266
 65 | WarmlyWacky | 425,166
 66 | clean_cut89 | 420,574
@@ -200,7 +200,7 @@ Rank | Username | Totals Tips
 197 | Derefringence | 74,536
 198 | MedicineMaterial3501 | 73,988
 199 | beanwiggin420 | 71,404
-200 | Jadenindubai | 70,729
+200 | Jadenindubai | 70,798
 201 | adi_00_ | 69,095
 202 | scientifichistorian | 68,410
 203 | imp3order | 65,546
