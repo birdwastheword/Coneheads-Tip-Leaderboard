@@ -1,11 +1,11 @@
-Last updated: 23-08-11 21:24:04 UTC  
+Last updated: 23-08-11 21:32:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 23,939,750
 2 | rickribera93 | 23,675,537
-3 | ConeDesk | 14,381,011
-4 | nakamo-toe | 12,959,349
-5 | Wonderful_Bad6531 | 11,513,236
+3 | ConeDesk | 14,461,093
+4 | nakamo-toe | 12,956,686
+5 | Wonderful_Bad6531 | 11,512,120
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,467,183
 8 | Homeslicekilla | 7,953,728
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Jeff5704 | 3,326,753
 20 | redzrex | 3,238,549
 21 | avyun | 2,983,860
-22 | LuminousViper | 2,954,673
+22 | LuminousViper | 2,957,336
 23 | ZukoBih | 2,641,302
 24 | rustyybikes | 2,613,113
 25 | IveDoneItAtLast | 2,595,942
@@ -31,13 +31,13 @@ Rank | Username | Totals Tips
 28 | Mean_Bandicoot_7481 | 2,119,875
 29 | ashinamune | 2,102,362
 30 | possibili-teas | 1,995,243
-31 | Autom4tic_Soze | 1,902,378
+31 | Autom4tic_Soze | 1,899,715
 32 | thom_orrow | 1,858,615
 33 | transfermymoons | 1,835,219
 34 | waterhasnocalories | 1,686,406
 35 | GooderZBK | 1,613,388
 36 | GuyOne | 1,556,442
-37 | ImAlekBan | 1,440,799
+37 | ImAlekBan | 1,439,993
 38 | bray_martin03 | 1,422,727
 39 | Affectionate_Hand_76 | 1,421,521
 40 | Ten-Mins-Late | 1,369,590
@@ -87,7 +87,7 @@ Rank | Username | Totals Tips
 84 | clean_cut89 | 455,479
 85 | MediaPrestigious8342 | 449,395
 86 | SKITZ_ZA | 448,394
-87 | Cravensworth_redux | 444,670
+87 | Cravensworth_redux | 445,670
 88 | unhingedbigfoot | 439,874
 89 | Mopeiooo | 427,266
 90 | StepAsideSuckers | 424,398
