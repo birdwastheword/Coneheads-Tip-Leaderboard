@@ -1,9 +1,9 @@
-Last updated: 23-08-12 02:31:26 UTC  
+Last updated: 23-08-12 02:40:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
 2 | Bitdream200K | 23,199,750
-3 | ConeDesk | 14,616,491
+3 | ConeDesk | 14,622,571
 4 | nakamo-toe | 13,062,797
 5 | Parush9 | 11,052,014
 6 | crypto_grandma | 10,404,520
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | StepAsideSuckers | 424,398
 91 | dronegeeks1 | 414,406
 92 | LrnFaroeseWthBergur | 409,488
-93 | Lady_Lucks_Man | 406,450
+93 | Lady_Lucks_Man | 409,113
 94 | MorrisBrett514 | 403,482
 95 | djrcollectables | 372,968
 96 | RazPie | 371,328
@@ -178,10 +178,10 @@ Rank | Username | Totals Tips
 175 | CalligrapherEnough83 | 127,227
 176 | sjakkpila | 124,368
 177 | DogSpark84 | 122,856
-178 | Mj_6o4 | 120,072
-179 | Schl0tz | 120,000
-180 | billywright4 | 119,753
-181 | MelonFarmer420 | 119,627
+178 | MelonFarmer420 | 120,467
+179 | Mj_6o4 | 120,072
+180 | Schl0tz | 120,000
+181 | billywright4 | 119,753
 182 | zdubs | 118,547
 183 | lordciders | 116,506
 184 | mvea | 115,748
