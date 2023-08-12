@@ -1,4 +1,4 @@
-Last updated: 23-08-12 07:23:46 UTC  
+Last updated: 23-08-12 07:32:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
@@ -400,9 +400,9 @@ Rank | Username | Totals Tips
 397 | bentolman | 18,871
 398 | ___MOM___ | 18,853
 399 | Burzzzt88 | 18,632
-400 | Collectibl3 | 18,024
-401 | kwickle | 17,835
-402 | hey_barry | 17,761
+400 | hey_barry | 18,181
+401 | Collectibl3 | 18,024
+402 | kwickle | 17,835
 403 | augustsIippedaway | 17,739
 404 | omfglauren | 17,676
 405 | Steves1982 | 17,284
