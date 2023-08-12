@@ -1,10 +1,10 @@
-Last updated: 23-08-12 22:30:59 UTC  
+Last updated: 23-08-12 22:40:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
 2 | Bitdream200K | 24,372,364
 3 | rickribera93 | 23,675,537
-4 | nakamo-toe | 15,450,864
+4 | nakamo-toe | 15,504,124
 5 | ConeDesk | 15,055,983
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,651,143
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | birdwastheword | 3,149,091
 24 | Puddin-Luv | 3,143,127
 25 | LuminousViper | 2,971,455
-26 | IveDoneItAtLast | 2,786,749
+26 | IveDoneItAtLast | 2,804,773
 27 | ZukoBih | 2,646,628
 28 | rustyybikes | 2,613,721
 29 | _Royal_Insylum | 2,596,749
@@ -577,8 +577,8 @@ Rank | Username | Totals Tips
 574 | Chill_Edoeard | 5,540
 575 | ZeusDubstep | 5,503
 576 | dorinosss | 5,420
-577 | Independent_Safe1351 | 5,352
-578 | fettskull | 5,326
+577 | fettskull | 5,395
+578 | Independent_Safe1351 | 5,352
 579 | moonmanuk | 5,326
 580 | Nugacity5 | 5,316
 581 | ineedmoney2024 | 5,243
