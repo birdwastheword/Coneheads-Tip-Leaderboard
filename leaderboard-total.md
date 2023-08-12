@@ -1,4 +1,4 @@
-Last updated: 23-08-12 03:40:39 UTC  
+Last updated: 23-08-12 03:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | send420nudes | 2,445,441
 27 | LuminousViper | 2,258,312
 28 | Mean_Bandicoot_7481 | 2,119,875
-29 | ashinamune | 2,010,558
+29 | ashinamune | 2,079,978
 30 | possibili-teas | 1,995,243
 31 | Autom4tic_Soze | 1,941,752
 32 | thom_orrow | 1,858,615
