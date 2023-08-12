@@ -1,4 +1,4 @@
-Last updated: 23-08-12 05:22:08 UTC  
+Last updated: 23-08-12 05:30:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
@@ -28,9 +28,9 @@ Rank | Username | Totals Tips
 25 | _Royal_Insylum | 2,596,749
 26 | send420nudes | 2,445,441
 27 | LuminousViper | 2,258,312
-28 | Mean_Bandicoot_7481 | 2,119,875
-29 | ashinamune | 2,079,978
-30 | possibili-teas | 1,995,243
+28 | ashinamune | 2,149,398
+29 | Mean_Bandicoot_7481 | 2,119,875
+30 | possibili-teas | 1,998,283
 31 | Autom4tic_Soze | 1,941,752
 32 | thom_orrow | 1,858,615
 33 | transfermymoons | 1,724,348
