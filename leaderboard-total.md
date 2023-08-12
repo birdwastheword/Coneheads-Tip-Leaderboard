@@ -1,4 +1,4 @@
-Last updated: 23-08-12 13:30:53 UTC  
+Last updated: 23-08-12 13:40:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 24,309,780
@@ -38,10 +38,10 @@ Rank | Username | Totals Tips
 35 | GooderZBK | 1,613,996
 36 | GuyOne | 1,573,028
 37 | ImAlekBan | 1,457,539
-38 | bray_martin03 | 1,425,390
+38 | bray_martin03 | 1,425,998
 39 | Affectionate_Hand_76 | 1,421,521
 40 | Ten-Mins-Late | 1,369,590
-41 | LordBobTheWhale | 1,278,188
+41 | LordBobTheWhale | 1,279,404
 42 | swampyswede | 1,249,574
 43 | DontLaughArt | 1,189,157
 44 | HestiaIsTheBestia | 1,188,043
@@ -158,11 +158,11 @@ Rank | Username | Totals Tips
 155 | ShortBusCult | 157,648
 156 | high5s_inureye | 156,316
 157 | the_judge_168 | 154,250
-158 | 6reficul | 153,884
-159 | martymartinator | 151,952
-160 | NotFullyTerrestrial | 150,694
-161 | maxfra | 149,556
-162 | dealkhabari | 148,467
+158 | dealkhabari | 154,207
+159 | 6reficul | 153,884
+160 | martymartinator | 151,952
+161 | NotFullyTerrestrial | 150,694
+162 | maxfra | 149,556
 163 | YarOldeOrchard | 147,662
 164 | CoverYourMaskHoles | 146,393
 165 | beastlybaker | 143,887
@@ -188,9 +188,9 @@ Rank | Username | Totals Tips
 185 | Schl0tz | 120,000
 186 | billywright4 | 119,753
 187 | zdubs | 119,610
-188 | lordciders | 116,506
-189 | mvea | 115,748
-190 | zenhodl | 115,051
+188 | zenhodl | 117,309
+189 | lordciders | 116,506
+190 | mvea | 115,748
 191 | alexthemay | 114,131
 192 | Fox1931 | 114,000
 193 | dopelifer09 | 113,831
