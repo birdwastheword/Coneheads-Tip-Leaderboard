@@ -55,5 +55,6 @@ Rank | Date | Username | Totals Tips | to User
 52 | 2023-08-11 06:31:20 | Real_Player_0 | 1,000,000| possibili-teas
 53 | 2023-08-11 16:26:26 | _Royal_Insylum | 1,000,000| Real_Player_0
 54 | 2023-08-12 18:27:25 | avyun | 1,000,000| Jeff5704
+55 | 2023-08-12 18:58:02 | zdubs | 1,000,000| Jeff5704
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
