@@ -1,11 +1,11 @@
-Last updated: 23-08-12 17:30:52 UTC  
+Last updated: 23-08-12 17:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 24,314,701
 2 | rickribera93 | 23,675,537
 3 | nakamo-toe | 14,949,414
-4 | ConeDesk | 14,937,743
-5 | Wonderful_Bad6531 | 13,804,695
+4 | ConeDesk | 14,943,823
+5 | Wonderful_Bad6531 | 13,807,358
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,651,143
 8 | Homeslicekilla | 7,953,728
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | HippieStarTraveler | 4,549,797
 13 | rikbona | 4,535,475
 14 | bigbilly1234567899 | 4,392,551
-15 | avyun | 4,296,124
+15 | avyun | 4,303,093
 16 | thelonliestcrowd | 3,968,220
 17 | ArtConsitent | 3,682,278
 18 | redzrex | 3,664,538
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | bray_martin03 | 1,425,998
 39 | Affectionate_Hand_76 | 1,421,521
 40 | Ten-Mins-Late | 1,370,010
-41 | LordBobTheWhale | 1,282,270
+41 | LordBobTheWhale | 1,282,690
 42 | swampyswede | 1,249,574
 43 | DontLaughArt | 1,189,157
 44 | HestiaIsTheBestia | 1,188,043
@@ -84,7 +84,7 @@ Rank | Username | Totals Tips
 81 | shreyaskg | 523,722
 82 | ValiantJudge29500 | 510,029
 83 | f0n1xr131ng | 499,192
-84 | Forward_Today2849 | 486,394
+84 | Forward_Today2849 | 489,057
 85 | MorrisBrett514 | 485,331
 86 | sinlesco | 462,490
 87 | WarmlyWacky | 462,118
@@ -145,16 +145,16 @@ Rank | Username | Totals Tips
 142 | redditavanft | 195,122
 143 | AverageLiberalJoe | 195,007
 144 | send_tacoz | 192,666
-145 | nooobmaester69 | 182,957
-146 | Esco1980 | 181,771
-147 | dealkhabari | 181,305
+145 | dealkhabari | 185,429
+146 | nooobmaester69 | 182,957
+147 | Esco1980 | 181,771
 148 | superlonelyboy | 180,661
 149 | UWphoto | 180,458
 150 | ruccarucca | 179,850
 151 | YourThighsWarmMyEars | 172,697
 152 | Street_Addd | 171,939
 153 | dinoyeti | 170,396
-154 | Conetent | 163,133
+154 | Conetent | 163,553
 155 | zenhodl | 160,819
 156 | Gregoryonetulum | 160,109
 157 | ShortBusCult | 157,648
@@ -197,7 +197,7 @@ Rank | Username | Totals Tips
 194 | dopelifer09 | 113,831
 195 | flying_bacon | 111,860
 196 | adrefofadre | 111,817
-197 | DAMG808 | 111,032
+197 | DAMG808 | 111,640
 198 | jimfird | 110,558
 199 | PushyDevolution | 110,216
 200 | Dry_Badger_2403 | 110,000
@@ -206,7 +206,7 @@ Rank | Username | Totals Tips
 203 | Jlt42000 | 107,091
 204 | AD_VICTORIAM_x | 106,876
 205 | Chanyuui1 | 104,940
-206 | SetoXlll | 103,000
+206 | SetoXlll | 104,000
 207 | ACorDC | 100,420
 208 | Ashamed_Raccoon9918 | 97,867
 209 | ashketchup422 | 97,294
