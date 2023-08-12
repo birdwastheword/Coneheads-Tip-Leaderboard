@@ -1,10 +1,10 @@
-Last updated: 23-08-12 06:33:56 UTC  
+Last updated: 23-08-12 06:42:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
 2 | Bitdream200K | 23,199,750
 3 | ConeDesk | 14,622,571
-4 | nakamo-toe | 13,650,705
+4 | nakamo-toe | 13,687,987
 5 | Parush9 | 11,052,014
 6 | crypto_grandma | 10,446,843
 7 | Wonderful_Bad6531 | 9,008,757
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | HippieStarTraveler | 4,543,304
 11 | rikbona | 4,535,475
 12 | Geniuskills | 4,452,762
-13 | Real_Player_0 | 4,413,796
+13 | Real_Player_0 | 4,414,404
 14 | bigbilly1234567899 | 4,357,603
 15 | thelonliestcrowd | 3,933,594
 16 | ArtConsitent | 3,671,278
@@ -90,7 +90,7 @@ Rank | Username | Totals Tips
 87 | SKITZ_ZA | 445,311
 88 | unhingedbigfoot | 439,874
 89 | Mopeiooo | 427,266
-90 | StepAsideSuckers | 424,398
+90 | StepAsideSuckers | 425,006
 91 | MorrisBrett514 | 416,502
 92 | dronegeeks1 | 414,406
 93 | LrnFaroeseWthBergur | 409,488
@@ -152,14 +152,14 @@ Rank | Username | Totals Tips
 149 | dinoyeti | 160,396
 150 | Gregoryonetulum | 160,109
 151 | ShortBusCult | 157,648
-152 | the_judge_168 | 154,250
-153 | 6reficul | 153,884
-154 | AustinTX1985 | 153,863
-155 | martymartinator | 151,344
-156 | NotFullyTerrestrial | 150,694
-157 | maxfra | 149,556
-158 | YarOldeOrchard | 147,662
-159 | high5s_inureye | 147,569
+152 | high5s_inureye | 156,316
+153 | the_judge_168 | 154,250
+154 | 6reficul | 153,884
+155 | AustinTX1985 | 153,863
+156 | martymartinator | 151,344
+157 | NotFullyTerrestrial | 150,694
+158 | maxfra | 149,556
+159 | YarOldeOrchard | 147,662
 160 | CoverYourMaskHoles | 146,393
 161 | Sad_Entertainer9961 | 143,248
 162 | revdrgonzo | 141,501
@@ -414,8 +414,8 @@ Rank | Username | Totals Tips
 411 | Conflict63 | 16,063
 412 | Outrageous-Ad8481 | 16,001
 413 | ipad_daps | 15,974
-414 | giooo_tdm | 15,895
-415 | Burzzzt88 | 15,831
+414 | Burzzzt88 | 15,900
+415 | giooo_tdm | 15,895
 416 | halfABsinC | 15,622
 417 | Zwott | 15,441
 418 | Fr3sh-Ch3mical | 15,393
