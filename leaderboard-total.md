@@ -1,4 +1,4 @@
-Last updated: 23-08-12 08:02:44 UTC  
+Last updated: 23-08-12 08:23:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 24,082,413
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | crypto_grandma | 10,609,506
 8 | Homeslicekilla | 7,953,728
 9 | SammyCraigar | 7,484,919
-10 | Real_Player_0 | 5,483,610
+10 | Real_Player_0 | 5,484,218
 11 | Geniuskills | 4,674,845
 12 | HippieStarTraveler | 4,545,967
 13 | rikbona | 4,535,475
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | LordBobTheWhale | 1,278,188
 42 | swampyswede | 1,220,281
 43 | HestiaIsTheBestia | 1,188,043
-44 | DontLaughArt | 1,146,183
+44 | DontLaughArt | 1,176,909
 45 | Puddin-Luv | 1,117,783
 46 | catlover-100 | 1,110,627
 47 | avatarbot | 1,027,000
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | femacampcouncilor | 642,812
 67 | frickdom | 638,619
 68 | piebagz | 626,815
-69 | birdwastheword | 624,215
+69 | birdwastheword | 624,704
 70 | Richicash | 624,207
 71 | slirpo | 618,225
 72 | firstmatedotxyz | 598,580
