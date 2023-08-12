@@ -1,18 +1,18 @@
-Last updated: 23-08-12 23:25:29 UTC  
+Last updated: 23-08-12 23:34:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
 2 | Bitdream200K | 24,372,364
 3 | rickribera93 | 23,675,537
-4 | nakamo-toe | 16,234,141
+4 | nakamo-toe | 16,603,561
 5 | ConeDesk | 15,055,983
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,651,143
 8 | Homeslicekilla | 7,953,728
 9 | SammyCraigar | 7,526,104
 10 | avyun | 5,533,070
-11 | Real_Player_0 | 5,491,976
-12 | Geniuskills | 5,177,577
+11 | Geniuskills | 5,504,546
+12 | Real_Player_0 | 5,491,976
 13 | HippieStarTraveler | 4,551,057
 14 | rikbona | 4,535,475
 15 | bigbilly1234567899 | 4,392,551
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | birdwastheword | 3,149,091
 24 | Puddin-Luv | 3,143,735
 25 | LuminousViper | 2,971,455
-26 | IveDoneItAtLast | 2,829,452
+26 | IveDoneItAtLast | 2,835,460
 27 | ZukoBih | 2,646,628
 28 | rustyybikes | 2,613,721
 29 | _Royal_Insylum | 2,596,749
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | WarmBiertje | 1,000,000
 55 | EvanIsBacon | 970,416
 56 | saintajoras | 956,417
-57 | investigator100 | 918,394
+57 | investigator100 | 921,057
 58 | freechickens | 915,654
 59 | Modestexcuse | 903,684
 60 | thee_monster | 896,765
