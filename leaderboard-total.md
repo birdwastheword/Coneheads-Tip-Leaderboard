@@ -1,18 +1,18 @@
-Last updated: 23-08-12 07:40:35 UTC  
+Last updated: 23-08-12 07:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
 2 | Bitdream200K | 23,199,750
 3 | ConeDesk | 14,622,571
 4 | nakamo-toe | 13,817,888
-5 | Parush9 | 11,052,014
-6 | crypto_grandma | 10,446,843
-7 | Wonderful_Bad6531 | 9,011,420
+5 | Wonderful_Bad6531 | 11,278,053
+6 | Parush9 | 11,052,014
+7 | crypto_grandma | 10,446,843
 8 | Homeslicekilla | 7,953,728
 9 | SammyCraigar | 7,483,095
-10 | HippieStarTraveler | 4,543,304
-11 | rikbona | 4,535,475
-12 | Geniuskills | 4,452,762
+10 | Geniuskills | 4,605,425
+11 | HippieStarTraveler | 4,543,304
+12 | rikbona | 4,535,475
 13 | Real_Player_0 | 4,417,067
 14 | bigbilly1234567899 | 4,357,603
 15 | thelonliestcrowd | 3,933,594
@@ -166,7 +166,7 @@ Rank | Username | Totals Tips
 163 | MymannosaurusRex | 141,317
 164 | SalliIsAFem | 140,361
 165 | luisantonio197 | 139,511
-166 | Fenrir-1919 | 138,640
+166 | Fenrir-1919 | 139,248
 167 | GrowinStuffAndThings | 137,461
 168 | 002_timmy | 136,711
 169 | beastlybaker | 133,887
@@ -824,11 +824,11 @@ Rank | Username | Totals Tips
 821 | QualcunoCF | 420
 822 | DopelessHopefeand | 420
 823 | Malixshak | 414
-824 | Unlucky_Narwhal3983 | 400
-825 | ancheli | 381
-826 | RepresentativeNo4743 | 369
-827 | WeaselJCD | 345
-828 | Bobisdeadrun | 345
+824 | Bobisdeadrun | 414
+825 | Unlucky_Narwhal3983 | 400
+826 | ancheli | 381
+827 | RepresentativeNo4743 | 369
+828 | WeaselJCD | 345
 829 | DrChuckWhite | 344
 830 | Wise-Grapefruit-1443 | 311
 831 | Formal-Way-4610 | 300
