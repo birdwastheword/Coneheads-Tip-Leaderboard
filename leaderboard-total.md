@@ -1,10 +1,10 @@
-Last updated: 23-08-12 22:21:31 UTC  
+Last updated: 23-08-12 22:30:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
 2 | Bitdream200K | 24,372,364
 3 | rickribera93 | 23,675,537
-4 | nakamo-toe | 15,445,538
+4 | nakamo-toe | 15,450,864
 5 | ConeDesk | 15,055,983
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,651,143
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | thee_monster | 896,765
 61 | Feetfailmenot | 863,375
 62 | 0-Give-a-fucks | 861,307
-63 | _ships | 853,061
+63 | _ships | 854,061
 64 | CluelessSurvivor | 843,073
 65 | goldyluckinblokchain | 806,385
 66 | Forward_Today2849 | 741,720
