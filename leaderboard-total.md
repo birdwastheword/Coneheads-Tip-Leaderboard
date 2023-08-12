@@ -1,4 +1,4 @@
-Last updated: 23-08-12 09:25:13 UTC  
+Last updated: 23-08-12 09:33:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 24,082,413
@@ -272,13 +272,13 @@ Rank | Username | Totals Tips
 269 | ConeHead710 | 52,012
 270 | lucivaryas | 51,000
 271 | Duskopia | 50,325
-272 | Tapiz3land | 48,892
-273 | d0ntmess87 | 48,615
-274 | meme_used | 48,516
-275 | d_Shazam_b | 48,488
-276 | CryptoScamee42069 | 47,454
-277 | I_AM_MORE_BADASS | 47,332
-278 | coolpattakers | 47,326
+272 | coolpattakers | 49,989
+273 | Tapiz3land | 48,892
+274 | d0ntmess87 | 48,615
+275 | meme_used | 48,516
+276 | d_Shazam_b | 48,488
+277 | CryptoScamee42069 | 47,454
+278 | I_AM_MORE_BADASS | 47,332
 279 | Adrewmc | 47,177
 280 | shredslanding | 46,650
 281 | qwertywich | 46,169
