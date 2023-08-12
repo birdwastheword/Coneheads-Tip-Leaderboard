@@ -1,4 +1,4 @@
-Last updated: 23-08-12 07:32:02 UTC  
+Last updated: 23-08-12 07:40:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
@@ -182,7 +182,7 @@ Rank | Username | Totals Tips
 179 | Mj_6o4 | 120,072
 180 | Schl0tz | 120,000
 181 | billywright4 | 119,753
-182 | zdubs | 118,547
+182 | zdubs | 119,102
 183 | lordciders | 116,506
 184 | mvea | 115,748
 185 | alexthemay | 114,131
