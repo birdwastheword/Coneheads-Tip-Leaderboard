@@ -1,4 +1,4 @@
-Last updated: 23-08-12 04:50:26 UTC  
+Last updated: 23-08-12 05:22:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
@@ -20,8 +20,8 @@ Rank | Username | Totals Tips
 17 | redzrex | 3,661,875
 18 | VIVOffical | 3,645,283
 19 | Ginomania | 3,431,866
-20 | Jeff5704 | 3,340,068
-21 | avyun | 3,084,023
+20 | Jeff5704 | 3,342,731
+21 | avyun | 3,126,092
 22 | ZukoBih | 2,643,965
 23 | IveDoneItAtLast | 2,619,292
 24 | rustyybikes | 2,613,113
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | transfermymoons | 1,724,348
 34 | waterhasnocalories | 1,686,406
 35 | GooderZBK | 1,613,996
-36 | GuyOne | 1,559,105
+36 | GuyOne | 1,561,768
 37 | ImAlekBan | 1,431,555
 38 | bray_martin03 | 1,425,390
 39 | Affectionate_Hand_76 | 1,421,521
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | HestiaIsTheBestia | 1,188,043
 44 | Puddin-Luv | 1,115,120
 45 | catlover-100 | 1,110,627
-46 | DontLaughArt | 1,034,756
+46 | DontLaughArt | 1,038,027
 47 | avatarbot | 1,027,000
 48 | WarmBiertje | 1,000,000
 49 | EvanIsBacon | 970,416
@@ -60,13 +60,13 @@ Rank | Username | Totals Tips
 57 | _ships | 839,493
 58 | goldyluckinblokchain | 806,385
 59 | cutsickass | 753,843
-60 | starterpack420694 | 710,420
-61 | WarmIyWacky | 703,049
-62 | abracadabra087 | 684,625
-63 | CluelessSurvivor | 684,487
+60 | CluelessSurvivor | 711,117
+61 | starterpack420694 | 710,420
+62 | WarmIyWacky | 703,049
+63 | abracadabra087 | 684,625
 64 | ziggybri | 671,826
 65 | femacampcouncilor | 637,486
-66 | frickdom | 631,756
+66 | frickdom | 635,956
 67 | piebagz | 626,815
 68 | Richicash | 624,207
 69 | slirpo | 618,225
@@ -110,12 +110,12 @@ Rank | Username | Totals Tips
 107 | Tinman_ApE | 288,093
 108 | x52x | 273,860
 109 | adrifing | 269,085
-110 | thecrabdad | 256,177
-111 | deedopete | 255,962
-112 | Ambitious-Minimum-80 | 252,035
-113 | Sattack4000 | 250,837
-114 | formidable-opponent | 248,686
-115 | SHIFTY-T3RROR | 246,319
+110 | formidable-opponent | 256,463
+111 | thecrabdad | 256,177
+112 | deedopete | 255,962
+113 | Ambitious-Minimum-80 | 252,035
+114 | Sattack4000 | 250,837
+115 | SHIFTY-T3RROR | 246,739
 116 | UniversalNoobMaster | 243,853
 117 | Zalkwalker | 235,069
 118 | Lion-Hermit | 231,154
@@ -329,7 +329,7 @@ Rank | Username | Totals Tips
 326 | n00b1shm4n | 32,159
 327 | Originalibb | 32,157
 328 | Doovs | 31,967
-329 | mastermarvs | 31,254
+329 | mastermarvs | 31,674
 330 | OutTop | 31,069
 331 | rOn3OW | 30,714
 332 | See0tter | 30,579
@@ -393,8 +393,8 @@ Rank | Username | Totals Tips
 390 | NoahG59 | 20,002
 391 | PassiveRoadRage | 20,000
 392 | maliplazi | 20,000
-393 | AMAxyz | 19,775
-394 | PsLJdogg | 19,555
+393 | PsLJdogg | 19,975
+394 | AMAxyz | 19,775
 395 | Iiwip | 19,533
 396 | MalarkyD | 19,527
 397 | bentolman | 18,871
