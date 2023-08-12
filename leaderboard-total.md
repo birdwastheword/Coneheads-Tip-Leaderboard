@@ -1,4 +1,4 @@
-Last updated: 23-08-12 02:22:40 UTC  
+Last updated: 23-08-12 02:31:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
@@ -181,7 +181,7 @@ Rank | Username | Totals Tips
 178 | Mj_6o4 | 120,072
 179 | Schl0tz | 120,000
 180 | billywright4 | 119,753
-181 | MelonFarmer420 | 119,207
+181 | MelonFarmer420 | 119,627
 182 | zdubs | 118,547
 183 | lordciders | 116,506
 184 | mvea | 115,748
@@ -198,7 +198,7 @@ Rank | Username | Totals Tips
 195 | Jlt42000 | 107,091
 196 | AD_VICTORIAM_x | 106,876
 197 | Chanyuui1 | 104,940
-198 | junkwatch | 102,614
+198 | junkwatch | 102,683
 199 | zenhodl | 101,029
 200 | ACorDC | 100,420
 201 | SetoXlll | 100,000
