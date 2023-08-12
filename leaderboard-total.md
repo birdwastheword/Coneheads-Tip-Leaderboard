@@ -1,13 +1,13 @@
-Last updated: 23-08-12 06:50:53 UTC  
+Last updated: 23-08-12 07:15:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
 2 | Bitdream200K | 23,199,750
 3 | ConeDesk | 14,622,571
-4 | nakamo-toe | 13,691,258
+4 | nakamo-toe | 13,817,888
 5 | Parush9 | 11,052,014
 6 | crypto_grandma | 10,446,843
-7 | Wonderful_Bad6531 | 9,008,757
+7 | Wonderful_Bad6531 | 9,011,420
 8 | Homeslicekilla | 7,953,728
 9 | SammyCraigar | 7,483,095
 10 | HippieStarTraveler | 4,543,304
@@ -85,8 +85,8 @@ Rank | Username | Totals Tips
 82 | WarmlyWacky | 462,118
 83 | Forward_Today2849 | 459,958
 84 | clean_cut89 | 455,548
-85 | Cravensworth_redux | 449,753
-86 | MediaPrestigious8342 | 449,395
+85 | MediaPrestigious8342 | 453,839
+86 | Cravensworth_redux | 449,753
 87 | SKITZ_ZA | 445,311
 88 | unhingedbigfoot | 439,874
 89 | Mopeiooo | 427,266
