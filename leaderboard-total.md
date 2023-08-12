@@ -1,10 +1,10 @@
-Last updated: 23-08-12 21:14:12 UTC  
+Last updated: 23-08-12 21:22:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Wonderful_Bad6531 | 28,310,629
+1 | Wonderful_Bad6531 | 28,313,292
 2 | Bitdream200K | 24,372,364
 3 | rickribera93 | 23,675,537
-4 | nakamo-toe | 15,422,806
+4 | nakamo-toe | 15,432,875
 5 | ConeDesk | 15,055,983
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,651,143
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | LuminousViper | 2,971,455
 25 | IveDoneItAtLast | 2,778,252
 26 | ZukoBih | 2,646,628
-27 | rustyybikes | 2,613,113
+27 | rustyybikes | 2,613,721
 28 | _Royal_Insylum | 2,596,749
 29 | ashinamune | 2,480,790
 30 | send420nudes | 2,445,441
@@ -618,8 +618,8 @@ Rank | Username | Totals Tips
 615 | Ronkad | 4,003
 616 | nathanroberts14 | 4,000
 617 | Soil_Electronic | 3,975
-618 | Dreadaussie | 3,920
-619 | street_shark_puppet | 3,906
+618 | street_shark_puppet | 3,975
+619 | Dreadaussie | 3,920
 620 | lookwhatumademedoo | 3,892
 621 | Glitzxc | 3,779
 622 | carsonthecarsinogen | 3,769
