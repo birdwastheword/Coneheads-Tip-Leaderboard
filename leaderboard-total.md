@@ -1,4 +1,4 @@
-Last updated: 23-08-12 21:31:20 UTC  
+Last updated: 23-08-12 21:40:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | EvanIsBacon | 970,416
 55 | saintajoras | 956,417
 56 | investigator100 | 915,731
-57 | freechickens | 915,585
+57 | freechickens | 915,654
 58 | Modestexcuse | 903,684
 59 | thee_monster | 896,765
 60 | Feetfailmenot | 863,375
