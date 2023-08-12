@@ -1,4 +1,4 @@
-Last updated: 23-08-12 15:30:40 UTC  
+Last updated: 23-08-12 15:40:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 24,314,701
@@ -53,9 +53,9 @@ Rank | Username | Totals Tips
 50 | saintajoras | 955,812
 51 | CMDRGlamdring | 925,473
 52 | investigator100 | 913,068
-53 | Modestexcuse | 903,684
-54 | thee_monster | 896,765
-55 | cutsickass | 881,832
+53 | cutsickass | 911,832
+54 | Modestexcuse | 903,684
+55 | thee_monster | 896,765
 56 | Feetfailmenot | 863,375
 57 | 0-Give-a-fucks | 861,307
 58 | _ships | 852,892
@@ -85,7 +85,7 @@ Rank | Username | Totals Tips
 82 | ValiantJudge29500 | 510,029
 83 | f0n1xr131ng | 499,192
 84 | Forward_Today2849 | 486,394
-85 | MorrisBrett514 | 484,331
+85 | MorrisBrett514 | 485,331
 86 | sinlesco | 462,490
 87 | WarmlyWacky | 462,118
 88 | clean_cut89 | 455,548
@@ -119,7 +119,7 @@ Rank | Username | Totals Tips
 116 | deedopete | 255,962
 117 | Ambitious-Minimum-80 | 252,035
 118 | Sattack4000 | 250,837
-119 | crodbtc | 236,813
+119 | crodbtc | 241,813
 120 | Zalkwalker | 235,069
 121 | Lion-Hermit | 232,154
 122 | Successful-Walk-3902 | 229,284
@@ -147,10 +147,10 @@ Rank | Username | Totals Tips
 144 | send_tacoz | 192,666
 145 | nooobmaester69 | 182,957
 146 | Esco1980 | 181,771
-147 | superlonelyboy | 180,661
-148 | UWphoto | 180,458
-149 | ruccarucca | 179,850
-150 | dealkhabari | 175,703
+147 | dealkhabari | 181,098
+148 | superlonelyboy | 180,661
+149 | UWphoto | 180,458
+150 | ruccarucca | 179,850
 151 | YourThighsWarmMyEars | 172,697
 152 | Street_Addd | 171,939
 153 | dinoyeti | 170,396
@@ -405,9 +405,9 @@ Rank | Username | Totals Tips
 402 | AMAxyz | 19,775
 403 | Iiwip | 19,533
 404 | MalarkyD | 19,527
-405 | bentolman | 18,871
-406 | ___MOM___ | 18,853
-407 | hey_barry | 18,181
+405 | hey_barry | 19,181
+406 | bentolman | 18,871
+407 | ___MOM___ | 18,853
 408 | Collectibl3 | 18,024
 409 | kwickle | 17,835
 410 | augustsIippedaway | 17,739
