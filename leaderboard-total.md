@@ -1,10 +1,10 @@
-Last updated: 23-08-12 03:50:38 UTC  
+Last updated: 23-08-12 04:24:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
 2 | Bitdream200K | 23,199,750
 3 | ConeDesk | 14,622,571
-4 | nakamo-toe | 13,552,873
+4 | nakamo-toe | 13,555,536
 5 | Parush9 | 11,052,014
 6 | crypto_grandma | 10,446,843
 7 | Wonderful_Bad6531 | 9,005,066
@@ -44,17 +44,17 @@ Rank | Username | Totals Tips
 41 | LordBobTheWhale | 1,278,188
 42 | swampyswede | 1,220,281
 43 | HestiaIsTheBestia | 1,188,043
-44 | catlover-100 | 1,110,627
-45 | Puddin-Luv | 1,109,374
+44 | Puddin-Luv | 1,115,120
+45 | catlover-100 | 1,110,627
 46 | DontLaughArt | 1,034,756
 47 | avatarbot | 1,027,000
 48 | WarmBiertje | 1,000,000
 49 | EvanIsBacon | 970,416
 50 | saintajoras | 943,080
-51 | CMDRGlamdring | 909,473
-52 | Modestexcuse | 903,684
-53 | thee_monster | 896,765
-54 | investigator100 | 883,742
+51 | investigator100 | 910,405
+52 | CMDRGlamdring | 909,473
+53 | Modestexcuse | 903,684
+54 | thee_monster | 896,765
 55 | Feetfailmenot | 863,375
 56 | 0-Give-a-fucks | 861,307
 57 | _ships | 839,493
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | __PDS__ | 595,709
 73 | El_Gordone | 592,784
 74 | Independent_Heart_15 | 578,825
-75 | Alanski22 | 561,122
+75 | Alanski22 | 561,730
 76 | Due_Insurance8159 | 546,497
 77 | shreyaskg | 523,722
 78 | evilninjarobot | 520,989
@@ -91,10 +91,10 @@ Rank | Username | Totals Tips
 88 | unhingedbigfoot | 439,874
 89 | Mopeiooo | 427,266
 90 | StepAsideSuckers | 424,398
-91 | dronegeeks1 | 414,406
-92 | LrnFaroeseWthBergur | 409,488
-93 | Lady_Lucks_Man | 409,113
-94 | MorrisBrett514 | 405,902
+91 | MorrisBrett514 | 416,502
+92 | dronegeeks1 | 414,406
+93 | LrnFaroeseWthBergur | 409,488
+94 | Lady_Lucks_Man | 409,113
 95 | djrcollectables | 372,968
 96 | RazPie | 371,328
 97 | Westy3000 | 368,765
@@ -114,7 +114,7 @@ Rank | Username | Totals Tips
 111 | deedopete | 255,962
 112 | Ambitious-Minimum-80 | 252,035
 113 | Sattack4000 | 250,837
-114 | formidable-opponent | 247,909
+114 | formidable-opponent | 248,686
 115 | SHIFTY-T3RROR | 246,319
 116 | UniversalNoobMaster | 243,853
 117 | Zalkwalker | 235,069
@@ -223,9 +223,9 @@ Rank | Username | Totals Tips
 220 | wato4000 | 79,998
 221 | Pwny_b0y | 79,447
 222 | GodOfWarGuy737 | 79,069
-223 | Jadenindubai | 78,273
-224 | mokkingjay | 77,914
-225 | beanwiggin420 | 77,733
+223 | beanwiggin420 | 78,733
+224 | Jadenindubai | 78,273
+225 | mokkingjay | 77,914
 226 | WhateverAlready | 77,657
 227 | youtooleyesing | 77,229
 228 | Derefringence | 76,675
@@ -233,7 +233,7 @@ Rank | Username | Totals Tips
 230 | redditinchina | 74,278
 231 | Creepy-Nectarine-225 | 73,624
 232 | adi_00_ | 71,759
-233 | scientifichistorian | 70,747
+233 | scientifichistorian | 71,218
 234 | TubeNerd92 | 68,997
 235 | HokkaidoNights | 67,688
 236 | Friendly-Airline2426 | 66,545
