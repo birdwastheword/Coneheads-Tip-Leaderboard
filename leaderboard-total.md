@@ -1,24 +1,24 @@
-Last updated: 23-08-12 03:19:03 UTC  
+Last updated: 23-08-12 03:30:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
 2 | Bitdream200K | 23,199,750
 3 | ConeDesk | 14,622,571
-4 | nakamo-toe | 13,062,797
+4 | nakamo-toe | 13,552,873
 5 | Parush9 | 11,052,014
-6 | crypto_grandma | 10,436,843
+6 | crypto_grandma | 10,446,843
 7 | Wonderful_Bad6531 | 9,005,066
 8 | Homeslicekilla | 7,953,728
 9 | SammyCraigar | 7,483,095
 10 | HippieStarTraveler | 4,543,304
 11 | rikbona | 4,535,475
-12 | Real_Player_0 | 4,413,796
-13 | bigbilly1234567899 | 4,357,603
-14 | Geniuskills | 4,026,132
+12 | Geniuskills | 4,452,762
+13 | Real_Player_0 | 4,413,796
+14 | bigbilly1234567899 | 4,357,603
 15 | thelonliestcrowd | 3,933,594
 16 | ArtConsitent | 3,671,278
 17 | VIVOffical | 3,645,283
-18 | Ginomania | 3,429,203
+18 | Ginomania | 3,431,866
 19 | Jeff5704 | 3,340,068
 20 | redzrex | 3,243,875
 21 | avyun | 2,972,534
@@ -225,8 +225,8 @@ Rank | Username | Totals Tips
 222 | GodOfWarGuy737 | 79,069
 223 | Jadenindubai | 78,273
 224 | mokkingjay | 77,914
-225 | WhateverAlready | 77,657
-226 | beanwiggin420 | 77,313
+225 | beanwiggin420 | 77,733
+226 | WhateverAlready | 77,657
 227 | youtooleyesing | 77,229
 228 | Derefringence | 76,675
 229 | MedicineMaterial3501 | 74,654
