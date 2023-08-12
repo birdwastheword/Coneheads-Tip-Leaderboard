@@ -1,4 +1,4 @@
-Last updated: 23-08-12 19:22:24 UTC  
+Last updated: 23-08-12 19:30:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 24,259,701
@@ -7,10 +7,10 @@ Rank | Username | Totals Tips
 4 | ConeDesk | 15,013,922
 5 | Wonderful_Bad6531 | 13,807,358
 6 | Parush9 | 11,052,014
-7 | crypto_grandma | 10,651,143
+7 | crypto_grandma | 10,631,143
 8 | Homeslicekilla | 7,953,728
 9 | SammyCraigar | 7,495,109
-10 | avyun | 5,489,919
+10 | avyun | 5,524,764
 11 | Real_Player_0 | 5,162,072
 12 | Geniuskills | 4,648,215
 13 | HippieStarTraveler | 4,549,308
@@ -242,7 +242,7 @@ Rank | Username | Totals Tips
 239 | Creepy-Nectarine-225 | 73,624
 240 | Significant_Talk4943 | 71,920
 241 | adi_00_ | 71,759
-242 | ultra_terrestrial | 69,612
+242 | ultra_terrestrial | 69,004
 243 | TubeNerd92 | 68,997
 244 | HokkaidoNights | 68,108
 245 | ZeMadMan1 | 67,980
