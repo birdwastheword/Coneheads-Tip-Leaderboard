@@ -1,4 +1,4 @@
-Last updated: 23-08-12 03:30:48 UTC  
+Last updated: 23-08-12 03:40:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | swampyswede | 1,220,281
 43 | HestiaIsTheBestia | 1,188,043
 44 | catlover-100 | 1,110,627
-45 | Puddin-Luv | 1,104,048
+45 | Puddin-Luv | 1,109,374
 46 | DontLaughArt | 1,034,756
 47 | avatarbot | 1,027,000
 48 | WarmBiertje | 1,000,000
@@ -55,10 +55,10 @@ Rank | Username | Totals Tips
 52 | Modestexcuse | 903,684
 53 | thee_monster | 896,765
 54 | investigator100 | 883,742
-55 | 0-Give-a-fucks | 861,307
-56 | _ships | 839,493
-57 | goldyluckinblokchain | 806,385
-58 | Feetfailmenot | 763,375
+55 | Feetfailmenot | 863,375
+56 | 0-Give-a-fucks | 861,307
+57 | _ships | 839,493
+58 | goldyluckinblokchain | 806,385
 59 | cutsickass | 753,843
 60 | starterpack420694 | 710,420
 61 | WarmIyWacky | 703,049
@@ -94,7 +94,7 @@ Rank | Username | Totals Tips
 91 | dronegeeks1 | 414,406
 92 | LrnFaroeseWthBergur | 409,488
 93 | Lady_Lucks_Man | 409,113
-94 | MorrisBrett514 | 403,482
+94 | MorrisBrett514 | 405,902
 95 | djrcollectables | 372,968
 96 | RazPie | 371,328
 97 | Westy3000 | 368,765
