@@ -1,4 +1,4 @@
-Last updated: 23-08-12 04:24:50 UTC  
+Last updated: 23-08-12 04:33:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
@@ -17,11 +17,11 @@ Rank | Username | Totals Tips
 14 | bigbilly1234567899 | 4,357,603
 15 | thelonliestcrowd | 3,933,594
 16 | ArtConsitent | 3,671,278
-17 | VIVOffical | 3,645,283
-18 | Ginomania | 3,431,866
-19 | Jeff5704 | 3,340,068
-20 | redzrex | 3,243,875
-21 | avyun | 2,972,534
+17 | redzrex | 3,661,875
+18 | VIVOffical | 3,645,283
+19 | Ginomania | 3,431,866
+20 | Jeff5704 | 3,340,068
+21 | avyun | 3,041,954
 22 | ZukoBih | 2,643,965
 23 | IveDoneItAtLast | 2,619,292
 24 | rustyybikes | 2,613,113
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | GooderZBK | 1,613,996
 36 | GuyOne | 1,559,105
 37 | ImAlekBan | 1,431,555
-38 | bray_martin03 | 1,422,727
+38 | bray_martin03 | 1,425,390
 39 | Affectionate_Hand_76 | 1,421,521
 40 | Ten-Mins-Late | 1,369,590
 41 | LordBobTheWhale | 1,278,188
@@ -51,7 +51,7 @@ Rank | Username | Totals Tips
 48 | WarmBiertje | 1,000,000
 49 | EvanIsBacon | 970,416
 50 | saintajoras | 943,080
-51 | investigator100 | 910,405
+51 | investigator100 | 913,068
 52 | CMDRGlamdring | 909,473
 53 | Modestexcuse | 903,684
 54 | thee_monster | 896,765
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | __PDS__ | 595,709
 73 | El_Gordone | 592,784
 74 | Independent_Heart_15 | 578,825
-75 | Alanski22 | 561,730
+75 | Alanski22 | 564,393
 76 | Due_Insurance8159 | 546,497
 77 | shreyaskg | 523,722
 78 | evilninjarobot | 520,989
@@ -550,9 +550,9 @@ Rank | Username | Totals Tips
 547 | SeniorThiccBoi | 6,405
 548 | rpgruli | 6,364
 549 | ReasonReasonable7168 | 6,357
-550 | Dapper_Bloke88 | 6,238
-551 | Schwoanz | 6,219
-552 | Coeruleus_ | 6,086
+550 | Coeruleus_ | 6,297
+551 | Dapper_Bloke88 | 6,238
+552 | Schwoanz | 6,219
 553 | dozebull | 6,043
 554 | kanem87 | 6,035
 555 | DrunkDoge420 | 6,000
