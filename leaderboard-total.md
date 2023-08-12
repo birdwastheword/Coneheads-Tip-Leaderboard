@@ -1,13 +1,13 @@
-Last updated: 23-08-12 16:43:08 UTC  
+Last updated: 23-08-12 16:51:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 24,314,701
 2 | rickribera93 | 23,675,537
 3 | nakamo-toe | 14,947,091
 4 | ConeDesk | 14,937,743
-5 | Wonderful_Bad6531 | 13,804,087
+5 | Wonderful_Bad6531 | 13,804,695
 6 | Parush9 | 11,052,014
-7 | crypto_grandma | 10,638,798
+7 | crypto_grandma | 10,651,143
 8 | Homeslicekilla | 7,953,728
 9 | SammyCraigar | 7,491,838
 10 | Real_Player_0 | 5,491,976
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | HippieStarTraveler | 4,549,797
 13 | rikbona | 4,535,475
 14 | bigbilly1234567899 | 4,392,551
-15 | avyun | 4,170,682
+15 | avyun | 4,219,465
 16 | thelonliestcrowd | 3,968,220
 17 | ArtConsitent | 3,682,278
 18 | redzrex | 3,664,538
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | Feetfailmenot | 863,375
 57 | 0-Give-a-fucks | 861,307
 58 | _ships | 852,892
-59 | CluelessSurvivor | 840,410
+59 | CluelessSurvivor | 843,073
 60 | goldyluckinblokchain | 806,385
 61 | starterpack420694 | 710,420
 62 | WarmIyWacky | 703,049
@@ -96,7 +96,7 @@ Rank | Username | Totals Tips
 93 | dronegeeks1 | 414,406
 94 | Lady_Lucks_Man | 409,953
 95 | LrnFaroeseWthBergur | 409,488
-96 | djrcollectables | 402,750
+96 | djrcollectables | 408,076
 97 | RazPie | 371,328
 98 | Westy3000 | 368,765
 99 | farmertypoerror | 359,212
@@ -206,7 +206,7 @@ Rank | Username | Totals Tips
 203 | AD_VICTORIAM_x | 106,876
 204 | Chanyuui1 | 104,940
 205 | SetoXlll | 103,000
-206 | SpookySYN | 102,377
+206 | SpookySYN | 102,446
 207 | ACorDC | 100,420
 208 | Ashamed_Raccoon9918 | 97,867
 209 | ashketchup422 | 97,294
@@ -406,19 +406,19 @@ Rank | Username | Totals Tips
 403 | Iiwip | 19,533
 404 | MalarkyD | 19,527
 405 | hey_barry | 19,181
-406 | bentolman | 18,871
-407 | ___MOM___ | 18,853
-408 | Collectibl3 | 18,024
-409 | kwickle | 17,835
-410 | augustsIippedaway | 17,739
-411 | omfglauren | 17,676
-412 | masterassassin93 | 17,409
-413 | Steves1982 | 17,284
-414 | rolonic | 17,284
-415 | OutrageousStudy6752 | 17,087
-416 | 1ndy1 | 17,003
-417 | DramaticProtogen | 16,756
-418 | Backwood20 | 16,462
+406 | Backwood20 | 19,125
+407 | bentolman | 18,871
+408 | ___MOM___ | 18,853
+409 | Collectibl3 | 18,024
+410 | kwickle | 17,835
+411 | augustsIippedaway | 17,739
+412 | omfglauren | 17,676
+413 | masterassassin93 | 17,409
+414 | Steves1982 | 17,284
+415 | rolonic | 17,284
+416 | OutrageousStudy6752 | 17,087
+417 | 1ndy1 | 17,003
+418 | DramaticProtogen | 16,756
 419 | Drlitez | 16,436
 420 | ipad_daps | 16,394
 421 | Levl1Critter | 16,163
