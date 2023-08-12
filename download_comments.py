@@ -84,7 +84,7 @@ while after != None :
 # Collect all JSON batches in one file
 day_of_tips = (dict(sorted(day_of_tips.items(), key=lambda item: item[0])))
 tips_csv = "utc, from_user, to_user, amount, currency, sub_reddit\r\n"
-for (utc, fromUser), (amount, toUser, currency, sub) in day_of_tips.items():
+for (utc, fromUser), (toUser, amount, currency, sub) in day_of_tips.items():
   tips_csv += (f"{utc}, {fromUser}, {toUser}, {amount}, {currency}, {sub}\r\n")
 
 #Save the comment tip to CSV file
