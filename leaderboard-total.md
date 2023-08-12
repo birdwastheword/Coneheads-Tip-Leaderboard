@@ -1,10 +1,10 @@
-Last updated: 23-08-12 22:40:47 UTC  
+Last updated: 23-08-12 22:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
 2 | Bitdream200K | 24,372,364
 3 | rickribera93 | 23,675,537
-4 | nakamo-toe | 15,504,124
+4 | nakamo-toe | 15,584,209
 5 | ConeDesk | 15,055,983
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,651,143
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | avyun | 5,533,070
 11 | Real_Player_0 | 5,491,976
 12 | Geniuskills | 4,674,845
-13 | HippieStarTraveler | 4,550,217
+13 | HippieStarTraveler | 4,550,637
 14 | rikbona | 4,535,475
 15 | bigbilly1234567899 | 4,392,551
 16 | thelonliestcrowd | 4,145,277
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | birdwastheword | 3,149,091
 24 | Puddin-Luv | 3,143,127
 25 | LuminousViper | 2,971,455
-26 | IveDoneItAtLast | 2,804,773
+26 | IveDoneItAtLast | 2,810,781
 27 | ZukoBih | 2,646,628
 28 | rustyybikes | 2,613,721
 29 | _Royal_Insylum | 2,596,749
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | bray_martin03 | 1,425,998
 43 | Affectionate_Hand_76 | 1,421,521
 44 | Ten-Mins-Late | 1,370,010
-45 | LordBobTheWhale | 1,283,906
+45 | LordBobTheWhale | 1,284,514
 46 | swampyswede | 1,249,574
 47 | DontLaughArt | 1,189,157
 48 | HestiaIsTheBestia | 1,188,043
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | thee_monster | 896,765
 61 | Feetfailmenot | 863,375
 62 | 0-Give-a-fucks | 861,307
-63 | _ships | 854,061
+63 | _ships | 856,724
 64 | CluelessSurvivor | 843,073
 65 | goldyluckinblokchain | 806,385
 66 | Forward_Today2849 | 741,720
@@ -210,9 +210,9 @@ Rank | Username | Totals Tips
 207 | SpookySYN | 107,689
 208 | Jlt42000 | 107,091
 209 | AD_VICTORIAM_x | 106,876
-210 | MartynDr | 105,000
-211 | Chanyuui1 | 104,940
-212 | SetoXlll | 104,000
+210 | SetoXlll | 105,111
+211 | MartynDr | 105,000
+212 | Chanyuui1 | 104,940
 213 | WhateverAlready | 103,237
 214 | rolonic | 102,764
 215 | ACorDC | 100,420
@@ -229,8 +229,8 @@ Rank | Username | Totals Tips
 226 | FeetAndHandFetish | 91,146
 227 | i_wake_up_at_12 | 90,369
 228 | _Mitchee_ | 89,354
-229 | ShopALF | 87,942
-230 | RegalReptile_ | 86,297
+229 | RegalReptile_ | 88,960
+230 | ShopALF | 87,942
 231 | customsolitaires | 85,803
 232 | wato4000 | 85,744
 233 | Puzzleheaded_Gift738 | 84,020
