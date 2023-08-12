@@ -1,10 +1,10 @@
-Last updated: 23-08-12 04:33:54 UTC  
+Last updated: 23-08-12 04:42:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
 2 | Bitdream200K | 23,199,750
 3 | ConeDesk | 14,622,571
-4 | nakamo-toe | 13,555,536
+4 | nakamo-toe | 13,633,313
 5 | Parush9 | 11,052,014
 6 | crypto_grandma | 10,446,843
 7 | Wonderful_Bad6531 | 9,005,066
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | VIVOffical | 3,645,283
 19 | Ginomania | 3,431,866
 20 | Jeff5704 | 3,340,068
-21 | avyun | 3,041,954
+21 | avyun | 3,084,023
 22 | ZukoBih | 2,643,965
 23 | IveDoneItAtLast | 2,619,292
 24 | rustyybikes | 2,613,113
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | __PDS__ | 595,709
 73 | El_Gordone | 592,784
 74 | Independent_Heart_15 | 578,825
-75 | Alanski22 | 564,393
+75 | Alanski22 | 571,362
 76 | Due_Insurance8159 | 546,497
 77 | shreyaskg | 523,722
 78 | evilninjarobot | 520,989
