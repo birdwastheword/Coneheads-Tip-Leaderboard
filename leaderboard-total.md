@@ -1,10 +1,10 @@
-Last updated: 23-08-12 16:34:56 UTC  
+Last updated: 23-08-12 16:43:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 24,314,701
 2 | rickribera93 | 23,675,537
-3 | ConeDesk | 14,937,743
-4 | nakamo-toe | 14,920,461
+3 | nakamo-toe | 14,947,091
+4 | ConeDesk | 14,937,743
 5 | Wonderful_Bad6531 | 13,804,087
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,638,798
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Ginomania | 3,439,855
 21 | Jeff5704 | 3,361,372
 22 | LuminousViper | 2,970,607
-23 | IveDoneItAtLast | 2,775,589
+23 | IveDoneItAtLast | 2,778,252
 24 | ZukoBih | 2,646,628
 25 | rustyybikes | 2,613,113
 26 | _Royal_Insylum | 2,596,749
@@ -238,8 +238,8 @@ Rank | Username | Totals Tips
 235 | Creepy-Nectarine-225 | 73,624
 236 | adi_00_ | 71,759
 237 | Significant_Talk4943 | 71,080
-238 | RegalReptile_ | 70,319
-239 | ultra_terrestrial | 69,844
+238 | ultra_terrestrial | 70,452
+239 | RegalReptile_ | 70,319
 240 | TubeNerd92 | 68,997
 241 | HokkaidoNights | 68,108
 242 | ZeMadMan1 | 67,980
