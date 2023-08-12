@@ -1,4 +1,4 @@
-Last updated: 23-08-12 14:19:36 UTC  
+Last updated: 23-08-12 14:30:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 24,314,701
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Ginomania | 3,439,855
 21 | Jeff5704 | 3,358,709
 22 | LuminousViper | 2,970,607
-23 | IveDoneItAtLast | 2,772,120
+23 | IveDoneItAtLast | 2,772,926
 24 | ZukoBih | 2,646,628
 25 | rustyybikes | 2,613,113
 26 | _Royal_Insylum | 2,596,749
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | bray_martin03 | 1,425,998
 39 | Affectionate_Hand_76 | 1,421,521
 40 | Ten-Mins-Late | 1,369,590
-41 | LordBobTheWhale | 1,279,404
+41 | LordBobTheWhale | 1,281,662
 42 | swampyswede | 1,249,574
 43 | DontLaughArt | 1,189,157
 44 | HestiaIsTheBestia | 1,188,043
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | _ships | 852,892
 58 | CluelessSurvivor | 840,410
 59 | goldyluckinblokchain | 806,385
-60 | cutsickass | 786,506
+60 | cutsickass | 796,506
 61 | starterpack420694 | 710,420
 62 | WarmIyWacky | 703,049
 63 | Starterpack69420 | 696,969
@@ -163,12 +163,12 @@ Rank | Username | Totals Tips
 160 | martymartinator | 151,952
 161 | NotFullyTerrestrial | 150,694
 162 | maxfra | 149,556
-163 | YarOldeOrchard | 147,662
-164 | CoverYourMaskHoles | 146,393
-165 | beastlybaker | 143,887
-166 | Sad_Entertainer9961 | 143,248
-167 | Fenrir-1919 | 143,127
-168 | zenhodl | 142,147
+163 | zenhodl | 148,921
+164 | YarOldeOrchard | 147,662
+165 | CoverYourMaskHoles | 146,393
+166 | beastlybaker | 143,887
+167 | Sad_Entertainer9961 | 143,248
+168 | Fenrir-1919 | 143,127
 169 | revdrgonzo | 141,921
 170 | MymannosaurusRex | 141,317
 171 | SalliIsAFem | 140,361
@@ -224,7 +224,7 @@ Rank | Username | Totals Tips
 221 | customsolitaires | 85,803
 222 | wato4000 | 85,324
 223 | Puzzleheaded_Gift738 | 84,020
-224 | scientifichistorian | 81,544
+224 | scientifichistorian | 83,802
 225 | Pwny_b0y | 79,447
 226 | Jadenindubai | 79,342
 227 | beanwiggin420 | 79,153
