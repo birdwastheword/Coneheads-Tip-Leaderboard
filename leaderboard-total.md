@@ -1,4 +1,4 @@
-Last updated: 23-08-12 08:23:27 UTC  
+Last updated: 23-08-12 08:31:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 24,082,413
@@ -37,14 +37,14 @@ Rank | Username | Totals Tips
 34 | waterhasnocalories | 1,686,406
 35 | GooderZBK | 1,613,996
 36 | GuyOne | 1,573,028
-37 | ImAlekBan | 1,440,799
+37 | ImAlekBan | 1,443,462
 38 | bray_martin03 | 1,425,390
 39 | Affectionate_Hand_76 | 1,421,521
 40 | Ten-Mins-Late | 1,369,590
 41 | LordBobTheWhale | 1,278,188
 42 | swampyswede | 1,220,281
 43 | HestiaIsTheBestia | 1,188,043
-44 | DontLaughArt | 1,176,909
+44 | DontLaughArt | 1,176,951
 45 | Puddin-Luv | 1,117,783
 46 | catlover-100 | 1,110,627
 47 | avatarbot | 1,027,000
