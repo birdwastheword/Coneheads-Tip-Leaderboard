@@ -1,7 +1,7 @@
-Last updated: 23-08-12 09:33:28 UTC  
+Last updated: 23-08-12 09:42:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 24,082,413
+1 | Bitdream200K | 24,085,076
 2 | rickribera93 | 23,675,537
 3 | nakamo-toe | 14,893,145
 4 | ConeDesk | 14,635,003
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | HippieStarTraveler | 4,545,967
 13 | rikbona | 4,535,475
 14 | bigbilly1234567899 | 4,392,551
-15 | avyun | 4,155,724
+15 | avyun | 4,158,387
 16 | thelonliestcrowd | 3,968,220
 17 | ArtConsitent | 3,682,278
 18 | redzrex | 3,661,875
@@ -507,15 +507,15 @@ Rank | Username | Totals Tips
 504 | Big_Beyotch | 9,318
 505 | No-Confusion7414 | 9,282
 506 | Donmari590 | 9,250
-507 | charlythesecond | 9,131
-508 | Ddoublewhopper | 9,126
-509 | undefined-account | 9,126
-510 | Shraier | 9,103
-511 | Otherwise_Assist_34 | 9,083
-512 | 69BoJack69 | 9,003
-513 | Duckeis | 8,873
-514 | allisonovo | 8,849
-515 | cptnkook | 8,821
+507 | cptnkook | 9,241
+508 | charlythesecond | 9,131
+509 | Ddoublewhopper | 9,126
+510 | undefined-account | 9,126
+511 | Shraier | 9,103
+512 | Otherwise_Assist_34 | 9,083
+513 | 69BoJack69 | 9,003
+514 | Duckeis | 8,873
+515 | allisonovo | 8,849
 516 | guokaidi | 8,693
 517 | BreadfruitIll4265 | 8,608
 518 | J-_Mad | 8,540
