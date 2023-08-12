@@ -1,4 +1,4 @@
-Last updated: 23-08-12 13:21:02 UTC  
+Last updated: 23-08-12 13:30:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 24,309,780
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Mean_Bandicoot_7481 | 2,119,875
 30 | transfermymoons | 2,020,421
 31 | possibili-teas | 2,003,352
-32 | Autom4tic_Soze | 1,996,652
+32 | Autom4tic_Soze | 1,998,910
 33 | thom_orrow | 1,858,615
 34 | waterhasnocalories | 1,728,475
 35 | GooderZBK | 1,613,996
@@ -102,9 +102,9 @@ Rank | Username | Totals Tips
 99 | farmertypoerror | 359,212
 100 | AustinTX1985 | 343,863
 101 | tsudrat | 340,707
-102 | Mundane-Farm-4117 | 332,850
-103 | doktastonks | 327,320
-104 | UniversalNoobMaster | 318,519
+102 | UniversalNoobMaster | 333,271
+103 | Mundane-Farm-4117 | 332,850
+104 | doktastonks | 327,320
 105 | liwipe | 304,467
 106 | EffinDrongoC | 302,738
 107 | VincentVanGTFO | 297,935
@@ -162,9 +162,9 @@ Rank | Username | Totals Tips
 159 | martymartinator | 151,952
 160 | NotFullyTerrestrial | 150,694
 161 | maxfra | 149,556
-162 | YarOldeOrchard | 147,662
-163 | CoverYourMaskHoles | 146,393
-164 | dealkhabari | 144,920
+162 | dealkhabari | 148,467
+163 | YarOldeOrchard | 147,662
+164 | CoverYourMaskHoles | 146,393
 165 | beastlybaker | 143,887
 166 | Sad_Entertainer9961 | 143,248
 167 | Fenrir-1919 | 143,127
@@ -190,21 +190,21 @@ Rank | Username | Totals Tips
 187 | zdubs | 119,610
 188 | lordciders | 116,506
 189 | mvea | 115,748
-190 | alexthemay | 114,131
-191 | Fox1931 | 114,000
-192 | dopelifer09 | 113,831
-193 | flying_bacon | 111,860
-194 | adrefofadre | 111,817
-195 | jimfird | 110,558
-196 | PushyDevolution | 110,216
-197 | Dry_Badger_2403 | 110,000
-198 | Strong_Constant_1190 | 109,517
-199 | PortCity_MadMan | 108,678
-200 | DAMG808 | 108,369
-201 | Jlt42000 | 107,091
-202 | AD_VICTORIAM_x | 106,876
-203 | Chanyuui1 | 104,940
-204 | zenhodl | 103,761
+190 | zenhodl | 115,051
+191 | alexthemay | 114,131
+192 | Fox1931 | 114,000
+193 | dopelifer09 | 113,831
+194 | flying_bacon | 111,860
+195 | adrefofadre | 111,817
+196 | jimfird | 110,558
+197 | PushyDevolution | 110,216
+198 | Dry_Badger_2403 | 110,000
+199 | Strong_Constant_1190 | 109,517
+200 | PortCity_MadMan | 108,678
+201 | DAMG808 | 108,369
+202 | Jlt42000 | 107,091
+203 | AD_VICTORIAM_x | 106,876
+204 | Chanyuui1 | 104,940
 205 | SpookySYN | 102,377
 206 | ACorDC | 100,420
 207 | SetoXlll | 100,000
@@ -247,7 +247,7 @@ Rank | Username | Totals Tips
 244 | imp3order | 65,546
 245 | damnusernamegotcutof | 65,004
 246 | MisterM0H0 | 64,448
-247 | ultra_terrestrial | 63,880
+247 | ultra_terrestrial | 64,300
 248 | ItailianStallion101 | 63,028
 249 | netnemirepxE | 62,645
 250 | shellystarzz | 62,249
