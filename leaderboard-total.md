@@ -1,4 +1,4 @@
-Last updated: 23-08-12 07:15:16 UTC  
+Last updated: 23-08-12 07:23:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
@@ -399,22 +399,22 @@ Rank | Username | Totals Tips
 396 | MalarkyD | 19,527
 397 | bentolman | 18,871
 398 | ___MOM___ | 18,853
-399 | Collectibl3 | 18,024
-400 | kwickle | 17,835
-401 | hey_barry | 17,761
-402 | augustsIippedaway | 17,739
-403 | omfglauren | 17,676
-404 | Steves1982 | 17,284
-405 | Fictional_Blook | 17,210
-406 | OutrageousStudy6752 | 17,087
-407 | deathtr0 | 16,489
-408 | Drlitez | 16,436
-409 | masterassassin93 | 16,409
-410 | Levl1Critter | 16,163
-411 | Conflict63 | 16,063
-412 | Outrageous-Ad8481 | 16,001
-413 | ipad_daps | 15,974
-414 | Burzzzt88 | 15,969
+399 | Burzzzt88 | 18,632
+400 | Collectibl3 | 18,024
+401 | kwickle | 17,835
+402 | hey_barry | 17,761
+403 | augustsIippedaway | 17,739
+404 | omfglauren | 17,676
+405 | Steves1982 | 17,284
+406 | Fictional_Blook | 17,210
+407 | OutrageousStudy6752 | 17,087
+408 | deathtr0 | 16,489
+409 | Drlitez | 16,436
+410 | masterassassin93 | 16,409
+411 | Levl1Critter | 16,163
+412 | Conflict63 | 16,063
+413 | Outrageous-Ad8481 | 16,001
+414 | ipad_daps | 15,974
 415 | giooo_tdm | 15,895
 416 | halfABsinC | 15,622
 417 | Zwott | 15,441
