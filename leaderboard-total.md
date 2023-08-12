@@ -1,4 +1,4 @@
-Last updated: 23-08-12 10:34:17 UTC  
+Last updated: 23-08-12 10:42:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 24,173,150
@@ -79,7 +79,7 @@ Rank | Username | Totals Tips
 76 | Alanski22 | 571,970
 77 | Due_Insurance8159 | 546,497
 78 | shreyaskg | 523,722
-79 | evilninjarobot | 520,989
+79 | evilninjarobot | 523,652
 80 | ValiantJudge29500 | 510,029
 81 | f0n1xr131ng | 499,192
 82 | MorrisBrett514 | 480,831
@@ -137,7 +137,7 @@ Rank | Username | Totals Tips
 134 | legionticket | 206,762
 135 | isthistomorrow_ | 205,323
 136 | tjex666 | 204,575
-137 | junkwatch | 203,730
+137 | junkwatch | 203,799
 138 | Skank_cunt_42 | 202,870
 139 | noface_reddit | 198,945
 140 | CedricDiccory | 197,932
