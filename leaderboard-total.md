@@ -1,7 +1,7 @@
-Last updated: 23-08-12 10:25:54 UTC  
+Last updated: 23-08-12 10:34:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 24,170,487
+1 | Bitdream200K | 24,173,150
 2 | rickribera93 | 23,675,537
 3 | nakamo-toe | 14,893,145
 4 | ConeDesk | 14,635,003
@@ -83,7 +83,7 @@ Rank | Username | Totals Tips
 80 | ValiantJudge29500 | 510,029
 81 | f0n1xr131ng | 499,192
 82 | MorrisBrett514 | 480,831
-83 | Forward_Today2849 | 473,176
+83 | Forward_Today2849 | 475,839
 84 | sinlesco | 462,490
 85 | WarmlyWacky | 462,118
 86 | clean_cut89 | 455,548
@@ -693,9 +693,9 @@ Rank | Username | Totals Tips
 690 | SpySeaRamen | 1,920
 691 | jurgensdapimp | 1,867
 692 | bricks_n_coins | 1,840
-693 | virginia669 | 1,791
-694 | FalloutAssasin | 1,750
-695 | Straton_Conemont_Inc | 1,725
+693 | Straton_Conemont_Inc | 1,794
+694 | virginia669 | 1,791
+695 | FalloutAssasin | 1,750
 696 | PuzzleheadedDream830 | 1,650
 697 | Zues6921 | 1,627
 698 | MalicCarnage | 1,607
