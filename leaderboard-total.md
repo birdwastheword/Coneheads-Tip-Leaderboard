@@ -1,4 +1,4 @@
-Last updated: 23-08-12 05:40:38 UTC  
+Last updated: 23-08-12 05:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | nakamo-toe | 13,633,313
 5 | Parush9 | 11,052,014
 6 | crypto_grandma | 10,446,843
-7 | Wonderful_Bad6531 | 9,007,729
+7 | Wonderful_Bad6531 | 9,008,337
 8 | Homeslicekilla | 7,953,728
 9 | SammyCraigar | 7,483,095
 10 | HippieStarTraveler | 4,543,304
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | SHIFTY-T3RROR | 246,739
 116 | UniversalNoobMaster | 243,853
 117 | Zalkwalker | 235,069
-118 | Lion-Hermit | 231,154
+118 | Lion-Hermit | 232,154
 119 | Successful-Walk-3902 | 229,284
 120 | crodbtc | 228,824
 121 | Flimsy_Brilliant_239 | 227,028
@@ -198,7 +198,7 @@ Rank | Username | Totals Tips
 195 | Jlt42000 | 107,091
 196 | AD_VICTORIAM_x | 106,876
 197 | Chanyuui1 | 104,940
-198 | junkwatch | 102,683
+198 | junkwatch | 103,103
 199 | SpookySYN | 102,308
 200 | zenhodl | 101,029
 201 | ACorDC | 100,420
