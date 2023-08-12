@@ -1,4 +1,4 @@
-Last updated: 23-08-12 05:30:37 UTC  
+Last updated: 23-08-12 05:40:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | nakamo-toe | 13,633,313
 5 | Parush9 | 11,052,014
 6 | crypto_grandma | 10,446,843
-7 | Wonderful_Bad6531 | 9,005,066
+7 | Wonderful_Bad6531 | 9,007,729
 8 | Homeslicekilla | 7,953,728
 9 | SammyCraigar | 7,483,095
 10 | HippieStarTraveler | 4,543,304
@@ -438,13 +438,13 @@ Rank | Username | Totals Tips
 435 | Dripbot8 | 13,315
 436 | Fivebag | 13,290
 437 | PRYCDaddy | 13,231
-438 | deeeznotes | 13,152
-439 | AdinaEspada | 12,997
-440 | zahrawins | 12,909
-441 | seamonkey420 | 12,906
-442 | Boggess | 12,784
-443 | Fcknsmn | 12,757
-444 | Burzzzt88 | 12,748
+438 | Burzzzt88 | 13,168
+439 | deeeznotes | 13,152
+440 | AdinaEspada | 12,997
+441 | zahrawins | 12,909
+442 | seamonkey420 | 12,906
+443 | Boggess | 12,784
+444 | Fcknsmn | 12,757
 445 | diarpiiiii | 12,743
 446 | MatrixObito8686 | 12,693
 447 | No-Success-8681 | 12,663
@@ -532,7 +532,7 @@ Rank | Username | Totals Tips
 529 | gold_digger333 | 7,572
 530 | Pengpangolin | 7,488
 531 | Lillica_Golden_SHIB | 7,381
-532 | DramaticProtogen | 7,300
+532 | DramaticProtogen | 7,369
 533 | phrodreky | 7,288
 534 | 1ndy1 | 7,003
 535 | tbobs04 | 6,969
