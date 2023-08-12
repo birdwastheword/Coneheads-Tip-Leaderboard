@@ -1,10 +1,10 @@
-Last updated: 23-08-12 06:42:11 UTC  
+Last updated: 23-08-12 06:50:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | rickribera93 | 23,675,537
 2 | Bitdream200K | 23,199,750
 3 | ConeDesk | 14,622,571
-4 | nakamo-toe | 13,687,987
+4 | nakamo-toe | 13,691,258
 5 | Parush9 | 11,052,014
 6 | crypto_grandma | 10,446,843
 7 | Wonderful_Bad6531 | 9,008,757
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | HippieStarTraveler | 4,543,304
 11 | rikbona | 4,535,475
 12 | Geniuskills | 4,452,762
-13 | Real_Player_0 | 4,414,404
+13 | Real_Player_0 | 4,417,067
 14 | bigbilly1234567899 | 4,357,603
 15 | thelonliestcrowd | 3,933,594
 16 | ArtConsitent | 3,671,278
@@ -91,7 +91,7 @@ Rank | Username | Totals Tips
 88 | unhingedbigfoot | 439,874
 89 | Mopeiooo | 427,266
 90 | StepAsideSuckers | 425,006
-91 | MorrisBrett514 | 416,502
+91 | MorrisBrett514 | 416,922
 92 | dronegeeks1 | 414,406
 93 | LrnFaroeseWthBergur | 409,488
 94 | Lady_Lucks_Man | 409,113
@@ -414,7 +414,7 @@ Rank | Username | Totals Tips
 411 | Conflict63 | 16,063
 412 | Outrageous-Ad8481 | 16,001
 413 | ipad_daps | 15,974
-414 | Burzzzt88 | 15,900
+414 | Burzzzt88 | 15,969
 415 | giooo_tdm | 15,895
 416 | halfABsinC | 15,622
 417 | Zwott | 15,441
