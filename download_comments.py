@@ -6,6 +6,7 @@ import base64
 import datetime
 import re
 import sys
+import csv
 
 # Set up env
 client_id = os.environ["CLIENT_ID"]
@@ -41,9 +42,20 @@ headers = {
   'Authorization': f'Bearer {jwt}'
 }
 
-# Collect all JSON batches in one file
-tips_csv = "utc, from_user, to_user, amount, currency, sub_reddit\r\n"
+# Read the current list of tips, this is needed when the amout of tips in one day exceeds the api limit
+day_of_tips = {}
 
+filename = f"runs/{collect_day.date()}/tips.csv"
+with open(filename) as csv_file:
+  csv_reader = csv.reader(csv_file, delimiter=',')
+  for row in csv_reader:
+    if row[0] == 'utc':
+      #skip header
+      day_of_tips = {}
+    else:
+      day_of_tips[(row[0], row[1].removeprefix(' '))] = (row[2].removeprefix(' '), int(row[3].removeprefix(' ')), row[4].removeprefix(' '), row[5].removeprefix(' '))
+
+# Process batches of avatarbot comments
 def process(data):
   for comment in data["children"]:
     utc = datetime.datetime.utcfromtimestamp(comment["data"]["created_utc"])
@@ -57,7 +69,7 @@ def process(data):
       toUser = (res.groups()[3])
       amount = int(res.groups()[4])
       currency = (res.groups()[5])
-      tips_csv += (f"{utc}, {fromUser}, {toUser}, {amount}, {currency}, {sub}\r\n")
+      day_of_tips[(f"{utc}", fromUser)] = (toUser, amount, currency, sub)
 
 # Download batches of avatarbot comments.
 after = ""
@@ -68,6 +80,12 @@ while after != None :
   data = json.loads(data.decode("utf-8"))
   process(data["data"])
   after = (data["data"]["after"])
+
+# Collect all JSON batches in one file
+day_of_tips = (dict(sorted(day_of_tips.items(), key=lambda item: item[0])))
+tips_csv = "utc, from_user, to_user, amount, currency, sub_reddit\r\n"
+for (utc, fromUser), (amount, toUser, currency, sub) in day_of_tips.items():
+  tips_csv += (f"{utc}, {fromUser}, {toUser}, {amount}, {currency}, {sub}\r\n")
 
 #Save the comment tip to CSV file
 filename = f"runs/{collect_day.date()}/tips.csv"
