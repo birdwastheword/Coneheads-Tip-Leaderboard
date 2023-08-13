@@ -1,10 +1,10 @@
-Last updated: 23-08-13 03:50:47 UTC  
+Last updated: 23-08-13 04:24:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
 2 | Bitdream200K | 24,382,364
 3 | rickribera93 | 23,675,537
-4 | nakamo-toe | 16,736,236
+4 | nakamo-toe | 16,738,899
 5 | ConeDesk | 15,091,964
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,688,106
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | thelonliestcrowd | 4,147,940
 17 | ArtConsitent | 3,682,278
 18 | redzrex | 3,664,538
-19 | VIVOffical | 3,656,895
+19 | VIVOffical | 3,657,701
 20 | Ginomania | 3,439,855
 21 | Jeff5704 | 3,361,372
 22 | clean_cut89 | 3,359,311
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | Autom4tic_Soze | 2,074,753
 35 | transfermymoons | 2,040,421
 36 | possibili-teas | 2,003,352
-37 | thom_orrow | 1,861,278
+37 | thom_orrow | 1,863,942
 38 | waterhasnocalories | 1,728,475
 39 | GooderZBK | 1,613,996
 40 | GuyOne | 1,573,028
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | catlover-100 | 1,110,627
 51 | CMDRGlamdring | 1,102,850
 52 | avatarbot | 1,027,000
-53 | cutsickass | 1,008,174
+53 | cutsickass | 1,018,174
 54 | WarmBiertje | 1,000,000
 55 | EvanIsBacon | 970,416
 56 | saintajoras | 957,917
@@ -90,7 +90,7 @@ Rank | Username | Totals Tips
 87 | ID404_Not_Found_8964 | 511,514
 88 | ValiantJudge29500 | 510,529
 89 | f0n1xr131ng | 499,192
-90 | MorrisBrett514 | 485,751
+90 | MorrisBrett514 | 486,171
 91 | sinlesco | 462,490
 92 | WarmlyWacky | 462,118
 93 | MediaPrestigious8342 | 453,839
@@ -128,8 +128,8 @@ Rank | Username | Totals Tips
 125 | deedopete | 255,962
 126 | Ambitious-Minimum-80 | 252,035
 127 | Sattack4000 | 250,837
-128 | Zalkwalker | 235,069
-129 | Lion-Hermit | 232,574
+128 | Lion-Hermit | 235,237
+129 | Zalkwalker | 235,069
 130 | Successful-Walk-3902 | 230,195
 131 | LongCauliflower6791 | 227,187
 132 | Flimsy_Brilliant_239 | 227,028
