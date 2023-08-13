@@ -1,11 +1,11 @@
-Last updated: 23-08-13 14:41:03 UTC  
+Last updated: 23-08-13 14:51:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,314,828
 2 | Bitdream200K | 24,705,027
 3 | rickribera93 | 23,675,537
 4 | nakamo-toe | 16,789,115
-5 | ConeDesk | 15,091,964
+5 | ConeDesk | 15,094,627
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,704,296
 8 | Homeslicekilla | 7,953,728
@@ -37,11 +37,11 @@ Rank | Username | Totals Tips
 34 | Autom4tic_Soze | 2,074,753
 35 | transfermymoons | 2,040,421
 36 | possibili-teas | 2,003,352
-37 | thom_orrow | 1,867,605
-38 | waterhasnocalories | 1,728,475
-39 | GooderZBK | 1,613,996
-40 | GuyOne | 1,573,028
-41 | ImAlekBan | 1,461,418
+37 | ImAlekBan | 1,961,418
+38 | thom_orrow | 1,867,605
+39 | waterhasnocalories | 1,728,475
+40 | GooderZBK | 1,613,996
+41 | GuyOne | 1,573,028
 42 | bray_martin03 | 1,430,206
 43 | Affectionate_Hand_76 | 1,421,521
 44 | Ten-Mins-Late | 1,370,010
@@ -486,9 +486,9 @@ Rank | Username | Totals Tips
 483 | xllw | 11,000
 484 | PurpleCoveredSnow | 10,915
 485 | Zealousideal-War6206 | 10,905
-486 | SenseiRaheem | 10,633
-487 | GuronT | 10,561
-488 | Lillica_Golden_SHIB | 10,547
+486 | Lillica_Golden_SHIB | 10,685
+487 | SenseiRaheem | 10,633
+488 | GuronT | 10,561
 489 | Background-Ad-2102 | 10,450
 490 | 73i1 | 10,412
 491 | Flamingo777 | 10,169
