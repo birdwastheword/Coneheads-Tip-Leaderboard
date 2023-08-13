@@ -1,7 +1,7 @@
-Last updated: 23-08-13 07:15:39 UTC  
+Last updated: 23-08-13 07:23:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Wonderful_Bad6531 | 28,313,292
+1 | Wonderful_Bad6531 | 28,313,712
 2 | Bitdream200K | 24,395,027
 3 | rickribera93 | 23,675,537
 4 | nakamo-toe | 16,773,518
@@ -12,11 +12,11 @@ Rank | Username | Totals Tips
 9 | SammyCraigar | 7,528,767
 10 | Geniuskills | 5,874,239
 11 | avyun | 5,581,853
-12 | Real_Player_0 | 5,494,639
+12 | Real_Player_0 | 5,502,189
 13 | HippieStarTraveler | 4,551,057
 14 | rikbona | 4,535,475
 15 | bigbilly1234567899 | 4,392,551
-16 | thelonliestcrowd | 4,159,012
+16 | thelonliestcrowd | 4,161,675
 17 | ArtConsitent | 3,682,278
 18 | redzrex | 3,664,538
 19 | VIVOffical | 3,657,701
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | ZukoBih | 2,646,628
 28 | rustyybikes | 2,613,721
 29 | _Royal_Insylum | 2,596,749
-30 | ashinamune | 2,480,790
+30 | ashinamune | 2,481,398
 31 | send420nudes | 2,445,441
 32 | Mean_Bandicoot_7481 | 2,129,560
 33 | Dry_Badger_2403 | 2,110,000
@@ -98,8 +98,8 @@ Rank | Username | Totals Tips
 95 | UniversalNoobMaster | 437,049
 96 | Mopeiooo | 427,266
 97 | StepAsideSuckers | 425,614
-98 | dronegeeks1 | 414,406
-99 | djrcollectables | 413,402
+98 | djrcollectables | 416,065
+99 | dronegeeks1 | 414,406
 100 | Lady_Lucks_Man | 409,953
 101 | LrnFaroeseWthBergur | 409,488
 102 | junkwatch | 407,733
@@ -144,9 +144,9 @@ Rank | Username | Totals Tips
 141 | Beenthorny | 212,362
 142 | SigSalvadore | 212,358
 143 | tjex666 | 211,475
-144 | legionticket | 206,762
-145 | isthistomorrow_ | 206,123
-146 | dealkhabari | 204,793
+144 | dealkhabari | 209,306
+145 | legionticket | 206,762
+146 | isthistomorrow_ | 206,123
 147 | Skank_cunt_42 | 202,870
 148 | noface_reddit | 201,608
 149 | CedricDiccory | 197,932
@@ -172,8 +172,8 @@ Rank | Username | Totals Tips
 169 | 6reficul | 153,884
 170 | martymartinator | 152,560
 171 | NotFullyTerrestrial | 150,694
-172 | YarOldeOrchard | 147,662
-173 | CoverYourMaskHoles | 146,393
+172 | CoverYourMaskHoles | 149,056
+173 | YarOldeOrchard | 147,662
 174 | beastlybaker | 143,887
 175 | Sad_Entertainer9961 | 143,248
 176 | revdrgonzo | 141,921
