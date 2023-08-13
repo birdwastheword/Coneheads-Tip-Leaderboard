@@ -1,4 +1,4 @@
-Last updated: 23-08-13 17:30:39 UTC  
+Last updated: 23-08-13 17:40:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,314,828
@@ -27,18 +27,18 @@ Rank | Username | Totals Tips
 24 | birdwastheword | 3,157,149
 25 | Puddin-Luv | 3,143,735
 26 | LuminousViper | 2,983,872
-27 | IveDoneItAtLast | 2,909,153
+27 | IveDoneItAtLast | 2,909,573
 28 | ZukoBih | 2,646,628
 29 | _Royal_Insylum | 2,596,749
 30 | ashinamune | 2,481,398
 31 | send420nudes | 2,445,441
-32 | Mean_Bandicoot_7481 | 2,129,560
-33 | Dry_Badger_2403 | 2,110,000
+32 | Dry_Badger_2403 | 2,130,000
+33 | Mean_Bandicoot_7481 | 2,129,560
 34 | Autom4tic_Soze | 2,074,753
 35 | transfermymoons | 2,040,421
 36 | possibili-teas | 2,003,352
 37 | ImAlekBan | 1,965,315
-38 | thom_orrow | 1,867,605
+38 | thom_orrow | 1,870,268
 39 | waterhasnocalories | 1,728,475
 40 | GooderZBK | 1,613,996
 41 | GuyOne | 1,573,028
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | zdubs | 1,125,326
 50 | catlover-100 | 1,110,627
 51 | CMDRGlamdring | 1,102,850
-52 | cutsickass | 1,053,500
+52 | cutsickass | 1,064,008
 53 | avatarbot | 1,027,000
 54 | WarmBiertje | 1,000,000
 55 | EvanIsBacon | 970,416
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | CluelessSurvivor | 843,073
 65 | goldyluckinblokchain | 806,385
 66 | ziggybri | 781,826
-67 | Forward_Today2849 | 744,253
+67 | Forward_Today2849 | 748,303
 68 | Richicash | 724,207
 69 | dealkhabari | 715,067
 70 | starterpack420694 | 710,420
@@ -303,8 +303,8 @@ Rank | Username | Totals Tips
 300 | SandersIncBV | 42,255
 301 | CaptainCheeseCake | 42,203
 302 | ACE415_ | 42,000
-303 | PushyDevoIution | 41,695
-304 | Cyber-Cafe | 41,313
+303 | Cyber-Cafe | 41,921
+304 | PushyDevoIution | 41,695
 305 | ZoomLong | 41,251
 306 | ARoyaleWithCheese | 41,000
 307 | 4gsboofd | 40,377
@@ -596,8 +596,8 @@ Rank | Username | Totals Tips
 593 | Zaxoosh | 5,010
 594 | My_Man_Tyrone | 5,000
 595 | Crunchious1 | 5,000
-596 | Kzis | 4,937
-597 | 8inchConer | 4,909
+596 | 8inchConer | 4,978
+597 | Kzis | 4,937
 598 | mcbifter | 4,834
 599 | Fcbp | 4,800
 600 | billw1zz | 4,791
