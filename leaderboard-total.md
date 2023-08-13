@@ -1,4 +1,4 @@
-Last updated: 23-08-13 02:25:56 UTC  
+Last updated: 23-08-13 02:35:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
@@ -7,9 +7,9 @@ Rank | Username | Totals Tips
 4 | nakamo-toe | 16,736,236
 5 | ConeDesk | 15,091,964
 6 | Parush9 | 11,052,014
-7 | crypto_grandma | 10,651,143
+7 | crypto_grandma | 10,688,106
 8 | Homeslicekilla | 7,953,728
-9 | SammyCraigar | 7,526,104
+9 | SammyCraigar | 7,528,767
 10 | Geniuskills | 5,874,239
 11 | avyun | 5,553,977
 12 | Real_Player_0 | 5,491,976
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | swampyswede | 1,249,574
 47 | DontLaughArt | 1,189,157
 48 | HestiaIsTheBestia | 1,188,043
-49 | zdubs | 1,120,218
+49 | zdubs | 1,122,882
 50 | catlover-100 | 1,110,627
 51 | CMDRGlamdring | 1,102,850
 52 | avatarbot | 1,027,000
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | djrcollectables | 413,402
 99 | Lady_Lucks_Man | 409,953
 100 | LrnFaroeseWthBergur | 409,488
-101 | junkwatch | 404,708
+101 | junkwatch | 404,777
 102 | Fenrir-1919 | 396,398
 103 | zenhodl | 372,308
 104 | RazPie | 371,328
