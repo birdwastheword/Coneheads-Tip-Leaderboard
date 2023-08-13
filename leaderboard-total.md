@@ -1,8 +1,8 @@
-Last updated: 23-08-13 08:31:01 UTC  
+Last updated: 23-08-13 08:40:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,314,828
-2 | Bitdream200K | 24,605,027
+2 | Bitdream200K | 24,705,027
 3 | rickribera93 | 23,675,537
 4 | nakamo-toe | 16,773,518
 5 | ConeDesk | 15,091,964
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | Homeslicekilla | 7,953,728
 9 | SammyCraigar | 7,528,767
 10 | Geniuskills | 5,874,239
-11 | avyun | 5,637,605
+11 | avyun | 5,644,574
 12 | Real_Player_0 | 5,506,557
 13 | HippieStarTraveler | 4,551,057
 14 | rikbona | 4,535,475
@@ -141,7 +141,7 @@ Rank | Username | Totals Tips
 138 | thestonkinator | 219,730
 139 | SourBeefHoop | 217,512
 140 | MuhSound | 216,806
-141 | dealkhabari | 214,860
+141 | dealkhabari | 214,929
 142 | Beenthorny | 212,362
 143 | SigSalvadore | 212,358
 144 | tjex666 | 211,475
@@ -273,14 +273,14 @@ Rank | Username | Totals Tips
 270 | WarningKey6517 | 53,910
 271 | Astrochrono | 53,398
 272 | Jefe0457 | 53,368
-273 | Sativa55555 | 52,909
-274 | fleshlyLoath | 52,877
-275 | RollingSkull0 | 52,782
-276 | ky0984 | 52,257
-277 | ConeHead710 | 52,012
-278 | Admirito | 51,317
-279 | lucivaryas | 51,000
-280 | Duskopia | 50,325
+273 | Duskopia | 52,988
+274 | Sativa55555 | 52,909
+275 | fleshlyLoath | 52,877
+276 | RollingSkull0 | 52,782
+277 | ky0984 | 52,257
+278 | ConeHead710 | 52,012
+279 | Admirito | 51,317
+280 | lucivaryas | 51,000
 281 | coolpattakers | 49,989
 282 | Tapiz3land | 48,892
 283 | d0ntmess87 | 48,615
