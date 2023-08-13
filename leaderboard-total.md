@@ -1,4 +1,4 @@
-Last updated: 23-08-13 07:32:18 UTC  
+Last updated: 23-08-13 07:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,712
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | SammyCraigar | 7,528,767
 10 | Geniuskills | 5,874,239
 11 | avyun | 5,581,853
-12 | Real_Player_0 | 5,504,852
+12 | Real_Player_0 | 5,505,272
 13 | HippieStarTraveler | 4,551,057
 14 | rikbona | 4,535,475
 15 | bigbilly1234567899 | 4,392,551
@@ -52,8 +52,8 @@ Rank | Username | Totals Tips
 49 | zdubs | 1,124,110
 50 | catlover-100 | 1,110,627
 51 | CMDRGlamdring | 1,102,850
-52 | avatarbot | 1,027,000
-53 | cutsickass | 1,018,174
+52 | cutsickass | 1,028,174
+53 | avatarbot | 1,027,000
 54 | WarmBiertje | 1,000,000
 55 | EvanIsBacon | 970,416
 56 | saintajoras | 957,917
@@ -141,10 +141,10 @@ Rank | Username | Totals Tips
 138 | thestonkinator | 219,730
 139 | SourBeefHoop | 217,512
 140 | MuhSound | 216,806
-141 | Beenthorny | 212,362
-142 | SigSalvadore | 212,358
-143 | tjex666 | 211,475
-144 | dealkhabari | 210,272
+141 | dealkhabari | 214,860
+142 | Beenthorny | 212,362
+143 | SigSalvadore | 212,358
+144 | tjex666 | 211,475
 145 | legionticket | 206,762
 146 | isthistomorrow_ | 206,123
 147 | Skank_cunt_42 | 202,870
