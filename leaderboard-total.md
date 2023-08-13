@@ -1,17 +1,17 @@
-Last updated: 23-08-13 04:50:54 UTC  
+Last updated: 23-08-13 05:21:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
 2 | Bitdream200K | 24,382,364
 3 | rickribera93 | 23,675,537
-4 | nakamo-toe | 16,738,899
+4 | nakamo-toe | 16,773,518
 5 | ConeDesk | 15,091,964
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,688,106
 8 | Homeslicekilla | 7,953,728
 9 | SammyCraigar | 7,528,767
 10 | Geniuskills | 5,874,239
-11 | avyun | 5,560,946
+11 | avyun | 5,567,915
 12 | Real_Player_0 | 5,491,976
 13 | HippieStarTraveler | 4,551,057
 14 | rikbona | 4,535,475
@@ -486,9 +486,9 @@ Rank | Username | Totals Tips
 483 | PurpleCoveredSnow | 10,915
 484 | Zealousideal-War6206 | 10,905
 485 | SenseiRaheem | 10,633
-486 | Lillica_Golden_SHIB | 10,547
-487 | Background-Ad-2102 | 10,450
-488 | GuronT | 10,438
+486 | GuronT | 10,561
+487 | Lillica_Golden_SHIB | 10,547
+488 | Background-Ad-2102 | 10,450
 489 | 73i1 | 10,412
 490 | Flamingo777 | 10,169
 491 | Gamestopisthe1 | 10,158
