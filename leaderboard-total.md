@@ -1,4 +1,4 @@
-Last updated: 23-08-13 15:40:41 UTC  
+Last updated: 23-08-13 15:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,314,828
@@ -62,8 +62,8 @@ Rank | Username | Totals Tips
 59 | Modestexcuse | 903,684
 60 | thee_monster | 896,765
 61 | _ships | 867,512
-62 | Feetfailmenot | 863,375
-63 | 0-Give-a-fucks | 861,307
+62 | 0-Give-a-fucks | 863,970
+63 | Feetfailmenot | 863,375
 64 | CluelessSurvivor | 843,073
 65 | goldyluckinblokchain | 806,385
 66 | Forward_Today2849 | 741,720
@@ -84,7 +84,7 @@ Rank | Username | Totals Tips
 81 | El_Gordone | 592,784
 82 | Independent_Heart_15 | 578,825
 83 | Alanski22 | 572,578
-84 | Cravensworth_redux | 550,753
+84 | Cravensworth_redux | 570,753
 85 | Due_Insurance8159 | 546,497
 86 | evilninjarobot | 532,915
 87 | shreyaskg | 523,791
@@ -407,10 +407,10 @@ Rank | Username | Totals Tips
 404 | maliplazi | 20,000
 405 | PsLJdogg | 19,975
 406 | Fictional_Blook | 19,873
-407 | AMAxyz | 19,775
-408 | Iiwip | 19,533
-409 | MalarkyD | 19,527
-410 | hey_barry | 19,181
+407 | hey_barry | 19,847
+408 | AMAxyz | 19,775
+409 | Iiwip | 19,533
+410 | MalarkyD | 19,527
 411 | bentolman | 18,871
 412 | ___MOM___ | 18,853
 413 | Collectibl3 | 18,024
@@ -601,20 +601,20 @@ Rank | Username | Totals Tips
 598 | TeflonThaDonn | 4,720
 599 | st3alth247 | 4,715
 600 | AnimeFlamingo | 4,620
-601 | Photo_Shop_Beast | 4,585
-602 | Showwwy87 | 4,569
-603 | Sledheadjack | 4,528
-604 | RiceRare | 4,514
-605 | FoLKOM | 4,422
-606 | Ok-Profile-1744 | 4,383
-607 | Defeat-the-Kraken | 4,379
-608 | _dual1ty | 4,333
-609 | DepressedVegabond | 4,300
-610 | OG_Bobcat32 | 4,200
-611 | officialzodiacbeats | 4,194
-612 | ADT06 | 4,137
-613 | BelowAveIntelligence | 4,132
-614 | street_shark_puppet | 4,113
+601 | street_shark_puppet | 4,602
+602 | Photo_Shop_Beast | 4,585
+603 | Showwwy87 | 4,569
+604 | Sledheadjack | 4,528
+605 | RiceRare | 4,514
+606 | FoLKOM | 4,422
+607 | Ok-Profile-1744 | 4,383
+608 | Defeat-the-Kraken | 4,379
+609 | _dual1ty | 4,333
+610 | DepressedVegabond | 4,300
+611 | OG_Bobcat32 | 4,200
+612 | officialzodiacbeats | 4,194
+613 | ADT06 | 4,137
+614 | BelowAveIntelligence | 4,132
 615 | DrAgaricus | 4,111
 616 | JAlbert653 | 4,095
 617 | Ronkad | 4,003
