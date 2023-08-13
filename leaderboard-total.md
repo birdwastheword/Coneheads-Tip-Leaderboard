@@ -1,4 +1,4 @@
-Last updated: 23-08-13 05:50:40 UTC  
+Last updated: 23-08-13 06:24:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | Homeslicekilla | 7,953,728
 9 | SammyCraigar | 7,528,767
 10 | Geniuskills | 5,874,239
-11 | avyun | 5,567,915
+11 | avyun | 5,581,853
 12 | Real_Player_0 | 5,491,976
 13 | HippieStarTraveler | 4,551,057
 14 | rikbona | 4,535,475
@@ -90,7 +90,7 @@ Rank | Username | Totals Tips
 87 | ID404_Not_Found_8964 | 511,514
 88 | ValiantJudge29500 | 510,529
 89 | f0n1xr131ng | 499,192
-90 | MorrisBrett514 | 486,171
+90 | MorrisBrett514 | 486,591
 91 | sinlesco | 462,490
 92 | WarmlyWacky | 462,118
 93 | MediaPrestigious8342 | 453,839
@@ -191,7 +191,7 @@ Rank | Username | Totals Tips
 188 | CalligrapherEnough83 | 127,227
 189 | sjakkpila | 127,031
 190 | Outrageous-Ad8481 | 127,001
-191 | MelonFarmer420 | 123,407
+191 | MelonFarmer420 | 123,827
 192 | billywright4 | 122,416
 193 | scientifichistorian | 121,465
 194 | stupidcupid112 | 121,001
