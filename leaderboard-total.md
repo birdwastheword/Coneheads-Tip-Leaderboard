@@ -1,8 +1,8 @@
-Last updated: 23-08-13 07:40:40 UTC  
+Last updated: 23-08-13 07:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,712
-2 | Bitdream200K | 24,395,027
+2 | Bitdream200K | 24,495,027
 3 | rickribera93 | 23,675,537
 4 | nakamo-toe | 16,773,518
 5 | ConeDesk | 15,091,964
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | SammyCraigar | 7,528,767
 10 | Geniuskills | 5,874,239
 11 | avyun | 5,581,853
-12 | Real_Player_0 | 5,505,272
+12 | Real_Player_0 | 5,505,880
 13 | HippieStarTraveler | 4,551,057
 14 | rikbona | 4,535,475
 15 | bigbilly1234567899 | 4,392,551
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Ginomania | 3,439,855
 21 | Jeff5704 | 3,361,372
 22 | clean_cut89 | 3,359,311
-23 | birdwastheword | 3,149,091
+23 | birdwastheword | 3,154,486
 24 | Puddin-Luv | 3,143,735
 25 | LuminousViper | 2,983,024
 26 | IveDoneItAtLast | 2,853,484
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | waterhasnocalories | 1,728,475
 39 | GooderZBK | 1,613,996
 40 | GuyOne | 1,573,028
-41 | ImAlekBan | 1,460,810
+41 | ImAlekBan | 1,461,418
 42 | bray_martin03 | 1,430,206
 43 | Affectionate_Hand_76 | 1,421,521
 44 | Ten-Mins-Late | 1,370,010
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | UniversalNoobMaster | 437,049
 96 | Mopeiooo | 427,266
 97 | StepAsideSuckers | 425,614
-98 | djrcollectables | 418,728
+98 | djrcollectables | 419,336
 99 | dronegeeks1 | 414,406
 100 | Lady_Lucks_Man | 409,953
 101 | LrnFaroeseWthBergur | 409,488
@@ -112,7 +112,7 @@ Rank | Username | Totals Tips
 109 | AustinTX1985 | 343,863
 110 | tsudrat | 340,707
 111 | Mundane-Farm-4117 | 332,850
-112 | doktastonks | 327,320
+112 | doktastonks | 327,928
 113 | SHIFTY-T3RROR | 317,648
 114 | liwipe | 304,467
 115 | EffinDrongoC | 302,738
@@ -163,7 +163,7 @@ Rank | Username | Totals Tips
 160 | YourThighsWarmMyEars | 172,697
 161 | Street_Addd | 171,939
 162 | dinoyeti | 170,396
-163 | Gregoryonetulum | 164,309
+163 | Gregoryonetulum | 168,509
 164 | Conetent | 163,553
 165 | SpookySYN | 160,332
 166 | ShortBusCult | 157,648
@@ -341,21 +341,21 @@ Rank | Username | Totals Tips
 338 | n00b1shm4n | 32,159
 339 | Originalibb | 32,157
 340 | tmanfromEarth | 32,057
-341 | Doovs | 31,967
-342 | bakerdawg555 | 31,821
-343 | OutTop | 31,069
-344 | Heycheckthisout20 | 30,727
-345 | rOn3OW | 30,714
-346 | See0tter | 30,579
-347 | LoudlySoupy | 30,408
-348 | keyoh321 | 30,314
-349 | MaestroMustache | 30,152
-350 | Big-Researcher-3855 | 29,925
-351 | Potential_Fix_5007 | 29,897
-352 | masedogg98 | 29,707
-353 | tentazoc | 29,686
-354 | Gilbertll | 29,585
-355 | Burzzzt88 | 29,353
+341 | Burzzzt88 | 32,016
+342 | Doovs | 31,967
+343 | bakerdawg555 | 31,821
+344 | OutTop | 31,069
+345 | Heycheckthisout20 | 30,727
+346 | rOn3OW | 30,714
+347 | See0tter | 30,579
+348 | LoudlySoupy | 30,408
+349 | keyoh321 | 30,314
+350 | MaestroMustache | 30,152
+351 | Big-Researcher-3855 | 29,925
+352 | Potential_Fix_5007 | 29,897
+353 | masedogg98 | 29,707
+354 | tentazoc | 29,686
+355 | Gilbertll | 29,585
 356 | slug_tamer | 28,906
 357 | TummyLice | 28,829
 358 | Locid | 28,518
