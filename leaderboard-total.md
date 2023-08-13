@@ -1,10 +1,10 @@
-Last updated: 23-08-13 13:50:47 UTC  
+Last updated: 23-08-13 14:19:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,314,828
 2 | Bitdream200K | 24,705,027
 3 | rickribera93 | 23,675,537
-4 | nakamo-toe | 16,773,518
+4 | nakamo-toe | 16,776,789
 5 | ConeDesk | 15,091,964
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,688,106
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | SammyCraigar | 7,528,767
 10 | Geniuskills | 5,874,239
 11 | avyun | 5,644,574
-12 | Real_Player_0 | 5,506,557
+12 | Real_Player_0 | 5,510,505
 13 | HippieStarTraveler | 4,551,057
 14 | rikbona | 4,535,475
 15 | bigbilly1234567899 | 4,392,551
@@ -25,7 +25,7 @@ Rank | Username | Totals Tips
 22 | clean_cut89 | 3,359,311
 23 | birdwastheword | 3,157,149
 24 | Puddin-Luv | 3,143,735
-25 | LuminousViper | 2,983,024
+25 | LuminousViper | 2,983,872
 26 | IveDoneItAtLast | 2,853,484
 27 | ZukoBih | 2,646,628
 28 | rustyybikes | 2,613,721
@@ -141,7 +141,7 @@ Rank | Username | Totals Tips
 138 | thestonkinator | 219,730
 139 | SourBeefHoop | 217,512
 140 | MuhSound | 216,806
-141 | dealkhabari | 214,929
+141 | dealkhabari | 215,067
 142 | Beenthorny | 212,362
 143 | SigSalvadore | 212,358
 144 | tjex666 | 211,475
@@ -227,8 +227,8 @@ Rank | Username | Totals Tips
 224 | H3adshotfox77 | 92,574
 225 | Most_Being_4002 | 91,629
 226 | FeetAndHandFetish | 91,146
-227 | i_wake_up_at_12 | 90,369
-228 | _Mitchee_ | 89,354
+227 | _Mitchee_ | 91,034
+228 | i_wake_up_at_12 | 90,369
 229 | RegalReptile_ | 88,960
 230 | ShopALF | 87,942
 231 | customsolitaires | 85,803
