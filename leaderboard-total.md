@@ -1,4 +1,4 @@
-Last updated: 23-08-13 17:20:02 UTC  
+Last updated: 23-08-13 17:30:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,314,828
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | CluelessSurvivor | 843,073
 65 | goldyluckinblokchain | 806,385
 66 | ziggybri | 781,826
-67 | Forward_Today2849 | 743,745
+67 | Forward_Today2849 | 744,253
 68 | Richicash | 724,207
 69 | dealkhabari | 715,067
 70 | starterpack420694 | 710,420
@@ -201,14 +201,14 @@ Rank | Username | Totals Tips
 198 | lordciders | 116,506
 199 | dopelifer09 | 116,494
 200 | mvea | 115,748
-201 | alexthemay | 114,131
-202 | PortCity_MadMan | 114,004
-203 | Fox1931 | 114,000
-204 | jimfird | 113,221
-205 | RegalReptile_ | 112,624
-206 | flying_bacon | 111,860
-207 | adrefofadre | 111,817
-208 | DAMG808 | 111,640
+201 | DAMG808 | 114,911
+202 | alexthemay | 114,131
+203 | PortCity_MadMan | 114,004
+204 | Fox1931 | 114,000
+205 | jimfird | 113,221
+206 | RegalReptile_ | 112,624
+207 | flying_bacon | 111,860
+208 | adrefofadre | 111,817
 209 | PushyDevolution | 110,216
 210 | Strong_Constant_1190 | 109,517
 211 | Jlt42000 | 107,091
