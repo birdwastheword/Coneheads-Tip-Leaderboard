@@ -1,4 +1,4 @@
-Last updated: 23-08-13 05:40:40 UTC  
+Last updated: 23-08-13 05:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
