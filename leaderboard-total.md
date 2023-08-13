@@ -1,4 +1,4 @@
-Last updated: 23-08-13 15:17:38 UTC  
+Last updated: 23-08-13 15:31:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,314,828
@@ -133,9 +133,9 @@ Rank | Username | Totals Tips
 130 | Lion-Hermit | 235,237
 131 | Zalkwalker | 235,069
 132 | Successful-Walk-3902 | 230,195
-133 | LongCauliflower6791 | 227,187
-134 | Flimsy_Brilliant_239 | 227,028
-135 | SpookySYN | 226,512
+133 | SpookySYN | 229,175
+134 | LongCauliflower6791 | 227,187
+135 | Flimsy_Brilliant_239 | 227,028
 136 | SnooMacarons9203 | 224,749
 137 | BeardedBro_ | 223,627
 138 | joeviani | 222,024
@@ -226,10 +226,10 @@ Rank | Username | Totals Tips
 223 | wolfman333 | 93,566
 224 | H3adshotfox77 | 92,574
 225 | Most_Being_4002 | 91,629
-226 | FeetAndHandFetish | 91,146
-227 | _Mitchee_ | 91,034
-228 | i_wake_up_at_12 | 90,369
-229 | RegalReptile_ | 88,960
+226 | RegalReptile_ | 91,623
+227 | FeetAndHandFetish | 91,146
+228 | _Mitchee_ | 91,034
+229 | i_wake_up_at_12 | 90,369
 230 | ShopALF | 87,942
 231 | customsolitaires | 85,803
 232 | wato4000 | 85,744
