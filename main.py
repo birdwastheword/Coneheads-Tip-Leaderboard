@@ -77,5 +77,5 @@ title=f"Daily Tipping Leaderboard {yesterday.strftime('%B %-d')} (Unofficial)"
 payload = f'sr=ConeHeads&kind=self&title={urllib.parse.quote_plus(title)}&flair_id=d5c93210-4062-11ed-8995-3222414e6f3b&text={urllib.parse.quote_plus(comment)}'
 
 print(title)
-conn.request("POST", "/api/submit", payload, headers)
-print(conn.getresponse().read().decode("utf-8"))
+#conn.request("POST", "/api/submit", payload, headers)
+#print(conn.getresponse().read().decode("utf-8"))
