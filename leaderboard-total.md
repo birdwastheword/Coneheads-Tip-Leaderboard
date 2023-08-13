@@ -1,4 +1,4 @@
-Last updated: 23-08-13 07:23:52 UTC  
+Last updated: 23-08-13 07:32:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,712
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | SammyCraigar | 7,528,767
 10 | Geniuskills | 5,874,239
 11 | avyun | 5,581,853
-12 | Real_Player_0 | 5,502,189
+12 | Real_Player_0 | 5,504,852
 13 | HippieStarTraveler | 4,551,057
 14 | rikbona | 4,535,475
 15 | bigbilly1234567899 | 4,392,551
@@ -25,7 +25,7 @@ Rank | Username | Totals Tips
 22 | clean_cut89 | 3,359,311
 23 | birdwastheword | 3,149,091
 24 | Puddin-Luv | 3,143,735
-25 | LuminousViper | 2,980,361
+25 | LuminousViper | 2,983,024
 26 | IveDoneItAtLast | 2,853,484
 27 | ZukoBih | 2,646,628
 28 | rustyybikes | 2,613,721
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | Autom4tic_Soze | 2,074,753
 35 | transfermymoons | 2,040,421
 36 | possibili-teas | 2,003,352
-37 | thom_orrow | 1,866,605
+37 | thom_orrow | 1,867,605
 38 | waterhasnocalories | 1,728,475
 39 | GooderZBK | 1,613,996
 40 | GuyOne | 1,573,028
@@ -98,12 +98,12 @@ Rank | Username | Totals Tips
 95 | UniversalNoobMaster | 437,049
 96 | Mopeiooo | 427,266
 97 | StepAsideSuckers | 425,614
-98 | djrcollectables | 416,065
+98 | djrcollectables | 418,728
 99 | dronegeeks1 | 414,406
 100 | Lady_Lucks_Man | 409,953
 101 | LrnFaroeseWthBergur | 409,488
 102 | junkwatch | 407,733
-103 | Fenrir-1919 | 396,398
+103 | Fenrir-1919 | 397,006
 104 | zenhodl | 374,566
 105 | RazPie | 371,328
 106 | Westy3000 | 368,765
@@ -144,7 +144,7 @@ Rank | Username | Totals Tips
 141 | Beenthorny | 212,362
 142 | SigSalvadore | 212,358
 143 | tjex666 | 211,475
-144 | dealkhabari | 209,306
+144 | dealkhabari | 210,272
 145 | legionticket | 206,762
 146 | isthistomorrow_ | 206,123
 147 | Skank_cunt_42 | 202,870
