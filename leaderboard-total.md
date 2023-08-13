@@ -1,4 +1,4 @@
-Last updated: 23-08-13 04:41:04 UTC  
+Last updated: 23-08-13 04:50:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | HippieStarTraveler | 4,551,057
 14 | rikbona | 4,535,475
 15 | bigbilly1234567899 | 4,392,551
-16 | thelonliestcrowd | 4,147,940
+16 | thelonliestcrowd | 4,153,266
 17 | ArtConsitent | 3,682,278
 18 | redzrex | 3,664,538
 19 | VIVOffical | 3,657,701
