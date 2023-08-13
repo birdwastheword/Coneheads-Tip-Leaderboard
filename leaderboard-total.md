@@ -1,4 +1,4 @@
-Last updated: 23-08-13 03:19:07 UTC  
+Last updated: 23-08-13 03:30:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
@@ -95,18 +95,18 @@ Rank | Username | Totals Tips
 92 | WarmlyWacky | 462,118
 93 | MediaPrestigious8342 | 453,839
 94 | unhingedbigfoot | 439,874
-95 | Mopeiooo | 427,266
-96 | StepAsideSuckers | 425,614
-97 | dronegeeks1 | 414,406
-98 | djrcollectables | 413,402
-99 | Lady_Lucks_Man | 409,953
-100 | LrnFaroeseWthBergur | 409,488
-101 | junkwatch | 404,777
-102 | Fenrir-1919 | 396,398
-103 | zenhodl | 372,308
-104 | RazPie | 371,328
-105 | Westy3000 | 368,765
-106 | UniversalNoobMaster | 367,629
+95 | UniversalNoobMaster | 437,049
+96 | Mopeiooo | 427,266
+97 | StepAsideSuckers | 425,614
+98 | dronegeeks1 | 414,406
+99 | djrcollectables | 413,402
+100 | Lady_Lucks_Man | 409,953
+101 | LrnFaroeseWthBergur | 409,488
+102 | junkwatch | 404,777
+103 | Fenrir-1919 | 396,398
+104 | zenhodl | 374,566
+105 | RazPie | 371,328
+106 | Westy3000 | 368,765
 107 | hellosamaira | 367,489
 108 | farmertypoerror | 359,212
 109 | AustinTX1985 | 343,863
