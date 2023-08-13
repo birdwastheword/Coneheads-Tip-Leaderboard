@@ -1,4 +1,4 @@
-Last updated: 23-08-12 23:51:06 UTC  
+Last updated: 23-08-13 00:07:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
@@ -34,8 +34,8 @@ Rank | Username | Totals Tips
 31 | send420nudes | 2,445,441
 32 | Mean_Bandicoot_7481 | 2,119,875
 33 | Dry_Badger_2403 | 2,110,000
-34 | transfermymoons | 2,040,421
-35 | Autom4tic_Soze | 2,032,684
+34 | Autom4tic_Soze | 2,074,753
+35 | transfermymoons | 2,040,421
 36 | possibili-teas | 2,003,352
 37 | thom_orrow | 1,861,278
 38 | waterhasnocalories | 1,728,475
