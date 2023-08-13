@@ -1,4 +1,4 @@
-Last updated: 23-08-13 03:40:39 UTC  
+Last updated: 23-08-13 03:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | freechickens | 915,654
 59 | Modestexcuse | 903,684
 60 | thee_monster | 896,765
-61 | _ships | 864,849
+61 | _ships | 867,512
 62 | Feetfailmenot | 863,375
 63 | 0-Give-a-fucks | 861,307
 64 | CluelessSurvivor | 843,073
@@ -198,11 +198,11 @@ Rank | Username | Totals Tips
 195 | Mj_6o4 | 120,680
 196 | Schl0tz | 120,000
 197 | lordciders | 116,506
-198 | mvea | 115,748
-199 | alexthemay | 114,131
-200 | PortCity_MadMan | 114,004
-201 | Fox1931 | 114,000
-202 | dopelifer09 | 113,831
+198 | dopelifer09 | 116,494
+199 | mvea | 115,748
+200 | alexthemay | 114,131
+201 | PortCity_MadMan | 114,004
+202 | Fox1931 | 114,000
 203 | jimfird | 113,221
 204 | flying_bacon | 111,860
 205 | adrefofadre | 111,817
@@ -437,12 +437,12 @@ Rank | Username | Totals Tips
 434 | 2620lukas | 15,174
 435 | imeme1969 | 15,070
 436 | babuba1234321 | 15,000
-437 | Jo2Bax | 14,900
-438 | deezirae | 14,731
-439 | Mortifer6 | 14,669
-440 | sicilian2124 | 14,548
-441 | waterincorporated | 14,428
-442 | jurgensdapimp | 14,316
+437 | jurgensdapimp | 14,925
+438 | Jo2Bax | 14,900
+439 | deezirae | 14,731
+440 | Mortifer6 | 14,669
+441 | sicilian2124 | 14,548
+442 | waterincorporated | 14,428
 443 | cole-badger | 14,269
 444 | subredditlurker69 | 14,108
 445 | redbasl | 13,963
