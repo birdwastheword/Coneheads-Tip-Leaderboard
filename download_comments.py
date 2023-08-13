@@ -46,14 +46,15 @@ headers = {
 day_of_tips = {}
 
 filename = f"runs/{collect_day.date()}/tips.csv"
-with open(filename) as csv_file:
-  csv_reader = csv.reader(csv_file, delimiter=',')
-  for row in csv_reader:
-    if row[0] == 'utc':
-      #skip header
-      day_of_tips = {}
-    else:
-      day_of_tips[(row[0], row[1].removeprefix(' '))] = (row[2].removeprefix(' '), int(row[3].removeprefix(' ')), row[4].removeprefix(' '), row[5].removeprefix(' '))
+if os.path.exists(filename):
+  with open(filename) as csv_file:
+    csv_reader = csv.reader(csv_file, delimiter=',')
+    for row in csv_reader:
+      if row[0] == 'utc':
+        #skip header
+        day_of_tips = {}
+      else:
+        day_of_tips[(row[0], row[1].removeprefix(' '))] = (row[2].removeprefix(' '), int(row[3].removeprefix(' ')), row[4].removeprefix(' '), row[5].removeprefix(' '))
 
 # Process batches of avatarbot comments
 def process(data):
