@@ -66,8 +66,8 @@ comment = f"\r\nSince the official tipping leaderboard is still under constructi
           f"Congratulation to {first[0]} tipping {'{:,}'.format(first[1])} put you in the #1 spot. The biggest tip was from {biggest[0]} tipping {'{:,}'.format(biggest[2])} to {biggest[1]}\r\n" \
           "\r\nRank | Username | Totals Tips\r\n:-|:-|-:\r\n"
 for name, total in totals.items():
-    rank += 1
-    comment += f"{rank} | {name.removeprefix('/u/')} | {'{:,}'.format(total)}\r\n"
+  rank += 1
+  comment += f"{rank} | {name.removeprefix(' /u/')} | {'{:,}'.format(total)}\r\n"
 
 comment += f"\r\nThis day is defined starting at {yesterday.date()} 00:00 UTC and ending at {datetime.datetime.now().date()} 00:00 UTC.  \r\n" \
            f"The code generating this leaderboard is available for review here: https://github.com/birdwastheword/Coneheads-Tip-Leaderboard"
