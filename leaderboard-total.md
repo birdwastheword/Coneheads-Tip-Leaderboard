@@ -1,4 +1,4 @@
-Last updated: 23-08-13 05:21:52 UTC  
+Last updated: 23-08-13 05:31:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,313,292
@@ -67,16 +67,16 @@ Rank | Username | Totals Tips
 64 | CluelessSurvivor | 843,073
 65 | goldyluckinblokchain | 806,385
 66 | Forward_Today2849 | 741,720
-67 | starterpack420694 | 710,420
-68 | WarmIyWacky | 703,049
-69 | Starterpack69420 | 696,969
-70 | abracadabra087 | 685,045
-71 | SKITZ_ZA | 673,394
-72 | ziggybri | 671,826
-73 | femacampcouncilor | 642,812
-74 | frickdom | 639,108
-75 | piebagz | 626,815
-76 | Richicash | 624,207
+67 | Richicash | 724,207
+68 | starterpack420694 | 710,420
+69 | WarmIyWacky | 703,049
+70 | Starterpack69420 | 696,969
+71 | abracadabra087 | 685,045
+72 | SKITZ_ZA | 673,394
+73 | ziggybri | 671,826
+74 | femacampcouncilor | 642,812
+75 | frickdom | 639,108
+76 | piebagz | 626,815
 77 | slirpo | 618,225
 78 | firstmatedotxyz | 598,580
 79 | __PDS__ | 595,709
