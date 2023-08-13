@@ -1,4 +1,4 @@
-Last updated: 23-08-13 15:31:05 UTC  
+Last updated: 23-08-13 15:40:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,314,828
@@ -224,9 +224,9 @@ Rank | Username | Totals Tips
 221 | BrendanTFirefly | 95,347
 222 | IOTA_Tesla | 94,162
 223 | wolfman333 | 93,566
-224 | H3adshotfox77 | 92,574
-225 | Most_Being_4002 | 91,629
-226 | RegalReptile_ | 91,623
+224 | RegalReptile_ | 92,623
+225 | H3adshotfox77 | 92,574
+226 | Most_Being_4002 | 91,629
 227 | FeetAndHandFetish | 91,146
 228 | _Mitchee_ | 91,034
 229 | i_wake_up_at_12 | 90,369
