@@ -1,7 +1,7 @@
-Last updated: 23-08-13 08:22:10 UTC  
+Last updated: 23-08-13 08:31:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Wonderful_Bad6531 | 28,314,220
+1 | Wonderful_Bad6531 | 28,314,828
 2 | Bitdream200K | 24,605,027
 3 | rickribera93 | 23,675,537
 4 | nakamo-toe | 16,773,518
