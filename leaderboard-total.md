@@ -1,11 +1,11 @@
-Last updated: 23-08-14 18:26:31 UTC  
+Last updated: 23-08-14 18:35:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 24,927,690
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,726,032
+5 | nakamo-toe | 17,752,662
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | birdwastheword | 3,157,149
 26 | Puddin-Luv | 3,147,846
 27 | LuminousViper | 3,075,416
-28 | IveDoneItAtLast | 2,955,960
+28 | IveDoneItAtLast | 2,961,623
 29 | ZukoBih | 2,656,628
 30 | ashinamune | 2,608,856
 31 | _Royal_Insylum | 2,596,749
@@ -157,13 +157,13 @@ Rank | Username | Totals Tips
 154 | sudrats | 197,124
 155 | redditavanft | 195,122
 156 | AverageLiberalJoe | 195,007
-157 | superlonelyboy | 183,324
-158 | nooobmaester69 | 182,957
-159 | Esco1980 | 181,771
-160 | UWphoto | 180,458
-161 | Extreme_Issue7325 | 179,875
-162 | ruccarucca | 179,850
-163 | scientifichistorian | 174,128
+157 | scientifichistorian | 184,128
+158 | superlonelyboy | 183,324
+159 | nooobmaester69 | 182,957
+160 | Esco1980 | 181,771
+161 | UWphoto | 180,458
+162 | Extreme_Issue7325 | 179,875
+163 | ruccarucca | 179,850
 164 | YourThighsWarmMyEars | 172,697
 165 | Street_Addd | 171,939
 166 | dinoyeti | 170,396
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | NotFullyTerrestrial | 150,694
 176 | CoverYourMaskHoles | 149,056
 177 | YarOldeOrchard | 147,662
-178 | Obi1eyeKenobi | 144,764
+178 | Obi1eyeKenobi | 145,380
 179 | beastlybaker | 143,887
 180 | Sad_Entertainer9961 | 143,248
 181 | revdrgonzo | 141,921
