@@ -1,11 +1,11 @@
-Last updated: 23-08-14 17:43:03 UTC  
+Last updated: 23-08-14 17:51:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,367,660
 2 | Jeff5704 | 27,589,149
-3 | Bitdream200K | 24,915,027
+3 | Bitdream200K | 24,925,027
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,629,982
+5 | nakamo-toe | 17,656,612
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -45,8 +45,8 @@ Rank | Username | Totals Tips
 42 | GuyOne | 1,573,028
 43 | bray_martin03 | 1,430,206
 44 | Affectionate_Hand_76 | 1,424,184
-45 | Ten-Mins-Late | 1,370,010
-46 | cutsickass | 1,369,008
+45 | cutsickass | 1,389,008
+46 | Ten-Mins-Late | 1,370,010
 47 | swampyswede | 1,331,530
 48 | LordBobTheWhale | 1,284,514
 49 | DontLaughArt | 1,189,157
@@ -91,7 +91,7 @@ Rank | Username | Totals Tips
 88 | shreyaskg | 523,791
 89 | ID404_Not_Found_8964 | 511,514
 90 | ValiantJudge29500 | 510,529
-91 | f0n1xr131ng | 499,192
+91 | f0n1xr131ng | 499,261
 92 | MorrisBrett514 | 487,011
 93 | UniversalNoobMaster | 470,987
 94 | sinlesco | 462,490
@@ -270,10 +270,10 @@ Rank | Username | Totals Tips
 267 | Adrewmc | 57,177
 268 | imbarrydylan | 55,689
 269 | orangesandonions | 55,238
-270 | diamondbored | 54,397
-271 | Brandillio | 54,271
-272 | BitCone_CONE | 54,097
-273 | Duskopia | 53,988
+270 | Duskopia | 54,988
+271 | diamondbored | 54,397
+272 | Brandillio | 54,271
+273 | BitCone_CONE | 54,097
 274 | WarningKey6517 | 53,910
 275 | Astrochrono | 53,398
 276 | Jefe0457 | 53,368
