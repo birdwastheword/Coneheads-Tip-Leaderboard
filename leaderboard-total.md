@@ -1,4 +1,4 @@
-Last updated: 23-08-14 23:30:34 UTC  
+Last updated: 23-08-14 23:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | Fenrir-1919 | 399,438
 107 | zenhodl | 374,566
 108 | RazPie | 371,328
-109 | Westy3000 | 368,765
+109 | Westy3000 | 370,987
 110 | hellosamaira | 367,489
 111 | farmertypoerror | 359,212
 112 | formidable-opponent | 354,011
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | EffinDrongoC | 302,738
 120 | Crypto-4-Freedom | 299,001
 121 | VincentVanGTFO | 297,935
-122 | Tinman_ApE | 296,459
+122 | Tinman_ApE | 297,067
 123 | virmamies | 291,804
 124 | maxfra | 276,796
 125 | x52x | 274,360
@@ -197,7 +197,7 @@ Rank | Username | Totals Tips
 194 | sjakkpila | 127,031
 195 | Outrageous-Ad8481 | 127,001
 196 | DAMG808 | 126,171
-197 | MelonFarmer420 | 124,667
+197 | MelonFarmer420 | 125,087
 198 | billywright4 | 122,416
 199 | stupidcupid112 | 121,001
 200 | Mj_6o4 | 120,680
