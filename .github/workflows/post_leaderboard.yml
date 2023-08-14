@@ -23,11 +23,11 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: execute py script
+      - name: Download Comments Yesterday
         run: python download_comments.py yesterday
         
-      - name: execute py script
-        run: python main.py
+      - name: Post Daily Leaderboard to Reddit
+        run: python code/post_leaderboard.py
         
       - name: commit data
         uses: EndBug/add-and-commit@v9
