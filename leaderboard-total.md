@@ -1,4 +1,4 @@
-Last updated: 23-08-14 21:33:05 UTC  
+Last updated: 23-08-14 21:41:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | HippieStarTraveler | 4,594,477
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
-18 | thelonliestcrowd | 4,177,653
+18 | thelonliestcrowd | 4,180,316
 19 | ArtConsitent | 3,682,278
 20 | redzrex | 3,670,141
 21 | VIVOffical | 3,657,701
@@ -78,7 +78,7 @@ Rank | Username | Totals Tips
 75 | SKITZ_ZA | 673,394
 76 | piebagz | 661,815
 77 | femacampcouncilor | 642,812
-78 | frickdom | 639,108
+78 | frickdom | 641,771
 79 | slirpo | 620,888
 80 | firstmatedotxyz | 598,580
 81 | __PDS__ | 595,709
@@ -95,8 +95,8 @@ Rank | Username | Totals Tips
 92 | MorrisBrett514 | 487,080
 93 | UniversalNoobMaster | 470,987
 94 | sinlesco | 462,490
-95 | WarmlyWacky | 462,118
-96 | djrcollectables | 459,603
+95 | djrcollectables | 462,266
+96 | WarmlyWacky | 462,118
 97 | MediaPrestigious8342 | 453,839
 98 | unhingedbigfoot | 439,874
 99 | adrifing | 438,505
