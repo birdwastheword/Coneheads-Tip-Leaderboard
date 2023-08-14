@@ -1,4 +1,4 @@
-name: cron run download_comments.py
+name: Everty 10 Minutes Process Tips
 
 on:
   workflow_dispatch:
