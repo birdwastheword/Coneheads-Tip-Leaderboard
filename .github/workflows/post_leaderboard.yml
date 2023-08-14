@@ -1,4 +1,4 @@
-name: cron run main.py
+name: Dialy Post Leaderboard
 
 on:
   workflow_dispatch:
