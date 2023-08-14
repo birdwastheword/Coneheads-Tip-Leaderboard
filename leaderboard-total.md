@@ -1,4 +1,4 @@
-Last updated: 23-08-14 09:20:04 UTC  
+Last updated: 23-08-14 09:30:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,359,024
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | Parush9 | 11,052,014
 9 | crypto_grandma | 10,797,588
 10 | Homeslicekilla | 7,953,728
-11 | SammyCraigar | 7,529,275
+11 | SammyCraigar | 7,795,575
 12 | Geniuskills | 5,874,239
 13 | avyun | 5,686,388
 14 | Real_Player_0 | 5,526,398
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | Autom4tic_Soze | 2,095,496
 36 | transfermymoons | 2,040,421
 37 | possibili-teas | 2,004,352
-38 | ImAlekBan | 1,971,857
+38 | ImAlekBan | 1,976,000
 39 | thom_orrow | 1,870,268
 40 | waterhasnocalories | 1,728,475
 41 | GooderZBK | 1,613,996
