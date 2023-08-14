@@ -1,9 +1,9 @@
-Last updated: 23-08-14 19:30:57 UTC  
+Last updated: 23-08-14 19:40:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
-3 | Bitdream200K | 24,937,690
+3 | Bitdream200K | 24,964,320
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 17,787,281
 6 | ConeDesk | 15,095,235
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | HippieStarTraveler | 4,594,477
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
-18 | thelonliestcrowd | 4,172,327
+18 | thelonliestcrowd | 4,174,990
 19 | ArtConsitent | 3,682,278
 20 | redzrex | 3,670,141
 21 | VIVOffical | 3,657,701
@@ -34,16 +34,16 @@ Rank | Username | Totals Tips
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,441
 33 | Mean_Bandicoot_7481 | 2,188,409
-34 | Dry_Badger_2403 | 2,130,000
-35 | Autom4tic_Soze | 2,095,496
-36 | possibili-teas | 2,046,352
-37 | transfermymoons | 2,040,421
-38 | ImAlekBan | 1,980,938
-39 | thom_orrow | 1,870,268
-40 | waterhasnocalories | 1,728,475
+34 | waterhasnocalories | 2,149,165
+35 | Dry_Badger_2403 | 2,130,000
+36 | Autom4tic_Soze | 2,095,496
+37 | possibili-teas | 2,046,352
+38 | transfermymoons | 2,040,421
+39 | ImAlekBan | 1,980,938
+40 | thom_orrow | 1,870,268
 41 | GooderZBK | 1,613,996
 42 | GuyOne | 1,573,028
-43 | cutsickass | 1,481,671
+43 | cutsickass | 1,511,671
 44 | bray_martin03 | 1,430,206
 45 | Affectionate_Hand_76 | 1,424,184
 46 | Ten-Mins-Late | 1,370,010
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | sinlesco | 462,490
 95 | WarmlyWacky | 462,118
 96 | MediaPrestigious8342 | 453,839
-97 | djrcollectables | 450,077
+97 | djrcollectables | 452,740
 98 | unhingedbigfoot | 439,874
 99 | adrifing | 438,505
 100 | Mopeiooo | 427,266
@@ -268,12 +268,12 @@ Rank | Username | Totals Tips
 265 | guokaidi | 58,861
 266 | Wildspliffosis | 58,703
 267 | Adrewmc | 57,177
-268 | imbarrydylan | 55,689
-269 | orangesandonions | 55,238
-270 | Duskopia | 54,988
-271 | diamondbored | 54,397
-272 | Brandillio | 54,271
-273 | BitCone_CONE | 54,097
+268 | BitCone_CONE | 56,760
+269 | imbarrydylan | 55,689
+270 | orangesandonions | 55,238
+271 | Duskopia | 54,988
+272 | diamondbored | 54,397
+273 | Brandillio | 54,271
 274 | WarningKey6517 | 53,910
 275 | Astrochrono | 53,398
 276 | Jefe0457 | 53,368
