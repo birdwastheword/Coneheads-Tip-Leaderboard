@@ -1,11 +1,11 @@
-Last updated: 23-08-14 05:23:55 UTC  
+Last updated: 23-08-14 05:33:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Wonderful_Bad6531 | 28,333,116
+1 | Wonderful_Bad6531 | 28,342,260
 2 | Jeff5704 | 27,557,186
 3 | Bitdream200K | 24,705,027
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,191,260
+5 | nakamo-toe | 17,201,260
 6 | ConeDesk | 15,094,627
 7 | Parush9 | 11,052,014
 8 | crypto_grandma | 10,730,688
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | HippieStarTraveler | 4,551,057
 15 | rikbona | 4,535,475
 16 | bigbilly1234567899 | 4,392,551
-17 | thelonliestcrowd | 4,161,675
+17 | thelonliestcrowd | 4,164,338
 18 | ArtConsitent | 3,682,278
 19 | redzrex | 3,670,141
 20 | VIVOffical | 3,657,701
@@ -168,8 +168,8 @@ Rank | Username | Totals Tips
 165 | Gregoryonetulum | 168,509
 166 | Conetent | 163,553
 167 | dopelifer09 | 159,403
-168 | ShortBusCult | 157,648
-169 | high5s_inureye | 156,316
+168 | high5s_inureye | 158,979
+169 | ShortBusCult | 157,648
 170 | the_judge_168 | 154,250
 171 | 6reficul | 153,884
 172 | martymartinator | 152,560
