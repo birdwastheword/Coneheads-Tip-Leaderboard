@@ -1,10 +1,10 @@
-Last updated: 23-08-14 02:52:14 UTC  
+Last updated: 23-08-14 03:20:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,315,336
 2 | Bitdream200K | 24,705,027
 3 | rickribera93 | 23,775,537
-4 | nakamo-toe | 16,818,068
+4 | nakamo-toe | 16,853,657
 5 | ConeDesk | 15,094,627
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,708,496
