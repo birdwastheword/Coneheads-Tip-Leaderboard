@@ -1,4 +1,4 @@
-Last updated: 23-08-14 11:16:32 UTC  
+Last updated: 23-08-14 11:24:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,362,580
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | swampyswede | 1,249,574
 48 | DontLaughArt | 1,189,157
 49 | HestiaIsTheBestia | 1,188,043
-50 | cutsickass | 1,164,008
+50 | cutsickass | 1,174,008
 51 | zdubs | 1,125,934
 52 | catlover-100 | 1,110,627
 53 | CMDRGlamdring | 1,102,850
@@ -487,9 +487,9 @@ Rank | Username | Totals Tips
 484 | GaryJulesMCOC | 11,110
 485 | Arj_123 | 11,032
 486 | xllw | 11,000
-487 | PurpleCoveredSnow | 10,915
-488 | Zealousideal-War6206 | 10,905
-489 | Lillica_Golden_SHIB | 10,892
+487 | Lillica_Golden_SHIB | 10,961
+488 | PurpleCoveredSnow | 10,915
+489 | Zealousideal-War6206 | 10,905
 490 | SenseiRaheem | 10,633
 491 | GuronT | 10,561
 492 | Background-Ad-2102 | 10,450
