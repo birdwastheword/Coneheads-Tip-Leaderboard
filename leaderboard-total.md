@@ -1,4 +1,4 @@
-Last updated: 23-08-14 11:42:09 UTC  
+Last updated: 23-08-14 11:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,362,580
@@ -92,7 +92,7 @@ Rank | Username | Totals Tips
 89 | ID404_Not_Found_8964 | 511,514
 90 | ValiantJudge29500 | 510,529
 91 | f0n1xr131ng | 499,192
-92 | MorrisBrett514 | 486,591
+92 | MorrisBrett514 | 487,011
 93 | UniversalNoobMaster | 470,987
 94 | sinlesco | 462,490
 95 | WarmlyWacky | 462,118
