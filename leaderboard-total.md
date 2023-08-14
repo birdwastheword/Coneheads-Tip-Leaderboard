@@ -1,4 +1,4 @@
-Last updated: 23-08-14 10:50:32 UTC  
+Last updated: 23-08-14 11:00:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,362,072
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | Homeslicekilla | 7,953,728
 11 | SammyCraigar | 7,795,575
 12 | Geniuskills | 5,874,239
-13 | avyun | 5,686,388
+13 | avyun | 5,693,357
 14 | Real_Player_0 | 5,527,006
 15 | HippieStarTraveler | 4,594,057
 16 | rikbona | 4,535,475
