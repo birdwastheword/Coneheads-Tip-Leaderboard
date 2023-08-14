@@ -1,4 +1,4 @@
-Last updated: 23-08-14 15:40:38 UTC  
+Last updated: 23-08-14 15:50:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,365,120
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | Ten-Mins-Late | 1,370,010
 46 | LordBobTheWhale | 1,284,514
 47 | swampyswede | 1,254,900
-48 | cutsickass | 1,244,008
+48 | cutsickass | 1,254,008
 49 | DontLaughArt | 1,189,157
 50 | HestiaIsTheBestia | 1,188,043
 51 | zdubs | 1,125,934
@@ -594,10 +594,10 @@ Rank | Username | Totals Tips
 591 | Hour_Sleep_9544 | 5,080
 592 | mronki | 5,074
 593 | Happy-Cheeseface | 5,061
-594 | Zaxoosh | 5,010
-595 | My_Man_Tyrone | 5,000
-596 | Crunchious1 | 5,000
-597 | 8inchConer | 4,978
+594 | 8inchConer | 5,047
+595 | Zaxoosh | 5,010
+596 | My_Man_Tyrone | 5,000
+597 | Crunchious1 | 5,000
 598 | Kzis | 4,937
 599 | mcbifter | 4,834
 600 | Fcbp | 4,800
