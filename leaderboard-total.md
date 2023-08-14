@@ -1,11 +1,11 @@
-Last updated: 23-08-14 21:24:32 UTC  
+Last updated: 23-08-14 21:33:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 25,027,580
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,895,727
+5 | nakamo-toe | 17,901,053
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -228,7 +228,7 @@ Rank | Username | Totals Tips
 225 | IOTA_Tesla | 94,162
 226 | wolfman333 | 93,566
 227 | H3adshotfox77 | 92,574
-228 | Most_Being_4002 | 91,629
+228 | Most_Being_4002 | 92,049
 229 | FeetAndHandFetish | 91,146
 230 | _Mitchee_ | 91,034
 231 | i_wake_up_at_12 | 90,369
