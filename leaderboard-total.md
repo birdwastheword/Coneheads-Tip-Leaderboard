@@ -1,11 +1,11 @@
-Last updated: 23-08-14 17:34:55 UTC  
+Last updated: 23-08-14 17:43:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,367,660
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 24,915,027
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,598,026
+5 | nakamo-toe | 17,629,982
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | bray_martin03 | 1,430,206
 44 | Affectionate_Hand_76 | 1,424,184
 45 | Ten-Mins-Late | 1,370,010
-46 | cutsickass | 1,354,008
+46 | cutsickass | 1,369,008
 47 | swampyswede | 1,331,530
 48 | LordBobTheWhale | 1,284,514
 49 | DontLaughArt | 1,189,157
