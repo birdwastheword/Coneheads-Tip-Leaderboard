@@ -1,7 +1,7 @@
-Last updated: 23-08-14 09:50:33 UTC  
+Last updated: 23-08-14 10:27:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Wonderful_Bad6531 | 28,359,532
+1 | Wonderful_Bad6531 | 28,362,072
 2 | Jeff5704 | 27,557,186
 3 | Bitdream200K | 24,705,027
 4 | rickribera93 | 23,775,537
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | Geniuskills | 5,874,239
 13 | avyun | 5,686,388
 14 | Real_Player_0 | 5,526,398
-15 | HippieStarTraveler | 4,551,057
+15 | HippieStarTraveler | 4,594,057
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
 18 | thelonliestcrowd | 4,164,338
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | Autom4tic_Soze | 2,095,496
 36 | transfermymoons | 2,040,421
 37 | possibili-teas | 2,004,352
-38 | ImAlekBan | 1,976,000
+38 | ImAlekBan | 1,978,806
 39 | thom_orrow | 1,870,268
 40 | waterhasnocalories | 1,728,475
 41 | GooderZBK | 1,613,996
@@ -489,7 +489,7 @@ Rank | Username | Totals Tips
 486 | xllw | 11,000
 487 | PurpleCoveredSnow | 10,915
 488 | Zealousideal-War6206 | 10,905
-489 | Lillica_Golden_SHIB | 10,685
+489 | Lillica_Golden_SHIB | 10,892
 490 | SenseiRaheem | 10,633
 491 | GuronT | 10,561
 492 | Background-Ad-2102 | 10,450
