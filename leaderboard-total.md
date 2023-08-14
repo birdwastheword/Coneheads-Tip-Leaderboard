@@ -1,11 +1,11 @@
-Last updated: 23-08-14 22:50:52 UTC  
+Last updated: 23-08-14 23:00:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 25,027,580
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,939,491
+5 | nakamo-toe | 17,966,121
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,608,856
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,441
-33 | Mean_Bandicoot_7481 | 2,255,537
+33 | Mean_Bandicoot_7481 | 2,257,100
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | swampyswede | 1,385,851
 47 | Ten-Mins-Late | 1,370,010
 48 | LordBobTheWhale | 1,284,514
-49 | DontLaughArt | 1,189,157
+49 | DontLaughArt | 1,189,765
 50 | HestiaIsTheBestia | 1,188,043
 51 | zdubs | 1,125,934
 52 | catlover-100 | 1,110,627
@@ -199,11 +199,11 @@ Rank | Username | Totals Tips
 196 | billywright4 | 122,416
 197 | stupidcupid112 | 121,001
 198 | Mj_6o4 | 120,680
-199 | Schl0tz | 120,000
-200 | lordciders | 116,506
-201 | mvea | 115,748
-202 | RegalReptile_ | 115,356
-203 | DAMG808 | 114,911
+199 | DAMG808 | 120,237
+200 | Schl0tz | 120,000
+201 | lordciders | 116,506
+202 | mvea | 115,748
+203 | RegalReptile_ | 115,356
 204 | alexthemay | 114,131
 205 | PortCity_MadMan | 114,004
 206 | Fox1931 | 114,000
