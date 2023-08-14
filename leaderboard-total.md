@@ -1,7 +1,7 @@
-Last updated: 23-08-14 11:00:49 UTC  
+Last updated: 23-08-14 11:16:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Wonderful_Bad6531 | 28,362,072
+1 | Wonderful_Bad6531 | 28,362,580
 2 | Jeff5704 | 27,557,186
 3 | Bitdream200K | 24,705,027
 4 | rickribera93 | 23,775,537
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | Autom4tic_Soze | 2,095,496
 36 | transfermymoons | 2,040,421
 37 | possibili-teas | 2,004,352
-38 | ImAlekBan | 1,978,806
+38 | ImAlekBan | 1,979,314
 39 | thom_orrow | 1,870,268
 40 | waterhasnocalories | 1,728,475
 41 | GooderZBK | 1,613,996
@@ -692,11 +692,11 @@ Rank | Username | Totals Tips
 689 | Kazu4ya | 2,147
 690 | VeryStone | 2,116
 691 | Skulltwister | 2,080
-692 | OkAbbreviations3451 | 2,069
-693 | towntoglfeddfxyxxx | 2,027
-694 | deadlyruckas | 2,019
-695 | CeramicDrip | 2,006
-696 | Straton_Conemont_Inc | 2,001
+692 | Straton_Conemont_Inc | 2,070
+693 | OkAbbreviations3451 | 2,069
+694 | towntoglfeddfxyxxx | 2,027
+695 | deadlyruckas | 2,019
+696 | CeramicDrip | 2,006
 697 | totheMoonCity | 2,000
 698 | CarbonInstinct | 2,000
 699 | imhoneynow | 2,000
