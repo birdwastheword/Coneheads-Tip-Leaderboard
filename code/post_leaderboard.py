@@ -50,5 +50,5 @@ headers = {
   'Authorization': f'Bearer {jwt}'
 }
 payload = f'sr=ConeHeads&kind=self&title={urllib.parse.quote_plus(title)}&flair_id=d5c93210-4062-11ed-8995-3222414e6f3b&text={urllib.parse.quote_plus(comment)}'
-conn.request("POST", "/api/submit", '', headers)
-print(conn.getresponse().read().decode("utf-8"))
+#conn.request("POST", "/api/submit", '', headers)
+#print(conn.getresponse().read().decode("utf-8"))
