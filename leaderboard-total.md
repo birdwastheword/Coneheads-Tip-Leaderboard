@@ -1,4 +1,4 @@
-Last updated: 23-08-14 18:44:04 UTC  
+Last updated: 23-08-14 18:52:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | waterhasnocalories | 1,728,475
 41 | GooderZBK | 1,613,996
 42 | GuyOne | 1,573,028
-43 | cutsickass | 1,456,671
+43 | cutsickass | 1,481,671
 44 | bray_martin03 | 1,430,206
 45 | Affectionate_Hand_76 | 1,424,184
 46 | Ten-Mins-Late | 1,370,010
@@ -202,12 +202,12 @@ Rank | Username | Totals Tips
 199 | Schl0tz | 120,000
 200 | lordciders | 116,506
 201 | mvea | 115,748
-202 | DAMG808 | 114,911
-203 | alexthemay | 114,131
-204 | PortCity_MadMan | 114,004
-205 | Fox1931 | 114,000
-206 | jimfird | 113,221
-207 | RegalReptile_ | 112,693
+202 | RegalReptile_ | 115,356
+203 | DAMG808 | 114,911
+204 | alexthemay | 114,131
+205 | PortCity_MadMan | 114,004
+206 | Fox1931 | 114,000
+207 | jimfird | 113,221
 208 | flying_bacon | 111,860
 209 | adrefofadre | 111,817
 210 | PushyDevolution | 110,216
