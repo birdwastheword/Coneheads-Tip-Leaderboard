@@ -1,4 +1,4 @@
-Last updated: 23-08-14 16:40:38 UTC  
+Last updated: 23-08-14 16:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,365,120
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | Ten-Mins-Late | 1,370,010
 46 | LordBobTheWhale | 1,284,514
 47 | swampyswede | 1,278,867
-48 | cutsickass | 1,254,008
+48 | cutsickass | 1,264,008
 49 | DontLaughArt | 1,189,157
 50 | HestiaIsTheBestia | 1,188,043
 51 | zdubs | 1,125,934
@@ -106,7 +106,7 @@ Rank | Username | Totals Tips
 103 | Lady_Lucks_Man | 409,953
 104 | LrnFaroeseWthBergur | 409,488
 105 | junkwatch | 407,802
-106 | Fenrir-1919 | 397,614
+106 | Fenrir-1919 | 398,830
 107 | zenhodl | 374,566
 108 | RazPie | 371,328
 109 | Westy3000 | 368,765
