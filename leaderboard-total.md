@@ -1,4 +1,4 @@
-Last updated: 23-08-14 04:25:52 UTC  
+Last updated: 23-08-14 04:34:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,315,336
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | _Royal_Insylum | 2,596,749
 30 | ashinamune | 2,481,398
 31 | send420nudes | 2,445,441
-32 | Mean_Bandicoot_7481 | 2,170,454
+32 | Mean_Bandicoot_7481 | 2,172,777
 33 | Dry_Badger_2403 | 2,130,000
 34 | Autom4tic_Soze | 2,095,496
 35 | transfermymoons | 2,040,421
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | goldyluckinblokchain | 806,385
 67 | ziggybri | 781,826
 68 | Forward_Today2849 | 748,303
-69 | dealkhabari | 715,067
+69 | dealkhabari | 715,136
 70 | starterpack420694 | 710,420
 71 | WarmIyWacky | 703,049
 72 | Starterpack69420 | 696,969
@@ -113,7 +113,7 @@ Rank | Username | Totals Tips
 110 | AustinTX1985 | 343,863
 111 | tsudrat | 340,707
 112 | Mundane-Farm-4117 | 332,850
-113 | doktastonks | 327,928
+113 | doktastonks | 331,199
 114 | adrifing | 319,085
 115 | SHIFTY-T3RROR | 317,648
 116 | liwipe | 304,467
