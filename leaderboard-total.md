@@ -1,11 +1,11 @@
-Last updated: 23-08-14 16:50:48 UTC  
+Last updated: 23-08-14 17:01:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Wonderful_Bad6531 | 28,365,120
+1 | Wonderful_Bad6531 | 28,367,660
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 24,715,027
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,518,811
+5 | nakamo-toe | 17,521,134
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | birdwastheword | 3,157,149
 26 | Puddin-Luv | 3,147,846
 27 | LuminousViper | 3,075,416
-28 | IveDoneItAtLast | 2,941,971
+28 | IveDoneItAtLast | 2,947,634
 29 | ZukoBih | 2,656,628
 30 | ashinamune | 2,608,856
 31 | _Royal_Insylum | 2,596,749
@@ -189,7 +189,7 @@ Rank | Username | Totals Tips
 186 | DamnWhySoLow | 134,733
 187 | DogSpark84 | 134,116
 188 | GoodMornEveGoodNight | 131,019
-189 | Legal-Appointment655 | 129,562
+189 | Legal-Appointment655 | 129,631
 190 | Awake-- | 128,173
 191 | CalligrapherEnough83 | 127,227
 192 | sjakkpila | 127,031
