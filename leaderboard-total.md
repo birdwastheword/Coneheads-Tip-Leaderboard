@@ -1,11 +1,11 @@
-Last updated: 23-08-14 22:32:36 UTC  
+Last updated: 23-08-14 22:41:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 25,027,580
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,933,557
+5 | nakamo-toe | 17,936,220
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -26,9 +26,9 @@ Rank | Username | Totals Tips
 23 | clean_cut89 | 3,359,311
 24 | rustyybikes | 3,320,757
 25 | birdwastheword | 3,157,149
-26 | Puddin-Luv | 3,150,509
+26 | Puddin-Luv | 3,153,172
 27 | LuminousViper | 3,075,416
-28 | IveDoneItAtLast | 2,989,954
+28 | IveDoneItAtLast | 2,995,962
 29 | ZukoBih | 2,656,628
 30 | ashinamune | 2,608,856
 31 | _Royal_Insylum | 2,596,749
@@ -127,7 +127,7 @@ Rank | Username | Totals Tips
 124 | maxfra | 276,796
 125 | x52x | 274,360
 126 | crodbtc | 264,476
-127 | SpookySYN | 256,645
+127 | SpookySYN | 259,916
 128 | thecrabdad | 256,177
 129 | deedopete | 255,962
 130 | Ambitious-Minimum-80 | 252,035
@@ -236,7 +236,7 @@ Rank | Username | Totals Tips
 233 | customsolitaires | 86,557
 234 | wato4000 | 85,744
 235 | Puzzleheaded_Gift738 | 84,020
-236 | beanwiggin420 | 80,413
+236 | beanwiggin420 | 81,673
 237 | Jadenindubai | 79,480
 238 | Pwny_b0y | 79,447
 239 | GodOfWarGuy737 | 79,069
@@ -290,8 +290,8 @@ Rank | Username | Totals Tips
 287 | meme_used | 48,516
 288 | d_Shazam_b | 48,488
 289 | CryptoScamee42069 | 47,454
-290 | I_AM_MORE_BADASS | 47,332
-291 | Outside-Wolf5928 | 46,825
+290 | Outside-Wolf5928 | 47,433
+291 | I_AM_MORE_BADASS | 47,332
 292 | shredslanding | 46,650
 293 | qwertywich | 46,169
 294 | urlz | 45,874
