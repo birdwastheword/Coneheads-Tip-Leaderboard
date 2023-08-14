@@ -1,4 +1,4 @@
-Last updated: 23-08-13 23:50:46 UTC  
+Last updated: 23-08-14 01:57:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,315,336
@@ -9,9 +9,9 @@ Rank | Username | Totals Tips
 6 | Parush9 | 11,052,014
 7 | crypto_grandma | 10,708,496
 8 | Homeslicekilla | 7,953,728
-9 | SammyCraigar | 7,528,767
+9 | SammyCraigar | 7,529,275
 10 | Geniuskills | 5,874,239
-11 | avyun | 5,644,574
+11 | avyun | 5,658,512
 12 | Real_Player_0 | 5,511,721
 13 | HippieStarTraveler | 4,551,057
 14 | rikbona | 4,535,475
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | _ships | 867,512
 63 | 0-Give-a-fucks | 863,970
 64 | Feetfailmenot | 863,375
-65 | CluelessSurvivor | 843,073
+65 | CluelessSurvivor | 845,736
 66 | goldyluckinblokchain | 806,385
 67 | ziggybri | 781,826
 68 | Forward_Today2849 | 748,303
@@ -382,12 +382,12 @@ Rank | Username | Totals Tips
 379 | open-now | 25,247
 380 | mbashs | 24,745
 381 | liberovento | 24,307
-382 | Qptimised | 23,573
-383 | africanasshat | 23,062
-384 | AntonioTT05 | 22,876
-385 | Bundess | 22,746
-386 | Ryaol | 22,663
-387 | SirPesoOtaku | 22,641
+382 | SirPesoOtaku | 23,641
+383 | Qptimised | 23,573
+384 | africanasshat | 23,062
+385 | AntonioTT05 | 22,876
+386 | Bundess | 22,746
+387 | Ryaol | 22,663
 388 | aereyy | 22,364
 389 | Particular_Equal_490 | 22,256
 390 | beejbum | 22,200
