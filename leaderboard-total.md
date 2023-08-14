@@ -1,11 +1,11 @@
-Last updated: 23-08-14 20:40:45 UTC  
+Last updated: 23-08-14 20:50:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 25,000,950
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,813,911
+5 | nakamo-toe | 17,840,541
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | VIVOffical | 3,657,701
 22 | Ginomania | 3,439,855
 23 | clean_cut89 | 3,359,311
-24 | rustyybikes | 3,313,721
+24 | rustyybikes | 3,314,141
 25 | birdwastheword | 3,157,149
 26 | Puddin-Luv | 3,150,509
 27 | LuminousViper | 3,075,416
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | Autom4tic_Soze | 2,095,496
 37 | possibili-teas | 2,046,352
 38 | transfermymoons | 2,040,421
-39 | ImAlekBan | 1,980,938
+39 | ImAlekBan | 1,985,938
 40 | thom_orrow | 1,870,268
 41 | GooderZBK | 1,613,996
 42 | GuyOne | 1,573,028
@@ -478,10 +478,10 @@ Rank | Username | Totals Tips
 475 | Weezthajuice | 12,007
 476 | gnarlypoop | 11,924
 477 | Matth3w_95 | 11,820
-478 | Hofmaurerad | 11,711
-479 | reddit_saltyaf | 11,603
-480 | IndependenceHungry69 | 11,561
-481 | Lillica_Golden_SHIB | 11,513
+478 | Lillica_Golden_SHIB | 11,720
+479 | Hofmaurerad | 11,711
+480 | reddit_saltyaf | 11,603
+481 | IndependenceHungry69 | 11,561
 482 | masstransience | 11,485
 483 | Arvalll | 11,420
 484 | Bramberken05 | 11,110
