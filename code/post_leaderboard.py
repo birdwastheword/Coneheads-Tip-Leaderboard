@@ -13,15 +13,15 @@ biggest = ("", "", 0)
 # Process cvs with yesterdays tips
 filename = f"runs/{yesterday.date()}/tips.csv"
 with open(filename) as csv_file:
-    csv_reader = csv.reader(csv_file, delimiter=',')
-    for row in csv_reader:
-        if row[0] != 'utc': #skip header
-            fromUser = row[1]
-            toUser = row[2]
-            amount = int(row[3])
-            totals[fromUser] += amount
-            if(amount >= biggest[2]):
-                biggest = (fromUser, toUser, amount)
+  csv_reader = csv.reader(csv_file, delimiter=',')
+  for row in csv_reader:
+    if row[0] != 'utc': #skip header
+      fromUser = row[1]
+      toUser = row[2]
+      amount = int(row[3])
+      totals[fromUser] += amount
+      if(amount >= biggest[2]):
+        biggest = (fromUser, toUser, amount)
 
 # Create reddit post output
 totals = (dict(sorted(totals.items(), key=lambda item: -item[1])))
@@ -46,8 +46,8 @@ print(comment)
 jwt = reddit_oauth.jwt()
 conn = http.client.HTTPSConnection("oauth.reddit.com")
 headers = {
-    'User-Agent': f'avatar_bot_reader/0.1 by {reddit_oauth.username}',
-    'Authorization': f'Bearer {jwt}'
+  'User-Agent': f'avatar_bot_reader/0.1 by {reddit_oauth.username}',
+  'Authorization': f'Bearer {jwt}'
 }
 payload = f'sr=ConeHeads&kind=self&title={urllib.parse.quote_plus(title)}&flair_id=d5c93210-4062-11ed-8995-3222414e6f3b&text={urllib.parse.quote_plus(comment)}'
 conn.request("POST", "/api/submit", '', headers)
