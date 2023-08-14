@@ -1,11 +1,11 @@
-Last updated: 23-08-14 20:20:33 UTC  
+Last updated: 23-08-14 20:30:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 24,974,320
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,787,281
+5 | nakamo-toe | 17,813,911
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | HippieStarTraveler | 4,594,477
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
-18 | thelonliestcrowd | 4,174,990
+18 | thelonliestcrowd | 4,177,653
 19 | ArtConsitent | 3,682,278
 20 | redzrex | 3,670,141
 21 | VIVOffical | 3,657,701
@@ -84,7 +84,7 @@ Rank | Username | Totals Tips
 81 | __PDS__ | 595,709
 82 | El_Gordone | 592,784
 83 | Independent_Heart_15 | 578,825
-84 | Alanski22 | 572,578
+84 | Alanski22 | 575,241
 85 | Cravensworth_redux | 570,753
 86 | Due_Insurance8159 | 546,497
 87 | evilninjarobot | 532,915
@@ -96,7 +96,7 @@ Rank | Username | Totals Tips
 93 | UniversalNoobMaster | 470,987
 94 | sinlesco | 462,490
 95 | WarmlyWacky | 462,118
-96 | djrcollectables | 456,940
+96 | djrcollectables | 459,603
 97 | MediaPrestigious8342 | 453,839
 98 | unhingedbigfoot | 439,874
 99 | adrifing | 438,505
@@ -132,7 +132,7 @@ Rank | Username | Totals Tips
 129 | SpookySYN | 255,805
 130 | Ambitious-Minimum-80 | 252,035
 131 | Sattack4000 | 250,837
-132 | Successful-Walk-3902 | 237,345
+132 | Successful-Walk-3902 | 238,561
 133 | Lion-Hermit | 235,237
 134 | Zalkwalker | 235,069
 135 | LongCauliflower6791 | 227,187
