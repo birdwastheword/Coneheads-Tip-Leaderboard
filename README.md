@@ -15,8 +15,8 @@ It wil perfrom two steps
 ### Dialy Post Leaderboard
 This [action](.github/workflows/post_leaderboard.yml) will run run at the end of the day at `00:15 UTC`.
 It wil perfrom two steps
-1. Run `download_comments` for `yesterday`
-2. Run `create_leaderboard.py`
+1. Run `download_comments` for `yesterday`, to get the tips between the last run and midnight.
+2. Run `post_leaderboard.py`, create a Post on Reddit.
 
 ## Python Scripts
 ### code/download_comments.py
