@@ -1,5 +1,6 @@
 # Coneheads Tip Leaderboard
 Scripts to create leaderboards based on tips processed by https://www.reddit.com/user/avatarbot/comments
+The results are available in markdown, or JSON. Show on these test pages [Leaderboard](https://birdwastheword.github.io/Coneheads-Tip-Leaderboard/web/leaderboard.html) and [Hall of Fame](https://birdwastheword.github.io/Coneheads-Tip-Leaderboard/web/cone-of-fame.html)
 
 ### General note on CRON tiggers in `github/workflows`
 Unfortunatly the CRON triggers in Github actions are on a best effort basis and could experience quite some delay.  
