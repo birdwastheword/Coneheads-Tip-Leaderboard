@@ -20,7 +20,7 @@
 $.getJSON('https://birdwastheword.github.io/Coneheads-Tip-Leaderboard/web/leaderboard.json', function(data) {
    $.each(data, function (index, item) {
      var eachrow = "<tr>"
-                 + "<td scope=\"row\">" + item.rank + "</td>"
+                 + "<th scope='row'>" + item.rank + "</td>"
                  + "<td>" + item.user + "</td>"
                  + "<td>" + item.total + "</td>"
                  + "</tr>";
