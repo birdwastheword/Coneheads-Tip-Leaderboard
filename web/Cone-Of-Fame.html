@@ -1,0 +1,35 @@
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+</head>
+
+<table class="table" style="width:50%">
+    <thead>
+    <tr>
+        <th scope="col">#</th>
+        <th scope="col">Date</th>
+        <th scope="col">From User</th>
+        <th scope="col">To User</th>
+        <th scope="col">Amount</th>
+    </tr>
+    </thead>
+    <tbody id="tbody">
+    </tbody>
+</table>
+
+<script type="application/javascript">
+
+$.getJSON('https://birdwastheword.github.io/Coneheads-Tip-Leaderboard/web/cone-of-fame.json', function(data) {
+   $.each(data, function (index, item) {
+     var eachrow = "<tr>"
+                 + "<td scope=\"row\">" + item.rank + "</td>"
+                 + "<td>" + item.date + "</td>"
+                 + "<td>" + item.fromUser + "</td>"
+                 + "<td>" + item.toUser + "</td>"
+                 + "<td>" + item.amount + "</td>"
+                 + "</tr>";
+     $('#tbody').append(eachrow);
+   });
+});
+
+</script>
