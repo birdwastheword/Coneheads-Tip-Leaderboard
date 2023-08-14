@@ -1,11 +1,11 @@
-Last updated: 23-08-14 03:40:33 UTC  
+Last updated: 23-08-14 03:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,315,336
 2 | Jeff5704 | 27,557,186
 3 | Bitdream200K | 24,705,027
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 16,912,243
+5 | nakamo-toe | 16,921,848
 6 | ConeDesk | 15,094,627
 7 | Parush9 | 11,052,014
 8 | crypto_grandma | 10,721,742
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | _Royal_Insylum | 2,596,749
 30 | ashinamune | 2,481,398
 31 | send420nudes | 2,445,441
-32 | Mean_Bandicoot_7481 | 2,145,345
+32 | Mean_Bandicoot_7481 | 2,167,791
 33 | Dry_Badger_2403 | 2,130,000
 34 | Autom4tic_Soze | 2,074,753
 35 | transfermymoons | 2,040,421
