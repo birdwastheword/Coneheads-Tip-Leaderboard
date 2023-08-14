@@ -1,4 +1,4 @@
-Last updated: 23-08-14 07:40:31 UTC  
+Last updated: 23-08-14 07:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,359,024
@@ -149,9 +149,9 @@ Rank | Username | Totals Tips
 146 | SigSalvadore | 212,358
 147 | isthistomorrow_ | 211,449
 148 | legionticket | 206,762
-149 | ziggyback | 203,369
-150 | Skank_cunt_42 | 202,870
-151 | noface_reddit | 201,608
+149 | noface_reddit | 204,271
+150 | ziggyback | 203,369
+151 | Skank_cunt_42 | 202,870
 152 | send_tacoz | 201,075
 153 | CedricDiccory | 197,932
 154 | sudrats | 197,124
