@@ -1,4 +1,4 @@
-Last updated: 23-08-14 21:41:23 UTC  
+Last updated: 23-08-14 21:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -94,8 +94,8 @@ Rank | Username | Totals Tips
 91 | f0n1xr131ng | 499,261
 92 | MorrisBrett514 | 487,080
 93 | UniversalNoobMaster | 470,987
-94 | sinlesco | 462,490
-95 | djrcollectables | 462,266
+94 | djrcollectables | 467,592
+95 | sinlesco | 462,490
 96 | WarmlyWacky | 462,118
 97 | MediaPrestigious8342 | 453,839
 98 | unhingedbigfoot | 439,874
@@ -139,8 +139,8 @@ Rank | Username | Totals Tips
 136 | Flimsy_Brilliant_239 | 227,028
 137 | SnooMacarons9203 | 224,749
 138 | BeardedBro_ | 223,627
-139 | isthistomorrow_ | 222,560
-140 | joeviani | 222,024
+139 | joeviani | 223,025
+140 | isthistomorrow_ | 222,560
 141 | KONGXIANG | 220,816
 142 | thestonkinator | 219,730
 143 | SourBeefHoop | 217,512
@@ -416,7 +416,7 @@ Rank | Username | Totals Tips
 413 | lookwhatumademedoo | 19,090
 414 | bentolman | 18,871
 415 | ___MOM___ | 18,853
-416 | monkeybombed | 18,121
+416 | monkeybombed | 18,222
 417 | Collectibl3 | 18,024
 418 | kwickle | 17,835
 419 | augustsIippedaway | 17,739
