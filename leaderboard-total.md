@@ -1,4 +1,4 @@
-Last updated: 23-08-14 16:28:12 UTC  
+Last updated: 23-08-14 16:40:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,365,120
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | Affectionate_Hand_76 | 1,421,521
 45 | Ten-Mins-Late | 1,370,010
 46 | LordBobTheWhale | 1,284,514
-47 | swampyswede | 1,273,541
+47 | swampyswede | 1,278,867
 48 | cutsickass | 1,254,008
 49 | DontLaughArt | 1,189,157
 50 | HestiaIsTheBestia | 1,188,043
