@@ -1,15 +1,15 @@
-Last updated: 23-08-14 05:50:32 UTC  
+Last updated: 23-08-14 06:27:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Wonderful_Bad6531 | 28,358,516
+1 | Wonderful_Bad6531 | 28,359,024
 2 | Jeff5704 | 27,557,186
 3 | Bitdream200K | 24,705,027
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,209,320
+5 | nakamo-toe | 17,211,644
 6 | ConeDesk | 15,094,627
-7 | HODL-THE-LINE | 11,400,100
+7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
-9 | crypto_grandma | 10,730,688
+9 | crypto_grandma | 10,740,688
 10 | Homeslicekilla | 7,953,728
 11 | SammyCraigar | 7,529,275
 12 | Geniuskills | 5,874,239
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | IveDoneItAtLast | 2,909,993
 29 | ZukoBih | 2,646,628
 30 | _Royal_Insylum | 2,596,749
-31 | ashinamune | 2,508,028
+31 | ashinamune | 2,555,356
 32 | send420nudes | 2,445,441
 33 | Mean_Bandicoot_7481 | 2,172,777
 34 | Dry_Badger_2403 | 2,130,000
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | swampyswede | 1,249,574
 48 | DontLaughArt | 1,189,157
 49 | HestiaIsTheBestia | 1,188,043
-50 | cutsickass | 1,144,008
+50 | cutsickass | 1,154,008
 51 | zdubs | 1,125,934
 52 | catlover-100 | 1,110,627
 53 | CMDRGlamdring | 1,102,850
@@ -116,7 +116,7 @@ Rank | Username | Totals Tips
 113 | tsudrat | 340,707
 114 | Mundane-Farm-4117 | 332,850
 115 | doktastonks | 331,199
-116 | SHIFTY-T3RROR | 317,648
+116 | SHIFTY-T3RROR | 318,068
 117 | liwipe | 304,467
 118 | EffinDrongoC | 302,738
 119 | VincentVanGTFO | 297,935
@@ -177,15 +177,15 @@ Rank | Username | Totals Tips
 174 | NotFullyTerrestrial | 150,694
 175 | CoverYourMaskHoles | 149,056
 176 | YarOldeOrchard | 147,662
-177 | beastlybaker | 143,887
-178 | Sad_Entertainer9961 | 143,248
-179 | revdrgonzo | 141,921
-180 | MymannosaurusRex | 141,317
-181 | SalliIsAFem | 140,361
-182 | luisantonio197 | 139,511
-183 | GrowinStuffAndThings | 137,461
-184 | 002_timmy | 136,711
-185 | Obi1eyeKenobi | 134,764
+177 | Obi1eyeKenobi | 144,764
+178 | beastlybaker | 143,887
+179 | Sad_Entertainer9961 | 143,248
+180 | revdrgonzo | 141,921
+181 | MymannosaurusRex | 141,317
+182 | SalliIsAFem | 140,361
+183 | luisantonio197 | 139,511
+184 | GrowinStuffAndThings | 137,461
+185 | 002_timmy | 136,711
 186 | DamnWhySoLow | 134,733
 187 | DogSpark84 | 134,116
 188 | GoodMornEveGoodNight | 131,019
@@ -426,8 +426,8 @@ Rank | Username | Totals Tips
 423 | OutrageousStudy6752 | 17,087
 424 | 1ndy1 | 17,003
 425 | Drlitez | 16,436
-426 | ipad_daps | 16,394
-427 | monkeybombed | 16,312
+426 | monkeybombed | 16,413
+427 | ipad_daps | 16,394
 428 | Levl1Critter | 16,163
 429 | Conflict63 | 16,063
 430 | giooo_tdm | 15,895
@@ -707,8 +707,8 @@ Rank | Username | Totals Tips
 704 | lostaga1n | 1,927
 705 | Trakorr | 1,859
 706 | bricks_n_coins | 1,840
-707 | virginia669 | 1,791
-708 | FalloutAssasin | 1,750
+707 | FalloutAssasin | 1,819
+708 | virginia669 | 1,791
 709 | DWBroodle | 1,709
 710 | PuzzleheadedDream830 | 1,650
 711 | Zues6921 | 1,627
