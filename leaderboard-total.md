@@ -1,11 +1,11 @@
-Last updated: 23-08-14 20:50:34 UTC  
+Last updated: 23-08-14 21:16:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
-3 | Bitdream200K | 25,000,950
+3 | Bitdream200K | 25,027,580
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,840,541
+5 | nakamo-toe | 17,893,064
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | VIVOffical | 3,657,701
 22 | Ginomania | 3,439,855
 23 | clean_cut89 | 3,359,311
-24 | rustyybikes | 3,314,141
+24 | rustyybikes | 3,320,757
 25 | birdwastheword | 3,157,149
 26 | Puddin-Luv | 3,150,509
 27 | LuminousViper | 3,075,416
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,608,856
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,441
-33 | Mean_Bandicoot_7481 | 2,194,643
+33 | Mean_Bandicoot_7481 | 2,200,588
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
@@ -127,9 +127,9 @@ Rank | Username | Totals Tips
 124 | maxfra | 276,796
 125 | x52x | 274,360
 126 | crodbtc | 264,476
-127 | thecrabdad | 256,177
-128 | deedopete | 255,962
-129 | SpookySYN | 255,805
+127 | SpookySYN | 256,645
+128 | thecrabdad | 256,177
+129 | deedopete | 255,962
 130 | Ambitious-Minimum-80 | 252,035
 131 | Sattack4000 | 250,837
 132 | Successful-Walk-3902 | 238,561
@@ -168,8 +168,8 @@ Rank | Username | Totals Tips
 165 | Street_Addd | 171,939
 166 | dinoyeti | 170,396
 167 | Gregoryonetulum | 168,509
-168 | Conetent | 163,553
-169 | dopelifer09 | 159,403
+168 | dopelifer09 | 164,729
+169 | Conetent | 163,553
 170 | high5s_inureye | 158,979
 171 | ShortBusCult | 157,648
 172 | the_judge_168 | 154,250
@@ -416,11 +416,11 @@ Rank | Username | Totals Tips
 413 | lookwhatumademedoo | 19,090
 414 | bentolman | 18,871
 415 | ___MOM___ | 18,853
-416 | Collectibl3 | 18,024
-417 | kwickle | 17,835
-418 | augustsIippedaway | 17,739
-419 | omfglauren | 17,676
-420 | monkeybombed | 17,414
+416 | monkeybombed | 18,121
+417 | Collectibl3 | 18,024
+418 | kwickle | 17,835
+419 | augustsIippedaway | 17,739
+420 | omfglauren | 17,676
 421 | masterassassin93 | 17,409
 422 | Steves1982 | 17,284
 423 | DramaticProtogen | 17,176
