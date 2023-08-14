@@ -1,4 +1,4 @@
-Last updated: 23-08-14 07:50:36 UTC  
+Last updated: 23-08-14 08:26:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,359,024
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | birdwastheword | 3,157,149
 26 | Puddin-Luv | 3,143,735
 27 | LuminousViper | 3,075,416
-28 | IveDoneItAtLast | 2,909,993
+28 | IveDoneItAtLast | 2,912,656
 29 | ZukoBih | 2,646,628
 30 | _Royal_Insylum | 2,596,749
 31 | ashinamune | 2,555,356
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | Autom4tic_Soze | 2,095,496
 36 | transfermymoons | 2,040,421
 37 | possibili-teas | 2,004,352
-38 | ImAlekBan | 1,965,315
+38 | ImAlekBan | 1,967,978
 39 | thom_orrow | 1,870,268
 40 | waterhasnocalories | 1,728,475
 41 | GooderZBK | 1,613,996
