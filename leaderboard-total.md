@@ -1,4 +1,4 @@
-Last updated: 23-08-14 11:24:52 UTC  
+Last updated: 23-08-14 11:33:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,362,580
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | SammyCraigar | 7,795,575
 12 | Geniuskills | 5,874,239
 13 | avyun | 5,693,357
-14 | Real_Player_0 | 5,527,006
+14 | Real_Player_0 | 5,527,614
 15 | HippieStarTraveler | 4,594,057
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
@@ -485,9 +485,9 @@ Rank | Username | Totals Tips
 482 | Arvalll | 11,420
 483 | Bramberken05 | 11,110
 484 | GaryJulesMCOC | 11,110
-485 | Arj_123 | 11,032
-486 | xllw | 11,000
-487 | Lillica_Golden_SHIB | 10,961
+485 | Lillica_Golden_SHIB | 11,099
+486 | Arj_123 | 11,032
+487 | xllw | 11,000
 488 | PurpleCoveredSnow | 10,915
 489 | Zealousideal-War6206 | 10,905
 490 | SenseiRaheem | 10,633
