@@ -1,11 +1,11 @@
-Last updated: 23-08-14 19:14:14 UTC  
+Last updated: 23-08-14 19:22:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 24,937,690
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,752,662
+5 | nakamo-toe | 17,787,281
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | Homeslicekilla | 7,953,728
 11 | SammyCraigar | 7,795,575
 12 | Geniuskills | 5,874,239
-13 | avyun | 5,707,295
+13 | avyun | 5,714,264
 14 | Real_Player_0 | 5,527,614
 15 | HippieStarTraveler | 4,594,477
 16 | rikbona | 4,535,475
@@ -134,7 +134,7 @@ Rank | Username | Totals Tips
 131 | Sattack4000 | 250,837
 132 | Lion-Hermit | 235,237
 133 | Zalkwalker | 235,069
-134 | Successful-Walk-3902 | 230,195
+134 | Successful-Walk-3902 | 230,803
 135 | LongCauliflower6791 | 227,187
 136 | Flimsy_Brilliant_239 | 227,028
 137 | SnooMacarons9203 | 224,749
