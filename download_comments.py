@@ -5,13 +5,19 @@ import datetime
 import re
 import csv
 import reddit_oauth
+import sys
+
+#Set up
+collect_day = datetime.datetime.now()
+if len(sys.argv) == 2 and sys.argv[1] == 'yesterday':
+  collect_day = datetime.datetime.now() - datetime.timedelta(days = 1)
 
 # Get avatar bot comments
 jwt = reddit_oauth.jwt()
 conn = http.client.HTTPSConnection("oauth.reddit.com")
 payload = ''
 headers = {
-  'User-Agent': f'avatar_bot_reader/0.1 by {username}',
+  'User-Agent': f'avatar_bot_reader/0.1 by {reddit_oauth.username}',
   'Authorization': f'Bearer {jwt}'
 }
 
