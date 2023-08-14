@@ -1,4 +1,4 @@
-Last updated: 23-08-14 08:58:52 UTC  
+Last updated: 23-08-14 09:20:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,359,024
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | birdwastheword | 3,157,149
 26 | Puddin-Luv | 3,143,735
 27 | LuminousViper | 3,075,416
-28 | IveDoneItAtLast | 2,912,656
+28 | IveDoneItAtLast | 2,915,319
 29 | ZukoBih | 2,646,628
 30 | _Royal_Insylum | 2,596,749
 31 | ashinamune | 2,555,356
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | freechickens | 915,654
 61 | Modestexcuse | 903,684
 62 | thee_monster | 896,765
-63 | _ships | 867,512
+63 | _ships | 870,175
 64 | 0-Give-a-fucks | 863,970
 65 | Feetfailmenot | 863,375
 66 | CluelessSurvivor | 845,736
@@ -237,8 +237,8 @@ Rank | Username | Totals Tips
 234 | wato4000 | 85,744
 235 | Puzzleheaded_Gift738 | 84,020
 236 | beanwiggin420 | 80,413
-237 | Pwny_b0y | 79,447
-238 | Jadenindubai | 79,411
+237 | Jadenindubai | 79,480
+238 | Pwny_b0y | 79,447
 239 | GodOfWarGuy737 | 79,069
 240 | mokkingjay | 77,914
 241 | youtooleyesing | 77,229
@@ -247,7 +247,7 @@ Rank | Username | Totals Tips
 244 | MedicineMaterial3501 | 74,654
 245 | redditinchina | 74,278
 246 | Creepy-Nectarine-225 | 73,624
-247 | Significant_Talk4943 | 71,920
+247 | Significant_Talk4943 | 72,340
 248 | adi_00_ | 71,759
 249 | TubeNerd92 | 69,417
 250 | HokkaidoNights | 68,108
