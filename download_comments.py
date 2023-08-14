@@ -1,40 +1,13 @@
 import http.client
 import json
 import os
-import urllib.parse
-import base64
 import datetime
 import re
-import sys
 import csv
-
-# Set up env
-client_id = os.environ["CLIENT_ID"]
-cliend_secret = os.environ["CLIENT_SECRET"]
-username = os.environ["REDDIT_NAME"]
-password = os.environ["PASSWORD"]
-token = base64.b64encode(f"{client_id}:{cliend_secret}".encode('utf-8')).decode("ascii")
-
-collect_day = datetime.datetime.now()
-if len(sys.argv) == 2 and sys.argv[1] == 'yesterday':
-  collect_day = datetime.datetime.now() - datetime.timedelta(days = 1)
-
-# Obtain JTW
-conn = http.client.HTTPSConnection("www.reddit.com")
-payload = f'grant_type=password&username={urllib.parse.quote_plus(username)}&password={urllib.parse.quote_plus(password)}'
-headers = {
-  'Content-Type': 'application/x-www-form-urlencoded',
-  'User-Agent': f'avatar_bot_reader/0.1 by {username}',
-  'Authorization': f'Basic {token}',
-}
-conn.request("POST", "/api/v1/access_token", payload, headers)
-res = conn.getresponse()
-data = res.read().decode("utf-8")
-jwt = json.loads(data)["access_token"]
-
-print(f"jwt obtained: {jwt}")
+import reddit_oauth
 
 # Get avatar bot comments
+jwt = reddit_oauth.jwt()
 conn = http.client.HTTPSConnection("oauth.reddit.com")
 payload = ''
 headers = {
@@ -50,10 +23,7 @@ if os.path.exists(filename):
   with open(filename) as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     for row in csv_reader:
-      if row[0] == 'utc':
-        #skip header
-        day_of_tips = {}
-      else:
+      if row[0] != 'utc': #skip header
         day_of_tips[(row[0], row[1].removeprefix(' '))] = (row[2].removeprefix(' '), int(row[3].removeprefix(' ')), row[4].removeprefix(' '), row[5].removeprefix(' '))
 
 # Process batches of avatarbot comments
