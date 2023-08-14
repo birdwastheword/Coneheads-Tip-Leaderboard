@@ -1,11 +1,11 @@
-Last updated: 23-08-14 17:25:29 UTC  
+Last updated: 23-08-14 17:34:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,367,660
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 24,915,027
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,588,026
+5 | nakamo-toe | 17,598,026
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | birdwastheword | 3,157,149
 26 | Puddin-Luv | 3,147,846
 27 | LuminousViper | 3,075,416
-28 | IveDoneItAtLast | 2,953,297
+28 | IveDoneItAtLast | 2,955,960
 29 | ZukoBih | 2,656,628
 30 | ashinamune | 2,608,856
 31 | _Royal_Insylum | 2,596,749
@@ -44,11 +44,11 @@ Rank | Username | Totals Tips
 41 | GooderZBK | 1,613,996
 42 | GuyOne | 1,573,028
 43 | bray_martin03 | 1,430,206
-44 | Affectionate_Hand_76 | 1,421,521
+44 | Affectionate_Hand_76 | 1,424,184
 45 | Ten-Mins-Late | 1,370,010
-46 | cutsickass | 1,324,008
-47 | LordBobTheWhale | 1,284,514
-48 | swampyswede | 1,281,530
+46 | cutsickass | 1,354,008
+47 | swampyswede | 1,331,530
+48 | LordBobTheWhale | 1,284,514
 49 | DontLaughArt | 1,189,157
 50 | HestiaIsTheBestia | 1,188,043
 51 | zdubs | 1,125,934
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | goldyluckinblokchain | 806,385
 68 | ziggybri | 781,826
 69 | Forward_Today2849 | 748,811
-70 | dealkhabari | 717,799
+70 | dealkhabari | 720,231
 71 | starterpack420694 | 710,420
 72 | WarmIyWacky | 703,049
 73 | Starterpack69420 | 696,969
@@ -112,7 +112,7 @@ Rank | Username | Totals Tips
 109 | Westy3000 | 368,765
 110 | hellosamaira | 367,489
 111 | farmertypoerror | 359,212
-112 | formidable-opponent | 351,348
+112 | formidable-opponent | 354,011
 113 | AustinTX1985 | 343,863
 114 | tsudrat | 340,707
 115 | Mundane-Farm-4117 | 332,850
