@@ -1,4 +1,4 @@
-Last updated: 23-08-14 15:32:07 UTC  
+Last updated: 23-08-14 15:40:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,365,120
@@ -26,14 +26,14 @@ Rank | Username | Totals Tips
 23 | clean_cut89 | 3,359,311
 24 | rustyybikes | 3,313,721
 25 | birdwastheword | 3,157,149
-26 | Puddin-Luv | 3,147,426
+26 | Puddin-Luv | 3,147,846
 27 | LuminousViper | 3,075,416
 28 | IveDoneItAtLast | 2,930,645
 29 | ZukoBih | 2,656,628
 30 | ashinamune | 2,608,856
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,441
-33 | Mean_Bandicoot_7481 | 2,172,777
+33 | Mean_Bandicoot_7481 | 2,179,746
 34 | Dry_Badger_2403 | 2,130,000
 35 | Autom4tic_Soze | 2,095,496
 36 | possibili-teas | 2,046,352
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | Ten-Mins-Late | 1,370,010
 46 | LordBobTheWhale | 1,284,514
 47 | swampyswede | 1,254,900
-48 | cutsickass | 1,224,008
+48 | cutsickass | 1,244,008
 49 | DontLaughArt | 1,189,157
 50 | HestiaIsTheBestia | 1,188,043
 51 | zdubs | 1,125,934
@@ -551,8 +551,8 @@ Rank | Username | Totals Tips
 548 | Pengpangolin | 7,488
 549 | tbobs04 | 6,969
 550 | CryptoriumOfficial | 6,969
-551 | Squirrel_McNutz | 6,879
-552 | Coeruleus_ | 6,719
+551 | Coeruleus_ | 6,930
+552 | Squirrel_McNutz | 6,879
 553 | Knackebrodd | 6,683
 554 | mantrakid | 6,675
 555 | No-Emu-5060 | 6,663
