@@ -1,9 +1,9 @@
-Last updated: 23-08-14 20:30:43 UTC  
+Last updated: 23-08-14 20:40:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
-3 | Bitdream200K | 24,974,320
+3 | Bitdream200K | 25,000,950
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 17,813,911
 6 | ConeDesk | 15,095,235
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | thom_orrow | 1,870,268
 41 | GooderZBK | 1,613,996
 42 | GuyOne | 1,573,028
-43 | cutsickass | 1,514,334
+43 | cutsickass | 1,519,334
 44 | bray_martin03 | 1,430,206
 45 | Affectionate_Hand_76 | 1,424,184
 46 | Ten-Mins-Late | 1,370,010
