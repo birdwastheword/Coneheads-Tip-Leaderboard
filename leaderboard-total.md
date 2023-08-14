@@ -1,4 +1,4 @@
-Last updated: 23-08-14 18:35:43 UTC  
+Last updated: 23-08-14 18:44:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -129,12 +129,12 @@ Rank | Username | Totals Tips
 126 | crodbtc | 264,476
 127 | thecrabdad | 256,177
 128 | deedopete | 255,962
-129 | Ambitious-Minimum-80 | 252,035
-130 | Sattack4000 | 250,837
-131 | Lion-Hermit | 235,237
-132 | Zalkwalker | 235,069
-133 | Successful-Walk-3902 | 230,195
-134 | SpookySYN | 229,175
+129 | SpookySYN | 255,805
+130 | Ambitious-Minimum-80 | 252,035
+131 | Sattack4000 | 250,837
+132 | Lion-Hermit | 235,237
+133 | Zalkwalker | 235,069
+134 | Successful-Walk-3902 | 230,195
 135 | LongCauliflower6791 | 227,187
 136 | Flimsy_Brilliant_239 | 227,028
 137 | SnooMacarons9203 | 224,749
