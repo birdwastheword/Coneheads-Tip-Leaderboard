@@ -1,4 +1,4 @@
-Last updated: 23-08-14 08:35:39 UTC  
+Last updated: 23-08-14 08:43:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,359,024
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | SammyCraigar | 7,529,275
 12 | Geniuskills | 5,874,239
 13 | avyun | 5,665,481
-14 | Real_Player_0 | 5,523,735
+14 | Real_Player_0 | 5,526,398
 15 | HippieStarTraveler | 4,551,057
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | Autom4tic_Soze | 2,095,496
 36 | transfermymoons | 2,040,421
 37 | possibili-teas | 2,004,352
-38 | ImAlekBan | 1,967,978
+38 | ImAlekBan | 1,971,857
 39 | thom_orrow | 1,870,268
 40 | waterhasnocalories | 1,728,475
 41 | GooderZBK | 1,613,996
