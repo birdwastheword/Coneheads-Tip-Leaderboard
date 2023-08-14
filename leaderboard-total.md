@@ -1,17 +1,17 @@
-Last updated: 23-08-14 23:00:56 UTC  
+Last updated: 23-08-14 23:20:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 25,027,580
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,966,121
+5 | nakamo-toe | 17,992,751
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
 9 | crypto_grandma | 10,810,251
 10 | Homeslicekilla | 7,953,728
-11 | SammyCraigar | 7,822,205
+11 | SammyCraigar | 7,824,868
 12 | Geniuskills | 5,874,239
 13 | avyun | 5,714,264
 14 | Real_Player_0 | 5,527,614
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Puddin-Luv | 3,155,835
 27 | LuminousViper | 3,075,416
 28 | IveDoneItAtLast | 2,995,962
-29 | ZukoBih | 2,656,628
+29 | ZukoBih | 2,776,628
 30 | ashinamune | 2,608,856
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,441
@@ -127,7 +127,7 @@ Rank | Username | Totals Tips
 124 | maxfra | 276,796
 125 | x52x | 274,360
 126 | crodbtc | 264,476
-127 | SpookySYN | 259,916
+127 | SpookySYN | 261,352
 128 | thecrabdad | 256,177
 129 | deedopete | 255,962
 130 | Ambitious-Minimum-80 | 252,035
@@ -195,11 +195,11 @@ Rank | Username | Totals Tips
 192 | CalligrapherEnough83 | 127,227
 193 | sjakkpila | 127,031
 194 | Outrageous-Ad8481 | 127,001
-195 | MelonFarmer420 | 124,667
-196 | billywright4 | 122,416
-197 | stupidcupid112 | 121,001
-198 | Mj_6o4 | 120,680
-199 | DAMG808 | 120,237
+195 | DAMG808 | 125,563
+196 | MelonFarmer420 | 124,667
+197 | billywright4 | 122,416
+198 | stupidcupid112 | 121,001
+199 | Mj_6o4 | 120,680
 200 | Schl0tz | 120,000
 201 | lordciders | 116,506
 202 | mvea | 115,748
@@ -221,7 +221,7 @@ Rank | Username | Totals Tips
 218 | rolonic | 102,764
 219 | ACorDC | 100,420
 220 | Ashamed_Raccoon9918 | 97,867
-221 | ashketchup422 | 97,294
+221 | ashketchup422 | 97,714
 222 | Knaeggebrott | 97,076
 223 | Kevin3683 | 95,507
 224 | BrendanTFirefly | 95,347
