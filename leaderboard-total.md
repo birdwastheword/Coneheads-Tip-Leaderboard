@@ -1,11 +1,11 @@
-Last updated: 23-08-14 22:24:10 UTC  
+Last updated: 23-08-14 22:32:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 25,027,580
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,927,477
+5 | nakamo-toe | 17,933,557
 6 | ConeDesk | 15,095,235
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,608,856
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,441
-33 | Mean_Bandicoot_7481 | 2,230,551
+33 | Mean_Bandicoot_7481 | 2,235,537
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | ValiantJudge29500 | 510,529
 91 | f0n1xr131ng | 499,261
 92 | MorrisBrett514 | 487,080
-93 | UniversalNoobMaster | 470,987
+93 | UniversalNoobMaster | 471,407
 94 | djrcollectables | 467,592
 95 | sinlesco | 462,490
 96 | WarmlyWacky | 462,118
@@ -329,7 +329,7 @@ Rank | Username | Totals Tips
 326 | Imalittlestitious86 | 37,090
 327 | KrunchyKushKing | 36,532
 328 | 192000Hertz | 36,331
-329 | CrossPuffs | 35,430
+329 | CrossPuffs | 35,530
 330 | mastermarvs | 35,384
 331 | degree-01 | 35,225
 332 | Clonkerz | 34,840
@@ -475,10 +475,10 @@ Rank | Username | Totals Tips
 472 | Hactar_42 | 12,412
 473 | D6P6 | 12,373
 474 | wesleylyan | 12,257
-475 | Weezthajuice | 12,007
-476 | gnarlypoop | 11,924
-477 | Matth3w_95 | 11,820
-478 | Lillica_Golden_SHIB | 11,720
+475 | Lillica_Golden_SHIB | 12,140
+476 | Weezthajuice | 12,007
+477 | gnarlypoop | 11,924
+478 | Matth3w_95 | 11,820
 479 | Hofmaurerad | 11,711
 480 | reddit_saltyaf | 11,603
 481 | IndependenceHungry69 | 11,561
