@@ -1,11 +1,11 @@
-Last updated: 23-08-14 14:25:22 UTC  
+Last updated: 23-08-14 14:34:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,364,612
 2 | Jeff5704 | 27,586,486
 3 | Bitdream200K | 24,705,027
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 17,420,932
+5 | nakamo-toe | 17,479,518
 6 | ConeDesk | 15,094,627
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -30,8 +30,8 @@ Rank | Username | Totals Tips
 27 | LuminousViper | 3,075,416
 28 | IveDoneItAtLast | 2,930,645
 29 | ZukoBih | 2,656,628
-30 | _Royal_Insylum | 2,596,749
-31 | ashinamune | 2,582,226
+30 | ashinamune | 2,608,856
+31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,441
 33 | Mean_Bandicoot_7481 | 2,172,777
 34 | Dry_Badger_2403 | 2,130,000
@@ -48,9 +48,9 @@ Rank | Username | Totals Tips
 45 | Ten-Mins-Late | 1,370,010
 46 | LordBobTheWhale | 1,284,514
 47 | swampyswede | 1,249,574
-48 | DontLaughArt | 1,189,157
-49 | HestiaIsTheBestia | 1,188,043
-50 | cutsickass | 1,174,008
+48 | cutsickass | 1,224,008
+49 | DontLaughArt | 1,189,157
+50 | HestiaIsTheBestia | 1,188,043
 51 | zdubs | 1,125,934
 52 | catlover-100 | 1,110,627
 53 | CMDRGlamdring | 1,102,850
