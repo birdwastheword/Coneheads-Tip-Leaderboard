@@ -1,4 +1,4 @@
-Last updated: 23-08-14 14:43:00 UTC  
+Last updated: 23-08-14 15:32:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,365,120
@@ -13,12 +13,12 @@ Rank | Username | Totals Tips
 10 | Homeslicekilla | 7,953,728
 11 | SammyCraigar | 7,795,575
 12 | Geniuskills | 5,874,239
-13 | avyun | 5,700,326
+13 | avyun | 5,707,295
 14 | Real_Player_0 | 5,527,614
 15 | HippieStarTraveler | 4,594,057
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
-18 | thelonliestcrowd | 4,164,338
+18 | thelonliestcrowd | 4,167,001
 19 | ArtConsitent | 3,682,278
 20 | redzrex | 3,670,141
 21 | VIVOffical | 3,657,701
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | Affectionate_Hand_76 | 1,421,521
 45 | Ten-Mins-Late | 1,370,010
 46 | LordBobTheWhale | 1,284,514
-47 | swampyswede | 1,249,574
+47 | swampyswede | 1,254,900
 48 | cutsickass | 1,224,008
 49 | DontLaughArt | 1,189,157
 50 | HestiaIsTheBestia | 1,188,043
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | avatarbot | 1,027,000
 55 | WarmBiertje | 1,000,000
 56 | EvanIsBacon | 970,416
-57 | saintajoras | 962,917
+57 | saintajoras | 963,917
 58 | investigator100 | 947,720
 59 | Richicash | 924,207
 60 | freechickens | 915,654
@@ -257,7 +257,7 @@ Rank | Username | Totals Tips
 254 | damnusernamegotcutof | 65,004
 255 | AlternativeBag2619 | 64,483
 256 | MisterM0H0 | 64,448
-257 | ItailianStallion101 | 63,028
+257 | ItailianStallion101 | 63,129
 258 | netnemirepxE | 62,645
 259 | shellystarzz | 62,249
 260 | standArtpluto | 62,100
