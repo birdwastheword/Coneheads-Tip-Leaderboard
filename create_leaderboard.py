@@ -3,6 +3,7 @@ import os
 import csv
 import datetime
 import exclude_tip
+import json
 
 totals = defaultdict(lambda:0,{})
 hall_of_fame = []
@@ -64,3 +65,9 @@ f = open(filename, "w")
 f.write(hall_text)
 print(f"written to {f.name}")
 f.close()
+
+
+#Create Cone of Fame JSON
+with open('web/cone-of-fame.json', 'w') as f:
+  json.dump(hall_sorted, f)
+
