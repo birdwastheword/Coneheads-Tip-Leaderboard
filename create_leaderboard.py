@@ -66,10 +66,11 @@ f.write(hall_text)
 print(f"written to {f.name}")
 f.close()
 
-
 #Create Cone of Fame JSON
 hall_json = []
+rank = 0
 for (date, fromUser, toUser, amount) in hall_sorted:
-  hall_json += [{ "date" : date, "fromUser" : fromUser, "toUser" : toUser, "amount" : amount}]
+  rank += 1
+  hall_json += [{ "rank" : rank, "date" : date, "fromUser" : fromUser, "toUser" : toUser, "amount" : amount}]
 with open('web/cone-of-fame.json', 'w') as f:
   json.dump(hall_json, f)
