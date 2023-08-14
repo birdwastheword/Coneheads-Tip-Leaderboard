@@ -1,9 +1,9 @@
-Last updated: 23-08-14 19:40:45 UTC  
+Last updated: 23-08-14 19:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
-3 | Bitdream200K | 24,964,320
+3 | Bitdream200K | 24,974,320
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 17,787,281
 6 | ConeDesk | 15,095,235
@@ -481,9 +481,9 @@ Rank | Username | Totals Tips
 478 | Hofmaurerad | 11,711
 479 | reddit_saltyaf | 11,603
 480 | IndependenceHungry69 | 11,561
-481 | masstransience | 11,485
-482 | Arvalll | 11,420
-483 | Lillica_Golden_SHIB | 11,237
+481 | Lillica_Golden_SHIB | 11,513
+482 | masstransience | 11,485
+483 | Arvalll | 11,420
 484 | Bramberken05 | 11,110
 485 | GaryJulesMCOC | 11,110
 486 | Arj_123 | 11,032
