@@ -1,4 +1,4 @@
-Last updated: 23-08-14 19:22:30 UTC  
+Last updated: 23-08-14 19:30:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | birdwastheword | 3,157,149
 26 | Puddin-Luv | 3,150,509
 27 | LuminousViper | 3,075,416
-28 | IveDoneItAtLast | 2,978,965
+28 | IveDoneItAtLast | 2,981,628
 29 | ZukoBih | 2,656,628
 30 | ashinamune | 2,608,856
 31 | _Royal_Insylum | 2,596,749
@@ -132,9 +132,9 @@ Rank | Username | Totals Tips
 129 | SpookySYN | 255,805
 130 | Ambitious-Minimum-80 | 252,035
 131 | Sattack4000 | 250,837
-132 | Lion-Hermit | 235,237
-133 | Zalkwalker | 235,069
-134 | Successful-Walk-3902 | 230,803
+132 | Successful-Walk-3902 | 237,345
+133 | Lion-Hermit | 235,237
+134 | Zalkwalker | 235,069
 135 | LongCauliflower6791 | 227,187
 136 | Flimsy_Brilliant_239 | 227,028
 137 | SnooMacarons9203 | 224,749
