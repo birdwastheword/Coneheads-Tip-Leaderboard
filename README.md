@@ -29,8 +29,7 @@ After the leaderboard is created a post will be submitted to https://www.reddit.
 ### code/create_leaderboard.py
 This script parses all `tips.csv` files form the `runs` folders and compiles the total leaderboard in [Leaderboard](leaderboard-total.md).  
 It will also gather all tips 1,000,000 and above and add them into the [Hall of Fame](hall-of-fame.md).  
-The same data will be exported in JSON format to [web folder](web).  
-[Leaderboard]([Leaderboard]() and [Hall of Fame](https://birdwastheword.github.io/Coneheads-Tip-Leaderboard/web/leaderboard.json) ) and [Hall of Fame](https://birdwastheword.github.io/Coneheads-Tip-Leaderboard/web/cone-of-fame.json) is available here.  
+The same data will be exported in JSON format to `web` folder. [Leaderboard](https://birdwastheword.github.io/Coneheads-Tip-Leaderboard/web/leaderboard.json) and [Hall of Fame](https://birdwastheword.github.io/Coneheads-Tip-Leaderboard/web/cone-of-fame.json) are available here.  
 
 ### exclude_tip.py (mostly suspended)
 Sometimes a user uses the `!tip` command to pay for an avatar or something else. Since that is not really a tip we should not count them towards the leaderboard. By adding the timestamp and username this tips will be excluded. This list of excludes can also be used to exclude tips that do not qualify as "Fair play". 
