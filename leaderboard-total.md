@@ -1,4 +1,4 @@
-Last updated: 23-08-14 13:33:27 UTC  
+Last updated: 23-08-14 13:41:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,363,596
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | Homeslicekilla | 7,953,728
 11 | SammyCraigar | 7,795,575
 12 | Geniuskills | 5,874,239
-13 | avyun | 5,693,357
+13 | avyun | 5,700,326
 14 | Real_Player_0 | 5,527,614
 15 | HippieStarTraveler | 4,594,057
 16 | rikbona | 4,535,475
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | clean_cut89 | 3,359,311
 24 | rustyybikes | 3,313,721
 25 | birdwastheword | 3,157,149
-26 | Puddin-Luv | 3,144,155
+26 | Puddin-Luv | 3,147,426
 27 | LuminousViper | 3,075,416
 28 | IveDoneItAtLast | 2,920,645
 29 | ZukoBih | 2,646,628
@@ -233,7 +233,7 @@ Rank | Username | Totals Tips
 230 | _Mitchee_ | 91,034
 231 | i_wake_up_at_12 | 90,369
 232 | ShopALF | 87,942
-233 | customsolitaires | 85,803
+233 | customsolitaires | 86,557
 234 | wato4000 | 85,744
 235 | Puzzleheaded_Gift738 | 84,020
 236 | beanwiggin420 | 80,413
@@ -273,10 +273,10 @@ Rank | Username | Totals Tips
 270 | diamondbored | 54,397
 271 | Brandillio | 54,271
 272 | BitCone_CONE | 54,097
-273 | WarningKey6517 | 53,910
-274 | Astrochrono | 53,398
-275 | Jefe0457 | 53,368
-276 | Duskopia | 52,988
+273 | Duskopia | 53,988
+274 | WarningKey6517 | 53,910
+275 | Astrochrono | 53,398
+276 | Jefe0457 | 53,368
 277 | Sativa55555 | 52,909
 278 | fleshlyLoath | 52,877
 279 | RollingSkull0 | 52,782
