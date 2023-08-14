@@ -37,12 +37,14 @@ for file in os.listdir(directory):
   process(filename)
 
 #Create leaderboard
+leaderboard_json = []
 totals = (dict(sorted(totals.items(), key=lambda item: -item[1])))
 rank = 0
 leaderboard = f"Last updated: {datetime.datetime.now().strftime('%y-%m-%d %H:%M:%S')} UTC  \r\nRank | Username | Totals Tips\r\n:-|:-|-:\r\n"
 for name, total in totals.items():
   rank += 1
   leaderboard += f"{rank} | {name.removeprefix(' /u/')} | {'{:,}'.format(total)}\r\n"
+  leaderboard_json += [{ "rank" : rank, "user" : name.removeprefix(' '), "total" : total}]
 
 filename = "leaderboard-total.md"
 f = open(filename, "w")
@@ -50,13 +52,18 @@ f.write(leaderboard)
 print(f"written to {f.name}")
 f.close()
 
-#Create Hall of Fame
+with open('web/leaderboard.json', 'w') as f:
+  json.dump(leaderboard_json, f)
+
+#Create Cone of Fame
+hall_json = []
 hall_sorted = sorted(hall_of_fame, key=lambda t: (-t[3], t[0]))
 rank = 0
 hall_text = "Tips Hall of Fame:\r\nRank | Date | Username | Totals Tips | to User\r\n:-|:-|:-|-:|:-\r\n"
 for (date, fromUser, toUser, amount) in hall_sorted:
   rank += 1
   hall_text += f"{rank} | {date} | {fromUser.removeprefix(' /u/')} | {'{:,}'.format(amount)}| {toUser.removeprefix(' /u/')}\r\n"
+  hall_json += [{ "rank" : rank, "date" : date, "fromUser" : fromUser, "toUser" : toUser, "amount" : amount}]
 
 hall_text += "\r\nTips over 1,000,000 will be eligible for the Hall of Fame\r\n"
 
@@ -66,11 +73,5 @@ f.write(hall_text)
 print(f"written to {f.name}")
 f.close()
 
-#Create Cone of Fame JSON
-hall_json = []
-rank = 0
-for (date, fromUser, toUser, amount) in hall_sorted:
-  rank += 1
-  hall_json += [{ "rank" : rank, "date" : date, "fromUser" : fromUser, "toUser" : toUser, "amount" : amount}]
 with open('web/cone-of-fame.json', 'w') as f:
   json.dump(hall_json, f)
