@@ -1,4 +1,4 @@
-Last updated: 23-08-14 11:33:48 UTC  
+Last updated: 23-08-14 11:42:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,362,580
@@ -690,9 +690,9 @@ Rank | Username | Totals Tips
 687 | Werd2jaH | 2,205
 688 | Niksa2007 | 2,188
 689 | Kazu4ya | 2,147
-690 | VeryStone | 2,116
-691 | Skulltwister | 2,080
-692 | Straton_Conemont_Inc | 2,070
+690 | Straton_Conemont_Inc | 2,139
+691 | VeryStone | 2,116
+692 | Skulltwister | 2,080
 693 | OkAbbreviations3451 | 2,069
 694 | towntoglfeddfxyxxx | 2,027
 695 | deadlyruckas | 2,019
