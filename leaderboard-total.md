@@ -1,4 +1,4 @@
-Last updated: 23-08-14 08:52:29 UTC  
+Last updated: 23-08-14 08:58:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,359,024
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | Homeslicekilla | 7,953,728
 11 | SammyCraigar | 7,529,275
 12 | Geniuskills | 5,874,239
-13 | avyun | 5,665,481
+13 | avyun | 5,686,388
 14 | Real_Player_0 | 5,526,398
 15 | HippieStarTraveler | 4,551,057
 16 | rikbona | 4,535,475
@@ -306,9 +306,9 @@ Rank | Username | Totals Tips
 303 | ACE415_ | 42,000
 304 | Cyber-Cafe | 41,921
 305 | PushyDevoIution | 41,695
-306 | ZoomLong | 41,251
-307 | ARoyaleWithCheese | 41,000
-308 | 4gsboofd | 40,377
+306 | 4gsboofd | 41,377
+307 | ZoomLong | 41,251
+308 | ARoyaleWithCheese | 41,000
 309 | Diamond_PnutBrain | 40,210
 310 | matdabom | 40,068
 311 | YourLocalDuskFox | 40,000
