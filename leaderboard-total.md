@@ -1,8 +1,8 @@
-Last updated: 23-08-14 12:50:27 UTC  
+Last updated: 23-08-14 13:24:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Wonderful_Bad6531 | 28,362,580
-2 | Jeff5704 | 27,557,186
+1 | Wonderful_Bad6531 | 28,363,596
+2 | Jeff5704 | 27,583,823
 3 | Bitdream200K | 24,705,027
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 17,358,409
@@ -31,13 +31,13 @@ Rank | Username | Totals Tips
 28 | IveDoneItAtLast | 2,920,645
 29 | ZukoBih | 2,646,628
 30 | _Royal_Insylum | 2,596,749
-31 | ashinamune | 2,555,356
+31 | ashinamune | 2,582,226
 32 | send420nudes | 2,445,441
 33 | Mean_Bandicoot_7481 | 2,172,777
 34 | Dry_Badger_2403 | 2,130,000
 35 | Autom4tic_Soze | 2,095,496
-36 | transfermymoons | 2,040,421
-37 | possibili-teas | 2,004,352
+36 | possibili-teas | 2,046,352
+37 | transfermymoons | 2,040,421
 38 | ImAlekBan | 1,980,938
 39 | thom_orrow | 1,870,268
 40 | waterhasnocalories | 1,728,475
@@ -207,7 +207,7 @@ Rank | Username | Totals Tips
 204 | PortCity_MadMan | 114,004
 205 | Fox1931 | 114,000
 206 | jimfird | 113,221
-207 | RegalReptile_ | 112,624
+207 | RegalReptile_ | 112,693
 208 | flying_bacon | 111,860
 209 | adrefofadre | 111,817
 210 | PushyDevolution | 110,216
@@ -604,8 +604,8 @@ Rank | Username | Totals Tips
 601 | billw1zz | 4,791
 602 | TeflonThaDonn | 4,720
 603 | st3alth247 | 4,715
-604 | AnimeFlamingo | 4,620
-605 | street_shark_puppet | 4,602
+604 | street_shark_puppet | 4,671
+605 | AnimeFlamingo | 4,620
 606 | Photo_Shop_Beast | 4,585
 607 | Showwwy87 | 4,569
 608 | Sledheadjack | 4,528
@@ -661,16 +661,16 @@ Rank | Username | Totals Tips
 658 | FrankieTheYoung | 2,737
 659 | Medfried | 2,732
 660 | l0l_random | 2,732
-661 | funkymyname | 2,700
-662 | m00nLyt23 | 2,663
-663 | Atorcran | 2,663
-664 | inevitable_username | 2,663
-665 | zuu8 | 2,663
-666 | vexylopin | 2,589
-667 | Strict_Berry366 | 2,569
-668 | SpellApprehensive641 | 2,559
-669 | beerdrinker_mavech | 2,558
-670 | Trakorr | 2,549
+661 | Trakorr | 2,718
+662 | funkymyname | 2,700
+663 | m00nLyt23 | 2,663
+664 | Atorcran | 2,663
+665 | inevitable_username | 2,663
+666 | zuu8 | 2,663
+667 | vexylopin | 2,589
+668 | Strict_Berry366 | 2,569
+669 | SpellApprehensive641 | 2,559
+670 | beerdrinker_mavech | 2,558
 671 | quaker-goats | 2,513
 672 | Tha_Watcha | 2,506
 673 | RabidLabradoodle | 2,500
