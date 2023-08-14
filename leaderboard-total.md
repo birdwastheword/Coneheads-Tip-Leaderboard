@@ -1,4 +1,4 @@
-Last updated: 23-08-14 13:24:02 UTC  
+Last updated: 23-08-14 13:33:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,363,596
@@ -195,8 +195,8 @@ Rank | Username | Totals Tips
 192 | sjakkpila | 127,031
 193 | Outrageous-Ad8481 | 127,001
 194 | MelonFarmer420 | 124,667
-195 | billywright4 | 122,416
-196 | scientifichistorian | 121,465
+195 | scientifichistorian | 124,128
+196 | billywright4 | 122,416
 197 | stupidcupid112 | 121,001
 198 | Mj_6o4 | 120,680
 199 | Schl0tz | 120,000
@@ -362,9 +362,9 @@ Rank | Username | Totals Tips
 359 | slug_tamer | 28,906
 360 | TummyLice | 28,829
 361 | Locid | 28,518
-362 | hvefe | 28,005
-363 | madisonfm | 27,934
-364 | FoleyKali | 27,815
+362 | FoleyKali | 28,423
+363 | hvefe | 28,005
+364 | madisonfm | 27,934
 365 | Sparrow | 27,214
 366 | deltamoney | 26,987
 367 | deathtr0 | 26,909
