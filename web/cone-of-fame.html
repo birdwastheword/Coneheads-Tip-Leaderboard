@@ -22,7 +22,7 @@
 $.getJSON('https://birdwastheword.github.io/Coneheads-Tip-Leaderboard/web/cone-of-fame.json', function(data) {
    $.each(data, function (index, item) {
      var eachrow = "<tr>"
-                 + "<td scope=\"row\">" + item.rank + "</td>"
+                 + "<th scope='row'>" + item.rank + "</td>"
                  + "<td>" + item.date + "</td>"
                  + "<td>" + item.fromUser + "</td>"
                  + "<td>" + item.toUser + "</td>"
