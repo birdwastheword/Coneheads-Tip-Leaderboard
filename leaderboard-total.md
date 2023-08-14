@@ -1,4 +1,4 @@
-Last updated: 23-08-14 19:50:47 UTC  
+Last updated: 23-08-14 20:20:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -28,12 +28,12 @@ Rank | Username | Totals Tips
 25 | birdwastheword | 3,157,149
 26 | Puddin-Luv | 3,150,509
 27 | LuminousViper | 3,075,416
-28 | IveDoneItAtLast | 2,981,628
+28 | IveDoneItAtLast | 2,984,291
 29 | ZukoBih | 2,656,628
 30 | ashinamune | 2,608,856
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,441
-33 | Mean_Bandicoot_7481 | 2,188,409
+33 | Mean_Bandicoot_7481 | 2,194,643
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | thom_orrow | 1,870,268
 41 | GooderZBK | 1,613,996
 42 | GuyOne | 1,573,028
-43 | cutsickass | 1,511,671
+43 | cutsickass | 1,514,334
 44 | bray_martin03 | 1,430,206
 45 | Affectionate_Hand_76 | 1,424,184
 46 | Ten-Mins-Late | 1,370,010
@@ -96,8 +96,8 @@ Rank | Username | Totals Tips
 93 | UniversalNoobMaster | 470,987
 94 | sinlesco | 462,490
 95 | WarmlyWacky | 462,118
-96 | MediaPrestigious8342 | 453,839
-97 | djrcollectables | 452,740
+96 | djrcollectables | 456,940
+97 | MediaPrestigious8342 | 453,839
 98 | unhingedbigfoot | 439,874
 99 | adrifing | 438,505
 100 | Mopeiooo | 427,266
@@ -106,7 +106,7 @@ Rank | Username | Totals Tips
 103 | Lady_Lucks_Man | 409,953
 104 | LrnFaroeseWthBergur | 409,488
 105 | junkwatch | 407,802
-106 | Fenrir-1919 | 398,830
+106 | Fenrir-1919 | 399,438
 107 | zenhodl | 374,566
 108 | RazPie | 371,328
 109 | Westy3000 | 368,765
@@ -120,7 +120,7 @@ Rank | Username | Totals Tips
 117 | SHIFTY-T3RROR | 318,068
 118 | liwipe | 304,467
 119 | EffinDrongoC | 302,738
-120 | Crypto-4-Freedom | 298,092
+120 | Crypto-4-Freedom | 299,001
 121 | VincentVanGTFO | 297,935
 122 | Tinman_ApE | 296,459
 123 | virmamies | 291,804
@@ -247,7 +247,7 @@ Rank | Username | Totals Tips
 244 | MedicineMaterial3501 | 74,654
 245 | redditinchina | 74,278
 246 | Creepy-Nectarine-225 | 73,624
-247 | Significant_Talk4943 | 72,340
+247 | Significant_Talk4943 | 73,180
 248 | adi_00_ | 71,759
 249 | TubeNerd92 | 69,417
 250 | HokkaidoNights | 68,108
@@ -807,20 +807,20 @@ Rank | Username | Totals Tips
 804 | eskimojerk | 606
 805 | Professer__ | 558
 806 | glouglas | 558
-807 | Dare2gamer | 544
-808 | justthebelton | 540
-809 | Gabba- | 520
-810 | CraigyFakeFake | 500
-811 | Right-Shopping9589 | 500
-812 | Riviera20 | 500
-813 | Unlucky_Narwhal3983 | 500
-814 | I_forgot_my_opinion | 500
-815 | TreacleBeneficial678 | 489
-816 | universal_language | 489
-817 | Blackskulllll | 489
-818 | French_physicist | 489
-819 | mrblazed23 | 489
-820 | mihii12 | 489
+807 | mihii12 | 558
+808 | Dare2gamer | 544
+809 | justthebelton | 540
+810 | Gabba- | 520
+811 | CraigyFakeFake | 500
+812 | Right-Shopping9589 | 500
+813 | Riviera20 | 500
+814 | Unlucky_Narwhal3983 | 500
+815 | I_forgot_my_opinion | 500
+816 | TreacleBeneficial678 | 489
+817 | universal_language | 489
+818 | Blackskulllll | 489
+819 | French_physicist | 489
+820 | mrblazed23 | 489
 821 | LaPantheRose | 489
 822 | ancheli | 450
 823 | Calm_Lemonade | 445
