@@ -1,4 +1,4 @@
-Last updated: 23-08-15 17:22:34 UTC  
+Last updated: 23-08-15 17:31:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,494
@@ -280,11 +280,11 @@ Rank | Username | Totals Tips
 277 | Jefe0457 | 53,368
 278 | fleshlyLoath | 52,877
 279 | RollingSkull0 | 52,782
-280 | ky0984 | 52,257
-281 | ConeHead710 | 52,012
-282 | Admirito | 51,317
-283 | lucivaryas | 51,000
-284 | coolpattakers | 50,058
+280 | coolpattakers | 52,721
+281 | ky0984 | 52,257
+282 | ConeHead710 | 52,012
+283 | Admirito | 51,317
+284 | lucivaryas | 51,000
 285 | Tapiz3land | 48,892
 286 | d0ntmess87 | 48,615
 287 | meme_used | 48,516
@@ -463,7 +463,7 @@ Rank | Username | Totals Tips
 460 | couchguitar | 13,330
 461 | Dripbot8 | 13,315
 462 | Fivebag | 13,290
-463 | Lillica_Golden_SHIB | 13,175
+463 | Lillica_Golden_SHIB | 13,244
 464 | AdinaEspada | 12,997
 465 | zahrawins | 12,909
 466 | seamonkey420 | 12,906
