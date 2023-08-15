@@ -1,4 +1,4 @@
-Last updated: 23-08-15 21:42:38 UTC  
+Last updated: 23-08-15 21:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
@@ -25,7 +25,7 @@ Rank | Username | Totals Tips
 22 | Ginomania | 3,439,855
 23 | clean_cut89 | 3,377,291
 24 | rustyybikes | 3,320,757
-25 | Puddin-Luv | 3,170,860
+25 | Puddin-Luv | 3,173,523
 26 | birdwastheword | 3,168,290
 27 | LuminousViper | 3,078,079
 28 | IveDoneItAtLast | 3,066,634
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,622,817
 31 | _Royal_Insylum | 2,603,787
 32 | send420nudes | 2,446,179
-33 | Mean_Bandicoot_7481 | 2,407,160
+33 | Mean_Bandicoot_7481 | 2,409,783
 34 | waterhasnocalories | 2,161,134
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,098,159
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | thom_orrow | 1,876,636
 42 | GooderZBK | 1,613,996
 43 | GuyOne | 1,573,636
-44 | swampyswede | 1,439,111
+44 | swampyswede | 1,441,774
 45 | bray_martin03 | 1,430,206
 46 | Affectionate_Hand_76 | 1,424,184
 47 | Ten-Mins-Late | 1,370,010
@@ -174,20 +174,20 @@ Rank | Username | Totals Tips
 171 | Conetent | 169,147
 172 | Gregoryonetulum | 168,509
 173 | dopelifer09 | 168,232
-174 | high5s_inureye | 158,979
-175 | ShortBusCult | 157,648
-176 | YarOldeOrchard | 154,631
-177 | the_judge_168 | 154,250
-178 | 6reficul | 153,884
-179 | martymartinator | 152,560
-180 | NotFullyTerrestrial | 150,694
-181 | CoverYourMaskHoles | 149,056
-182 | Obi1eyeKenobi | 145,380
-183 | Sad_Entertainer9961 | 143,248
-184 | revdrgonzo | 141,921
-185 | MymannosaurusRex | 141,317
-186 | SalliIsAFem | 140,361
-187 | ashketchup422 | 140,203
+174 | ashketchup422 | 160,204
+175 | high5s_inureye | 158,979
+176 | ShortBusCult | 157,648
+177 | YarOldeOrchard | 154,631
+178 | the_judge_168 | 154,250
+179 | 6reficul | 153,884
+180 | martymartinator | 152,560
+181 | NotFullyTerrestrial | 150,694
+182 | CoverYourMaskHoles | 149,056
+183 | Obi1eyeKenobi | 145,380
+184 | Sad_Entertainer9961 | 143,248
+185 | revdrgonzo | 141,921
+186 | MymannosaurusRex | 141,317
+187 | SalliIsAFem | 140,361
 188 | luisantonio197 | 139,511
 189 | DogSpark84 | 137,807
 190 | GrowinStuffAndThings | 137,461
