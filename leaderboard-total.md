@@ -1,4 +1,4 @@
-Last updated: 23-08-15 06:26:55 UTC  
+Last updated: 23-08-15 06:35:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -215,7 +215,7 @@ Rank | Username | Totals Tips
 212 | Strong_Constant_1190 | 109,517
 213 | Jlt42000 | 107,091
 214 | AD_VICTORIAM_x | 106,876
-215 | SetoXlll | 105,111
+215 | SetoXlll | 106,222
 216 | MartynDr | 105,000
 217 | Chanyuui1 | 104,940
 218 | WhateverAlready | 103,237
