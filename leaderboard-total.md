@@ -1,4 +1,4 @@
-Last updated: 23-08-15 09:50:51 UTC  
+Last updated: 23-08-15 10:26:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | swampyswede | 1,385,851
 47 | Ten-Mins-Late | 1,370,010
 48 | LordBobTheWhale | 1,284,514
-49 | DontLaughArt | 1,199,999
+49 | DontLaughArt | 1,200,068
 50 | HestiaIsTheBestia | 1,188,043
 51 | zdubs | 1,126,542
 52 | catlover-100 | 1,110,627
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | Sattack4000 | 250,837
 133 | scientifichistorian | 240,128
 134 | Successful-Walk-3902 | 238,561
-135 | Lion-Hermit | 235,657
+135 | Lion-Hermit | 237,657
 136 | Zalkwalker | 235,069
 137 | MisterM0H0 | 227,708
 138 | LongCauliflower6791 | 227,187
@@ -169,7 +169,7 @@ Rank | Username | Totals Tips
 166 | Street_Addd | 171,939
 167 | dinoyeti | 170,396
 168 | Gregoryonetulum | 168,509
-169 | dopelifer09 | 165,149
+169 | dopelifer09 | 165,569
 170 | Conetent | 163,553
 171 | high5s_inureye | 158,979
 172 | ShortBusCult | 157,648
