@@ -1,4 +1,4 @@
-Last updated: 23-08-15 06:52:01 UTC  
+Last updated: 23-08-15 07:17:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | HippieStarTraveler | 4,594,477
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
-18 | thelonliestcrowd | 4,180,316
+18 | thelonliestcrowd | 4,182,979
 19 | ArtConsitent | 3,682,278
 20 | redzrex | 3,672,804
 21 | VIVOffical | 3,657,701
@@ -28,12 +28,12 @@ Rank | Username | Totals Tips
 25 | Puddin-Luv | 3,161,161
 26 | birdwastheword | 3,159,881
 27 | LuminousViper | 3,075,416
-28 | IveDoneItAtLast | 2,995,962
+28 | IveDoneItAtLast | 2,998,625
 29 | ZukoBih | 2,776,628
 30 | ashinamune | 2,619,546
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,810
-33 | Mean_Bandicoot_7481 | 2,353,026
+33 | Mean_Bandicoot_7481 | 2,355,349
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | swampyswede | 1,385,851
 47 | Ten-Mins-Late | 1,370,010
 48 | LordBobTheWhale | 1,284,514
-49 | DontLaughArt | 1,195,091
+49 | DontLaughArt | 1,195,757
 50 | HestiaIsTheBestia | 1,188,043
 51 | zdubs | 1,126,542
 52 | catlover-100 | 1,110,627
@@ -149,11 +149,11 @@ Rank | Username | Totals Tips
 146 | tjex666 | 214,138
 147 | Beenthorny | 212,362
 148 | SigSalvadore | 212,358
-149 | legionticket | 206,762
-150 | noface_reddit | 204,271
-151 | ziggyback | 203,369
-152 | Skank_cunt_42 | 202,870
-153 | send_tacoz | 201,075
+149 | send_tacoz | 210,707
+150 | legionticket | 206,762
+151 | noface_reddit | 204,271
+152 | ziggyback | 203,369
+153 | Skank_cunt_42 | 202,870
 154 | CedricDiccory | 197,932
 155 | sudrats | 197,124
 156 | redditavanft | 195,122
@@ -368,15 +368,15 @@ Rank | Username | Totals Tips
 365 | Sparrow | 27,214
 366 | deltamoney | 26,987
 367 | deathtr0 | 26,909
-368 | BottleNcanClapUrHand | 26,658
-369 | Outrageous_Storm6537 | 26,587
-370 | DOGETHEEGOD | 26,580
-371 | Trelucatre | 26,469
-372 | nichnotnick | 26,355
-373 | anony666mous | 26,008
-374 | puzzled__panther | 26,000
-375 | chuloreddit | 25,878
-376 | mbashs | 25,746
+368 | mbashs | 26,747
+369 | BottleNcanClapUrHand | 26,658
+370 | Outrageous_Storm6537 | 26,587
+371 | DOGETHEEGOD | 26,580
+372 | Trelucatre | 26,469
+373 | nichnotnick | 26,355
+374 | anony666mous | 26,008
+375 | puzzled__panther | 26,000
+376 | chuloreddit | 25,878
 377 | AnxiousQuestioner | 25,684
 378 | tmztmz2 | 25,490
 379 | ThekinginYellow27 | 25,431
