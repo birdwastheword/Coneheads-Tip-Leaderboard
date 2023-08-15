@@ -1,4 +1,4 @@
-Last updated: 23-08-15 07:17:20 UTC  
+Last updated: 23-08-15 07:25:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -25,8 +25,8 @@ Rank | Username | Totals Tips
 22 | Ginomania | 3,439,855
 23 | clean_cut89 | 3,370,880
 24 | rustyybikes | 3,320,757
-25 | Puddin-Luv | 3,161,161
-26 | birdwastheword | 3,159,881
+25 | birdwastheword | 3,162,544
+26 | Puddin-Luv | 3,161,161
 27 | LuminousViper | 3,075,416
 28 | IveDoneItAtLast | 2,998,625
 29 | ZukoBih | 2,776,628
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | swampyswede | 1,385,851
 47 | Ten-Mins-Late | 1,370,010
 48 | LordBobTheWhale | 1,284,514
-49 | DontLaughArt | 1,195,757
+49 | DontLaughArt | 1,199,999
 50 | HestiaIsTheBestia | 1,188,043
 51 | zdubs | 1,126,542
 52 | catlover-100 | 1,110,627
@@ -800,17 +800,17 @@ Rank | Username | Totals Tips
 797 | Indisciplinato | 677
 798 | Troll_humper | 665
 799 | pelaguras | 627
-800 | Avatar_Degen | 627
-801 | astro_nut_ | 627
-802 | QualcunoCF | 620
-803 | iiCollinHD | 608
-804 | mondaymoderate | 608
-805 | barbiescorvette | 608
-806 | jamjam794 | 608
-807 | eskimojerk | 606
-808 | Professer__ | 558
-809 | glouglas | 558
-810 | mihii12 | 558
+800 | mihii12 | 627
+801 | Avatar_Degen | 627
+802 | astro_nut_ | 627
+803 | QualcunoCF | 620
+804 | iiCollinHD | 608
+805 | mondaymoderate | 608
+806 | barbiescorvette | 608
+807 | jamjam794 | 608
+808 | eskimojerk | 606
+809 | Professer__ | 558
+810 | glouglas | 558
 811 | Dare2gamer | 544
 812 | justthebelton | 540
 813 | Gabba- | 520
