@@ -1,4 +1,4 @@
-Last updated: 23-08-15 19:41:23 UTC  
+Last updated: 23-08-15 19:50:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,494
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | transfermymoons | 2,085,421
 39 | ImAlekBan | 1,989,332
 40 | thom_orrow | 1,876,636
-41 | cutsickass | 1,809,986
+41 | cutsickass | 1,849,986
 42 | GooderZBK | 1,613,996
 43 | GuyOne | 1,573,636
 44 | swampyswede | 1,439,111
@@ -88,10 +88,10 @@ Rank | Username | Totals Tips
 85 | Cravensworth_redux | 570,753
 86 | Due_Insurance8159 | 546,497
 87 | evilninjarobot | 532,915
-88 | shreyaskg | 523,791
-89 | ID404_Not_Found_8964 | 511,514
-90 | ValiantJudge29500 | 510,529
-91 | UniversalNoobMaster | 499,283
+88 | UniversalNoobMaster | 529,352
+89 | shreyaskg | 523,791
+90 | ID404_Not_Found_8964 | 511,514
+91 | ValiantJudge29500 | 510,529
 92 | f0n1xr131ng | 499,261
 93 | djrcollectables | 490,344
 94 | MorrisBrett514 | 487,638
