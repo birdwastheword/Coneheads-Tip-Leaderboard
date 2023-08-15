@@ -1,4 +1,4 @@
-Last updated: 23-08-15 23:40:40 UTC  
+Last updated: 23-08-15 23:50:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | crypto_grandma | 10,860,997
 10 | SammyCraigar | 8,093,831
 11 | Homeslicekilla | 7,953,728
-12 | Geniuskills | 5,927,872
+12 | Geniuskills | 5,997,568
 13 | avyun | 5,772,094
 14 | Real_Player_0 | 5,537,427
 15 | HippieStarTraveler | 4,645,897
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,622,817
 31 | _Royal_Insylum | 2,603,787
 32 | send420nudes | 2,446,179
-33 | Mean_Bandicoot_7481 | 2,416,885
+33 | Mean_Bandicoot_7481 | 2,426,885
 34 | waterhasnocalories | 2,161,134
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,098,159
@@ -51,7 +51,7 @@ Rank | Username | Totals Tips
 48 | DontLaughArt | 1,326,231
 49 | LordBobTheWhale | 1,284,514
 50 | HestiaIsTheBestia | 1,188,043
-51 | zdubs | 1,126,542
+51 | zdubs | 1,128,758
 52 | catlover-100 | 1,110,627
 53 | CMDRGlamdring | 1,102,850
 54 | avatarbot | 1,027,000
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | sinlesco | 462,490
 99 | WarmlyWacky | 462,118
 100 | MediaPrestigious8342 | 453,839
-101 | Westy3000 | 443,986
+101 | Westy3000 | 446,277
 102 | unhingedbigfoot | 439,874
 103 | adrifing | 438,505
 104 | Mopeiooo | 427,266
@@ -262,10 +262,10 @@ Rank | Username | Totals Tips
 259 | netnemirepxE | 62,645
 260 | shellystarzz | 62,249
 261 | standArtpluto | 62,100
-262 | Adrewmc | 61,177
-263 | TheD1ceMan | 60,541
-264 | lucrica | 59,987
-265 | guokaidi | 59,869
+262 | guokaidi | 61,557
+263 | Adrewmc | 61,177
+264 | TheD1ceMan | 60,541
+265 | lucrica | 59,987
 266 | BeefaloSlim | 59,787
 267 | Big-Ticket1506 | 59,666
 268 | Wildspliffosis | 58,703
