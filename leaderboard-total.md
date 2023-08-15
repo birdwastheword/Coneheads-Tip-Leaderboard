@@ -1,9 +1,9 @@
-Last updated: 23-08-15 19:33:04 UTC  
+Last updated: 23-08-15 19:41:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,494
 2 | Jeff5704 | 27,591,812
-3 | Bitdream200K | 25,155,328
+3 | Bitdream200K | 25,160,654
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 18,451,125
 6 | ConeDesk | 15,343,195
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | transfermymoons | 2,085,421
 39 | ImAlekBan | 1,989,332
 40 | thom_orrow | 1,876,636
-41 | cutsickass | 1,769,986
+41 | cutsickass | 1,809,986
 42 | GooderZBK | 1,613,996
 43 | GuyOne | 1,573,636
 44 | swampyswede | 1,439,111
@@ -392,10 +392,10 @@ Rank | Username | Totals Tips
 389 | AntonioTT05 | 22,876
 390 | Bundess | 22,746
 391 | Ryaol | 22,663
-392 | aereyy | 22,364
-393 | Particular_Equal_490 | 22,256
-394 | beejbum | 22,200
-395 | MadScientistTheFirst | 22,182
+392 | MadScientistTheFirst | 22,602
+393 | aereyy | 22,364
+394 | Particular_Equal_490 | 22,256
+395 | beejbum | 22,200
 396 | slasula | 22,135
 397 | 4ucklehead | 22,020
 398 | mofayew | 21,840
