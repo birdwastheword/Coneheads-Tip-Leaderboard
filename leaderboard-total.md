@@ -1,4 +1,4 @@
-Last updated: 23-08-15 16:40:49 UTC  
+Last updated: 23-08-15 16:50:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,494
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | SammyCraigar | 8,093,831
 11 | Homeslicekilla | 7,953,728
 12 | Geniuskills | 5,881,208
-13 | avyun | 5,736,210
+13 | avyun | 5,743,179
 14 | Real_Player_0 | 5,536,211
 15 | HippieStarTraveler | 4,594,477
 16 | rikbona | 4,535,475
@@ -92,8 +92,8 @@ Rank | Username | Totals Tips
 89 | ID404_Not_Found_8964 | 511,514
 90 | ValiantJudge29500 | 510,529
 91 | f0n1xr131ng | 499,261
-92 | MorrisBrett514 | 487,638
-93 | djrcollectables | 486,653
+92 | djrcollectables | 489,316
+93 | MorrisBrett514 | 487,638
 94 | UniversalNoobMaster | 471,407
 95 | sinlesco | 462,490
 96 | WarmlyWacky | 462,118
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | sudrats | 197,124
 157 | redditavanft | 195,122
 158 | AverageLiberalJoe | 195,007
-159 | beastlybaker | 191,289
+159 | beastlybaker | 192,389
 160 | UWphoto | 183,729
 161 | superlonelyboy | 183,393
 162 | nooobmaester69 | 182,957
@@ -209,7 +209,7 @@ Rank | Username | Totals Tips
 206 | mvea | 115,748
 207 | alexthemay | 114,131
 208 | Fox1931 | 114,000
-209 | jimfird | 113,221
+209 | jimfird | 113,290
 210 | flying_bacon | 111,860
 211 | adrefofadre | 111,817
 212 | PushyDevolution | 110,216
