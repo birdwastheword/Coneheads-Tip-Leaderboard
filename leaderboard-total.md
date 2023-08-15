@@ -1,4 +1,4 @@
-Last updated: 23-08-15 17:40:36 UTC  
+Last updated: 23-08-15 17:50:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,494
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | SammyCraigar | 8,093,831
 11 | Homeslicekilla | 7,953,728
 12 | Geniuskills | 5,881,208
-13 | avyun | 5,750,148
+13 | avyun | 5,757,117
 14 | Real_Player_0 | 5,536,211
 15 | HippieStarTraveler | 4,594,477
 16 | rikbona | 4,535,475
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Puddin-Luv | 3,170,860
 26 | birdwastheword | 3,168,290
 27 | LuminousViper | 3,075,416
-28 | IveDoneItAtLast | 3,054,618
+28 | IveDoneItAtLast | 3,066,634
 29 | ZukoBih | 2,776,628
 30 | ashinamune | 2,622,817
 31 | _Royal_Insylum | 2,603,787
@@ -92,7 +92,7 @@ Rank | Username | Totals Tips
 89 | ID404_Not_Found_8964 | 511,514
 90 | ValiantJudge29500 | 510,529
 91 | f0n1xr131ng | 499,261
-92 | djrcollectables | 489,924
+92 | djrcollectables | 490,344
 93 | MorrisBrett514 | 487,638
 94 | UniversalNoobMaster | 471,407
 95 | sinlesco | 462,490
