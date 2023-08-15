@@ -1,11 +1,11 @@
-Last updated: 23-08-15 18:35:29 UTC  
+Last updated: 23-08-15 18:43:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,494
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,155,328
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 18,398,602
+5 | nakamo-toe | 18,421,832
 6 | ConeDesk | 15,343,195
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -124,8 +124,8 @@ Rank | Username | Totals Tips
 121 | Tinman_ApE | 298,891
 122 | VincentVanGTFO | 297,935
 123 | crodbtc | 293,769
-124 | virmamies | 291,804
-125 | SpookySYN | 290,935
+124 | SpookySYN | 293,598
+125 | virmamies | 291,804
 126 | KONGXIANG | 279,416
 127 | maxfra | 276,796
 128 | deedopete | 275,962
