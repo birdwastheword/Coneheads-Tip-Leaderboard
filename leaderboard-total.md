@@ -1,20 +1,20 @@
-Last updated: 23-08-15 09:18:44 UTC  
+Last updated: 23-08-15 09:30:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,591,812
-3 | Bitdream200K | 25,030,243
+3 | Bitdream200K | 25,110,328
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 18,393,276
 6 | ConeDesk | 15,174,889
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
 9 | crypto_grandma | 10,855,997
-10 | SammyCraigar | 8,091,168
+10 | SammyCraigar | 8,093,831
 11 | Homeslicekilla | 7,953,728
 12 | Geniuskills | 5,881,208
 13 | avyun | 5,714,264
-14 | Real_Player_0 | 5,528,222
+14 | Real_Player_0 | 5,530,885
 15 | HippieStarTraveler | 4,594,477
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
-37 | transfermymoons | 2,060,421
+37 | transfermymoons | 2,085,421
 38 | possibili-teas | 2,049,352
 39 | ImAlekBan | 1,985,938
 40 | thom_orrow | 1,870,268
