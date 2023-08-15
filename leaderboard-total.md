@@ -1,11 +1,11 @@
-Last updated: 23-08-15 23:30:48 UTC  
+Last updated: 23-08-15 23:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,279,953
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 19,701,603
+5 | nakamo-toe | 19,729,035
 6 | ConeDesk | 15,349,275
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Puddin-Luv | 3,173,523
 26 | birdwastheword | 3,168,290
 27 | LuminousViper | 3,078,079
-28 | IveDoneItAtLast | 3,066,634
+28 | IveDoneItAtLast | 3,069,297
 29 | ZukoBih | 2,776,628
 30 | ashinamune | 2,622,817
 31 | _Royal_Insylum | 2,603,787
@@ -113,8 +113,8 @@ Rank | Username | Totals Tips
 110 | Fenrir-1919 | 403,086
 111 | zenhodl | 374,566
 112 | RazPie | 371,328
-113 | hellosamaira | 367,489
-114 | formidable-opponent | 361,788
+113 | formidable-opponent | 369,565
+114 | hellosamaira | 367,489
 115 | farmertypoerror | 359,212
 116 | AustinTX1985 | 343,863
 117 | tsudrat | 340,707
