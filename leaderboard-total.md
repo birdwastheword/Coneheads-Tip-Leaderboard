@@ -1,4 +1,4 @@
-Last updated: 23-08-15 03:30:58 UTC  
+Last updated: 23-08-15 03:40:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -191,7 +191,7 @@ Rank | Username | Totals Tips
 188 | DamnWhySoLow | 134,733
 189 | DogSpark84 | 134,536
 190 | GoodMornEveGoodNight | 131,019
-191 | Legal-Appointment655 | 129,631
+191 | Legal-Appointment655 | 129,700
 192 | Awake-- | 128,173
 193 | CalligrapherEnough83 | 127,227
 194 | sjakkpila | 127,031
