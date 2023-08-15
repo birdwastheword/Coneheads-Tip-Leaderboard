@@ -1,4 +1,4 @@
-Last updated: 23-08-15 13:40:44 UTC  
+Last updated: 23-08-15 13:50:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -168,8 +168,8 @@ Rank | Username | Totals Tips
 165 | YourThighsWarmMyEars | 172,697
 166 | Street_Addd | 171,939
 167 | dinoyeti | 170,396
-168 | Gregoryonetulum | 168,509
-169 | Conetent | 165,876
+168 | Conetent | 169,147
+169 | Gregoryonetulum | 168,509
 170 | dopelifer09 | 165,569
 171 | high5s_inureye | 158,979
 172 | ShortBusCult | 157,648
@@ -177,8 +177,8 @@ Rank | Username | Totals Tips
 174 | 6reficul | 153,884
 175 | martymartinator | 152,560
 176 | NotFullyTerrestrial | 150,694
-177 | CoverYourMaskHoles | 149,056
-178 | beastlybaker | 147,809
+177 | beastlybaker | 150,472
+178 | CoverYourMaskHoles | 149,056
 179 | YarOldeOrchard | 147,662
 180 | Obi1eyeKenobi | 145,380
 181 | Sad_Entertainer9961 | 143,248
