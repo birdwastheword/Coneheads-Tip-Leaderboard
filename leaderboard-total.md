@@ -1,4 +1,4 @@
-Last updated: 23-08-15 14:50:38 UTC  
+Last updated: 23-08-15 15:18:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -6,14 +6,14 @@ Rank | Username | Totals Tips
 3 | Bitdream200K | 25,120,328
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 18,393,276
-6 | ConeDesk | 15,281,173
+6 | ConeDesk | 15,342,587
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
 9 | crypto_grandma | 10,860,997
 10 | SammyCraigar | 8,093,831
 11 | Homeslicekilla | 7,953,728
 12 | Geniuskills | 5,881,208
-13 | avyun | 5,714,264
+13 | avyun | 5,721,233
 14 | Real_Player_0 | 5,536,211
 15 | HippieStarTraveler | 4,594,477
 16 | rikbona | 4,535,475
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | redzrex | 3,672,804
 21 | VIVOffical | 3,657,701
 22 | Ginomania | 3,439,855
-23 | clean_cut89 | 3,374,608
+23 | clean_cut89 | 3,376,053
 24 | rustyybikes | 3,320,757
 25 | Puddin-Luv | 3,170,252
 26 | birdwastheword | 3,168,290
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,622,817
 31 | _Royal_Insylum | 2,603,787
 32 | send420nudes | 2,446,179
-33 | Mean_Bandicoot_7481 | 2,355,349
+33 | Mean_Bandicoot_7481 | 2,394,188
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,098,159
@@ -93,8 +93,8 @@ Rank | Username | Totals Tips
 90 | ValiantJudge29500 | 510,529
 91 | f0n1xr131ng | 499,261
 92 | MorrisBrett514 | 487,638
-93 | UniversalNoobMaster | 471,407
-94 | djrcollectables | 467,592
+93 | djrcollectables | 476,001
+94 | UniversalNoobMaster | 471,407
 95 | sinlesco | 462,490
 96 | WarmlyWacky | 462,118
 97 | MediaPrestigious8342 | 453,839
@@ -141,8 +141,8 @@ Rank | Username | Totals Tips
 138 | LongCauliflower6791 | 227,187
 139 | Flimsy_Brilliant_239 | 227,028
 140 | SnooMacarons9203 | 224,749
-141 | BeardedBro_ | 223,627
-142 | joeviani | 223,025
+141 | joeviani | 224,026
+142 | BeardedBro_ | 223,627
 143 | isthistomorrow_ | 222,560
 144 | thestonkinator | 219,730
 145 | SourBeefHoop | 217,512
@@ -159,13 +159,13 @@ Rank | Username | Totals Tips
 156 | sudrats | 197,124
 157 | redditavanft | 195,122
 158 | AverageLiberalJoe | 195,007
-159 | superlonelyboy | 183,324
-160 | nooobmaester69 | 182,957
-161 | Esco1980 | 181,771
-162 | UWphoto | 180,458
-163 | Extreme_Issue7325 | 179,875
-164 | ruccarucca | 179,850
-165 | beastlybaker | 175,120
+159 | beastlybaker | 185,449
+160 | superlonelyboy | 183,324
+161 | nooobmaester69 | 182,957
+162 | Esco1980 | 181,771
+163 | UWphoto | 180,458
+164 | Extreme_Issue7325 | 179,875
+165 | ruccarucca | 179,850
 166 | YourThighsWarmMyEars | 172,697
 167 | Street_Addd | 171,939
 168 | dinoyeti | 170,396
@@ -188,15 +188,15 @@ Rank | Username | Totals Tips
 185 | ashketchup422 | 140,203
 186 | luisantonio197 | 139,511
 187 | GrowinStuffAndThings | 137,461
-188 | 002_timmy | 136,711
-189 | DogSpark84 | 135,144
-190 | DamnWhySoLow | 134,733
-191 | GoodMornEveGoodNight | 131,019
-192 | Legal-Appointment655 | 129,700
-193 | Awake-- | 128,173
-194 | CalligrapherEnough83 | 127,227
-195 | sjakkpila | 127,031
-196 | Outrageous-Ad8481 | 127,001
+188 | Outrageous-Ad8481 | 137,001
+189 | 002_timmy | 136,711
+190 | DogSpark84 | 135,144
+191 | DamnWhySoLow | 134,733
+192 | GoodMornEveGoodNight | 131,019
+193 | Legal-Appointment655 | 129,700
+194 | Awake-- | 128,173
+195 | CalligrapherEnough83 | 127,227
+196 | sjakkpila | 127,031
 197 | MelonFarmer420 | 126,347
 198 | DAMG808 | 126,171
 199 | billywright4 | 122,416
@@ -463,7 +463,7 @@ Rank | Username | Totals Tips
 460 | couchguitar | 13,330
 461 | Dripbot8 | 13,315
 462 | Fivebag | 13,290
-463 | Lillica_Golden_SHIB | 13,037
+463 | Lillica_Golden_SHIB | 13,175
 464 | AdinaEspada | 12,997
 465 | zahrawins | 12,909
 466 | seamonkey420 | 12,906
