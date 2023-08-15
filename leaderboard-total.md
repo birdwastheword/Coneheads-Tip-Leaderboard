@@ -1,4 +1,4 @@
-Last updated: 23-08-15 19:15:51 UTC  
+Last updated: 23-08-15 19:24:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,494
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | transfermymoons | 2,085,421
 39 | ImAlekBan | 1,989,332
 40 | thom_orrow | 1,876,636
-41 | cutsickass | 1,734,986
+41 | cutsickass | 1,769,986
 42 | GooderZBK | 1,613,996
 43 | GuyOne | 1,573,636
 44 | swampyswede | 1,439,111
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | thecrabdad | 256,177
 131 | Ambitious-Minimum-80 | 252,035
 132 | Sattack4000 | 250,837
-133 | scientifichistorian | 240,128
+133 | scientifichistorian | 242,791
 134 | Successful-Walk-3902 | 238,561
 135 | Lion-Hermit | 237,657
 136 | Zalkwalker | 235,069
