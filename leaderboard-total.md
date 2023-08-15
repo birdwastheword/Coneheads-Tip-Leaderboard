@@ -1,8 +1,8 @@
-Last updated: 23-08-15 03:50:42 UTC  
+Last updated: 23-08-15 04:25:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
-2 | Jeff5704 | 27,589,149
+2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,027,580
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 18,085,616
@@ -25,15 +25,15 @@ Rank | Username | Totals Tips
 22 | Ginomania | 3,439,855
 23 | clean_cut89 | 3,370,880
 24 | rustyybikes | 3,320,757
-25 | birdwastheword | 3,159,881
-26 | Puddin-Luv | 3,158,498
+25 | Puddin-Luv | 3,161,161
+26 | birdwastheword | 3,159,881
 27 | LuminousViper | 3,075,416
 28 | IveDoneItAtLast | 2,995,962
 29 | ZukoBih | 2,776,628
-30 | ashinamune | 2,609,546
+30 | ashinamune | 2,619,546
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,810
-33 | Mean_Bandicoot_7481 | 2,331,937
+33 | Mean_Bandicoot_7481 | 2,332,937
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | thom_orrow | 1,870,268
 41 | GooderZBK | 1,613,996
 42 | cutsickass | 1,579,660
-43 | GuyOne | 1,573,028
+43 | GuyOne | 1,573,636
 44 | bray_martin03 | 1,430,206
 45 | Affectionate_Hand_76 | 1,424,184
 46 | swampyswede | 1,385,851
@@ -188,8 +188,8 @@ Rank | Username | Totals Tips
 185 | luisantonio197 | 139,511
 186 | GrowinStuffAndThings | 137,461
 187 | 002_timmy | 136,711
-188 | DamnWhySoLow | 134,733
-189 | DogSpark84 | 134,536
+188 | DogSpark84 | 135,144
+189 | DamnWhySoLow | 134,733
 190 | GoodMornEveGoodNight | 131,019
 191 | Legal-Appointment655 | 129,700
 192 | Awake-- | 128,173
@@ -234,7 +234,7 @@ Rank | Username | Totals Tips
 231 | i_wake_up_at_12 | 90,369
 232 | ShopALF | 87,942
 233 | customsolitaires | 86,557
-234 | beanwiggin420 | 86,119
+234 | beanwiggin420 | 86,539
 235 | wato4000 | 85,744
 236 | Puzzleheaded_Gift738 | 84,020
 237 | Jadenindubai | 79,480
@@ -376,12 +376,12 @@ Rank | Username | Totals Tips
 373 | anony666mous | 26,008
 374 | puzzled__panther | 26,000
 375 | chuloreddit | 25,878
-376 | AnxiousQuestioner | 25,684
-377 | tmztmz2 | 25,490
-378 | ThekinginYellow27 | 25,431
-379 | drche35 | 25,397
-380 | open-now | 25,247
-381 | mbashs | 24,745
+376 | mbashs | 25,746
+377 | AnxiousQuestioner | 25,684
+378 | tmztmz2 | 25,490
+379 | ThekinginYellow27 | 25,431
+380 | drche35 | 25,397
+381 | open-now | 25,247
 382 | liberovento | 24,307
 383 | SirPesoOtaku | 23,641
 384 | Qptimised | 23,573
