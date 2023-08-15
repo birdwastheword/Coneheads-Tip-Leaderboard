@@ -1,4 +1,4 @@
-Last updated: 23-08-15 04:34:57 UTC  
+Last updated: 23-08-15 04:43:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,619,546
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,810
-33 | Mean_Bandicoot_7481 | 2,332,937
+33 | Mean_Bandicoot_7481 | 2,338,923
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
@@ -124,11 +124,11 @@ Rank | Username | Totals Tips
 121 | Tinman_ApE | 298,891
 122 | VincentVanGTFO | 297,935
 123 | virmamies | 291,804
-124 | SpookySYN | 289,079
+124 | SpookySYN | 290,007
 125 | maxfra | 276,796
 126 | deedopete | 275,962
 127 | x52x | 274,360
-128 | crodbtc | 264,476
+128 | crodbtc | 267,139
 129 | thecrabdad | 256,177
 130 | Ambitious-Minimum-80 | 252,035
 131 | Sattack4000 | 250,837
@@ -232,8 +232,8 @@ Rank | Username | Totals Tips
 229 | FeetAndHandFetish | 91,146
 230 | _Mitchee_ | 91,034
 231 | i_wake_up_at_12 | 90,369
-232 | ShopALF | 87,942
-233 | beanwiggin420 | 87,205
+232 | beanwiggin420 | 88,045
+233 | ShopALF | 87,942
 234 | customsolitaires | 86,557
 235 | wato4000 | 85,744
 236 | Puzzleheaded_Gift738 | 84,020
@@ -339,9 +339,9 @@ Rank | Username | Totals Tips
 336 | Obvious-Ask-5747 | 33,806
 337 | Gerboogler | 33,314
 338 | xxapplej4ckx | 33,181
-339 | himthecool21 | 32,647
-340 | Steadfast_Apparition | 32,437
-341 | Burzzzt88 | 32,436
+339 | Burzzzt88 | 32,856
+340 | himthecool21 | 32,647
+341 | Steadfast_Apparition | 32,437
 342 | n00b1shm4n | 32,159
 343 | Originalibb | 32,157
 344 | tmanfromEarth | 32,057
@@ -683,10 +683,10 @@ Rank | Username | Totals Tips
 680 | That_Youth2223 | 2,414
 681 | MrD_12 | 2,376
 682 | SpySeaRamen | 2,340
-683 | bonneatoutfaire | 2,303
-684 | exclaim_bot | 2,280
-685 | Far_Movie_6595 | 2,248
-686 | FalloutAssasin | 2,239
+683 | FalloutAssasin | 2,308
+684 | bonneatoutfaire | 2,303
+685 | exclaim_bot | 2,280
+686 | Far_Movie_6595 | 2,248
 687 | ODoyles_Banana | 2,226
 688 | Digdaga | 2,216
 689 | A_Dancing_Coder | 2,207
