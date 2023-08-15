@@ -1,4 +1,4 @@
-Last updated: 23-08-15 14:40:51 UTC  
+Last updated: 23-08-15 14:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | redzrex | 3,672,804
 21 | VIVOffical | 3,657,701
 22 | Ginomania | 3,439,855
-23 | clean_cut89 | 3,374,439
+23 | clean_cut89 | 3,374,608
 24 | rustyybikes | 3,320,757
 25 | Puddin-Luv | 3,170,252
 26 | birdwastheword | 3,168,290
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | IveDoneItAtLast | 3,049,292
 29 | ZukoBih | 2,776,628
 30 | ashinamune | 2,622,817
-31 | _Royal_Insylum | 2,596,749
+31 | _Royal_Insylum | 2,603,787
 32 | send420nudes | 2,446,179
 33 | Mean_Bandicoot_7481 | 2,355,349
 34 | waterhasnocalories | 2,149,165
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | ImAlekBan | 1,986,669
 40 | thom_orrow | 1,876,567
 41 | GooderZBK | 1,613,996
-42 | cutsickass | 1,609,660
+42 | cutsickass | 1,612,323
 43 | GuyOne | 1,573,636
 44 | bray_martin03 | 1,430,206
 45 | Affectionate_Hand_76 | 1,424,184
@@ -56,9 +56,9 @@ Rank | Username | Totals Tips
 53 | CMDRGlamdring | 1,102,850
 54 | avatarbot | 1,027,000
 55 | WarmBiertje | 1,000,000
-56 | EvanIsBacon | 970,416
-57 | saintajoras | 966,177
-58 | investigator100 | 947,720
+56 | investigator100 | 977,016
+57 | EvanIsBacon | 970,416
+58 | saintajoras | 966,177
 59 | Richicash | 924,207
 60 | freechickens | 915,654
 61 | Feetfailmenot | 913,375
@@ -165,14 +165,14 @@ Rank | Username | Totals Tips
 162 | UWphoto | 180,458
 163 | Extreme_Issue7325 | 179,875
 164 | ruccarucca | 179,850
-165 | YourThighsWarmMyEars | 172,697
-166 | Street_Addd | 171,939
-167 | dinoyeti | 170,396
-168 | Conetent | 169,147
-169 | Gregoryonetulum | 168,509
-170 | dopelifer09 | 165,569
-171 | high5s_inureye | 158,979
-172 | beastlybaker | 158,014
+165 | beastlybaker | 175,120
+166 | YourThighsWarmMyEars | 172,697
+167 | Street_Addd | 171,939
+168 | dinoyeti | 170,396
+169 | Conetent | 169,147
+170 | Gregoryonetulum | 168,509
+171 | dopelifer09 | 165,569
+172 | high5s_inureye | 158,979
 173 | ShortBusCult | 157,648
 174 | the_judge_168 | 154,250
 175 | 6reficul | 153,884
