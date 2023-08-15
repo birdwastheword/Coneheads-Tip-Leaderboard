@@ -1,11 +1,11 @@
-Last updated: 23-08-15 04:51:33 UTC  
+Last updated: 23-08-15 05:23:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,591,812
-3 | Bitdream200K | 25,027,580
+3 | Bitdream200K | 25,030,243
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 18,085,616
+5 | nakamo-toe | 18,112,255
 6 | ConeDesk | 15,174,889
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,619,546
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,810
-33 | Mean_Bandicoot_7481 | 2,338,923
+33 | Mean_Bandicoot_7481 | 2,342,149
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
@@ -57,20 +57,20 @@ Rank | Username | Totals Tips
 54 | avatarbot | 1,027,000
 55 | WarmBiertje | 1,000,000
 56 | EvanIsBacon | 970,416
-57 | saintajoras | 964,757
+57 | saintajoras | 966,177
 58 | investigator100 | 947,720
 59 | Richicash | 924,207
 60 | freechickens | 915,654
 61 | Feetfailmenot | 913,375
 62 | Modestexcuse | 903,684
 63 | thee_monster | 896,765
-64 | _ships | 882,189
+64 | _ships | 882,609
 65 | 0-Give-a-fucks | 869,296
 66 | CluelessSurvivor | 845,736
 67 | goldyluckinblokchain | 806,385
 68 | ziggybri | 781,826
 69 | Forward_Today2849 | 748,811
-70 | dealkhabari | 720,231
+70 | dealkhabari | 720,300
 71 | starterpack420694 | 710,420
 72 | WarmIyWacky | 703,049
 73 | Starterpack69420 | 696,969
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | dronegeeks1 | 414,406
 103 | Lady_Lucks_Man | 409,953
 104 | LrnFaroeseWthBergur | 409,488
-105 | junkwatch | 408,222
+105 | junkwatch | 408,642
 106 | Fenrir-1919 | 399,438
 107 | zenhodl | 374,566
 108 | RazPie | 371,328
