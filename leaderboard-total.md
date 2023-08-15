@@ -1,4 +1,4 @@
-Last updated: 23-08-15 11:14:51 UTC  
+Last updated: 23-08-15 11:23:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | Feetfailmenot | 913,375
 62 | Modestexcuse | 903,684
 63 | thee_monster | 896,765
-64 | _ships | 885,272
+64 | _ships | 887,935
 65 | 0-Give-a-fucks | 869,296
 66 | CluelessSurvivor | 845,736
 67 | goldyluckinblokchain | 806,385
@@ -689,10 +689,10 @@ Rank | Username | Totals Tips
 686 | SpySeaRamen | 2,340
 687 | bonneatoutfaire | 2,303
 688 | exclaim_bot | 2,280
-689 | Far_Movie_6595 | 2,248
-690 | ODoyles_Banana | 2,226
-691 | Digdaga | 2,216
-692 | Straton_Conemont_Inc | 2,208
+689 | Straton_Conemont_Inc | 2,277
+690 | Far_Movie_6595 | 2,248
+691 | ODoyles_Banana | 2,226
+692 | Digdaga | 2,216
 693 | A_Dancing_Coder | 2,207
 694 | Werd2jaH | 2,205
 695 | Niksa2007 | 2,188
