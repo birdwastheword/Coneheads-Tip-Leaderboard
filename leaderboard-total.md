@@ -1,4 +1,4 @@
-Last updated: 23-08-15 03:19:57 UTC  
+Last updated: 23-08-15 03:30:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,609,546
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,810
-33 | Mean_Bandicoot_7481 | 2,315,965
+33 | Mean_Bandicoot_7481 | 2,318,628
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | avatarbot | 1,027,000
 55 | WarmBiertje | 1,000,000
 56 | EvanIsBacon | 970,416
-57 | saintajoras | 964,337
+57 | saintajoras | 964,757
 58 | investigator100 | 947,720
 59 | Richicash | 924,207
 60 | freechickens | 915,654
@@ -117,7 +117,7 @@ Rank | Username | Totals Tips
 114 | tsudrat | 340,707
 115 | doktastonks | 333,862
 116 | Mundane-Farm-4117 | 332,850
-117 | SHIFTY-T3RROR | 318,068
+117 | SHIFTY-T3RROR | 320,731
 118 | liwipe | 304,467
 119 | EffinDrongoC | 302,738
 120 | Crypto-4-Freedom | 299,001
@@ -168,7 +168,7 @@ Rank | Username | Totals Tips
 165 | Street_Addd | 171,939
 166 | dinoyeti | 170,396
 167 | Gregoryonetulum | 168,509
-168 | dopelifer09 | 164,729
+168 | dopelifer09 | 165,149
 169 | Conetent | 163,553
 170 | high5s_inureye | 158,979
 171 | ShortBusCult | 157,648
@@ -451,16 +451,16 @@ Rank | Username | Totals Tips
 448 | cole-badger | 14,269
 449 | subredditlurker69 | 14,108
 450 | redbasl | 13,963
-451 | TamilPunk | 13,754
-452 | osoese | 13,680
-453 | theycallmekimpembe | 13,617
-454 | deeeznotes | 13,572
-455 | PoDunkYuppie | 13,503
-456 | Trink333 | 13,338
-457 | couchguitar | 13,330
-458 | Dripbot8 | 13,315
-459 | Fivebag | 13,290
-460 | PRYCDaddy | 13,231
+451 | PRYCDaddy | 13,839
+452 | TamilPunk | 13,754
+453 | osoese | 13,680
+454 | theycallmekimpembe | 13,617
+455 | deeeznotes | 13,572
+456 | PoDunkYuppie | 13,503
+457 | Trink333 | 13,338
+458 | couchguitar | 13,330
+459 | Dripbot8 | 13,315
+460 | Fivebag | 13,290
 461 | AdinaEspada | 12,997
 462 | zahrawins | 12,909
 463 | seamonkey420 | 12,906
