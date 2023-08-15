@@ -1,4 +1,4 @@
-Last updated: 23-08-15 03:40:39 UTC  
+Last updated: 23-08-15 03:50:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,609,546
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,810
-33 | Mean_Bandicoot_7481 | 2,318,628
+33 | Mean_Bandicoot_7481 | 2,331,937
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | Feetfailmenot | 913,375
 62 | Modestexcuse | 903,684
 63 | thee_monster | 896,765
-64 | _ships | 879,526
+64 | _ships | 882,189
 65 | 0-Give-a-fucks | 869,296
 66 | CluelessSurvivor | 845,736
 67 | goldyluckinblokchain | 806,385
@@ -417,7 +417,7 @@ Rank | Username | Totals Tips
 414 | lookwhatumademedoo | 19,090
 415 | bentolman | 18,871
 416 | ___MOM___ | 18,853
-417 | monkeybombed | 18,222
+417 | monkeybombed | 18,323
 418 | Collectibl3 | 18,024
 419 | kwickle | 17,835
 420 | augustsIippedaway | 17,739
