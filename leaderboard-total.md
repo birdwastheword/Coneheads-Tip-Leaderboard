@@ -1,4 +1,4 @@
-Last updated: 23-08-15 13:22:41 UTC  
+Last updated: 23-08-15 13:31:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | Homeslicekilla | 7,953,728
 12 | Geniuskills | 5,881,208
 13 | avyun | 5,714,264
-14 | Real_Player_0 | 5,530,885
+14 | Real_Player_0 | 5,536,211
 15 | HippieStarTraveler | 4,594,477
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
@@ -178,8 +178,8 @@ Rank | Username | Totals Tips
 175 | martymartinator | 152,560
 176 | NotFullyTerrestrial | 150,694
 177 | CoverYourMaskHoles | 149,056
-178 | YarOldeOrchard | 147,662
-179 | beastlybaker | 145,923
+178 | beastlybaker | 147,740
+179 | YarOldeOrchard | 147,662
 180 | Obi1eyeKenobi | 145,380
 181 | Sad_Entertainer9961 | 143,248
 182 | revdrgonzo | 141,921
