@@ -1,4 +1,4 @@
-Last updated: 23-08-15 18:25:46 UTC  
+Last updated: 23-08-15 18:35:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,494
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,622,817
 31 | _Royal_Insylum | 2,603,787
 32 | send420nudes | 2,446,179
-33 | Mean_Bandicoot_7481 | 2,394,188
+33 | Mean_Bandicoot_7481 | 2,402,174
 34 | waterhasnocalories | 2,161,134
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,098,159
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | VincentVanGTFO | 297,935
 123 | crodbtc | 293,769
 124 | virmamies | 291,804
-125 | SpookySYN | 290,007
+125 | SpookySYN | 290,935
 126 | KONGXIANG | 279,416
 127 | maxfra | 276,796
 128 | deedopete | 275,962
@@ -154,12 +154,12 @@ Rank | Username | Totals Tips
 151 | legionticket | 206,762
 152 | noface_reddit | 204,271
 153 | ziggyback | 203,369
-154 | Skank_cunt_42 | 202,870
-155 | CedricDiccory | 197,932
-156 | sudrats | 197,124
-157 | redditavanft | 195,122
-158 | AverageLiberalJoe | 195,007
-159 | beastlybaker | 192,597
+154 | beastlybaker | 203,204
+155 | Skank_cunt_42 | 202,870
+156 | CedricDiccory | 197,932
+157 | sudrats | 197,124
+158 | redditavanft | 195,122
+159 | AverageLiberalJoe | 195,007
 160 | UWphoto | 183,729
 161 | superlonelyboy | 183,393
 162 | nooobmaester69 | 182,957
@@ -462,8 +462,8 @@ Rank | Username | Totals Tips
 459 | Trink333 | 13,338
 460 | couchguitar | 13,330
 461 | Dripbot8 | 13,315
-462 | Fivebag | 13,290
-463 | Lillica_Golden_SHIB | 13,244
+462 | Lillica_Golden_SHIB | 13,313
+463 | Fivebag | 13,290
 464 | AdinaEspada | 12,997
 465 | zahrawins | 12,909
 466 | seamonkey420 | 12,906
