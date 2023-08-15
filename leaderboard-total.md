@@ -1,11 +1,11 @@
-Last updated: 23-08-15 21:16:42 UTC  
+Last updated: 23-08-15 21:25:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,169,953
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 19,383,620
+5 | nakamo-toe | 19,388,946
 6 | ConeDesk | 15,349,275
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,622,817
 31 | _Royal_Insylum | 2,603,787
 32 | send420nudes | 2,446,179
-33 | Mean_Bandicoot_7481 | 2,404,837
+33 | Mean_Bandicoot_7481 | 2,407,160
 34 | waterhasnocalories | 2,161,134
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,098,159
@@ -176,12 +176,12 @@ Rank | Username | Totals Tips
 173 | dopelifer09 | 168,232
 174 | high5s_inureye | 158,979
 175 | ShortBusCult | 157,648
-176 | the_judge_168 | 154,250
-177 | 6reficul | 153,884
-178 | martymartinator | 152,560
-179 | NotFullyTerrestrial | 150,694
-180 | CoverYourMaskHoles | 149,056
-181 | YarOldeOrchard | 147,662
+176 | YarOldeOrchard | 154,631
+177 | the_judge_168 | 154,250
+178 | 6reficul | 153,884
+179 | martymartinator | 152,560
+180 | NotFullyTerrestrial | 150,694
+181 | CoverYourMaskHoles | 149,056
 182 | Obi1eyeKenobi | 145,380
 183 | Sad_Entertainer9961 | 143,248
 184 | revdrgonzo | 141,921
@@ -243,8 +243,8 @@ Rank | Username | Totals Tips
 240 | GodOfWarGuy737 | 79,069
 241 | mokkingjay | 77,914
 242 | youtooleyesing | 77,229
-243 | Derefringence | 76,675
-244 | ultra_terrestrial | 76,470
+243 | ultra_terrestrial | 76,890
+244 | Derefringence | 76,675
 245 | Creepy-Nectarine-225 | 75,148
 246 | MedicineMaterial3501 | 74,654
 247 | redditinchina | 74,278
