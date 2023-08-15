@@ -1,4 +1,4 @@
-Last updated: 23-08-15 02:43:41 UTC  
+Last updated: 23-08-15 02:51:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | Feetfailmenot | 913,375
 62 | Modestexcuse | 903,684
 63 | thee_monster | 896,765
-64 | _ships | 878,918
+64 | _ships | 879,526
 65 | 0-Give-a-fucks | 869,296
 66 | CluelessSurvivor | 845,736
 67 | goldyluckinblokchain | 806,385
