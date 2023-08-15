@@ -1,7 +1,7 @@
-Last updated: 23-08-15 16:29:59 UTC  
+Last updated: 23-08-15 16:40:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Wonderful_Bad6531 | 28,370,323
+1 | Wonderful_Bad6531 | 28,373,494
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,155,328
 4 | rickribera93 | 23,775,537
@@ -77,7 +77,7 @@ Rank | Username | Totals Tips
 74 | abracadabra087 | 685,045
 75 | SKITZ_ZA | 673,394
 76 | piebagz | 661,815
-77 | frickdom | 644,434
+77 | frickdom | 645,042
 78 | femacampcouncilor | 642,812
 79 | slirpo | 620,888
 80 | firstmatedotxyz | 598,580
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | sudrats | 197,124
 157 | redditavanft | 195,122
 158 | AverageLiberalJoe | 195,007
-159 | beastlybaker | 190,869
+159 | beastlybaker | 191,289
 160 | UWphoto | 183,729
 161 | superlonelyboy | 183,393
 162 | nooobmaester69 | 182,957
