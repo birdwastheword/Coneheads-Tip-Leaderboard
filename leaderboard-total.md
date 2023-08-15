@@ -1,11 +1,11 @@
-Last updated: 23-08-15 05:40:46 UTC  
+Last updated: 23-08-15 05:50:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,030,243
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 18,112,255
+5 | nakamo-toe | 18,381,218
 6 | ConeDesk | 15,174,889
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,619,546
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,810
-33 | Mean_Bandicoot_7481 | 2,342,712
+33 | Mean_Bandicoot_7481 | 2,342,714
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
@@ -223,8 +223,8 @@ Rank | Username | Totals Tips
 220 | ACorDC | 100,420
 221 | Ashamed_Raccoon9918 | 97,867
 222 | Knaeggebrott | 97,076
-223 | IOTA_Tesla | 96,187
-224 | Kevin3683 | 95,507
+223 | Kevin3683 | 96,741
+224 | IOTA_Tesla | 96,187
 225 | BrendanTFirefly | 95,347
 226 | wolfman333 | 93,566
 227 | H3adshotfox77 | 92,574
