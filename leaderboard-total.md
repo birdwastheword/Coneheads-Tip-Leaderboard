@@ -1,4 +1,4 @@
-Last updated: 23-08-15 08:25:50 UTC  
+Last updated: 23-08-15 08:34:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | ConeDesk | 15,174,889
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
-9 | crypto_grandma | 10,834,897
+9 | crypto_grandma | 10,846,797
 10 | SammyCraigar | 8,091,168
 11 | Homeslicekilla | 7,953,728
 12 | Geniuskills | 5,881,208
