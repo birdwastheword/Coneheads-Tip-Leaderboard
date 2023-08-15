@@ -1,4 +1,4 @@
-Last updated: 23-08-15 14:32:32 UTC  
+Last updated: 23-08-15 14:40:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -172,7 +172,7 @@ Rank | Username | Totals Tips
 169 | Gregoryonetulum | 168,509
 170 | dopelifer09 | 165,569
 171 | high5s_inureye | 158,979
-172 | beastlybaker | 157,945
+172 | beastlybaker | 158,014
 173 | ShortBusCult | 157,648
 174 | the_judge_168 | 154,250
 175 | 6reficul | 153,884
@@ -299,7 +299,7 @@ Rank | Username | Totals Tips
 296 | pwan7505 | 44,600
 297 | Kilv3r | 44,021
 298 | Coneboy2663 | 43,852
-299 | AhhhUhmmm | 43,587
+299 | AhhhUhmmm | 43,725
 300 | AnduriII | 43,175
 301 | CHEROKEEJ4CK | 42,489
 302 | SandersIncBV | 42,255
