@@ -1,4 +1,4 @@
-Last updated: 23-08-15 05:23:24 UTC  
+Last updated: 23-08-15 05:32:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,619,546
 31 | _Royal_Insylum | 2,596,749
 32 | send420nudes | 2,445,810
-33 | Mean_Bandicoot_7481 | 2,342,149
+33 | Mean_Bandicoot_7481 | 2,342,712
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,095,496
