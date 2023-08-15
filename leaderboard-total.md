@@ -1,11 +1,11 @@
-Last updated: 23-08-15 21:34:12 UTC  
+Last updated: 23-08-15 21:42:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,169,953
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 19,457,645
+5 | nakamo-toe | 19,461,847
 6 | ConeDesk | 15,349,275
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | Geniuskills | 5,881,208
 13 | avyun | 5,765,125
 14 | Real_Player_0 | 5,536,211
-15 | HippieStarTraveler | 4,594,897
+15 | HippieStarTraveler | 4,614,897
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
 18 | thelonliestcrowd | 4,188,305
@@ -267,7 +267,7 @@ Rank | Username | Totals Tips
 264 | lucrica | 59,987
 265 | BeefaloSlim | 59,787
 266 | Big-Ticket1506 | 59,666
-267 | guokaidi | 58,861
+267 | guokaidi | 59,029
 268 | Wildspliffosis | 58,703
 269 | Duskopia | 57,651
 270 | BitCone_CONE | 56,760
@@ -828,19 +828,19 @@ Rank | Username | Totals Tips
 825 | Blackskulllll | 489
 826 | French_physicist | 489
 827 | mrblazed23 | 489
-828 | LaPantheRose | 489
-829 | ancheli | 450
-830 | Calm_Lemonade | 445
-831 | Poyal_Rines | 443
-832 | 0xKeith | 440
-833 | Kryptomaus | 438
-834 | MrNobody8080 | 420
-835 | VicBear93 | 420
-836 | RickCroissant | 420
-837 | Wooden_Ad1779 | 420
-838 | anthonyg45157 | 420
-839 | Big_Bonus3617 | 420
-840 | Zezano | 420
+828 | Zezano | 489
+829 | LaPantheRose | 489
+830 | ancheli | 450
+831 | Calm_Lemonade | 445
+832 | Poyal_Rines | 443
+833 | 0xKeith | 440
+834 | Kryptomaus | 438
+835 | MrNobody8080 | 420
+836 | VicBear93 | 420
+837 | RickCroissant | 420
+838 | Wooden_Ad1779 | 420
+839 | anthonyg45157 | 420
+840 | Big_Bonus3617 | 420
 841 | pythonskynet | 420
 842 | Hour-Driver-4545 | 420
 843 | maurinet79 | 420
