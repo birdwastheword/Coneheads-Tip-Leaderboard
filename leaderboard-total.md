@@ -1,4 +1,4 @@
-Last updated: 23-08-15 13:31:05 UTC  
+Last updated: 23-08-15 13:40:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -25,8 +25,8 @@ Rank | Username | Totals Tips
 22 | Ginomania | 3,439,855
 23 | clean_cut89 | 3,374,439
 24 | rustyybikes | 3,320,757
-25 | birdwastheword | 3,168,290
-26 | Puddin-Luv | 3,167,589
+25 | Puddin-Luv | 3,170,252
+26 | birdwastheword | 3,168,290
 27 | LuminousViper | 3,075,416
 28 | IveDoneItAtLast | 3,040,621
 29 | ZukoBih | 2,776,628
@@ -37,10 +37,10 @@ Rank | Username | Totals Tips
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,098,159
-37 | transfermymoons | 2,085,421
-38 | possibili-teas | 2,079,352
+37 | possibili-teas | 2,089,352
+38 | transfermymoons | 2,085,421
 39 | ImAlekBan | 1,986,669
-40 | thom_orrow | 1,874,611
+40 | thom_orrow | 1,875,871
 41 | GooderZBK | 1,613,996
 42 | cutsickass | 1,609,660
 43 | GuyOne | 1,573,636
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | martymartinator | 152,560
 176 | NotFullyTerrestrial | 150,694
 177 | CoverYourMaskHoles | 149,056
-178 | beastlybaker | 147,740
+178 | beastlybaker | 147,809
 179 | YarOldeOrchard | 147,662
 180 | Obi1eyeKenobi | 145,380
 181 | Sad_Entertainer9961 | 143,248
