@@ -1,4 +1,4 @@
-Last updated: 23-08-15 10:26:48 UTC  
+Last updated: 23-08-15 10:35:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -6,10 +6,10 @@ Rank | Username | Totals Tips
 3 | Bitdream200K | 25,110,328
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 18,393,276
-6 | ConeDesk | 15,174,889
+6 | ConeDesk | 15,175,497
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
-9 | crypto_grandma | 10,855,997
+9 | crypto_grandma | 10,860,997
 10 | SammyCraigar | 8,093,831
 11 | Homeslicekilla | 7,953,728
 12 | Geniuskills | 5,881,208
@@ -475,9 +475,9 @@ Rank | Username | Totals Tips
 472 | norjayy | 12,653
 473 | FixFull | 12,501
 474 | noah1754 | 12,435
-475 | Hactar_42 | 12,412
-476 | wesleylyan | 12,257
-477 | Lillica_Golden_SHIB | 12,140
+475 | Lillica_Golden_SHIB | 12,416
+476 | Hactar_42 | 12,412
+477 | wesleylyan | 12,257
 478 | Weezthajuice | 12,007
 479 | gnarlypoop | 11,924
 480 | Matth3w_95 | 11,820
