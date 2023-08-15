@@ -1,4 +1,4 @@
-Last updated: 23-08-15 09:30:52 UTC  
+Last updated: 23-08-15 09:40:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -36,9 +36,9 @@ Rank | Username | Totals Tips
 33 | Mean_Bandicoot_7481 | 2,355,349
 34 | waterhasnocalories | 2,149,165
 35 | Dry_Badger_2403 | 2,130,000
-36 | Autom4tic_Soze | 2,095,496
+36 | Autom4tic_Soze | 2,098,159
 37 | transfermymoons | 2,085,421
-38 | possibili-teas | 2,049,352
+38 | possibili-teas | 2,078,352
 39 | ImAlekBan | 1,985,938
 40 | thom_orrow | 1,870,268
 41 | GooderZBK | 1,613,996
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | Feetfailmenot | 913,375
 62 | Modestexcuse | 903,684
 63 | thee_monster | 896,765
-64 | _ships | 882,609
+64 | _ships | 885,272
 65 | 0-Give-a-fucks | 869,296
 66 | CluelessSurvivor | 845,736
 67 | goldyluckinblokchain | 806,385
@@ -92,7 +92,7 @@ Rank | Username | Totals Tips
 89 | ID404_Not_Found_8964 | 511,514
 90 | ValiantJudge29500 | 510,529
 91 | f0n1xr131ng | 499,261
-92 | MorrisBrett514 | 487,149
+92 | MorrisBrett514 | 487,218
 93 | UniversalNoobMaster | 471,407
 94 | djrcollectables | 467,592
 95 | sinlesco | 462,490
@@ -798,16 +798,16 @@ Rank | Username | Totals Tips
 795 | Mysterious-Heart-459 | 696
 796 | TheNano100 | 696
 797 | daigsischt | 696
-798 | Indisciplinato | 677
-799 | Troll_humper | 665
-800 | pelaguras | 627
-801 | Avatar_Degen | 627
-802 | astro_nut_ | 627
-803 | QualcunoCF | 620
-804 | iiCollinHD | 608
-805 | mondaymoderate | 608
-806 | barbiescorvette | 608
-807 | jamjam794 | 608
+798 | jamjam794 | 677
+799 | Indisciplinato | 677
+800 | Troll_humper | 665
+801 | pelaguras | 627
+802 | Avatar_Degen | 627
+803 | astro_nut_ | 627
+804 | QualcunoCF | 620
+805 | iiCollinHD | 608
+806 | mondaymoderate | 608
+807 | barbiescorvette | 608
 808 | eskimojerk | 606
 809 | Professer__ | 558
 810 | glouglas | 558
