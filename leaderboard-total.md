@@ -1,4 +1,4 @@
-Last updated: 23-08-15 08:34:55 UTC  
+Last updated: 23-08-15 08:43:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -9,12 +9,12 @@ Rank | Username | Totals Tips
 6 | ConeDesk | 15,174,889
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
-9 | crypto_grandma | 10,846,797
+9 | crypto_grandma | 10,855,997
 10 | SammyCraigar | 8,091,168
 11 | Homeslicekilla | 7,953,728
 12 | Geniuskills | 5,881,208
 13 | avyun | 5,714,264
-14 | Real_Player_0 | 5,527,614
+14 | Real_Player_0 | 5,528,222
 15 | HippieStarTraveler | 4,594,477
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
@@ -127,8 +127,8 @@ Rank | Username | Totals Tips
 124 | SpookySYN | 290,007
 125 | maxfra | 276,796
 126 | deedopete | 275,962
-127 | x52x | 274,360
-128 | crodbtc | 267,139
+127 | crodbtc | 275,128
+128 | x52x | 274,360
 129 | thecrabdad | 256,177
 130 | Ambitious-Minimum-80 | 252,035
 131 | Sattack4000 | 250,837
@@ -683,9 +683,9 @@ Rank | Username | Totals Tips
 680 | birdstream | 2,427
 681 | Poutcheki | 2,420
 682 | That_Youth2223 | 2,414
-683 | MrD_12 | 2,376
-684 | SpySeaRamen | 2,340
-685 | FalloutAssasin | 2,308
+683 | FalloutAssasin | 2,377
+684 | MrD_12 | 2,376
+685 | SpySeaRamen | 2,340
 686 | bonneatoutfaire | 2,303
 687 | exclaim_bot | 2,280
 688 | Far_Movie_6595 | 2,248
