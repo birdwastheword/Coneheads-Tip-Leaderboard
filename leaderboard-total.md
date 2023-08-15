@@ -1,11 +1,11 @@
-Last updated: 23-08-15 22:32:31 UTC  
+Last updated: 23-08-15 22:40:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,279,953
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 19,583,790
+5 | nakamo-toe | 19,607,021
 6 | ConeDesk | 15,349,275
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | redzrex | 3,672,804
 21 | VIVOffical | 3,657,701
 22 | Ginomania | 3,439,855
-23 | clean_cut89 | 3,377,291
+23 | clean_cut89 | 3,377,560
 24 | rustyybikes | 3,320,757
 25 | Puddin-Luv | 3,173,523
 26 | birdwastheword | 3,168,290
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,622,817
 31 | _Royal_Insylum | 2,603,787
 32 | send420nudes | 2,446,179
-33 | Mean_Bandicoot_7481 | 2,409,783
+33 | Mean_Bandicoot_7481 | 2,413,445
 34 | waterhasnocalories | 2,161,134
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,098,159
@@ -102,14 +102,14 @@ Rank | Username | Totals Tips
 99 | WarmlyWacky | 462,118
 100 | MediaPrestigious8342 | 453,839
 101 | unhingedbigfoot | 439,874
-102 | adrifing | 438,505
-103 | Mopeiooo | 427,266
-104 | StepAsideSuckers | 425,614
-105 | dronegeeks1 | 414,406
-106 | Lady_Lucks_Man | 409,953
-107 | LrnFaroeseWthBergur | 409,488
-108 | junkwatch | 408,642
-109 | Westy3000 | 406,209
+102 | Westy3000 | 439,542
+103 | adrifing | 438,505
+104 | Mopeiooo | 427,266
+105 | StepAsideSuckers | 425,614
+106 | dronegeeks1 | 414,406
+107 | Lady_Lucks_Man | 409,953
+108 | LrnFaroeseWthBergur | 409,488
+109 | junkwatch | 408,642
 110 | Fenrir-1919 | 399,438
 111 | zenhodl | 374,566
 112 | RazPie | 371,328
@@ -127,7 +127,7 @@ Rank | Username | Totals Tips
 124 | Tinman_ApE | 299,499
 125 | Crypto-4-Freedom | 299,001
 126 | VincentVanGTFO | 297,935
-127 | SpookySYN | 296,769
+127 | SpookySYN | 297,683
 128 | virmamies | 291,804
 129 | maxfra | 276,796
 130 | deedopete | 276,739
@@ -189,7 +189,7 @@ Rank | Username | Totals Tips
 186 | MymannosaurusRex | 141,317
 187 | SalliIsAFem | 140,361
 188 | luisantonio197 | 139,511
-189 | DogSpark84 | 137,807
+189 | DogSpark84 | 138,613
 190 | GrowinStuffAndThings | 137,461
 191 | Outrageous-Ad8481 | 137,001
 192 | 002_timmy | 136,711
@@ -981,3 +981,4 @@ Rank | Username | Totals Tips
 978 | Skull0 | 1
 979 | mango9574 | 1
 980 | Park_With_No_S | 1
+981 | S2K08 | 0
