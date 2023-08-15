@@ -1,4 +1,4 @@
-Last updated: 23-08-15 19:24:23 UTC  
+Last updated: 23-08-15 19:33:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,494
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | investigator100 | 977,016
 57 | EvanIsBacon | 970,416
 58 | saintajoras | 966,177
-59 | Richicash | 924,207
+59 | Richicash | 926,870
 60 | freechickens | 915,654
 61 | Feetfailmenot | 913,375
 62 | Modestexcuse | 903,684
@@ -629,14 +629,14 @@ Rank | Username | Totals Tips
 626 | nathanroberts14 | 4,000
 627 | Soil_Electronic | 3,975
 628 | Dreadaussie | 3,920
-629 | Glitzxc | 3,779
-630 | carsonthecarsinogen | 3,769
-631 | salt_yaf | 3,706
-632 | abbasabba260 | 3,663
-633 | IHodlStill | 3,641
-634 | Gelato_33 | 3,628
-635 | NEO_R1CH | 3,451
-636 | FluffyAspie | 3,423
+629 | FluffyAspie | 3,843
+630 | Glitzxc | 3,779
+631 | carsonthecarsinogen | 3,769
+632 | salt_yaf | 3,706
+633 | abbasabba260 | 3,663
+634 | IHodlStill | 3,641
+635 | Gelato_33 | 3,628
+636 | NEO_R1CH | 3,451
 637 | Mrcoolguynumberone | 3,420
 638 | cannainform2 | 3,401
 639 | n1ghsthade | 3,378
