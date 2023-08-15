@@ -1,4 +1,4 @@
-Last updated: 23-08-15 11:31:38 UTC  
+Last updated: 23-08-15 11:40:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | redzrex | 3,672,804
 21 | VIVOffical | 3,657,701
 22 | Ginomania | 3,439,855
-23 | clean_cut89 | 3,370,880
+23 | clean_cut89 | 3,372,463
 24 | rustyybikes | 3,320,757
 25 | birdwastheword | 3,168,290
 26 | Puddin-Luv | 3,161,161
@@ -169,8 +169,8 @@ Rank | Username | Totals Tips
 166 | Street_Addd | 171,939
 167 | dinoyeti | 170,396
 168 | Gregoryonetulum | 168,509
-169 | dopelifer09 | 165,569
-170 | Conetent | 163,553
+169 | Conetent | 165,876
+170 | dopelifer09 | 165,569
 171 | high5s_inureye | 158,979
 172 | ShortBusCult | 157,648
 173 | the_judge_168 | 154,250
