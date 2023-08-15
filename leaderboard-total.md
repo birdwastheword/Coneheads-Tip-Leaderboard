@@ -1,4 +1,4 @@
-Last updated: 23-08-15 08:43:04 UTC  
+Last updated: 23-08-15 08:51:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -125,9 +125,9 @@ Rank | Username | Totals Tips
 122 | VincentVanGTFO | 297,935
 123 | virmamies | 291,804
 124 | SpookySYN | 290,007
-125 | maxfra | 276,796
-126 | deedopete | 275,962
-127 | crodbtc | 275,128
+125 | crodbtc | 277,791
+126 | maxfra | 276,796
+127 | deedopete | 275,962
 128 | x52x | 274,360
 129 | thecrabdad | 256,177
 130 | Ambitious-Minimum-80 | 252,035
