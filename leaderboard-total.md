@@ -1,11 +1,11 @@
-Last updated: 23-08-15 20:40:38 UTC  
+Last updated: 23-08-15 20:51:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,494
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,160,654
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 18,922,136
+5 | nakamo-toe | 19,350,125
 6 | ConeDesk | 15,349,275
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | Geniuskills | 5,881,208
 13 | avyun | 5,765,125
 14 | Real_Player_0 | 5,536,211
-15 | HippieStarTraveler | 4,594,477
+15 | HippieStarTraveler | 4,594,897
 16 | rikbona | 4,535,475
 17 | bigbilly1234567899 | 4,392,551
 18 | thelonliestcrowd | 4,188,305
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | rustyybikes | 3,320,757
 25 | Puddin-Luv | 3,170,860
 26 | birdwastheword | 3,168,290
-27 | LuminousViper | 3,075,416
+27 | LuminousViper | 3,078,079
 28 | IveDoneItAtLast | 3,066,634
 29 | ZukoBih | 2,776,628
 30 | ashinamune | 2,622,817
@@ -126,11 +126,11 @@ Rank | Username | Totals Tips
 123 | Crypto-4-Freedom | 299,001
 124 | Tinman_ApE | 298,891
 125 | VincentVanGTFO | 297,935
-126 | crodbtc | 293,769
+126 | crodbtc | 296,432
 127 | SpookySYN | 293,598
 128 | virmamies | 291,804
 129 | maxfra | 276,796
-130 | deedopete | 275,962
+130 | deedopete | 276,739
 131 | x52x | 274,360
 132 | thecrabdad | 256,177
 133 | Ambitious-Minimum-80 | 252,035
@@ -153,7 +153,7 @@ Rank | Username | Totals Tips
 150 | Beenthorny | 212,362
 151 | SigSalvadore | 212,358
 152 | send_tacoz | 210,707
-153 | beastlybaker | 208,745
+153 | beastlybaker | 209,347
 154 | legionticket | 206,762
 155 | noface_reddit | 204,271
 156 | ziggyback | 203,369
