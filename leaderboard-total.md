@@ -1,4 +1,4 @@
-Last updated: 23-08-15 09:40:49 UTC  
+Last updated: 23-08-15 09:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
@@ -25,7 +25,7 @@ Rank | Username | Totals Tips
 22 | Ginomania | 3,439,855
 23 | clean_cut89 | 3,370,880
 24 | rustyybikes | 3,320,757
-25 | birdwastheword | 3,165,627
+25 | birdwastheword | 3,168,290
 26 | Puddin-Luv | 3,161,161
 27 | LuminousViper | 3,075,416
 28 | IveDoneItAtLast | 3,008,625
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,098,159
 37 | transfermymoons | 2,085,421
-38 | possibili-teas | 2,078,352
+38 | possibili-teas | 2,079,352
 39 | ImAlekBan | 1,985,938
 40 | thom_orrow | 1,870,268
 41 | GooderZBK | 1,613,996
@@ -791,14 +791,14 @@ Rank | Username | Totals Tips
 788 | mihii12 | 834
 789 | Yegpetphoto | 825
 790 | brymezHD | 769
-791 | Ge_n0 | 729
-792 | SufficientNet9227 | 711
-793 | o_LUCIFER_o | 709
-794 | pizza-chit | 696
-795 | Mysterious-Heart-459 | 696
-796 | TheNano100 | 696
-797 | daigsischt | 696
-798 | jamjam794 | 677
+791 | jamjam794 | 746
+792 | Ge_n0 | 729
+793 | SufficientNet9227 | 711
+794 | o_LUCIFER_o | 709
+795 | pizza-chit | 696
+796 | Mysterious-Heart-459 | 696
+797 | TheNano100 | 696
+798 | daigsischt | 696
 799 | Indisciplinato | 677
 800 | Troll_humper | 665
 801 | pelaguras | 627
