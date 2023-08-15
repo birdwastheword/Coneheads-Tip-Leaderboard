@@ -1,11 +1,11 @@
-Last updated: 23-08-15 20:51:01 UTC  
+Last updated: 23-08-15 21:16:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Wonderful_Bad6531 | 28,373,494
+1 | Wonderful_Bad6531 | 28,373,914
 2 | Jeff5704 | 27,591,812
-3 | Bitdream200K | 25,160,654
+3 | Bitdream200K | 25,169,953
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 19,350,125
+5 | nakamo-toe | 19,383,620
 6 | ConeDesk | 15,349,275
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -33,14 +33,14 @@ Rank | Username | Totals Tips
 30 | ashinamune | 2,622,817
 31 | _Royal_Insylum | 2,603,787
 32 | send420nudes | 2,446,179
-33 | Mean_Bandicoot_7481 | 2,402,174
+33 | Mean_Bandicoot_7481 | 2,404,837
 34 | waterhasnocalories | 2,161,134
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,098,159
 37 | possibili-teas | 2,092,352
 38 | transfermymoons | 2,085,421
-39 | ImAlekBan | 1,989,332
-40 | cutsickass | 1,979,986
+39 | cutsickass | 2,039,986
+40 | ImAlekBan | 1,989,332
 41 | thom_orrow | 1,876,636
 42 | GooderZBK | 1,613,996
 43 | GuyOne | 1,573,636
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | CluelessSurvivor | 845,736
 67 | goldyluckinblokchain | 806,385
 68 | ziggybri | 781,826
-69 | Forward_Today2849 | 748,880
+69 | Forward_Today2849 | 751,543
 70 | dealkhabari | 720,300
 71 | starterpack420694 | 710,420
 72 | WarmIyWacky | 703,049
@@ -80,7 +80,7 @@ Rank | Username | Totals Tips
 77 | piebagz | 661,815
 78 | frickdom | 647,705
 79 | femacampcouncilor | 642,812
-80 | billywright4 | 623,256
+80 | billywright4 | 630,833
 81 | slirpo | 620,888
 82 | firstmatedotxyz | 598,580
 83 | __PDS__ | 595,709
@@ -91,7 +91,7 @@ Rank | Username | Totals Tips
 88 | Due_Insurance8159 | 546,497
 89 | RegalReptile_ | 534,357
 90 | evilninjarobot | 532,915
-91 | UniversalNoobMaster | 529,352
+91 | UniversalNoobMaster | 529,772
 92 | shreyaskg | 523,791
 93 | ID404_Not_Found_8964 | 511,514
 94 | ValiantJudge29500 | 510,529
@@ -153,7 +153,7 @@ Rank | Username | Totals Tips
 150 | Beenthorny | 212,362
 151 | SigSalvadore | 212,358
 152 | send_tacoz | 210,707
-153 | beastlybaker | 209,347
+153 | beastlybaker | 209,416
 154 | legionticket | 206,762
 155 | noface_reddit | 204,271
 156 | ziggyback | 203,369
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | dinoyeti | 170,396
 171 | Conetent | 169,147
 172 | Gregoryonetulum | 168,509
-173 | dopelifer09 | 165,569
+173 | dopelifer09 | 168,232
 174 | high5s_inureye | 158,979
 175 | ShortBusCult | 157,648
 176 | the_judge_168 | 154,250
@@ -339,8 +339,8 @@ Rank | Username | Totals Tips
 336 | zuzieey7719 | 33,947
 337 | LX1070 | 33,854
 338 | Obvious-Ask-5747 | 33,806
-339 | Gerboogler | 33,314
-340 | Burzzzt88 | 33,276
+339 | Burzzzt88 | 33,696
+340 | Gerboogler | 33,314
 341 | xxapplej4ckx | 33,181
 342 | himthecool21 | 32,647
 343 | Steadfast_Apparition | 32,437
