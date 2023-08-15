@@ -1,15 +1,15 @@
-Last updated: 23-08-15 02:25:52 UTC  
+Last updated: 23-08-15 02:35:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,370,323
 2 | Jeff5704 | 27,589,149
 3 | Bitdream200K | 25,027,580
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 18,082,953
+5 | nakamo-toe | 18,085,616
 6 | ConeDesk | 15,174,889
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
-9 | crypto_grandma | 10,830,251
+9 | crypto_grandma | 10,832,574
 10 | SammyCraigar | 8,091,168
 11 | Homeslicekilla | 7,953,728
 12 | Geniuskills | 5,874,239
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | redzrex | 3,672,804
 21 | VIVOffical | 3,657,701
 22 | Ginomania | 3,439,855
-23 | clean_cut89 | 3,370,411
+23 | clean_cut89 | 3,370,880
 24 | rustyybikes | 3,320,757
 25 | birdwastheword | 3,159,881
 26 | Puddin-Luv | 3,158,498
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | swampyswede | 1,385,851
 47 | Ten-Mins-Late | 1,370,010
 48 | LordBobTheWhale | 1,284,514
-49 | DontLaughArt | 1,192,428
+49 | DontLaughArt | 1,195,091
 50 | HestiaIsTheBestia | 1,188,043
 51 | zdubs | 1,125,934
 52 | catlover-100 | 1,110,627
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | Modestexcuse | 903,684
 63 | thee_monster | 896,765
 64 | _ships | 878,918
-65 | 0-Give-a-fucks | 866,633
+65 | 0-Give-a-fucks | 869,296
 66 | CluelessSurvivor | 845,736
 67 | goldyluckinblokchain | 806,385
 68 | ziggybri | 781,826
@@ -124,12 +124,12 @@ Rank | Username | Totals Tips
 121 | Tinman_ApE | 298,891
 122 | VincentVanGTFO | 297,935
 123 | virmamies | 291,804
-124 | SpookySYN | 288,471
+124 | SpookySYN | 289,079
 125 | maxfra | 276,796
-126 | x52x | 274,360
-127 | crodbtc | 264,476
-128 | thecrabdad | 256,177
-129 | deedopete | 255,962
+126 | deedopete | 275,962
+127 | x52x | 274,360
+128 | crodbtc | 264,476
+129 | thecrabdad | 256,177
 130 | Ambitious-Minimum-80 | 252,035
 131 | Sattack4000 | 250,837
 132 | scientifichistorian | 240,128
@@ -570,14 +570,14 @@ Rank | Username | Totals Tips
 567 | ReasonReasonable7168 | 6,357
 568 | Dapper_Bloke88 | 6,238
 569 | Schwoanz | 6,219
-570 | dozebull | 6,043
-571 | kanem87 | 6,035
-572 | DrunkDoge420 | 6,000
-573 | forceworks | 5,998
-574 | SecretSuch420 | 5,981
-575 | theindoshow | 5,968
-576 | theBarefootedBastard | 5,896
-577 | Nugacity5 | 5,736
+570 | Nugacity5 | 6,156
+571 | dozebull | 6,043
+572 | kanem87 | 6,035
+573 | DrunkDoge420 | 6,000
+574 | forceworks | 5,998
+575 | SecretSuch420 | 5,981
+576 | theindoshow | 5,968
+577 | theBarefootedBastard | 5,896
 578 | aPandox | 5,695
 579 | stspts | 5,642
 580 | Makaveli4Sheez | 5,569
