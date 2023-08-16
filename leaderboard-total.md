@@ -1,11 +1,11 @@
-Last updated: 23-08-16 19:23:36 UTC  
+Last updated: 23-08-16 19:32:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,355,787
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 20,504,760
+5 | nakamo-toe | 20,515,503
 6 | ConeDesk | 15,570,382
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,067,014
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | redzrex | 3,675,467
 22 | VIVOffical | 3,658,507
 23 | birdwastheword | 3,471,954
-24 | Ginomania | 3,440,275
+24 | Ginomania | 3,442,938
 25 | waterhasnocalories | 3,413,053
 26 | clean_cut89 | 3,377,629
 27 | rustyybikes | 3,320,757
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | _Royal_Insylum | 2,603,787
 33 | send420nudes | 2,450,448
 34 | Mean_Bandicoot_7481 | 2,449,184
-35 | cutsickass | 2,279,986
+35 | cutsickass | 2,299,986
 36 | Dry_Badger_2403 | 2,130,000
 37 | GuyOne | 2,126,299
 38 | possibili-teas | 2,105,852
@@ -94,9 +94,9 @@ Rank | Username | Totals Tips
 91 | Due_Insurance8159 | 546,497
 92 | UniversalNoobMaster | 539,772
 93 | RegalReptile_ | 534,357
-94 | shreyaskg | 523,791
-95 | ID404_Not_Found_8964 | 511,514
-96 | djrcollectables | 507,607
+94 | djrcollectables | 534,237
+95 | shreyaskg | 523,791
+96 | ID404_Not_Found_8964 | 511,514
 97 | f0n1xr131ng | 499,681
 98 | MorrisBrett514 | 488,058
 99 | Westy3000 | 468,498
@@ -342,18 +342,18 @@ Rank | Username | Totals Tips
 339 | mastermarvs | 35,384
 340 | degree-01 | 35,225
 341 | Clonkerz | 34,840
-342 | Burzzzt88 | 34,185
-343 | zuzieey7719 | 33,947
-344 | LX1070 | 33,855
-345 | Obvious-Ask-5747 | 33,806
-346 | Gerboogler | 33,314
-347 | xxapplej4ckx | 33,181
-348 | himthecool21 | 32,647
-349 | abbasabba2 | 32,647
-350 | Steadfast_Apparition | 32,437
-351 | n00b1shm4n | 32,159
-352 | Originalibb | 32,157
-353 | tmanfromEarth | 32,057
+342 | tmanfromEarth | 34,720
+343 | Burzzzt88 | 34,185
+344 | zuzieey7719 | 33,947
+345 | LX1070 | 33,855
+346 | Obvious-Ask-5747 | 33,806
+347 | Gerboogler | 33,314
+348 | xxapplej4ckx | 33,181
+349 | himthecool21 | 32,647
+350 | abbasabba2 | 32,647
+351 | Steadfast_Apparition | 32,437
+352 | n00b1shm4n | 32,159
+353 | Originalibb | 32,157
 354 | Doovs | 31,967
 355 | bakerdawg555 | 31,890
 356 | OutTop | 31,069
