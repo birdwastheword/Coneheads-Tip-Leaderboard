@@ -1,11 +1,11 @@
-Last updated: 23-08-16 15:40:50 UTC  
+Last updated: 23-08-16 15:50:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,279,953
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 20,206,287
+5 | nakamo-toe | 20,232,917
 6 | ConeDesk | 15,364,098
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -117,7 +117,7 @@ Rank | Username | Totals Tips
 114 | formidable-opponent | 370,342
 115 | hellosamaira | 367,489
 116 | farmertypoerror | 359,212
-117 | scientifichistorian | 350,780
+117 | scientifichistorian | 353,443
 118 | AustinTX1985 | 343,863
 119 | tsudrat | 340,707
 120 | doktastonks | 333,862
@@ -300,7 +300,7 @@ Rank | Username | Totals Tips
 297 | pwan7505 | 44,600
 298 | Kilv3r | 44,021
 299 | Coneboy2663 | 43,852
-300 | AhhhUhmmm | 43,725
+300 | AhhhUhmmm | 43,794
 301 | RiightYouKnow | 43,329
 302 | AnduriII | 43,175
 303 | CHEROKEEJ4CK | 42,489
@@ -724,14 +724,14 @@ Rank | Username | Totals Tips
 721 | Zues6921 | 1,627
 722 | MalicCarnage | 1,607
 723 | Interesting-Chip-500 | 1,559
-724 | Ask_Ari | 1,544
-725 | KantoRegionChampRed | 1,536
-726 | XenonXTR | 1,517
-727 | adamdmn | 1,490
-728 | XBBlade | 1,489
-729 | WhiteMoss_ | 1,488
-730 | Doublix | 1,470
-731 | Zezano | 1,450
+724 | Zezano | 1,546
+725 | Ask_Ari | 1,544
+726 | KantoRegionChampRed | 1,536
+727 | XenonXTR | 1,517
+728 | adamdmn | 1,490
+729 | XBBlade | 1,489
+730 | WhiteMoss_ | 1,488
+731 | Doublix | 1,470
 732 | SinTron99 | 1,448
 733 | Prodigyyyyyy | 1,432
 734 | mkultrahigh | 1,415
