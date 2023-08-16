@@ -1,4 +1,4 @@
-Last updated: 23-08-16 15:30:58 UTC  
+Last updated: 23-08-16 15:40:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | _Royal_Insylum | 2,603,787
 32 | Mean_Bandicoot_7481 | 2,449,184
 33 | send420nudes | 2,446,179
-34 | cutsickass | 2,219,986
+34 | cutsickass | 2,279,986
 35 | waterhasnocalories | 2,161,134
 36 | Dry_Badger_2403 | 2,130,000
 37 | possibili-teas | 2,105,852
@@ -179,7 +179,7 @@ Rank | Username | Totals Tips
 176 | Gregoryonetulum | 168,509
 177 | dopelifer09 | 168,232
 178 | ashketchup422 | 160,204
-179 | high5s_inureye | 158,979
+179 | high5s_inureye | 159,399
 180 | ShortBusCult | 157,648
 181 | YarOldeOrchard | 154,631
 182 | the_judge_168 | 154,250
@@ -203,8 +203,8 @@ Rank | Username | Totals Tips
 200 | DAMG808 | 129,442
 201 | Awake-- | 128,173
 202 | CalligrapherEnough83 | 127,227
-203 | sjakkpila | 127,031
-204 | MelonFarmer420 | 126,767
+203 | MelonFarmer420 | 127,187
+204 | sjakkpila | 127,031
 205 | stupidcupid112 | 121,001
 206 | Mj_6o4 | 120,680
 207 | Schl0tz | 120,000
@@ -731,11 +731,11 @@ Rank | Username | Totals Tips
 728 | XBBlade | 1,489
 729 | WhiteMoss_ | 1,488
 730 | Doublix | 1,470
-731 | SinTron99 | 1,448
-732 | Prodigyyyyyy | 1,432
-733 | mkultrahigh | 1,415
-734 | Silence-Samurai8357 | 1,385
-735 | Zezano | 1,381
+731 | Zezano | 1,450
+732 | SinTron99 | 1,448
+733 | Prodigyyyyyy | 1,432
+734 | mkultrahigh | 1,415
+735 | Silence-Samurai8357 | 1,385
 736 | VGarK | 1,337
 737 | _swnt_ | 1,337
 738 | Elgato_TJ | 1,311
