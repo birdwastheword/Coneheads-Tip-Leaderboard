@@ -1,4 +1,4 @@
-Last updated: 23-08-16 23:30:39 UTC  
+Last updated: 23-08-16 23:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
@@ -141,7 +141,7 @@ Rank | Username | Totals Tips
 138 | Ambitious-Minimum-80 | 252,035
 139 | Sattack4000 | 250,837
 140 | Dripbot8 | 245,384
-141 | Lion-Hermit | 240,320
+141 | Lion-Hermit | 241,320
 142 | Zalkwalker | 235,069
 143 | isthistomorrow_ | 233,671
 144 | MisterM0H0 | 227,708
@@ -533,8 +533,8 @@ Rank | Username | Totals Tips
 530 | Shraier | 9,103
 531 | Otherwise_Assist_34 | 9,083
 532 | 69BoJack69 | 9,003
-533 | Duckeis | 8,873
-534 | allisonovo | 8,849
+533 | allisonovo | 8,899
+534 | Duckeis | 8,873
 535 | Chill_Edoeard | 8,623
 536 | BreadfruitIll4265 | 8,608
 537 | J-_Mad | 8,540
