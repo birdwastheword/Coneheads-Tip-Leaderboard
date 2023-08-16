@@ -1,4 +1,4 @@
-Last updated: 23-08-16 23:18:43 UTC  
+Last updated: 23-08-16 23:30:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,122,013
 9 | crypto_grandma | 10,881,235
-10 | SammyCraigar | 8,123,166
+10 | SammyCraigar | 8,149,796
 11 | Homeslicekilla | 7,953,728
 12 | Geniuskills | 6,089,119
 13 | avyun | 5,829,140
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | ashinamune | 4,628,324
 17 | rikbona | 4,535,475
 18 | bigbilly1234567899 | 4,496,042
-19 | thelonliestcrowd | 4,206,416
+19 | thelonliestcrowd | 4,206,836
 20 | ArtConsitent | 3,682,278
 21 | redzrex | 3,675,467
 22 | VIVOffical | 3,658,507
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | rustyybikes | 3,320,757
 28 | LuminousViper | 3,297,665
 29 | Puddin-Luv | 3,240,336
-30 | IveDoneItAtLast | 3,119,546
+30 | IveDoneItAtLast | 3,122,209
 31 | ZukoBih | 3,082,463
 32 | _Royal_Insylum | 2,603,787
 33 | Mean_Bandicoot_7481 | 2,475,785
@@ -197,9 +197,9 @@ Rank | Username | Totals Tips
 194 | MymannosaurusRex | 141,317
 195 | SalliIsAFem | 140,361
 196 | luisantonio197 | 139,511
-197 | DogSpark84 | 138,613
-198 | GrowinStuffAndThings | 137,461
-199 | DAMG808 | 137,431
+197 | DAMG808 | 138,647
+198 | DogSpark84 | 138,613
+199 | GrowinStuffAndThings | 137,461
 200 | Outrageous-Ad8481 | 137,001
 201 | 002_timmy | 136,711
 202 | DamnWhySoLow | 134,733
@@ -415,22 +415,22 @@ Rank | Username | Totals Tips
 412 | ikiyen | 21,000
 413 | deezirae | 20,969
 414 | Expensive_Being_4038 | 20,558
-415 | -Boxen | 20,420
-416 | DLPD-Camko | 20,377
-417 | RamboBalboa21 | 20,083
-418 | NoahG59 | 20,002
-419 | PassiveRoadRage | 20,000
-420 | maliplazi | 20,000
-421 | PsLJdogg | 19,975
-422 | Fictional_Blook | 19,873
-423 | hey_barry | 19,847
-424 | AMAxyz | 19,775
-425 | Iiwip | 19,533
-426 | MalarkyD | 19,527
-427 | lookwhatumademedoo | 19,090
-428 | ___MOM___ | 18,853
-429 | Collectibl3 | 18,024
-430 | sicilian2124 | 17,877
+415 | sicilian2124 | 20,540
+416 | -Boxen | 20,420
+417 | DLPD-Camko | 20,377
+418 | RamboBalboa21 | 20,083
+419 | NoahG59 | 20,002
+420 | PassiveRoadRage | 20,000
+421 | maliplazi | 20,000
+422 | PsLJdogg | 19,975
+423 | Fictional_Blook | 19,873
+424 | hey_barry | 19,847
+425 | AMAxyz | 19,775
+426 | Iiwip | 19,533
+427 | MalarkyD | 19,527
+428 | lookwhatumademedoo | 19,090
+429 | ___MOM___ | 18,853
+430 | Collectibl3 | 18,024
 431 | kwickle | 17,835
 432 | augustsIippedaway | 17,739
 433 | omfglauren | 17,676
