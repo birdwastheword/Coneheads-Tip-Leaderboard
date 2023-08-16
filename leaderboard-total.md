@@ -1,14 +1,14 @@
-Last updated: 23-08-16 18:26:33 UTC  
+Last updated: 23-08-16 18:35:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,355,787
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 20,446,174
+5 | nakamo-toe | 20,472,804
 6 | ConeDesk | 15,570,382
 7 | HODL-THE-LINE | 11,900,100
-8 | Parush9 | 11,052,014
+8 | Parush9 | 11,067,014
 9 | crypto_grandma | 10,881,235
 10 | SammyCraigar | 8,120,461
 11 | Homeslicekilla | 7,953,728
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | Autom4tic_Soze | 2,098,159
 40 | transfermymoons | 2,085,421
 41 | ImAlekBan | 1,989,332
-42 | thom_orrow | 1,876,636
+42 | thom_orrow | 1,876,637
 43 | GooderZBK | 1,613,996
 44 | Affectionate_Hand_76 | 1,485,184
 45 | swampyswede | 1,441,774
@@ -128,8 +128,8 @@ Rank | Username | Totals Tips
 125 | EffinDrongoC | 302,738
 126 | crodbtc | 301,758
 127 | Tinman_ApE | 300,107
-128 | Crypto-4-Freedom | 299,002
-129 | SpookySYN | 298,799
+128 | SpookySYN | 299,307
+129 | Crypto-4-Freedom | 299,002
 130 | VincentVanGTFO | 297,935
 131 | virmamies | 291,804
 132 | maxfra | 276,796
