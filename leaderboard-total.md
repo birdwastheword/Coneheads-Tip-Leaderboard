@@ -1,11 +1,11 @@
-Last updated: 23-08-16 02:35:31 UTC  
+Last updated: 23-08-16 02:43:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,279,953
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 19,964,403
+5 | nakamo-toe | 20,017,663
 6 | ConeDesk | 15,351,938
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
