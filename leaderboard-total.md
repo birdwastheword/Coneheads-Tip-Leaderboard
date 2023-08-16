@@ -1,4 +1,4 @@
-Last updated: 23-08-16 21:00:57 UTC  
+Last updated: 23-08-16 21:17:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
@@ -23,19 +23,19 @@ Rank | Username | Totals Tips
 20 | ArtConsitent | 3,682,278
 21 | redzrex | 3,675,467
 22 | VIVOffical | 3,658,507
-23 | birdwastheword | 3,471,954
+23 | birdwastheword | 3,472,023
 24 | Ginomania | 3,442,938
 25 | waterhasnocalories | 3,413,053
 26 | clean_cut89 | 3,377,629
 27 | rustyybikes | 3,320,757
 28 | Puddin-Luv | 3,237,673
-29 | IveDoneItAtLast | 3,099,417
-30 | ZukoBih | 3,082,463
-31 | LuminousViper | 3,078,079
+29 | LuminousViper | 3,172,919
+30 | IveDoneItAtLast | 3,100,223
+31 | ZukoBih | 3,082,463
 32 | _Royal_Insylum | 2,603,787
 33 | Mean_Bandicoot_7481 | 2,468,476
 34 | send420nudes | 2,450,448
-35 | cutsickass | 2,339,986
+35 | cutsickass | 2,359,986
 36 | LordBobTheWhale | 2,285,122
 37 | Dry_Badger_2403 | 2,130,000
 38 | GuyOne | 2,126,299
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | investigator100 | 977,016
 57 | EvanIsBacon | 970,416
 58 | saintajoras | 966,177
-59 | _ships | 946,319
+59 | _ships | 957,471
 60 | Richicash | 926,870
 61 | freechickens | 915,654
 62 | Feetfailmenot | 913,375
@@ -126,7 +126,7 @@ Rank | Username | Totals Tips
 123 | doktastonks | 333,862
 124 | Mundane-Farm-4117 | 332,850
 125 | SHIFTY-T3RROR | 321,571
-126 | SpookySYN | 308,939
+126 | SpookySYN | 310,475
 127 | liwipe | 304,467
 128 | crodbtc | 304,421
 129 | EffinDrongoC | 302,738
