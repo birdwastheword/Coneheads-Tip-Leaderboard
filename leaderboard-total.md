@@ -1,4 +1,4 @@
-Last updated: 23-08-16 02:26:10 UTC  
+Last updated: 23-08-16 02:35:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Bitdream200K | 25,279,953
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 19,964,403
-6 | ConeDesk | 15,349,275
+6 | ConeDesk | 15,351,938
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
 9 | crypto_grandma | 10,881,235
@@ -32,8 +32,8 @@ Rank | Username | Totals Tips
 29 | ZukoBih | 2,779,291
 30 | ashinamune | 2,622,817
 31 | _Royal_Insylum | 2,603,787
-32 | send420nudes | 2,446,179
-33 | Mean_Bandicoot_7481 | 2,444,673
+32 | Mean_Bandicoot_7481 | 2,447,501
+33 | send420nudes | 2,446,179
 34 | waterhasnocalories | 2,161,134
 35 | Dry_Badger_2403 | 2,130,000
 36 | Autom4tic_Soze | 2,098,159
@@ -51,7 +51,7 @@ Rank | Username | Totals Tips
 48 | DontLaughArt | 1,326,231
 49 | LordBobTheWhale | 1,284,514
 50 | HestiaIsTheBestia | 1,188,043
-51 | zdubs | 1,132,637
+51 | zdubs | 1,133,853
 52 | catlover-100 | 1,110,627
 53 | CMDRGlamdring | 1,102,850
 54 | avatarbot | 1,027,000
@@ -325,12 +325,12 @@ Rank | Username | Totals Tips
 322 | ysnmingle | 38,038
 323 | samer109 | 37,973
 324 | preemcuz | 37,894
-325 | onetrueSage | 37,633
-326 | shitwhenismycakeday | 37,409
-327 | lovenets_ | 37,344
-328 | redditisalt | 37,307
-329 | Allions1 | 37,207
-330 | MadScientistTheFirst | 37,194
+325 | MadScientistTheFirst | 37,802
+326 | onetrueSage | 37,633
+327 | shitwhenismycakeday | 37,409
+328 | lovenets_ | 37,344
+329 | redditisalt | 37,307
+330 | Allions1 | 37,207
 331 | Imalittlestitious86 | 37,090
 332 | KrunchyKushKing | 36,532
 333 | shiesto | 36,505
