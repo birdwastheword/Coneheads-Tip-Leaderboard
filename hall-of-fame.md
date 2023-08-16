@@ -65,5 +65,6 @@ Rank | Date | Username | Totals Tips | to User
 62 | 2023-08-11 16:26:26 | _Royal_Insylum | 1,000,000| Real_Player_0
 63 | 2023-08-12 18:27:25 | avyun | 1,000,000| Jeff5704
 64 | 2023-08-12 18:58:02 | zdubs | 1,000,000| Jeff5704
+65 | 2023-08-16 19:41:03 | LordBobTheWhale | 1,000,000| waterhasnocalories
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
