@@ -1,4 +1,4 @@
-Last updated: 23-08-16 12:49:42 UTC  
+Last updated: 23-08-16 13:24:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
@@ -6,11 +6,11 @@ Rank | Username | Totals Tips
 3 | Bitdream200K | 25,279,953
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 20,145,038
-6 | ConeDesk | 15,358,018
+6 | ConeDesk | 15,364,098
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
 9 | crypto_grandma | 10,881,235
-10 | SammyCraigar | 8,093,831
+10 | SammyCraigar | 8,120,461
 11 | Homeslicekilla | 7,953,728
 12 | Geniuskills | 6,089,119
 13 | avyun | 5,772,094
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | redzrex | 3,672,804
 21 | VIVOffical | 3,658,507
 22 | Ginomania | 3,439,855
-23 | clean_cut89 | 3,377,560
+23 | clean_cut89 | 3,377,629
 24 | rustyybikes | 3,320,757
 25 | Puddin-Luv | 3,176,186
 26 | birdwastheword | 3,168,290
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | goldyluckinblokchain | 806,385
 68 | ziggybri | 781,826
 69 | Forward_Today2849 | 751,543
-70 | dealkhabari | 720,300
+70 | dealkhabari | 722,963
 71 | starterpack420694 | 710,420
 72 | WarmIyWacky | 703,049
 73 | KONGXIANG | 699,416
@@ -786,17 +786,17 @@ Rank | Username | Totals Tips
 783 | learnunlearnlearn | 909
 784 | jamjam794 | 884
 785 | redditavatar555 | 875
-786 | genesis_crazy_one | 844
-787 | Geesle | 840
-788 | Machete521 | 840
-789 | Xanthn | 840
-790 | sM0k3dR4Gn | 840
-791 | iamannonymous27 | 840
-792 | raulcras5 | 839
-793 | panjjang | 834
-794 | mihii12 | 834
-795 | Yegpetphoto | 825
-796 | Zezano | 804
+786 | Zezano | 873
+787 | genesis_crazy_one | 844
+788 | Geesle | 840
+789 | Machete521 | 840
+790 | Xanthn | 840
+791 | sM0k3dR4Gn | 840
+792 | iamannonymous27 | 840
+793 | raulcras5 | 839
+794 | panjjang | 834
+795 | mihii12 | 834
+796 | Yegpetphoto | 825
 797 | brymezHD | 769
 798 | Ge_n0 | 729
 799 | SufficientNet9227 | 711
