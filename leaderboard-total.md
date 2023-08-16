@@ -1,4 +1,4 @@
-Last updated: 23-08-16 18:35:28 UTC  
+Last updated: 23-08-16 18:43:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
@@ -30,16 +30,16 @@ Rank | Username | Totals Tips
 27 | Puddin-Luv | 3,176,795
 28 | IveDoneItAtLast | 3,089,984
 29 | LuminousViper | 3,078,079
-30 | ZukoBih | 2,782,463
-31 | _Royal_Insylum | 2,603,787
-32 | Mean_Bandicoot_7481 | 2,449,184
-33 | send420nudes | 2,446,179
-34 | waterhasnocalories | 2,315,583
+30 | waterhasnocalories | 3,013,053
+31 | ZukoBih | 2,782,463
+32 | _Royal_Insylum | 2,603,787
+33 | send420nudes | 2,450,448
+34 | Mean_Bandicoot_7481 | 2,449,184
 35 | cutsickass | 2,279,986
 36 | Dry_Badger_2403 | 2,130,000
 37 | GuyOne | 2,126,299
 38 | possibili-teas | 2,105,852
-39 | Autom4tic_Soze | 2,098,159
+39 | Autom4tic_Soze | 2,100,822
 40 | transfermymoons | 2,085,421
 41 | ImAlekBan | 1,989,332
 42 | thom_orrow | 1,876,637
@@ -139,7 +139,7 @@ Rank | Username | Totals Tips
 136 | Ambitious-Minimum-80 | 252,035
 137 | Sattack4000 | 250,837
 138 | Dripbot8 | 245,384
-139 | Successful-Walk-3902 | 240,897
+139 | Successful-Walk-3902 | 243,560
 140 | Lion-Hermit | 240,320
 141 | Zalkwalker | 235,069
 142 | isthistomorrow_ | 233,671
