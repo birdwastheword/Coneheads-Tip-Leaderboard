@@ -1,11 +1,11 @@
-Last updated: 23-08-16 03:50:45 UTC  
+Last updated: 23-08-16 04:26:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,279,953
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 20,054,945
+5 | nakamo-toe | 20,145,038
 6 | ConeDesk | 15,358,018
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,052,014
@@ -17,11 +17,11 @@ Rank | Username | Totals Tips
 14 | Real_Player_0 | 5,537,427
 15 | HippieStarTraveler | 4,645,897
 16 | rikbona | 4,535,475
-17 | bigbilly1234567899 | 4,392,551
+17 | bigbilly1234567899 | 4,469,412
 18 | thelonliestcrowd | 4,191,388
 19 | ArtConsitent | 3,682,278
 20 | redzrex | 3,672,804
-21 | VIVOffical | 3,657,701
+21 | VIVOffical | 3,658,507
 22 | Ginomania | 3,439,855
 23 | clean_cut89 | 3,377,560
 24 | rustyybikes | 3,320,757
@@ -34,12 +34,12 @@ Rank | Username | Totals Tips
 31 | _Royal_Insylum | 2,603,787
 32 | Mean_Bandicoot_7481 | 2,447,501
 33 | send420nudes | 2,446,179
-34 | waterhasnocalories | 2,161,134
-35 | Dry_Badger_2403 | 2,130,000
-36 | possibili-teas | 2,105,852
-37 | Autom4tic_Soze | 2,098,159
-38 | transfermymoons | 2,085,421
-39 | cutsickass | 2,039,986
+34 | cutsickass | 2,219,986
+35 | waterhasnocalories | 2,161,134
+36 | Dry_Badger_2403 | 2,130,000
+37 | possibili-teas | 2,105,852
+38 | Autom4tic_Soze | 2,098,159
+39 | transfermymoons | 2,085,421
 40 | ImAlekBan | 1,989,332
 41 | thom_orrow | 1,876,636
 42 | GooderZBK | 1,613,996
