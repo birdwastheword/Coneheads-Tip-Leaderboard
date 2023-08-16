@@ -1,4 +1,4 @@
-Last updated: 23-08-16 03:30:43 UTC  
+Last updated: 23-08-16 03:40:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
@@ -59,10 +59,10 @@ Rank | Username | Totals Tips
 56 | investigator100 | 977,016
 57 | EvanIsBacon | 970,416
 58 | saintajoras | 966,177
-59 | Richicash | 926,870
-60 | freechickens | 915,654
-61 | Feetfailmenot | 913,375
-62 | _ships | 906,844
+59 | _ships | 930,076
+60 | Richicash | 926,870
+61 | freechickens | 915,654
+62 | Feetfailmenot | 913,375
 63 | Modestexcuse | 903,684
 64 | thee_monster | 896,765
 65 | 0-Give-a-fucks | 872,379
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | f0n1xr131ng | 499,261
 96 | djrcollectables | 490,344
 97 | MorrisBrett514 | 488,058
-98 | Westy3000 | 467,387
+98 | Westy3000 | 468,498
 99 | sinlesco | 462,490
 100 | WarmlyWacky | 462,118
 101 | MediaPrestigious8342 | 453,839
