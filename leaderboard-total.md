@@ -1,4 +1,4 @@
-Last updated: 23-08-16 03:20:35 UTC  
+Last updated: 23-08-16 03:30:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
@@ -36,8 +36,8 @@ Rank | Username | Totals Tips
 33 | send420nudes | 2,446,179
 34 | waterhasnocalories | 2,161,134
 35 | Dry_Badger_2403 | 2,130,000
-36 | Autom4tic_Soze | 2,098,159
-37 | possibili-teas | 2,095,352
+36 | possibili-teas | 2,105,852
+37 | Autom4tic_Soze | 2,098,159
 38 | transfermymoons | 2,085,421
 39 | cutsickass | 2,039,986
 40 | ImAlekBan | 1,989,332
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | f0n1xr131ng | 499,261
 96 | djrcollectables | 490,344
 97 | MorrisBrett514 | 488,058
-98 | Westy3000 | 466,276
+98 | Westy3000 | 467,387
 99 | sinlesco | 462,490
 100 | WarmlyWacky | 462,118
 101 | MediaPrestigious8342 | 453,839
@@ -417,22 +417,22 @@ Rank | Username | Totals Tips
 414 | Fictional_Blook | 19,873
 415 | hey_barry | 19,847
 416 | AMAxyz | 19,775
-417 | Iiwip | 19,533
-418 | MalarkyD | 19,527
-419 | lookwhatumademedoo | 19,090
-420 | ___MOM___ | 18,853
-421 | monkeybombed | 18,323
-422 | Collectibl3 | 18,024
-423 | sicilian2124 | 17,877
-424 | kwickle | 17,835
-425 | augustsIippedaway | 17,739
-426 | omfglauren | 17,676
-427 | masterassassin93 | 17,409
-428 | Steves1982 | 17,284
-429 | DramaticProtogen | 17,176
-430 | OutrageousStudy6752 | 17,087
-431 | 1ndy1 | 17,003
-432 | Lastkidpicked94 | 16,969
+417 | Lastkidpicked94 | 19,632
+418 | Iiwip | 19,533
+419 | MalarkyD | 19,527
+420 | lookwhatumademedoo | 19,090
+421 | ___MOM___ | 18,853
+422 | monkeybombed | 18,323
+423 | Collectibl3 | 18,024
+424 | sicilian2124 | 17,877
+425 | kwickle | 17,835
+426 | augustsIippedaway | 17,739
+427 | omfglauren | 17,676
+428 | masterassassin93 | 17,409
+429 | Steves1982 | 17,284
+430 | DramaticProtogen | 17,176
+431 | OutrageousStudy6752 | 17,087
+432 | 1ndy1 | 17,003
 433 | leviathynx | 16,901
 434 | Drlitez | 16,436
 435 | ipad_daps | 16,394
