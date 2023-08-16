@@ -1,4 +1,4 @@
-Last updated: 23-08-16 03:40:46 UTC  
+Last updated: 23-08-16 03:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 28,373,914
@@ -140,13 +140,13 @@ Rank | Username | Totals Tips
 137 | Lion-Hermit | 240,320
 138 | Successful-Walk-3902 | 238,561
 139 | Zalkwalker | 235,069
-140 | MisterM0H0 | 227,708
-141 | LongCauliflower6791 | 227,187
-142 | Flimsy_Brilliant_239 | 227,028
-143 | SnooMacarons9203 | 224,749
-144 | joeviani | 224,026
-145 | BeardedBro_ | 223,627
-146 | isthistomorrow_ | 222,560
+140 | isthistomorrow_ | 233,671
+141 | MisterM0H0 | 227,708
+142 | LongCauliflower6791 | 227,187
+143 | Flimsy_Brilliant_239 | 227,028
+144 | SnooMacarons9203 | 224,749
+145 | joeviani | 224,026
+146 | BeardedBro_ | 223,627
 147 | MuhSound | 222,132
 148 | thestonkinator | 219,730
 149 | SourBeefHoop | 217,512
