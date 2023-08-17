@@ -1,4 +1,4 @@
-Last updated: 23-08-17 02:24:15 UTC  
+Last updated: 23-08-17 02:32:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | clean_cut89 | 3,387,729
 27 | rustyybikes | 3,320,757
 28 | LuminousViper | 3,297,665
-29 | Puddin-Luv | 3,243,068
+29 | Puddin-Luv | 3,269,537
 30 | IveDoneItAtLast | 3,122,209
 31 | ZukoBih | 3,082,463
 32 | _Royal_Insylum | 2,603,787
@@ -55,8 +55,8 @@ Rank | Username | Totals Tips
 52 | catlover-100 | 1,110,627
 53 | CMDRGlamdring | 1,102,851
 54 | avatarbot | 1,027,000
-55 | WarmBiertje | 1,000,000
-56 | _ships | 999,506
+55 | _ships | 1,000,114
+56 | WarmBiertje | 1,000,000
 57 | investigator100 | 977,016
 58 | EvanIsBacon | 970,416
 59 | saintajoras | 966,177
@@ -303,19 +303,19 @@ Rank | Username | Totals Tips
 300 | urlz | 45,874
 301 | NickkyDC | 45,379
 302 | pwan7505 | 44,600
-303 | AhhhUhmmm | 44,208
-304 | Kilv3r | 44,021
-305 | Coneboy2663 | 43,852
-306 | RiightYouKnow | 43,329
-307 | AnduriII | 43,175
-308 | MadScientistTheFirst | 42,666
-309 | CHEROKEEJ4CK | 42,489
-310 | SandersIncBV | 42,255
-311 | CaptainCheeseCake | 42,203
-312 | ACE415_ | 42,000
-313 | Cyber-Cafe | 41,921
-314 | PushyDevoIution | 41,695
-315 | 192000Hertz | 41,657
+303 | 192000Hertz | 44,320
+304 | AhhhUhmmm | 44,208
+305 | Kilv3r | 44,021
+306 | Coneboy2663 | 43,852
+307 | RiightYouKnow | 43,329
+308 | AnduriII | 43,175
+309 | MadScientistTheFirst | 42,666
+310 | CHEROKEEJ4CK | 42,489
+311 | SandersIncBV | 42,255
+312 | CaptainCheeseCake | 42,203
+313 | ACE415_ | 42,000
+314 | Cyber-Cafe | 41,921
+315 | PushyDevoIution | 41,695
 316 | 4gsboofd | 41,377
 317 | ZoomLong | 41,251
 318 | ARoyaleWithCheese | 41,000
