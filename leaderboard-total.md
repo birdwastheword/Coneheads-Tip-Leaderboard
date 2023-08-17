@@ -1,11 +1,11 @@
-Last updated: 23-08-17 07:25:16 UTC  
+Last updated: 23-08-17 07:34:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,438,340
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 21,735,132
+5 | nakamo-toe | 21,781,356
 6 | ConeDesk | 15,683,962
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,122,013
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | Mean_Bandicoot_7481 | 2,506,045
 35 | send420nudes | 2,450,448
 36 | LordBobTheWhale | 2,285,730
-37 | possibili-teas | 2,250,352
+37 | possibili-teas | 2,252,352
 38 | Dry_Badger_2403 | 2,130,000
 39 | GuyOne | 2,126,299
 40 | Autom4tic_Soze | 2,100,822
@@ -82,7 +82,7 @@ Rank | Username | Totals Tips
 79 | frickdom | 655,694
 80 | femacampcouncilor | 642,812
 81 | billywright4 | 633,496
-82 | slirpo | 620,888
+82 | slirpo | 623,211
 83 | firstmatedotxyz | 598,580
 84 | __PDS__ | 595,709
 85 | El_Gordone | 592,784
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | tsudrat | 340,707
 123 | doktastonks | 333,862
 124 | Mundane-Farm-4117 | 332,850
-125 | SHIFTY-T3RROR | 321,571
+125 | SHIFTY-T3RROR | 321,640
 126 | SpookySYN | 311,491
 127 | crodbtc | 307,084
 128 | liwipe | 304,467
