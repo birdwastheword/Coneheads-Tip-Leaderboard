@@ -1,4 +1,4 @@
-Last updated: 23-08-17 19:31:56 UTC  
+Last updated: 23-08-17 19:40:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,491,318
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | Affectionate_Hand_76 | 1,519,556
 47 | swampyswede | 1,447,100
 48 | bray_martin03 | 1,430,706
-49 | Ten-Mins-Late | 1,372,110
+49 | Ten-Mins-Late | 1,414,179
 50 | zdubs | 1,361,186
 51 | DontLaughArt | 1,327,505
 52 | isthistomorrow_ | 1,258,671
