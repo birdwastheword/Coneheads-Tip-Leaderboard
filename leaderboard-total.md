@@ -1,11 +1,11 @@
-Last updated: 23-08-17 05:40:37 UTC  
+Last updated: 23-08-17 05:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
 2 | Jeff5704 | 27,591,812
 3 | Bitdream200K | 25,435,677
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 21,687,135
+5 | nakamo-toe | 21,697,850
 6 | ConeDesk | 15,683,962
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,122,013
@@ -152,7 +152,7 @@ Rank | Username | Totals Tips
 149 | BeardedBro_ | 223,627
 150 | MuhSound | 222,132
 151 | thestonkinator | 221,260
-152 | monkeybombed | 218,727
+152 | monkeybombed | 218,828
 153 | SourBeefHoop | 217,512
 154 | tjex666 | 214,138
 155 | Lillica_Golden_SHIB | 213,382
@@ -242,9 +242,9 @@ Rank | Username | Totals Tips
 239 | FeetAndHandFetish | 91,146
 240 | _Mitchee_ | 91,034
 241 | beanwiggin420 | 89,954
-242 | ShopALF | 87,942
-243 | customsolitaires | 86,557
-244 | wato4000 | 85,813
+242 | wato4000 | 88,476
+243 | ShopALF | 87,942
+244 | customsolitaires | 86,557
 245 | Puzzleheaded_Gift738 | 84,020
 246 | Jadenindubai | 81,400
 247 | Pwny_b0y | 79,447
