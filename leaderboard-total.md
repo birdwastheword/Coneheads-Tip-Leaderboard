@@ -1,11 +1,11 @@
-Last updated: 23-08-17 21:24:39 UTC  
+Last updated: 23-08-17 21:34:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 33,651,948
+1 | Bitdream200K | 33,671,948
 2 | Wonderful_Bad6531 | 30,398,914
 3 | Jeff5704 | 27,670,086
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 22,118,721
+5 | nakamo-toe | 22,160,790
 6 | ConeDesk | 15,717,946
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,124,676
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | thelonliestcrowd | 4,274,534
 21 | birdwastheword | 3,899,686
 22 | Puddin-Luv | 3,842,361
-23 | _ships | 3,717,128
+23 | _ships | 3,746,568
 24 | ArtConsitent | 3,707,278
 25 | redzrex | 3,705,793
 26 | VIVOffical | 3,677,582
@@ -99,7 +99,7 @@ Rank | Username | Totals Tips
 96 | RegalReptile_ | 570,287
 97 | ValiantJudge29500 | 562,137
 98 | UniversalNoobMaster | 555,102
-99 | ID404_Not_Found_8964 | 543,123
+99 | ID404_Not_Found_8964 | 546,123
 100 | shreyaskg | 537,791
 101 | f0n1xr131ng | 509,681
 102 | scientifichistorian | 508,769
@@ -249,7 +249,7 @@ Rank | Username | Totals Tips
 246 | wolfman333 | 93,566
 247 | Most_Being_4002 | 92,889
 248 | H3adshotfox77 | 92,574
-249 | beanwiggin420 | 90,023
+249 | beanwiggin420 | 90,092
 250 | AlternativeBag2619 | 89,483
 251 | HokkaidoNights | 88,108
 252 | ShopALF | 87,942
