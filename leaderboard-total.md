@@ -1,7 +1,7 @@
-Last updated: 23-08-17 15:20:25 UTC  
+Last updated: 23-08-17 15:30:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 32,635,356
+1 | Bitdream200K | 32,750,356
 2 | Wonderful_Bad6531 | 30,398,914
 3 | Jeff5704 | 27,670,086
 4 | rickribera93 | 23,775,537
@@ -58,14 +58,14 @@ Rank | Username | Totals Tips
 55 | catlover-100 | 1,110,627
 56 | CMDRGlamdring | 1,102,851
 57 | avatarbot | 1,027,000
-58 | WarmBiertje | 1,000,000
-59 | investigator100 | 977,822
-60 | EvanIsBacon | 970,416
-61 | saintajoras | 966,177
-62 | beastlybaker | 960,024
-63 | Fenrir-1919 | 931,965
-64 | Richicash | 926,870
-65 | freechickens | 915,654
+58 | freechickens | 1,005,654
+59 | WarmBiertje | 1,000,000
+60 | investigator100 | 977,822
+61 | EvanIsBacon | 970,416
+62 | saintajoras | 966,177
+63 | beastlybaker | 960,024
+64 | Fenrir-1919 | 931,965
+65 | Richicash | 926,870
 66 | Feetfailmenot | 913,375
 67 | Modestexcuse | 903,684
 68 | thee_monster | 896,765
