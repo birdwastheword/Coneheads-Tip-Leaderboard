@@ -1,4 +1,4 @@
-Last updated: 23-08-17 07:16:57 UTC  
+Last updated: 23-08-17 07:25:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | rikbona | 4,535,502
 18 | bigbilly1234567899 | 4,496,042
 19 | thelonliestcrowd | 4,218,836
-20 | waterhasnocalories | 3,763,053
+20 | waterhasnocalories | 4,183,719
 21 | ArtConsitent | 3,682,278
 22 | redzrex | 3,675,467
 23 | VIVOffical | 3,662,782
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | rustyybikes | 3,320,757
 28 | LuminousViper | 3,297,665
 29 | Puddin-Luv | 3,269,537
-30 | IveDoneItAtLast | 3,122,209
+30 | IveDoneItAtLast | 3,130,880
 31 | ZukoBih | 3,082,463
 32 | _Royal_Insylum | 2,603,787
 33 | cutsickass | 2,520,986
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | ValiantJudge29500 | 560,529
 91 | UniversalNoobMaster | 553,710
 92 | Due_Insurance8159 | 546,497
-93 | djrcollectables | 539,563
+93 | djrcollectables | 542,226
 94 | RegalReptile_ | 534,357
 95 | shreyaskg | 523,791
 96 | ID404_Not_Found_8964 | 511,514
@@ -253,21 +253,21 @@ Rank | Username | Totals Tips
 250 | mokkingjay | 77,914
 251 | youtooleyesing | 77,229
 252 | Derefringence | 76,675
-253 | MedicineMaterial3501 | 74,654
-254 | redditinchina | 74,278
-255 | Significant_Talk4943 | 74,020
-256 | RollingSkull0 | 73,098
-257 | adi_00_ | 71,759
-258 | TubeNerd92 | 69,837
-259 | HokkaidoNights | 68,108
-260 | ZeMadMan1 | 67,980
-261 | Friendly-Airline2426 | 66,545
-262 | imp3order | 65,546
-263 | damnusernamegotcutof | 65,004
-264 | AlternativeBag2619 | 64,483
-265 | guokaidi | 63,245
-266 | ItailianStallion101 | 63,129
-267 | Duskopia | 62,977
+253 | Duskopia | 75,640
+254 | redditinchina | 74,698
+255 | MedicineMaterial3501 | 74,654
+256 | Significant_Talk4943 | 74,020
+257 | RollingSkull0 | 73,098
+258 | adi_00_ | 71,759
+259 | TubeNerd92 | 69,837
+260 | HokkaidoNights | 68,108
+261 | ZeMadMan1 | 67,980
+262 | Friendly-Airline2426 | 66,545
+263 | imp3order | 65,546
+264 | damnusernamegotcutof | 65,004
+265 | AlternativeBag2619 | 64,483
+266 | guokaidi | 63,245
+267 | ItailianStallion101 | 63,129
 268 | netnemirepxE | 62,645
 269 | shellystarzz | 62,249
 270 | standArtpluto | 62,100
