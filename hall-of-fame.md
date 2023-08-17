@@ -69,5 +69,6 @@ Rank | Date | Username | Totals Tips | to User
 66 | 2023-08-12 18:58:02 | zdubs | 1,000,000| Jeff5704
 67 | 2023-08-16 19:41:03 | LordBobTheWhale | 1,000,000| waterhasnocalories
 68 | 2023-08-17 07:40:08 | _ships | 1,000,000| waterhasnocalories
+69 | 2023-08-17 10:42:59 | revdrgonzo | 1,000,000| transfermymoons
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
