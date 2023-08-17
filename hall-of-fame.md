@@ -71,5 +71,6 @@ Rank | Date | Username | Totals Tips | to User
 68 | 2023-08-17 07:40:08 | _ships | 1,000,000| waterhasnocalories
 69 | 2023-08-17 10:42:59 | revdrgonzo | 1,000,000| transfermymoons
 70 | 2023-08-17 12:14:36 | isthistomorrow_ | 1,000,000| transfermymoons
+71 | 2023-08-17 21:50:13 | waterhasnocalories | 1,000,000| 8inchConer
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
