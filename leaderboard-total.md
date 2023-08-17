@@ -1,9 +1,9 @@
-Last updated: 23-08-17 06:43:33 UTC  
+Last updated: 23-08-17 06:51:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
 2 | Jeff5704 | 27,591,812
-3 | Bitdream200K | 25,435,677
+3 | Bitdream200K | 25,438,340
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 21,700,513
 6 | ConeDesk | 15,683,962
@@ -33,8 +33,8 @@ Rank | Username | Totals Tips
 30 | IveDoneItAtLast | 3,122,209
 31 | ZukoBih | 3,082,463
 32 | _Royal_Insylum | 2,603,787
-33 | Mean_Bandicoot_7481 | 2,506,045
-34 | cutsickass | 2,500,986
+33 | cutsickass | 2,510,986
+34 | Mean_Bandicoot_7481 | 2,506,045
 35 | send420nudes | 2,450,448
 36 | LordBobTheWhale | 2,285,730
 37 | possibili-teas | 2,149,352
@@ -86,7 +86,7 @@ Rank | Username | Totals Tips
 83 | firstmatedotxyz | 598,580
 84 | __PDS__ | 595,709
 85 | El_Gordone | 592,784
-86 | Cravensworth_redux | 581,753
+86 | Cravensworth_redux | 582,753
 87 | Independent_Heart_15 | 578,825
 88 | evilninjarobot | 577,578
 89 | Alanski22 | 575,241
