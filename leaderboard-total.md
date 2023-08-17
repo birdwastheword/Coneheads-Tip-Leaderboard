@@ -1,4 +1,4 @@
-Last updated: 23-08-17 08:43:48 UTC  
+Last updated: 23-08-17 08:52:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
@@ -289,9 +289,9 @@ Rank | Username | Totals Tips
 286 | fleshlyLoath | 52,877
 287 | ky0984 | 52,257
 288 | ConeHead710 | 52,012
-289 | Admirito | 51,317
-290 | lucivaryas | 51,000
-291 | Trakorr | 49,240
+289 | Trakorr | 51,903
+290 | Admirito | 51,317
+291 | lucivaryas | 51,000
 292 | Tapiz3land | 48,892
 293 | qwertywich | 48,832
 294 | d0ntmess87 | 48,615
