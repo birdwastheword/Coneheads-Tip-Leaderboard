@@ -1,4 +1,4 @@
-Last updated: 23-08-17 18:43:39 UTC  
+Last updated: 23-08-17 18:51:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,391,318
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | rikbona | 4,535,502
 19 | bigbilly1234567899 | 4,496,042
 20 | thelonliestcrowd | 4,271,451
-21 | birdwastheword | 3,897,023
+21 | birdwastheword | 3,899,686
 22 | Puddin-Luv | 3,836,379
 23 | _ships | 3,717,128
 24 | ArtConsitent | 3,707,278
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | IveDoneItAtLast | 3,183,529
 32 | ZukoBih | 3,082,463
 33 | cutsickass | 2,831,312
-34 | LordBobTheWhale | 2,810,730
+34 | LordBobTheWhale | 2,811,338
 35 | _Royal_Insylum | 2,603,787
 36 | Mean_Bandicoot_7481 | 2,534,708
 37 | send420nudes | 2,450,868
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | crodbtc | 332,084
 131 | Tinman_ApE | 325,715
 132 | Crypto-4-Freedom | 324,002
-133 | SpookySYN | 320,408
+133 | SpookySYN | 323,491
 134 | EffinDrongoC | 312,738
 135 | liwipe | 304,467
 136 | x52x | 299,360
