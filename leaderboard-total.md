@@ -1,4 +1,4 @@
-Last updated: 23-08-17 23:30:54 UTC  
+Last updated: 23-08-17 23:40:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,777,680
@@ -39,10 +39,10 @@ Rank | Username | Totals Tips
 36 | Mean_Bandicoot_7481 | 2,547,906
 37 | send420nudes | 2,450,868
 38 | possibili-teas | 2,253,352
-39 | GuyOne | 2,151,299
-40 | Dry_Badger_2403 | 2,130,000
-41 | Autom4tic_Soze | 2,125,822
-42 | transfermymoons | 2,085,421
+39 | transfermymoons | 2,210,421
+40 | GuyOne | 2,151,299
+41 | Dry_Badger_2403 | 2,130,000
+42 | Autom4tic_Soze | 2,125,822
 43 | ImAlekBan | 2,037,672
 44 | thom_orrow | 1,976,302
 45 | GooderZBK | 1,613,996
@@ -457,14 +457,14 @@ Rank | Username | Totals Tips
 454 | DrD_D | 21,509
 455 | XBBlade | 21,489
 456 | Tasty_Bag | 21,384
-457 | halfavocadoemoji | 21,000
-458 | ikiyen | 21,000
-459 | deezirae | 20,969
-460 | Expensive_Being_4038 | 20,558
-461 | sicilian2124 | 20,540
-462 | -Boxen | 20,420
-463 | DLPD-Camko | 20,377
-464 | RamboBalboa21 | 20,083
+457 | RamboBalboa21 | 21,083
+458 | halfavocadoemoji | 21,000
+459 | ikiyen | 21,000
+460 | deezirae | 20,969
+461 | Expensive_Being_4038 | 20,558
+462 | sicilian2124 | 20,540
+463 | -Boxen | 20,420
+464 | DLPD-Camko | 20,377
 465 | NoahG59 | 20,002
 466 | Yeh_nah_yeh_ | 20,000
 467 | PassiveRoadRage | 20,000
