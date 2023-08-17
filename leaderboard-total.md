@@ -1,4 +1,4 @@
-Last updated: 23-08-17 06:35:22 UTC  
+Last updated: 23-08-17 06:43:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
@@ -271,11 +271,11 @@ Rank | Username | Totals Tips
 268 | shellystarzz | 62,249
 269 | standArtpluto | 62,100
 270 | TheD1ceMan | 60,541
-271 | lucrica | 59,987
-272 | BeefaloSlim | 59,787
-273 | Big-Ticket1506 | 59,666
-274 | Wildspliffosis | 58,703
-275 | Duskopia | 57,651
+271 | Duskopia | 60,314
+272 | lucrica | 59,987
+273 | BeefaloSlim | 59,787
+274 | Big-Ticket1506 | 59,666
+275 | Wildspliffosis | 58,703
 276 | BitCone_CONE | 56,760
 277 | Sativa55555 | 55,992
 278 | imbarrydylan | 55,689
@@ -300,8 +300,8 @@ Rank | Username | Totals Tips
 297 | Outside-Wolf5928 | 47,433
 298 | I_AM_MORE_BADASS | 47,332
 299 | shredslanding | 46,650
-300 | urlz | 45,874
-301 | MadScientistTheFirst | 45,706
+300 | MadScientistTheFirst | 46,314
+301 | urlz | 45,874
 302 | NickkyDC | 45,379
 303 | pwan7505 | 44,600
 304 | 192000Hertz | 44,320
