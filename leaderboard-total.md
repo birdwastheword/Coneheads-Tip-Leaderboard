@@ -1,4 +1,4 @@
-Last updated: 23-08-17 04:35:20 UTC  
+Last updated: 23-08-17 04:43:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | ZukoBih | 3,082,463
 32 | _Royal_Insylum | 2,603,787
 33 | Mean_Bandicoot_7481 | 2,502,422
-34 | cutsickass | 2,499,986
+34 | cutsickass | 2,500,986
 35 | send420nudes | 2,450,448
 36 | LordBobTheWhale | 2,285,730
 37 | possibili-teas | 2,149,352
@@ -241,7 +241,7 @@ Rank | Username | Totals Tips
 238 | street_shark_puppet | 91,891
 239 | FeetAndHandFetish | 91,146
 240 | _Mitchee_ | 91,034
-241 | beanwiggin420 | 89,465
+241 | beanwiggin420 | 89,885
 242 | ShopALF | 87,942
 243 | customsolitaires | 86,557
 244 | wato4000 | 85,813
@@ -302,8 +302,8 @@ Rank | Username | Totals Tips
 299 | shredslanding | 46,650
 300 | urlz | 45,874
 301 | NickkyDC | 45,379
-302 | pwan7505 | 44,600
-303 | MadScientistTheFirst | 44,490
+302 | MadScientistTheFirst | 45,098
+303 | pwan7505 | 44,600
 304 | 192000Hertz | 44,320
 305 | AhhhUhmmm | 44,208
 306 | Kilv3r | 44,021
