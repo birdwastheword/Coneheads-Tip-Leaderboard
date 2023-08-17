@@ -1,7 +1,7 @@
-Last updated: 23-08-17 18:26:33 UTC  
+Last updated: 23-08-17 18:35:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 33,386,318
+1 | Bitdream200K | 33,391,318
 2 | Wonderful_Bad6531 | 30,398,914
 3 | Jeff5704 | 27,670,086
 4 | rickribera93 | 23,775,537
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | HippieStarTraveler | 4,648,980
 18 | rikbona | 4,535,502
 19 | bigbilly1234567899 | 4,496,042
-20 | thelonliestcrowd | 4,268,788
+20 | thelonliestcrowd | 4,271,451
 21 | birdwastheword | 3,897,023
 22 | Puddin-Luv | 3,836,379
 23 | _ships | 3,717,128
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | Affectionate_Hand_76 | 1,519,556
 47 | swampyswede | 1,447,100
 48 | bray_martin03 | 1,430,706
-49 | Ten-Mins-Late | 1,371,270
+49 | Ten-Mins-Late | 1,371,690
 50 | zdubs | 1,361,186
 51 | DontLaughArt | 1,327,505
 52 | isthistomorrow_ | 1,258,671
@@ -179,14 +179,14 @@ Rank | Username | Totals Tips
 176 | CedricDiccory | 197,932
 177 | sudrats | 197,124
 178 | Conetent | 196,810
-179 | redditavanft | 195,122
-180 | AverageLiberalJoe | 195,007
-181 | DogSpark84 | 185,334
-182 | ShortBusCult | 185,311
-183 | the_judge_168 | 185,184
-184 | nooobmaester69 | 183,457
-185 | Esco1980 | 181,771
-186 | Duskopia | 180,132
+179 | Duskopia | 196,458
+180 | redditavanft | 195,122
+181 | AverageLiberalJoe | 195,007
+182 | DogSpark84 | 185,334
+183 | ShortBusCult | 185,311
+184 | the_judge_168 | 185,184
+185 | nooobmaester69 | 183,457
+186 | Esco1980 | 181,771
 187 | ruccarucca | 179,850
 188 | YourThighsWarmMyEars | 172,697
 189 | Street_Addd | 171,939
