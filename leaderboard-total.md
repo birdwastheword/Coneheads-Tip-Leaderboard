@@ -1,4 +1,4 @@
-Last updated: 23-08-17 02:32:51 UTC  
+Last updated: 23-08-17 02:41:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | catlover-100 | 1,110,627
 53 | CMDRGlamdring | 1,102,851
 54 | avatarbot | 1,027,000
-55 | _ships | 1,000,114
+55 | _ships | 1,006,194
 56 | WarmBiertje | 1,000,000
 57 | investigator100 | 977,016
 58 | EvanIsBacon | 970,416
