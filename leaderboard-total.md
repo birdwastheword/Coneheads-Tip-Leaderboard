@@ -1,4 +1,4 @@
-Last updated: 23-08-17 19:40:45 UTC  
+Last updated: 23-08-17 19:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,491,318
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | _ships | 3,717,128
 24 | ArtConsitent | 3,707,278
 25 | redzrex | 3,705,793
-26 | VIVOffical | 3,670,842
+26 | VIVOffical | 3,673,505
 27 | Ginomania | 3,442,938
 28 | clean_cut89 | 3,412,829
 29 | rustyybikes | 3,345,757
@@ -47,9 +47,9 @@ Rank | Username | Totals Tips
 44 | thom_orrow | 1,972,639
 45 | GooderZBK | 1,613,996
 46 | Affectionate_Hand_76 | 1,519,556
-47 | swampyswede | 1,447,100
-48 | bray_martin03 | 1,430,706
-49 | Ten-Mins-Late | 1,414,179
+47 | Ten-Mins-Late | 1,456,248
+48 | swampyswede | 1,447,100
+49 | bray_martin03 | 1,430,706
 50 | zdubs | 1,361,186
 51 | DontLaughArt | 1,327,505
 52 | isthistomorrow_ | 1,258,671
