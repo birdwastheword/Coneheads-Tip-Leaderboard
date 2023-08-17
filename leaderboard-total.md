@@ -1,4 +1,4 @@
-Last updated: 23-08-17 22:23:43 UTC  
+Last updated: 23-08-17 22:32:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,777,680
@@ -50,14 +50,14 @@ Rank | Username | Totals Tips
 47 | Ten-Mins-Late | 1,456,248
 48 | swampyswede | 1,452,467
 49 | bray_martin03 | 1,430,706
-50 | zdubs | 1,361,186
+50 | zdubs | 1,363,849
 51 | DontLaughArt | 1,327,505
 52 | isthistomorrow_ | 1,258,671
 53 | revdrgonzo | 1,209,410
 54 | HestiaIsTheBestia | 1,188,044
 55 | catlover-100 | 1,110,627
 56 | CMDRGlamdring | 1,102,851
-57 | KONGXIANG | 1,059,289
+57 | KONGXIANG | 1,085,926
 58 | avatarbot | 1,027,000
 59 | freechickens | 1,005,654
 60 | WarmBiertje | 1,000,000
@@ -131,9 +131,9 @@ Rank | Username | Totals Tips
 128 | doktastonks | 333,862
 129 | Mundane-Farm-4117 | 332,850
 130 | crodbtc | 332,084
-131 | Tinman_ApE | 325,715
-132 | Crypto-4-Freedom | 324,002
-133 | SpookySYN | 323,491
+131 | SpookySYN | 326,662
+132 | Tinman_ApE | 325,715
+133 | Crypto-4-Freedom | 324,002
 134 | EffinDrongoC | 312,738
 135 | liwipe | 304,467
 136 | x52x | 299,360
@@ -163,9 +163,9 @@ Rank | Username | Totals Tips
 160 | MisterM0H0 | 227,708
 161 | LongCauliflower6791 | 227,187
 162 | legionticket | 224,831
-163 | joeviani | 224,026
-164 | MuhSound | 222,132
-165 | monkeybombed | 219,652
+163 | monkeybombed | 224,652
+164 | joeviani | 224,026
+165 | MuhSound | 222,132
 166 | SourBeefHoop | 217,512
 167 | tjex666 | 214,138
 168 | alexthemay | 214,131
