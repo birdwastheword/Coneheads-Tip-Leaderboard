@@ -1,4 +1,4 @@
-Last updated: 23-08-17 03:30:59 UTC  
+Last updated: 23-08-17 03:40:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Wonderful_Bad6531 | 30,373,914
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | LordBobTheWhale | 2,285,730
 37 | Dry_Badger_2403 | 2,130,000
 38 | GuyOne | 2,126,299
-39 | possibili-teas | 2,105,852
+39 | possibili-teas | 2,106,852
 40 | Autom4tic_Soze | 2,100,822
 41 | transfermymoons | 2,085,421
 42 | ImAlekBan | 1,989,332
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | catlover-100 | 1,110,627
 53 | CMDRGlamdring | 1,102,851
 54 | avatarbot | 1,027,000
-55 | _ships | 1,012,274
+55 | _ships | 1,012,882
 56 | WarmBiertje | 1,000,000
 57 | investigator100 | 977,016
 58 | EvanIsBacon | 970,416
