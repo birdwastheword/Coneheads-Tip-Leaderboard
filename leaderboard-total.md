@@ -1,4 +1,4 @@
-Last updated: 23-08-18 14:40:37 UTC  
+Last updated: 23-08-18 14:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,116,594
@@ -86,7 +86,7 @@ Rank | Username | Totals Tips
 83 | billywright4 | 658,496
 84 | frickdom | 655,694
 85 | ValiantJudge29500 | 651,827
-86 | djrcollectables | 645,669
+86 | djrcollectables | 648,332
 87 | evilninjarobot | 644,498
 88 | femacampcouncilor | 642,812
 89 | MartynDr | 625,000
