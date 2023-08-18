@@ -1,11 +1,11 @@
-Last updated: 23-08-18 08:43:30 UTC  
+Last updated: 23-08-18 08:51:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,983,007
 2 | Wonderful_Bad6531 | 30,399,422
 3 | Jeff5704 | 27,699,386
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 22,742,497
+5 | nakamo-toe | 22,765,727
 6 | ConeDesk | 15,837,683
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,124,676
@@ -24,13 +24,13 @@ Rank | Username | Totals Tips
 21 | birdwastheword | 3,899,686
 22 | Puddin-Luv | 3,845,024
 23 | _ships | 3,794,797
-24 | redzrex | 3,712,456
-25 | ArtConsitent | 3,707,278
-26 | VIVOffical | 3,677,582
-27 | Ginomania | 3,638,264
+24 | Ginomania | 3,738,264
+25 | redzrex | 3,712,456
+26 | ArtConsitent | 3,707,278
+27 | VIVOffical | 3,677,582
 28 | clean_cut89 | 3,412,829
-29 | rustyybikes | 3,345,757
-30 | LuminousViper | 3,337,965
+29 | LuminousViper | 3,347,965
+30 | rustyybikes | 3,345,757
 31 | IveDoneItAtLast | 3,186,192
 32 | ZukoBih | 3,082,463
 33 | cutsickass | 3,051,312
@@ -210,7 +210,7 @@ Rank | Username | Totals Tips
 207 | GrowinStuffAndThings | 137,461
 208 | Outrageous-Ad8481 | 137,001
 209 | 002_timmy | 136,711
-210 | Ashamed_Raccoon9918 | 132,345
+210 | Ashamed_Raccoon9918 | 132,765
 211 | GoodMornEveGoodNight | 131,019
 212 | Legal-Appointment655 | 130,540
 213 | Awake-- | 128,173
@@ -386,9 +386,9 @@ Rank | Username | Totals Tips
 383 | himthecool21 | 32,647
 384 | abbasabba2 | 32,647
 385 | Steadfast_Apparition | 32,437
-386 | n00b1shm4n | 32,159
-387 | Originalibb | 32,157
-388 | jurgensdapimp | 31,615
+386 | jurgensdapimp | 32,224
+387 | n00b1shm4n | 32,159
+388 | Originalibb | 32,157
 389 | OutTop | 31,069
 390 | rOn3OW | 30,714
 391 | See0tter | 30,579
