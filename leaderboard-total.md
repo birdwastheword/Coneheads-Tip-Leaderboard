@@ -1,11 +1,11 @@
-Last updated: 23-08-18 20:40:40 UTC  
+Last updated: 23-08-18 20:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,418,330
 2 | Wonderful_Bad6531 | 30,419,422
 3 | Jeff5704 | 27,699,386
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 23,252,351
+5 | nakamo-toe | 23,279,589
 6 | ConeDesk | 15,837,683
 7 | HODL-THE-LINE | 11,900,100
 8 | waterhasnocalories | 11,642,250
@@ -259,7 +259,7 @@ Rank | Username | Totals Tips
 256 | AlternativeBag2619 | 89,483
 257 | HokkaidoNights | 88,108
 258 | ShopALF | 87,942
-259 | customsolitaires | 87,397
+259 | customsolitaires | 87,466
 260 | Puzzleheaded_Gift738 | 84,020
 261 | RollingSkull0 | 83,098
 262 | Doovs | 81,967
