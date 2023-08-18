@@ -1,4 +1,4 @@
-Last updated: 23-08-18 06:52:09 UTC  
+Last updated: 23-08-18 07:00:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,933,007
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | Real_Player_0 | 5,721,748
 16 | ashinamune | 4,728,405
 17 | HippieStarTraveler | 4,648,980
-18 | rikbona | 4,536,910
+18 | rikbona | 4,537,110
 19 | bigbilly1234567899 | 4,496,042
 20 | thelonliestcrowd | 4,338,460
 21 | birdwastheword | 3,899,686
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | Dry_Badger_2403 | 2,130,000
 42 | Autom4tic_Soze | 2,125,822
 43 | ImAlekBan | 2,037,672
-44 | thom_orrow | 1,982,048
+44 | thom_orrow | 1,987,374
 45 | GooderZBK | 1,613,996
 46 | Affectionate_Hand_76 | 1,519,556
 47 | Ten-Mins-Late | 1,456,248
@@ -130,9 +130,9 @@ Rank | Username | Totals Tips
 127 | farmertypoerror | 359,212
 128 | SHIFTY-T3RROR | 346,640
 129 | tsudrat | 340,707
-130 | crodbtc | 334,747
-131 | doktastonks | 333,862
-132 | Duskopia | 333,099
+130 | Duskopia | 339,099
+131 | crodbtc | 334,747
+132 | doktastonks | 333,862
 133 | Mundane-Farm-4117 | 332,850
 134 | Tinman_ApE | 326,323
 135 | Crypto-4-Freedom | 324,002
@@ -191,8 +191,8 @@ Rank | Username | Totals Tips
 188 | ruccarucca | 179,850
 189 | YourThighsWarmMyEars | 172,697
 190 | Street_Addd | 171,939
-191 | Gregoryonetulum | 168,509
-192 | dopelifer09 | 168,232
+191 | dopelifer09 | 170,895
+192 | Gregoryonetulum | 168,509
 193 | MymannosaurusRex | 166,317
 194 | high5s_inureye | 162,062
 195 | DamnWhySoLow | 159,733
