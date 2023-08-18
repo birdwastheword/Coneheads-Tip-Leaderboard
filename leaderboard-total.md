@@ -1,7 +1,7 @@
-Last updated: 23-08-18 15:19:44 UTC  
+Last updated: 23-08-18 15:30:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 34,116,594
+1 | Bitdream200K | 34,153,224
 2 | Wonderful_Bad6531 | 30,419,422
 3 | Jeff5704 | 27,699,386
 4 | rickribera93 | 23,775,537
@@ -205,8 +205,8 @@ Rank | Username | Totals Tips
 202 | CoverYourMaskHoles | 149,056
 203 | DAMG808 | 146,825
 204 | Sad_Entertainer9961 | 143,248
-205 | SalliIsAFem | 140,361
-206 | Significant_Talk4943 | 140,280
+205 | Significant_Talk4943 | 141,120
+206 | SalliIsAFem | 140,361
 207 | luisantonio197 | 139,511
 208 | Heclalava | 137,615
 209 | GrowinStuffAndThings | 137,461
