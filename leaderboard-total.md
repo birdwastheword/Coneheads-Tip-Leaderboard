@@ -1,11 +1,11 @@
-Last updated: 23-08-18 05:23:50 UTC  
+Last updated: 23-08-18 05:32:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,887,681
 2 | Wonderful_Bad6531 | 30,398,914
 3 | Jeff5704 | 27,699,386
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 22,592,723
+5 | nakamo-toe | 22,597,358
 6 | ConeDesk | 15,837,683
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,124,676
@@ -133,14 +133,14 @@ Rank | Username | Totals Tips
 130 | crodbtc | 334,747
 131 | doktastonks | 333,862
 132 | Mundane-Farm-4117 | 332,850
-133 | Tinman_ApE | 326,323
-134 | Crypto-4-Freedom | 324,002
-135 | EffinDrongoC | 312,738
-136 | liwipe | 304,467
-137 | x52x | 299,860
-138 | VincentVanGTFO | 297,935
-139 | virmamies | 291,804
-140 | Duskopia | 282,099
+133 | Duskopia | 332,099
+134 | Tinman_ApE | 326,323
+135 | Crypto-4-Freedom | 324,002
+136 | EffinDrongoC | 312,738
+137 | liwipe | 304,467
+138 | x52x | 299,860
+139 | VincentVanGTFO | 297,935
+140 | virmamies | 291,804
 141 | deedopete | 277,247
 142 | maxfra | 276,796
 143 | Obi1eyeKenobi | 269,070
@@ -473,10 +473,10 @@ Rank | Username | Totals Tips
 470 | PsLJdogg | 19,975
 471 | Fictional_Blook | 19,873
 472 | AMAxyz | 19,775
-473 | Iiwip | 19,533
-474 | MalarkyD | 19,527
-475 | lookwhatumademedoo | 19,510
-476 | Dazzling_Marzipan474 | 19,260
+473 | Dazzling_Marzipan474 | 19,680
+474 | Iiwip | 19,533
+475 | MalarkyD | 19,527
+476 | lookwhatumademedoo | 19,510
 477 | ___MOM___ | 18,853
 478 | Collectibl3 | 18,024
 479 | augustsIippedaway | 17,739
