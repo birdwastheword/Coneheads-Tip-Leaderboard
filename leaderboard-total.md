@@ -1,11 +1,11 @@
-Last updated: 23-08-18 08:25:55 UTC  
+Last updated: 23-08-18 08:35:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,983,007
 2 | Wonderful_Bad6531 | 30,399,422
 3 | Jeff5704 | 27,699,386
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 22,739,834
+5 | nakamo-toe | 22,742,497
 6 | ConeDesk | 15,837,683
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,124,676
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | redzrex | 3,712,456
 25 | ArtConsitent | 3,707,278
 26 | VIVOffical | 3,677,582
-27 | Ginomania | 3,588,264
+27 | Ginomania | 3,638,264
 28 | clean_cut89 | 3,412,829
 29 | rustyybikes | 3,345,757
 30 | LuminousViper | 3,337,965
