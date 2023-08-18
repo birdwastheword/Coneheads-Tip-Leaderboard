@@ -1,4 +1,4 @@
-Last updated: 23-08-18 06:43:43 UTC  
+Last updated: 23-08-18 06:52:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,933,007
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | Real_Player_0 | 5,721,748
 16 | ashinamune | 4,728,405
 17 | HippieStarTraveler | 4,648,980
-18 | rikbona | 4,536,210
+18 | rikbona | 4,536,910
 19 | bigbilly1234567899 | 4,496,042
 20 | thelonliestcrowd | 4,338,460
 21 | birdwastheword | 3,899,686
@@ -132,8 +132,8 @@ Rank | Username | Totals Tips
 129 | tsudrat | 340,707
 130 | crodbtc | 334,747
 131 | doktastonks | 333,862
-132 | Mundane-Farm-4117 | 332,850
-133 | Duskopia | 332,099
+132 | Duskopia | 333,099
+133 | Mundane-Farm-4117 | 332,850
 134 | Tinman_ApE | 326,323
 135 | Crypto-4-Freedom | 324,002
 136 | EffinDrongoC | 312,738
