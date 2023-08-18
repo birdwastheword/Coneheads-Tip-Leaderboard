@@ -1,4 +1,4 @@
-Last updated: 23-08-18 23:40:51 UTC  
+Last updated: 23-08-18 23:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,468,330
@@ -428,8 +428,8 @@ Rank | Username | Totals Tips
 425 | deltamoney | 26,987
 426 | mbashs | 26,747
 427 | BottleNcanClapUrHand | 26,658
-428 | DOGETHEEGOD | 26,580
-429 | eatthebagels | 26,536
+428 | eatthebagels | 26,605
+429 | DOGETHEEGOD | 26,580
 430 | hey_barry | 26,513
 431 | Trelucatre | 26,469
 432 | Primary_Technical | 26,000
