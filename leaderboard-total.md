@@ -1,7 +1,7 @@
-Last updated: 23-08-18 08:51:41 UTC  
+Last updated: 23-08-18 09:19:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 33,983,007
+1 | Bitdream200K | 33,990,670
 2 | Wonderful_Bad6531 | 30,399,422
 3 | Jeff5704 | 27,699,386
 4 | rickribera93 | 23,775,537
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | birdwastheword | 3,899,686
 22 | Puddin-Luv | 3,845,024
 23 | _ships | 3,794,797
-24 | Ginomania | 3,738,264
+24 | Ginomania | 3,788,264
 25 | redzrex | 3,712,456
 26 | ArtConsitent | 3,707,278
 27 | VIVOffical | 3,677,582
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | rustyybikes | 3,345,757
 31 | IveDoneItAtLast | 3,186,192
 32 | ZukoBih | 3,082,463
-33 | cutsickass | 3,051,312
+33 | cutsickass | 3,071,312
 34 | LordBobTheWhale | 2,811,946
 35 | _Royal_Insylum | 2,603,787
 36 | Mean_Bandicoot_7481 | 2,547,906
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | ImAlekBan | 2,037,672
 44 | thom_orrow | 2,027,374
 45 | GooderZBK | 1,613,996
-46 | Affectionate_Hand_76 | 1,519,556
+46 | Affectionate_Hand_76 | 1,534,556
 47 | Ten-Mins-Late | 1,456,248
 48 | swampyswede | 1,452,467
 49 | bray_martin03 | 1,430,706
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | investigator100 | 983,148
 62 | EvanIsBacon | 970,416
 63 | saintajoras | 969,017
-64 | beastlybaker | 962,687
+64 | beastlybaker | 965,350
 65 | Fenrir-1919 | 937,291
 66 | Richicash | 926,870
 67 | Feetfailmenot | 913,375
@@ -154,7 +154,7 @@ Rank | Username | Totals Tips
 151 | thestonkinator | 246,260
 152 | Dripbot8 | 245,384
 153 | Lion-Hermit | 244,983
-154 | noface_reddit | 236,227
+154 | noface_reddit | 238,890
 155 | send_tacoz | 236,196
 156 | DogSpark84 | 235,823
 157 | Zalkwalker | 235,069
@@ -276,7 +276,7 @@ Rank | Username | Totals Tips
 273 | urlz | 70,874
 274 | ZeMadMan1 | 70,643
 275 | BeefaloSlim | 69,856
-276 | AhhhUhmmm | 69,208
+276 | AhhhUhmmm | 69,277
 277 | AnduriII | 68,244
 278 | Friendly-Airline2426 | 66,545
 279 | imp3order | 65,546
@@ -285,8 +285,8 @@ Rank | Username | Totals Tips
 282 | guokaidi | 63,245
 283 | ItailianStallion101 | 63,129
 284 | netnemirepxE | 62,645
-285 | shellystarzz | 62,249
-286 | Allions1 | 62,208
+285 | Allions1 | 62,508
+286 | shellystarzz | 62,249
 287 | standArtpluto | 62,100
 288 | Burzzzt88 | 61,849
 289 | KrunchyKushKing | 61,532
