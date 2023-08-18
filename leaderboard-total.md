@@ -1,4 +1,4 @@
-Last updated: 23-08-18 09:19:05 UTC  
+Last updated: 23-08-18 09:30:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,990,670
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | birdwastheword | 3,899,686
 22 | Puddin-Luv | 3,845,024
 23 | _ships | 3,794,797
-24 | Ginomania | 3,788,264
+24 | Ginomania | 3,790,927
 25 | redzrex | 3,712,456
 26 | ArtConsitent | 3,707,278
 27 | VIVOffical | 3,677,582
@@ -37,9 +37,9 @@ Rank | Username | Totals Tips
 34 | LordBobTheWhale | 2,811,946
 35 | _Royal_Insylum | 2,603,787
 36 | Mean_Bandicoot_7481 | 2,547,906
-37 | send420nudes | 2,450,868
-38 | possibili-teas | 2,313,352
-39 | transfermymoons | 2,210,421
+37 | transfermymoons | 2,510,421
+38 | send420nudes | 2,450,868
+39 | possibili-teas | 2,313,352
 40 | GuyOne | 2,151,299
 41 | Dry_Badger_2403 | 2,130,000
 42 | Autom4tic_Soze | 2,125,822
@@ -282,13 +282,13 @@ Rank | Username | Totals Tips
 279 | imp3order | 65,546
 280 | Diamond_PnutBrain | 65,210
 281 | damnusernamegotcutof | 65,004
-282 | guokaidi | 63,245
-283 | ItailianStallion101 | 63,129
-284 | netnemirepxE | 62,645
-285 | Allions1 | 62,508
-286 | shellystarzz | 62,249
-287 | standArtpluto | 62,100
-288 | Burzzzt88 | 61,849
+282 | Burzzzt88 | 64,512
+283 | guokaidi | 63,245
+284 | ItailianStallion101 | 63,129
+285 | netnemirepxE | 62,645
+286 | Allions1 | 62,508
+287 | shellystarzz | 62,249
+288 | standArtpluto | 62,100
 289 | KrunchyKushKing | 61,532
 290 | TheD1ceMan | 60,541
 291 | CrossPuffs | 60,530
