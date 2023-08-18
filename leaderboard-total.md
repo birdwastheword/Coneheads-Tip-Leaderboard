@@ -1,11 +1,11 @@
-Last updated: 23-08-18 05:50:31 UTC  
+Last updated: 23-08-18 06:26:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 33,927,681
+1 | Bitdream200K | 33,933,007
 2 | Wonderful_Bad6531 | 30,399,422
 3 | Jeff5704 | 27,699,386
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 22,647,753
+5 | nakamo-toe | 22,674,383
 6 | ConeDesk | 15,837,683
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,124,676
@@ -20,11 +20,11 @@ Rank | Username | Totals Tips
 17 | HippieStarTraveler | 4,648,980
 18 | rikbona | 4,536,210
 19 | bigbilly1234567899 | 4,496,042
-20 | thelonliestcrowd | 4,335,797
+20 | thelonliestcrowd | 4,338,460
 21 | birdwastheword | 3,899,686
 22 | Puddin-Luv | 3,845,024
 23 | _ships | 3,794,797
-24 | redzrex | 3,708,456
+24 | redzrex | 3,712,456
 25 | ArtConsitent | 3,707,278
 26 | VIVOffical | 3,677,582
 27 | Ginomania | 3,442,938
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | LuminousViper | 3,337,965
 31 | IveDoneItAtLast | 3,186,192
 32 | ZukoBih | 3,082,463
-33 | cutsickass | 3,031,312
+33 | cutsickass | 3,051,312
 34 | LordBobTheWhale | 2,811,946
 35 | _Royal_Insylum | 2,603,787
 36 | Mean_Bandicoot_7481 | 2,547,906
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | Dry_Badger_2403 | 2,130,000
 42 | Autom4tic_Soze | 2,125,822
 43 | ImAlekBan | 2,037,672
-44 | thom_orrow | 1,976,722
+44 | thom_orrow | 1,979,385
 45 | GooderZBK | 1,613,996
 46 | Affectionate_Hand_76 | 1,519,556
 47 | Ten-Mins-Late | 1,456,248
@@ -210,9 +210,9 @@ Rank | Username | Totals Tips
 207 | GrowinStuffAndThings | 137,461
 208 | Outrageous-Ad8481 | 137,001
 209 | 002_timmy | 136,711
-210 | GoodMornEveGoodNight | 131,019
-211 | Legal-Appointment655 | 130,540
-212 | Ashamed_Raccoon9918 | 129,682
+210 | Ashamed_Raccoon9918 | 132,345
+211 | GoodMornEveGoodNight | 131,019
+212 | Legal-Appointment655 | 130,540
 213 | Awake-- | 128,173
 214 | CalligrapherEnough83 | 127,227
 215 | PortCity_MadMan | 122,413
@@ -301,8 +301,8 @@ Rank | Username | Totals Tips
 298 | Heycheckthisout20 | 58,390
 299 | slug_tamer | 58,175
 300 | phrodreky | 57,915
-301 | Doovs | 56,967
-302 | MadScientistTheFirst | 56,922
+301 | MadScientistTheFirst | 57,342
+302 | Doovs | 56,967
 303 | bakerdawg555 | 56,890
 304 | BitCone_CONE | 56,760
 305 | imbarrydylan | 55,689
