@@ -1,11 +1,11 @@
-Last updated: 23-08-18 03:30:40 UTC  
+Last updated: 23-08-18 03:40:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,777,680
 2 | Wonderful_Bad6531 | 30,398,914
 3 | Jeff5704 | 27,699,386
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 22,473,100
+5 | nakamo-toe | 22,499,730
 6 | ConeDesk | 15,837,683
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,124,676
@@ -297,17 +297,17 @@ Rank | Username | Totals Tips
 294 | zuzieey7719 | 59,085
 295 | Wildspliffosis | 58,703
 296 | Heycheckthisout20 | 58,390
-297 | phrodreky | 57,915
-298 | Final-Scar-941 | 57,315
-299 | Doovs | 56,967
-300 | bakerdawg555 | 56,890
-301 | BitCone_CONE | 56,760
-302 | imbarrydylan | 55,689
-303 | orangesandonions | 55,238
-304 | Outrageous_Storm6537 | 54,275
-305 | Brandillio | 54,271
-306 | WarningKey6517 | 53,910
-307 | slug_tamer | 53,906
+297 | slug_tamer | 58,175
+298 | phrodreky | 57,915
+299 | Final-Scar-941 | 57,315
+300 | Doovs | 56,967
+301 | bakerdawg555 | 56,890
+302 | BitCone_CONE | 56,760
+303 | imbarrydylan | 55,689
+304 | orangesandonions | 55,238
+305 | Outrageous_Storm6537 | 54,275
+306 | Brandillio | 54,271
+307 | WarningKey6517 | 53,910
 308 | nichnotnick | 53,678
 309 | meme_used | 53,516
 310 | Astrochrono | 53,398
