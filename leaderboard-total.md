@@ -1,8 +1,8 @@
-Last updated: 23-08-18 21:41:25 UTC  
+Last updated: 23-08-18 21:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,418,330
-2 | Wonderful_Bad6531 | 30,419,422
+2 | Wonderful_Bad6531 | 30,419,930
 3 | Jeff5704 | 27,699,386
 4 | rickribera93 | 23,775,537
 5 | nakamo-toe | 23,332,072
@@ -115,7 +115,7 @@ Rank | Username | Totals Tips
 112 | unhingedbigfoot | 439,874
 113 | adrifing | 438,505
 114 | Lady_Lucks_Man | 435,373
-115 | junkwatch | 434,131
+115 | junkwatch | 434,620
 116 | Mopeiooo | 427,266
 117 | dronegeeks1 | 414,406
 118 | LrnFaroeseWthBergur | 409,488
