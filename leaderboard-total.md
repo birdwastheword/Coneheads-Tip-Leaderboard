@@ -1,11 +1,11 @@
-Last updated: 23-08-18 03:40:48 UTC  
+Last updated: 23-08-18 03:50:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,777,680
 2 | Wonderful_Bad6531 | 30,398,914
 3 | Jeff5704 | 27,699,386
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 22,499,730
+5 | nakamo-toe | 22,526,360
 6 | ConeDesk | 15,837,683
 7 | HODL-THE-LINE | 11,900,100
 8 | Parush9 | 11,124,676
@@ -163,7 +163,7 @@ Rank | Username | Totals Tips
 160 | SnooMacarons9203 | 227,832
 161 | MisterM0H0 | 227,708
 162 | LongCauliflower6791 | 227,187
-163 | monkeybombed | 225,173
+163 | monkeybombed | 225,274
 164 | legionticket | 224,831
 165 | joeviani | 224,026
 166 | MuhSound | 222,132
