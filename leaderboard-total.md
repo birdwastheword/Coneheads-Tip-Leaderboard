@@ -1,4 +1,4 @@
-Last updated: 23-08-18 09:30:47 UTC  
+Last updated: 23-08-18 09:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 33,990,670
@@ -35,9 +35,9 @@ Rank | Username | Totals Tips
 32 | ZukoBih | 3,082,463
 33 | cutsickass | 3,071,312
 34 | LordBobTheWhale | 2,811,946
-35 | _Royal_Insylum | 2,603,787
-36 | Mean_Bandicoot_7481 | 2,547,906
-37 | transfermymoons | 2,510,421
+35 | transfermymoons | 2,810,421
+36 | _Royal_Insylum | 2,603,787
+37 | Mean_Bandicoot_7481 | 2,547,906
 38 | send420nudes | 2,450,868
 39 | possibili-teas | 2,313,352
 40 | GuyOne | 2,151,299
