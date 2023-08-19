@@ -1,7 +1,7 @@
-Last updated: 23-08-19 06:51:35 UTC  
+Last updated: 23-08-19 07:15:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 34,468,330
+1 | Bitdream200K | 34,497,623
 2 | Wonderful_Bad6531 | 30,419,930
 3 | Jeff5704 | 27,702,049
 4 | rickribera93 | 23,775,537
@@ -283,7 +283,7 @@ Rank | Username | Totals Tips
 280 | adi_00_ | 71,759
 281 | pwan7505 | 71,230
 282 | urlz | 70,874
-283 | Burzzzt88 | 69,931
+283 | Burzzzt88 | 70,351
 284 | AhhhUhmmm | 69,904
 285 | BeefaloSlim | 69,856
 286 | Tapiz3land | 68,892
