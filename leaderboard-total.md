@@ -1,11 +1,11 @@
-Last updated: 23-08-19 18:23:21 UTC  
+Last updated: 23-08-19 18:32:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
 2 | Wonderful_Bad6531 | 30,419,930
 3 | Jeff5704 | 27,702,049
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 23,742,907
+5 | nakamo-toe | 23,745,570
 6 | ConeDesk | 16,849,507
 7 | waterhasnocalories | 15,383,467
 8 | HODL-THE-LINE | 11,900,100
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | clean_cut89 | 3,439,330
 31 | rustyybikes | 3,368,093
 32 | LuminousViper | 3,358,034
-33 | IveDoneItAtLast | 3,347,282
+33 | IveDoneItAtLast | 3,349,945
 34 | ZukoBih | 3,087,789
 35 | LordBobTheWhale | 2,938,544
 36 | _Royal_Insylum | 2,603,787
@@ -56,7 +56,7 @@ Rank | Username | Totals Tips
 53 | DontLaughArt | 1,349,420
 54 | isthistomorrow_ | 1,281,016
 55 | revdrgonzo | 1,229,830
-56 | CMDRGlamdring | 1,190,607
+56 | CMDRGlamdring | 1,201,551
 57 | HestiaIsTheBestia | 1,188,045
 58 | catlover-100 | 1,150,627
 59 | KONGXIANG | 1,125,926
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | freechickens | 1,025,654
 64 | beastlybaker | 1,014,643
 65 | WarmBiertje | 1,000,000
-66 | Fenrir-1919 | 985,049
+66 | Fenrir-1919 | 987,712
 67 | EvanIsBacon | 970,416
 68 | 002_timmy | 961,374
 69 | Richicash | 946,870
@@ -166,9 +166,9 @@ Rank | Username | Totals Tips
 163 | Dripbot8 | 245,384
 164 | noface_reddit | 241,553
 165 | Skank_cunt_42 | 237,870
-166 | Lillica_Golden_SHIB | 235,167
-167 | Zalkwalker | 235,069
-168 | SnooMacarons9203 | 233,158
+166 | SnooMacarons9203 | 235,821
+167 | Lillica_Golden_SHIB | 235,167
+168 | Zalkwalker | 235,069
 169 | coolpattakers | 230,384
 170 | Extreme_Issue7325 | 229,875
 171 | MisterM0H0 | 227,708
@@ -245,9 +245,9 @@ Rank | Username | Totals Tips
 242 | Strong_Constant_1190 | 109,517
 243 | AlternativeBag2619 | 109,483
 244 | Jlt42000 | 107,091
-245 | AD_VICTORIAM_x | 106,876
-246 | Chanyuui1 | 104,940
-247 | cannainform2 | 104,347
+245 | cannainform2 | 107,010
+246 | AD_VICTORIAM_x | 106,876
+247 | Chanyuui1 | 104,940
 248 | rolonic | 102,765
 249 | Final-Scar-941 | 102,562
 250 | Kevin3683 | 102,419
