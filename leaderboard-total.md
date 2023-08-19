@@ -1,4 +1,4 @@
-Last updated: 23-08-19 17:41:11 UTC  
+Last updated: 23-08-19 17:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | ArtConsitent | 3,707,278
 28 | VIVOffical | 3,678,388
 29 | cutsickass | 3,634,627
-30 | clean_cut89 | 3,436,092
+30 | clean_cut89 | 3,438,230
 31 | rustyybikes | 3,368,093
 32 | LuminousViper | 3,358,034
 33 | IveDoneItAtLast | 3,347,282
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | GuyOne | 2,151,299
 43 | Dry_Badger_2403 | 2,150,000
 44 | Autom4tic_Soze | 2,145,822
-45 | ImAlekBan | 2,114,772
+45 | ImAlekBan | 2,118,043
 46 | Affectionate_Hand_76 | 1,835,366
 47 | swampyswede | 1,807,793
 48 | GooderZBK | 1,613,996
@@ -80,7 +80,7 @@ Rank | Username | Totals Tips
 77 | vbutarin | 802,000
 78 | dealkhabari | 794,109
 79 | ziggybri | 781,927
-80 | djrcollectables | 730,896
+80 | djrcollectables | 736,222
 81 | starterpack420694 | 710,420
 82 | WarmIyWacky | 703,049
 83 | RegalReptile_ | 699,119
@@ -166,8 +166,8 @@ Rank | Username | Totals Tips
 163 | Dripbot8 | 245,384
 164 | noface_reddit | 241,553
 165 | Skank_cunt_42 | 237,870
-166 | Zalkwalker | 235,069
-167 | Lillica_Golden_SHIB | 234,960
+166 | Lillica_Golden_SHIB | 235,098
+167 | Zalkwalker | 235,069
 168 | SnooMacarons9203 | 233,158
 169 | coolpattakers | 230,384
 170 | Extreme_Issue7325 | 229,875
@@ -625,10 +625,10 @@ Rank | Username | Totals Tips
 622 | mronki | 7,737
 623 | isthisanavatar | 7,709
 624 | Chichakitty | 7,677
-625 | gold_digger333 | 7,572
-626 | king0ftheroad | 7,500
-627 | Pengpangolin | 7,488
-628 | Nugacity5 | 7,156
+625 | Nugacity5 | 7,576
+626 | gold_digger333 | 7,572
+627 | king0ftheroad | 7,500
+628 | Pengpangolin | 7,488
 629 | Alternative-Radish13 | 6,969
 630 | tbobs04 | 6,969
 631 | CryptoriumOfficial | 6,969
