@@ -1,4 +1,4 @@
-Last updated: 23-08-19 22:21:52 UTC  
+Last updated: 23-08-19 22:30:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | bigbilly1234567899 | 4,496,042
 21 | transfermymoons | 4,111,372
 22 | Ginomania | 4,046,850
-23 | Puddin-Luv | 3,914,059
+23 | Puddin-Luv | 3,916,722
 24 | birdwastheword | 3,913,421
 25 | _ships | 3,842,891
 26 | cutsickass | 3,839,953
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | ArtConsitent | 3,707,278
 29 | VIVOffical | 3,678,388
 30 | IveDoneItAtLast | 3,501,279
-31 | clean_cut89 | 3,461,318
+31 | clean_cut89 | 3,462,318
 32 | LuminousViper | 3,370,698
 33 | rustyybikes | 3,368,093
 34 | ZukoBih | 3,087,789
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | billywright4 | 658,496
 91 | Cravensworth_redux | 655,803
 92 | ValiantJudge29500 | 651,827
-93 | MartynDr | 645,000
+93 | MartynDr | 650,000
 94 | femacampcouncilor | 642,812
 95 | slirpo | 623,211
 96 | Due_Insurance8159 | 601,823
@@ -107,7 +107,7 @@ Rank | Username | Totals Tips
 104 | nichnotnick | 553,678
 105 | shreyaskg | 538,211
 106 | scientifichistorian | 518,582
-107 | Westy3000 | 513,498
+107 | Westy3000 | 513,918
 108 | f0n1xr131ng | 509,681
 109 | Successful-Walk-3902 | 493,886
 110 | MorrisBrett514 | 491,158
@@ -217,7 +217,7 @@ Rank | Username | Totals Tips
 214 | DAMG808 | 148,041
 215 | Sad_Entertainer9961 | 143,248
 216 | Doovs | 142,767
-217 | cannainform2 | 142,030
+217 | cannainform2 | 142,720
 218 | ultra_terrestrial | 140,675
 219 | SalliIsAFem | 140,361
 220 | luisantonio197 | 139,511
@@ -365,9 +365,9 @@ Rank | Username | Totals Tips
 362 | 192000Hertz | 44,320
 363 | Kilv3r | 44,021
 364 | Coneboy2663 | 43,852
-365 | RiightYouKnow | 43,329
-366 | halfABsinC | 43,285
-367 | Virtual-Wrangler5955 | 42,801
+365 | Virtual-Wrangler5955 | 43,409
+366 | RiightYouKnow | 43,329
+367 | halfABsinC | 43,285
 368 | 1ndy1 | 42,611
 369 | CHEROKEEJ4CK | 42,489
 370 | ACE415_ | 42,000
@@ -507,21 +507,21 @@ Rank | Username | Totals Tips
 504 | lookwhatumademedoo | 19,510
 505 | ___MOM___ | 18,853
 506 | Collectibl3 | 18,024
-507 | augustsIippedaway | 17,739
-508 | omfglauren | 17,676
-509 | masterassassin93 | 17,409
-510 | Steves1982 | 17,284
-511 | OutrageousStudy6752 | 17,087
-512 | leviathynx | 16,901
-513 | ipad_daps | 16,394
-514 | Permanent_WSB_Bull | 16,107
-515 | Conflict63 | 16,063
-516 | giooo_tdm | 15,895
-517 | Zwott | 15,441
-518 | Fr3sh-Ch3mical | 15,393
-519 | Rookslook | 15,359
-520 | Rake_wlkr | 15,330
-521 | 2620lukas | 15,174
+507 | 2620lukas | 17,837
+508 | augustsIippedaway | 17,739
+509 | omfglauren | 17,676
+510 | masterassassin93 | 17,409
+511 | Steves1982 | 17,284
+512 | OutrageousStudy6752 | 17,087
+513 | leviathynx | 16,901
+514 | ipad_daps | 16,394
+515 | Permanent_WSB_Bull | 16,107
+516 | Conflict63 | 16,063
+517 | giooo_tdm | 15,895
+518 | Zwott | 15,441
+519 | Fr3sh-Ch3mical | 15,393
+520 | Rookslook | 15,359
+521 | Rake_wlkr | 15,330
 522 | imeme1969 | 15,070
 523 | Doublix | 15,054
 524 | Dboythegreat | 14,508
@@ -605,9 +605,9 @@ Rank | Username | Totals Tips
 602 | Duckeis | 8,873
 603 | BreadfruitIll4265 | 8,608
 604 | J-_Mad | 8,540
-605 | TNJCrypto | 8,468
-606 | ElegantShelter7947 | 8,461
-607 | Diamond_Hands420 | 8,449
+605 | Diamond_Hands420 | 8,518
+606 | TNJCrypto | 8,468
+607 | ElegantShelter7947 | 8,461
 608 | 1-760-706-7425 | 8,272
 609 | akemicariocaer | 8,263
 610 | Handsome_Gourd | 8,242
