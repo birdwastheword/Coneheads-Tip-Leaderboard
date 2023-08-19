@@ -1,4 +1,4 @@
-Last updated: 23-08-19 08:50:40 UTC  
+Last updated: 23-08-19 09:16:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,497,623
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | thelonliestcrowd | 4,541,919
 19 | rikbona | 4,537,110
 20 | bigbilly1234567899 | 4,496,042
-21 | Ginomania | 3,990,927
+21 | Ginomania | 4,033,535
 22 | transfermymoons | 3,961,372
 23 | birdwastheword | 3,900,106
 24 | Puddin-Luv | 3,886,024
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | redzrex | 3,764,751
 27 | ArtConsitent | 3,707,278
 28 | VIVOffical | 3,678,388
-29 | cutsickass | 3,511,964
+29 | cutsickass | 3,531,964
 30 | clean_cut89 | 3,432,829
 31 | rustyybikes | 3,365,757
 32 | LuminousViper | 3,358,034
@@ -155,9 +155,9 @@ Rank | Username | Totals Tips
 152 | Flimsy_Brilliant_239 | 252,028
 153 | Sattack4000 | 250,837
 154 | BeardedBro_ | 248,627
-155 | MadScientistTheFirst | 246,343
-156 | thestonkinator | 246,260
-157 | legionticket | 245,831
+155 | legionticket | 246,831
+156 | MadScientistTheFirst | 246,343
+157 | thestonkinator | 246,260
 158 | Dripbot8 | 245,384
 159 | noface_reddit | 238,890
 160 | Skank_cunt_42 | 237,870
@@ -935,22 +935,22 @@ Rank | Username | Totals Tips
 932 | CapnPratt | 260
 933 | VizeKarma | 241
 934 | True_Impression9773 | 240
-935 | asskickersouthbread | 238
-936 | Bonbon_01 | 237
-937 | Goney85 | 222
-938 | Gravel_Sandwich | 217
-939 | Diamond_Hands420 | 208
-940 | punkmanmatthew | 208
-941 | Drakarna | 207
-942 | TomatilloFabulous602 | 207
-943 | ghandi60seconds | 207
-944 | OisinT | 207
-945 | iateabiggreencandle | 200
-946 | HelpMeWonda | 200
-947 | happily_unlawful | 200
-948 | skyHIGH-1 | 200
-949 | Comfortable_Acadia69 | 173
-950 | Rush4Time | 170
+935 | Rush4Time | 239
+936 | asskickersouthbread | 238
+937 | Bonbon_01 | 237
+938 | Goney85 | 222
+939 | Gravel_Sandwich | 217
+940 | Diamond_Hands420 | 208
+941 | punkmanmatthew | 208
+942 | Drakarna | 207
+943 | TomatilloFabulous602 | 207
+944 | ghandi60seconds | 207
+945 | OisinT | 207
+946 | iateabiggreencandle | 200
+947 | HelpMeWonda | 200
+948 | happily_unlawful | 200
+949 | skyHIGH-1 | 200
+950 | Comfortable_Acadia69 | 173
 951 | deftaj | 169
 952 | Ballerin14 | 169
 953 | clandahlina_redux | 169
