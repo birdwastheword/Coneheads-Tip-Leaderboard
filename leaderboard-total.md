@@ -1,4 +1,4 @@
-Last updated: 23-08-19 08:31:12 UTC  
+Last updated: 23-08-19 08:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,497,623
@@ -84,8 +84,8 @@ Rank | Username | Totals Tips
 81 | evilninjarobot | 682,112
 82 | SKITZ_ZA | 673,394
 83 | frickdom | 667,920
-84 | piebagz | 661,815
-85 | djrcollectables | 661,647
+84 | djrcollectables | 666,973
+85 | piebagz | 661,815
 86 | billywright4 | 658,496
 87 | Cravensworth_redux | 655,803
 88 | ValiantJudge29500 | 651,827
