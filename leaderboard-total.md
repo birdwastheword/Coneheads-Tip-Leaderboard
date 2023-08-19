@@ -1,4 +1,4 @@
-Last updated: 23-08-19 08:22:43 UTC  
+Last updated: 23-08-19 08:31:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,497,623
@@ -85,7 +85,7 @@ Rank | Username | Totals Tips
 82 | SKITZ_ZA | 673,394
 83 | frickdom | 667,920
 84 | piebagz | 661,815
-85 | djrcollectables | 658,984
+85 | djrcollectables | 661,647
 86 | billywright4 | 658,496
 87 | Cravensworth_redux | 655,803
 88 | ValiantJudge29500 | 651,827
@@ -295,9 +295,9 @@ Rank | Username | Totals Tips
 292 | damnusernamegotcutof | 65,004
 293 | guokaidi | 63,245
 294 | ItailianStallion101 | 63,230
-295 | Allions1 | 62,815
-296 | netnemirepxE | 62,645
-297 | CaptainCheeseCake | 62,623
+295 | CaptainCheeseCake | 63,043
+296 | Allions1 | 62,815
+297 | netnemirepxE | 62,645
 298 | shellystarzz | 62,249
 299 | standArtpluto | 62,100
 300 | KrunchyKushKing | 61,532
