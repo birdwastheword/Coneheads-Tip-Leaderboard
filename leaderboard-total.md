@@ -1,4 +1,4 @@
-Last updated: 23-08-19 17:32:52 UTC  
+Last updated: 23-08-19 17:41:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
@@ -22,9 +22,9 @@ Rank | Username | Totals Tips
 19 | rikbona | 4,537,110
 20 | bigbilly1234567899 | 4,496,042
 21 | transfermymoons | 4,111,372
-22 | Ginomania | 4,038,861
+22 | Ginomania | 4,041,524
 23 | birdwastheword | 3,905,432
-24 | Puddin-Luv | 3,895,649
+24 | Puddin-Luv | 3,897,473
 25 | _ships | 3,842,891
 26 | redzrex | 3,773,160
 27 | ArtConsitent | 3,707,278
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | clean_cut89 | 3,436,092
 31 | rustyybikes | 3,368,093
 32 | LuminousViper | 3,358,034
-33 | IveDoneItAtLast | 3,341,956
+33 | IveDoneItAtLast | 3,347,282
 34 | ZukoBih | 3,087,789
 35 | LordBobTheWhale | 2,918,544
 36 | _Royal_Insylum | 2,603,787
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | send420nudes | 2,451,237
 39 | 8inchConer | 2,428,503
 40 | possibili-teas | 2,399,515
-41 | thom_orrow | 2,317,735
+41 | thom_orrow | 2,318,735
 42 | GuyOne | 2,151,299
 43 | Dry_Badger_2403 | 2,150,000
 44 | Autom4tic_Soze | 2,145,822
@@ -78,7 +78,7 @@ Rank | Username | Totals Tips
 75 | Forward_Today2849 | 862,985
 76 | goldyluckinblokchain | 806,385
 77 | vbutarin | 802,000
-78 | dealkhabari | 793,501
+78 | dealkhabari | 794,109
 79 | ziggybri | 781,927
 80 | djrcollectables | 730,896
 81 | starterpack420694 | 710,420
@@ -249,13 +249,13 @@ Rank | Username | Totals Tips
 246 | Chanyuui1 | 104,940
 247 | cannainform2 | 104,347
 248 | rolonic | 102,765
-249 | Kevin3683 | 102,419
-250 | pythonskynet | 101,216
-251 | ACorDC | 100,420
-252 | i_wake_up_at_12 | 100,253
-253 | redditinchina | 99,698
-254 | FeetAndHandFetish | 98,146
-255 | Final-Scar-941 | 98,075
+249 | Final-Scar-941 | 102,562
+250 | Kevin3683 | 102,419
+251 | pythonskynet | 101,216
+252 | ACorDC | 100,420
+253 | i_wake_up_at_12 | 100,253
+254 | redditinchina | 99,698
+255 | FeetAndHandFetish | 98,146
 256 | Knaeggebrott | 97,076
 257 | bakerdawg555 | 96,959
 258 | IOTA_Tesla | 96,607
@@ -421,14 +421,14 @@ Rank | Username | Totals Tips
 418 | rOn3OW | 30,714
 419 | See0tter | 30,579
 420 | LoudlySoupy | 30,408
-421 | MaestroMustache | 30,152
-422 | Big-Researcher-3855 | 29,994
-423 | Potential_Fix_5007 | 29,897
-424 | masedogg98 | 29,707
-425 | tentazoc | 29,686
-426 | TummyLice | 29,647
-427 | Gilbertll | 29,585
-428 | Creative_Ad7831 | 29,163
+421 | Creative_Ad7831 | 30,163
+422 | MaestroMustache | 30,152
+423 | Big-Researcher-3855 | 29,994
+424 | Potential_Fix_5007 | 29,897
+425 | masedogg98 | 29,707
+426 | tentazoc | 29,686
+427 | TummyLice | 29,647
+428 | Gilbertll | 29,585
 429 | Chill_Edoeard | 28,623
 430 | Locid | 28,518
 431 | FoleyKali | 28,423
