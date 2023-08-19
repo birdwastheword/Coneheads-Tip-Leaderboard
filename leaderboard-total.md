@@ -1,4 +1,4 @@
-Last updated: 23-08-19 06:42:52 UTC  
+Last updated: 23-08-19 06:51:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,468,330
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | ConeDesk | 16,849,507
 7 | HODL-THE-LINE | 11,900,100
 8 | waterhasnocalories | 11,642,250
-9 | crypto_grandma | 11,401,591
+9 | crypto_grandma | 11,411,591
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,181,321
 12 | Homeslicekilla | 7,953,728
@@ -166,9 +166,9 @@ Rank | Username | Totals Tips
 163 | SnooMacarons9203 | 230,495
 164 | coolpattakers | 230,384
 165 | Extreme_Issue7325 | 229,875
-166 | MisterM0H0 | 227,708
-167 | LongCauliflower6791 | 227,187
-168 | monkeybombed | 226,792
+166 | monkeybombed | 227,802
+167 | MisterM0H0 | 227,708
+168 | LongCauliflower6791 | 227,187
 169 | joeviani | 226,028
 170 | MuhSound | 225,403
 171 | SourBeefHoop | 217,512
