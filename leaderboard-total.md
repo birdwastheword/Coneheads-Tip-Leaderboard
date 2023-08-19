@@ -1,4 +1,4 @@
-Last updated: 23-08-19 09:24:54 UTC  
+Last updated: 23-08-19 09:33:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,497,623
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | clean_cut89 | 3,432,829
 31 | rustyybikes | 3,365,757
 32 | LuminousViper | 3,358,034
-33 | IveDoneItAtLast | 3,235,259
+33 | IveDoneItAtLast | 3,242,122
 34 | ZukoBih | 3,087,789
 35 | LordBobTheWhale | 2,836,433
 36 | _Royal_Insylum | 2,603,787
