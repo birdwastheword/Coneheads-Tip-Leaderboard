@@ -1,4 +1,4 @@
-Last updated: 23-08-19 07:50:38 UTC  
+Last updated: 23-08-19 08:22:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,497,623
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | birdwastheword | 3,900,106
 24 | Puddin-Luv | 3,886,024
 25 | _ships | 3,842,891
-26 | redzrex | 3,757,782
+26 | redzrex | 3,764,751
 27 | ArtConsitent | 3,707,278
 28 | VIVOffical | 3,678,388
 29 | cutsickass | 3,511,964
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | ImAlekBan | 2,040,335
 46 | Affectionate_Hand_76 | 1,825,366
 47 | GooderZBK | 1,613,996
-48 | Ten-Mins-Late | 1,456,668
+48 | Ten-Mins-Late | 1,498,737
 49 | bray_martin03 | 1,455,117
 50 | swampyswede | 1,452,467
 51 | zdubs | 1,382,613
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | investigator100 | 995,811
 64 | EvanIsBacon | 970,416
 65 | beastlybaker | 965,350
-66 | Fenrir-1919 | 963,225
+66 | Fenrir-1919 | 963,833
 67 | Richicash | 946,870
 68 | Feetfailmenot | 913,375
 69 | Modestexcuse | 903,684
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | CluelessSurvivor | 855,736
 73 | Forward_Today2849 | 842,985
 74 | goldyluckinblokchain | 806,385
-75 | dealkhabari | 785,554
+75 | dealkhabari | 786,162
 76 | ziggybri | 781,927
 77 | starterpack420694 | 710,420
 78 | WarmIyWacky | 703,049
@@ -85,8 +85,8 @@ Rank | Username | Totals Tips
 82 | SKITZ_ZA | 673,394
 83 | frickdom | 667,920
 84 | piebagz | 661,815
-85 | billywright4 | 658,496
-86 | djrcollectables | 656,321
+85 | djrcollectables | 658,984
+86 | billywright4 | 658,496
 87 | Cravensworth_redux | 655,803
 88 | ValiantJudge29500 | 651,827
 89 | femacampcouncilor | 642,812
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | Beenthorny | 212,362
 176 | SigSalvadore | 212,358
 177 | UWphoto | 209,306
-178 | dopelifer09 | 205,280
+178 | dopelifer09 | 207,943
 179 | Gregoryonetulum | 205,109
 180 | superlonelyboy | 203,393
 181 | ziggyback | 203,369
@@ -276,7 +276,7 @@ Rank | Username | Totals Tips
 273 | Derefringence | 76,675
 274 | MedicineMaterial3501 | 74,654
 275 | cannainform2 | 74,002
-276 | Final-Scar-941 | 73,123
+276 | Final-Scar-941 | 73,731
 277 | I_AM_MORE_BADASS | 72,332
 278 | DramaticProtogen | 72,285
 279 | deathtr0 | 71,909
