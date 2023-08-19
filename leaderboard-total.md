@@ -1,4 +1,4 @@
-Last updated: 23-08-19 02:50:44 UTC  
+Last updated: 23-08-19 03:19:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,468,330
@@ -25,7 +25,7 @@ Rank | Username | Totals Tips
 22 | transfermymoons | 3,961,372
 23 | birdwastheword | 3,900,106
 24 | Puddin-Luv | 3,886,024
-25 | _ships | 3,840,228
+25 | _ships | 3,842,891
 26 | redzrex | 3,755,119
 27 | ArtConsitent | 3,707,278
 28 | VIVOffical | 3,678,388
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | _Royal_Insylum | 2,603,787
 37 | Mean_Bandicoot_7481 | 2,547,906
 38 | send420nudes | 2,450,868
-39 | possibili-teas | 2,370,515
+39 | possibili-teas | 2,375,515
 40 | thom_orrow | 2,283,788
 41 | GuyOne | 2,151,299
 42 | Dry_Badger_2403 | 2,130,000
@@ -83,8 +83,8 @@ Rank | Username | Totals Tips
 80 | abracadabra087 | 694,045
 81 | evilninjarobot | 682,112
 82 | SKITZ_ZA | 673,394
-83 | piebagz | 661,815
-84 | frickdom | 661,020
+83 | frickdom | 667,920
+84 | piebagz | 661,815
 85 | billywright4 | 658,496
 86 | djrcollectables | 656,321
 87 | Cravensworth_redux | 655,803
@@ -129,7 +129,7 @@ Rank | Username | Totals Tips
 126 | AustinTX1985 | 368,863
 127 | hellosamaira | 367,489
 128 | farmertypoerror | 359,212
-129 | SHIFTY-T3RROR | 346,640
+129 | SHIFTY-T3RROR | 349,303
 130 | tsudrat | 340,707
 131 | crodbtc | 340,073
 132 | doktastonks | 333,862
@@ -170,23 +170,23 @@ Rank | Username | Totals Tips
 167 | monkeybombed | 226,388
 168 | MuhSound | 225,403
 169 | joeviani | 225,027
-170 | SourBeefHoop | 217,512
-171 | Lillica_Golden_SHIB | 214,279
-172 | tjex666 | 214,138
-173 | alexthemay | 214,131
-174 | Beenthorny | 212,362
-175 | SigSalvadore | 212,358
-176 | MadScientistTheFirst | 210,249
+170 | MadScientistTheFirst | 219,128
+171 | SourBeefHoop | 217,512
+172 | Lillica_Golden_SHIB | 214,279
+173 | tjex666 | 214,138
+174 | alexthemay | 214,131
+175 | Beenthorny | 212,362
+176 | SigSalvadore | 212,358
 177 | UWphoto | 209,306
 178 | Gregoryonetulum | 205,109
 179 | superlonelyboy | 203,393
 180 | ziggyback | 203,369
 181 | WhateverAlready | 203,237
 182 | Esco1980 | 201,771
-183 | CedricDiccory | 197,932
-184 | sudrats | 197,124
-185 | Conetent | 196,810
-186 | dopelifer09 | 195,282
+183 | dopelifer09 | 197,945
+184 | CedricDiccory | 197,932
+185 | sudrats | 197,124
+186 | Conetent | 196,810
 187 | redditavanft | 195,122
 188 | AverageLiberalJoe | 195,007
 189 | the_judge_168 | 188,455
@@ -313,11 +313,11 @@ Rank | Username | Totals Tips
 310 | Heycheckthisout20 | 58,390
 311 | slug_tamer | 58,175
 312 | phrodreky | 57,915
-313 | BitCone_CONE | 56,760
-314 | chuloreddit | 55,878
-315 | imbarrydylan | 55,689
-316 | orangesandonions | 55,238
-317 | jamjam794 | 54,998
+313 | jamjam794 | 57,661
+314 | BitCone_CONE | 56,760
+315 | chuloreddit | 55,878
+316 | imbarrydylan | 55,689
+317 | orangesandonions | 55,238
 318 | Outrageous_Storm6537 | 54,275
 319 | Brandillio | 54,271
 320 | qwertywich | 54,158
