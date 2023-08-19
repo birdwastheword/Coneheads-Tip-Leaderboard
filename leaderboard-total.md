@@ -1,4 +1,4 @@
-Last updated: 23-08-19 18:32:32 UTC  
+Last updated: 23-08-19 18:40:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | redzrex | 3,773,160
 27 | ArtConsitent | 3,707,278
 28 | VIVOffical | 3,678,388
-29 | cutsickass | 3,634,627
+29 | cutsickass | 3,654,627
 30 | clean_cut89 | 3,439,330
 31 | rustyybikes | 3,368,093
 32 | LuminousViper | 3,358,034
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | ZukoBih | 3,087,789
 35 | LordBobTheWhale | 2,938,544
 36 | _Royal_Insylum | 2,603,787
-37 | Mean_Bandicoot_7481 | 2,568,349
+37 | Mean_Bandicoot_7481 | 2,571,965
 38 | send420nudes | 2,451,237
 39 | 8inchConer | 2,428,503
 40 | possibili-teas | 2,399,515
@@ -121,9 +121,9 @@ Rank | Username | Totals Tips
 118 | Lady_Lucks_Man | 435,793
 119 | Mopeiooo | 427,266
 120 | Allions1 | 424,884
-121 | dronegeeks1 | 414,406
-122 | LrnFaroeseWthBergur | 409,488
-123 | Duskopia | 408,425
+121 | Duskopia | 418,425
+122 | dronegeeks1 | 414,406
+123 | LrnFaroeseWthBergur | 409,488
 124 | formidable-opponent | 400,221
 125 | RazPie | 391,328
 126 | Creepy-Nectarine-225 | 377,688
@@ -152,7 +152,7 @@ Rank | Username | Totals Tips
 149 | YarOldeOrchard | 275,387
 150 | legionticket | 269,494
 151 | DogSpark84 | 262,434
-152 | SetoXlll | 259,444
+152 | SetoXlll | 259,513
 153 | thecrabdad | 256,177
 154 | Lion-Hermit | 252,309
 155 | dinoyeti | 252,296
@@ -278,7 +278,7 @@ Rank | Username | Totals Tips
 275 | ItailianStallion101 | 83,230
 276 | RollingSkull0 | 83,098
 277 | Clonkerz | 82,503
-278 | Jadenindubai | 81,400
+278 | Jadenindubai | 82,400
 279 | CrossPuffs | 80,530
 280 | mastermarvs | 80,384
 281 | tmanfromEarth | 79,720
