@@ -1,4 +1,4 @@
-Last updated: 23-08-19 18:40:49 UTC  
+Last updated: 23-08-19 18:50:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | avyun | 6,490,598
 14 | Geniuskills | 6,161,202
 15 | Real_Player_0 | 5,768,290
-16 | HippieStarTraveler | 5,211,096
+16 | HippieStarTraveler | 5,211,165
 17 | ashinamune | 5,180,869
 18 | thelonliestcrowd | 4,541,919
 19 | rikbona | 4,537,110
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | redzrex | 3,773,160
 27 | ArtConsitent | 3,707,278
 28 | VIVOffical | 3,678,388
-29 | cutsickass | 3,654,627
+29 | cutsickass | 3,674,627
 30 | clean_cut89 | 3,439,330
 31 | rustyybikes | 3,368,093
 32 | LuminousViper | 3,358,034
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | ZukoBih | 3,087,789
 35 | LordBobTheWhale | 2,938,544
 36 | _Royal_Insylum | 2,603,787
-37 | Mean_Bandicoot_7481 | 2,571,965
+37 | Mean_Bandicoot_7481 | 2,573,643
 38 | send420nudes | 2,451,237
 39 | 8inchConer | 2,428,503
 40 | possibili-teas | 2,399,515
@@ -109,18 +109,18 @@ Rank | Username | Totals Tips
 106 | scientifichistorian | 517,974
 107 | Westy3000 | 513,498
 108 | f0n1xr131ng | 509,681
-109 | Successful-Walk-3902 | 491,223
+109 | Successful-Walk-3902 | 493,886
 110 | MorrisBrett514 | 491,158
 111 | sinlesco | 462,490
 112 | WarmlyWacky | 462,118
-113 | junkwatch | 454,689
-114 | MediaPrestigious8342 | 453,839
-115 | StepAsideSuckers | 450,614
-116 | unhingedbigfoot | 439,874
-117 | adrifing | 438,505
-118 | Lady_Lucks_Man | 435,793
-119 | Mopeiooo | 427,266
-120 | Allions1 | 424,884
+113 | Allions1 | 457,547
+114 | junkwatch | 454,689
+115 | MediaPrestigious8342 | 453,839
+116 | StepAsideSuckers | 450,614
+117 | unhingedbigfoot | 439,874
+118 | adrifing | 438,505
+119 | Lady_Lucks_Man | 435,793
+120 | Mopeiooo | 427,266
 121 | Duskopia | 418,425
 122 | dronegeeks1 | 414,406
 123 | LrnFaroeseWthBergur | 409,488
@@ -490,11 +490,11 @@ Rank | Username | Totals Tips
 487 | RamboBalboa21 | 21,083
 488 | ikiyen | 21,000
 489 | deezirae | 20,969
-490 | -Boxen | 20,420
-491 | DLPD-Camko | 20,377
-492 | Flamingo777 | 20,277
-493 | Motor-breath8 | 20,110
-494 | Dazzling_Marzipan474 | 20,100
+490 | Dazzling_Marzipan474 | 20,520
+491 | -Boxen | 20,420
+492 | DLPD-Camko | 20,377
+493 | Flamingo777 | 20,277
+494 | Motor-breath8 | 20,110
 495 | Yogi_Kat | 20,020
 496 | NoahG59 | 20,002
 497 | Arash_Rezae | 20,000
