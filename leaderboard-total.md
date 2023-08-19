@@ -1,4 +1,4 @@
-Last updated: 23-08-19 13:31:01 UTC  
+Last updated: 23-08-19 13:40:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,497,623
@@ -17,14 +17,14 @@ Rank | Username | Totals Tips
 14 | Geniuskills | 6,161,202
 15 | Real_Player_0 | 5,765,627
 16 | ashinamune | 5,180,869
-17 | HippieStarTraveler | 4,696,718
+17 | HippieStarTraveler | 4,796,718
 18 | thelonliestcrowd | 4,541,919
 19 | rikbona | 4,537,110
 20 | bigbilly1234567899 | 4,496,042
 21 | Ginomania | 4,036,198
 22 | transfermymoons | 3,961,372
 23 | birdwastheword | 3,900,106
-24 | Puddin-Luv | 3,886,024
+24 | Puddin-Luv | 3,886,444
 25 | _ships | 3,842,891
 26 | redzrex | 3,770,497
 27 | ArtConsitent | 3,707,278
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | GuyOne | 2,151,299
 43 | Dry_Badger_2403 | 2,150,000
 44 | Autom4tic_Soze | 2,145,822
-45 | ImAlekBan | 2,087,611
+45 | ImAlekBan | 2,089,435
 46 | Affectionate_Hand_76 | 1,825,366
 47 | GooderZBK | 1,613,996
 48 | swampyswede | 1,555,130
@@ -198,7 +198,7 @@ Rank | Username | Totals Tips
 195 | Street_Addd | 171,939
 196 | high5s_inureye | 167,388
 197 | MymannosaurusRex | 166,317
-198 | Significant_Talk4943 | 162,380
+198 | Significant_Talk4943 | 162,800
 199 | DamnWhySoLow | 159,733
 200 | _Mitchee_ | 159,023
 201 | Heclalava | 157,615
@@ -246,15 +246,15 @@ Rank | Username | Totals Tips
 243 | Chanyuui1 | 104,940
 244 | rolonic | 102,765
 245 | Kevin3683 | 102,419
-246 | pythonskynet | 101,216
-247 | ACorDC | 100,420
-248 | i_wake_up_at_12 | 100,253
-249 | redditinchina | 99,698
-250 | FeetAndHandFetish | 98,146
-251 | Knaeggebrott | 97,076
-252 | bakerdawg555 | 96,959
-253 | IOTA_Tesla | 96,607
-254 | cannainform2 | 95,676
+246 | cannainform2 | 101,684
+247 | pythonskynet | 101,216
+248 | ACorDC | 100,420
+249 | i_wake_up_at_12 | 100,253
+250 | redditinchina | 99,698
+251 | FeetAndHandFetish | 98,146
+252 | Knaeggebrott | 97,076
+253 | bakerdawg555 | 96,959
+254 | IOTA_Tesla | 96,607
 255 | BrendanTFirefly | 95,347
 256 | wolfman333 | 93,566
 257 | Most_Being_4002 | 92,889
