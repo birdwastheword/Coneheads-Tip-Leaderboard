@@ -1,4 +1,4 @@
-Last updated: 23-08-19 14:19:40 UTC  
+Last updated: 23-08-19 14:30:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,497,623
@@ -40,7 +40,7 @@ Rank | Username | Totals Tips
 37 | Mean_Bandicoot_7481 | 2,547,906
 38 | send420nudes | 2,451,237
 39 | 8inchConer | 2,428,503
-40 | possibili-teas | 2,398,515
+40 | possibili-teas | 2,399,515
 41 | thom_orrow | 2,287,940
 42 | GuyOne | 2,151,299
 43 | Dry_Badger_2403 | 2,150,000
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | ImAlekBan | 2,089,435
 46 | Affectionate_Hand_76 | 1,825,366
 47 | GooderZBK | 1,613,996
-48 | swampyswede | 1,555,130
+48 | swampyswede | 1,557,793
 49 | Ten-Mins-Late | 1,518,738
 50 | bray_martin03 | 1,455,117
 51 | zdubs | 1,402,613
@@ -719,19 +719,19 @@ Rank | Username | Totals Tips
 716 | ineedmoney2023 | 3,307
 717 | Mulleary | 3,271
 718 | trainspottedCSX7 | 3,260
-719 | redditagain91 | 3,163
-720 | PopLegion | 3,152
-721 | Positive-Gazelle2603 | 3,152
-722 | Jenn2895 | 3,139
-723 | ad5xlh | 3,051
-724 | obaming16 | 3,007
-725 | Flat_Opportunity_340 | 3,000
-726 | KingPaladin | 3,000
-727 | _echnaton | 2,896
-728 | KlemenKisi | 2,808
-729 | shityougrin | 2,801
-730 | general_452 | 2,801
-731 | Diamond_Hands420 | 2,797
+719 | Diamond_Hands420 | 3,217
+720 | redditagain91 | 3,163
+721 | PopLegion | 3,152
+722 | Positive-Gazelle2603 | 3,152
+723 | Jenn2895 | 3,139
+724 | ad5xlh | 3,051
+725 | obaming16 | 3,007
+726 | Flat_Opportunity_340 | 3,000
+727 | KingPaladin | 3,000
+728 | _echnaton | 2,896
+729 | KlemenKisi | 2,808
+730 | shityougrin | 2,801
+731 | general_452 | 2,801
 732 | basbcn824 | 2,795
 733 | Painfulblisteronmyb | 2,783
 734 | I_am_not_doing_this | 2,763
