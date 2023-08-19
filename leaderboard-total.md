@@ -1,11 +1,11 @@
-Last updated: 23-08-19 02:21:09 UTC  
+Last updated: 23-08-19 02:30:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,468,330
 2 | Wonderful_Bad6531 | 30,419,930
 3 | Jeff5704 | 27,699,386
 4 | rickribera93 | 23,775,537
-5 | nakamo-toe | 23,360,796
+5 | nakamo-toe | 23,363,459
 6 | ConeDesk | 16,849,507
 7 | HODL-THE-LINE | 11,900,100
 8 | waterhasnocalories | 11,642,250
@@ -188,9 +188,9 @@ Rank | Username | Totals Tips
 185 | Conetent | 196,810
 186 | redditavanft | 195,122
 187 | AverageLiberalJoe | 195,007
-188 | the_judge_168 | 188,455
-189 | ShortBusCult | 188,394
-190 | dopelifer09 | 184,630
+188 | dopelifer09 | 189,956
+189 | the_judge_168 | 188,455
+190 | ShortBusCult | 188,394
 191 | nooobmaester69 | 183,457
 192 | ruccarucca | 179,850
 193 | YourThighsWarmMyEars | 172,697
