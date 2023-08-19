@@ -1,4 +1,4 @@
-Last updated: 23-08-19 13:40:35 UTC  
+Last updated: 23-08-19 13:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,497,623
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | clean_cut89 | 3,432,829
 31 | rustyybikes | 3,368,093
 32 | LuminousViper | 3,358,034
-33 | IveDoneItAtLast | 3,274,034
+33 | IveDoneItAtLast | 3,294,360
 34 | ZukoBih | 3,087,789
 35 | LordBobTheWhale | 2,858,257
 36 | _Royal_Insylum | 2,603,787
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | WarmBiertje | 1,000,000
 63 | investigator100 | 995,811
 64 | beastlybaker | 985,350
-65 | Fenrir-1919 | 983,833
+65 | Fenrir-1919 | 985,049
 66 | EvanIsBacon | 970,416
 67 | Richicash | 946,870
 68 | Feetfailmenot | 913,375
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | 0-Give-a-fucks | 872,379
 73 | Forward_Today2849 | 862,985
 74 | goldyluckinblokchain | 806,385
-75 | dealkhabari | 786,162
+75 | dealkhabari | 787,986
 76 | ziggybri | 781,927
 77 | djrcollectables | 730,896
 78 | starterpack420694 | 710,420
@@ -244,9 +244,9 @@ Rank | Username | Totals Tips
 241 | AD_VICTORIAM_x | 106,876
 242 | Trakorr | 106,058
 243 | Chanyuui1 | 104,940
-244 | rolonic | 102,765
-245 | Kevin3683 | 102,419
-246 | cannainform2 | 101,684
+244 | cannainform2 | 104,347
+245 | rolonic | 102,765
+246 | Kevin3683 | 102,419
 247 | pythonskynet | 101,216
 248 | ACorDC | 100,420
 249 | i_wake_up_at_12 | 100,253
