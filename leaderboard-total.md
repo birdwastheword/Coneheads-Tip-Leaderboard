@@ -1,4 +1,4 @@
-Last updated: 23-08-19 05:40:29 UTC  
+Last updated: 23-08-19 05:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,468,330
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | Real_Player_0 | 5,741,748
 16 | ashinamune | 5,160,869
 17 | HippieStarTraveler | 4,673,289
-18 | thelonliestcrowd | 4,541,499
+18 | thelonliestcrowd | 4,541,919
 19 | rikbona | 4,537,110
 20 | bigbilly1234567899 | 4,496,042
 21 | Ginomania | 3,990,927
@@ -40,7 +40,7 @@ Rank | Username | Totals Tips
 37 | Mean_Bandicoot_7481 | 2,547,906
 38 | send420nudes | 2,450,868
 39 | possibili-teas | 2,375,515
-40 | thom_orrow | 2,283,788
+40 | thom_orrow | 2,283,857
 41 | GuyOne | 2,151,299
 42 | Dry_Badger_2403 | 2,130,000
 43 | 8inchConer | 2,128,503
@@ -561,20 +561,20 @@ Rank | Username | Totals Tips
 558 | 73i1 | 10,412
 559 | kanem87 | 10,304
 560 | Gamestopisthe1 | 10,158
-561 | Alexploded | 10,070
-562 | Sebanimation | 10,000
-563 | Consistent_Air_7646 | 10,000
-564 | LordCitrus69 | 10,000
-565 | xMikaRikax | 10,000
-566 | z6joker9 | 10,000
-567 | boopcorgi | 9,923
-568 | supatard44 | 9,891
-569 | No-Confusion7414 | 9,890
-570 | Cauzzai | 9,672
-571 | kekzilla59 | 9,655
-572 | Mother-Werewolf185 | 9,600
-573 | sM0k3dR4Gn | 9,596
-574 | Dboythegreat | 9,506
+561 | Dboythegreat | 10,106
+562 | Alexploded | 10,070
+563 | Sebanimation | 10,000
+564 | Consistent_Air_7646 | 10,000
+565 | LordCitrus69 | 10,000
+566 | xMikaRikax | 10,000
+567 | z6joker9 | 10,000
+568 | boopcorgi | 9,923
+569 | supatard44 | 9,891
+570 | No-Confusion7414 | 9,890
+571 | Cauzzai | 9,672
+572 | kekzilla59 | 9,655
+573 | Mother-Werewolf185 | 9,600
+574 | sM0k3dR4Gn | 9,596
 575 | xSeekTruthx | 9,459
 576 | mmmohm | 9,363
 577 | Mavis80 | 9,345
