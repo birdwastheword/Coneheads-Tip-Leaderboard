@@ -75,5 +75,6 @@ Rank | Date | Username | Totals Tips | to User
 72 | 2023-08-17 10:42:59 | revdrgonzo | 1,000,000| transfermymoons
 73 | 2023-08-17 12:14:36 | isthistomorrow_ | 1,000,000| transfermymoons
 74 | 2023-08-17 21:50:13 | waterhasnocalories | 1,000,000| 8inchConer
+75 | 2023-08-19 14:45:00 | SpookySYN | 1,000,000| Dry_Badger_2403
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
