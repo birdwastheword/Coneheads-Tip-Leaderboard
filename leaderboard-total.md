@@ -1,4 +1,4 @@
-Last updated: 23-08-19 21:22:21 UTC  
+Last updated: 23-08-19 21:30:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | HODL-THE-LINE | 11,900,100
 9 | crypto_grandma | 11,441,591
 10 | Parush9 | 11,124,676
-11 | SammyCraigar | 8,210,614
+11 | SammyCraigar | 8,476,914
 12 | Homeslicekilla | 7,953,728
 13 | avyun | 6,490,598
 14 | Geniuskills | 6,161,202
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | bigbilly1234567899 | 4,496,042
 21 | transfermymoons | 4,111,372
 22 | Ginomania | 4,044,187
-23 | Puddin-Luv | 3,911,396
+23 | Puddin-Luv | 3,914,059
 24 | birdwastheword | 3,908,095
 25 | _ships | 3,842,891
 26 | cutsickass | 3,839,953
@@ -124,7 +124,7 @@ Rank | Username | Totals Tips
 121 | Duskopia | 426,088
 122 | dronegeeks1 | 414,406
 123 | LrnFaroeseWthBergur | 409,488
-124 | formidable-opponent | 400,221
+124 | formidable-opponent | 407,998
 125 | RazPie | 391,328
 126 | Creepy-Nectarine-225 | 377,688
 127 | zenhodl | 374,566
@@ -195,7 +195,7 @@ Rank | Username | Totals Tips
 192 | Conetent | 196,810
 193 | redditavanft | 195,122
 194 | AverageLiberalJoe | 195,007
-195 | ShortBusCult | 191,057
+195 | ShortBusCult | 192,085
 196 | PortCity_MadMan | 186,325
 197 | nooobmaester69 | 183,457
 198 | ruccarucca | 179,850
@@ -236,12 +236,12 @@ Rank | Username | Totals Tips
 233 | mvea | 115,748
 234 | TubeNerd92 | 114,837
 235 | Trakorr | 114,047
-236 | Fox1931 | 114,000
-237 | wato4000 | 113,476
-238 | MorrisWayne | 112,093
-239 | flying_bacon | 111,860
-240 | adrefofadre | 111,817
-241 | cannainform2 | 111,682
+236 | cannainform2 | 114,018
+237 | Fox1931 | 114,000
+238 | wato4000 | 113,476
+239 | MorrisWayne | 112,093
+240 | flying_bacon | 111,860
+241 | adrefofadre | 111,817
 242 | PushyDevolution | 110,216
 243 | Strong_Constant_1190 | 109,517
 244 | AlternativeBag2619 | 109,483
@@ -288,9 +288,9 @@ Rank | Username | Totals Tips
 285 | GodOfWarGuy737 | 79,069
 286 | fleshlyLoath | 77,946
 287 | mokkingjay | 77,914
-288 | youtooleyesing | 77,229
-289 | Derefringence | 76,675
-290 | DramaticProtogen | 74,948
+288 | DramaticProtogen | 77,611
+289 | youtooleyesing | 77,229
+290 | Derefringence | 76,675
 291 | MedicineMaterial3501 | 74,654
 292 | qwertywich | 74,158
 293 | I_AM_MORE_BADASS | 72,332
