@@ -1,4 +1,4 @@
-Last updated: 23-08-19 20:18:37 UTC  
+Last updated: 23-08-19 20:30:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | avyun | 6,490,598
 14 | Geniuskills | 6,161,202
 15 | Real_Player_0 | 5,768,290
-16 | HippieStarTraveler | 5,211,482
+16 | HippieStarTraveler | 5,211,730
 17 | ashinamune | 5,180,869
 18 | thelonliestcrowd | 4,541,919
 19 | rikbona | 4,537,110
@@ -26,18 +26,18 @@ Rank | Username | Totals Tips
 23 | Puddin-Luv | 3,908,733
 24 | birdwastheword | 3,908,095
 25 | _ships | 3,842,891
-26 | redzrex | 3,773,160
-27 | cutsickass | 3,757,290
+26 | cutsickass | 3,779,953
+27 | redzrex | 3,773,160
 28 | ArtConsitent | 3,707,278
 29 | VIVOffical | 3,678,388
 30 | IveDoneItAtLast | 3,501,279
 31 | clean_cut89 | 3,439,330
 32 | rustyybikes | 3,368,093
-33 | LuminousViper | 3,358,034
+33 | LuminousViper | 3,360,698
 34 | ZukoBih | 3,087,789
 35 | LordBobTheWhale | 2,958,544
 36 | _Royal_Insylum | 2,603,787
-37 | Mean_Bandicoot_7481 | 2,590,754
+37 | Mean_Bandicoot_7481 | 2,592,377
 38 | send420nudes | 2,451,237
 39 | 8inchConer | 2,428,503
 40 | possibili-teas | 2,399,515
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | Dry_Badger_2403 | 2,150,000
 44 | Autom4tic_Soze | 2,145,822
 45 | ImAlekBan | 2,118,112
-46 | Affectionate_Hand_76 | 1,838,029
+46 | Affectionate_Hand_76 | 1,840,692
 47 | swampyswede | 1,807,793
 48 | GooderZBK | 1,613,996
 49 | Ten-Mins-Late | 1,518,738
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | avatarbot | 1,027,000
 63 | freechickens | 1,025,654
 64 | beastlybaker | 1,014,643
-65 | Fenrir-1919 | 1,003,690
+65 | Fenrir-1919 | 1,006,353
 66 | WarmBiertje | 1,000,000
 67 | EvanIsBacon | 970,416
 68 | 002_timmy | 961,374
@@ -80,7 +80,7 @@ Rank | Username | Totals Tips
 77 | vbutarin | 802,000
 78 | dealkhabari | 794,109
 79 | ziggybri | 781,927
-80 | djrcollectables | 738,885
+80 | djrcollectables | 741,548
 81 | starterpack420694 | 710,420
 82 | WarmIyWacky | 703,049
 83 | RegalReptile_ | 699,119
@@ -100,13 +100,13 @@ Rank | Username | Totals Tips
 97 | firstmatedotxyz | 598,580
 98 | __PDS__ | 595,709
 99 | El_Gordone | 592,784
-100 | ID404_Not_Found_8964 | 586,144
-101 | UniversalNoobMaster | 585,762
+100 | UniversalNoobMaster | 586,393
+101 | ID404_Not_Found_8964 | 586,144
 102 | Alanski22 | 582,210
 103 | Independent_Heart_15 | 578,825
 104 | nichnotnick | 553,678
 105 | shreyaskg | 538,211
-106 | scientifichistorian | 517,974
+106 | scientifichistorian | 518,582
 107 | Westy3000 | 513,498
 108 | f0n1xr131ng | 509,681
 109 | Successful-Walk-3902 | 493,886
@@ -121,7 +121,7 @@ Rank | Username | Totals Tips
 118 | adrifing | 438,505
 119 | Lady_Lucks_Man | 435,793
 120 | Mopeiooo | 427,266
-121 | Duskopia | 423,425
+121 | Duskopia | 426,088
 122 | dronegeeks1 | 414,406
 123 | LrnFaroeseWthBergur | 409,488
 124 | formidable-opponent | 400,221
@@ -260,8 +260,8 @@ Rank | Username | Totals Tips
 257 | bakerdawg555 | 96,959
 258 | IOTA_Tesla | 96,607
 259 | BrendanTFirefly | 95,347
-260 | beanwiggin420 | 94,015
-261 | Most_Being_4002 | 93,729
+260 | Most_Being_4002 | 94,149
+261 | beanwiggin420 | 94,015
 262 | wolfman333 | 93,566
 263 | H3adshotfox77 | 92,574
 264 | deathtr0 | 91,909
@@ -361,10 +361,10 @@ Rank | Username | Totals Tips
 358 | NickkyDC | 45,379
 359 | S2K08 | 45,069
 360 | Name_Trikolon | 45,002
-361 | 192000Hertz | 44,320
-362 | Kilv3r | 44,021
-363 | Coneboy2663 | 43,852
-364 | SandersIncBV | 43,592
+361 | SandersIncBV | 44,929
+362 | 192000Hertz | 44,320
+363 | Kilv3r | 44,021
+364 | Coneboy2663 | 43,852
 365 | RiightYouKnow | 43,329
 366 | halfABsinC | 43,285
 367 | Virtual-Wrangler5955 | 42,801
