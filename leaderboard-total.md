@@ -1,4 +1,4 @@
-Last updated: 23-08-19 11:30:56 UTC  
+Last updated: 23-08-19 11:40:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,497,623
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | ConeDesk | 16,849,507
 7 | waterhasnocalories | 14,022,251
 8 | HODL-THE-LINE | 11,900,100
-9 | crypto_grandma | 11,421,591
+9 | crypto_grandma | 11,431,591
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,181,321
 12 | Homeslicekilla | 7,953,728
@@ -43,9 +43,9 @@ Rank | Username | Totals Tips
 40 | 8inchConer | 2,348,503
 41 | thom_orrow | 2,283,857
 42 | GuyOne | 2,151,299
-43 | Dry_Badger_2403 | 2,130,000
+43 | Dry_Badger_2403 | 2,150,000
 44 | Autom4tic_Soze | 2,125,822
-45 | ImAlekBan | 2,064,214
+45 | ImAlekBan | 2,065,430
 46 | Affectionate_Hand_76 | 1,825,366
 47 | GooderZBK | 1,613,996
 48 | Ten-Mins-Late | 1,518,738
