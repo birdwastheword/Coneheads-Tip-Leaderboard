@@ -1,4 +1,4 @@
-Last updated: 23-08-19 17:24:31 UTC  
+Last updated: 23-08-19 17:32:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | avyun | 6,490,598
 14 | Geniuskills | 6,161,202
 15 | Real_Player_0 | 5,768,290
-16 | HippieStarTraveler | 5,211,027
+16 | HippieStarTraveler | 5,211,096
 17 | ashinamune | 5,180,869
 18 | thelonliestcrowd | 4,541,919
 19 | rikbona | 4,537,110
@@ -29,11 +29,11 @@ Rank | Username | Totals Tips
 26 | redzrex | 3,773,160
 27 | ArtConsitent | 3,707,278
 28 | VIVOffical | 3,678,388
-29 | cutsickass | 3,614,627
-30 | clean_cut89 | 3,433,429
+29 | cutsickass | 3,634,627
+30 | clean_cut89 | 3,436,092
 31 | rustyybikes | 3,368,093
 32 | LuminousViper | 3,358,034
-33 | IveDoneItAtLast | 3,331,304
+33 | IveDoneItAtLast | 3,341,956
 34 | ZukoBih | 3,087,789
 35 | LordBobTheWhale | 2,918,544
 36 | _Royal_Insylum | 2,603,787
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | send420nudes | 2,451,237
 39 | 8inchConer | 2,428,503
 40 | possibili-teas | 2,399,515
-41 | thom_orrow | 2,311,072
+41 | thom_orrow | 2,317,735
 42 | GuyOne | 2,151,299
 43 | Dry_Badger_2403 | 2,150,000
 44 | Autom4tic_Soze | 2,145,822
@@ -51,7 +51,7 @@ Rank | Username | Totals Tips
 48 | GooderZBK | 1,613,996
 49 | Ten-Mins-Late | 1,518,738
 50 | bray_martin03 | 1,455,117
-51 | SpookySYN | 1,417,987
+51 | SpookySYN | 1,420,650
 52 | zdubs | 1,402,613
 53 | DontLaughArt | 1,349,420
 54 | isthistomorrow_ | 1,281,016
@@ -255,10 +255,10 @@ Rank | Username | Totals Tips
 252 | i_wake_up_at_12 | 100,253
 253 | redditinchina | 99,698
 254 | FeetAndHandFetish | 98,146
-255 | Knaeggebrott | 97,076
-256 | bakerdawg555 | 96,959
-257 | IOTA_Tesla | 96,607
-258 | Final-Scar-941 | 95,412
+255 | Final-Scar-941 | 98,075
+256 | Knaeggebrott | 97,076
+257 | bakerdawg555 | 96,959
+258 | IOTA_Tesla | 96,607
 259 | BrendanTFirefly | 95,347
 260 | beanwiggin420 | 94,015
 261 | wolfman333 | 93,566
@@ -428,11 +428,11 @@ Rank | Username | Totals Tips
 425 | tentazoc | 29,686
 426 | TummyLice | 29,647
 427 | Gilbertll | 29,585
-428 | Chill_Edoeard | 28,623
-429 | Locid | 28,518
-430 | FoleyKali | 28,423
-431 | acfranks | 28,359
-432 | Creative_Ad7831 | 28,163
+428 | Creative_Ad7831 | 29,163
+429 | Chill_Edoeard | 28,623
+430 | Locid | 28,518
+431 | FoleyKali | 28,423
+432 | acfranks | 28,359
 433 | hvefe | 28,005
 434 | madisonfm | 27,934
 435 | bentolman | 27,871
