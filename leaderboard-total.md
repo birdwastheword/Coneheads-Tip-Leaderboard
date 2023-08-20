@@ -1,4 +1,4 @@
-Last updated: 23-08-20 14:40:56 UTC  
+Last updated: 23-08-20 14:50:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,696,639
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | _ships | 3,843,499
 30 | ArtConsitent | 3,727,278
 31 | IveDoneItAtLast | 3,602,123
-32 | clean_cut89 | 3,569,955
+32 | clean_cut89 | 3,570,055
 33 | LuminousViper | 3,377,736
 34 | rustyybikes | 3,375,755
 35 | Dry_Badger_2403 | 3,166,969
