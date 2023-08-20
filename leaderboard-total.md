@@ -1,4 +1,4 @@
-Last updated: 23-08-20 23:31:01 UTC  
+Last updated: 23-08-20 23:40:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,699,302
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | HODL-THE-LINE | 11,920,100
 9 | crypto_grandma | 11,441,591
 10 | Parush9 | 11,124,676
-11 | SammyCraigar | 8,497,198
+11 | SammyCraigar | 8,499,861
 12 | Homeslicekilla | 7,995,797
 13 | avyun | 6,514,536
 14 | Geniuskills | 6,161,202
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Ginomania | 4,072,502
 27 | Puddin-Luv | 3,980,187
 28 | VIVOffical | 3,886,377
-29 | _ships | 3,870,186
+29 | _ships | 3,874,127
 30 | ArtConsitent | 3,727,278
 31 | IveDoneItAtLast | 3,684,697
 32 | clean_cut89 | 3,571,165
