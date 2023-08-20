@@ -1,9 +1,9 @@
-Last updated: 23-08-20 05:50:46 UTC  
+Last updated: 23-08-20 06:24:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
 2 | Wonderful_Bad6531 | 30,421,046
-3 | Jeff5704 | 27,731,349
+3 | Jeff5704 | 27,757,986
 4 | nakamo-toe | 23,861,496
 5 | rickribera93 | 23,776,537
 6 | ConeDesk | 17,350,723
@@ -18,16 +18,16 @@ Rank | Username | Totals Tips
 15 | Real_Player_0 | 5,771,561
 16 | ashinamune | 5,293,751
 17 | HippieStarTraveler | 5,214,951
-18 | thelonliestcrowd | 4,544,582
+18 | thelonliestcrowd | 4,549,908
 19 | rikbona | 4,537,110
 20 | bigbilly1234567899 | 4,496,042
 21 | transfermymoons | 4,238,002
 22 | Ginomania | 4,046,850
 23 | birdwastheword | 3,943,522
-24 | Puddin-Luv | 3,930,457
-25 | cutsickass | 3,919,953
-26 | VIVOffical | 3,883,714
-27 | redzrex | 3,843,580
+24 | redzrex | 3,933,580
+25 | Puddin-Luv | 3,930,457
+26 | cutsickass | 3,919,953
+27 | VIVOffical | 3,883,714
 28 | _ships | 3,843,499
 29 | ArtConsitent | 3,707,278
 30 | IveDoneItAtLast | 3,556,585
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | Permanent_WSB_Bull | 2,520,607
 39 | send420nudes | 2,451,237
 40 | 8inchConer | 2,428,992
-41 | thom_orrow | 2,417,194
+41 | thom_orrow | 2,422,520
 42 | possibili-teas | 2,399,515
 43 | Autom4tic_Soze | 2,153,485
 44 | GuyOne | 2,151,299
@@ -153,7 +153,7 @@ Rank | Username | Totals Tips
 150 | maxfra | 276,796
 151 | YarOldeOrchard | 275,387
 152 | WhateverAlready | 275,320
-153 | DogSpark84 | 274,791
+153 | DogSpark84 | 274,860
 154 | PortCity_MadMan | 271,723
 155 | legionticket | 269,494
 156 | Lion-Hermit | 265,309
@@ -173,9 +173,9 @@ Rank | Username | Totals Tips
 170 | SnooMacarons9203 | 235,821
 171 | Lillica_Golden_SHIB | 235,236
 172 | Zalkwalker | 235,069
-173 | coolpattakers | 233,047
-174 | Extreme_Issue7325 | 232,538
-175 | dopelifer09 | 231,026
+173 | dopelifer09 | 233,689
+174 | coolpattakers | 233,047
+175 | Extreme_Issue7325 | 232,538
 176 | MisterM0H0 | 227,708
 177 | LongCauliflower6791 | 227,187
 178 | joeviani | 226,028
