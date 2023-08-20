@@ -1,4 +1,4 @@
-Last updated: 23-08-20 18:31:24 UTC  
+Last updated: 23-08-20 18:40:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,696,639
@@ -24,8 +24,8 @@ Rank | Username | Totals Tips
 21 | 8inchConer | 4,446,637
 22 | transfermymoons | 4,388,002
 23 | redzrex | 4,323,671
-24 | cutsickass | 4,241,113
-25 | birdwastheword | 4,177,715
+24 | cutsickass | 4,268,776
+25 | birdwastheword | 4,204,345
 26 | Ginomania | 4,049,513
 27 | Puddin-Luv | 3,974,861
 28 | VIVOffical | 3,886,377
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | Permanent_WSB_Bull | 2,520,607
 42 | send420nudes | 2,451,237
 43 | possibili-teas | 2,399,515
-44 | SpookySYN | 2,306,644
+44 | SpookySYN | 2,309,307
 45 | Autom4tic_Soze | 2,156,148
 46 | GuyOne | 2,151,299
 47 | ImAlekBan | 2,136,498
@@ -52,13 +52,13 @@ Rank | Username | Totals Tips
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,820,671
-52 | dealkhabari | 1,690,026
+52 | dealkhabari | 1,690,095
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,579,439
 55 | zdubs | 1,478,886
 56 | bray_martin03 | 1,458,175
 57 | DontLaughArt | 1,395,081
-58 | evilninjarobot | 1,386,644
+58 | evilninjarobot | 1,389,307
 59 | isthistomorrow_ | 1,281,016
 60 | revdrgonzo | 1,229,888
 61 | CMDRGlamdring | 1,229,875
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | saintajoras | 1,169,017
 64 | KONGXIANG | 1,145,925
 65 | beastlybaker | 1,138,281
-66 | Richicash | 1,071,203
+66 | Richicash | 1,073,866
 67 | Feetfailmenot | 1,041,332
 68 | investigator100 | 1,035,955
 69 | freechickens | 1,028,317
@@ -140,7 +140,7 @@ Rank | Username | Totals Tips
 137 | Mundane-Farm-4117 | 355,513
 138 | anony666mous | 341,008
 139 | tsudrat | 340,707
-140 | Crypto-4-Freedom | 327,608
+140 | Crypto-4-Freedom | 328,028
 141 | Tinman_ApE | 327,539
 142 | Skank_cunt_42 | 326,162
 143 | EffinDrongoC | 312,738
@@ -234,7 +234,7 @@ Rank | Username | Totals Tips
 231 | Awake-- | 128,173
 232 | robnectar | 127,974
 233 | CalligrapherEnough83 | 127,227
-234 | MorrisWayne | 122,762
+234 | MorrisWayne | 125,425
 235 | Sativa55555 | 121,481
 236 | stupidcupid112 | 121,421
 237 | Adrewmc | 121,177
