@@ -1,4 +1,4 @@
-Last updated: 23-08-20 23:00:48 UTC  
+Last updated: 23-08-20 23:18:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,699,302
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | VIVOffical | 3,886,377
 29 | _ships | 3,870,186
 30 | ArtConsitent | 3,727,278
-31 | IveDoneItAtLast | 3,663,363
+31 | IveDoneItAtLast | 3,666,026
 32 | clean_cut89 | 3,571,165
 33 | LuminousViper | 3,377,736
 34 | rustyybikes | 3,375,758
@@ -77,9 +77,9 @@ Rank | Username | Totals Tips
 74 | Forward_Today2849 | 932,405
 75 | Modestexcuse | 903,684
 76 | thee_monster | 896,765
-77 | CluelessSurvivor | 875,736
-78 | djrcollectables | 872,704
-79 | 0-Give-a-fucks | 872,379
+77 | 0-Give-a-fucks | 882,379
+78 | CluelessSurvivor | 875,736
+79 | djrcollectables | 872,704
 80 | Bobisdeadrun | 868,415
 81 | goldyluckinblokchain | 806,385
 82 | vbutarin | 802,000
@@ -170,7 +170,7 @@ Rank | Username | Totals Tips
 167 | Sattack4000 | 250,837
 168 | Gregoryonetulum | 249,309
 169 | BeardedBro_ | 248,627
-170 | MadScientistTheFirst | 246,343
+170 | MadScientistTheFirst | 246,344
 171 | thestonkinator | 246,260
 172 | Dripbot8 | 245,384
 173 | SnooMacarons9203 | 243,810
@@ -294,8 +294,8 @@ Rank | Username | Totals Tips
 291 | Clonkerz | 83,006
 292 | qwertywich | 82,147
 293 | standArtpluto | 82,100
-294 | mastermarvs | 80,384
-295 | AhhhUhmmm | 80,318
+294 | AhhhUhmmm | 80,738
+295 | mastermarvs | 80,384
 296 | Pwny_b0y | 79,447
 297 | diamondbored | 79,397
 298 | GodOfWarGuy737 | 79,069
@@ -368,8 +368,8 @@ Rank | Username | Totals Tips
 365 | shredslanding | 46,650
 366 | hey_barry | 46,513
 367 | S2K08 | 46,057
-368 | Drlitez | 45,436
-369 | Dolce_00 | 45,420
+368 | Dolce_00 | 45,531
+369 | Drlitez | 45,436
 370 | NickkyDC | 45,379
 371 | Name_Trikolon | 45,002
 372 | SandersIncBV | 44,929
