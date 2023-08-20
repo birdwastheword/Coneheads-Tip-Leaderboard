@@ -1,4 +1,4 @@
-Last updated: 23-08-20 07:40:32 UTC  
+Last updated: 23-08-20 07:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
@@ -25,8 +25,8 @@ Rank | Username | Totals Tips
 22 | redzrex | 4,053,580
 23 | Ginomania | 4,046,850
 24 | birdwastheword | 4,008,522
-25 | Puddin-Luv | 3,930,457
-26 | cutsickass | 3,919,953
+25 | cutsickass | 3,932,616
+26 | Puddin-Luv | 3,930,457
 27 | VIVOffical | 3,886,377
 28 | _ships | 3,843,499
 29 | ArtConsitent | 3,707,278
@@ -263,8 +263,8 @@ Rank | Username | Totals Tips
 260 | IOTA_Tesla | 96,607
 261 | BrendanTFirefly | 95,347
 262 | deathtr0 | 94,572
-263 | Most_Being_4002 | 94,149
-264 | beanwiggin420 | 94,015
+263 | beanwiggin420 | 94,435
+264 | Most_Being_4002 | 94,149
 265 | wolfman333 | 93,566
 266 | H3adshotfox77 | 92,574
 267 | Jadenindubai | 92,400
