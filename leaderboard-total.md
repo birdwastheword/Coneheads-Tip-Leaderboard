@@ -1,10 +1,10 @@
-Last updated: 23-08-20 02:42:19 UTC  
+Last updated: 23-08-20 02:50:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
 2 | Wonderful_Bad6531 | 30,421,046
 3 | Jeff5704 | 27,702,049
-4 | nakamo-toe | 23,834,840
+4 | nakamo-toe | 23,842,829
 5 | rickribera93 | 23,776,537
 6 | ConeDesk | 17,350,723
 7 | waterhasnocalories | 15,383,467
@@ -31,11 +31,11 @@ Rank | Username | Totals Tips
 28 | redzrex | 3,773,580
 29 | ArtConsitent | 3,707,278
 30 | IveDoneItAtLast | 3,556,585
-31 | clean_cut89 | 3,511,293
+31 | clean_cut89 | 3,515,383
 32 | LuminousViper | 3,370,698
 33 | rustyybikes | 3,368,093
 34 | ZukoBih | 3,087,789
-35 | LordBobTheWhale | 3,034,758
+35 | LordBobTheWhale | 3,039,758
 36 | Mean_Bandicoot_7481 | 2,616,149
 37 | _Royal_Insylum | 2,603,787
 38 | send420nudes | 2,451,237
