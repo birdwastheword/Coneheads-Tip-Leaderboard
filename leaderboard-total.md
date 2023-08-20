@@ -1,4 +1,4 @@
-Last updated: 23-08-20 19:31:19 UTC  
+Last updated: 23-08-20 19:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,696,639
@@ -194,19 +194,19 @@ Rank | Username | Totals Tips
 191 | SigSalvadore | 212,358
 192 | UWphoto | 209,795
 193 | the_judge_168 | 208,455
-194 | ziggyback | 203,369
-195 | Esco1980 | 201,771
-196 | jimfird | 198,219
-197 | CedricDiccory | 197,932
-198 | sudrats | 197,124
-199 | redditavanft | 195,122
-200 | AverageLiberalJoe | 195,007
-201 | ShortBusCult | 192,505
-202 | TubeNerd92 | 184,257
-203 | nooobmaester69 | 183,460
-204 | ruccarucca | 179,850
-205 | Heclalava | 177,615
-206 | Significant_Talk4943 | 174,139
+194 | Significant_Talk4943 | 204,139
+195 | ziggyback | 203,369
+196 | Esco1980 | 201,771
+197 | jimfird | 198,219
+198 | CedricDiccory | 197,932
+199 | sudrats | 197,124
+200 | redditavanft | 195,122
+201 | AverageLiberalJoe | 195,007
+202 | ShortBusCult | 192,505
+203 | TubeNerd92 | 184,257
+204 | nooobmaester69 | 183,460
+205 | ruccarucca | 179,850
+206 | Heclalava | 177,615
 207 | YourThighsWarmMyEars | 172,697
 208 | Street_Addd | 171,939
 209 | MymannosaurusRex | 171,317
@@ -356,12 +356,12 @@ Rank | Username | Totals Tips
 353 | ConeHead710 | 52,012
 354 | Zezano | 51,563
 355 | lucivaryas | 51,000
-356 | eatthebagels | 49,692
-357 | Levl1Critter | 49,152
-358 | d_Shazam_b | 48,908
-359 | d0ntmess87 | 48,615
-360 | skollywag92 | 47,862
-361 | 1ndy1 | 47,611
+356 | 1ndy1 | 50,274
+357 | eatthebagels | 49,692
+358 | Levl1Critter | 49,152
+359 | d_Shazam_b | 48,908
+360 | d0ntmess87 | 48,615
+361 | skollywag92 | 47,862
 362 | CryptoScamee42069 | 47,454
 363 | Outside-Wolf5928 | 47,433
 364 | mofayew | 46,840
