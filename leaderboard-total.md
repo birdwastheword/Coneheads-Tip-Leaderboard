@@ -1,8 +1,8 @@
-Last updated: 23-08-20 16:27:08 UTC  
+Last updated: 23-08-20 16:35:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,696,639
-2 | Wonderful_Bad6531 | 33,452,176
+2 | Wonderful_Bad6531 | 33,872,176
 3 | Jeff5704 | 27,757,986
 4 | nakamo-toe | 23,880,212
 5 | rickribera93 | 23,776,537
@@ -26,12 +26,12 @@ Rank | Username | Totals Tips
 23 | redzrex | 4,323,671
 24 | Ginomania | 4,049,513
 25 | birdwastheword | 4,035,052
-26 | Puddin-Luv | 3,971,778
+26 | Puddin-Luv | 3,974,861
 27 | cutsickass | 3,960,787
 28 | VIVOffical | 3,886,377
 29 | _ships | 3,843,499
 30 | ArtConsitent | 3,727,278
-31 | IveDoneItAtLast | 3,639,405
+31 | IveDoneItAtLast | 3,644,731
 32 | clean_cut89 | 3,571,165
 33 | LuminousViper | 3,377,736
 34 | rustyybikes | 3,375,758
@@ -136,8 +136,8 @@ Rank | Username | Totals Tips
 133 | hellosamaira | 367,489
 134 | doktastonks | 360,525
 135 | farmertypoerror | 359,212
-136 | Mundane-Farm-4117 | 355,513
-137 | crodbtc | 353,388
+136 | crodbtc | 358,388
+137 | Mundane-Farm-4117 | 355,513
 138 | anony666mous | 341,008
 139 | tsudrat | 340,707
 140 | Crypto-4-Freedom | 327,608
@@ -243,9 +243,9 @@ Rank | Username | Totals Tips
 240 | street_shark_puppet | 116,891
 241 | lordciders | 116,506
 242 | mvea | 115,748
-243 | Fox1931 | 114,000
-244 | wato4000 | 113,476
-245 | MorrisWayne | 112,093
+243 | MorrisWayne | 114,756
+244 | Fox1931 | 114,000
+245 | wato4000 | 113,476
 246 | flying_bacon | 111,860
 247 | adrefofadre | 111,817
 248 | FluffyAspie | 111,617
