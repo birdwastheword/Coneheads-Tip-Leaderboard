@@ -80,5 +80,7 @@ Rank | Date | Username | Totals Tips | to User
 77 | 2023-08-17 21:50:13 | waterhasnocalories | 1,000,000| 8inchConer
 78 | 2023-08-19 14:45:00 | SpookySYN | 1,000,000| Dry_Badger_2403
 79 | 2023-08-20 08:52:35 | Fenrir-1919 | 1,000,000| waterhasnocalories
+80 | 2023-08-20 09:59:16 | Dry_Badger_2403 | 1,000,000| waterhasnocalories
+81 | 2023-08-20 10:01:59 | waterhasnocalories | 1,000,000| Dry_Badger_2403
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
