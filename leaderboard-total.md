@@ -1,10 +1,10 @@
-Last updated: 23-08-20 04:33:00 UTC  
+Last updated: 23-08-20 04:41:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
 2 | Wonderful_Bad6531 | 30,421,046
 3 | Jeff5704 | 27,702,049
-4 | nakamo-toe | 23,858,833
+4 | nakamo-toe | 23,861,496
 5 | rickribera93 | 23,776,537
 6 | ConeDesk | 17,350,723
 7 | waterhasnocalories | 15,383,467
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | avyun | 6,490,598
 14 | Geniuskills | 6,161,202
 15 | Real_Player_0 | 5,771,561
-16 | ashinamune | 5,224,331
+16 | ashinamune | 5,293,751
 17 | HippieStarTraveler | 5,214,951
 18 | thelonliestcrowd | 4,541,919
 19 | rikbona | 4,537,110
