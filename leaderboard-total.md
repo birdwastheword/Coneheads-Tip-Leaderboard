@@ -1,4 +1,4 @@
-Last updated: 23-08-20 13:20:25 UTC  
+Last updated: 23-08-20 13:30:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,665,009
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | bigbilly1234567899 | 4,496,042
 21 | 8inchConer | 4,446,637
 22 | transfermymoons | 4,288,002
-23 | redzrex | 4,239,328
+23 | redzrex | 4,279,328
 24 | Ginomania | 4,049,513
 25 | birdwastheword | 4,032,389
 26 | Puddin-Luv | 3,967,578
@@ -50,8 +50,8 @@ Rank | Username | Totals Tips
 47 | ImAlekBan | 2,135,332
 48 | Fenrir-1919 | 2,050,466
 49 | Affectionate_Hand_76 | 1,946,600
-50 | catlover-100 | 1,913,047
-51 | swampyswede | 1,818,007
+50 | catlover-100 | 1,913,158
+51 | swampyswede | 1,818,008
 52 | dealkhabari | 1,690,026
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,579,439
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | DontLaughArt | 1,365,155
 58 | isthistomorrow_ | 1,281,016
 59 | revdrgonzo | 1,229,888
-60 | CMDRGlamdring | 1,208,051
+60 | CMDRGlamdring | 1,209,875
 61 | HestiaIsTheBestia | 1,188,046
 62 | KONGXIANG | 1,145,925
 63 | beastlybaker | 1,138,281
