@@ -1,4 +1,4 @@
-Last updated: 23-08-20 07:23:47 UTC  
+Last updated: 23-08-20 07:32:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
@@ -22,9 +22,9 @@ Rank | Username | Totals Tips
 19 | rikbona | 4,537,110
 20 | bigbilly1234567899 | 4,496,042
 21 | transfermymoons | 4,238,002
-22 | Ginomania | 4,046,850
-23 | redzrex | 4,043,580
-24 | birdwastheword | 3,953,522
+22 | redzrex | 4,053,580
+23 | Ginomania | 4,046,850
+24 | birdwastheword | 3,958,522
 25 | Puddin-Luv | 3,930,457
 26 | cutsickass | 3,919,953
 27 | VIVOffical | 3,883,714
