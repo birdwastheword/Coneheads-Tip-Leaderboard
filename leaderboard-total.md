@@ -1,4 +1,4 @@
-Last updated: 23-08-20 02:24:53 UTC  
+Last updated: 23-08-20 02:34:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | transfermymoons | 4,238,002
 22 | Ginomania | 4,046,850
 23 | birdwastheword | 3,943,522
-24 | Puddin-Luv | 3,927,794
+24 | Puddin-Luv | 3,930,457
 25 | _ships | 3,843,499
 26 | cutsickass | 3,839,953
 27 | VIVOffical | 3,783,714
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | send420nudes | 2,451,237
 39 | 8inchConer | 2,428,992
 40 | possibili-teas | 2,399,515
-41 | thom_orrow | 2,329,387
+41 | thom_orrow | 2,332,050
 42 | GuyOne | 2,151,299
 43 | Dry_Badger_2403 | 2,150,000
 44 | Autom4tic_Soze | 2,148,485
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | Affectionate_Hand_76 | 1,845,692
 47 | swampyswede | 1,808,007
 48 | GooderZBK | 1,613,996
-49 | SpookySYN | 1,582,345
+49 | SpookySYN | 1,585,008
 50 | Ten-Mins-Late | 1,518,738
 51 | zdubs | 1,474,906
 52 | bray_martin03 | 1,457,780
@@ -113,9 +113,9 @@ Rank | Username | Totals Tips
 110 | MorrisBrett514 | 501,578
 111 | Successful-Walk-3902 | 493,886
 112 | Allions1 | 470,210
-113 | sinlesco | 462,490
-114 | WarmlyWacky | 462,118
-115 | junkwatch | 455,109
+113 | junkwatch | 468,021
+114 | sinlesco | 462,490
+115 | WarmlyWacky | 462,118
 116 | MediaPrestigious8342 | 453,839
 117 | StepAsideSuckers | 451,614
 118 | unhingedbigfoot | 439,874
@@ -205,8 +205,8 @@ Rank | Username | Totals Tips
 202 | high5s_inureye | 167,388
 203 | MymannosaurusRex | 166,317
 204 | Significant_Talk4943 | 162,800
-205 | DamnWhySoLow | 159,733
-206 | cannainform2 | 158,940
+205 | cannainform2 | 161,940
+206 | DamnWhySoLow | 159,733
 207 | Heclalava | 157,615
 208 | MelonFarmer420 | 154,707
 209 | 6reficul | 153,884
@@ -296,17 +296,17 @@ Rank | Username | Totals Tips
 293 | BeefaloSlim | 72,519
 294 | I_AM_MORE_BADASS | 72,332
 295 | adi_00_ | 71,759
-296 | Bobisdeadrun | 71,502
-297 | Admirito | 71,317
-298 | pwan7505 | 71,230
-299 | sparanaghcoar | 71,118
-300 | Burzzzt88 | 70,771
-301 | drche35 | 70,397
-302 | AhhhUhmmm | 69,973
-303 | Tapiz3land | 68,942
-304 | AnduriII | 68,244
-305 | Friendly-Airline2426 | 66,545
-306 | fettskull | 66,373
+296 | fettskull | 71,699
+297 | Bobisdeadrun | 71,502
+298 | Admirito | 71,317
+299 | pwan7505 | 71,230
+300 | sparanaghcoar | 71,118
+301 | Burzzzt88 | 70,771
+302 | drche35 | 70,397
+303 | AhhhUhmmm | 70,042
+304 | Tapiz3land | 68,942
+305 | AnduriII | 68,244
+306 | Friendly-Airline2426 | 66,545
 307 | imp3order | 65,546
 308 | Diamond_PnutBrain | 65,210
 309 | damnusernamegotcutof | 65,004
