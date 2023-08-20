@@ -1,4 +1,4 @@
-Last updated: 23-08-20 14:19:07 UTC  
+Last updated: 23-08-20 14:30:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,696,639
@@ -8,14 +8,14 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 23,776,537
 6 | waterhasnocalories | 18,181,920
 7 | ConeDesk | 17,350,723
-8 | HODL-THE-LINE | 11,900,100
+8 | HODL-THE-LINE | 11,920,100
 9 | crypto_grandma | 11,441,591
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,490,229
 12 | Homeslicekilla | 7,995,797
 13 | avyun | 6,514,536
 14 | Geniuskills | 6,161,202
-15 | Real_Player_0 | 5,803,645
+15 | Real_Player_0 | 5,806,308
 16 | ashinamune | 5,369,820
 17 | HippieStarTraveler | 5,216,205
 18 | thelonliestcrowd | 4,549,908
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | transfermymoons | 4,288,002
 24 | Ginomania | 4,049,513
 25 | birdwastheword | 4,035,052
-26 | Puddin-Luv | 3,967,578
+26 | Puddin-Luv | 3,967,998
 27 | cutsickass | 3,958,124
 28 | VIVOffical | 3,886,377
 29 | _ships | 3,843,499
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | SpookySYN | 2,146,277
 47 | ImAlekBan | 2,135,332
 48 | Fenrir-1919 | 2,050,466
-49 | Affectionate_Hand_76 | 1,946,600
+49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,820,671
 52 | dealkhabari | 1,690,026
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | Ten-Mins-Late | 1,579,439
 55 | zdubs | 1,476,454
 56 | bray_martin03 | 1,458,175
-57 | DontLaughArt | 1,375,155
+57 | DontLaughArt | 1,387,807
 58 | isthistomorrow_ | 1,281,016
 59 | revdrgonzo | 1,229,888
 60 | CMDRGlamdring | 1,219,875
@@ -267,7 +267,7 @@ Rank | Username | Totals Tips
 264 | bakerdawg555 | 96,959
 265 | IOTA_Tesla | 96,607
 266 | BrendanTFirefly | 95,347
-267 | beanwiggin420 | 94,435
+267 | beanwiggin420 | 94,933
 268 | Most_Being_4002 | 94,149
 269 | tmanfromEarth | 94,065
 270 | wolfman333 | 93,566
@@ -673,8 +673,8 @@ Rank | Username | Totals Tips
 670 | OddNebula2844 | 5,938
 671 | theBarefootedBastard | 5,896
 672 | Sir_Mobius_Mook | 5,840
-673 | stspts | 5,822
-674 | Hot_Potato_Salad | 5,763
+673 | Hot_Potato_Salad | 5,832
+674 | stspts | 5,822
 675 | aPandox | 5,695
 676 | Makaveli4Sheez | 5,569
 677 | DioDilemma | 5,545
