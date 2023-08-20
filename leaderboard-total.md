@@ -1,4 +1,4 @@
-Last updated: 23-08-20 13:30:45 UTC  
+Last updated: 23-08-20 13:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,665,009
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | VIVOffical | 3,886,377
 29 | _ships | 3,843,499
 30 | ArtConsitent | 3,727,278
-31 | IveDoneItAtLast | 3,571,466
+31 | IveDoneItAtLast | 3,582,800
 32 | clean_cut89 | 3,569,435
 33 | LuminousViper | 3,377,736
 34 | rustyybikes | 3,370,756
@@ -311,9 +311,9 @@ Rank | Username | Totals Tips
 308 | Rush4Time | 69,659
 309 | Tapiz3land | 68,942
 310 | AnduriII | 68,244
-311 | Friendly-Airline2426 | 66,545
-312 | imp3order | 65,546
-313 | Diamond_PnutBrain | 65,210
+311 | Diamond_PnutBrain | 67,873
+312 | Friendly-Airline2426 | 66,545
+313 | imp3order | 65,546
 314 | damnusernamegotcutof | 65,004
 315 | guokaidi | 63,245
 316 | slug_tamer | 63,175
