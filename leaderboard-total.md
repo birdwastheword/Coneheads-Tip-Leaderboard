@@ -1,4 +1,4 @@
-Last updated: 23-08-20 12:41:31 UTC  
+Last updated: 23-08-20 12:57:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,665,009
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | Homeslicekilla | 7,953,728
 13 | avyun | 6,514,536
 14 | Geniuskills | 6,161,202
-15 | Real_Player_0 | 5,794,224
+15 | Real_Player_0 | 5,794,757
 16 | ashinamune | 5,369,820
 17 | HippieStarTraveler | 5,216,136
 18 | thelonliestcrowd | 4,549,908
@@ -23,8 +23,8 @@ Rank | Username | Totals Tips
 20 | bigbilly1234567899 | 4,496,042
 21 | 8inchConer | 4,446,637
 22 | transfermymoons | 4,288,002
-23 | redzrex | 4,229,328
-24 | Ginomania | 4,046,850
+23 | redzrex | 4,239,328
+24 | Ginomania | 4,049,513
 25 | birdwastheword | 4,032,389
 26 | Puddin-Luv | 3,967,578
 27 | cutsickass | 3,958,124
@@ -32,13 +32,13 @@ Rank | Username | Totals Tips
 29 | _ships | 3,843,499
 30 | ArtConsitent | 3,727,278
 31 | IveDoneItAtLast | 3,571,466
-32 | clean_cut89 | 3,566,352
+32 | clean_cut89 | 3,569,435
 33 | LuminousViper | 3,377,736
 34 | rustyybikes | 3,370,756
 35 | Dry_Badger_2403 | 3,166,969
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,046,727
-38 | Mean_Bandicoot_7481 | 2,630,574
+38 | Mean_Bandicoot_7481 | 2,631,574
 39 | _Royal_Insylum | 2,603,787
 40 | Permanent_WSB_Bull | 2,520,607
 41 | thom_orrow | 2,454,939
@@ -47,9 +47,9 @@ Rank | Username | Totals Tips
 44 | Autom4tic_Soze | 2,153,485
 45 | GuyOne | 2,151,299
 46 | SpookySYN | 2,146,277
-47 | ImAlekBan | 2,135,263
+47 | ImAlekBan | 2,135,332
 48 | Fenrir-1919 | 2,050,466
-49 | Affectionate_Hand_76 | 1,936,531
+49 | Affectionate_Hand_76 | 1,936,600
 50 | catlover-100 | 1,913,047
 51 | swampyswede | 1,818,007
 52 | dealkhabari | 1,690,026
@@ -78,8 +78,8 @@ Rank | Username | Totals Tips
 75 | thee_monster | 896,765
 76 | CluelessSurvivor | 875,736
 77 | 0-Give-a-fucks | 872,379
-78 | Bobisdeadrun | 867,638
-79 | djrcollectables | 808,792
+78 | Bobisdeadrun | 868,415
+79 | djrcollectables | 814,118
 80 | goldyluckinblokchain | 806,385
 81 | vbutarin | 802,000
 82 | ziggybri | 781,927
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | unhingedbigfoot | 439,874
 121 | adrifing | 438,505
 122 | Lady_Lucks_Man | 435,793
-123 | Duskopia | 428,751
+123 | Duskopia | 433,751
 124 | Mopeiooo | 427,266
 125 | dronegeeks1 | 414,406
 126 | LrnFaroeseWthBergur | 409,488
@@ -151,7 +151,7 @@ Rank | Username | Totals Tips
 148 | send_tacoz | 293,576
 149 | virmamies | 291,804
 150 | legionticket | 289,494
-151 | astro_nut_ | 279,485
+151 | astro_nut_ | 279,905
 152 | deedopete | 277,247
 153 | maxfra | 276,796
 154 | YarOldeOrchard | 275,387
@@ -202,13 +202,13 @@ Rank | Username | Totals Tips
 199 | ShortBusCult | 192,505
 200 | TubeNerd92 | 184,257
 201 | nooobmaester69 | 183,457
-202 | ruccarucca | 179,850
-203 | Heclalava | 177,615
-204 | Significant_Talk4943 | 173,220
-205 | YourThighsWarmMyEars | 172,697
-206 | Street_Addd | 171,939
-207 | high5s_inureye | 167,388
-208 | cannainform2 | 166,940
+202 | cannainform2 | 182,360
+203 | ruccarucca | 179,850
+204 | Heclalava | 177,615
+205 | Significant_Talk4943 | 173,220
+206 | YourThighsWarmMyEars | 172,697
+207 | Street_Addd | 171,939
+208 | high5s_inureye | 167,388
 209 | DamnWhySoLow | 166,675
 210 | MymannosaurusRex | 166,317
 211 | MelonFarmer420 | 161,676
@@ -300,11 +300,11 @@ Rank | Username | Totals Tips
 297 | youtooleyesing | 77,229
 298 | Derefringence | 76,675
 299 | MedicineMaterial3501 | 74,654
-300 | BeefaloSlim | 72,519
-301 | I_AM_MORE_BADASS | 72,332
-302 | adi_00_ | 71,759
-303 | fettskull | 71,699
-304 | Admirito | 71,317
+300 | Admirito | 74,364
+301 | BeefaloSlim | 72,519
+302 | I_AM_MORE_BADASS | 72,332
+303 | adi_00_ | 71,759
+304 | fettskull | 71,699
 305 | pwan7505 | 71,230
 306 | sparanaghcoar | 71,118
 307 | drche35 | 70,397
@@ -365,7 +365,7 @@ Rank | Username | Totals Tips
 362 | shredslanding | 46,650
 363 | hey_barry | 46,513
 364 | skollywag92 | 46,178
-365 | S2K08 | 45,438
+365 | S2K08 | 46,057
 366 | Drlitez | 45,436
 367 | Dolce_00 | 45,420
 368 | NickkyDC | 45,379
@@ -384,9 +384,9 @@ Rank | Username | Totals Tips
 381 | PushyDevoIution | 41,695
 382 | acfranks | 41,442
 383 | 4gsboofd | 41,377
-384 | ZoomLong | 41,251
-385 | ARoyaleWithCheese | 41,000
-386 | Chill_Edoeard | 40,968
+384 | Chill_Edoeard | 41,337
+385 | ZoomLong | 41,251
+386 | ARoyaleWithCheese | 41,000
 387 | Expensive_Being_4038 | 40,558
 388 | sicilian2124 | 40,540
 389 | matdabom | 40,068
