@@ -1,10 +1,10 @@
-Last updated: 23-08-20 19:40:37 UTC  
+Last updated: 23-08-20 19:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,696,639
 2 | Wonderful_Bad6531 | 33,875,838
 3 | Jeff5704 | 27,757,986
-4 | nakamo-toe | 23,918,400
+4 | nakamo-toe | 23,921,063
 5 | rickribera93 | 23,776,537
 6 | waterhasnocalories | 18,181,920
 7 | ConeDesk | 17,350,723
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | Geniuskills | 6,161,202
 15 | Real_Player_0 | 5,806,308
 16 | ashinamune | 5,369,820
-17 | HippieStarTraveler | 5,217,045
+17 | HippieStarTraveler | 5,217,183
 18 | thelonliestcrowd | 4,556,232
 19 | transfermymoons | 4,538,002
 20 | rikbona | 4,537,110
@@ -39,12 +39,12 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,056,727
 38 | thom_orrow | 2,711,466
-39 | Mean_Bandicoot_7481 | 2,635,572
+39 | Mean_Bandicoot_7481 | 2,636,572
 40 | _Royal_Insylum | 2,603,787
 41 | Permanent_WSB_Bull | 2,520,607
 42 | send420nudes | 2,451,237
-43 | possibili-teas | 2,399,515
-44 | SpookySYN | 2,314,633
+43 | SpookySYN | 2,424,941
+44 | possibili-teas | 2,399,515
 45 | Autom4tic_Soze | 2,156,148
 46 | GuyOne | 2,151,299
 47 | ImAlekBan | 2,139,161
