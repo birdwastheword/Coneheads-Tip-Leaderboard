@@ -1,4 +1,4 @@
-Last updated: 23-08-20 13:40:33 UTC  
+Last updated: 23-08-20 13:50:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,665,009
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | crypto_grandma | 11,441,591
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,490,229
-12 | Homeslicekilla | 7,953,728
+12 | Homeslicekilla | 7,995,797
 13 | avyun | 6,514,536
 14 | Geniuskills | 6,161,202
 15 | Real_Player_0 | 5,794,757
@@ -31,10 +31,10 @@ Rank | Username | Totals Tips
 28 | VIVOffical | 3,886,377
 29 | _ships | 3,843,499
 30 | ArtConsitent | 3,727,278
-31 | IveDoneItAtLast | 3,582,800
-32 | clean_cut89 | 3,569,435
+31 | IveDoneItAtLast | 3,585,463
+32 | clean_cut89 | 3,569,955
 33 | LuminousViper | 3,377,736
-34 | rustyybikes | 3,370,756
+34 | rustyybikes | 3,373,419
 35 | Dry_Badger_2403 | 3,166,969
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,046,727
@@ -56,7 +56,7 @@ Rank | Username | Totals Tips
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,579,439
 55 | zdubs | 1,476,454
-56 | bray_martin03 | 1,457,780
+56 | bray_martin03 | 1,458,175
 57 | DontLaughArt | 1,365,155
 58 | isthistomorrow_ | 1,281,016
 59 | revdrgonzo | 1,229,888
@@ -66,8 +66,8 @@ Rank | Username | Totals Tips
 63 | beastlybaker | 1,138,281
 64 | Richicash | 1,071,203
 65 | saintajoras | 1,069,017
-66 | investigator100 | 1,035,107
-67 | Feetfailmenot | 1,031,943
+66 | Feetfailmenot | 1,039,912
+67 | investigator100 | 1,035,107
 68 | freechickens | 1,028,317
 69 | avatarbot | 1,027,000
 70 | WarmBiertje | 1,000,000
@@ -374,9 +374,9 @@ Rank | Username | Totals Tips
 371 | tentazoc | 44,078
 372 | Kilv3r | 44,021
 373 | Coneboy2663 | 43,852
-374 | RiightYouKnow | 43,329
-375 | halfABsinC | 43,285
-376 | IHodlStill | 43,077
+374 | IHodlStill | 43,358
+375 | RiightYouKnow | 43,329
+376 | halfABsinC | 43,285
 377 | Creative_Ad7831 | 42,826
 378 | CHEROKEEJ4CK | 42,489
 379 | ACE415_ | 42,000
@@ -576,8 +576,8 @@ Rank | Username | Totals Tips
 573 | IndependenceHungry69 | 11,561
 574 | masstransience | 11,485
 575 | Arvalll | 11,420
-576 | kanem87 | 11,304
-577 | Diamond_Hands420 | 11,248
+576 | Diamond_Hands420 | 11,317
+577 | kanem87 | 11,304
 578 | Bramberken05 | 11,110
 579 | GaryJulesMCOC | 11,110
 580 | Arj_123 | 11,032
