@@ -1,10 +1,10 @@
-Last updated: 23-08-20 02:34:07 UTC  
+Last updated: 23-08-20 02:42:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
 2 | Wonderful_Bad6531 | 30,421,046
 3 | Jeff5704 | 27,702,049
-4 | nakamo-toe | 23,832,177
+4 | nakamo-toe | 23,834,840
 5 | rickribera93 | 23,776,537
 6 | ConeDesk | 17,350,723
 7 | waterhasnocalories | 15,383,467
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | Affectionate_Hand_76 | 1,845,692
 47 | swampyswede | 1,808,007
 48 | GooderZBK | 1,613,996
-49 | SpookySYN | 1,585,008
+49 | SpookySYN | 1,587,671
 50 | Ten-Mins-Late | 1,518,738
 51 | zdubs | 1,474,906
 52 | bray_martin03 | 1,457,780
