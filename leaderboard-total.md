@@ -1,9 +1,9 @@
-Last updated: 23-08-20 05:40:41 UTC  
+Last updated: 23-08-20 05:50:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,547,623
 2 | Wonderful_Bad6531 | 30,421,046
-3 | Jeff5704 | 27,702,049
+3 | Jeff5704 | 27,731,349
 4 | nakamo-toe | 23,861,496
 5 | rickribera93 | 23,776,537
 6 | ConeDesk | 17,350,723
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | Real_Player_0 | 5,771,561
 16 | ashinamune | 5,293,751
 17 | HippieStarTraveler | 5,214,951
-18 | thelonliestcrowd | 4,541,919
+18 | thelonliestcrowd | 4,544,582
 19 | rikbona | 4,537,110
 20 | bigbilly1234567899 | 4,496,042
 21 | transfermymoons | 4,238,002
@@ -38,15 +38,15 @@ Rank | Username | Totals Tips
 35 | LordBobTheWhale | 3,039,758
 36 | Mean_Bandicoot_7481 | 2,625,475
 37 | _Royal_Insylum | 2,603,787
-38 | Permanent_WSB_Bull | 2,518,107
+38 | Permanent_WSB_Bull | 2,520,607
 39 | send420nudes | 2,451,237
 40 | 8inchConer | 2,428,992
-41 | thom_orrow | 2,410,531
+41 | thom_orrow | 2,417,194
 42 | possibili-teas | 2,399,515
 43 | Autom4tic_Soze | 2,153,485
 44 | GuyOne | 2,151,299
 45 | Dry_Badger_2403 | 2,150,000
-46 | SpookySYN | 2,140,951
+46 | SpookySYN | 2,146,277
 47 | ImAlekBan | 2,118,112
 48 | Affectionate_Hand_76 | 1,845,692
 49 | swampyswede | 1,818,007
@@ -54,7 +54,7 @@ Rank | Username | Totals Tips
 51 | Ten-Mins-Late | 1,523,738
 52 | zdubs | 1,476,122
 53 | bray_martin03 | 1,457,780
-54 | DontLaughArt | 1,355,181
+54 | DontLaughArt | 1,356,397
 55 | isthistomorrow_ | 1,281,016
 56 | revdrgonzo | 1,229,830
 57 | CMDRGlamdring | 1,208,051
@@ -132,10 +132,10 @@ Rank | Username | Totals Tips
 129 | zenhodl | 374,566
 130 | AustinTX1985 | 368,863
 131 | hellosamaira | 367,489
-132 | farmertypoerror | 359,212
-133 | Mundane-Farm-4117 | 355,513
-134 | crodbtc | 353,388
-135 | SHIFTY-T3RROR | 349,441
+132 | SHIFTY-T3RROR | 359,441
+133 | farmertypoerror | 359,212
+134 | Mundane-Farm-4117 | 355,513
+135 | crodbtc | 353,388
 136 | anony666mous | 341,008
 137 | tsudrat | 340,707
 138 | doktastonks | 333,862
