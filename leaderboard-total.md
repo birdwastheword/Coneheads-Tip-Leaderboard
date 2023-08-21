@@ -1,4 +1,4 @@
-Last updated: 23-08-21 07:40:52 UTC  
+Last updated: 23-08-21 07:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,699,302
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | Jeff5704 | 27,757,986
 5 | nakamo-toe | 24,143,476
 6 | waterhasnocalories | 18,182,583
-7 | ConeDesk | 17,551,939
+7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
 9 | crypto_grandma | 11,451,591
 10 | Parush9 | 11,124,676
@@ -213,7 +213,7 @@ Rank | Username | Totals Tips
 210 | high5s_inureye | 167,388
 211 | DamnWhySoLow | 166,675
 212 | MelonFarmer420 | 162,936
-213 | Ashamed_Raccoon9918 | 159,909
+213 | Ashamed_Raccoon9918 | 159,978
 214 | Hot_Potato_Salad | 155,009
 215 | 6reficul | 153,884
 216 | martymartinator | 152,560
