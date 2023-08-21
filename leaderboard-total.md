@@ -1,4 +1,4 @@
-Last updated: 23-08-21 14:42:54 UTC  
+Last updated: 23-08-21 14:51:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,944,573
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | Geniuskills | 6,161,202
 15 | Real_Player_0 | 5,820,878
 16 | ashinamune | 5,385,234
-17 | HippieStarTraveler | 5,217,252
+17 | HippieStarTraveler | 5,217,321
 18 | ArtConsitent | 4,727,278
 19 | thelonliestcrowd | 4,558,895
 20 | transfermymoons | 4,538,002
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | possibili-teas | 2,399,515
 45 | Autom4tic_Soze | 2,156,148
 46 | GuyOne | 2,151,299
-47 | ImAlekBan | 2,139,769
+47 | ImAlekBan | 2,140,377
 48 | Fenrir-1919 | 2,051,074
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | dealkhabari | 1,692,758
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,591,784
-55 | zdubs | 1,481,738
+55 | zdubs | 1,484,401
 56 | DontLaughArt | 1,461,392
 57 | bray_martin03 | 1,458,175
 58 | evilninjarobot | 1,389,307
@@ -370,7 +370,7 @@ Rank | Username | Totals Tips
 367 | mofayew | 46,840
 368 | shredslanding | 46,650
 369 | hey_barry | 46,513
-370 | S2K08 | 46,057
+370 | S2K08 | 46,157
 371 | Drlitez | 45,436
 372 | NickkyDC | 45,379
 373 | Name_Trikolon | 45,002
