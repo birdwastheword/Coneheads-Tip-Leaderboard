@@ -1,4 +1,4 @@
-Last updated: 23-08-21 04:26:01 UTC  
+Last updated: 23-08-21 04:34:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,699,302
@@ -339,14 +339,14 @@ Rank | Username | Totals Tips
 336 | preemcuz | 57,894
 337 | 192000Hertz | 57,635
 338 | Outrageous_Storm6537 | 56,938
-339 | BitCone_CONE | 56,760
-340 | Bandit_005 | 56,234
-341 | chuloreddit | 55,878
-342 | imbarrydylan | 55,689
-343 | Bobocod | 55,420
-344 | orangesandonions | 55,238
-345 | Brandillio | 54,271
-346 | 1ndy1 | 54,266
+339 | 1ndy1 | 56,929
+340 | BitCone_CONE | 56,760
+341 | Bandit_005 | 56,234
+342 | chuloreddit | 55,878
+343 | imbarrydylan | 55,689
+344 | Bobocod | 55,420
+345 | orangesandonions | 55,238
+346 | Brandillio | 54,271
 347 | WarningKey6517 | 53,910
 348 | LX1070 | 53,855
 349 | meme_used | 53,516
@@ -549,9 +549,9 @@ Rank | Username | Totals Tips
 546 | subredditlurker69 | 14,177
 547 | theycallmekimpembe | 14,037
 548 | TamilPunk | 13,754
-549 | D6P6 | 13,710
-550 | osoese | 13,680
-551 | foreignGER | 13,657
+549 | foreignGER | 13,726
+550 | D6P6 | 13,710
+551 | osoese | 13,680
 552 | deeeznotes | 13,572
 553 | couchguitar | 13,330
 554 | zahrawins | 13,329
