@@ -1,4 +1,4 @@
-Last updated: 23-08-21 21:42:23 UTC  
+Last updated: 23-08-21 21:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
@@ -26,10 +26,10 @@ Rank | Username | Totals Tips
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,411
 25 | redzrex | 4,358,711
-26 | birdwastheword | 4,213,254
+26 | birdwastheword | 4,213,674
 27 | Ginomania | 4,075,165
 28 | _ships | 3,995,795
-29 | Puddin-Luv | 3,988,596
+29 | Puddin-Luv | 3,991,259
 30 | VIVOffical | 3,886,377
 31 | IveDoneItAtLast | 3,708,365
 32 | clean_cut89 | 3,573,828
@@ -495,11 +495,11 @@ Rank | Username | Totals Tips
 492 | Particular_Equal_490 | 22,256
 493 | beejbum | 22,200
 494 | slasula | 22,135
-495 | Matth3w_95 | 21,820
-496 | Backwood20 | 21,788
-497 | sM0k3dR4Gn | 21,711
-498 | DrD_D | 21,509
-499 | madridgalactico | 21,495
+495 | madridgalactico | 21,915
+496 | Matth3w_95 | 21,820
+497 | Backwood20 | 21,788
+498 | sM0k3dR4Gn | 21,711
+499 | DrD_D | 21,509
 500 | Tasty_Bag | 21,384
 501 | kanem87 | 21,304
 502 | Flamingo777 | 21,275
