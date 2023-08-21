@@ -1,4 +1,4 @@
-Last updated: 23-08-21 22:40:58 UTC  
+Last updated: 23-08-21 22:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | avyun | 6,556,605
 14 | Geniuskills | 6,161,202
 15 | Real_Player_0 | 5,865,610
-16 | ashinamune | 5,392,203
+16 | ashinamune | 5,394,866
 17 | HippieStarTraveler | 5,222,314
 18 | transfermymoons | 4,958,002
 19 | cutsickass | 4,756,689
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 3,375,758
 35 | Dry_Badger_2403 | 3,193,857
 36 | ZukoBih | 3,087,789
-37 | LordBobTheWhale | 3,057,335
+37 | LordBobTheWhale | 3,057,943
 38 | Mean_Bandicoot_7481 | 2,748,882
 39 | thom_orrow | 2,714,533
 40 | _Royal_Insylum | 2,603,787
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | dealkhabari | 1,697,622
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,591,784
-55 | zdubs | 1,484,401
+55 | zdubs | 1,486,225
 56 | DontLaughArt | 1,461,392
 57 | bray_martin03 | 1,458,175
 58 | evilninjarobot | 1,394,633
@@ -132,9 +132,9 @@ Rank | Username | Totals Tips
 129 | Creepy-Nectarine-225 | 385,165
 130 | SHIFTY-T3RROR | 376,410
 131 | zenhodl | 374,566
-132 | AustinTX1985 | 368,863
-133 | hellosamaira | 367,489
-134 | crodbtc | 366,377
+132 | crodbtc | 371,377
+133 | AustinTX1985 | 368,863
+134 | hellosamaira | 367,489
 135 | doktastonks | 360,525
 136 | farmertypoerror | 359,212
 137 | Mundane-Farm-4117 | 355,513
@@ -174,7 +174,7 @@ Rank | Username | Totals Tips
 171 | MadScientistTheFirst | 246,344
 172 | thestonkinator | 246,260
 173 | Dripbot8 | 245,384
-174 | Lillica_Golden_SHIB | 244,612
+174 | Lillica_Golden_SHIB | 244,681
 175 | SnooMacarons9203 | 243,810
 176 | Zalkwalker | 235,069
 177 | coolpattakers | 233,047
@@ -341,8 +341,8 @@ Rank | Username | Totals Tips
 338 | Trink333 | 58,338
 339 | phrodreky | 57,984
 340 | preemcuz | 57,894
-341 | Outrageous_Storm6537 | 56,938
-342 | 1ndy1 | 56,929
+341 | 1ndy1 | 57,349
+342 | Outrageous_Storm6537 | 56,938
 343 | BitCone_CONE | 56,760
 344 | Bandit_005 | 56,303
 345 | chuloreddit | 55,878
@@ -422,9 +422,9 @@ Rank | Username | Totals Tips
 419 | degree-01 | 36,066
 420 | GuronT | 35,561
 421 | TRANZHUMANIST | 35,000
-422 | Obvious-Ask-5747 | 33,806
-423 | PoDunkYuppie | 33,513
-424 | TummyLice | 33,389
+422 | TummyLice | 33,809
+423 | Obvious-Ask-5747 | 33,806
+424 | PoDunkYuppie | 33,513
 425 | Gerboogler | 33,314
 426 | See0tter | 33,242
 427 | xxapplej4ckx | 33,181
