@@ -1,4 +1,4 @@
-Last updated: 23-08-21 02:35:02 UTC  
+Last updated: 23-08-21 02:43:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,699,302
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | waterhasnocalories | 18,182,583
 7 | ConeDesk | 17,551,939
 8 | HODL-THE-LINE | 11,920,100
-9 | crypto_grandma | 11,441,591
+9 | crypto_grandma | 11,451,591
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,499,861
 12 | Homeslicekilla | 7,995,797
@@ -244,9 +244,9 @@ Rank | Username | Totals Tips
 241 | ZeMadMan1 | 117,273
 242 | street_shark_puppet | 116,891
 243 | lordciders | 116,506
-244 | mvea | 115,748
-245 | Fox1931 | 114,000
-246 | wato4000 | 113,476
+244 | wato4000 | 116,139
+245 | mvea | 115,748
+246 | Fox1931 | 114,000
 247 | flying_bacon | 111,860
 248 | adrefofadre | 111,817
 249 | FluffyAspie | 111,617
