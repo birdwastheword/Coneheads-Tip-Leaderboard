@@ -1,4 +1,4 @@
-Last updated: 23-08-21 21:25:07 UTC  
+Last updated: 23-08-21 21:34:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,820,671
-52 | dealkhabari | 1,695,190
+52 | dealkhabari | 1,697,622
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,591,784
 55 | zdubs | 1,484,401
