@@ -1,4 +1,4 @@
-Last updated: 23-08-21 09:20:06 UTC  
+Last updated: 23-08-21 09:30:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,701,965
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | Homeslicekilla | 7,995,797
 13 | avyun | 6,514,536
 14 | Geniuskills | 6,161,202
-15 | Real_Player_0 | 5,806,308
+15 | Real_Player_0 | 5,806,916
 16 | ashinamune | 5,385,234
 17 | HippieStarTraveler | 5,217,252
 18 | ArtConsitent | 4,727,278
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,057,335
 38 | thom_orrow | 2,714,129
-39 | Mean_Bandicoot_7481 | 2,646,209
+39 | Mean_Bandicoot_7481 | 2,651,535
 40 | _Royal_Insylum | 2,603,787
 41 | Permanent_WSB_Bull | 2,522,155
 42 | SpookySYN | 2,453,672
