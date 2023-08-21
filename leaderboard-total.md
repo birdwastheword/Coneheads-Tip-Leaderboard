@@ -1,11 +1,11 @@
-Last updated: 23-08-21 03:40:37 UTC  
+Last updated: 23-08-21 03:50:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,699,302
 2 | Wonderful_Bad6531 | 33,878,501
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,074,261
+5 | nakamo-toe | 24,076,924
 6 | waterhasnocalories | 18,182,583
 7 | ConeDesk | 17,551,939
 8 | HODL-THE-LINE | 11,920,100
@@ -152,15 +152,15 @@ Rank | Username | Totals Tips
 149 | send_tacoz | 293,576
 150 | virmamies | 291,804
 151 | legionticket | 289,494
-152 | astro_nut_ | 279,974
-153 | maxfra | 279,459
-154 | DogSpark84 | 277,523
+152 | DogSpark84 | 280,186
+153 | astro_nut_ | 279,974
+154 | maxfra | 279,459
 155 | deedopete | 277,247
 156 | YarOldeOrchard | 275,662
 157 | WhateverAlready | 275,320
 158 | PortCity_MadMan | 271,723
-159 | Lion-Hermit | 270,232
-160 | dopelifer09 | 266,395
+159 | dopelifer09 | 271,721
+160 | Lion-Hermit | 270,232
 161 | dinoyeti | 262,765
 162 | SetoXlll | 262,513
 163 | thecrabdad | 256,177
