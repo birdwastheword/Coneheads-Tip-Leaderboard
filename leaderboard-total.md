@@ -1,7 +1,7 @@
-Last updated: 23-08-21 11:42:46 UTC  
+Last updated: 23-08-21 11:51:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 34,862,617
+1 | Bitdream200K | 34,931,258
 2 | Wonderful_Bad6531 | 33,878,501
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | Homeslicekilla | 7,995,797
 13 | avyun | 6,514,536
 14 | Geniuskills | 6,161,202
-15 | Real_Player_0 | 5,810,030
+15 | Real_Player_0 | 5,820,270
 16 | ashinamune | 5,385,234
 17 | HippieStarTraveler | 5,217,252
 18 | ArtConsitent | 4,727,278
@@ -78,8 +78,8 @@ Rank | Username | Totals Tips
 75 | 0-Give-a-fucks | 919,009
 76 | Modestexcuse | 903,684
 77 | thee_monster | 896,765
-78 | CluelessSurvivor | 875,836
-79 | djrcollectables | 875,367
+78 | djrcollectables | 878,638
+79 | CluelessSurvivor | 875,836
 80 | Bobisdeadrun | 868,415
 81 | goldyluckinblokchain | 806,385
 82 | vbutarin | 802,000
@@ -107,7 +107,7 @@ Rank | Username | Totals Tips
 104 | El_Gordone | 592,784
 105 | Alanski22 | 582,210
 106 | Independent_Heart_15 | 578,825
-107 | Westy3000 | 557,327
+107 | Westy3000 | 559,549
 108 | nichnotnick | 556,778
 109 | shreyaskg | 538,211
 110 | scientifichistorian | 526,571
