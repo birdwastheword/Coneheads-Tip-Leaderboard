@@ -1,4 +1,4 @@
-Last updated: 23-08-21 14:34:44 UTC  
+Last updated: 23-08-21 14:42:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,944,573
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | KONGXIANG | 1,145,925
 66 | beastlybaker | 1,138,281
 67 | Richicash | 1,073,866
-68 | investigator100 | 1,049,270
+68 | investigator100 | 1,051,933
 69 | freechickens | 1,028,317
 70 | avatarbot | 1,027,000
 71 | WarmBiertje | 1,000,000
@@ -159,8 +159,8 @@ Rank | Username | Totals Tips
 156 | deedopete | 277,247
 157 | WhateverAlready | 275,320
 158 | PortCity_MadMan | 274,386
-159 | dopelifer09 | 271,721
-160 | Lion-Hermit | 270,232
+159 | Lion-Hermit | 272,895
+160 | dopelifer09 | 271,721
 161 | SetoXlll | 263,513
 162 | Flimsy_Brilliant_239 | 262,929
 163 | dinoyeti | 262,765
