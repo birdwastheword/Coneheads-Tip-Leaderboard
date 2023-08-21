@@ -1,4 +1,4 @@
-Last updated: 23-08-21 14:25:14 UTC  
+Last updated: 23-08-21 14:34:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,944,573
@@ -288,7 +288,7 @@ Rank | Username | Totals Tips
 285 | jamjam794 | 86,158
 286 | fettskull | 86,067
 287 | Burzzzt88 | 84,990
-288 | ItailianStallion101 | 84,518
+288 | ItailianStallion101 | 84,619
 289 | Puzzleheaded_Gift738 | 84,020
 290 | RollingSkull0 | 83,098
 291 | Clonkerz | 83,006
