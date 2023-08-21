@@ -1,4 +1,4 @@
-Last updated: 23-08-21 22:24:09 UTC  
+Last updated: 23-08-21 22:32:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
@@ -199,9 +199,9 @@ Rank | Username | Totals Tips
 196 | Esco1980 | 201,771
 197 | jimfird | 199,147
 198 | CedricDiccory | 197,932
-199 | sudrats | 197,124
-200 | redditavanft | 195,122
-201 | FluffyAspie | 195,035
+199 | FluffyAspie | 197,767
+200 | sudrats | 197,124
+201 | redditavanft | 195,122
 202 | AverageLiberalJoe | 195,007
 203 | ShortBusCult | 192,505
 204 | TubeNerd92 | 184,257
