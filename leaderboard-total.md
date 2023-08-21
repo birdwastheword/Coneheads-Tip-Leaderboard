@@ -1,4 +1,4 @@
-Last updated: 23-08-21 10:28:00 UTC  
+Last updated: 23-08-21 10:40:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,701,965
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | maxfra | 279,459
 156 | deedopete | 277,247
 157 | WhateverAlready | 275,320
-158 | PortCity_MadMan | 271,723
+158 | PortCity_MadMan | 274,386
 159 | dopelifer09 | 271,721
 160 | Lion-Hermit | 270,232
 161 | SetoXlll | 263,513
@@ -174,8 +174,8 @@ Rank | Username | Totals Tips
 171 | MadScientistTheFirst | 246,344
 172 | thestonkinator | 246,260
 173 | Dripbot8 | 245,384
-174 | SnooMacarons9203 | 243,810
-175 | Lillica_Golden_SHIB | 243,793
+174 | Lillica_Golden_SHIB | 243,991
+175 | SnooMacarons9203 | 243,810
 176 | Zalkwalker | 235,069
 177 | coolpattakers | 233,047
 178 | Extreme_Issue7325 | 232,538
@@ -379,8 +379,8 @@ Rank | Username | Totals Tips
 376 | Creative_Ad7831 | 44,326
 377 | tentazoc | 44,078
 378 | Kilv3r | 44,021
-379 | Coneboy2663 | 43,852
-380 | IHodlStill | 43,358
+379 | IHodlStill | 43,958
+380 | Coneboy2663 | 43,852
 381 | RiightYouKnow | 43,329
 382 | halfABsinC | 43,285
 383 | CHEROKEEJ4CK | 42,489
