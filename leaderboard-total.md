@@ -1,11 +1,11 @@
-Last updated: 23-08-21 03:50:31 UTC  
+Last updated: 23-08-21 04:26:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,699,302
 2 | Wonderful_Bad6531 | 33,878,501
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,076,924
+5 | nakamo-toe | 24,084,913
 6 | waterhasnocalories | 18,182,583
 7 | ConeDesk | 17,551,939
 8 | HODL-THE-LINE | 11,920,100
@@ -39,9 +39,9 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,057,335
 38 | thom_orrow | 2,714,129
-39 | Mean_Bandicoot_7481 | 2,641,347
+39 | Mean_Bandicoot_7481 | 2,643,910
 40 | _Royal_Insylum | 2,603,787
-41 | Permanent_WSB_Bull | 2,521,349
+41 | Permanent_WSB_Bull | 2,522,155
 42 | SpookySYN | 2,453,672
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
