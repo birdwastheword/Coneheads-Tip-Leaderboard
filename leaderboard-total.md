@@ -1,8 +1,8 @@
-Last updated: 23-08-21 19:31:13 UTC  
+Last updated: 23-08-21 19:40:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,034,518
-2 | Wonderful_Bad6531 | 33,939,809
+2 | Wonderful_Bad6531 | 33,940,925
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
 5 | nakamo-toe | 24,203,154
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | Feetfailmenot | 1,151,105
 66 | beastlybaker | 1,138,281
 67 | Richicash | 1,073,866
-68 | investigator100 | 1,051,933
+68 | investigator100 | 1,054,596
 69 | freechickens | 1,028,317
 70 | avatarbot | 1,027,000
 71 | WarmBiertje | 1,000,000
@@ -78,7 +78,7 @@ Rank | Username | Totals Tips
 75 | 0-Give-a-fucks | 919,009
 76 | Modestexcuse | 903,684
 77 | thee_monster | 896,765
-78 | djrcollectables | 884,572
+78 | djrcollectables | 892,561
 79 | CluelessSurvivor | 875,836
 80 | Bobisdeadrun | 868,415
 81 | goldyluckinblokchain | 806,385
@@ -897,14 +897,14 @@ Rank | Username | Totals Tips
 894 | o_LUCIFER_o | 709
 895 | Mysterious-Heart-459 | 696
 896 | TheNano100 | 696
-897 | daigsischt | 696
-898 | Indisciplinato | 677
-899 | Troll_humper | 665
-900 | True_Sigma_1 | 646
-901 | Riviera20 | 638
-902 | pelaguras | 627
-903 | Avatar_Degen | 627
-904 | skatistic | 627
+897 | skatistic | 696
+898 | daigsischt | 696
+899 | Indisciplinato | 677
+900 | Troll_humper | 665
+901 | True_Sigma_1 | 646
+902 | Riviera20 | 638
+903 | pelaguras | 627
+904 | Avatar_Degen | 627
 905 | QualcunoCF | 620
 906 | barbiescorvette | 608
 907 | iiCollinHD | 608
