@@ -1,4 +1,4 @@
-Last updated: 23-08-21 13:42:40 UTC  
+Last updated: 23-08-21 13:50:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,944,573
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,057,335
 38 | thom_orrow | 2,714,533
-39 | Mean_Bandicoot_7481 | 2,651,535
+39 | Mean_Bandicoot_7481 | 2,654,198
 40 | _Royal_Insylum | 2,603,787
 41 | Permanent_WSB_Bull | 2,522,155
 42 | SpookySYN | 2,453,672
