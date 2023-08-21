@@ -1,4 +1,4 @@
-Last updated: 23-08-21 15:30:48 UTC  
+Last updated: 23-08-21 15:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,002,562
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,057,335
 38 | thom_orrow | 2,714,533
-39 | Mean_Bandicoot_7481 | 2,669,832
+39 | Mean_Bandicoot_7481 | 2,675,446
 40 | _Royal_Insylum | 2,603,787
 41 | Permanent_WSB_Bull | 2,522,155
 42 | SpookySYN | 2,453,672
@@ -60,8 +60,8 @@ Rank | Username | Totals Tips
 57 | bray_martin03 | 1,458,175
 58 | evilninjarobot | 1,391,970
 59 | isthistomorrow_ | 1,281,016
-60 | revdrgonzo | 1,229,888
-61 | CMDRGlamdring | 1,229,875
+60 | CMDRGlamdring | 1,230,875
+61 | revdrgonzo | 1,229,888
 62 | HestiaIsTheBestia | 1,188,046
 63 | saintajoras | 1,169,017
 64 | Feetfailmenot | 1,151,105
@@ -84,7 +84,7 @@ Rank | Username | Totals Tips
 81 | goldyluckinblokchain | 806,385
 82 | vbutarin | 802,000
 83 | ashketchup422 | 787,125
-84 | ziggybri | 781,927
+84 | ziggybri | 782,435
 85 | RegalReptile_ | 742,882
 86 | billywright4 | 726,942
 87 | starterpack420694 | 710,420
@@ -112,8 +112,8 @@ Rank | Username | Totals Tips
 109 | shreyaskg | 538,211
 110 | scientifichistorian | 526,571
 111 | f0n1xr131ng | 509,681
-112 | junkwatch | 503,067
-113 | Allions1 | 502,528
+112 | Allions1 | 503,528
+113 | junkwatch | 503,067
 114 | MorrisBrett514 | 502,487
 115 | Successful-Walk-3902 | 497,157
 116 | StepAsideSuckers | 467,230
