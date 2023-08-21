@@ -1,4 +1,4 @@
-Last updated: 23-08-21 11:00:48 UTC  
+Last updated: 23-08-21 11:17:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,701,965
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | Dry_Badger_2403 | 3,192,857
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,057,335
-38 | thom_orrow | 2,714,129
+38 | thom_orrow | 2,714,533
 39 | Mean_Bandicoot_7481 | 2,651,535
 40 | _Royal_Insylum | 2,603,787
 41 | Permanent_WSB_Bull | 2,522,155
@@ -56,7 +56,7 @@ Rank | Username | Totals Tips
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,591,784
 55 | zdubs | 1,481,738
-56 | DontLaughArt | 1,459,568
+56 | DontLaughArt | 1,460,784
 57 | bray_martin03 | 1,458,175
 58 | evilninjarobot | 1,389,307
 59 | isthistomorrow_ | 1,281,016
@@ -147,7 +147,7 @@ Rank | Username | Totals Tips
 144 | EffinDrongoC | 312,738
 145 | x52x | 304,860
 146 | liwipe | 304,467
-147 | Korean_Street_Pizza | 300,653
+147 | Korean_Street_Pizza | 301,285
 148 | VincentVanGTFO | 300,598
 149 | send_tacoz | 293,576
 150 | legionticket | 293,157
@@ -163,7 +163,7 @@ Rank | Username | Totals Tips
 160 | Lion-Hermit | 270,232
 161 | SetoXlll | 263,513
 162 | dinoyeti | 262,765
-163 | Flimsy_Brilliant_239 | 259,691
+163 | Flimsy_Brilliant_239 | 260,266
 164 | thecrabdad | 256,177
 165 | monkeybombed | 254,539
 166 | noface_reddit | 253,320
@@ -221,7 +221,7 @@ Rank | Username | Totals Tips
 218 | NotFullyTerrestrial | 150,694
 219 | ultra_terrestrial | 149,075
 220 | CoverYourMaskHoles | 149,056
-221 | DAMG808 | 148,041
+221 | DAMG808 | 148,649
 222 | satoshi_oscar_wilde | 144,746
 223 | Sad_Entertainer9961 | 143,248
 224 | Doovs | 142,767
@@ -271,8 +271,8 @@ Rank | Username | Totals Tips
 268 | IOTA_Tesla | 96,607
 269 | BrendanTFirefly | 95,347
 270 | beanwiggin420 | 94,933
-271 | Most_Being_4002 | 94,149
-272 | tmanfromEarth | 94,065
+271 | tmanfromEarth | 94,566
+272 | Most_Being_4002 | 94,149
 273 | wolfman333 | 93,566
 274 | H3adshotfox77 | 92,575
 275 | Jadenindubai | 92,469
