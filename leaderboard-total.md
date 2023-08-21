@@ -1,12 +1,12 @@
-Last updated: 23-08-21 11:17:10 UTC  
+Last updated: 23-08-21 11:25:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 34,701,965
+1 | Bitdream200K | 34,704,628
 2 | Wonderful_Bad6531 | 33,878,501
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
 5 | nakamo-toe | 24,143,476
-6 | waterhasnocalories | 18,282,583
+6 | waterhasnocalories | 18,310,883
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
 9 | crypto_grandma | 11,451,591
@@ -271,8 +271,8 @@ Rank | Username | Totals Tips
 268 | IOTA_Tesla | 96,607
 269 | BrendanTFirefly | 95,347
 270 | beanwiggin420 | 94,933
-271 | tmanfromEarth | 94,566
-272 | Most_Being_4002 | 94,149
+271 | Most_Being_4002 | 94,569
+272 | tmanfromEarth | 94,566
 273 | wolfman333 | 93,566
 274 | H3adshotfox77 | 92,575
 275 | Jadenindubai | 92,469
@@ -333,8 +333,8 @@ Rank | Username | Totals Tips
 330 | Big-Ticket1506 | 59,666
 331 | -geek | 59,318
 332 | meth43 | 59,243
-333 | Wildspliffosis | 58,703
-334 | Heycheckthisout20 | 58,390
+333 | Heycheckthisout20 | 58,762
+334 | Wildspliffosis | 58,703
 335 | Trink333 | 58,338
 336 | phrodreky | 57,984
 337 | preemcuz | 57,894
