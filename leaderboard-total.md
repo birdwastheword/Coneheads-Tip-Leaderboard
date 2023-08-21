@@ -1,11 +1,11 @@
-Last updated: 23-08-21 22:50:41 UTC  
+Last updated: 23-08-21 23:18:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
 2 | Wonderful_Bad6531 | 34,016,179
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,282,024
+5 | nakamo-toe | 24,284,687
 6 | waterhasnocalories | 18,731,573
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
@@ -14,9 +14,9 @@ Rank | Username | Totals Tips
 11 | SammyCraigar | 8,499,861
 12 | Homeslicekilla | 7,995,797
 13 | avyun | 6,556,605
-14 | Geniuskills | 6,161,202
+14 | Geniuskills | 6,163,865
 15 | Real_Player_0 | 5,865,610
-16 | ashinamune | 5,394,866
+16 | ashinamune | 5,429,866
 17 | HippieStarTraveler | 5,222,314
 18 | transfermymoons | 4,958,002
 19 | cutsickass | 4,756,689
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | _ships | 3,995,795
 29 | Puddin-Luv | 3,991,259
 30 | VIVOffical | 3,886,377
-31 | IveDoneItAtLast | 3,708,365
+31 | IveDoneItAtLast | 3,745,346
 32 | clean_cut89 | 3,573,828
 33 | LuminousViper | 3,383,072
 34 | rustyybikes | 3,375,758
@@ -41,8 +41,8 @@ Rank | Username | Totals Tips
 38 | Mean_Bandicoot_7481 | 2,748,882
 39 | thom_orrow | 2,714,533
 40 | _Royal_Insylum | 2,603,787
-41 | Permanent_WSB_Bull | 2,522,155
-42 | SpookySYN | 2,514,056
+41 | SpookySYN | 2,576,709
+42 | Permanent_WSB_Bull | 2,522,155
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
 45 | Autom4tic_Soze | 2,156,148
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | dealkhabari | 1,697,622
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,591,784
-55 | zdubs | 1,486,225
+55 | zdubs | 1,490,524
 56 | DontLaughArt | 1,461,392
 57 | bray_martin03 | 1,458,175
 58 | evilninjarobot | 1,394,633
@@ -94,7 +94,7 @@ Rank | Username | Totals Tips
 91 | abracadabra087 | 694,045
 92 | Due_Insurance8159 | 678,620
 93 | SKITZ_ZA | 673,394
-94 | frickdom | 670,583
+94 | frickdom | 671,003
 95 | piebagz | 661,815
 96 | ValiantJudge29500 | 651,827
 97 | MartynDr | 651,000
@@ -116,7 +116,7 @@ Rank | Username | Totals Tips
 113 | junkwatch | 503,067
 114 | MorrisBrett514 | 502,976
 115 | Successful-Walk-3902 | 497,157
-116 | StepAsideSuckers | 469,566
+116 | StepAsideSuckers | 485,544
 117 | sinlesco | 462,490
 118 | WarmlyWacky | 462,118
 119 | Duskopia | 456,740
@@ -238,7 +238,7 @@ Rank | Username | Totals Tips
 235 | robnectar | 127,974
 236 | CalligrapherEnough83 | 127,227
 237 | Trakorr | 125,110
-238 | tmanfromEarth | 121,510
+238 | tmanfromEarth | 123,510
 239 | Sativa55555 | 121,481
 240 | stupidcupid112 | 121,421
 241 | Adrewmc | 121,177
@@ -341,7 +341,7 @@ Rank | Username | Totals Tips
 338 | Trink333 | 58,338
 339 | phrodreky | 57,984
 340 | preemcuz | 57,894
-341 | 1ndy1 | 57,349
+341 | 1ndy1 | 57,769
 342 | Outrageous_Storm6537 | 56,938
 343 | BitCone_CONE | 56,760
 344 | Bandit_005 | 56,303
@@ -491,11 +491,11 @@ Rank | Username | Totals Tips
 488 | AntonioTT05 | 22,876
 489 | Bundess | 22,746
 490 | Ryaol | 22,663
-491 | aereyy | 22,364
-492 | Particular_Equal_490 | 22,256
-493 | beejbum | 22,200
-494 | slasula | 22,135
-495 | madridgalactico | 21,915
+491 | madridgalactico | 22,605
+492 | aereyy | 22,364
+493 | Particular_Equal_490 | 22,256
+494 | beejbum | 22,200
+495 | slasula | 22,135
 496 | Matth3w_95 | 21,820
 497 | Backwood20 | 21,788
 498 | sM0k3dR4Gn | 21,711
