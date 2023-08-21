@@ -1,7 +1,7 @@
-Last updated: 23-08-21 12:51:34 UTC  
+Last updated: 23-08-21 13:24:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 34,941,910
+1 | Bitdream200K | 34,944,573
 2 | Wonderful_Bad6531 | 33,878,501
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
@@ -56,7 +56,7 @@ Rank | Username | Totals Tips
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,591,784
 55 | zdubs | 1,481,738
-56 | DontLaughArt | 1,460,784
+56 | DontLaughArt | 1,461,392
 57 | bray_martin03 | 1,458,175
 58 | evilninjarobot | 1,389,307
 59 | isthistomorrow_ | 1,281,016
@@ -107,7 +107,7 @@ Rank | Username | Totals Tips
 104 | El_Gordone | 592,784
 105 | Alanski22 | 582,210
 106 | Independent_Heart_15 | 578,825
-107 | Westy3000 | 560,951
+107 | Westy3000 | 563,173
 108 | nichnotnick | 556,778
 109 | shreyaskg | 538,211
 110 | scientifichistorian | 526,571
@@ -154,7 +154,7 @@ Rank | Username | Totals Tips
 151 | virmamies | 291,804
 152 | YarOldeOrchard | 288,325
 153 | DogSpark84 | 280,186
-154 | astro_nut_ | 279,974
+154 | astro_nut_ | 280,043
 155 | maxfra | 279,459
 156 | deedopete | 277,247
 157 | WhateverAlready | 275,320
@@ -162,8 +162,8 @@ Rank | Username | Totals Tips
 159 | dopelifer09 | 271,721
 160 | Lion-Hermit | 270,232
 161 | SetoXlll | 263,513
-162 | dinoyeti | 262,765
-163 | Flimsy_Brilliant_239 | 260,266
+162 | Flimsy_Brilliant_239 | 262,929
+163 | dinoyeti | 262,765
 164 | thecrabdad | 256,177
 165 | monkeybombed | 255,549
 166 | noface_reddit | 253,320
@@ -174,7 +174,7 @@ Rank | Username | Totals Tips
 171 | MadScientistTheFirst | 246,344
 172 | thestonkinator | 246,260
 173 | Dripbot8 | 245,384
-174 | Lillica_Golden_SHIB | 244,198
+174 | Lillica_Golden_SHIB | 244,405
 175 | SnooMacarons9203 | 243,810
 176 | Zalkwalker | 235,069
 177 | coolpattakers | 233,047
@@ -258,7 +258,7 @@ Rank | Username | Totals Tips
 255 | AD_VICTORIAM_x | 106,876
 256 | pythonskynet | 106,285
 257 | Chanyuui1 | 104,940
-258 | CaptainCheeseCake | 104,321
+258 | CaptainCheeseCake | 104,741
 259 | Kevin3683 | 103,653
 260 | rolonic | 102,765
 261 | deathtr0 | 101,541
@@ -516,23 +516,23 @@ Rank | Username | Totals Tips
 513 | Iiwip | 19,533
 514 | MalarkyD | 19,527
 515 | lookwhatumademedoo | 19,510
-516 | sM0k3dR4Gn | 19,048
-517 | ___MOM___ | 18,853
-518 | Rbmui13 | 18,845
-519 | mihii12 | 18,691
-520 | ipad_daps | 18,494
-521 | Bear-Bull-Pig | 18,069
-522 | Collectibl3 | 18,024
-523 | 2620lukas | 17,837
-524 | augustsIippedaway | 17,739
-525 | PRYCDaddy | 17,718
-526 | omfglauren | 17,676
-527 | masterassassin93 | 17,409
-528 | Steves1982 | 17,284
-529 | OutrageousStudy6752 | 17,087
-530 | Sebanimation | 17,004
-531 | leviathynx | 16,901
-532 | madridgalactico | 16,572
+516 | madridgalactico | 19,235
+517 | sM0k3dR4Gn | 19,048
+518 | ___MOM___ | 18,853
+519 | Rbmui13 | 18,845
+520 | mihii12 | 18,691
+521 | ipad_daps | 18,494
+522 | Bear-Bull-Pig | 18,069
+523 | Collectibl3 | 18,024
+524 | 2620lukas | 17,837
+525 | augustsIippedaway | 17,739
+526 | PRYCDaddy | 17,718
+527 | omfglauren | 17,676
+528 | masterassassin93 | 17,409
+529 | Steves1982 | 17,284
+530 | OutrageousStudy6752 | 17,087
+531 | Sebanimation | 17,004
+532 | leviathynx | 16,901
 533 | ipsole | 16,425
 534 | Conflict63 | 16,063
 535 | giooo_tdm | 15,895
