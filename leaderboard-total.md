@@ -1,4 +1,4 @@
-Last updated: 23-08-21 10:40:54 UTC  
+Last updated: 23-08-21 10:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,701,965
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | Homeslicekilla | 7,995,797
 13 | avyun | 6,514,536
 14 | Geniuskills | 6,161,202
-15 | Real_Player_0 | 5,806,916
+15 | Real_Player_0 | 5,809,579
 16 | ashinamune | 5,385,234
 17 | HippieStarTraveler | 5,217,252
 18 | ArtConsitent | 4,727,278
@@ -152,7 +152,7 @@ Rank | Username | Totals Tips
 149 | send_tacoz | 293,576
 150 | legionticket | 293,157
 151 | virmamies | 291,804
-152 | YarOldeOrchard | 285,662
+152 | YarOldeOrchard | 288,325
 153 | DogSpark84 | 280,186
 154 | astro_nut_ | 279,974
 155 | maxfra | 279,459
