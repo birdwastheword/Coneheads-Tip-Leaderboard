@@ -1,7 +1,7 @@
-Last updated: 23-08-21 17:50:50 UTC  
+Last updated: 23-08-21 18:25:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 35,031,855
+1 | Bitdream200K | 35,034,518
 2 | Wonderful_Bad6531 | 33,939,301
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
@@ -20,14 +20,14 @@ Rank | Username | Totals Tips
 17 | HippieStarTraveler | 5,219,230
 18 | ArtConsitent | 4,727,278
 19 | thelonliestcrowd | 4,561,558
-20 | transfermymoons | 4,538,002
-21 | rikbona | 4,537,110
+20 | rikbona | 4,539,773
+21 | transfermymoons | 4,538,002
 22 | bigbilly1234567899 | 4,496,042
 23 | 8inchConer | 4,447,411
 24 | redzrex | 4,358,711
 25 | cutsickass | 4,306,689
 26 | birdwastheword | 4,207,508
-27 | Ginomania | 4,072,502
+27 | Ginomania | 4,075,165
 28 | Puddin-Luv | 3,985,933
 29 | _ships | 3,985,666
 30 | VIVOffical | 3,886,377
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,057,335
 38 | thom_orrow | 2,714,533
-39 | Mean_Bandicoot_7481 | 2,697,200
+39 | Mean_Bandicoot_7481 | 2,700,410
 40 | _Royal_Insylum | 2,603,787
 41 | Permanent_WSB_Bull | 2,522,155
 42 | SpookySYN | 2,487,426
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,820,671
-52 | dealkhabari | 1,692,758
+52 | dealkhabari | 1,695,190
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,591,784
 55 | zdubs | 1,484,401
@@ -280,12 +280,12 @@ Rank | Username | Totals Tips
 277 | urlz | 91,281
 278 | DramaticProtogen | 90,274
 279 | Award-Bot | 90,000
-280 | HokkaidoNights | 88,108
-281 | ShopALF | 87,942
-282 | kwickle | 87,804
-283 | customsolitaires | 87,466
-284 | jurgensdapimp | 86,208
-285 | jamjam794 | 86,158
+280 | jamjam794 | 88,821
+281 | HokkaidoNights | 88,108
+282 | ShopALF | 87,942
+283 | kwickle | 87,804
+284 | customsolitaires | 87,466
+285 | jurgensdapimp | 86,208
 286 | fettskull | 86,067
 287 | Burzzzt88 | 84,990
 288 | ItailianStallion101 | 84,619
@@ -370,13 +370,13 @@ Rank | Username | Totals Tips
 367 | mofayew | 46,840
 368 | shredslanding | 46,650
 369 | hey_barry | 46,513
-370 | S2K08 | 46,157
-371 | Drlitez | 45,436
-372 | NickkyDC | 45,379
-373 | Creative_Ad7831 | 45,326
-374 | Name_Trikolon | 45,002
-375 | SandersIncBV | 44,929
-376 | xSkyFa11x | 44,898
+370 | xSkyFa11x | 46,398
+371 | S2K08 | 46,157
+372 | Drlitez | 45,436
+373 | NickkyDC | 45,379
+374 | Creative_Ad7831 | 45,326
+375 | Name_Trikolon | 45,002
+376 | SandersIncBV | 44,929
 377 | tentazoc | 44,078
 378 | IHodlStill | 44,026
 379 | Kilv3r | 44,021
