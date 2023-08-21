@@ -1,11 +1,11 @@
-Last updated: 23-08-21 22:32:44 UTC  
+Last updated: 23-08-21 22:40:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
 2 | Wonderful_Bad6531 | 34,016,179
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,276,698
+5 | nakamo-toe | 24,282,024
 6 | waterhasnocalories | 18,731,573
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | Homeslicekilla | 7,995,797
 13 | avyun | 6,556,605
 14 | Geniuskills | 6,161,202
-15 | Real_Player_0 | 5,820,878
+15 | Real_Player_0 | 5,865,610
 16 | ashinamune | 5,392,203
 17 | HippieStarTraveler | 5,222,314
 18 | transfermymoons | 4,958,002
@@ -107,7 +107,7 @@ Rank | Username | Totals Tips
 104 | El_Gordone | 592,784
 105 | Alanski22 | 582,210
 106 | Independent_Heart_15 | 578,825
-107 | Westy3000 | 568,728
+107 | Westy3000 | 569,839
 108 | nichnotnick | 556,778
 109 | shreyaskg | 538,211
 110 | scientifichistorian | 526,571
