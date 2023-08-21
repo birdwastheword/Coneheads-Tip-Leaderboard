@@ -1,7 +1,7 @@
-Last updated: 23-08-21 11:25:26 UTC  
+Last updated: 23-08-21 11:34:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 34,704,628
+1 | Bitdream200K | 34,762,617
 2 | Wonderful_Bad6531 | 33,878,501
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | rikbona | 4,537,110
 22 | bigbilly1234567899 | 4,496,042
 23 | 8inchConer | 4,447,204
-24 | redzrex | 4,353,711
+24 | redzrex | 4,358,711
 25 | cutsickass | 4,306,689
 26 | birdwastheword | 4,207,508
 27 | Ginomania | 4,072,502
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | VIVOffical | 3,886,377
 31 | IveDoneItAtLast | 3,693,368
 32 | clean_cut89 | 3,571,165
-33 | LuminousViper | 3,380,399
+33 | LuminousViper | 3,383,072
 34 | rustyybikes | 3,375,758
 35 | Dry_Badger_2403 | 3,192,857
 36 | ZukoBih | 3,087,789
@@ -107,7 +107,7 @@ Rank | Username | Totals Tips
 104 | El_Gordone | 592,784
 105 | Alanski22 | 582,210
 106 | Independent_Heart_15 | 578,825
-107 | Westy3000 | 557,216
+107 | Westy3000 | 557,327
 108 | nichnotnick | 556,778
 109 | shreyaskg | 538,211
 110 | scientifichistorian | 526,571
@@ -165,7 +165,7 @@ Rank | Username | Totals Tips
 162 | dinoyeti | 262,765
 163 | Flimsy_Brilliant_239 | 260,266
 164 | thecrabdad | 256,177
-165 | monkeybombed | 254,539
+165 | monkeybombed | 255,549
 166 | noface_reddit | 253,320
 167 | Ambitious-Minimum-80 | 252,035
 168 | Sattack4000 | 250,837
@@ -174,7 +174,7 @@ Rank | Username | Totals Tips
 171 | MadScientistTheFirst | 246,344
 172 | thestonkinator | 246,260
 173 | Dripbot8 | 245,384
-174 | Lillica_Golden_SHIB | 243,991
+174 | Lillica_Golden_SHIB | 244,129
 175 | SnooMacarons9203 | 243,810
 176 | Zalkwalker | 235,069
 177 | coolpattakers | 233,047
