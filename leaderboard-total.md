@@ -1,4 +1,4 @@
-Last updated: 23-08-21 19:22:38 UTC  
+Last updated: 23-08-21 19:31:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,034,518
@@ -20,9 +20,9 @@ Rank | Username | Totals Tips
 17 | HippieStarTraveler | 5,219,230
 18 | ArtConsitent | 4,727,278
 19 | thelonliestcrowd | 4,561,558
-20 | rikbona | 4,539,773
-21 | transfermymoons | 4,538,002
-22 | cutsickass | 4,531,689
+20 | cutsickass | 4,556,689
+21 | rikbona | 4,539,773
+22 | transfermymoons | 4,538,002
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,411
 25 | redzrex | 4,358,711
@@ -38,11 +38,11 @@ Rank | Username | Totals Tips
 35 | Dry_Badger_2403 | 3,193,857
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,057,335
-38 | thom_orrow | 2,714,533
-39 | Mean_Bandicoot_7481 | 2,714,231
+38 | Mean_Bandicoot_7481 | 2,715,665
+39 | thom_orrow | 2,714,533
 40 | _Royal_Insylum | 2,603,787
 41 | Permanent_WSB_Bull | 2,522,155
-42 | SpookySYN | 2,487,426
+42 | SpookySYN | 2,514,056
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
 45 | Autom4tic_Soze | 2,156,148
@@ -119,8 +119,8 @@ Rank | Username | Totals Tips
 116 | StepAsideSuckers | 467,230
 117 | sinlesco | 462,490
 118 | WarmlyWacky | 462,118
-119 | MediaPrestigious8342 | 453,839
-120 | Duskopia | 446,740
+119 | Duskopia | 456,740
+120 | MediaPrestigious8342 | 453,839
 121 | unhingedbigfoot | 439,874
 122 | adrifing | 438,505
 123 | Lady_Lucks_Man | 435,793
@@ -156,12 +156,12 @@ Rank | Username | Totals Tips
 153 | DogSpark84 | 280,186
 154 | astro_nut_ | 280,043
 155 | maxfra | 279,459
-156 | deedopete | 277,247
-157 | WhateverAlready | 275,320
-158 | PortCity_MadMan | 274,386
-159 | Lion-Hermit | 272,895
-160 | dopelifer09 | 271,721
-161 | monkeybombed | 268,579
+156 | monkeybombed | 278,579
+157 | deedopete | 277,247
+158 | WhateverAlready | 275,320
+159 | PortCity_MadMan | 274,386
+160 | Lion-Hermit | 272,895
+161 | dopelifer09 | 271,721
 162 | SetoXlll | 264,179
 163 | Flimsy_Brilliant_239 | 262,929
 164 | dinoyeti | 262,765
@@ -174,7 +174,7 @@ Rank | Username | Totals Tips
 171 | MadScientistTheFirst | 246,344
 172 | thestonkinator | 246,260
 173 | Dripbot8 | 245,384
-174 | Lillica_Golden_SHIB | 244,543
+174 | Lillica_Golden_SHIB | 244,612
 175 | SnooMacarons9203 | 243,810
 176 | Zalkwalker | 235,069
 177 | coolpattakers | 233,047
