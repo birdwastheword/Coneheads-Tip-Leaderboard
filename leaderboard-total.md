@@ -1,7 +1,7 @@
-Last updated: 23-08-21 20:40:50 UTC  
+Last updated: 23-08-21 20:50:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 35,087,778
+1 | Bitdream200K | 35,637,778
 2 | Wonderful_Bad6531 | 34,013,008
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
@@ -26,9 +26,9 @@ Rank | Username | Totals Tips
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,411
 25 | redzrex | 4,358,711
-26 | birdwastheword | 4,207,928
+26 | birdwastheword | 4,210,591
 27 | Ginomania | 4,075,165
-28 | Puddin-Luv | 3,985,933
+28 | Puddin-Luv | 3,988,596
 29 | _ships | 3,985,666
 30 | VIVOffical | 3,886,377
 31 | IveDoneItAtLast | 3,708,365
@@ -339,8 +339,8 @@ Rank | Username | Totals Tips
 336 | skollywag92 | 58,279
 337 | phrodreky | 57,984
 338 | preemcuz | 57,894
-339 | 192000Hertz | 57,635
-340 | Outrageous-Skill-464 | 57,594
+339 | Outrageous-Skill-464 | 57,663
+340 | 192000Hertz | 57,635
 341 | Outrageous_Storm6537 | 56,938
 342 | 1ndy1 | 56,929
 343 | BitCone_CONE | 56,760
@@ -729,14 +729,14 @@ Rank | Username | Totals Tips
 726 | nathanroberts14 | 4,000
 727 | Soil_Electronic | 3,975
 728 | Dreadaussie | 3,920
-729 | carsonthecarsinogen | 3,769
-730 | salt_yaf | 3,706
-731 | abbasabba260 | 3,663
-732 | Gelato_33 | 3,628
-733 | Mrcoolguynumberone | 3,420
-734 | n1ghsthade | 3,378
-735 | elksteaksdmt | 3,359
-736 | quaker-goats | 3,353
+729 | quaker-goats | 3,842
+730 | carsonthecarsinogen | 3,769
+731 | salt_yaf | 3,706
+732 | abbasabba260 | 3,663
+733 | Gelato_33 | 3,628
+734 | Mrcoolguynumberone | 3,420
+735 | n1ghsthade | 3,378
+736 | elksteaksdmt | 3,359
 737 | superficialization | 3,326
 738 | JJJaxMax | 3,325
 739 | ineedmoney2023 | 3,307
