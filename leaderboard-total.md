@@ -1,4 +1,4 @@
-Last updated: 23-08-21 18:51:44 UTC  
+Last updated: 23-08-21 19:00:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,034,518
@@ -23,9 +23,9 @@ Rank | Username | Totals Tips
 20 | rikbona | 4,539,773
 21 | transfermymoons | 4,538,002
 22 | bigbilly1234567899 | 4,496,042
-23 | 8inchConer | 4,447,411
-24 | redzrex | 4,358,711
-25 | cutsickass | 4,356,689
+23 | cutsickass | 4,456,689
+24 | 8inchConer | 4,447,411
+25 | redzrex | 4,358,711
 26 | birdwastheword | 4,207,508
 27 | Ginomania | 4,075,165
 28 | Puddin-Luv | 3,985,933
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | zdubs | 1,484,401
 56 | DontLaughArt | 1,461,392
 57 | bray_martin03 | 1,458,175
-58 | evilninjarobot | 1,391,970
+58 | evilninjarobot | 1,394,633
 59 | isthistomorrow_ | 1,281,016
 60 | CMDRGlamdring | 1,230,875
 61 | revdrgonzo | 1,229,888
@@ -215,7 +215,7 @@ Rank | Username | Totals Tips
 212 | MelonFarmer420 | 162,936
 213 | Ashamed_Raccoon9918 | 160,398
 214 | ultra_terrestrial | 156,044
-215 | Hot_Potato_Salad | 155,009
+215 | Hot_Potato_Salad | 155,078
 216 | 6reficul | 153,884
 217 | martymartinator | 152,560
 218 | sjakkpila | 152,031
