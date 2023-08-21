@@ -1,4 +1,4 @@
-Last updated: 23-08-21 19:00:45 UTC  
+Last updated: 23-08-21 19:14:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,034,518
@@ -22,8 +22,8 @@ Rank | Username | Totals Tips
 19 | thelonliestcrowd | 4,561,558
 20 | rikbona | 4,539,773
 21 | transfermymoons | 4,538,002
-22 | bigbilly1234567899 | 4,496,042
-23 | cutsickass | 4,456,689
+22 | cutsickass | 4,506,689
+23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,411
 25 | redzrex | 4,358,711
 26 | birdwastheword | 4,207,508
@@ -140,8 +140,8 @@ Rank | Username | Totals Tips
 137 | Mundane-Farm-4117 | 355,513
 138 | anony666mous | 341,008
 139 | tsudrat | 340,707
-140 | Tinman_ApE | 330,810
-141 | Crypto-4-Freedom | 328,028
+140 | Crypto-4-Freedom | 336,326
+141 | Tinman_ApE | 330,810
 142 | Skank_cunt_42 | 326,162
 143 | Obi1eyeKenobi | 316,343
 144 | EffinDrongoC | 312,738
@@ -232,7 +232,7 @@ Rank | Username | Totals Tips
 229 | GoodMornEveGoodNight | 131,019
 230 | Legal-Appointment655 | 130,540
 231 | Awake-- | 128,173
-232 | MorrisWayne | 128,088
+232 | MorrisWayne | 128,090
 233 | robnectar | 127,974
 234 | CalligrapherEnough83 | 127,227
 235 | Trakorr | 125,110
@@ -417,8 +417,8 @@ Rank | Username | Totals Tips
 414 | Mother-Werewolf185 | 37,280
 415 | Imalittlestitious86 | 37,090
 416 | Lucabba | 36,898
-417 | degree-01 | 36,066
-418 | Dboythegreat | 35,984
+417 | Dboythegreat | 36,684
+418 | degree-01 | 36,066
 419 | GuronT | 35,561
 420 | TRANZHUMANIST | 35,000
 421 | Obvious-Ask-5747 | 33,806
@@ -782,12 +782,12 @@ Rank | Username | Totals Tips
 779 | MrD_12 | 2,376
 780 | SpySeaRamen | 2,340
 781 | bonneatoutfaire | 2,303
-782 | exclaim_bot | 2,280
-783 | Far_Movie_6595 | 2,248
-784 | ODoyles_Banana | 2,226
-785 | Digdaga | 2,216
-786 | A_Dancing_Coder | 2,207
-787 | Buzzalu | 2,201
+782 | Buzzalu | 2,301
+783 | exclaim_bot | 2,280
+784 | Far_Movie_6595 | 2,248
+785 | ODoyles_Banana | 2,226
+786 | Digdaga | 2,216
+787 | A_Dancing_Coder | 2,207
 788 | Niksa2007 | 2,188
 789 | Kazu4ya | 2,147
 790 | VeryStone | 2,116
