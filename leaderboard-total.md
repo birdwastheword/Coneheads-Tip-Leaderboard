@@ -1,7 +1,7 @@
-Last updated: 23-08-21 17:34:01 UTC  
+Last updated: 23-08-21 17:42:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 35,005,225
+1 | Bitdream200K | 35,031,855
 2 | Wonderful_Bad6531 | 33,878,501
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,499,861
 12 | Homeslicekilla | 7,995,797
-13 | avyun | 6,514,536
+13 | avyun | 6,556,605
 14 | Geniuskills | 6,161,202
 15 | Real_Player_0 | 5,820,878
 16 | ashinamune | 5,385,234
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | adrifing | 438,505
 123 | Lady_Lucks_Man | 435,793
 124 | Mopeiooo | 427,266
-125 | formidable-opponent | 418,106
+125 | formidable-opponent | 425,883
 126 | dronegeeks1 | 414,406
 127 | RazPie | 411,328
 128 | LrnFaroeseWthBergur | 409,488
@@ -261,7 +261,7 @@ Rank | Username | Totals Tips
 258 | CaptainCheeseCake | 104,741
 259 | Kevin3683 | 103,653
 260 | rolonic | 102,765
-261 | deathtr0 | 101,541
+261 | deathtr0 | 102,541
 262 | ACorDC | 100,420
 263 | i_wake_up_at_12 | 100,253
 264 | redditinchina | 99,698
