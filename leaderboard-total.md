@@ -1,11 +1,11 @@
-Last updated: 23-08-21 07:18:06 UTC  
+Last updated: 23-08-21 07:30:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,699,302
 2 | Wonderful_Bad6531 | 33,878,501
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,143,126
+5 | nakamo-toe | 24,143,476
 6 | waterhasnocalories | 18,182,583
 7 | ConeDesk | 17,551,939
 8 | HODL-THE-LINE | 11,920,100
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | Ten-Mins-Late | 1,591,784
 55 | zdubs | 1,481,738
 56 | bray_martin03 | 1,458,175
-57 | DontLaughArt | 1,398,352
+57 | DontLaughArt | 1,448,352
 58 | evilninjarobot | 1,389,307
 59 | isthistomorrow_ | 1,281,016
 60 | revdrgonzo | 1,229,888
@@ -214,7 +214,7 @@ Rank | Username | Totals Tips
 211 | DamnWhySoLow | 166,675
 212 | MelonFarmer420 | 162,936
 213 | Ashamed_Raccoon9918 | 159,909
-214 | Hot_Potato_Salad | 154,940
+214 | Hot_Potato_Salad | 155,009
 215 | 6reficul | 153,884
 216 | martymartinator | 152,560
 217 | sjakkpila | 152,031
