@@ -1,4 +1,4 @@
-Last updated: 23-08-21 13:50:57 UTC  
+Last updated: 23-08-21 14:25:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,944,573
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | transfermymoons | 4,538,002
 21 | rikbona | 4,537,110
 22 | bigbilly1234567899 | 4,496,042
-23 | 8inchConer | 4,447,342
+23 | 8inchConer | 4,447,411
 24 | redzrex | 4,358,711
 25 | cutsickass | 4,306,689
 26 | birdwastheword | 4,207,508
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,057,335
 38 | thom_orrow | 2,714,533
-39 | Mean_Bandicoot_7481 | 2,654,198
+39 | Mean_Bandicoot_7481 | 2,654,761
 40 | _Royal_Insylum | 2,603,787
 41 | Permanent_WSB_Bull | 2,522,155
 42 | SpookySYN | 2,453,672
@@ -505,18 +505,18 @@ Rank | Username | Totals Tips
 502 | ikiyen | 21,000
 503 | deezirae | 20,969
 504 | shootingeagleyt | 20,542
-505 | -Boxen | 20,420
-506 | DLPD-Camko | 20,377
-507 | NoahG59 | 20,002
-508 | Arash_Rezae | 20,000
-509 | maliplazi | 20,000
-510 | PassiveRoadRage | 20,000
-511 | Yeh_nah_yeh_ | 20,000
-512 | PsLJdogg | 19,975
-513 | Iiwip | 19,533
-514 | MalarkyD | 19,527
-515 | lookwhatumademedoo | 19,510
-516 | madridgalactico | 19,235
+505 | madridgalactico | 20,495
+506 | -Boxen | 20,420
+507 | DLPD-Camko | 20,377
+508 | NoahG59 | 20,002
+509 | Arash_Rezae | 20,000
+510 | maliplazi | 20,000
+511 | PassiveRoadRage | 20,000
+512 | Yeh_nah_yeh_ | 20,000
+513 | PsLJdogg | 19,975
+514 | Iiwip | 19,533
+515 | MalarkyD | 19,527
+516 | lookwhatumademedoo | 19,510
 517 | sM0k3dR4Gn | 19,048
 518 | ___MOM___ | 18,853
 519 | Rbmui13 | 18,845
