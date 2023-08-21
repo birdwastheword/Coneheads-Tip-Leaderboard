@@ -1,11 +1,11 @@
-Last updated: 23-08-21 05:50:36 UTC  
+Last updated: 23-08-21 06:27:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,699,302
 2 | Wonderful_Bad6531 | 33,878,501
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,109,243
+5 | nakamo-toe | 24,132,473
 6 | waterhasnocalories | 18,182,583
 7 | ConeDesk | 17,551,939
 8 | HODL-THE-LINE | 11,920,100
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | ashinamune | 5,385,234
 17 | HippieStarTraveler | 5,217,252
 18 | ArtConsitent | 4,727,278
-19 | thelonliestcrowd | 4,556,232
+19 | thelonliestcrowd | 4,558,895
 20 | transfermymoons | 4,538,002
 21 | rikbona | 4,537,110
 22 | bigbilly1234567899 | 4,496,042
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,057,335
 38 | thom_orrow | 2,714,129
-39 | Mean_Bandicoot_7481 | 2,644,980
+39 | Mean_Bandicoot_7481 | 2,646,209
 40 | _Royal_Insylum | 2,603,787
 41 | Permanent_WSB_Bull | 2,522,155
 42 | SpookySYN | 2,453,672
@@ -112,7 +112,7 @@ Rank | Username | Totals Tips
 109 | shreyaskg | 538,211
 110 | scientifichistorian | 526,571
 111 | f0n1xr131ng | 509,681
-112 | junkwatch | 502,998
+112 | junkwatch | 503,067
 113 | Allions1 | 502,528
 114 | MorrisBrett514 | 502,067
 115 | Successful-Walk-3902 | 494,494
@@ -151,7 +151,7 @@ Rank | Username | Totals Tips
 148 | VincentVanGTFO | 300,598
 149 | send_tacoz | 293,576
 150 | virmamies | 291,804
-151 | legionticket | 289,494
+151 | legionticket | 290,494
 152 | DogSpark84 | 280,186
 153 | astro_nut_ | 279,974
 154 | maxfra | 279,459
@@ -743,7 +743,7 @@ Rank | Username | Totals Tips
 740 | redditagain91 | 3,163
 741 | PopLegion | 3,152
 742 | Positive-Gazelle2603 | 3,152
-743 | Xrim- | 3,141
+743 | Xrim- | 3,142
 744 | Jenn2895 | 3,139
 745 | ad5xlh | 3,051
 746 | obaming16 | 3,007
