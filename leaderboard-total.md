@@ -1,8 +1,8 @@
-Last updated: 23-08-21 19:14:10 UTC  
+Last updated: 23-08-21 19:22:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,034,518
-2 | Wonderful_Bad6531 | 33,939,301
+2 | Wonderful_Bad6531 | 33,939,809
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
 5 | nakamo-toe | 24,203,154
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | thelonliestcrowd | 4,561,558
 20 | rikbona | 4,539,773
 21 | transfermymoons | 4,538,002
-22 | cutsickass | 4,506,689
+22 | cutsickass | 4,531,689
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,411
 25 | redzrex | 4,358,711
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,087,789
 37 | LordBobTheWhale | 3,057,335
 38 | thom_orrow | 2,714,533
-39 | Mean_Bandicoot_7481 | 2,713,452
+39 | Mean_Bandicoot_7481 | 2,714,231
 40 | _Royal_Insylum | 2,603,787
 41 | Permanent_WSB_Bull | 2,522,155
 42 | SpookySYN | 2,487,426
@@ -120,7 +120,7 @@ Rank | Username | Totals Tips
 117 | sinlesco | 462,490
 118 | WarmlyWacky | 462,118
 119 | MediaPrestigious8342 | 453,839
-120 | Duskopia | 444,077
+120 | Duskopia | 446,740
 121 | unhingedbigfoot | 439,874
 122 | adrifing | 438,505
 123 | Lady_Lucks_Man | 435,793
@@ -215,13 +215,13 @@ Rank | Username | Totals Tips
 212 | MelonFarmer420 | 162,936
 213 | Ashamed_Raccoon9918 | 160,398
 214 | ultra_terrestrial | 156,044
-215 | Hot_Potato_Salad | 155,078
+215 | Hot_Potato_Salad | 155,147
 216 | 6reficul | 153,884
 217 | martymartinator | 152,560
 218 | sjakkpila | 152,031
-219 | NotFullyTerrestrial | 150,694
-220 | CoverYourMaskHoles | 149,056
-221 | DAMG808 | 148,649
+219 | DAMG808 | 151,312
+220 | NotFullyTerrestrial | 150,694
+221 | CoverYourMaskHoles | 149,056
 222 | satoshi_oscar_wilde | 144,746
 223 | Sad_Entertainer9961 | 143,248
 224 | Doovs | 142,767
