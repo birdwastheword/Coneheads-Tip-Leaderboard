@@ -1,7 +1,7 @@
-Last updated: 23-08-21 11:34:23 UTC  
+Last updated: 23-08-21 11:42:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 34,762,617
+1 | Bitdream200K | 34,862,617
 2 | Wonderful_Bad6531 | 33,878,501
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | Homeslicekilla | 7,995,797
 13 | avyun | 6,514,536
 14 | Geniuskills | 6,161,202
-15 | Real_Player_0 | 5,809,579
+15 | Real_Player_0 | 5,810,030
 16 | ashinamune | 5,385,234
 17 | HippieStarTraveler | 5,217,252
 18 | ArtConsitent | 4,727,278
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | _ships | 3,985,666
 29 | Puddin-Luv | 3,982,850
 30 | VIVOffical | 3,886,377
-31 | IveDoneItAtLast | 3,693,368
+31 | IveDoneItAtLast | 3,696,031
 32 | clean_cut89 | 3,571,165
 33 | LuminousViper | 3,383,072
 34 | rustyybikes | 3,375,758
