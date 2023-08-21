@@ -1,4 +1,4 @@
-Last updated: 23-08-21 07:30:42 UTC  
+Last updated: 23-08-21 07:40:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 34,699,302
@@ -150,8 +150,8 @@ Rank | Username | Totals Tips
 147 | Korean_Street_Pizza | 300,653
 148 | VincentVanGTFO | 300,598
 149 | send_tacoz | 293,576
-150 | virmamies | 291,804
-151 | legionticket | 290,494
+150 | legionticket | 293,157
+151 | virmamies | 291,804
 152 | YarOldeOrchard | 285,662
 153 | DogSpark84 | 280,186
 154 | astro_nut_ | 279,974
