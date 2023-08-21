@@ -1,12 +1,12 @@
-Last updated: 23-08-21 20:20:35 UTC  
+Last updated: 23-08-21 20:30:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,087,778
-2 | Wonderful_Bad6531 | 33,940,925
+2 | Wonderful_Bad6531 | 34,010,345
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
 5 | nakamo-toe | 24,271,372
-6 | waterhasnocalories | 18,310,883
+6 | waterhasnocalories | 18,731,573
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
 9 | crypto_grandma | 11,451,591
@@ -18,11 +18,11 @@ Rank | Username | Totals Tips
 15 | Real_Player_0 | 5,820,878
 16 | ashinamune | 5,385,234
 17 | HippieStarTraveler | 5,221,894
-18 | ArtConsitent | 4,727,278
-19 | cutsickass | 4,631,689
-20 | thelonliestcrowd | 4,561,558
-21 | rikbona | 4,539,773
-22 | transfermymoons | 4,538,002
+18 | transfermymoons | 4,808,002
+19 | ArtConsitent | 4,727,278
+20 | cutsickass | 4,631,689
+21 | thelonliestcrowd | 4,561,558
+22 | rikbona | 4,539,773
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,411
 25 | redzrex | 4,358,711
@@ -138,7 +138,7 @@ Rank | Username | Totals Tips
 135 | doktastonks | 360,525
 136 | farmertypoerror | 359,212
 137 | Mundane-Farm-4117 | 355,513
-138 | Crypto-4-Freedom | 343,006
+138 | Crypto-4-Freedom | 343,426
 139 | anony666mous | 341,008
 140 | tsudrat | 340,707
 141 | Tinman_ApE | 330,810
@@ -153,7 +153,7 @@ Rank | Username | Totals Tips
 150 | legionticket | 293,157
 151 | virmamies | 291,804
 152 | YarOldeOrchard | 288,325
-153 | DogSpark84 | 280,186
+153 | DogSpark84 | 280,794
 154 | astro_nut_ | 280,043
 155 | maxfra | 279,459
 156 | monkeybombed | 278,680
@@ -247,7 +247,7 @@ Rank | Username | Totals Tips
 244 | wato4000 | 116,139
 245 | mvea | 115,748
 246 | Fox1931 | 114,000
-247 | FluffyAspie | 112,037
+247 | FluffyAspie | 112,457
 248 | flying_bacon | 111,860
 249 | adrefofadre | 111,817
 250 | Final-Scar-941 | 111,210
@@ -549,7 +549,7 @@ Rank | Username | Totals Tips
 546 | cole-badger | 14,269
 547 | subredditlurker69 | 14,177
 548 | theycallmekimpembe | 14,037
-549 | foreignGER | 13,964
+549 | foreignGER | 14,033
 550 | TamilPunk | 13,754
 551 | D6P6 | 13,710
 552 | osoese | 13,680
@@ -755,12 +755,12 @@ Rank | Username | Totals Tips
 752 | general_452 | 2,801
 753 | basbcn824 | 2,795
 754 | Painfulblisteronmyb | 2,783
-755 | I_am_not_doing_this | 2,763
-756 | bilbofraginz | 2,760
-757 | FrankieTheYoung | 2,737
-758 | l0l_random | 2,732
-759 | Medfried | 2,732
-760 | XeroGrave | 2,711
+755 | XeroGrave | 2,780
+756 | I_am_not_doing_this | 2,763
+757 | bilbofraginz | 2,760
+758 | FrankieTheYoung | 2,737
+759 | l0l_random | 2,732
+760 | Medfried | 2,732
 761 | funkymyname | 2,700
 762 | m00nLyt23 | 2,663
 763 | zuu8 | 2,663
