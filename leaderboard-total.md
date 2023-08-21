@@ -1,4 +1,4 @@
-Last updated: 23-08-21 18:35:17 UTC  
+Last updated: 23-08-21 18:43:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,034,518
@@ -214,12 +214,12 @@ Rank | Username | Totals Tips
 211 | DamnWhySoLow | 166,675
 212 | MelonFarmer420 | 162,936
 213 | Ashamed_Raccoon9918 | 160,398
-214 | Hot_Potato_Salad | 155,009
-215 | 6reficul | 153,884
-216 | martymartinator | 152,560
-217 | sjakkpila | 152,031
-218 | NotFullyTerrestrial | 150,694
-219 | ultra_terrestrial | 149,075
+214 | ultra_terrestrial | 156,044
+215 | Hot_Potato_Salad | 155,009
+216 | 6reficul | 153,884
+217 | martymartinator | 152,560
+218 | sjakkpila | 152,031
+219 | NotFullyTerrestrial | 150,694
 220 | CoverYourMaskHoles | 149,056
 221 | DAMG808 | 148,649
 222 | satoshi_oscar_wilde | 144,746
