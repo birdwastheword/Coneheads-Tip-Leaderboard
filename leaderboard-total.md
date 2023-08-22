@@ -1,4 +1,4 @@
-Last updated: 23-08-22 03:50:39 UTC  
+Last updated: 23-08-22 04:25:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | Real_Player_0 | 5,865,610
 16 | ashinamune | 5,429,866
 17 | HippieStarTraveler | 5,223,383
-18 | transfermymoons | 4,958,002
+18 | transfermymoons | 5,069,002
 19 | cutsickass | 4,806,689
 20 | ArtConsitent | 4,727,278
 21 | thelonliestcrowd | 4,561,558
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | bray_martin03 | 1,458,175
 58 | evilninjarobot | 1,397,296
 59 | isthistomorrow_ | 1,281,016
-60 | CMDRGlamdring | 1,230,875
+60 | CMDRGlamdring | 1,231,483
 61 | revdrgonzo | 1,229,888
 62 | HestiaIsTheBestia | 1,188,046
 63 | KONGXIANG | 1,169,292
@@ -94,7 +94,7 @@ Rank | Username | Totals Tips
 91 | abracadabra087 | 694,045
 92 | Due_Insurance8159 | 678,620
 93 | SKITZ_ZA | 673,394
-94 | frickdom | 671,003
+94 | frickdom | 671,423
 95 | piebagz | 661,815
 96 | ValiantJudge29500 | 651,827
 97 | MartynDr | 651,000
@@ -106,8 +106,8 @@ Rank | Username | Totals Tips
 103 | firstmatedotxyz | 598,580
 104 | __PDS__ | 595,709
 105 | El_Gordone | 592,784
-106 | Westy3000 | 588,036
-107 | Alanski22 | 584,873
+106 | Alanski22 | 590,199
+107 | Westy3000 | 588,036
 108 | Independent_Heart_15 | 578,825
 109 | nichnotnick | 556,778
 110 | shreyaskg | 538,211
@@ -341,7 +341,7 @@ Rank | Username | Totals Tips
 338 | Trink333 | 58,338
 339 | phrodreky | 57,984
 340 | preemcuz | 57,894
-341 | 1ndy1 | 57,769
+341 | 1ndy1 | 57,838
 342 | Outrageous_Storm6537 | 56,938
 343 | BitCone_CONE | 56,760
 344 | Bandit_005 | 56,303
