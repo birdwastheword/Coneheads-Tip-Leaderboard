@@ -1,4 +1,4 @@
-Last updated: 23-08-22 09:30:45 UTC  
+Last updated: 23-08-22 09:40:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -76,7 +76,7 @@ Rank | Username | Totals Tips
 73 | EvanIsBacon | 970,416
 74 | Forward_Today2849 | 932,405
 75 | 0-Give-a-fucks | 919,009
-76 | djrcollectables | 908,539
+76 | djrcollectables | 911,202
 77 | Modestexcuse | 903,684
 78 | thee_monster | 896,765
 79 | CluelessSurvivor | 875,836
@@ -104,8 +104,8 @@ Rank | Username | Totals Tips
 101 | UniversalNoobMaster | 617,906
 102 | ID404_Not_Found_8964 | 606,145
 103 | firstmatedotxyz | 598,580
-104 | __PDS__ | 595,709
-105 | Westy3000 | 594,924
+104 | Westy3000 | 598,368
+105 | __PDS__ | 595,709
 106 | El_Gordone | 592,784
 107 | Alanski22 | 590,199
 108 | Independent_Heart_15 | 578,825
@@ -166,7 +166,7 @@ Rank | Username | Totals Tips
 163 | Flimsy_Brilliant_239 | 262,929
 164 | dinoyeti | 262,765
 165 | thecrabdad | 256,177
-166 | noface_reddit | 253,320
+166 | noface_reddit | 255,983
 167 | Ambitious-Minimum-80 | 252,035
 168 | Sattack4000 | 250,837
 169 | Gregoryonetulum | 249,309
