@@ -1,15 +1,15 @@
-Last updated: 23-08-22 04:51:14 UTC  
+Last updated: 23-08-22 05:23:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
 2 | Wonderful_Bad6531 | 34,016,179
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,331,969
+5 | nakamo-toe | 24,334,632
 6 | waterhasnocalories | 18,731,573
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
-9 | crypto_grandma | 11,451,591
+9 | crypto_grandma | 11,461,591
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,766,161
 12 | Homeslicekilla | 7,995,797
@@ -25,7 +25,7 @@ Rank | Username | Totals Tips
 22 | rikbona | 4,539,773
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,411
-25 | redzrex | 4,361,374
+25 | redzrex | 4,361,794
 26 | birdwastheword | 4,213,674
 27 | Ginomania | 4,085,165
 28 | _ships | 4,002,337
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,820,671
-52 | dealkhabari | 1,697,622
+52 | dealkhabari | 1,698,838
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,591,784
 55 | zdubs | 1,526,696
@@ -149,10 +149,10 @@ Rank | Username | Totals Tips
 146 | EffinDrongoC | 312,738
 147 | x52x | 304,860
 148 | liwipe | 304,467
-149 | VincentVanGTFO | 300,598
-150 | send_tacoz | 293,576
-151 | legionticket | 293,157
-152 | virmamies | 291,804
+149 | virmamies | 301,804
+150 | VincentVanGTFO | 300,598
+151 | send_tacoz | 293,576
+152 | legionticket | 293,157
 153 | YarOldeOrchard | 288,325
 154 | monkeybombed | 280,801
 155 | DogSpark84 | 280,794
