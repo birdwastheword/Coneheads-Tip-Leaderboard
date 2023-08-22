@@ -1,4 +1,4 @@
-Last updated: 23-08-22 20:30:46 UTC  
+Last updated: 23-08-22 20:41:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | Jeff5704 | 27,757,986
 5 | nakamo-toe | 24,515,912
 6 | waterhasnocalories | 22,938,543
-7 | ConeDesk | 17,746,717
+7 | ConeDesk | 17,752,797
 8 | HODL-THE-LINE | 11,920,100
 9 | crypto_grandma | 11,712,484
 10 | Parush9 | 11,124,676
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | Real_Player_0 | 5,943,627
 18 | ashinamune | 5,537,850
 19 | HippieStarTraveler | 5,224,383
-20 | cutsickass | 5,081,689
+20 | cutsickass | 5,106,689
 21 | thelonliestcrowd | 4,569,547
 22 | rikbona | 4,539,773
 23 | bigbilly1234567899 | 4,496,042
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | CMDRGlamdring | 1,232,823
 61 | revdrgonzo | 1,229,888
 62 | HestiaIsTheBestia | 1,188,046
-63 | KONGXIANG | 1,183,088
+63 | KONGXIANG | 1,183,091
 64 | saintajoras | 1,169,017
 65 | Feetfailmenot | 1,151,105
 66 | Richicash | 1,148,866
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | unhingedbigfoot | 439,874
 123 | adrifing | 438,505
 124 | Lady_Lucks_Man | 435,793
-125 | formidable-opponent | 430,545
+125 | formidable-opponent | 431,322
 126 | Mopeiooo | 427,266
 127 | dronegeeks1 | 414,406
 128 | RazPie | 411,328
@@ -320,11 +320,11 @@ Rank | Username | Totals Tips
 317 | Tapiz3land | 68,942
 318 | Yoda975 | 68,917
 319 | AnduriII | 68,244
-320 | Friendly-Airline2426 | 66,545
-321 | imp3order | 65,546
-322 | damnusernamegotcutof | 65,004
-323 | zuzieey7719 | 64,480
-324 | Dazzling_Marzipan474 | 64,269
+320 | Dazzling_Marzipan474 | 66,932
+321 | Friendly-Airline2426 | 66,545
+322 | imp3order | 65,546
+323 | damnusernamegotcutof | 65,004
+324 | zuzieey7719 | 64,480
 325 | guokaidi | 63,245
 326 | slug_tamer | 63,175
 327 | netnemirepxE | 62,645
@@ -1026,14 +1026,14 @@ Rank | Username | Totals Tips
 1023 | boerenbrok | 79
 1024 | MayorAnthonyWeiner | 74
 1025 | BackwardsMonday | 72
-1026 | Murky-Setting-4643 | 70
-1027 | pourkey | 69
-1028 | ordnael_reverse | 69
-1029 | HRHChonkyChonkerson | 69
-1030 | LowFile1101 | 69
-1031 | Incredibly_Based | 69
-1032 | withspaces | 69
-1033 | Snoo_92843 | 69
+1026 | Snoo_92843 | 70
+1027 | Murky-Setting-4643 | 70
+1028 | pourkey | 69
+1029 | ordnael_reverse | 69
+1030 | HRHChonkyChonkerson | 69
+1031 | LowFile1101 | 69
+1032 | Incredibly_Based | 69
+1033 | withspaces | 69
 1034 | zdonahue2791 | 69
 1035 | Accomplished-Top9621 | 69
 1036 | No-Elephant-Dies | 69
