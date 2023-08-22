@@ -1,4 +1,4 @@
-Last updated: 23-08-22 19:31:46 UTC  
+Last updated: 23-08-22 19:40:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,796,254
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | Real_Player_0 | 5,943,627
 18 | ashinamune | 5,537,850
 19 | HippieStarTraveler | 5,224,383
-20 | cutsickass | 5,031,689
+20 | cutsickass | 5,056,689
 21 | thelonliestcrowd | 4,569,547
 22 | rikbona | 4,539,773
 23 | bigbilly1234567899 | 4,496,042
@@ -287,7 +287,7 @@ Rank | Username | Totals Tips
 284 | ShopALF | 87,942
 285 | kwickle | 87,804
 286 | customsolitaires | 87,466
-287 | jurgensdapimp | 86,208
+287 | jurgensdapimp | 86,817
 288 | fettskull | 86,067
 289 | ItailianStallion101 | 85,039
 290 | Burzzzt88 | 84,990
@@ -410,7 +410,7 @@ Rank | Username | Totals Tips
 407 | chaud3r | 38,290
 408 | lovenets_ | 38,182
 409 | rowdy1212 | 38,129
-410 | DeanDeanington | 38,057
+410 | DeanDeanington | 38,058
 411 | ysnmingle | 38,038
 412 | samer109 | 37,973
 413 | Yogi_Kat | 37,785
