@@ -1,4 +1,4 @@
-Last updated: 23-08-22 22:24:07 UTC  
+Last updated: 23-08-22 22:32:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
@@ -45,8 +45,8 @@ Rank | Username | Totals Tips
 42 | SpookySYN | 2,587,590
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
-45 | GuyOne | 2,156,625
-46 | Autom4tic_Soze | 2,156,148
+45 | Autom4tic_Soze | 2,158,811
+46 | GuyOne | 2,156,625
 47 | ImAlekBan | 2,151,493
 48 | Fenrir-1919 | 2,057,385
 49 | Affectionate_Hand_76 | 1,949,263
@@ -112,8 +112,8 @@ Rank | Username | Totals Tips
 109 | Independent_Heart_15 | 578,825
 110 | nichnotnick | 556,778
 111 | StepAsideSuckers | 540,695
-112 | shreyaskg | 538,211
-113 | scientifichistorian | 536,897
+112 | scientifichistorian | 539,560
+113 | shreyaskg | 538,211
 114 | f0n1xr131ng | 509,681
 115 | junkwatch | 503,744
 116 | Allions1 | 503,528
@@ -214,7 +214,7 @@ Rank | Username | Totals Tips
 211 | MymannosaurusRex | 171,317
 212 | high5s_inureye | 167,388
 213 | DamnWhySoLow | 166,675
-214 | MelonFarmer420 | 163,356
+214 | MelonFarmer420 | 163,776
 215 | Ashamed_Raccoon9918 | 160,467
 216 | ultra_terrestrial | 160,244
 217 | skollywag92 | 158,279
@@ -264,9 +264,9 @@ Rank | Username | Totals Tips
 261 | AD_VICTORIAM_x | 106,876
 262 | i_wake_up_at_12 | 106,333
 263 | CaptainCheeseCake | 105,349
-264 | Chanyuui1 | 104,940
-265 | rolonic | 102,765
-266 | jamjam794 | 102,671
+264 | jamjam794 | 105,334
+265 | Chanyuui1 | 104,940
+266 | rolonic | 102,765
 267 | deathtr0 | 102,541
 268 | ACorDC | 100,420
 269 | redditinchina | 99,698
