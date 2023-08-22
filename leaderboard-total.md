@@ -1,4 +1,4 @@
-Last updated: 23-08-22 09:19:37 UTC  
+Last updated: 23-08-22 09:30:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -217,7 +217,7 @@ Rank | Username | Totals Tips
 214 | Ashamed_Raccoon9918 | 160,467
 215 | ultra_terrestrial | 160,244
 216 | skollywag92 | 158,279
-217 | Hot_Potato_Salad | 155,147
+217 | Hot_Potato_Salad | 155,216
 218 | 6reficul | 153,884
 219 | martymartinator | 152,560
 220 | sjakkpila | 152,031
