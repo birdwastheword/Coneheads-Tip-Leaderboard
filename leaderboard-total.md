@@ -1,11 +1,11 @@
-Last updated: 23-08-22 22:32:46 UTC  
+Last updated: 23-08-22 22:41:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,515,912
+5 | nakamo-toe | 24,550,531
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,752,797
 8 | HODL-THE-LINE | 11,920,100
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | avyun | 6,598,674
 15 | transfermymoons | 6,269,002
 16 | Geniuskills | 6,193,158
-17 | Real_Player_0 | 5,943,627
+17 | Real_Player_0 | 5,944,235
 18 | ashinamune | 5,537,850
 19 | HippieStarTraveler | 5,224,803
 20 | cutsickass | 5,111,689
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | Mean_Bandicoot_7481 | 2,748,882
 40 | thom_orrow | 2,715,041
 41 | _Royal_Insylum | 2,603,787
-42 | SpookySYN | 2,587,590
+42 | SpookySYN | 2,590,253
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
 45 | Autom4tic_Soze | 2,158,811
@@ -143,7 +143,7 @@ Rank | Username | Totals Tips
 140 | Outrageous-Skill-464 | 344,174
 141 | anony666mous | 341,008
 142 | tsudrat | 340,707
-143 | dopelifer09 | 336,116
+143 | dopelifer09 | 338,779
 144 | Tinman_ApE | 330,810
 145 | Korean_Street_Pizza | 320,926
 146 | WhateverAlready | 316,461
