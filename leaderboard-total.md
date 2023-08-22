@@ -1,4 +1,4 @@
-Last updated: 23-08-22 23:40:39 UTC  
+Last updated: 23-08-22 23:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
@@ -216,7 +216,7 @@ Rank | Username | Totals Tips
 213 | DamnWhySoLow | 166,675
 214 | MelonFarmer420 | 163,776
 215 | skollywag92 | 163,279
-216 | Ashamed_Raccoon9918 | 160,467
+216 | Ashamed_Raccoon9918 | 163,130
 217 | ultra_terrestrial | 160,244
 218 | Hot_Potato_Salad | 155,354
 219 | DAMG808 | 154,583
@@ -1075,7 +1075,8 @@ Rank | Username | Totals Tips
 1072 | jellodoses69 | 10
 1073 | mercredimedia | 6
 1074 | GroovyIntruder | 3
-1075 | mango9574 | 1
-1076 | Skull0 | 1
-1077 | Skywalker_047 | 1
-1078 | Park_With_No_S | 1
+1075 | SoulUrgeDestiny | 1
+1076 | mango9574 | 1
+1077 | Skull0 | 1
+1078 | Skywalker_047 | 1
+1079 | Park_With_No_S | 1
