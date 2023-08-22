@@ -1,4 +1,4 @@
-Last updated: 23-08-22 21:34:51 UTC  
+Last updated: 23-08-22 21:43:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
@@ -127,8 +127,8 @@ Rank | Username | Totals Tips
 124 | Lady_Lucks_Man | 435,793
 125 | formidable-opponent | 432,099
 126 | Mopeiooo | 427,266
-127 | dronegeeks1 | 414,406
-128 | crodbtc | 411,703
+127 | crodbtc | 416,703
+128 | dronegeeks1 | 414,406
 129 | RazPie | 411,328
 130 | LrnFaroeseWthBergur | 409,488
 131 | Creepy-Nectarine-225 | 385,165
