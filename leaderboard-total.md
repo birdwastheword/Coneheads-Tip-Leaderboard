@@ -1,4 +1,4 @@
-Last updated: 23-08-22 19:23:02 UTC  
+Last updated: 23-08-22 19:31:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,796,254
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Puddin-Luv | 4,031,204
 29 | _ships | 4,002,337
 30 | VIVOffical | 3,886,377
-31 | IveDoneItAtLast | 3,824,882
+31 | IveDoneItAtLast | 3,827,545
 32 | clean_cut89 | 3,573,928
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,408,030
@@ -74,8 +74,8 @@ Rank | Username | Totals Tips
 71 | WarmBiertje | 1,000,000
 72 | 002_timmy | 974,363
 73 | EvanIsBacon | 970,416
-74 | Forward_Today2849 | 932,405
-75 | djrcollectables | 929,843
+74 | djrcollectables | 932,506
+75 | Forward_Today2849 | 932,405
 76 | 0-Give-a-fucks | 921,672
 77 | Modestexcuse | 903,684
 78 | thee_monster | 896,765
@@ -142,20 +142,20 @@ Rank | Username | Totals Tips
 139 | Mundane-Farm-4117 | 355,513
 140 | anony666mous | 341,008
 141 | tsudrat | 340,707
-142 | dopelifer09 | 333,453
-143 | Tinman_ApE | 330,810
-144 | Korean_Street_Pizza | 320,926
-145 | WhateverAlready | 316,461
-146 | Obi1eyeKenobi | 316,343
-147 | YarOldeOrchard | 314,955
-148 | EffinDrongoC | 312,738
-149 | x52x | 304,860
-150 | liwipe | 304,467
-151 | virmamies | 301,804
-152 | VincentVanGTFO | 300,598
-153 | send_tacoz | 293,576
-154 | legionticket | 293,157
-155 | Outrageous-Skill-464 | 284,174
+142 | Outrageous-Skill-464 | 334,174
+143 | dopelifer09 | 333,453
+144 | Tinman_ApE | 330,810
+145 | Korean_Street_Pizza | 320,926
+146 | WhateverAlready | 316,461
+147 | Obi1eyeKenobi | 316,343
+148 | YarOldeOrchard | 314,955
+149 | EffinDrongoC | 312,738
+150 | x52x | 304,860
+151 | liwipe | 304,467
+152 | virmamies | 301,804
+153 | VincentVanGTFO | 300,598
+154 | send_tacoz | 293,576
+155 | legionticket | 293,157
 156 | DogSpark84 | 282,079
 157 | monkeybombed | 280,801
 158 | astro_nut_ | 280,463
@@ -324,7 +324,7 @@ Rank | Username | Totals Tips
 321 | imp3order | 65,546
 322 | damnusernamegotcutof | 65,004
 323 | zuzieey7719 | 64,480
-324 | Dazzling_Marzipan474 | 63,849
+324 | Dazzling_Marzipan474 | 64,269
 325 | guokaidi | 63,245
 326 | slug_tamer | 63,175
 327 | netnemirepxE | 62,645
