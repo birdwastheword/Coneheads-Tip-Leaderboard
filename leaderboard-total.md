@@ -1,4 +1,4 @@
-Last updated: 23-08-22 22:41:06 UTC  
+Last updated: 23-08-22 22:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | avyun | 6,598,674
 15 | transfermymoons | 6,269,002
 16 | Geniuskills | 6,193,158
-17 | Real_Player_0 | 5,944,235
+17 | Real_Player_0 | 5,946,898
 18 | ashinamune | 5,537,850
 19 | HippieStarTraveler | 5,224,803
 20 | cutsickass | 5,111,689
@@ -31,13 +31,13 @@ Rank | Username | Totals Tips
 28 | Puddin-Luv | 4,033,867
 29 | _ships | 4,005,608
 30 | VIVOffical | 3,886,377
-31 | IveDoneItAtLast | 3,827,545
+31 | IveDoneItAtLast | 3,830,208
 32 | clean_cut89 | 3,573,928
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,408,030
 35 | rustyybikes | 3,375,758
-36 | Dry_Badger_2403 | 3,193,857
-37 | ZukoBih | 3,187,789
+36 | ZukoBih | 3,197,789
+37 | Dry_Badger_2403 | 3,193,857
 38 | LordBobTheWhale | 3,062,430
 39 | Mean_Bandicoot_7481 | 2,748,882
 40 | thom_orrow | 2,715,041
@@ -100,7 +100,7 @@ Rank | Username | Totals Tips
 97 | MartynDr | 651,000
 98 | femacampcouncilor | 642,812
 99 | Skank_cunt_42 | 626,162
-100 | UniversalNoobMaster | 625,295
+100 | UniversalNoobMaster | 625,985
 101 | slirpo | 624,211
 102 | ID404_Not_Found_8964 | 606,147
 103 | Westy3000 | 605,588
