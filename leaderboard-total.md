@@ -1,4 +1,4 @@
-Last updated: 23-08-22 08:44:07 UTC  
+Last updated: 23-08-22 08:52:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | ID404_Not_Found_8964 | 606,145
 103 | firstmatedotxyz | 598,580
 104 | __PDS__ | 595,709
-105 | Westy3000 | 594,813
+105 | Westy3000 | 594,924
 106 | El_Gordone | 592,784
 107 | Alanski22 | 590,199
 108 | Independent_Heart_15 | 578,825
@@ -125,8 +125,8 @@ Rank | Username | Totals Tips
 122 | unhingedbigfoot | 439,874
 123 | adrifing | 438,505
 124 | Lady_Lucks_Man | 435,793
-125 | Mopeiooo | 427,266
-126 | formidable-opponent | 426,660
+125 | formidable-opponent | 427,437
+126 | Mopeiooo | 427,266
 127 | dronegeeks1 | 414,406
 128 | RazPie | 411,328
 129 | LrnFaroeseWthBergur | 409,488
