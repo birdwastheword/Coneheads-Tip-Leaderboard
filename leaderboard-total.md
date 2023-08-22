@@ -1,4 +1,4 @@
-Last updated: 23-08-22 04:25:34 UTC  
+Last updated: 23-08-22 04:34:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
@@ -322,7 +322,7 @@ Rank | Username | Totals Tips
 319 | imp3order | 65,546
 320 | damnusernamegotcutof | 65,004
 321 | zuzieey7719 | 64,480
-322 | Dazzling_Marzipan474 | 63,429
+322 | Dazzling_Marzipan474 | 63,849
 323 | guokaidi | 63,245
 324 | slug_tamer | 63,175
 325 | netnemirepxE | 62,645
