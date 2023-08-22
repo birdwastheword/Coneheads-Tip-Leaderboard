@@ -1,4 +1,4 @@
-Last updated: 23-08-22 07:34:02 UTC  
+Last updated: 23-08-22 07:42:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -77,8 +77,8 @@ Rank | Username | Totals Tips
 74 | Forward_Today2849 | 932,405
 75 | 0-Give-a-fucks | 919,009
 76 | Modestexcuse | 903,684
-77 | thee_monster | 896,765
-78 | djrcollectables | 895,224
+77 | djrcollectables | 900,550
+78 | thee_monster | 896,765
 79 | CluelessSurvivor | 875,836
 80 | Bobisdeadrun | 868,415
 81 | goldyluckinblokchain | 806,385
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | ID404_Not_Found_8964 | 606,145
 103 | firstmatedotxyz | 598,580
 104 | __PDS__ | 595,709
-105 | Westy3000 | 593,591
+105 | Westy3000 | 594,813
 106 | El_Gordone | 592,784
 107 | Alanski22 | 590,199
 108 | Independent_Heart_15 | 578,825
