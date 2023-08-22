@@ -1,4 +1,4 @@
-Last updated: 23-08-22 21:25:42 UTC  
+Last updated: 23-08-22 21:34:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
@@ -128,9 +128,9 @@ Rank | Username | Totals Tips
 125 | formidable-opponent | 432,099
 126 | Mopeiooo | 427,266
 127 | dronegeeks1 | 414,406
-128 | RazPie | 411,328
-129 | LrnFaroeseWthBergur | 409,488
-130 | crodbtc | 409,040
+128 | crodbtc | 411,703
+129 | RazPie | 411,328
+130 | LrnFaroeseWthBergur | 409,488
 131 | Creepy-Nectarine-225 | 385,165
 132 | Crypto-4-Freedom | 376,526
 133 | SHIFTY-T3RROR | 376,410
@@ -489,9 +489,9 @@ Rank | Username | Totals Tips
 486 | FalloutAssasin | 24,615
 487 | liberovento | 24,307
 488 | XBBlade | 24,152
-489 | BelowAveIntelligence | 24,132
-490 | Truffle_Shuffle_85 | 24,121
-491 | halfavocadoemoji | 23,732
+489 | halfavocadoemoji | 24,152
+490 | BelowAveIntelligence | 24,132
+491 | Truffle_Shuffle_85 | 24,121
 492 | SirPesoOtaku | 23,641
 493 | Qptimised | 23,573
 494 | africanasshat | 23,062
