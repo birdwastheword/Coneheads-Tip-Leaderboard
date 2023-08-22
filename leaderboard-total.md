@@ -1,4 +1,4 @@
-Last updated: 23-08-22 11:15:13 UTC  
+Last updated: 23-08-22 11:23:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | avyun | 6,556,605
 15 | Geniuskills | 6,163,865
 16 | Real_Player_0 | 5,865,610
-17 | ashinamune | 5,432,529
+17 | ashinamune | 5,472,529
 18 | HippieStarTraveler | 5,223,383
 19 | transfermymoons | 5,219,002
 20 | cutsickass | 4,906,689
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | _ships | 4,002,337
 29 | Puddin-Luv | 3,993,922
 30 | VIVOffical | 3,886,377
-31 | IveDoneItAtLast | 3,776,507
+31 | IveDoneItAtLast | 3,776,927
 32 | clean_cut89 | 3,573,828
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,383,072
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | slirpo | 624,211
 101 | UniversalNoobMaster | 617,906
 102 | ID404_Not_Found_8964 | 606,145
-103 | Westy3000 | 603,811
+103 | Westy3000 | 603,922
 104 | firstmatedotxyz | 598,580
 105 | __PDS__ | 595,709
 106 | El_Gordone | 592,784
@@ -174,7 +174,7 @@ Rank | Username | Totals Tips
 171 | MadScientistTheFirst | 246,344
 172 | thestonkinator | 246,260
 173 | Dripbot8 | 245,384
-174 | Lillica_Golden_SHIB | 244,819
+174 | Lillica_Golden_SHIB | 244,957
 175 | SnooMacarons9203 | 243,810
 176 | Zalkwalker | 235,069
 177 | coolpattakers | 233,047
