@@ -1,4 +1,4 @@
-Last updated: 23-08-22 16:30:46 UTC  
+Last updated: 23-08-22 16:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,769,624
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | redzrex | 4,364,457
 26 | birdwastheword | 4,241,144
 27 | Ginomania | 4,097,828
-28 | Puddin-Luv | 4,015,226
+28 | Puddin-Luv | 4,020,552
 29 | _ships | 4,002,337
 30 | VIVOffical | 3,886,377
 31 | IveDoneItAtLast | 3,813,548
@@ -152,15 +152,15 @@ Rank | Username | Totals Tips
 149 | liwipe | 304,467
 150 | virmamies | 301,804
 151 | VincentVanGTFO | 300,598
-152 | send_tacoz | 293,576
-153 | legionticket | 293,157
-154 | DogSpark84 | 280,863
-155 | monkeybombed | 280,801
-156 | astro_nut_ | 280,463
-157 | maxfra | 279,459
-158 | deedopete | 277,247
-159 | Lion-Hermit | 275,558
-160 | WhateverAlready | 275,320
+152 | WhateverAlready | 295,972
+153 | send_tacoz | 293,576
+154 | legionticket | 293,157
+155 | DogSpark84 | 280,863
+156 | monkeybombed | 280,801
+157 | astro_nut_ | 280,463
+158 | maxfra | 279,459
+159 | deedopete | 277,247
+160 | Lion-Hermit | 275,558
 161 | PortCity_MadMan | 274,386
 162 | dinoyeti | 272,765
 163 | SetoXlll | 264,179
@@ -310,13 +310,13 @@ Rank | Username | Totals Tips
 307 | Admirito | 74,364
 308 | BeefaloSlim | 72,519
 309 | I_AM_MORE_BADASS | 72,332
-310 | adi_00_ | 71,759
-311 | pwan7505 | 71,230
-312 | sparanaghcoar | 71,118
-313 | Diamond_PnutBrain | 70,536
-314 | drche35 | 70,397
-315 | Rush4Time | 69,659
-316 | Mother-Werewolf185 | 69,345
+310 | Mother-Werewolf185 | 71,813
+311 | adi_00_ | 71,759
+312 | pwan7505 | 71,230
+313 | sparanaghcoar | 71,118
+314 | Diamond_PnutBrain | 70,536
+315 | drche35 | 70,397
+316 | Rush4Time | 69,659
 317 | Tapiz3land | 68,942
 318 | AnduriII | 68,244
 319 | Friendly-Airline2426 | 66,545
