@@ -1,4 +1,4 @@
-Last updated: 23-08-22 21:17:13 UTC  
+Last updated: 23-08-22 21:25:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Homeslicekilla | 7,995,797
 14 | avyun | 6,598,674
 15 | transfermymoons | 6,269,002
-16 | Geniuskills | 6,166,528
+16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 5,943,627
 18 | ashinamune | 5,537,850
 19 | HippieStarTraveler | 5,224,383
@@ -55,15 +55,15 @@ Rank | Username | Totals Tips
 52 | dealkhabari | 1,699,446
 53 | Ten-Mins-Late | 1,635,953
 54 | GooderZBK | 1,613,996
-55 | zdubs | 1,532,846
+55 | zdubs | 1,533,206
 56 | DontLaughArt | 1,461,392
 57 | bray_martin03 | 1,458,175
-58 | evilninjarobot | 1,403,838
+58 | evilninjarobot | 1,406,501
 59 | isthistomorrow_ | 1,281,016
 60 | CMDRGlamdring | 1,232,823
 61 | revdrgonzo | 1,229,888
 62 | HestiaIsTheBestia | 1,188,046
-63 | KONGXIANG | 1,183,097
+63 | KONGXIANG | 1,183,098
 64 | saintajoras | 1,169,017
 65 | Feetfailmenot | 1,151,105
 66 | Richicash | 1,148,866
@@ -130,7 +130,7 @@ Rank | Username | Totals Tips
 127 | dronegeeks1 | 414,406
 128 | RazPie | 411,328
 129 | LrnFaroeseWthBergur | 409,488
-130 | crodbtc | 406,377
+130 | crodbtc | 409,040
 131 | Creepy-Nectarine-225 | 385,165
 132 | Crypto-4-Freedom | 376,526
 133 | SHIFTY-T3RROR | 376,410
@@ -152,7 +152,7 @@ Rank | Username | Totals Tips
 149 | EffinDrongoC | 312,738
 150 | x52x | 304,860
 151 | liwipe | 304,467
-152 | virmamies | 301,804
+152 | virmamies | 303,141
 153 | VincentVanGTFO | 300,598
 154 | send_tacoz | 293,576
 155 | legionticket | 293,391
@@ -321,7 +321,7 @@ Rank | Username | Totals Tips
 318 | Tapiz3land | 68,942
 319 | Yoda975 | 68,917
 320 | AnduriII | 68,244
-321 | Dazzling_Marzipan474 | 66,933
+321 | Dazzling_Marzipan474 | 67,353
 322 | Friendly-Airline2426 | 66,545
 323 | imp3order | 65,546
 324 | damnusernamegotcutof | 65,004
@@ -491,7 +491,7 @@ Rank | Username | Totals Tips
 488 | XBBlade | 24,152
 489 | BelowAveIntelligence | 24,132
 490 | Truffle_Shuffle_85 | 24,121
-491 | halfavocadoemoji | 23,663
+491 | halfavocadoemoji | 23,732
 492 | SirPesoOtaku | 23,641
 493 | Qptimised | 23,573
 494 | africanasshat | 23,062
@@ -794,7 +794,7 @@ Rank | Username | Totals Tips
 791 | Digdaga | 2,216
 792 | A_Dancing_Coder | 2,207
 793 | Niksa2007 | 2,188
-794 | skatistic | 2,163
+794 | skatistic | 2,164
 795 | Kazu4ya | 2,147
 796 | VeryStone | 2,116
 797 | Skulltwister | 2,080
