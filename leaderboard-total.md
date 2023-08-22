@@ -1,4 +1,4 @@
-Last updated: 23-08-22 11:23:38 UTC  
+Last updated: 23-08-22 11:32:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | waterhasnocalories | 18,731,574
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
-9 | crypto_grandma | 11,524,852
+9 | crypto_grandma | 11,529,852
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,766,161
 12 | ArtConsitent | 8,227,278
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | avyun | 6,556,605
 15 | Geniuskills | 6,163,865
 16 | Real_Player_0 | 5,865,610
-17 | ashinamune | 5,472,529
+17 | ashinamune | 5,498,137
 18 | HippieStarTraveler | 5,223,383
 19 | transfermymoons | 5,219,002
 20 | cutsickass | 4,906,689
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | _ships | 4,002,337
 29 | Puddin-Luv | 3,993,922
 30 | VIVOffical | 3,886,377
-31 | IveDoneItAtLast | 3,776,927
+31 | IveDoneItAtLast | 3,779,590
 32 | clean_cut89 | 3,573,828
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,383,072
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | possibili-teas | 2,399,515
 45 | GuyOne | 2,156,625
 46 | Autom4tic_Soze | 2,156,148
-47 | ImAlekBan | 2,144,882
+47 | ImAlekBan | 2,150,816
 48 | Fenrir-1919 | 2,056,169
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
@@ -109,18 +109,18 @@ Rank | Username | Totals Tips
 106 | El_Gordone | 592,784
 107 | Alanski22 | 590,199
 108 | Independent_Heart_15 | 578,825
-109 | nichnotnick | 556,778
-110 | shreyaskg | 538,211
-111 | StepAsideSuckers | 533,434
-112 | scientifichistorian | 529,234
-113 | f0n1xr131ng | 509,681
-114 | Allions1 | 503,528
-115 | MorrisBrett514 | 503,396
-116 | junkwatch | 503,067
-117 | Successful-Walk-3902 | 497,157
-118 | sinlesco | 462,490
-119 | WarmlyWacky | 462,118
-120 | Duskopia | 456,740
+109 | Duskopia | 557,740
+110 | nichnotnick | 556,778
+111 | shreyaskg | 538,211
+112 | StepAsideSuckers | 533,434
+113 | scientifichistorian | 529,234
+114 | f0n1xr131ng | 509,681
+115 | Allions1 | 503,528
+116 | MorrisBrett514 | 503,396
+117 | junkwatch | 503,067
+118 | Successful-Walk-3902 | 497,157
+119 | sinlesco | 462,490
+120 | WarmlyWacky | 462,118
 121 | MediaPrestigious8342 | 453,839
 122 | unhingedbigfoot | 439,874
 123 | adrifing | 438,505
@@ -359,7 +359,7 @@ Rank | Username | Totals Tips
 356 | abbasabba2 | 52,647
 357 | ky0984 | 52,257
 358 | ConeHead710 | 52,012
-359 | Zezano | 51,632
+359 | Zezano | 51,701
 360 | lucivaryas | 51,420
 361 | eatthebagels | 49,692
 362 | Levl1Critter | 49,152
