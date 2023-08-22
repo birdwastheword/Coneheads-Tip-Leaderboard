@@ -1,4 +1,4 @@
-Last updated: 23-08-22 20:50:50 UTC  
+Last updated: 23-08-22 21:00:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
@@ -270,21 +270,21 @@ Rank | Username | Totals Tips
 267 | deathtr0 | 102,541
 268 | ACorDC | 100,420
 269 | redditinchina | 99,698
-270 | FeetAndHandFetish | 98,146
-271 | Knaeggebrott | 97,076
-272 | bakerdawg555 | 96,959
-273 | IOTA_Tesla | 96,607
-274 | BrendanTFirefly | 95,347
-275 | Most_Being_4002 | 94,989
-276 | beanwiggin420 | 94,933
-277 | wolfman333 | 93,566
-278 | Jadenindubai | 93,273
-279 | H3adshotfox77 | 92,575
-280 | CrossPuffs | 91,641
-281 | urlz | 91,281
-282 | DramaticProtogen | 90,274
-283 | Award-Bot | 90,000
-284 | fettskull | 88,730
+270 | fettskull | 99,382
+271 | FeetAndHandFetish | 98,146
+272 | Knaeggebrott | 97,076
+273 | bakerdawg555 | 96,959
+274 | IOTA_Tesla | 96,607
+275 | BrendanTFirefly | 95,347
+276 | Most_Being_4002 | 94,989
+277 | beanwiggin420 | 94,933
+278 | wolfman333 | 93,566
+279 | Jadenindubai | 93,273
+280 | H3adshotfox77 | 92,575
+281 | CrossPuffs | 91,641
+282 | urlz | 91,281
+283 | DramaticProtogen | 90,274
+284 | Award-Bot | 90,000
 285 | HokkaidoNights | 88,108
 286 | ShopALF | 87,942
 287 | kwickle | 87,804
