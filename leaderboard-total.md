@@ -1,11 +1,11 @@
-Last updated: 23-08-22 06:52:14 UTC  
+Last updated: 23-08-22 07:17:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
 2 | Wonderful_Bad6531 | 34,016,179
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,419,848
+5 | nakamo-toe | 24,426,713
 6 | waterhasnocalories | 18,731,573
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | _ships | 4,002,337
 29 | Puddin-Luv | 3,993,922
 30 | VIVOffical | 3,886,377
-31 | IveDoneItAtLast | 3,773,424
+31 | IveDoneItAtLast | 3,773,844
 32 | clean_cut89 | 3,573,828
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,383,072
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,820,671
 52 | dealkhabari | 1,698,838
-53 | Ten-Mins-Late | 1,634,693
+53 | Ten-Mins-Late | 1,635,533
 54 | GooderZBK | 1,613,996
 55 | zdubs | 1,526,696
 56 | DontLaughArt | 1,461,392
@@ -105,8 +105,8 @@ Rank | Username | Totals Tips
 102 | ID404_Not_Found_8964 | 606,145
 103 | firstmatedotxyz | 598,580
 104 | __PDS__ | 595,709
-105 | El_Gordone | 592,784
-106 | Westy3000 | 592,480
+105 | Westy3000 | 593,591
+106 | El_Gordone | 592,784
 107 | Alanski22 | 590,199
 108 | Independent_Heart_15 | 578,825
 109 | nichnotnick | 556,778
