@@ -1,4 +1,4 @@
-Last updated: 23-08-22 05:40:30 UTC  
+Last updated: 23-08-22 05:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | transfermymoons | 5,219,002
 19 | cutsickass | 4,806,689
 20 | ArtConsitent | 4,727,278
-21 | thelonliestcrowd | 4,561,558
+21 | thelonliestcrowd | 4,564,221
 22 | rikbona | 4,539,773
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,411
