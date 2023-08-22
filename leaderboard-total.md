@@ -1,4 +1,4 @@
-Last updated: 23-08-22 02:27:07 UTC  
+Last updated: 23-08-22 02:35:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | zdubs | 1,520,762
 56 | DontLaughArt | 1,461,392
 57 | bray_martin03 | 1,458,175
-58 | evilninjarobot | 1,394,633
+58 | evilninjarobot | 1,397,296
 59 | isthistomorrow_ | 1,281,016
 60 | CMDRGlamdring | 1,230,875
 61 | revdrgonzo | 1,229,888
