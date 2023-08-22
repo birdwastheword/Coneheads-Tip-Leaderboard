@@ -1,7 +1,7 @@
-Last updated: 23-08-22 14:25:06 UTC  
+Last updated: 23-08-22 14:34:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 35,679,734
+1 | Bitdream200K | 35,689,734
 2 | Wonderful_Bad6531 | 34,016,179
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | redzrex | 4,364,457
 26 | birdwastheword | 4,214,514
 27 | Ginomania | 4,087,828
-28 | Puddin-Luv | 4,009,900
+28 | Puddin-Luv | 4,012,563
 29 | _ships | 4,002,337
 30 | VIVOffical | 3,886,377
 31 | IveDoneItAtLast | 3,813,548
@@ -627,7 +627,7 @@ Rank | Username | Totals Tips
 624 | 1-760-706-7425 | 8,272
 625 | akemicariocaer | 8,263
 626 | Handsome_Gourd | 8,242
-627 | shityougrin | 8,127
+627 | shityougrin | 8,196
 628 | JAK0M0VIN0 | 8,097
 629 | TheConeHodler | 8,090
 630 | Nyarlatotep781 | 8,078
