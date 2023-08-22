@@ -1,4 +1,4 @@
-Last updated: 23-08-22 14:34:39 UTC  
+Last updated: 23-08-22 14:42:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,689,734
@@ -67,8 +67,8 @@ Rank | Username | Totals Tips
 64 | saintajoras | 1,169,017
 65 | Feetfailmenot | 1,151,105
 66 | beastlybaker | 1,138,281
-67 | Richicash | 1,073,866
-68 | investigator100 | 1,070,530
+67 | Richicash | 1,098,866
+68 | investigator100 | 1,073,193
 69 | freechickens | 1,028,317
 70 | avatarbot | 1,027,000
 71 | WarmBiertje | 1,000,000
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | BeardedBro_ | 248,627
 171 | MadScientistTheFirst | 246,344
 172 | thestonkinator | 246,260
-173 | Lillica_Golden_SHIB | 245,440
+173 | Lillica_Golden_SHIB | 245,509
 174 | Dripbot8 | 245,384
 175 | SnooMacarons9203 | 243,810
 176 | tjex666 | 240,801
@@ -198,8 +198,8 @@ Rank | Username | Totals Tips
 195 | ziggyback | 203,369
 196 | Esco1980 | 201,771
 197 | jimfird | 199,655
-198 | CedricDiccory | 197,932
-199 | FluffyAspie | 197,767
+198 | FluffyAspie | 198,187
+199 | CedricDiccory | 197,932
 200 | sudrats | 197,124
 201 | redditavanft | 195,122
 202 | AverageLiberalJoe | 195,007
