@@ -1,4 +1,4 @@
-Last updated: 23-08-22 11:32:15 UTC  
+Last updated: 23-08-22 11:41:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -27,11 +27,11 @@ Rank | Username | Totals Tips
 24 | 8inchConer | 4,447,411
 25 | redzrex | 4,364,457
 26 | birdwastheword | 4,214,094
-27 | Ginomania | 4,085,165
+27 | Ginomania | 4,087,828
 28 | _ships | 4,002,337
 29 | Puddin-Luv | 3,993,922
 30 | VIVOffical | 3,886,377
-31 | IveDoneItAtLast | 3,779,590
+31 | IveDoneItAtLast | 3,785,598
 32 | clean_cut89 | 3,573,828
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,383,072
@@ -102,17 +102,17 @@ Rank | Username | Totals Tips
 99 | Skank_cunt_42 | 626,162
 100 | slirpo | 624,211
 101 | UniversalNoobMaster | 617,906
-102 | ID404_Not_Found_8964 | 606,145
+102 | ID404_Not_Found_8964 | 606,147
 103 | Westy3000 | 603,922
 104 | firstmatedotxyz | 598,580
 105 | __PDS__ | 595,709
 106 | El_Gordone | 592,784
 107 | Alanski22 | 590,199
 108 | Independent_Heart_15 | 578,825
-109 | Duskopia | 557,740
+109 | Duskopia | 560,403
 110 | nichnotnick | 556,778
-111 | shreyaskg | 538,211
-112 | StepAsideSuckers | 533,434
+111 | StepAsideSuckers | 540,695
+112 | shreyaskg | 538,211
 113 | scientifichistorian | 529,234
 114 | f0n1xr131ng | 509,681
 115 | Allions1 | 503,528
@@ -519,8 +519,8 @@ Rank | Username | Totals Tips
 516 | Iiwip | 19,533
 517 | MalarkyD | 19,527
 518 | lookwhatumademedoo | 19,510
-519 | ___MOM___ | 18,853
-520 | ipad_daps | 18,839
+519 | ipad_daps | 18,908
+520 | ___MOM___ | 18,853
 521 | mihii12 | 18,691
 522 | Bear-Bull-Pig | 18,069
 523 | Collectibl3 | 18,024
