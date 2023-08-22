@@ -1,4 +1,4 @@
-Last updated: 23-08-22 01:57:12 UTC  
+Last updated: 23-08-22 02:27:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
@@ -19,13 +19,13 @@ Rank | Username | Totals Tips
 16 | ashinamune | 5,429,866
 17 | HippieStarTraveler | 5,223,383
 18 | transfermymoons | 4,958,002
-19 | cutsickass | 4,756,689
+19 | cutsickass | 4,806,689
 20 | ArtConsitent | 4,727,278
 21 | thelonliestcrowd | 4,561,558
 22 | rikbona | 4,539,773
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,411
-25 | redzrex | 4,358,711
+25 | redzrex | 4,361,374
 26 | birdwastheword | 4,213,674
 27 | Ginomania | 4,085,165
 28 | _ships | 4,001,729
@@ -48,14 +48,14 @@ Rank | Username | Totals Tips
 45 | Autom4tic_Soze | 2,156,148
 46 | GuyOne | 2,151,299
 47 | ImAlekBan | 2,140,985
-48 | Fenrir-1919 | 2,052,290
+48 | Fenrir-1919 | 2,053,506
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,820,671
 52 | dealkhabari | 1,697,622
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,591,784
-55 | zdubs | 1,493,524
+55 | zdubs | 1,520,762
 56 | DontLaughArt | 1,461,392
 57 | bray_martin03 | 1,458,175
 58 | evilninjarobot | 1,394,633
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | Feetfailmenot | 1,151,105
 66 | beastlybaker | 1,138,281
 67 | Richicash | 1,073,866
-68 | investigator100 | 1,060,530
+68 | investigator100 | 1,070,530
 69 | freechickens | 1,028,317
 70 | avatarbot | 1,027,000
 71 | WarmBiertje | 1,000,000
@@ -105,9 +105,9 @@ Rank | Username | Totals Tips
 102 | firstmatedotxyz | 598,580
 103 | __PDS__ | 595,709
 104 | El_Gordone | 592,784
-105 | Alanski22 | 582,210
-106 | Independent_Heart_15 | 578,825
-107 | Westy3000 | 574,283
+105 | Westy3000 | 587,616
+106 | Alanski22 | 582,210
+107 | Independent_Heart_15 | 578,825
 108 | nichnotnick | 556,778
 109 | shreyaskg | 538,211
 110 | scientifichistorian | 529,234
@@ -477,13 +477,13 @@ Rank | Username | Totals Tips
 474 | Mysterious-Bar-4721 | 25,000
 475 | CowDapper7867 | 25,000
 476 | Practical-Store9603 | 25,000
-477 | 4ucklehead | 24,684
-478 | FalloutAssasin | 24,615
-479 | liberovento | 24,307
-480 | XBBlade | 24,152
-481 | BelowAveIntelligence | 24,132
-482 | Truffle_Shuffle_85 | 24,121
-483 | Motor-breath8 | 23,955
+477 | Motor-breath8 | 24,843
+478 | 4ucklehead | 24,684
+479 | FalloutAssasin | 24,615
+480 | liberovento | 24,307
+481 | XBBlade | 24,152
+482 | BelowAveIntelligence | 24,132
+483 | Truffle_Shuffle_85 | 24,121
 484 | halfavocadoemoji | 23,663
 485 | SirPesoOtaku | 23,641
 486 | Qptimised | 23,573
