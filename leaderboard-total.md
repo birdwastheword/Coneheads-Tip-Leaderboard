@@ -1,11 +1,11 @@
-Last updated: 23-08-22 04:42:51 UTC  
+Last updated: 23-08-22 04:51:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
 2 | Wonderful_Bad6531 | 34,016,179
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,329,306
+5 | nakamo-toe | 24,331,969
 6 | waterhasnocalories | 18,731,573
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | dealkhabari | 1,697,622
 53 | GooderZBK | 1,613,996
 54 | Ten-Mins-Late | 1,591,784
-55 | zdubs | 1,526,088
+55 | zdubs | 1,526,696
 56 | DontLaughArt | 1,461,392
 57 | bray_martin03 | 1,458,175
 58 | evilninjarobot | 1,397,296
