@@ -1,4 +1,4 @@
-Last updated: 23-08-22 09:51:00 UTC  
+Last updated: 23-08-22 10:27:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | waterhasnocalories | 18,731,574
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
-9 | crypto_grandma | 11,511,323
+9 | crypto_grandma | 11,518,186
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,766,161
 12 | Homeslicekilla | 7,995,797
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | GuyOne | 2,156,625
 46 | Autom4tic_Soze | 2,156,148
 47 | ImAlekBan | 2,144,882
-48 | Fenrir-1919 | 2,053,506
+48 | Fenrir-1919 | 2,056,169
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,820,671
@@ -103,8 +103,8 @@ Rank | Username | Totals Tips
 100 | slirpo | 624,211
 101 | UniversalNoobMaster | 617,906
 102 | ID404_Not_Found_8964 | 606,145
-103 | firstmatedotxyz | 598,580
-104 | Westy3000 | 598,368
+103 | Westy3000 | 601,256
+104 | firstmatedotxyz | 598,580
 105 | __PDS__ | 595,709
 106 | El_Gordone | 592,784
 107 | Alanski22 | 590,199
@@ -217,7 +217,7 @@ Rank | Username | Totals Tips
 214 | Ashamed_Raccoon9918 | 160,467
 215 | ultra_terrestrial | 160,244
 216 | skollywag92 | 158,279
-217 | Hot_Potato_Salad | 155,216
+217 | Hot_Potato_Salad | 155,285
 218 | 6reficul | 153,884
 219 | martymartinator | 152,560
 220 | sjakkpila | 152,031
@@ -268,20 +268,20 @@ Rank | Username | Totals Tips
 265 | i_wake_up_at_12 | 100,253
 266 | redditinchina | 99,698
 267 | FeetAndHandFetish | 98,146
-268 | Knaeggebrott | 97,076
-269 | bakerdawg555 | 96,959
-270 | IOTA_Tesla | 96,607
-271 | BrendanTFirefly | 95,347
-272 | beanwiggin420 | 94,933
-273 | Most_Being_4002 | 94,569
-274 | wolfman333 | 93,566
-275 | Jadenindubai | 93,273
-276 | H3adshotfox77 | 92,575
-277 | CrossPuffs | 91,641
-278 | urlz | 91,281
-279 | DramaticProtogen | 90,274
-280 | Award-Bot | 90,000
-281 | jamjam794 | 88,821
+268 | jamjam794 | 97,345
+269 | Knaeggebrott | 97,076
+270 | bakerdawg555 | 96,959
+271 | IOTA_Tesla | 96,607
+272 | BrendanTFirefly | 95,347
+273 | beanwiggin420 | 94,933
+274 | Most_Being_4002 | 94,569
+275 | wolfman333 | 93,566
+276 | Jadenindubai | 93,273
+277 | H3adshotfox77 | 92,575
+278 | CrossPuffs | 91,641
+279 | urlz | 91,281
+280 | DramaticProtogen | 90,274
+281 | Award-Bot | 90,000
 282 | HokkaidoNights | 88,108
 283 | ShopALF | 87,942
 284 | kwickle | 87,804
