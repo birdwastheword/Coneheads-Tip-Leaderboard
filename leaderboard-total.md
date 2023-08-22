@@ -1,8 +1,8 @@
-Last updated: 23-08-22 21:43:14 UTC  
+Last updated: 23-08-22 21:51:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
-2 | Wonderful_Bad6531 | 34,024,924
+2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
 5 | nakamo-toe | 24,515,912
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 5,943,627
 18 | ashinamune | 5,537,850
-19 | HippieStarTraveler | 5,224,383
+19 | HippieStarTraveler | 5,224,803
 20 | cutsickass | 5,111,689
 21 | thelonliestcrowd | 4,569,547
 22 | rikbona | 4,539,773
