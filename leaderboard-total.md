@@ -1,4 +1,4 @@
-Last updated: 23-08-22 20:20:35 UTC  
+Last updated: 23-08-22 20:30:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
@@ -12,11 +12,11 @@ Rank | Username | Totals Tips
 9 | crypto_grandma | 11,712,484
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,766,669
-12 | ArtConsitent | 8,227,278
+12 | ArtConsitent | 8,227,279
 13 | Homeslicekilla | 7,995,797
 14 | avyun | 6,598,674
 15 | transfermymoons | 6,269,002
-16 | Geniuskills | 6,163,865
+16 | Geniuskills | 6,166,528
 17 | Real_Player_0 | 5,943,627
 18 | ashinamune | 5,537,850
 19 | HippieStarTraveler | 5,224,383
