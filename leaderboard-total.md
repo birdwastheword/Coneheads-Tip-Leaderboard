@@ -1,11 +1,11 @@
-Last updated: 23-08-22 23:30:51 UTC  
+Last updated: 23-08-22 23:40:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,593,258
+5 | nakamo-toe | 24,595,921
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,855,672
 8 | HODL-THE-LINE | 11,920,100
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 5,946,898
 18 | ashinamune | 5,537,850
-19 | HippieStarTraveler | 5,226,552
+19 | HippieStarTraveler | 5,226,621
 20 | cutsickass | 5,111,689
 21 | thelonliestcrowd | 4,569,547
 22 | rikbona | 4,539,773
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | dealkhabari | 1,699,446
 53 | Ten-Mins-Late | 1,635,953
 54 | GooderZBK | 1,613,996
-55 | zdubs | 1,533,206
+55 | zdubs | 1,533,814
 56 | DontLaughArt | 1,461,392
 57 | bray_martin03 | 1,458,175
 58 | evilninjarobot | 1,406,501
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | revdrgonzo | 1,229,888
 62 | HestiaIsTheBestia | 1,188,046
 63 | KONGXIANG | 1,183,098
-64 | saintajoras | 1,169,017
+64 | saintajoras | 1,171,680
 65 | Feetfailmenot | 1,151,105
 66 | Richicash | 1,148,866
 67 | beastlybaker | 1,138,281
@@ -131,8 +131,8 @@ Rank | Username | Totals Tips
 128 | dronegeeks1 | 414,406
 129 | RazPie | 411,328
 130 | LrnFaroeseWthBergur | 409,488
-131 | Creepy-Nectarine-225 | 385,165
-132 | Crypto-4-Freedom | 376,526
+131 | Creepy-Nectarine-225 | 385,673
+132 | Crypto-4-Freedom | 376,946
 133 | SHIFTY-T3RROR | 376,410
 134 | zenhodl | 374,566
 135 | AustinTX1985 | 368,863
@@ -215,9 +215,9 @@ Rank | Username | Totals Tips
 212 | high5s_inureye | 167,388
 213 | DamnWhySoLow | 166,675
 214 | MelonFarmer420 | 163,776
-215 | Ashamed_Raccoon9918 | 160,467
-216 | ultra_terrestrial | 160,244
-217 | skollywag92 | 158,279
+215 | skollywag92 | 163,279
+216 | Ashamed_Raccoon9918 | 160,467
+217 | ultra_terrestrial | 160,244
 218 | Hot_Potato_Salad | 155,354
 219 | DAMG808 | 154,583
 220 | 6reficul | 153,884
