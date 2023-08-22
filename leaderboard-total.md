@@ -1,4 +1,4 @@
-Last updated: 23-08-22 13:32:59 UTC  
+Last updated: 23-08-22 13:41:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | LuminousViper | 3,383,072
 35 | rustyybikes | 3,375,758
 36 | Dry_Badger_2403 | 3,193,857
-37 | ZukoBih | 3,087,789
+37 | ZukoBih | 3,187,789
 38 | LordBobTheWhale | 3,058,551
 39 | Mean_Bandicoot_7481 | 2,748,882
 40 | thom_orrow | 2,715,041
@@ -115,7 +115,7 @@ Rank | Username | Totals Tips
 112 | shreyaskg | 538,211
 113 | scientifichistorian | 531,897
 114 | f0n1xr131ng | 509,681
-115 | junkwatch | 503,675
+115 | junkwatch | 503,744
 116 | Allions1 | 503,528
 117 | MorrisBrett514 | 503,396
 118 | Successful-Walk-3902 | 497,157
