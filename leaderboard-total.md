@@ -1,4 +1,4 @@
-Last updated: 23-08-22 07:42:22 UTC  
+Last updated: 23-08-22 07:50:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | waterhasnocalories | 18,731,573
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
-9 | crypto_grandma | 11,461,591
+9 | crypto_grandma | 11,506,323
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,766,161
 12 | Homeslicekilla | 7,995,797
@@ -76,8 +76,8 @@ Rank | Username | Totals Tips
 73 | EvanIsBacon | 970,416
 74 | Forward_Today2849 | 932,405
 75 | 0-Give-a-fucks | 919,009
-76 | Modestexcuse | 903,684
-77 | djrcollectables | 900,550
+76 | djrcollectables | 908,539
+77 | Modestexcuse | 903,684
 78 | thee_monster | 896,765
 79 | CluelessSurvivor | 875,836
 80 | Bobisdeadrun | 868,415
@@ -259,8 +259,8 @@ Rank | Username | Totals Tips
 256 | pythonskynet | 107,285
 257 | Jlt42000 | 107,091
 258 | AD_VICTORIAM_x | 106,876
-259 | Chanyuui1 | 104,940
-260 | CaptainCheeseCake | 104,741
+259 | CaptainCheeseCake | 105,349
+260 | Chanyuui1 | 104,940
 261 | Kevin3683 | 103,653
 262 | rolonic | 102,765
 263 | deathtr0 | 102,541
