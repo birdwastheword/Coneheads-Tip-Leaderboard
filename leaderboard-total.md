@@ -1,4 +1,4 @@
-Last updated: 23-08-22 08:52:33 UTC  
+Last updated: 23-08-22 09:19:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | waterhasnocalories | 18,731,574
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
-9 | crypto_grandma | 11,506,323
+9 | crypto_grandma | 11,511,323
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,766,161
 12 | Homeslicekilla | 7,995,797
@@ -416,9 +416,9 @@ Rank | Username | Totals Tips
 413 | shitwhenismycakeday | 37,409
 414 | redditisalt | 37,307
 415 | Mother-Werewolf185 | 37,280
-416 | Imalittlestitious86 | 37,090
-417 | Lucabba | 36,898
-418 | Dboythegreat | 36,684
+416 | Dboythegreat | 37,184
+417 | Imalittlestitious86 | 37,090
+418 | Lucabba | 36,898
 419 | degree-01 | 36,066
 420 | GuronT | 35,561
 421 | TRANZHUMANIST | 35,000
@@ -485,14 +485,14 @@ Rank | Username | Totals Tips
 482 | XBBlade | 24,152
 483 | BelowAveIntelligence | 24,132
 484 | Truffle_Shuffle_85 | 24,121
-485 | halfavocadoemoji | 23,663
-486 | SirPesoOtaku | 23,641
-487 | Qptimised | 23,573
-488 | africanasshat | 23,062
-489 | AntonioTT05 | 22,876
-490 | Bundess | 22,746
-491 | Ryaol | 22,663
-492 | madridgalactico | 22,605
+485 | madridgalactico | 23,705
+486 | halfavocadoemoji | 23,663
+487 | SirPesoOtaku | 23,641
+488 | Qptimised | 23,573
+489 | africanasshat | 23,062
+490 | AntonioTT05 | 22,876
+491 | Bundess | 22,746
+492 | Ryaol | 22,663
 493 | aereyy | 22,364
 494 | Particular_Equal_490 | 22,256
 495 | beejbum | 22,200
