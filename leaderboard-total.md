@@ -1,7 +1,7 @@
-Last updated: 23-08-22 13:41:23 UTC  
+Last updated: 23-08-22 13:50:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 35,664,408
+1 | Bitdream200K | 35,669,734
 2 | Wonderful_Bad6531 | 34,016,179
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
@@ -237,15 +237,15 @@ Rank | Username | Totals Tips
 234 | MorrisWayne | 128,090
 235 | robnectar | 127,974
 236 | CalligrapherEnough83 | 127,227
-237 | tmanfromEarth | 125,118
-238 | Trakorr | 125,110
-239 | Sativa55555 | 121,481
-240 | stupidcupid112 | 121,421
-241 | Adrewmc | 121,177
-242 | Mj_6o4 | 120,680
-243 | Schl0tz | 120,000
-244 | ZeMadMan1 | 117,273
-245 | Outrageous-Skill-464 | 117,023
+237 | Outrageous-Skill-464 | 127,102
+238 | tmanfromEarth | 125,118
+239 | Trakorr | 125,110
+240 | Sativa55555 | 121,481
+241 | stupidcupid112 | 121,421
+242 | Adrewmc | 121,177
+243 | Mj_6o4 | 120,680
+244 | Schl0tz | 120,000
+245 | ZeMadMan1 | 117,273
 246 | street_shark_puppet | 116,891
 247 | lordciders | 116,506
 248 | wato4000 | 116,139
