@@ -1,4 +1,4 @@
-Last updated: 23-08-22 13:23:57 UTC  
+Last updated: 23-08-22 13:32:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | waterhasnocalories | 18,731,574
 7 | ConeDesk | 17,666,635
 8 | HODL-THE-LINE | 11,920,100
-9 | crypto_grandma | 11,675,707
+9 | crypto_grandma | 11,702,507
 10 | Parush9 | 11,124,676
 11 | SammyCraigar | 8,766,161
 12 | ArtConsitent | 8,227,278
@@ -28,8 +28,8 @@ Rank | Username | Totals Tips
 25 | redzrex | 4,364,457
 26 | birdwastheword | 4,214,094
 27 | Ginomania | 4,087,828
-28 | _ships | 4,002,337
-29 | Puddin-Luv | 4,001,911
+28 | Puddin-Luv | 4,004,574
+29 | _ships | 4,002,337
 30 | VIVOffical | 3,886,377
 31 | IveDoneItAtLast | 3,794,269
 32 | clean_cut89 | 3,573,828
@@ -115,9 +115,9 @@ Rank | Username | Totals Tips
 112 | shreyaskg | 538,211
 113 | scientifichistorian | 531,897
 114 | f0n1xr131ng | 509,681
-115 | Allions1 | 503,528
-116 | MorrisBrett514 | 503,396
-117 | junkwatch | 503,067
+115 | junkwatch | 503,675
+116 | Allions1 | 503,528
+117 | MorrisBrett514 | 503,396
 118 | Successful-Walk-3902 | 497,157
 119 | sinlesco | 462,490
 120 | WarmlyWacky | 462,118
@@ -484,8 +484,8 @@ Rank | Username | Totals Tips
 481 | liberovento | 24,307
 482 | XBBlade | 24,152
 483 | BelowAveIntelligence | 24,132
-484 | Truffle_Shuffle_85 | 24,121
-485 | madridgalactico | 23,705
+484 | madridgalactico | 24,125
+485 | Truffle_Shuffle_85 | 24,121
 486 | halfavocadoemoji | 23,663
 487 | SirPesoOtaku | 23,641
 488 | Qptimised | 23,573
