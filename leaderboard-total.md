@@ -1,11 +1,11 @@
-Last updated: 23-08-22 18:44:00 UTC  
+Last updated: 23-08-22 18:52:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,796,254
 2 | Wonderful_Bad6531 | 34,018,842
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,496,857
+5 | nakamo-toe | 24,501,843
 6 | waterhasnocalories | 18,731,574
 7 | ConeDesk | 17,746,717
 8 | HODL-THE-LINE | 11,920,100
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | Real_Player_0 | 5,943,627
 18 | ashinamune | 5,537,850
 19 | HippieStarTraveler | 5,224,383
-20 | cutsickass | 4,981,689
+20 | cutsickass | 5,006,689
 21 | thelonliestcrowd | 4,569,547
 22 | rikbona | 4,539,773
 23 | bigbilly1234567899 | 4,496,042
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | CMDRGlamdring | 1,232,823
 61 | revdrgonzo | 1,229,888
 62 | HestiaIsTheBestia | 1,188,046
-63 | KONGXIANG | 1,169,292
+63 | KONGXIANG | 1,169,293
 64 | saintajoras | 1,169,017
 65 | Feetfailmenot | 1,151,105
 66 | Richicash | 1,148,866
@@ -532,7 +532,7 @@ Rank | Username | Totals Tips
 529 | omfglauren | 17,676
 530 | masterassassin93 | 17,409
 531 | Steves1982 | 17,284
-532 | foreignGER | 17,097
+532 | foreignGER | 17,098
 533 | OutrageousStudy6752 | 17,087
 534 | Sebanimation | 17,004
 535 | leviathynx | 16,901
