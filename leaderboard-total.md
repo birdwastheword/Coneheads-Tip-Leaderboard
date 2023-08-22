@@ -1,4 +1,4 @@
-Last updated: 23-08-22 03:30:53 UTC  
+Last updated: 23-08-22 03:40:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
@@ -33,16 +33,16 @@ Rank | Username | Totals Tips
 30 | VIVOffical | 3,886,377
 31 | IveDoneItAtLast | 3,773,004
 32 | clean_cut89 | 3,573,828
-33 | LuminousViper | 3,383,072
-34 | rustyybikes | 3,375,758
-35 | Dry_Badger_2403 | 3,193,857
-36 | ZukoBih | 3,087,789
-37 | LordBobTheWhale | 3,058,551
-38 | Mean_Bandicoot_7481 | 2,748,882
-39 | thom_orrow | 2,714,533
-40 | _Royal_Insylum | 2,603,787
-41 | SpookySYN | 2,576,709
-42 | Permanent_WSB_Bull | 2,522,155
+33 | Permanent_WSB_Bull | 3,522,155
+34 | LuminousViper | 3,383,072
+35 | rustyybikes | 3,375,758
+36 | Dry_Badger_2403 | 3,193,857
+37 | ZukoBih | 3,087,789
+38 | LordBobTheWhale | 3,058,551
+39 | Mean_Bandicoot_7481 | 2,748,882
+40 | thom_orrow | 2,714,533
+41 | _Royal_Insylum | 2,603,787
+42 | SpookySYN | 2,576,709
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
 45 | GuyOne | 2,156,625

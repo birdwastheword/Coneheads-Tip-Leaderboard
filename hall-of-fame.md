@@ -84,5 +84,6 @@ Rank | Date | Username | Totals Tips | to User
 81 | 2023-08-20 09:59:16 | Dry_Badger_2403 | 1,000,000| waterhasnocalories
 82 | 2023-08-20 10:01:59 | waterhasnocalories | 1,000,000| Dry_Badger_2403
 83 | 2023-08-21 05:29:29 | ArtConsitent | 1,000,000| nakamo-toe
+84 | 2023-08-22 03:33:53 | Permanent_WSB_Bull | 1,000,000| skollywag92
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
