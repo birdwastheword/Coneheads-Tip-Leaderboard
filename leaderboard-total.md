@@ -1,4 +1,4 @@
-Last updated: 23-08-22 10:27:41 UTC  
+Last updated: 23-08-22 10:40:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | slirpo | 624,211
 101 | UniversalNoobMaster | 617,906
 102 | ID404_Not_Found_8964 | 606,145
-103 | Westy3000 | 601,256
+103 | Westy3000 | 601,367
 104 | firstmatedotxyz | 598,580
 105 | __PDS__ | 595,709
 106 | El_Gordone | 592,784
@@ -237,8 +237,8 @@ Rank | Username | Totals Tips
 234 | MorrisWayne | 128,090
 235 | robnectar | 127,974
 236 | CalligrapherEnough83 | 127,227
-237 | Trakorr | 125,110
-238 | tmanfromEarth | 124,118
+237 | tmanfromEarth | 125,118
+238 | Trakorr | 125,110
 239 | Sativa55555 | 121,481
 240 | stupidcupid112 | 121,421
 241 | Adrewmc | 121,177
