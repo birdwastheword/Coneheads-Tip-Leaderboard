@@ -1,4 +1,4 @@
-Last updated: 23-08-22 07:50:34 UTC  
+Last updated: 23-08-22 08:26:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
 5 | nakamo-toe | 24,426,713
-6 | waterhasnocalories | 18,731,573
+6 | waterhasnocalories | 18,731,574
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
 9 | crypto_grandma | 11,506,323
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,411
 25 | redzrex | 4,364,457
-26 | birdwastheword | 4,213,674
+26 | birdwastheword | 4,214,094
 27 | Ginomania | 4,085,165
 28 | _ships | 4,002,337
 29 | Puddin-Luv | 3,993,922
@@ -194,7 +194,7 @@ Rank | Username | Totals Tips
 191 | SigSalvadore | 212,358
 192 | UWphoto | 209,795
 193 | the_judge_168 | 208,455
-194 | Significant_Talk4943 | 204,139
+194 | Significant_Talk4943 | 205,139
 195 | ziggyback | 203,369
 196 | Esco1980 | 201,771
 197 | jimfird | 199,147
@@ -462,7 +462,7 @@ Rank | Username | Totals Tips
 459 | Trelucatre | 26,469
 460 | puzzled__panther | 26,000
 461 | Primary_Technical | 26,000
-462 | genesis_crazy_one | 25,844
+462 | genesis_crazy_one | 25,913
 463 | iamannonymous27 | 25,840
 464 | Glitzxc | 25,779
 465 | AnxiousQuestioner | 25,684
