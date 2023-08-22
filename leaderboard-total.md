@@ -1,4 +1,4 @@
-Last updated: 23-08-22 03:40:45 UTC  
+Last updated: 23-08-22 03:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
@@ -107,7 +107,7 @@ Rank | Username | Totals Tips
 104 | __PDS__ | 595,709
 105 | El_Gordone | 592,784
 106 | Westy3000 | 588,036
-107 | Alanski22 | 582,210
+107 | Alanski22 | 584,873
 108 | Independent_Heart_15 | 578,825
 109 | nichnotnick | 556,778
 110 | shreyaskg | 538,211
@@ -115,8 +115,8 @@ Rank | Username | Totals Tips
 112 | f0n1xr131ng | 509,681
 113 | StepAsideSuckers | 508,188
 114 | Allions1 | 503,528
-115 | junkwatch | 503,067
-116 | MorrisBrett514 | 502,976
+115 | MorrisBrett514 | 503,396
+116 | junkwatch | 503,067
 117 | Successful-Walk-3902 | 497,157
 118 | sinlesco | 462,490
 119 | WarmlyWacky | 462,118
@@ -145,8 +145,8 @@ Rank | Username | Totals Tips
 142 | dopelifer09 | 333,453
 143 | Tinman_ApE | 330,810
 144 | Obi1eyeKenobi | 316,343
-145 | EffinDrongoC | 312,738
-146 | Korean_Street_Pizza | 310,274
+145 | Korean_Street_Pizza | 312,937
+146 | EffinDrongoC | 312,738
 147 | x52x | 304,860
 148 | liwipe | 304,467
 149 | VincentVanGTFO | 300,598
