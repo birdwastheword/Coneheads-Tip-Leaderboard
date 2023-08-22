@@ -1,11 +1,11 @@
-Last updated: 23-08-22 05:50:50 UTC  
+Last updated: 23-08-22 06:27:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
 2 | Wonderful_Bad6531 | 34,016,179
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,337,295
+5 | nakamo-toe | 24,417,185
 6 | waterhasnocalories | 18,731,573
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
@@ -19,9 +19,9 @@ Rank | Username | Totals Tips
 16 | ashinamune | 5,429,866
 17 | HippieStarTraveler | 5,223,383
 18 | transfermymoons | 5,219,002
-19 | cutsickass | 4,806,689
+19 | cutsickass | 4,881,689
 20 | ArtConsitent | 4,727,278
-21 | thelonliestcrowd | 4,564,221
+21 | thelonliestcrowd | 4,566,884
 22 | rikbona | 4,539,773
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,411
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | _ships | 4,002,337
 29 | Puddin-Luv | 3,993,922
 30 | VIVOffical | 3,886,377
-31 | IveDoneItAtLast | 3,773,004
+31 | IveDoneItAtLast | 3,773,424
 32 | clean_cut89 | 3,573,828
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,383,072
@@ -47,14 +47,14 @@ Rank | Username | Totals Tips
 44 | possibili-teas | 2,399,515
 45 | GuyOne | 2,156,625
 46 | Autom4tic_Soze | 2,156,148
-47 | ImAlekBan | 2,140,985
+47 | ImAlekBan | 2,144,882
 48 | Fenrir-1919 | 2,053,506
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,820,671
 52 | dealkhabari | 1,698,838
-53 | GooderZBK | 1,613,996
-54 | Ten-Mins-Late | 1,591,784
+53 | Ten-Mins-Late | 1,634,693
+54 | GooderZBK | 1,613,996
 55 | zdubs | 1,526,696
 56 | DontLaughArt | 1,461,392
 57 | bray_martin03 | 1,458,175
@@ -106,8 +106,8 @@ Rank | Username | Totals Tips
 103 | firstmatedotxyz | 598,580
 104 | __PDS__ | 595,709
 105 | El_Gordone | 592,784
-106 | Alanski22 | 590,199
-107 | Westy3000 | 588,036
+106 | Westy3000 | 592,480
+107 | Alanski22 | 590,199
 108 | Independent_Heart_15 | 578,825
 109 | nichnotnick | 556,778
 110 | shreyaskg | 538,211
@@ -146,14 +146,14 @@ Rank | Username | Totals Tips
 143 | Tinman_ApE | 330,810
 144 | Obi1eyeKenobi | 316,343
 145 | Korean_Street_Pizza | 315,600
-146 | EffinDrongoC | 312,738
-147 | x52x | 304,860
-148 | liwipe | 304,467
-149 | virmamies | 301,804
-150 | VincentVanGTFO | 300,598
-151 | send_tacoz | 293,576
-152 | legionticket | 293,157
-153 | YarOldeOrchard | 288,325
+146 | YarOldeOrchard | 314,955
+147 | EffinDrongoC | 312,738
+148 | x52x | 304,860
+149 | liwipe | 304,467
+150 | virmamies | 301,804
+151 | VincentVanGTFO | 300,598
+152 | send_tacoz | 293,576
+153 | legionticket | 293,157
 154 | monkeybombed | 280,801
 155 | DogSpark84 | 280,794
 156 | astro_nut_ | 280,463
@@ -214,7 +214,7 @@ Rank | Username | Totals Tips
 211 | high5s_inureye | 167,388
 212 | DamnWhySoLow | 166,675
 213 | MelonFarmer420 | 162,936
-214 | Ashamed_Raccoon9918 | 160,398
+214 | Ashamed_Raccoon9918 | 160,467
 215 | ultra_terrestrial | 160,244
 216 | skollywag92 | 158,279
 217 | Hot_Potato_Salad | 155,147
