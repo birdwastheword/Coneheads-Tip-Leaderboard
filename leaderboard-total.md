@@ -1,4 +1,4 @@
-Last updated: 23-08-22 08:26:45 UTC  
+Last updated: 23-08-22 08:35:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | avyun | 6,556,605
 14 | Geniuskills | 6,163,865
 15 | Real_Player_0 | 5,865,610
-16 | ashinamune | 5,429,866
+16 | ashinamune | 5,432,529
 17 | HippieStarTraveler | 5,223,383
 18 | transfermymoons | 5,219,002
 19 | cutsickass | 4,881,689
@@ -194,7 +194,7 @@ Rank | Username | Totals Tips
 191 | SigSalvadore | 212,358
 192 | UWphoto | 209,795
 193 | the_judge_168 | 208,455
-194 | Significant_Talk4943 | 205,139
+194 | Significant_Talk4943 | 205,559
 195 | ziggyback | 203,369
 196 | Esco1980 | 201,771
 197 | jimfird | 199,147
@@ -249,13 +249,13 @@ Rank | Username | Totals Tips
 246 | lordciders | 116,506
 247 | wato4000 | 116,139
 248 | mvea | 115,748
-249 | Fox1931 | 114,000
-250 | flying_bacon | 111,860
-251 | adrefofadre | 111,817
-252 | Final-Scar-941 | 111,210
-253 | PushyDevolution | 110,216
-254 | Strong_Constant_1190 | 109,517
-255 | AlternativeBag2619 | 109,483
+249 | AlternativeBag2619 | 114,483
+250 | Fox1931 | 114,000
+251 | flying_bacon | 111,860
+252 | adrefofadre | 111,817
+253 | Final-Scar-941 | 111,210
+254 | PushyDevolution | 110,216
+255 | Strong_Constant_1190 | 109,517
 256 | pythonskynet | 107,285
 257 | Jlt42000 | 107,091
 258 | AD_VICTORIAM_x | 106,876
