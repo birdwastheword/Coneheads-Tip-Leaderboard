@@ -1,11 +1,11 @@
-Last updated: 23-08-22 05:23:43 UTC  
+Last updated: 23-08-22 05:32:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,637,778
 2 | Wonderful_Bad6531 | 34,016,179
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,334,632
+5 | nakamo-toe | 24,337,295
 6 | waterhasnocalories | 18,731,573
 7 | ConeDesk | 17,652,547
 8 | HODL-THE-LINE | 11,920,100
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | Real_Player_0 | 5,865,610
 16 | ashinamune | 5,429,866
 17 | HippieStarTraveler | 5,223,383
-18 | transfermymoons | 5,069,002
+18 | transfermymoons | 5,219,002
 19 | cutsickass | 4,806,689
 20 | ArtConsitent | 4,727,278
 21 | thelonliestcrowd | 4,561,558
