@@ -1,4 +1,4 @@
-Last updated: 23-08-22 11:41:01 UTC  
+Last updated: 23-08-22 11:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,664,408
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | Jeff5704 | 27,757,986
 5 | nakamo-toe | 24,426,713
 6 | waterhasnocalories | 18,731,574
-7 | ConeDesk | 17,652,547
+7 | ConeDesk | 17,666,635
 8 | HODL-THE-LINE | 11,920,100
 9 | crypto_grandma | 11,529,852
 10 | Parush9 | 11,124,676
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | Geniuskills | 6,163,865
 16 | Real_Player_0 | 5,865,610
 17 | ashinamune | 5,498,137
-18 | HippieStarTraveler | 5,223,383
+18 | HippieStarTraveler | 5,224,383
 19 | transfermymoons | 5,219,002
 20 | cutsickass | 4,906,689
 21 | thelonliestcrowd | 4,566,884
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | _ships | 4,002,337
 29 | Puddin-Luv | 3,993,922
 30 | VIVOffical | 3,886,377
-31 | IveDoneItAtLast | 3,785,598
+31 | IveDoneItAtLast | 3,794,269
 32 | clean_cut89 | 3,573,828
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,383,072
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | El_Gordone | 592,784
 107 | Alanski22 | 590,199
 108 | Independent_Heart_15 | 578,825
-109 | Duskopia | 560,403
+109 | Duskopia | 565,403
 110 | nichnotnick | 556,778
 111 | StepAsideSuckers | 540,695
 112 | shreyaskg | 538,211
@@ -174,7 +174,7 @@ Rank | Username | Totals Tips
 171 | MadScientistTheFirst | 246,344
 172 | thestonkinator | 246,260
 173 | Dripbot8 | 245,384
-174 | Lillica_Golden_SHIB | 244,957
+174 | Lillica_Golden_SHIB | 245,164
 175 | SnooMacarons9203 | 243,810
 176 | Zalkwalker | 235,069
 177 | coolpattakers | 233,047
@@ -213,7 +213,7 @@ Rank | Username | Totals Tips
 210 | MymannosaurusRex | 171,317
 211 | high5s_inureye | 167,388
 212 | DamnWhySoLow | 166,675
-213 | MelonFarmer420 | 162,936
+213 | MelonFarmer420 | 163,356
 214 | Ashamed_Raccoon9918 | 160,467
 215 | ultra_terrestrial | 160,244
 216 | skollywag92 | 158,279
@@ -278,20 +278,20 @@ Rank | Username | Totals Tips
 275 | wolfman333 | 93,566
 276 | Jadenindubai | 93,273
 277 | H3adshotfox77 | 92,575
-278 | CrossPuffs | 91,641
-279 | urlz | 91,281
-280 | DramaticProtogen | 90,274
-281 | Award-Bot | 90,000
-282 | HokkaidoNights | 88,108
-283 | ShopALF | 87,942
-284 | kwickle | 87,804
-285 | customsolitaires | 87,466
-286 | jurgensdapimp | 86,208
-287 | fettskull | 86,067
-288 | Burzzzt88 | 84,990
-289 | ItailianStallion101 | 84,619
-290 | Puzzleheaded_Gift738 | 84,020
-291 | Outrageous-Skill-464 | 83,663
+278 | Outrageous-Skill-464 | 92,023
+279 | CrossPuffs | 91,641
+280 | urlz | 91,281
+281 | DramaticProtogen | 90,274
+282 | Award-Bot | 90,000
+283 | HokkaidoNights | 88,108
+284 | ShopALF | 87,942
+285 | kwickle | 87,804
+286 | customsolitaires | 87,466
+287 | jurgensdapimp | 86,208
+288 | fettskull | 86,067
+289 | Burzzzt88 | 84,990
+290 | ItailianStallion101 | 84,619
+291 | Puzzleheaded_Gift738 | 84,020
 292 | RollingSkull0 | 83,098
 293 | Clonkerz | 83,006
 294 | qwertywich | 82,147
@@ -595,13 +595,13 @@ Rank | Username | Totals Tips
 592 | MantisToboggan66 | 10,420
 593 | 73i1 | 10,412
 594 | Gamestopisthe1 | 10,227
-595 | Alexploded | 10,070
-596 | z6joker9 | 10,000
-597 | Flat_Opportunity_340 | 10,000
-598 | Consistent_Air_7646 | 10,000
-599 | xMikaRikax | 10,000
-600 | LordCitrus69 | 10,000
-601 | Straton_Conemont_Inc | 9,998
+595 | Straton_Conemont_Inc | 10,136
+596 | Alexploded | 10,070
+597 | z6joker9 | 10,000
+598 | Flat_Opportunity_340 | 10,000
+599 | Consistent_Air_7646 | 10,000
+600 | xMikaRikax | 10,000
+601 | LordCitrus69 | 10,000
 602 | boopcorgi | 9,923
 603 | supatard44 | 9,891
 604 | No-Confusion7414 | 9,890
