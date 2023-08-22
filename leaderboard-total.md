@@ -1,7 +1,7 @@
-Last updated: 23-08-22 07:25:26 UTC  
+Last updated: 23-08-22 07:34:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 35,637,778
+1 | Bitdream200K | 35,664,408
 2 | Wonderful_Bad6531 | 34,016,179
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
