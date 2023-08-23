@@ -1,4 +1,4 @@
-Last updated: 23-08-23 19:50:37 UTC  
+Last updated: 23-08-23 20:19:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | avyun | 6,605,643
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 5,950,238
-18 | cutsickass | 5,670,529
+18 | cutsickass | 5,697,166
 19 | ashinamune | 5,573,176
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
@@ -27,11 +27,11 @@ Rank | Username | Totals Tips
 24 | bigbilly1234567899 | 4,496,042
 25 | Ginomania | 4,391,483
 26 | redzrex | 4,383,519
-27 | birdwastheword | 4,243,807
+27 | birdwastheword | 4,244,227
 28 | Puddin-Luv | 4,102,800
 29 | _ships | 4,057,509
 30 | VIVOffical | 3,927,100
-31 | IveDoneItAtLast | 3,911,493
+31 | IveDoneItAtLast | 3,914,156
 32 | clean_cut89 | 3,573,928
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,408,030
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | revdrgonzo | 1,229,888
 62 | HestiaIsTheBestia | 1,188,046
 63 | KONGXIANG | 1,183,126
-64 | saintajoras | 1,178,680
+64 | saintajoras | 1,181,343
 65 | Richicash | 1,173,866
 66 | Feetfailmenot | 1,151,105
 67 | beastlybaker | 1,138,281
@@ -138,10 +138,10 @@ Rank | Username | Totals Tips
 135 | zenhodl | 374,566
 136 | hellosamaira | 372,815
 137 | AustinTX1985 | 368,863
-138 | dopelifer09 | 361,442
+138 | dopelifer09 | 364,105
 139 | doktastonks | 360,525
 140 | farmertypoerror | 359,212
-141 | Mundane-Farm-4117 | 355,513
+141 | Mundane-Farm-4117 | 358,176
 142 | Outrageous-Skill-464 | 344,174
 143 | PortCity_MadMan | 343,624
 144 | anony666mous | 341,008
@@ -219,13 +219,13 @@ Rank | Username | Totals Tips
 216 | skollywag92 | 163,279
 217 | ultra_terrestrial | 160,244
 218 | DAMG808 | 158,694
-219 | Hot_Potato_Salad | 155,423
-220 | 6reficul | 153,884
-221 | martymartinator | 152,560
-222 | sjakkpila | 152,031
-223 | CoverYourMaskHoles | 151,719
-224 | NotFullyTerrestrial | 150,694
-225 | Most_Being_4002 | 150,607
+219 | Most_Being_4002 | 155,933
+220 | Hot_Potato_Salad | 155,423
+221 | 6reficul | 153,884
+222 | martymartinator | 152,560
+223 | sjakkpila | 152,031
+224 | CoverYourMaskHoles | 151,719
+225 | NotFullyTerrestrial | 150,694
 226 | Final-Scar-941 | 148,599
 227 | satoshi_oscar_wilde | 147,409
 228 | Sad_Entertainer9961 | 143,248
@@ -462,8 +462,8 @@ Rank | Username | Totals Tips
 459 | ikiyen | 27,500
 460 | Motor-breath8 | 27,284
 461 | Sparrow | 27,214
-462 | sM0k3dR4Gn | 27,131
-463 | skatistic | 27,115
+462 | skatistic | 27,184
+463 | sM0k3dR4Gn | 27,131
 464 | deltamoney | 26,987
 465 | halfavocadoemoji | 26,815
 466 | BottleNcanClapUrHand | 26,658
