@@ -1,4 +1,4 @@
-Last updated: 23-08-23 11:25:12 UTC  
+Last updated: 23-08-23 11:33:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,915,632
@@ -45,9 +45,9 @@ Rank | Username | Totals Tips
 42 | SpookySYN | 2,590,253
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
-45 | GuyOne | 2,159,288
-46 | Autom4tic_Soze | 2,158,811
-47 | ImAlekBan | 2,154,826
+45 | ImAlekBan | 2,160,834
+46 | GuyOne | 2,159,288
+47 | Autom4tic_Soze | 2,158,811
 48 | Fenrir-1919 | 2,061,264
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
@@ -269,7 +269,7 @@ Rank | Username | Totals Tips
 266 | Chanyuui1 | 104,940
 267 | rolonic | 102,765
 268 | deathtr0 | 102,541
-269 | Most_Being_4002 | 100,989
+269 | Most_Being_4002 | 101,989
 270 | ACorDC | 100,420
 271 | redditinchina | 99,698
 272 | FeetAndHandFetish | 98,146
@@ -290,8 +290,8 @@ Rank | Username | Totals Tips
 287 | customsolitaires | 87,886
 288 | kwickle | 87,805
 289 | jurgensdapimp | 86,817
-290 | ItailianStallion101 | 85,039
-291 | Burzzzt88 | 84,999
+290 | Burzzzt88 | 85,419
+291 | ItailianStallion101 | 85,039
 292 | Puzzleheaded_Gift738 | 84,020
 293 | RollingSkull0 | 83,098
 294 | Clonkerz | 83,006
@@ -594,13 +594,13 @@ Rank | Username | Totals Tips
 591 | Zealousideal-War6206 | 10,905
 592 | maurinet79 | 10,840
 593 | SenseiRaheem | 10,633
-594 | ancheli | 10,588
-595 | Background-Ad-2102 | 10,450
-596 | MantisToboggan66 | 10,420
-597 | 73i1 | 10,412
-598 | Gamestopisthe1 | 10,227
-599 | Straton_Conemont_Inc | 10,136
-600 | skatistic | 10,111
+594 | skatistic | 10,600
+595 | ancheli | 10,588
+596 | Background-Ad-2102 | 10,450
+597 | MantisToboggan66 | 10,420
+598 | 73i1 | 10,412
+599 | Gamestopisthe1 | 10,227
+600 | Straton_Conemont_Inc | 10,136
 601 | Alexploded | 10,070
 602 | z6joker9 | 10,000
 603 | Flat_Opportunity_340 | 10,000
