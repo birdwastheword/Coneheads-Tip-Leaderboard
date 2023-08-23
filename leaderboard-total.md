@@ -1,11 +1,11 @@
-Last updated: 23-08-23 20:19:56 UTC  
+Last updated: 23-08-23 20:30:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,990,653
-5 | nakamo-toe | 25,491,903
+5 | nakamo-toe | 25,503,831
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | HODL-THE-LINE | 11,920,100
@@ -219,7 +219,7 @@ Rank | Username | Totals Tips
 216 | skollywag92 | 163,279
 217 | ultra_terrestrial | 160,244
 218 | DAMG808 | 158,694
-219 | Most_Being_4002 | 155,933
+219 | Most_Being_4002 | 158,596
 220 | Hot_Potato_Salad | 155,423
 221 | 6reficul | 153,884
 222 | martymartinator | 152,560
