@@ -1,4 +1,4 @@
-Last updated: 23-08-23 06:50:48 UTC  
+Last updated: 23-08-23 07:00:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,889,002
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Ginomania | 4,277,828
 27 | birdwastheword | 4,243,807
 28 | Puddin-Luv | 4,062,999
-29 | _ships | 4,012,758
+29 | _ships | 4,015,421
 30 | VIVOffical | 3,907,100
 31 | IveDoneItAtLast | 3,842,224
 32 | clean_cut89 | 3,573,928
@@ -63,8 +63,8 @@ Rank | Username | Totals Tips
 60 | CMDRGlamdring | 1,232,823
 61 | revdrgonzo | 1,229,888
 62 | HestiaIsTheBestia | 1,188,046
-63 | KONGXIANG | 1,183,113
-64 | saintajoras | 1,171,680
+63 | KONGXIANG | 1,183,115
+64 | saintajoras | 1,177,680
 65 | Feetfailmenot | 1,151,105
 66 | Richicash | 1,148,866
 67 | beastlybaker | 1,138,281
@@ -104,11 +104,11 @@ Rank | Username | Totals Tips
 101 | slirpo | 624,211
 102 | Westy3000 | 608,032
 103 | ID404_Not_Found_8964 | 606,147
-104 | firstmatedotxyz | 598,580
-105 | __PDS__ | 595,709
-106 | Duskopia | 595,392
-107 | El_Gordone | 592,784
-108 | Alanski22 | 590,199
+104 | Alanski22 | 603,514
+105 | firstmatedotxyz | 598,580
+106 | __PDS__ | 595,709
+107 | Duskopia | 595,392
+108 | El_Gordone | 592,784
 109 | Independent_Heart_15 | 578,825
 110 | nichnotnick | 556,778
 111 | StepAsideSuckers | 540,695
@@ -763,12 +763,12 @@ Rank | Username | Totals Tips
 760 | general_452 | 2,801
 761 | basbcn824 | 2,795
 762 | Painfulblisteronmyb | 2,783
-763 | I_am_not_doing_this | 2,763
-764 | bilbofraginz | 2,760
-765 | FrankieTheYoung | 2,737
-766 | l0l_random | 2,732
-767 | Medfried | 2,732
-768 | Buzzalu | 2,705
+763 | Buzzalu | 2,774
+764 | I_am_not_doing_this | 2,763
+765 | bilbofraginz | 2,760
+766 | FrankieTheYoung | 2,737
+767 | l0l_random | 2,732
+768 | Medfried | 2,732
 769 | funkymyname | 2,700
 770 | m00nLyt23 | 2,663
 771 | zuu8 | 2,663
