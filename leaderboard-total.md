@@ -1,10 +1,10 @@
-Last updated: 23-08-23 13:41:58 UTC  
+Last updated: 23-08-23 13:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
-4 | Jeff5704 | 27,837,897
+4 | Jeff5704 | 27,987,990
 5 | nakamo-toe | 25,239,206
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | Sattack4000 | 250,837
 171 | Gregoryonetulum | 249,309
 172 | BeardedBro_ | 248,627
-173 | Lillica_Golden_SHIB | 247,781
+173 | Lillica_Golden_SHIB | 247,850
 174 | MadScientistTheFirst | 246,344
 175 | thestonkinator | 246,260
 176 | Dripbot8 | 245,384
