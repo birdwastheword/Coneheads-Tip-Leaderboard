@@ -1,4 +1,4 @@
-Last updated: 23-08-23 17:30:55 UTC  
+Last updated: 23-08-23 17:41:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Puddin-Luv | 4,102,800
 29 | _ships | 4,053,630
 30 | VIVOffical | 3,927,100
-31 | IveDoneItAtLast | 3,900,841
+31 | IveDoneItAtLast | 3,903,504
 32 | clean_cut89 | 3,573,928
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,408,030
@@ -433,7 +433,7 @@ Rank | Username | Totals Tips
 430 | xxapplej4ckx | 33,181
 431 | himthecool21 | 32,647
 432 | Steadfast_Apparition | 32,437
-433 | madridgalactico | 32,162
+433 | madridgalactico | 32,262
 434 | n00b1shm4n | 32,159
 435 | Originalibb | 32,157
 436 | mbashs | 31,747
