@@ -1,7 +1,7 @@
-Last updated: 23-08-23 04:27:08 UTC  
+Last updated: 23-08-23 04:35:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 35,808,917
+1 | Bitdream200K | 35,889,002
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,784,623
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | CMDRGlamdring | 1,232,823
 61 | revdrgonzo | 1,229,888
 62 | HestiaIsTheBestia | 1,188,046
-63 | KONGXIANG | 1,183,098
+63 | KONGXIANG | 1,183,106
 64 | saintajoras | 1,171,680
 65 | Feetfailmenot | 1,151,105
 66 | Richicash | 1,148,866
