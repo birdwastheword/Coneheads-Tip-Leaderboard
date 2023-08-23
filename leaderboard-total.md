@@ -1,4 +1,4 @@
-Last updated: 23-08-23 08:26:42 UTC  
+Last updated: 23-08-23 08:34:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,889,002
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | Alanski22 | 614,431
 103 | Westy3000 | 608,032
 104 | ID404_Not_Found_8964 | 606,147
-105 | Duskopia | 599,392
+105 | Duskopia | 602,475
 106 | firstmatedotxyz | 598,580
 107 | __PDS__ | 595,709
 108 | El_Gordone | 592,784
