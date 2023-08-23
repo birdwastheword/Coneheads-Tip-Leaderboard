@@ -1,4 +1,4 @@
-Last updated: 23-08-23 18:24:31 UTC  
+Last updated: 23-08-23 18:34:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -102,7 +102,7 @@ Rank | Username | Totals Tips
 99 | Skank_cunt_42 | 626,162
 100 | UniversalNoobMaster | 625,985
 101 | slirpo | 624,211
-102 | Duskopia | 623,138
+102 | Duskopia | 624,138
 103 | Alanski22 | 614,431
 104 | Westy3000 | 609,809
 105 | ID404_Not_Found_8964 | 606,149
