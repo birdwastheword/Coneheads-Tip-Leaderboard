@@ -1,11 +1,11 @@
-Last updated: 23-08-23 22:26:10 UTC  
+Last updated: 23-08-23 22:34:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 25,584,103
+5 | nakamo-toe | 25,589,429
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | HODL-THE-LINE | 11,920,100
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | Mean_Bandicoot_7481 | 2,748,882
 40 | thom_orrow | 2,715,041
 41 | _Royal_Insylum | 2,603,787
-42 | SpookySYN | 2,594,516
+42 | SpookySYN | 2,597,179
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
 45 | ImAlekBan | 2,172,502
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | RazPie | 411,328
 131 | LrnFaroeseWthBergur | 409,488
 132 | Creepy-Nectarine-225 | 386,281
-133 | dopelifer09 | 377,420
+133 | dopelifer09 | 382,746
 134 | SHIFTY-T3RROR | 377,388
 135 | Crypto-4-Freedom | 376,946
 136 | zenhodl | 374,566
@@ -201,11 +201,11 @@ Rank | Username | Totals Tips
 198 | Esco1980 | 201,771
 199 | jimfird | 199,655
 200 | CedricDiccory | 197,932
-201 | sudrats | 197,124
-202 | redditavanft | 195,122
-203 | AverageLiberalJoe | 195,007
-204 | ShortBusCult | 192,925
-205 | Ashamed_Raccoon9918 | 191,254
+201 | Ashamed_Raccoon9918 | 197,262
+202 | sudrats | 197,124
+203 | redditavanft | 195,122
+204 | AverageLiberalJoe | 195,007
+205 | ShortBusCult | 192,925
 206 | TubeNerd92 | 184,257
 207 | nooobmaester69 | 183,460
 208 | ruccarucca | 179,850
