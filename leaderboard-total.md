@@ -1,4 +1,4 @@
-Last updated: 23-08-23 10:40:43 UTC  
+Last updated: 23-08-23 10:50:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,915,632
@@ -14,8 +14,8 @@ Rank | Username | Totals Tips
 11 | SammyCraigar | 8,796,810
 12 | ArtConsitent | 8,227,279
 13 | Homeslicekilla | 7,995,797
-14 | avyun | 6,605,643
-15 | transfermymoons | 6,269,002
+14 | transfermymoons | 6,644,002
+15 | avyun | 6,605,643
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 5,946,967
 18 | ashinamune | 5,573,176
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | redzrex | 4,378,193
 27 | birdwastheword | 4,243,807
 28 | Puddin-Luv | 4,062,999
-29 | _ships | 4,050,634
+29 | _ships | 4,050,967
 30 | VIVOffical | 3,907,100
 31 | IveDoneItAtLast | 3,844,887
 32 | clean_cut89 | 3,573,928
