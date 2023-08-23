@@ -1,11 +1,11 @@
-Last updated: 23-08-23 20:40:35 UTC  
+Last updated: 23-08-23 20:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,990,653
-5 | nakamo-toe | 25,506,494
+5 | nakamo-toe | 25,508,817
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | HODL-THE-LINE | 11,920,100
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | avyun | 6,605,643
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 5,950,238
-18 | cutsickass | 5,697,166
+18 | cutsickass | 5,726,466
 19 | ashinamune | 5,573,176
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
@@ -161,8 +161,8 @@ Rank | Username | Totals Tips
 158 | monkeybombed | 282,821
 159 | astro_nut_ | 280,463
 160 | maxfra | 279,459
-161 | deedopete | 277,247
-162 | Lion-Hermit | 275,558
+161 | Lion-Hermit | 278,221
+162 | deedopete | 277,247
 163 | dinoyeti | 272,765
 164 | Flimsy_Brilliant_239 | 265,592
 165 | SetoXlll | 264,290
@@ -218,15 +218,15 @@ Rank | Username | Totals Tips
 215 | MelonFarmer420 | 163,776
 216 | skollywag92 | 163,279
 217 | ultra_terrestrial | 160,244
-218 | DAMG808 | 158,694
-219 | Most_Being_4002 | 158,596
-220 | Hot_Potato_Salad | 155,423
-221 | 6reficul | 153,884
-222 | martymartinator | 152,560
-223 | sjakkpila | 152,031
-224 | CoverYourMaskHoles | 151,719
-225 | NotFullyTerrestrial | 150,694
-226 | Final-Scar-941 | 148,599
+218 | Final-Scar-941 | 158,935
+219 | DAMG808 | 158,694
+220 | Most_Being_4002 | 158,596
+221 | Hot_Potato_Salad | 155,423
+222 | 6reficul | 153,884
+223 | martymartinator | 152,560
+224 | sjakkpila | 152,031
+225 | CoverYourMaskHoles | 151,719
+226 | NotFullyTerrestrial | 150,694
 227 | satoshi_oscar_wilde | 147,409
 228 | Sad_Entertainer9961 | 143,248
 229 | Doovs | 142,767
