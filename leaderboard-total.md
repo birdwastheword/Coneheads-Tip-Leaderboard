@@ -1,11 +1,11 @@
-Last updated: 23-08-23 23:31:04 UTC  
+Last updated: 23-08-23 23:40:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 25,669,091
+5 | nakamo-toe | 25,674,417
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | HODL-THE-LINE | 11,920,100
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Puddin-Luv | 4,108,126
 29 | _ships | 4,072,752
 30 | VIVOffical | 3,927,100
-31 | IveDoneItAtLast | 3,916,819
+31 | IveDoneItAtLast | 3,919,482
 32 | clean_cut89 | 3,573,928
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,408,030
@@ -123,19 +123,19 @@ Rank | Username | Totals Tips
 120 | WarmlyWacky | 462,118
 121 | MediaPrestigious8342 | 453,839
 122 | formidable-opponent | 447,646
-123 | unhingedbigfoot | 439,874
-124 | adrifing | 438,505
+123 | adrifing | 441,168
+124 | unhingedbigfoot | 439,874
 125 | crodbtc | 437,692
 126 | Korean_Street_Pizza | 436,252
 127 | Lady_Lucks_Man | 435,793
 128 | Mopeiooo | 427,266
-129 | dopelifer09 | 418,364
+129 | dopelifer09 | 423,700
 130 | dronegeeks1 | 414,406
 131 | RazPie | 411,328
 132 | LrnFaroeseWthBergur | 409,488
 133 | Creepy-Nectarine-225 | 386,281
 134 | SHIFTY-T3RROR | 377,388
-135 | Crypto-4-Freedom | 376,946
+135 | Crypto-4-Freedom | 377,366
 136 | zenhodl | 374,566
 137 | hellosamaira | 372,815
 138 | AustinTX1985 | 368,863
@@ -450,7 +450,7 @@ Rank | Username | Totals Tips
 447 | Potential_Fix_5007 | 29,897
 448 | ProfessionalIcy6456 | 29,743
 449 | Gilbertll | 29,585
-450 | halfavocadoemoji | 29,478
+450 | halfavocadoemoji | 29,547
 451 | FoleyKali | 28,843
 452 | Rbmui13 | 28,756
 453 | Locid | 28,518
