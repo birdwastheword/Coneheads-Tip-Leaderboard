@@ -1,11 +1,11 @@
-Last updated: 23-08-23 22:43:19 UTC  
+Last updated: 23-08-23 22:51:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 25,589,429
+5 | nakamo-toe | 25,592,092
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | HODL-THE-LINE | 11,920,100
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | sinlesco | 462,490
 120 | WarmlyWacky | 462,118
 121 | MediaPrestigious8342 | 453,839
-122 | formidable-opponent | 446,092
+122 | formidable-opponent | 446,869
 123 | unhingedbigfoot | 439,874
 124 | adrifing | 438,505
 125 | crodbtc | 437,692
@@ -132,8 +132,8 @@ Rank | Username | Totals Tips
 129 | dronegeeks1 | 414,406
 130 | RazPie | 411,328
 131 | LrnFaroeseWthBergur | 409,488
-132 | Creepy-Nectarine-225 | 386,281
-133 | dopelifer09 | 382,746
+132 | dopelifer09 | 388,072
+133 | Creepy-Nectarine-225 | 386,281
 134 | SHIFTY-T3RROR | 377,388
 135 | Crypto-4-Freedom | 376,946
 136 | zenhodl | 374,566
@@ -146,7 +146,7 @@ Rank | Username | Totals Tips
 143 | PortCity_MadMan | 343,624
 144 | anony666mous | 341,008
 145 | tsudrat | 340,707
-146 | Tinman_ApE | 334,689
+146 | Tinman_ApE | 337,352
 147 | Obi1eyeKenobi | 319,006
 148 | WhateverAlready | 316,461
 149 | YarOldeOrchard | 314,955
@@ -340,7 +340,7 @@ Rank | Username | Totals Tips
 337 | lucrica | 59,987
 338 | Big-Ticket1506 | 59,666
 339 | -geek | 59,318
-340 | Heycheckthisout20 | 58,762
+340 | Heycheckthisout20 | 59,182
 341 | Wildspliffosis | 58,703
 342 | Trink333 | 58,338
 343 | phrodreky | 57,984
@@ -740,11 +740,11 @@ Rank | Username | Totals Tips
 737 | nathanroberts14 | 4,000
 738 | Soil_Electronic | 3,975
 739 | Dreadaussie | 3,920
-740 | carsonthecarsinogen | 3,769
-741 | salt_yaf | 3,706
-742 | abbasabba260 | 3,663
-743 | Gelato_33 | 3,628
-744 | CatastrophicSpecter | 3,429
+740 | CatastrophicSpecter | 3,849
+741 | carsonthecarsinogen | 3,769
+742 | salt_yaf | 3,706
+743 | abbasabba260 | 3,663
+744 | Gelato_33 | 3,628
 745 | Mrcoolguynumberone | 3,420
 746 | n1ghsthade | 3,378
 747 | elksteaksdmt | 3,359
