@@ -1,11 +1,11 @@
-Last updated: 23-08-23 02:51:05 UTC  
+Last updated: 23-08-23 03:19:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,743,325
+5 | nakamo-toe | 24,823,215
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,855,672
 8 | HODL-THE-LINE | 11,920,100
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Ginomania | 4,277,828
 27 | birdwastheword | 4,241,144
 28 | Puddin-Luv | 4,033,867
-29 | _ships | 4,008,879
+29 | _ships | 4,012,150
 30 | VIVOffical | 3,907,100
 31 | IveDoneItAtLast | 3,842,224
 32 | clean_cut89 | 3,573,928
@@ -139,8 +139,8 @@ Rank | Username | Totals Tips
 136 | hellosamaira | 367,489
 137 | doktastonks | 360,525
 138 | farmertypoerror | 359,212
-139 | Mundane-Farm-4117 | 355,513
-140 | dopelifer09 | 348,779
+139 | dopelifer09 | 358,779
+140 | Mundane-Farm-4117 | 355,513
 141 | Outrageous-Skill-464 | 344,174
 142 | anony666mous | 341,008
 143 | tsudrat | 340,707
@@ -156,7 +156,7 @@ Rank | Username | Totals Tips
 153 | VincentVanGTFO | 300,598
 154 | send_tacoz | 293,576
 155 | legionticket | 293,391
-156 | DogSpark84 | 282,079
+156 | DogSpark84 | 284,742
 157 | monkeybombed | 280,801
 158 | astro_nut_ | 280,463
 159 | maxfra | 279,459
@@ -635,12 +635,12 @@ Rank | Username | Totals Tips
 632 | JAK0M0VIN0 | 8,097
 633 | TheConeHodler | 8,090
 634 | Nyarlatotep781 | 8,078
-635 | gacu-gacu | 8,065
-636 | PalpitationSecure660 | 8,055
-637 | Erikiller06 | 8,039
-638 | crypto-indian | 8,013
-639 | ryker_69 | 8,005
-640 | j9101a | 8,003
+635 | j9101a | 8,072
+636 | gacu-gacu | 8,065
+637 | PalpitationSecure660 | 8,055
+638 | Erikiller06 | 8,039
+639 | crypto-indian | 8,013
+640 | ryker_69 | 8,005
 641 | Primetimemongrel | 8,001
 642 | asmuth | 8,000
 643 | Nugacity5 | 7,996
