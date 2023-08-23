@@ -1,4 +1,4 @@
-Last updated: 23-08-23 10:27:38 UTC  
+Last updated: 23-08-23 10:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,915,632
@@ -26,10 +26,10 @@ Rank | Username | Totals Tips
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,480
 25 | Ginomania | 4,388,483
-26 | redzrex | 4,375,530
+26 | redzrex | 4,378,193
 27 | birdwastheword | 4,243,807
 28 | Puddin-Luv | 4,062,999
-29 | _ships | 4,035,580
+29 | _ships | 4,050,634
 30 | VIVOffical | 3,907,100
 31 | IveDoneItAtLast | 3,844,887
 32 | clean_cut89 | 3,573,928
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,823,334
 52 | dealkhabari | 1,703,325
-53 | Ten-Mins-Late | 1,677,782
+53 | Ten-Mins-Late | 1,678,202
 54 | GooderZBK | 1,613,996
 55 | zdubs | 1,538,909
 56 | DontLaughArt | 1,461,392
@@ -73,9 +73,9 @@ Rank | Username | Totals Tips
 70 | avatarbot | 1,027,000
 71 | WarmBiertje | 1,000,000
 72 | 0-Give-a-fucks | 982,921
-73 | 002_timmy | 974,363
-74 | EvanIsBacon | 970,416
-75 | djrcollectables | 969,788
+73 | djrcollectables | 977,777
+74 | 002_timmy | 974,363
+75 | EvanIsBacon | 970,416
 76 | Forward_Today2849 | 932,405
 77 | Modestexcuse | 903,684
 78 | CluelessSurvivor | 902,466
@@ -104,8 +104,8 @@ Rank | Username | Totals Tips
 101 | slirpo | 624,211
 102 | Alanski22 | 614,431
 103 | Westy3000 | 608,365
-104 | ID404_Not_Found_8964 | 606,149
-105 | Duskopia | 603,475
+104 | Duskopia | 606,475
+105 | ID404_Not_Found_8964 | 606,149
 106 | firstmatedotxyz | 598,580
 107 | __PDS__ | 595,709
 108 | El_Gordone | 592,784
@@ -218,7 +218,7 @@ Rank | Username | Totals Tips
 215 | MelonFarmer420 | 163,776
 216 | skollywag92 | 163,279
 217 | ultra_terrestrial | 160,244
-218 | DAMG808 | 155,611
+218 | DAMG808 | 158,274
 219 | Hot_Potato_Salad | 155,423
 220 | 6reficul | 153,884
 221 | martymartinator | 152,560
@@ -577,13 +577,13 @@ Rank | Username | Totals Tips
 574 | wesleylyan | 12,257
 575 | Weezthajuice | 12,007
 576 | bageren | 11,969
-577 | gnarlypoop | 11,924
-578 | charlythesecond | 11,794
-579 | Hofmaurerad | 11,711
-580 | yahuurdme | 11,685
-581 | reddit_saltyaf | 11,603
-582 | IndependenceHungry69 | 11,561
-583 | Diamond_Hands420 | 11,537
+577 | Diamond_Hands420 | 11,958
+578 | gnarlypoop | 11,924
+579 | charlythesecond | 11,794
+580 | Hofmaurerad | 11,711
+581 | yahuurdme | 11,685
+582 | reddit_saltyaf | 11,603
+583 | IndependenceHungry69 | 11,561
 584 | masstransience | 11,485
 585 | Arvalll | 11,420
 586 | Bramberken05 | 11,110
