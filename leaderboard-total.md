@@ -1,4 +1,4 @@
-Last updated: 23-08-23 17:22:13 UTC  
+Last updated: 23-08-23 17:30:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -218,7 +218,7 @@ Rank | Username | Totals Tips
 215 | MelonFarmer420 | 163,776
 216 | skollywag92 | 163,279
 217 | ultra_terrestrial | 160,244
-218 | DAMG808 | 158,274
+218 | DAMG808 | 158,694
 219 | Hot_Potato_Salad | 155,423
 220 | 6reficul | 153,884
 221 | martymartinator | 152,560
@@ -231,9 +231,9 @@ Rank | Username | Totals Tips
 228 | Doovs | 142,767
 229 | SalliIsAFem | 140,361
 230 | luisantonio197 | 139,511
-231 | GrowinStuffAndThings | 137,461
-232 | Outrageous-Ad8481 | 137,001
-233 | Most_Being_4002 | 134,956
+231 | Most_Being_4002 | 137,619
+232 | GrowinStuffAndThings | 137,461
+233 | Outrageous-Ad8481 | 137,001
 234 | MorrisWayne | 133,416
 235 | GoodMornEveGoodNight | 131,019
 236 | Legal-Appointment655 | 130,960
@@ -361,8 +361,8 @@ Rank | Username | Totals Tips
 358 | Jefe0457 | 53,368
 359 | xSkyFa11x | 52,937
 360 | abbasabba2 | 52,647
-361 | ky0984 | 52,257
-362 | Zezano | 52,190
+361 | Zezano | 52,610
+362 | ky0984 | 52,257
 363 | ConeHead710 | 52,012
 364 | lucivaryas | 51,420
 365 | CHEROKEEJ4CK | 49,878
