@@ -1,4 +1,4 @@
-Last updated: 23-08-23 09:40:29 UTC  
+Last updated: 23-08-23 09:50:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,915,632
@@ -154,15 +154,15 @@ Rank | Username | Totals Tips
 151 | liwipe | 304,467
 152 | virmamies | 303,141
 153 | VincentVanGTFO | 300,598
-154 | send_tacoz | 293,576
-155 | legionticket | 293,391
-156 | DogSpark84 | 285,350
-157 | monkeybombed | 280,801
-158 | astro_nut_ | 280,463
-159 | maxfra | 279,459
-160 | deedopete | 277,247
-161 | Lion-Hermit | 275,558
-162 | PortCity_MadMan | 274,386
+154 | PortCity_MadMan | 298,353
+155 | send_tacoz | 293,576
+156 | legionticket | 293,391
+157 | DogSpark84 | 285,350
+158 | monkeybombed | 280,801
+159 | astro_nut_ | 280,463
+160 | maxfra | 279,459
+161 | deedopete | 277,247
+162 | Lion-Hermit | 275,558
 163 | dinoyeti | 272,765
 164 | SetoXlll | 264,290
 165 | Flimsy_Brilliant_239 | 262,929
