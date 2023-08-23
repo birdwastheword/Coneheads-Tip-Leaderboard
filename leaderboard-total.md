@@ -1,4 +1,4 @@
-Last updated: 23-08-23 15:41:31 UTC  
+Last updated: 23-08-23 15:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Puddin-Luv | 4,102,800
 29 | _ships | 4,053,630
 30 | VIVOffical | 3,927,100
-31 | IveDoneItAtLast | 3,887,550
+31 | IveDoneItAtLast | 3,887,970
 32 | clean_cut89 | 3,573,928
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,408,030
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,823,334
-52 | dealkhabari | 1,714,608
+52 | dealkhabari | 1,714,677
 53 | Ten-Mins-Late | 1,679,882
 54 | GooderZBK | 1,613,996
 55 | zdubs | 1,538,909
@@ -228,19 +228,19 @@ Rank | Username | Totals Tips
 225 | satoshi_oscar_wilde | 147,409
 226 | Sad_Entertainer9961 | 143,248
 227 | Doovs | 142,767
-228 | SalliIsAFem | 140,361
-229 | luisantonio197 | 139,511
-230 | Final-Scar-941 | 138,263
+228 | Final-Scar-941 | 142,519
+229 | SalliIsAFem | 140,361
+230 | luisantonio197 | 139,511
 231 | GrowinStuffAndThings | 137,461
 232 | Outrageous-Ad8481 | 137,001
 233 | MorrisWayne | 133,416
 234 | GoodMornEveGoodNight | 131,019
 235 | Legal-Appointment655 | 130,960
-236 | Awake-- | 128,173
-237 | robnectar | 127,974
-238 | CalligrapherEnough83 | 127,227
-239 | tmanfromEarth | 127,118
-240 | Most_Being_4002 | 126,967
+236 | Most_Being_4002 | 129,630
+237 | Awake-- | 128,173
+238 | robnectar | 127,974
+239 | CalligrapherEnough83 | 127,227
+240 | tmanfromEarth | 127,118
 241 | Trakorr | 125,110
 242 | ZeMadMan1 | 122,599
 243 | Sativa55555 | 121,481
