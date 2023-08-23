@@ -1,4 +1,4 @@
-Last updated: 23-08-23 05:43:05 UTC  
+Last updated: 23-08-23 05:51:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,889,002
@@ -25,7 +25,7 @@ Rank | Username | Totals Tips
 22 | rikbona | 4,539,773
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,480
-25 | redzrex | 4,372,867
+25 | redzrex | 4,375,530
 26 | Ginomania | 4,277,828
 27 | birdwastheword | 4,241,144
 28 | Puddin-Luv | 4,062,999
@@ -78,8 +78,8 @@ Rank | Username | Totals Tips
 75 | djrcollectables | 935,169
 76 | Forward_Today2849 | 932,405
 77 | Modestexcuse | 903,684
-78 | thee_monster | 896,765
-79 | CluelessSurvivor | 875,836
+78 | CluelessSurvivor | 902,466
+79 | thee_monster | 896,765
 80 | Bobisdeadrun | 868,415
 81 | goldyluckinblokchain | 806,385
 82 | vbutarin | 802,000
@@ -520,7 +520,7 @@ Rank | Username | Totals Tips
 517 | PassiveRoadRage | 20,000
 518 | Yeh_nah_yeh_ | 20,000
 519 | PsLJdogg | 19,975
-520 | mihii12 | 19,741
+520 | mihii12 | 19,810
 521 | Iiwip | 19,533
 522 | MalarkyD | 19,527
 523 | lookwhatumademedoo | 19,510
