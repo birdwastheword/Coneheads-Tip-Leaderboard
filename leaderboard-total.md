@@ -1,4 +1,4 @@
-Last updated: 23-08-23 18:34:58 UTC  
+Last updated: 23-08-23 18:43:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -18,8 +18,8 @@ Rank | Username | Totals Tips
 15 | avyun | 6,605,643
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 5,950,238
-18 | ashinamune | 5,573,176
-19 | cutsickass | 5,536,836
+18 | cutsickass | 5,590,110
+19 | ashinamune | 5,573,176
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
 22 | thelonliestcrowd | 4,598,847
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | ImAlekBan | 2,164,496
 46 | GuyOne | 2,159,288
 47 | Autom4tic_Soze | 2,158,811
-48 | Fenrir-1919 | 2,064,535
+48 | Fenrir-1919 | 2,067,198
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,823,334
@@ -125,9 +125,9 @@ Rank | Username | Totals Tips
 122 | formidable-opponent | 444,538
 123 | unhingedbigfoot | 439,874
 124 | adrifing | 438,505
-125 | Korean_Street_Pizza | 436,252
-126 | Lady_Lucks_Man | 435,793
-127 | crodbtc | 427,692
+125 | crodbtc | 437,692
+126 | Korean_Street_Pizza | 436,252
+127 | Lady_Lucks_Man | 435,793
 128 | Mopeiooo | 427,266
 129 | dronegeeks1 | 414,406
 130 | RazPie | 411,328
@@ -393,7 +393,7 @@ Rank | Username | Totals Tips
 390 | Chill_Edoeard | 41,967
 391 | Cyber-Cafe | 41,921
 392 | PushyDevoIution | 41,695
-393 | Dboythegreat | 41,579
+393 | Dboythegreat | 41,648
 394 | acfranks | 41,442
 395 | 4gsboofd | 41,377
 396 | ZoomLong | 41,251
