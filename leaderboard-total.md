@@ -1,11 +1,11 @@
-Last updated: 23-08-23 17:50:36 UTC  
+Last updated: 23-08-23 18:24:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,990,653
-5 | nakamo-toe | 25,267,082
+5 | nakamo-toe | 25,342,852
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | HODL-THE-LINE | 11,920,100
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Puddin-Luv | 4,102,800
 29 | _ships | 4,053,630
 30 | VIVOffical | 3,927,100
-31 | IveDoneItAtLast | 3,903,504
+31 | IveDoneItAtLast | 3,906,167
 32 | clean_cut89 | 3,573,928
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,408,030
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,823,334
 52 | dealkhabari | 1,714,746
-53 | Ten-Mins-Late | 1,679,882
+53 | Ten-Mins-Late | 1,685,762
 54 | GooderZBK | 1,613,996
 55 | zdubs | 1,538,909
 56 | bray_martin03 | 1,518,175
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | CMDRGlamdring | 1,233,243
 61 | revdrgonzo | 1,229,888
 62 | HestiaIsTheBestia | 1,188,046
-63 | KONGXIANG | 1,183,124
+63 | KONGXIANG | 1,183,125
 64 | saintajoras | 1,178,680
 65 | Richicash | 1,173,866
 66 | Feetfailmenot | 1,151,105
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | investigator100 | 1,073,193
 69 | freechickens | 1,028,317
 70 | avatarbot | 1,027,000
-71 | djrcollectables | 1,003,281
+71 | djrcollectables | 1,008,607
 72 | WarmBiertje | 1,000,000
 73 | 0-Give-a-fucks | 983,341
 74 | 002_timmy | 980,443
@@ -226,8 +226,8 @@ Rank | Username | Totals Tips
 223 | CoverYourMaskHoles | 151,719
 224 | NotFullyTerrestrial | 150,694
 225 | Final-Scar-941 | 148,599
-226 | satoshi_oscar_wilde | 147,409
-227 | Most_Being_4002 | 145,608
+226 | Most_Being_4002 | 147,944
+227 | satoshi_oscar_wilde | 147,409
 228 | Sad_Entertainer9961 | 143,248
 229 | Doovs | 142,767
 230 | SalliIsAFem | 140,361
@@ -238,9 +238,9 @@ Rank | Username | Totals Tips
 235 | GoodMornEveGoodNight | 131,019
 236 | Legal-Appointment655 | 130,960
 237 | Awake-- | 128,173
-238 | robnectar | 127,974
-239 | CalligrapherEnough83 | 127,227
-240 | tmanfromEarth | 127,118
+238 | tmanfromEarth | 128,118
+239 | robnectar | 127,974
+240 | CalligrapherEnough83 | 127,227
 241 | Trakorr | 125,110
 242 | ZeMadMan1 | 122,599
 243 | Sativa55555 | 121,481
@@ -325,7 +325,7 @@ Rank | Username | Totals Tips
 322 | Friendly-Airline2426 | 66,545
 323 | imp3order | 65,546
 324 | damnusernamegotcutof | 65,004
-325 | zuzieey7719 | 64,480
+325 | zuzieey7719 | 64,549
 326 | TheOneWhoCared | 63,330
 327 | guokaidi | 63,245
 328 | slug_tamer | 63,175
