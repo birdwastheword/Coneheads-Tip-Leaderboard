@@ -1,4 +1,4 @@
-Last updated: 23-08-23 21:33:56 UTC  
+Last updated: 23-08-23 21:42:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -57,13 +57,13 @@ Rank | Username | Totals Tips
 54 | GooderZBK | 1,613,996
 55 | zdubs | 1,538,909
 56 | bray_martin03 | 1,518,175
-57 | DontLaughArt | 1,461,392
-58 | evilninjarobot | 1,409,772
-59 | isthistomorrow_ | 1,281,016
-60 | CMDRGlamdring | 1,233,243
-61 | revdrgonzo | 1,229,888
-62 | HestiaIsTheBestia | 1,188,046
-63 | KONGXIANG | 1,183,126
+57 | KONGXIANG | 1,516,459
+58 | DontLaughArt | 1,461,392
+59 | evilninjarobot | 1,409,772
+60 | isthistomorrow_ | 1,281,016
+61 | CMDRGlamdring | 1,233,243
+62 | revdrgonzo | 1,229,888
+63 | HestiaIsTheBestia | 1,188,046
 64 | saintajoras | 1,181,343
 65 | Richicash | 1,173,866
 66 | Feetfailmenot | 1,151,105
