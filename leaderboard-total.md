@@ -1,7 +1,7 @@
-Last updated: 23-08-23 09:19:35 UTC  
+Last updated: 23-08-23 09:30:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 35,889,002
+1 | Bitdream200K | 35,915,632
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,784,623
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,823,334
 52 | dealkhabari | 1,699,446
-53 | Ten-Mins-Late | 1,668,053
+53 | Ten-Mins-Late | 1,675,682
 54 | GooderZBK | 1,613,996
 55 | zdubs | 1,538,909
 56 | DontLaughArt | 1,461,392
@@ -81,7 +81,7 @@ Rank | Username | Totals Tips
 78 | CluelessSurvivor | 902,466
 79 | thee_monster | 896,765
 80 | Bobisdeadrun | 868,415
-81 | goldyluckinblokchain | 806,385
+81 | goldyluckinblokchain | 806,454
 82 | vbutarin | 802,000
 83 | ashketchup422 | 794,067
 84 | ziggybri | 782,435
