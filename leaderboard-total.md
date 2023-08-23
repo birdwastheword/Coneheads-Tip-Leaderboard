@@ -1,11 +1,11 @@
-Last updated: 23-08-23 07:00:42 UTC  
+Last updated: 23-08-23 07:18:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,889,002
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,784,623
-5 | nakamo-toe | 25,216,383
+5 | nakamo-toe | 25,219,046
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,855,672
 8 | HODL-THE-LINE | 11,920,100
@@ -104,7 +104,7 @@ Rank | Username | Totals Tips
 101 | slirpo | 624,211
 102 | Westy3000 | 608,032
 103 | ID404_Not_Found_8964 | 606,147
-104 | Alanski22 | 603,514
+104 | Alanski22 | 603,583
 105 | firstmatedotxyz | 598,580
 106 | __PDS__ | 595,709
 107 | Duskopia | 595,392
@@ -115,7 +115,7 @@ Rank | Username | Totals Tips
 112 | scientifichistorian | 539,560
 113 | shreyaskg | 538,211
 114 | f0n1xr131ng | 509,681
-115 | junkwatch | 506,407
+115 | junkwatch | 506,827
 116 | Allions1 | 503,528
 117 | MorrisBrett514 | 503,396
 118 | Successful-Walk-3902 | 497,157
