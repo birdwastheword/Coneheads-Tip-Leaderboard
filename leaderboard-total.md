@@ -1,11 +1,11 @@
-Last updated: 23-08-23 05:25:20 UTC  
+Last updated: 23-08-23 05:34:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,889,002
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,784,623
-5 | nakamo-toe | 25,113,357
+5 | nakamo-toe | 25,182,777
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,855,672
 8 | HODL-THE-LINE | 11,920,100
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Ginomania | 4,277,828
 27 | birdwastheword | 4,241,144
 28 | Puddin-Luv | 4,062,999
-29 | _ships | 4,012,150
+29 | _ships | 4,012,758
 30 | VIVOffical | 3,907,100
 31 | IveDoneItAtLast | 3,842,224
 32 | clean_cut89 | 3,573,928
@@ -219,7 +219,7 @@ Rank | Username | Totals Tips
 216 | skollywag92 | 163,279
 217 | ultra_terrestrial | 160,244
 218 | Hot_Potato_Salad | 155,354
-219 | DAMG808 | 154,583
+219 | DAMG808 | 155,003
 220 | 6reficul | 153,884
 221 | martymartinator | 152,560
 222 | sjakkpila | 152,031
@@ -476,18 +476,18 @@ Rank | Username | Totals Tips
 473 | cryotosensei | 25,561
 474 | tmztmz2 | 25,490
 475 | universal_language | 25,489
-476 | ThekinginYellow27 | 25,431
-477 | SnooRevelations6751 | 25,420
-478 | open-now | 25,247
-479 | worldofshiba | 25,069
-480 | Blossom_butterfly | 25,069
-481 | HodLMania | 25,000
-482 | Mysterious-Bar-4721 | 25,000
-483 | CowDapper7867 | 25,000
-484 | Practical-Store9603 | 25,000
-485 | Motor-breath8 | 24,843
-486 | 4ucklehead | 24,684
-487 | FalloutAssasin | 24,615
+476 | FalloutAssasin | 25,455
+477 | ThekinginYellow27 | 25,431
+478 | SnooRevelations6751 | 25,420
+479 | open-now | 25,247
+480 | worldofshiba | 25,069
+481 | Blossom_butterfly | 25,069
+482 | HodLMania | 25,000
+483 | Mysterious-Bar-4721 | 25,000
+484 | CowDapper7867 | 25,000
+485 | Practical-Store9603 | 25,000
+486 | Motor-breath8 | 24,843
+487 | 4ucklehead | 24,684
 488 | Truffle_Shuffle_85 | 24,541
 489 | liberovento | 24,307
 490 | XBBlade | 24,152
