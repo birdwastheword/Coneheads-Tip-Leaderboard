@@ -1,11 +1,11 @@
-Last updated: 23-08-23 03:30:33 UTC  
+Last updated: 23-08-23 03:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,876,475
+5 | nakamo-toe | 24,881,801
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,855,672
 8 | HODL-THE-LINE | 11,920,100
@@ -366,7 +366,7 @@ Rank | Username | Totals Tips
 363 | ConeHead710 | 52,012
 364 | lucivaryas | 51,420
 365 | CHEROKEEJ4CK | 49,878
-366 | S2K08 | 49,759
+366 | S2K08 | 49,857
 367 | eatthebagels | 49,692
 368 | IHodlStill | 49,374
 369 | Levl1Critter | 49,152
@@ -767,18 +767,18 @@ Rank | Username | Totals Tips
 764 | FrankieTheYoung | 2,737
 765 | l0l_random | 2,732
 766 | Medfried | 2,732
-767 | funkymyname | 2,700
-768 | m00nLyt23 | 2,663
-769 | zuu8 | 2,663
-770 | BlockChad | 2,663
-771 | This_Red_Apple | 2,663
-772 | inevitable_username | 2,663
-773 | vexylopin | 2,589
-774 | NSFWCryptoPosting | 2,583
-775 | SpellApprehensive641 | 2,559
-776 | beerdrinker_mavech | 2,558
-777 | Tha_Watcha | 2,506
-778 | Buzzalu | 2,503
+767 | Buzzalu | 2,705
+768 | funkymyname | 2,700
+769 | m00nLyt23 | 2,663
+770 | zuu8 | 2,663
+771 | BlockChad | 2,663
+772 | This_Red_Apple | 2,663
+773 | inevitable_username | 2,663
+774 | vexylopin | 2,589
+775 | NSFWCryptoPosting | 2,583
+776 | SpellApprehensive641 | 2,559
+777 | beerdrinker_mavech | 2,558
+778 | Tha_Watcha | 2,506
 779 | RabidLabradoodle | 2,500
 780 | Lalit-K | 2,489
 781 | ConemanNFT | 2,482
