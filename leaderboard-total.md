@@ -1,4 +1,4 @@
-Last updated: 23-08-23 07:30:47 UTC  
+Last updated: 23-08-23 07:40:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,889,002
@@ -218,7 +218,7 @@ Rank | Username | Totals Tips
 215 | MelonFarmer420 | 163,776
 216 | skollywag92 | 163,279
 217 | ultra_terrestrial | 160,244
-218 | Hot_Potato_Salad | 155,354
+218 | Hot_Potato_Salad | 155,423
 219 | DAMG808 | 155,003
 220 | 6reficul | 153,884
 221 | martymartinator | 152,560
