@@ -1,4 +1,4 @@
-Last updated: 23-08-23 09:30:56 UTC  
+Last updated: 23-08-23 09:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,915,632
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 5,946,967
 18 | ashinamune | 5,573,176
-19 | cutsickass | 5,462,352
+19 | cutsickass | 5,464,173
 20 | HippieStarTraveler | 5,226,621
 21 | thelonliestcrowd | 4,598,847
 22 | rikbona | 4,539,773
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Ginomania | 4,277,828
 27 | birdwastheword | 4,243,807
 28 | Puddin-Luv | 4,062,999
-29 | _ships | 4,016,029
+29 | _ships | 4,016,637
 30 | VIVOffical | 3,907,100
 31 | IveDoneItAtLast | 3,842,224
 32 | clean_cut89 | 3,573,928
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | Alanski22 | 614,431
 103 | Westy3000 | 608,032
 104 | ID404_Not_Found_8964 | 606,147
-105 | Duskopia | 602,475
+105 | Duskopia | 603,475
 106 | firstmatedotxyz | 598,580
 107 | __PDS__ | 595,709
 108 | El_Gordone | 592,784
