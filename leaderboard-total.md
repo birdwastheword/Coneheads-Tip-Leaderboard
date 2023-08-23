@@ -1,4 +1,4 @@
-Last updated: 23-08-23 17:41:00 UTC  
+Last updated: 23-08-23 17:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | investigator100 | 1,073,193
 69 | freechickens | 1,028,317
 70 | avatarbot | 1,027,000
-71 | djrcollectables | 1,000,618
+71 | djrcollectables | 1,003,281
 72 | WarmBiertje | 1,000,000
 73 | 0-Give-a-fucks | 983,341
 74 | 002_timmy | 980,443
@@ -227,11 +227,11 @@ Rank | Username | Totals Tips
 224 | NotFullyTerrestrial | 150,694
 225 | Final-Scar-941 | 148,599
 226 | satoshi_oscar_wilde | 147,409
-227 | Sad_Entertainer9961 | 143,248
-228 | Doovs | 142,767
-229 | SalliIsAFem | 140,361
-230 | luisantonio197 | 139,511
-231 | Most_Being_4002 | 137,619
+227 | Most_Being_4002 | 145,608
+228 | Sad_Entertainer9961 | 143,248
+229 | Doovs | 142,767
+230 | SalliIsAFem | 140,361
+231 | luisantonio197 | 139,511
 232 | GrowinStuffAndThings | 137,461
 233 | Outrageous-Ad8481 | 137,001
 234 | MorrisWayne | 133,416
@@ -464,11 +464,11 @@ Rank | Username | Totals Tips
 461 | Sparrow | 27,214
 462 | sM0k3dR4Gn | 27,131
 463 | deltamoney | 26,987
-464 | halfavocadoemoji | 26,815
-465 | BottleNcanClapUrHand | 26,658
-466 | DOGETHEEGOD | 26,580
-467 | Trelucatre | 26,469
-468 | skatistic | 26,419
+464 | skatistic | 26,839
+465 | halfavocadoemoji | 26,815
+466 | BottleNcanClapUrHand | 26,658
+467 | DOGETHEEGOD | 26,580
+468 | Trelucatre | 26,469
 469 | puzzled__panther | 26,000
 470 | Primary_Technical | 26,000
 471 | genesis_crazy_one | 25,913
