@@ -1,11 +1,11 @@
-Last updated: 23-08-23 03:40:43 UTC  
+Last updated: 23-08-23 03:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,757,986
-5 | nakamo-toe | 24,881,801
+5 | nakamo-toe | 24,928,261
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,855,672
 8 | HODL-THE-LINE | 11,920,100
@@ -25,10 +25,10 @@ Rank | Username | Totals Tips
 22 | rikbona | 4,539,773
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,480
-25 | redzrex | 4,364,878
+25 | redzrex | 4,370,204
 26 | Ginomania | 4,277,828
 27 | birdwastheword | 4,241,144
-28 | Puddin-Luv | 4,033,867
+28 | Puddin-Luv | 4,062,999
 29 | _ships | 4,012,150
 30 | VIVOffical | 3,907,100
 31 | IveDoneItAtLast | 3,842,224
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | GuyOne | 2,159,288
 46 | Autom4tic_Soze | 2,158,811
 47 | ImAlekBan | 2,151,493
-48 | Fenrir-1919 | 2,057,993
+48 | Fenrir-1919 | 2,060,656
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,823,334
@@ -72,7 +72,7 @@ Rank | Username | Totals Tips
 69 | freechickens | 1,028,317
 70 | avatarbot | 1,027,000
 71 | WarmBiertje | 1,000,000
-72 | 0-Give-a-fucks | 980,258
+72 | 0-Give-a-fucks | 982,921
 73 | 002_timmy | 974,363
 74 | EvanIsBacon | 970,416
 75 | djrcollectables | 935,169
