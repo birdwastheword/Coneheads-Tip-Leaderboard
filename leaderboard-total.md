@@ -1,11 +1,11 @@
-Last updated: 23-08-23 21:16:29 UTC  
+Last updated: 23-08-23 21:24:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,990,653
-5 | nakamo-toe | 25,511,480
+5 | nakamo-toe | 25,524,257
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | HODL-THE-LINE | 11,920,100
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Ginomania | 4,391,483
 26 | redzrex | 4,383,519
 27 | birdwastheword | 4,246,890
-28 | Puddin-Luv | 4,105,463
+28 | Puddin-Luv | 4,108,126
 29 | _ships | 4,057,509
 30 | VIVOffical | 3,927,100
 31 | IveDoneItAtLast | 3,916,819
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | zdubs | 1,538,909
 56 | bray_martin03 | 1,518,175
 57 | DontLaughArt | 1,461,392
-58 | evilninjarobot | 1,407,109
+58 | evilninjarobot | 1,409,772
 59 | isthistomorrow_ | 1,281,016
 60 | CMDRGlamdring | 1,233,243
 61 | revdrgonzo | 1,229,888
