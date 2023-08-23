@@ -1,4 +1,4 @@
-Last updated: 23-08-23 11:33:52 UTC  
+Last updated: 23-08-23 11:42:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,915,632
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | transfermymoons | 6,694,002
 15 | avyun | 6,605,643
 16 | Geniuskills | 6,193,158
-17 | Real_Player_0 | 5,949,630
+17 | Real_Player_0 | 5,950,238
 18 | ashinamune | 5,573,176
 19 | cutsickass | 5,486,836
 20 | HippieStarTraveler | 5,228,041
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Puddin-Luv | 4,065,662
 29 | _ships | 4,053,630
 30 | VIVOffical | 3,907,100
-31 | IveDoneItAtLast | 3,844,887
+31 | IveDoneItAtLast | 3,847,550
 32 | clean_cut89 | 3,573,928
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,408,030
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | junkwatch | 507,247
 116 | Allions1 | 503,528
 117 | MorrisBrett514 | 503,396
-118 | Successful-Walk-3902 | 497,157
+118 | Successful-Walk-3902 | 497,158
 119 | sinlesco | 462,490
 120 | WarmlyWacky | 462,118
 121 | MediaPrestigious8342 | 453,839
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | Sattack4000 | 250,837
 171 | Gregoryonetulum | 249,309
 172 | BeardedBro_ | 248,627
-173 | Lillica_Golden_SHIB | 246,809
+173 | Lillica_Golden_SHIB | 246,947
 174 | MadScientistTheFirst | 246,344
 175 | thestonkinator | 246,260
 176 | Dripbot8 | 245,384
@@ -267,9 +267,9 @@ Rank | Username | Totals Tips
 264 | i_wake_up_at_12 | 106,333
 265 | CaptainCheeseCake | 105,349
 266 | Chanyuui1 | 104,940
-267 | rolonic | 102,765
-268 | deathtr0 | 102,541
-269 | Most_Being_4002 | 101,989
+267 | Most_Being_4002 | 102,989
+268 | rolonic | 102,765
+269 | deathtr0 | 102,541
 270 | ACorDC | 100,420
 271 | redditinchina | 99,698
 272 | FeetAndHandFetish | 98,146
