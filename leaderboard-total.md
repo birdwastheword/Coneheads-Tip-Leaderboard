@@ -1,4 +1,4 @@
-Last updated: 23-08-23 08:43:16 UTC  
+Last updated: 23-08-23 08:51:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,889,002
@@ -258,9 +258,9 @@ Rank | Username | Totals Tips
 255 | adrefofadre | 111,817
 256 | Final-Scar-941 | 111,210
 257 | BitcoinRefuge | 111,112
-258 | PushyDevolution | 110,216
-259 | Strong_Constant_1190 | 109,517
-260 | jamjam794 | 107,997
+258 | jamjam794 | 110,660
+259 | PushyDevolution | 110,216
+260 | Strong_Constant_1190 | 109,517
 261 | Kevin3683 | 107,109
 262 | Jlt42000 | 107,091
 263 | AD_VICTORIAM_x | 106,876
