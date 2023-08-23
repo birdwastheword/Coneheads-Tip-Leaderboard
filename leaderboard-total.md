@@ -1,10 +1,10 @@
-Last updated: 23-08-23 13:33:33 UTC  
+Last updated: 23-08-23 13:41:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
-4 | Jeff5704 | 27,784,623
+4 | Jeff5704 | 27,837,897
 5 | nakamo-toe | 25,239,206
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,823,334
-52 | dealkhabari | 1,704,222
+52 | dealkhabari | 1,704,567
 53 | Ten-Mins-Late | 1,679,882
 54 | GooderZBK | 1,613,996
 55 | zdubs | 1,538,909
@@ -472,8 +472,8 @@ Rank | Username | Totals Tips
 469 | genesis_crazy_one | 25,913
 470 | iamannonymous27 | 25,840
 471 | Glitzxc | 25,779
-472 | AnxiousQuestioner | 25,684
-473 | skatistic | 25,654
+472 | skatistic | 25,723
+473 | AnxiousQuestioner | 25,684
 474 | cryotosensei | 25,561
 475 | tmztmz2 | 25,490
 476 | universal_language | 25,489
