@@ -1,11 +1,11 @@
-Last updated: 23-08-23 04:52:06 UTC  
+Last updated: 23-08-23 05:00:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,889,002
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,784,623
-5 | nakamo-toe | 25,015,414
+5 | nakamo-toe | 25,068,674
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,855,672
 8 | HODL-THE-LINE | 11,920,100
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | ashinamune | 5,570,513
 19 | cutsickass | 5,309,689
 20 | HippieStarTraveler | 5,226,621
-21 | thelonliestcrowd | 4,596,184
+21 | thelonliestcrowd | 4,598,847
 22 | rikbona | 4,539,773
 23 | bigbilly1234567899 | 4,496,042
 24 | 8inchConer | 4,447,480
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | possibili-teas | 2,399,515
 45 | GuyOne | 2,159,288
 46 | Autom4tic_Soze | 2,158,811
-47 | ImAlekBan | 2,151,493
+47 | ImAlekBan | 2,154,826
 48 | Fenrir-1919 | 2,061,264
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
@@ -106,9 +106,9 @@ Rank | Username | Totals Tips
 103 | ID404_Not_Found_8964 | 606,147
 104 | firstmatedotxyz | 598,580
 105 | __PDS__ | 595,709
-106 | El_Gordone | 592,784
-107 | Alanski22 | 590,199
-108 | Duskopia | 584,392
+106 | Duskopia | 594,392
+107 | El_Gordone | 592,784
+108 | Alanski22 | 590,199
 109 | Independent_Heart_15 | 578,825
 110 | nichnotnick | 556,778
 111 | StepAsideSuckers | 540,695
@@ -318,8 +318,8 @@ Rank | Username | Totals Tips
 315 | Diamond_PnutBrain | 70,536
 316 | drche35 | 70,397
 317 | Rush4Time | 69,659
-318 | Tapiz3land | 68,942
-319 | Yoda975 | 68,917
+318 | Yoda975 | 68,986
+319 | Tapiz3land | 68,942
 320 | AnduriII | 68,244
 321 | Dazzling_Marzipan474 | 67,353
 322 | Friendly-Airline2426 | 66,545
