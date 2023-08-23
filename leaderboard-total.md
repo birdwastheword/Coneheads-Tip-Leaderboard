@@ -1,10 +1,10 @@
-Last updated: 23-08-23 21:50:40 UTC  
+Last updated: 23-08-23 22:00:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
-4 | Jeff5704 | 27,990,653
+4 | Jeff5704 | 27,995,979
 5 | nakamo-toe | 25,554,810
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | avyun | 6,612,612
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 5,950,238
-18 | cutsickass | 5,806,377
+18 | cutsickass | 5,807,043
 19 | ashinamune | 5,573,176
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
@@ -137,8 +137,8 @@ Rank | Username | Totals Tips
 134 | Crypto-4-Freedom | 376,946
 135 | zenhodl | 374,566
 136 | hellosamaira | 372,815
-137 | AustinTX1985 | 368,863
-138 | dopelifer09 | 364,105
+137 | dopelifer09 | 369,431
+138 | AustinTX1985 | 368,863
 139 | doktastonks | 360,525
 140 | farmertypoerror | 359,212
 141 | Mundane-Farm-4117 | 358,176
@@ -174,7 +174,7 @@ Rank | Username | Totals Tips
 171 | Gregoryonetulum | 249,309
 172 | BeardedBro_ | 248,627
 173 | Lillica_Golden_SHIB | 248,264
-174 | MadScientistTheFirst | 246,344
+174 | MadScientistTheFirst | 246,764
 175 | thestonkinator | 246,260
 176 | Dripbot8 | 245,384
 177 | SnooMacarons9203 | 243,810
@@ -205,9 +205,9 @@ Rank | Username | Totals Tips
 202 | redditavanft | 195,122
 203 | AverageLiberalJoe | 195,007
 204 | ShortBusCult | 192,925
-205 | TubeNerd92 | 184,257
-206 | nooobmaester69 | 183,460
-207 | Ashamed_Raccoon9918 | 181,539
+205 | Ashamed_Raccoon9918 | 191,254
+206 | TubeNerd92 | 184,257
+207 | nooobmaester69 | 183,460
 208 | ruccarucca | 179,850
 209 | Heclalava | 177,615
 210 | YourThighsWarmMyEars | 172,697
@@ -389,11 +389,11 @@ Rank | Username | Totals Tips
 386 | Coneboy2663 | 43,852
 387 | RiightYouKnow | 43,329
 388 | halfABsinC | 43,285
-389 | ACE415_ | 42,000
-390 | Chill_Edoeard | 41,967
-391 | Cyber-Cafe | 41,921
-392 | PushyDevoIution | 41,695
-393 | Dboythegreat | 41,648
+389 | Dboythegreat | 42,068
+390 | ACE415_ | 42,000
+391 | Chill_Edoeard | 41,967
+392 | Cyber-Cafe | 41,921
+393 | PushyDevoIution | 41,695
 394 | acfranks | 41,442
 395 | 4gsboofd | 41,377
 396 | ZoomLong | 41,251
