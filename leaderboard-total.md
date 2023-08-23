@@ -1,4 +1,4 @@
-Last updated: 23-08-23 21:24:58 UTC  
+Last updated: 23-08-23 21:33:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 6,844,002
-15 | avyun | 6,605,643
+15 | avyun | 6,612,612
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 5,950,238
 18 | cutsickass | 5,779,740
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | redzrex | 4,383,519
 27 | birdwastheword | 4,246,890
 28 | Puddin-Luv | 4,108,126
-29 | _ships | 4,057,509
+29 | _ships | 4,060,172
 30 | VIVOffical | 3,927,100
 31 | IveDoneItAtLast | 3,916,819
 32 | clean_cut89 | 3,573,928
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | junkwatch | 507,247
 116 | Allions1 | 503,528
 117 | MorrisBrett514 | 503,396
-118 | Successful-Walk-3902 | 497,158
+118 | Successful-Walk-3902 | 497,766
 119 | sinlesco | 462,490
 120 | WarmlyWacky | 462,118
 121 | MediaPrestigious8342 | 453,839
@@ -214,8 +214,8 @@ Rank | Username | Totals Tips
 211 | Street_Addd | 171,939
 212 | MymannosaurusRex | 171,317
 213 | high5s_inureye | 167,388
-214 | DamnWhySoLow | 166,675
-215 | Final-Scar-941 | 165,015
+214 | Final-Scar-941 | 166,839
+215 | DamnWhySoLow | 166,675
 216 | MelonFarmer420 | 163,776
 217 | skollywag92 | 163,279
 218 | Most_Being_4002 | 161,259
