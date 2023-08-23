@@ -1,11 +1,11 @@
-Last updated: 23-08-23 04:35:39 UTC  
+Last updated: 23-08-23 04:43:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,889,002
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,784,623
-5 | nakamo-toe | 25,010,086
+5 | nakamo-toe | 25,010,088
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,855,672
 8 | HODL-THE-LINE | 11,920,100
@@ -102,7 +102,7 @@ Rank | Username | Totals Tips
 99 | Skank_cunt_42 | 626,162
 100 | UniversalNoobMaster | 625,985
 101 | slirpo | 624,211
-102 | Westy3000 | 607,810
+102 | Westy3000 | 608,032
 103 | ID404_Not_Found_8964 | 606,147
 104 | firstmatedotxyz | 598,580
 105 | __PDS__ | 595,709
