@@ -1,4 +1,4 @@
-Last updated: 23-08-23 02:34:47 UTC  
+Last updated: 23-08-23 02:42:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,806,254
@@ -287,8 +287,8 @@ Rank | Username | Totals Tips
 284 | Award-Bot | 90,000
 285 | HokkaidoNights | 88,108
 286 | ShopALF | 87,942
-287 | kwickle | 87,805
-288 | customsolitaires | 87,466
+287 | customsolitaires | 87,886
+288 | kwickle | 87,805
 289 | jurgensdapimp | 86,817
 290 | ItailianStallion101 | 85,039
 291 | Burzzzt88 | 84,990
@@ -334,17 +334,17 @@ Rank | Username | Totals Tips
 331 | meth43 | 61,906
 332 | KrunchyKushKing | 61,532
 333 | TheD1ceMan | 60,541
-334 | 192000Hertz | 60,301
-335 | TheOneWhoCared | 60,001
-336 | lucrica | 59,987
-337 | Big-Ticket1506 | 59,666
-338 | -geek | 59,318
-339 | Heycheckthisout20 | 58,762
-340 | Wildspliffosis | 58,703
-341 | Trink333 | 58,338
-342 | phrodreky | 57,984
-343 | preemcuz | 57,894
-344 | 1ndy1 | 57,838
+334 | 1ndy1 | 60,501
+335 | 192000Hertz | 60,301
+336 | TheOneWhoCared | 60,001
+337 | lucrica | 59,987
+338 | Big-Ticket1506 | 59,666
+339 | -geek | 59,318
+340 | Heycheckthisout20 | 58,762
+341 | Wildspliffosis | 58,703
+342 | Trink333 | 58,338
+343 | phrodreky | 57,984
+344 | preemcuz | 57,894
 345 | Outrageous_Storm6537 | 56,938
 346 | BitCone_CONE | 56,760
 347 | Bandit_005 | 56,303
@@ -369,8 +369,8 @@ Rank | Username | Totals Tips
 366 | eatthebagels | 49,692
 367 | IHodlStill | 49,374
 368 | Levl1Critter | 49,152
-369 | d_Shazam_b | 48,908
-370 | S2K08 | 48,692
+369 | S2K08 | 49,092
+370 | d_Shazam_b | 48,908
 371 | d0ntmess87 | 48,615
 372 | Dolce_00 | 48,263
 373 | CryptoScamee42069 | 47,454
