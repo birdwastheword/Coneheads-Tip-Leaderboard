@@ -1,11 +1,11 @@
-Last updated: 23-08-23 20:30:55 UTC  
+Last updated: 23-08-23 20:40:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,990,653
-5 | nakamo-toe | 25,503,831
+5 | nakamo-toe | 25,506,494
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | HODL-THE-LINE | 11,920,100
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | bigbilly1234567899 | 4,496,042
 25 | Ginomania | 4,391,483
 26 | redzrex | 4,383,519
-27 | birdwastheword | 4,244,227
+27 | birdwastheword | 4,246,890
 28 | Puddin-Luv | 4,102,800
 29 | _ships | 4,057,509
 30 | VIVOffical | 3,927,100
@@ -255,11 +255,11 @@ Rank | Username | Totals Tips
 252 | mvea | 115,748
 253 | AlternativeBag2619 | 114,483
 254 | Fox1931 | 114,000
-255 | pythonskynet | 113,031
-256 | flying_bacon | 111,860
-257 | adrefofadre | 111,817
-258 | BitcoinRefuge | 111,112
-259 | jamjam794 | 110,660
+255 | jamjam794 | 113,323
+256 | pythonskynet | 113,031
+257 | flying_bacon | 111,860
+258 | adrefofadre | 111,817
+259 | BitcoinRefuge | 111,112
 260 | PushyDevolution | 110,216
 261 | Strong_Constant_1190 | 109,517
 262 | Kevin3683 | 107,109
@@ -527,8 +527,8 @@ Rank | Username | Totals Tips
 524 | lookwhatumademedoo | 19,510
 525 | ipad_daps | 19,046
 526 | ___MOM___ | 18,853
-527 | Collectibl3 | 18,024
-528 | Iulian_TechNewb | 17,996
+527 | Iulian_TechNewb | 18,065
+528 | Collectibl3 | 18,024
 529 | 2620lukas | 17,837
 530 | augustsIippedaway | 17,739
 531 | PRYCDaddy | 17,718
