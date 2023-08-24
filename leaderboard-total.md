@@ -1,4 +1,4 @@
-Last updated: 23-08-24 22:41:06 UTC  
+Last updated: 23-08-24 22:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ashinamune | 5,725,838
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
-22 | thelonliestcrowd | 4,708,806
+22 | thelonliestcrowd | 4,735,443
 23 | rikbona | 4,539,773
 24 | bigbilly1234567899 | 4,496,042
 25 | Ginomania | 4,391,483
@@ -30,8 +30,8 @@ Rank | Username | Totals Tips
 27 | rustyybikes | 4,263,025
 28 | birdwastheword | 4,252,705
 29 | Puddin-Luv | 4,216,335
-30 | _ships | 4,115,411
-31 | IveDoneItAtLast | 3,995,688
+30 | _ships | 4,118,494
+31 | IveDoneItAtLast | 3,996,296
 32 | VIVOffical | 3,937,100
 33 | clean_cut89 | 3,573,928
 34 | Permanent_WSB_Bull | 3,522,155
