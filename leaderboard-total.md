@@ -1,4 +1,4 @@
-Last updated: 23-08-24 07:17:22 UTC  
+Last updated: 23-08-24 07:30:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -148,9 +148,9 @@ Rank | Username | Totals Tips
 145 | anony666mous | 341,008
 146 | tsudrat | 340,707
 147 | Tinman_ApE | 337,352
-148 | WhateverAlready | 316,461
-149 | DogSpark84 | 315,859
-150 | YarOldeOrchard | 314,955
+148 | YarOldeOrchard | 319,955
+149 | WhateverAlready | 316,461
+150 | DogSpark84 | 315,859
 151 | EffinDrongoC | 312,738
 152 | x52x | 304,860
 153 | liwipe | 304,467
@@ -216,10 +216,10 @@ Rank | Username | Totals Tips
 213 | high5s_inureye | 167,388
 214 | Final-Scar-941 | 166,839
 215 | DamnWhySoLow | 166,675
-216 | MelonFarmer420 | 163,776
-217 | skollywag92 | 163,279
-218 | ultra_terrestrial | 162,922
-219 | Most_Being_4002 | 161,259
+216 | Most_Being_4002 | 163,922
+217 | MelonFarmer420 | 163,776
+218 | skollywag92 | 163,279
+219 | ultra_terrestrial | 162,922
 220 | DAMG808 | 158,694
 221 | Hot_Potato_Salad | 155,492
 222 | 6reficul | 153,884
@@ -278,7 +278,7 @@ Rank | Username | Totals Tips
 275 | IOTA_Tesla | 96,607
 276 | BrendanTFirefly | 95,347
 277 | beanwiggin420 | 94,933
-278 | Jadenindubai | 93,693
+278 | Jadenindubai | 94,113
 279 | wolfman333 | 93,566
 280 | H3adshotfox77 | 92,575
 281 | CrossPuffs | 91,641
@@ -366,9 +366,9 @@ Rank | Username | Totals Tips
 363 | ky0984 | 52,257
 364 | ConeHead710 | 52,012
 365 | lucivaryas | 51,420
-366 | Creative_Ad7831 | 50,326
-367 | CHEROKEEJ4CK | 49,878
-368 | S2K08 | 49,857
+366 | S2K08 | 50,857
+367 | Creative_Ad7831 | 50,326
+368 | CHEROKEEJ4CK | 49,878
 369 | eatthebagels | 49,692
 370 | IHodlStill | 49,374
 371 | Levl1Critter | 49,152
