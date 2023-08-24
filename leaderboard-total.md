@@ -1,4 +1,4 @@
-Last updated: 23-08-24 23:21:14 UTC  
+Last updated: 23-08-24 23:30:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | rustyybikes | 4,263,025
 28 | birdwastheword | 4,252,705
 29 | Puddin-Luv | 4,218,998
-30 | _ships | 4,121,963
+30 | _ships | 4,122,571
 31 | IveDoneItAtLast | 3,996,296
 32 | VIVOffical | 3,937,100
 33 | clean_cut89 | 3,573,928
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | dealkhabari | 1,715,436
 53 | Ten-Mins-Late | 1,706,113
 54 | GooderZBK | 1,613,996
-55 | zdubs | 1,604,227
+55 | zdubs | 1,604,296
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
 58 | DontLaughArt | 1,466,943
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | Feetfailmenot | 1,151,105
 67 | beastlybaker | 1,138,281
 68 | investigator100 | 1,074,704
-69 | djrcollectables | 1,065,138
+69 | djrcollectables | 1,073,196
 70 | freechickens | 1,028,317
 71 | avatarbot | 1,027,000
 72 | 002_timmy | 1,022,512
@@ -215,8 +215,8 @@ Rank | Username | Totals Tips
 212 | Final-Scar-941 | 172,919
 213 | YourThighsWarmMyEars | 172,697
 214 | Street_Addd | 171,939
-215 | MymannosaurusRex | 171,317
-216 | Most_Being_4002 | 169,248
+215 | Most_Being_4002 | 171,911
+216 | MymannosaurusRex | 171,317
 217 | high5s_inureye | 167,388
 218 | DamnWhySoLow | 166,675
 219 | MelonFarmer420 | 163,776
