@@ -1,4 +1,4 @@
-Last updated: 23-08-24 11:00:42 UTC  
+Last updated: 23-08-24 11:17:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,920,958
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Ginomania | 4,391,483
 26 | redzrex | 4,383,519
 27 | birdwastheword | 4,246,890
-28 | Puddin-Luv | 4,116,115
+28 | Puddin-Luv | 4,118,778
 29 | _ships | 4,080,181
 30 | VIVOffical | 3,927,100
 31 | IveDoneItAtLast | 3,922,145
@@ -200,8 +200,8 @@ Rank | Username | Totals Tips
 197 | ziggyback | 203,369
 198 | Esco1980 | 201,771
 199 | jimfird | 200,163
-200 | CedricDiccory | 197,932
-201 | Ashamed_Raccoon9918 | 197,751
+200 | Ashamed_Raccoon9918 | 198,852
+201 | CedricDiccory | 197,932
 202 | sudrats | 197,124
 203 | redditavanft | 195,122
 204 | AverageLiberalJoe | 195,007
@@ -242,11 +242,11 @@ Rank | Username | Totals Tips
 239 | robnectar | 127,974
 240 | CalligrapherEnough83 | 127,227
 241 | Trakorr | 125,110
-242 | ZeMadMan1 | 122,599
-243 | Sativa55555 | 121,481
-244 | stupidcupid112 | 121,421
-245 | Adrewmc | 121,177
-246 | fettskull | 121,106
+242 | fettskull | 123,769
+243 | ZeMadMan1 | 122,599
+244 | Sativa55555 | 121,481
+245 | stupidcupid112 | 121,421
+246 | Adrewmc | 121,177
 247 | Mj_6o4 | 120,680
 248 | Schl0tz | 120,000
 249 | street_shark_puppet | 116,891
@@ -340,8 +340,8 @@ Rank | Username | Totals Tips
 337 | TheD1ceMan | 60,541
 338 | 192000Hertz | 60,301
 339 | lucrica | 59,987
-340 | Big-Ticket1506 | 59,666
-341 | Iulian_TechNewb | 59,402
+340 | Iulian_TechNewb | 59,822
+341 | Big-Ticket1506 | 59,666
 342 | -geek | 59,318
 343 | Heycheckthisout20 | 59,182
 344 | Wildspliffosis | 58,703
