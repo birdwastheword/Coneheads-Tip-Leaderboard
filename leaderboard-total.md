@@ -1,4 +1,4 @@
-Last updated: 23-08-24 20:00:54 UTC  
+Last updated: 23-08-24 20:24:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -28,10 +28,10 @@ Rank | Username | Totals Tips
 25 | Ginomania | 4,391,483
 26 | redzrex | 4,383,519
 27 | rustyybikes | 4,263,025
-28 | birdwastheword | 4,249,622
+28 | birdwastheword | 4,250,042
 29 | Puddin-Luv | 4,187,203
 30 | _ships | 4,106,814
-31 | IveDoneItAtLast | 3,983,025
+31 | IveDoneItAtLast | 3,985,688
 32 | VIVOffical | 3,937,100
 33 | clean_cut89 | 3,573,928
 34 | Permanent_WSB_Bull | 3,522,155
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | dealkhabari | 1,715,436
 53 | Ten-Mins-Late | 1,706,113
 54 | GooderZBK | 1,613,996
-55 | zdubs | 1,585,587
+55 | zdubs | 1,586,219
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
 58 | DontLaughArt | 1,466,277
