@@ -1,4 +1,4 @@
-Last updated: 23-08-24 19:23:03 UTC  
+Last updated: 23-08-24 19:31:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,104,108
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 6,844,002
 15 | avyun | 6,654,681
-16 | cutsickass | 6,494,763
+16 | cutsickass | 6,521,400
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,189,774
 19 | ashinamune | 5,725,838
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,825,997
 52 | dealkhabari | 1,715,436
-53 | Ten-Mins-Late | 1,695,693
+53 | Ten-Mins-Late | 1,696,113
 54 | GooderZBK | 1,613,996
 55 | zdubs | 1,558,957
 56 | KONGXIANG | 1,526,459
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | thecrabdad | 256,177
 171 | Ambitious-Minimum-80 | 252,035
 172 | Sattack4000 | 250,837
-173 | Lillica_Golden_SHIB | 249,587
+173 | Lillica_Golden_SHIB | 249,725
 174 | Gregoryonetulum | 249,309
 175 | BeardedBro_ | 248,627
 176 | MadScientistTheFirst | 246,764
