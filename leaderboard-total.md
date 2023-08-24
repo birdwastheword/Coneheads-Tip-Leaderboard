@@ -1,11 +1,11 @@
-Last updated: 23-08-24 19:14:39 UTC  
+Last updated: 23-08-24 19:23:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,104,108
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,275,031
+5 | nakamo-toe | 26,279,233
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 6,844,002
 15 | avyun | 6,654,681
-16 | cutsickass | 6,468,126
+16 | cutsickass | 6,494,763
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,189,774
 19 | ashinamune | 5,725,838
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | dealkhabari | 1,715,436
 53 | Ten-Mins-Late | 1,695,693
 54 | GooderZBK | 1,613,996
-55 | zdubs | 1,556,294
+55 | zdubs | 1,558,957
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
 58 | DontLaughArt | 1,466,277
@@ -150,7 +150,7 @@ Rank | Username | Totals Tips
 147 | tsudrat | 340,707
 148 | YarOldeOrchard | 340,375
 149 | Tinman_ApE | 337,352
-150 | Hot_Potato_Salad | 336,080
+150 | Hot_Potato_Salad | 336,500
 151 | DogSpark84 | 319,199
 152 | virmamies | 316,478
 153 | WhateverAlready | 316,461
@@ -186,7 +186,7 @@ Rank | Username | Totals Tips
 183 | Extreme_Issue7325 | 232,538
 184 | superlonelyboy | 230,870
 185 | MisterM0H0 | 227,708
-186 | cannainform2 | 226,357
+186 | cannainform2 | 227,358
 187 | joeviani | 226,028
 188 | MuhSound | 225,403
 189 | SourBeefHoop | 217,512
