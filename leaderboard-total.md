@@ -1,11 +1,11 @@
-Last updated: 23-08-24 23:40:48 UTC  
+Last updated: 23-08-24 23:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,307,109
+5 | nakamo-toe | 26,309,772
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | dealkhabari | 1,715,436
 53 | Ten-Mins-Late | 1,706,113
 54 | GooderZBK | 1,613,996
-55 | zdubs | 1,604,296
+55 | zdubs | 1,609,622
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
 58 | DontLaughArt | 1,466,943
@@ -532,7 +532,7 @@ Rank | Username | Totals Tips
 529 | lookwhatumademedoo | 19,510
 530 | ipad_daps | 19,046
 531 | ___MOM___ | 18,853
-532 | subredditlurker69 | 18,056
+532 | subredditlurker69 | 18,125
 533 | Collectibl3 | 18,024
 534 | 2620lukas | 17,837
 535 | foreignGER | 17,750
