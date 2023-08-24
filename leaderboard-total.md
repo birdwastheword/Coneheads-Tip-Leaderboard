@@ -1,4 +1,4 @@
-Last updated: 23-08-24 16:31:33 UTC  
+Last updated: 23-08-24 16:41:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,027,478
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
 9 | HODL-THE-LINE | 11,920,100
-10 | Parush9 | 11,327,069
+10 | Parush9 | 11,339,006
 11 | SammyCraigar | 8,877,414
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | redzrex | 4,383,519
 27 | rustyybikes | 4,263,025
 28 | birdwastheword | 4,246,959
-29 | Puddin-Luv | 4,152,745
+29 | Puddin-Luv | 4,155,408
 30 | _ships | 4,106,814
 31 | VIVOffical | 3,937,100
 32 | IveDoneItAtLast | 3,926,420
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | revdrgonzo | 1,229,888
 63 | saintajoras | 1,191,343
 64 | HestiaIsTheBestia | 1,188,046
-65 | Richicash | 1,173,866
+65 | Richicash | 1,179,192
 66 | Feetfailmenot | 1,151,105
 67 | beastlybaker | 1,138,281
 68 | investigator100 | 1,074,704
@@ -135,8 +135,8 @@ Rank | Username | Totals Tips
 132 | RazPie | 411,328
 133 | LrnFaroeseWthBergur | 409,488
 134 | Creepy-Nectarine-225 | 386,281
-135 | SHIFTY-T3RROR | 377,457
-136 | Crypto-4-Freedom | 377,435
+135 | Crypto-4-Freedom | 377,855
+136 | SHIFTY-T3RROR | 377,457
 137 | zenhodl | 374,566
 138 | hellosamaira | 373,235
 139 | AustinTX1985 | 368,863
