@@ -1,4 +1,4 @@
-Last updated: 23-08-24 16:51:05 UTC  
+Last updated: 23-08-24 17:00:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,027,478
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
 9 | HODL-THE-LINE | 11,920,100
-10 | Parush9 | 11,339,006
+10 | Parush9 | 11,342,975
 11 | SammyCraigar | 8,877,414
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
@@ -29,10 +29,10 @@ Rank | Username | Totals Tips
 26 | redzrex | 4,383,519
 27 | rustyybikes | 4,263,025
 28 | birdwastheword | 4,246,959
-29 | Puddin-Luv | 4,155,408
+29 | Puddin-Luv | 4,158,071
 30 | _ships | 4,106,814
 31 | VIVOffical | 3,937,100
-32 | IveDoneItAtLast | 3,926,420
+32 | IveDoneItAtLast | 3,929,083
 33 | clean_cut89 | 3,573,928
 34 | Permanent_WSB_Bull | 3,522,155
 35 | LuminousViper | 3,408,030
@@ -273,12 +273,12 @@ Rank | Username | Totals Tips
 270 | ACorDC | 100,420
 271 | redditinchina | 99,698
 272 | FeetAndHandFetish | 98,146
-273 | Knaeggebrott | 97,076
-274 | bakerdawg555 | 96,959
-275 | beanwiggin420 | 96,933
-276 | IOTA_Tesla | 96,607
-277 | BrendanTFirefly | 95,347
-278 | DeanDeanington | 94,622
+273 | DeanDeanington | 97,285
+274 | Knaeggebrott | 97,076
+275 | bakerdawg555 | 96,959
+276 | beanwiggin420 | 96,933
+277 | IOTA_Tesla | 96,607
+278 | BrendanTFirefly | 95,347
 279 | Jadenindubai | 94,113
 280 | wolfman333 | 93,566
 281 | H3adshotfox77 | 92,575
