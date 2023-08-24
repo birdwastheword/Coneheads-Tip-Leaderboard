@@ -1,4 +1,4 @@
-Last updated: 23-08-24 11:25:45 UTC  
+Last updated: 23-08-24 11:34:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,920,958
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Puddin-Luv | 4,128,778
 29 | _ships | 4,080,181
 30 | VIVOffical | 3,927,100
-31 | IveDoneItAtLast | 3,922,145
+31 | IveDoneItAtLast | 3,924,808
 32 | clean_cut89 | 3,573,928
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,408,030
@@ -117,8 +117,8 @@ Rank | Username | Totals Tips
 114 | shreyaskg | 538,211
 115 | f0n1xr131ng | 509,681
 116 | junkwatch | 507,385
-117 | Allions1 | 503,528
-118 | MorrisBrett514 | 503,396
+117 | MorrisBrett514 | 503,816
+118 | Allions1 | 503,528
 119 | Successful-Walk-3902 | 497,766
 120 | sinlesco | 462,490
 121 | WarmlyWacky | 462,118
@@ -172,7 +172,7 @@ Rank | Username | Totals Tips
 169 | Ambitious-Minimum-80 | 252,035
 170 | Sattack4000 | 250,837
 171 | Gregoryonetulum | 249,309
-172 | Lillica_Golden_SHIB | 248,822
+172 | Lillica_Golden_SHIB | 248,960
 173 | BeardedBro_ | 248,627
 174 | MadScientistTheFirst | 246,764
 175 | thestonkinator | 246,260
