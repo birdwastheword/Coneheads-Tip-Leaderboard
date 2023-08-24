@@ -1,4 +1,4 @@
-Last updated: 23-08-24 10:28:51 UTC  
+Last updated: 23-08-24 10:41:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,920,958
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | Feetfailmenot | 1,151,105
 67 | beastlybaker | 1,138,281
 68 | investigator100 | 1,074,704
-69 | djrcollectables | 1,033,182
+69 | djrcollectables | 1,035,845
 70 | freechickens | 1,028,317
 71 | avatarbot | 1,027,000
 72 | 002_timmy | 1,022,512
@@ -147,8 +147,8 @@ Rank | Username | Totals Tips
 144 | Outrageous-Skill-464 | 344,174
 145 | anony666mous | 341,008
 146 | tsudrat | 340,707
-147 | Tinman_ApE | 337,352
-148 | YarOldeOrchard | 320,375
+147 | YarOldeOrchard | 340,375
+148 | Tinman_ApE | 337,352
 149 | WhateverAlready | 316,461
 150 | DogSpark84 | 315,859
 151 | EffinDrongoC | 312,738
@@ -680,14 +680,14 @@ Rank | Username | Totals Tips
 677 | dexabonk | 6,541
 678 | _pondering_insomniac | 6,500
 679 | SeniorThiccBoi | 6,405
-680 | rpgruli | 6,364
-681 | ReasonReasonable7168 | 6,357
-682 | Schwoanz | 6,219
-683 | solarssun | 6,111
-684 | DrunkDoge420 | 6,000
-685 | forceworks | 5,998
-686 | SecretSuch420 | 5,981
-687 | theindoshow | 5,968
+680 | theindoshow | 6,388
+681 | rpgruli | 6,364
+682 | ReasonReasonable7168 | 6,357
+683 | Schwoanz | 6,219
+684 | solarssun | 6,111
+685 | DrunkDoge420 | 6,000
+686 | forceworks | 5,998
+687 | SecretSuch420 | 5,981
 688 | OddNebula2844 | 5,938
 689 | theBarefootedBastard | 5,896
 690 | Sir_Mobius_Mook | 5,840
