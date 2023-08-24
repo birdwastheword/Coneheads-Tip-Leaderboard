@@ -1,4 +1,4 @@
-Last updated: 23-08-24 20:34:39 UTC  
+Last updated: 23-08-24 20:42:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 6,844,002
 15 | avyun | 6,654,681
-16 | cutsickass | 6,601,311
+16 | cutsickass | 6,627,948
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,189,774
 19 | ashinamune | 5,725,838
@@ -127,10 +127,10 @@ Rank | Username | Totals Tips
 124 | MediaPrestigious8342 | 453,839
 125 | formidable-opponent | 449,977
 126 | dopelifer09 | 449,678
-127 | adrifing | 441,168
-128 | crodbtc | 440,355
-129 | unhingedbigfoot | 439,874
-130 | Lady_Lucks_Man | 438,456
+127 | Lady_Lucks_Man | 448,456
+128 | adrifing | 441,168
+129 | crodbtc | 440,355
+130 | unhingedbigfoot | 439,874
 131 | Mopeiooo | 427,266
 132 | dronegeeks1 | 414,406
 133 | RazPie | 411,328
@@ -230,19 +230,19 @@ Rank | Username | Totals Tips
 227 | satoshi_oscar_wilde | 147,409
 228 | Sad_Entertainer9961 | 143,248
 229 | Doovs | 142,767
-230 | SalliIsAFem | 140,361
-231 | tmanfromEarth | 140,226
-232 | luisantonio197 | 139,511
-233 | GrowinStuffAndThings | 137,461
-234 | Outrageous-Ad8481 | 137,001
-235 | MorrisWayne | 133,416
-236 | GoodMornEveGoodNight | 131,019
-237 | Legal-Appointment655 | 130,960
-238 | Awake-- | 128,173
-239 | robnectar | 127,974
-240 | CalligrapherEnough83 | 127,227
-241 | Trakorr | 125,110
-242 | fettskull | 123,769
+230 | fettskull | 142,410
+231 | SalliIsAFem | 140,361
+232 | tmanfromEarth | 140,226
+233 | luisantonio197 | 139,511
+234 | GrowinStuffAndThings | 137,461
+235 | Outrageous-Ad8481 | 137,001
+236 | MorrisWayne | 133,416
+237 | GoodMornEveGoodNight | 131,019
+238 | Legal-Appointment655 | 130,960
+239 | Awake-- | 128,173
+240 | robnectar | 127,974
+241 | CalligrapherEnough83 | 127,227
+242 | Trakorr | 125,110
 243 | ZeMadMan1 | 122,599
 244 | Sativa55555 | 121,481
 245 | stupidcupid112 | 121,421
