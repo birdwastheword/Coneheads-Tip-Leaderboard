@@ -1,11 +1,11 @@
-Last updated: 23-08-24 05:32:43 UTC  
+Last updated: 23-08-24 05:41:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,086,581
+5 | nakamo-toe | 26,091,907
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | avyun | 6,612,612
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 6,189,774
-18 | cutsickass | 6,025,219
+18 | cutsickass | 6,051,856
 19 | ashinamune | 5,723,175
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | Richicash | 1,173,866
 66 | Feetfailmenot | 1,151,105
 67 | beastlybaker | 1,138,281
-68 | investigator100 | 1,073,193
+68 | investigator100 | 1,074,196
 69 | freechickens | 1,028,317
 70 | avatarbot | 1,027,000
 71 | djrcollectables | 1,022,530
@@ -81,7 +81,7 @@ Rank | Username | Totals Tips
 78 | CluelessSurvivor | 902,466
 79 | thee_monster | 896,765
 80 | Bobisdeadrun | 868,415
-81 | ValiantJudge29500 | 854,535
+81 | ValiantJudge29500 | 855,535
 82 | goldyluckinblokchain | 806,454
 83 | vbutarin | 802,000
 84 | ashketchup422 | 794,067
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | UniversalNoobMaster | 625,985
 101 | slirpo | 624,211
 102 | Duskopia | 624,138
-103 | Alanski22 | 614,431
+103 | Alanski22 | 617,094
 104 | Westy3000 | 610,142
 105 | ID404_Not_Found_8964 | 606,150
 106 | firstmatedotxyz | 598,580
