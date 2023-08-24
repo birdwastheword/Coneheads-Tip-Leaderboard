@@ -1,4 +1,4 @@
-Last updated: 23-08-24 04:25:31 UTC  
+Last updated: 23-08-24 04:34:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | redzrex | 4,383,519
 27 | birdwastheword | 4,246,890
 28 | Puddin-Luv | 4,116,115
-29 | _ships | 4,079,902
+29 | _ships | 4,080,181
 30 | VIVOffical | 3,927,100
 31 | IveDoneItAtLast | 3,919,482
 32 | clean_cut89 | 3,573,928
@@ -104,7 +104,7 @@ Rank | Username | Totals Tips
 101 | slirpo | 624,211
 102 | Duskopia | 624,138
 103 | Alanski22 | 614,431
-104 | Westy3000 | 609,920
+104 | Westy3000 | 610,142
 105 | ID404_Not_Found_8964 | 606,150
 106 | firstmatedotxyz | 598,580
 107 | __PDS__ | 595,709
