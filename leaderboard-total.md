@@ -1,4 +1,4 @@
-Last updated: 23-08-24 21:40:37 UTC  
+Last updated: 23-08-24 21:50:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -125,8 +125,8 @@ Rank | Username | Totals Tips
 122 | WarmlyWacky | 462,118
 123 | Korean_Street_Pizza | 457,567
 124 | MediaPrestigious8342 | 453,839
-125 | formidable-opponent | 449,977
-126 | dopelifer09 | 449,678
+125 | dopelifer09 | 452,341
+126 | formidable-opponent | 449,977
 127 | Lady_Lucks_Man | 448,456
 128 | adrifing | 441,168
 129 | crodbtc | 440,355
@@ -186,7 +186,7 @@ Rank | Username | Totals Tips
 183 | coolpattakers | 233,047
 184 | Extreme_Issue7325 | 232,538
 185 | superlonelyboy | 230,870
-186 | cannainform2 | 228,779
+186 | cannainform2 | 229,780
 187 | MisterM0H0 | 227,708
 188 | joeviani | 226,028
 189 | MuhSound | 225,403
