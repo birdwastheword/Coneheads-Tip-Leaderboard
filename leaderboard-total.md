@@ -1,4 +1,4 @@
-Last updated: 23-08-24 10:41:05 UTC  
+Last updated: 23-08-24 10:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,920,958
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | Feetfailmenot | 1,151,105
 67 | beastlybaker | 1,138,281
 68 | investigator100 | 1,074,704
-69 | djrcollectables | 1,035,845
+69 | djrcollectables | 1,041,171
 70 | freechickens | 1,028,317
 71 | avatarbot | 1,027,000
 72 | 002_timmy | 1,022,512
