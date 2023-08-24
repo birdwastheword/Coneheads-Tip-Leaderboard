@@ -1,4 +1,4 @@
-Last updated: 23-08-24 17:35:09 UTC  
+Last updated: 23-08-24 17:43:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,027,478
@@ -16,13 +16,13 @@ Rank | Username | Totals Tips
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 6,844,002
 15 | avyun | 6,612,612
-16 | cutsickass | 6,203,030
+16 | cutsickass | 6,256,304
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,189,774
 19 | ashinamune | 5,725,838
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
-22 | thelonliestcrowd | 4,676,843
+22 | thelonliestcrowd | 4,679,506
 23 | rikbona | 4,539,773
 24 | bigbilly1234567899 | 4,496,042
 25 | Ginomania | 4,391,483
