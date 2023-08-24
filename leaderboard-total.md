@@ -1,4 +1,4 @@
-Last updated: 23-08-24 23:30:52 UTC  
+Last updated: 23-08-24 23:40:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -749,7 +749,7 @@ Rank | Username | Totals Tips
 746 | salt_yaf | 3,706
 747 | abbasabba260 | 3,663
 748 | Gelato_33 | 3,628
-749 | Buzzalu | 3,420
+749 | Buzzalu | 3,622
 750 | Mrcoolguynumberone | 3,420
 751 | SoulUrgeDestiny | 3,409
 752 | n1ghsthade | 3,378
