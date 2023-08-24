@@ -1,4 +1,4 @@
-Last updated: 23-08-24 08:43:29 UTC  
+Last updated: 23-08-24 08:52:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,920,958
@@ -56,8 +56,8 @@ Rank | Username | Totals Tips
 53 | Ten-Mins-Late | 1,689,685
 54 | GooderZBK | 1,613,996
 55 | zdubs | 1,555,451
-56 | bray_martin03 | 1,518,175
-57 | KONGXIANG | 1,516,459
+56 | KONGXIANG | 1,526,459
+57 | bray_martin03 | 1,518,175
 58 | DontLaughArt | 1,464,055
 59 | evilninjarobot | 1,412,435
 60 | isthistomorrow_ | 1,281,016
@@ -101,11 +101,11 @@ Rank | Username | Totals Tips
 98 | MartynDr | 651,420
 99 | Alanski22 | 649,472
 100 | femacampcouncilor | 642,812
-101 | Skank_cunt_42 | 626,162
-102 | Duskopia | 626,138
+101 | Duskopia | 627,166
+102 | Skank_cunt_42 | 626,162
 103 | UniversalNoobMaster | 625,985
 104 | slirpo | 624,211
-105 | Westy3000 | 616,808
+105 | Westy3000 | 617,919
 106 | ID404_Not_Found_8964 | 606,150
 107 | firstmatedotxyz | 598,580
 108 | __PDS__ | 595,709
@@ -216,11 +216,11 @@ Rank | Username | Totals Tips
 213 | high5s_inureye | 167,388
 214 | Final-Scar-941 | 166,839
 215 | DamnWhySoLow | 166,675
-216 | Most_Being_4002 | 163,922
+216 | Most_Being_4002 | 166,585
 217 | MelonFarmer420 | 163,776
 218 | skollywag92 | 163,279
 219 | ultra_terrestrial | 162,922
-220 | DAMG808 | 158,694
+220 | DAMG808 | 160,518
 221 | Hot_Potato_Salad | 155,981
 222 | 6reficul | 153,884
 223 | martymartinator | 152,560
