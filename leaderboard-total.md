@@ -1,4 +1,4 @@
-Last updated: 23-08-24 18:44:56 UTC  
+Last updated: 23-08-24 18:53:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,027,478
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 6,844,002
 15 | avyun | 6,654,681
-16 | cutsickass | 6,414,852
+16 | cutsickass | 6,441,489
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,189,774
 19 | ashinamune | 5,725,838
@@ -73,8 +73,8 @@ Rank | Username | Totals Tips
 70 | freechickens | 1,028,317
 71 | avatarbot | 1,027,000
 72 | 002_timmy | 1,022,512
-73 | WarmBiertje | 1,000,000
-74 | 0-Give-a-fucks | 983,341
+73 | 0-Give-a-fucks | 1,009,971
+74 | WarmBiertje | 1,000,000
 75 | EvanIsBacon | 970,416
 76 | Forward_Today2849 | 932,405
 77 | Modestexcuse | 903,684
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | shreyaskg | 538,211
 116 | junkwatch | 510,048
 117 | f0n1xr131ng | 509,681
-118 | MorrisBrett514 | 504,374
+118 | MorrisBrett514 | 504,794
 119 | Allions1 | 503,528
 120 | Successful-Walk-3902 | 498,374
 121 | sinlesco | 462,490
@@ -186,9 +186,9 @@ Rank | Username | Totals Tips
 183 | Extreme_Issue7325 | 232,538
 184 | superlonelyboy | 230,870
 185 | MisterM0H0 | 227,708
-186 | joeviani | 226,028
-187 | MuhSound | 225,403
-188 | cannainform2 | 224,355
+186 | cannainform2 | 226,357
+187 | joeviani | 226,028
+188 | MuhSound | 225,403
 189 | SourBeefHoop | 217,512
 190 | FluffyAspie | 215,519
 191 | alexthemay | 214,131
@@ -670,22 +670,22 @@ Rank | Username | Totals Tips
 667 | TeflonThaDonn | 6,936
 668 | Squirrel_McNutz | 6,879
 669 | dozebull | 6,849
-670 | Dapper_Bloke88 | 6,843
-671 | Kindly-Strawberry637 | 6,800
-672 | Knackebrodd | 6,683
-673 | mantrakid | 6,675
-674 | No-Emu-5060 | 6,663
-675 | thespygorillas | 6,662
-676 | GoldMaster15 | 6,618
-677 | Fourplyer80 | 6,587
-678 | strworld | 6,544
-679 | dexabonk | 6,541
-680 | _pondering_insomniac | 6,500
-681 | SeniorThiccBoi | 6,405
-682 | theindoshow | 6,388
-683 | rpgruli | 6,364
-684 | ReasonReasonable7168 | 6,357
-685 | CatastrophicSpecter | 6,348
+670 | CatastrophicSpecter | 6,848
+671 | Dapper_Bloke88 | 6,843
+672 | Kindly-Strawberry637 | 6,800
+673 | Knackebrodd | 6,683
+674 | mantrakid | 6,675
+675 | No-Emu-5060 | 6,663
+676 | thespygorillas | 6,662
+677 | GoldMaster15 | 6,618
+678 | Fourplyer80 | 6,587
+679 | strworld | 6,544
+680 | dexabonk | 6,541
+681 | _pondering_insomniac | 6,500
+682 | SeniorThiccBoi | 6,405
+683 | theindoshow | 6,388
+684 | rpgruli | 6,364
+685 | ReasonReasonable7168 | 6,357
 686 | Schwoanz | 6,219
 687 | solarssun | 6,111
 688 | DrunkDoge420 | 6,000
