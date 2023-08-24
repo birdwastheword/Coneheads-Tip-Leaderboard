@@ -1,4 +1,4 @@
-Last updated: 23-08-24 08:25:58 UTC  
+Last updated: 23-08-24 08:35:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,920,958
@@ -40,7 +40,7 @@ Rank | Username | Totals Tips
 37 | Dry_Badger_2403 | 3,193,857
 38 | LordBobTheWhale | 3,063,646
 39 | Mean_Bandicoot_7481 | 2,748,882
-40 | thom_orrow | 2,743,682
+40 | thom_orrow | 2,746,345
 41 | _Royal_Insylum | 2,603,787
 42 | SpookySYN | 2,597,179
 43 | send420nudes | 2,451,237
@@ -221,7 +221,7 @@ Rank | Username | Totals Tips
 218 | skollywag92 | 163,279
 219 | ultra_terrestrial | 162,922
 220 | DAMG808 | 158,694
-221 | Hot_Potato_Salad | 155,561
+221 | Hot_Potato_Salad | 155,981
 222 | 6reficul | 153,884
 223 | martymartinator | 152,560
 224 | sjakkpila | 152,031
@@ -472,9 +472,9 @@ Rank | Username | Totals Tips
 469 | BottleNcanClapUrHand | 26,658
 470 | DOGETHEEGOD | 26,580
 471 | Trelucatre | 26,469
-472 | puzzled__panther | 26,000
-473 | Primary_Technical | 26,000
-474 | genesis_crazy_one | 25,913
+472 | genesis_crazy_one | 26,167
+473 | puzzled__panther | 26,000
+474 | Primary_Technical | 26,000
 475 | iamannonymous27 | 25,840
 476 | Glitzxc | 25,779
 477 | AnxiousQuestioner | 25,684
