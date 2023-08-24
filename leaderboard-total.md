@@ -1,4 +1,4 @@
-Last updated: 23-08-24 20:51:24 UTC  
+Last updated: 23-08-24 21:00:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
 9 | HODL-THE-LINE | 11,921,100
-10 | Parush9 | 11,479,563
+10 | Parush9 | 11,502,470
 11 | SammyCraigar | 8,877,414
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | zdubs | 1,586,219
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
-58 | DontLaughArt | 1,466,277
+58 | DontLaughArt | 1,466,943
 59 | evilninjarobot | 1,422,435
 60 | isthistomorrow_ | 1,281,016
 61 | CMDRGlamdring | 1,233,243
@@ -269,11 +269,11 @@ Rank | Username | Totals Tips
 266 | i_wake_up_at_12 | 106,333
 267 | Chanyuui1 | 104,940
 268 | rolonic | 102,765
-269 | deathtr0 | 102,541
-270 | ACorDC | 100,420
-271 | redditinchina | 99,698
-272 | FeetAndHandFetish | 98,146
-273 | DeanDeanington | 97,285
+269 | DeanDeanington | 102,611
+270 | deathtr0 | 102,541
+271 | ACorDC | 100,420
+272 | redditinchina | 99,698
+273 | FeetAndHandFetish | 98,146
 274 | Knaeggebrott | 97,076
 275 | bakerdawg555 | 96,959
 276 | beanwiggin420 | 96,933
