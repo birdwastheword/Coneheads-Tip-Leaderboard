@@ -1,4 +1,4 @@
-Last updated: 23-08-24 11:42:47 UTC  
+Last updated: 23-08-24 11:51:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,947,588
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Ginomania | 4,391,483
 26 | redzrex | 4,383,519
 27 | birdwastheword | 4,246,890
-28 | Puddin-Luv | 4,128,778
+28 | Puddin-Luv | 4,131,441
 29 | _ships | 4,080,181
 30 | VIVOffical | 3,927,100
 31 | IveDoneItAtLast | 3,926,420
@@ -150,7 +150,7 @@ Rank | Username | Totals Tips
 147 | YarOldeOrchard | 340,375
 148 | Tinman_ApE | 337,352
 149 | WhateverAlready | 316,461
-150 | DogSpark84 | 315,859
+150 | DogSpark84 | 315,928
 151 | EffinDrongoC | 312,738
 152 | x52x | 304,860
 153 | liwipe | 304,467
@@ -363,8 +363,8 @@ Rank | Username | Totals Tips
 360 | Astrochrono | 53,398
 361 | Jefe0457 | 53,368
 362 | S2K08 | 52,773
-363 | abbasabba2 | 52,647
-364 | Zezano | 52,610
+363 | Zezano | 52,679
+364 | abbasabba2 | 52,647
 365 | ky0984 | 52,257
 366 | ConeHead710 | 52,012
 367 | lucivaryas | 51,420
