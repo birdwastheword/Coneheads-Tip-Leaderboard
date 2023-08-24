@@ -1,4 +1,4 @@
-Last updated: 23-08-24 03:30:54 UTC  
+Last updated: 23-08-24 03:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | Geniuskills | 6,193,158
 17 | cutsickass | 6,025,219
 18 | Real_Player_0 | 5,955,564
-19 | ashinamune | 5,580,839
+19 | ashinamune | 5,723,175
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
 22 | thelonliestcrowd | 4,601,510
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | redzrex | 4,383,519
 27 | birdwastheword | 4,246,890
 28 | Puddin-Luv | 4,113,452
-29 | _ships | 4,078,686
+29 | _ships | 4,079,902
 30 | VIVOffical | 3,927,100
 31 | IveDoneItAtLast | 3,919,482
 32 | clean_cut89 | 3,573,928
@@ -218,7 +218,7 @@ Rank | Username | Totals Tips
 215 | DamnWhySoLow | 166,675
 216 | MelonFarmer420 | 163,776
 217 | skollywag92 | 163,279
-218 | ultra_terrestrial | 162,502
+218 | ultra_terrestrial | 162,922
 219 | Most_Being_4002 | 161,259
 220 | DAMG808 | 158,694
 221 | Hot_Potato_Salad | 155,423
