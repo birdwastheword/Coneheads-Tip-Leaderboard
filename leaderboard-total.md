@@ -1,4 +1,4 @@
-Last updated: 23-08-24 20:24:00 UTC  
+Last updated: 23-08-24 20:34:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 6,844,002
 15 | avyun | 6,654,681
-16 | cutsickass | 6,548,037
+16 | cutsickass | 6,601,311
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,189,774
 19 | ashinamune | 5,725,838
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | redzrex | 4,383,519
 27 | rustyybikes | 4,263,025
 28 | birdwastheword | 4,250,042
-29 | Puddin-Luv | 4,187,203
+29 | Puddin-Luv | 4,213,672
 30 | _ships | 4,106,814
 31 | IveDoneItAtLast | 3,985,688
 32 | VIVOffical | 3,937,100
