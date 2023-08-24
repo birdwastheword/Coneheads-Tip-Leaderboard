@@ -1,7 +1,7 @@
-Last updated: 23-08-24 19:31:41 UTC  
+Last updated: 23-08-24 19:40:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 36,104,108
+1 | Bitdream200K | 36,154,108
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
 9 | HODL-THE-LINE | 11,921,100
-10 | Parush9 | 11,400,511
+10 | Parush9 | 11,479,563
 11 | SammyCraigar | 8,877,414
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | birdwastheword | 4,249,622
 29 | Puddin-Luv | 4,187,203
 30 | _ships | 4,106,814
-31 | IveDoneItAtLast | 3,945,061
+31 | IveDoneItAtLast | 3,974,354
 32 | VIVOffical | 3,937,100
 33 | clean_cut89 | 3,573,928
 34 | Permanent_WSB_Bull | 3,522,155
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | _Royal_Insylum | 2,603,787
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
-45 | ImAlekBan | 2,197,828
+45 | ImAlekBan | 2,197,897
 46 | GuyOne | 2,159,288
 47 | Autom4tic_Soze | 2,158,811
 48 | Fenrir-1919 | 2,073,740
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,825,997
 52 | dealkhabari | 1,715,436
-53 | Ten-Mins-Late | 1,696,113
+53 | Ten-Mins-Late | 1,706,113
 54 | GooderZBK | 1,613,996
 55 | zdubs | 1,558,957
 56 | KONGXIANG | 1,526,459
@@ -107,7 +107,7 @@ Rank | Username | Totals Tips
 104 | Skank_cunt_42 | 626,162
 105 | UniversalNoobMaster | 625,985
 106 | slirpo | 624,211
-107 | ID404_Not_Found_8964 | 606,152
+107 | ID404_Not_Found_8964 | 606,157
 108 | firstmatedotxyz | 598,580
 109 | __PDS__ | 595,709
 110 | El_Gordone | 592,784
