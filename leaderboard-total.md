@@ -1,4 +1,4 @@
-Last updated: 23-08-24 19:50:39 UTC  
+Last updated: 23-08-24 20:00:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 6,844,002
 15 | avyun | 6,654,681
-16 | cutsickass | 6,521,400
+16 | cutsickass | 6,548,037
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,189,774
 19 | ashinamune | 5,725,838
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | birdwastheword | 4,249,622
 29 | Puddin-Luv | 4,187,203
 30 | _ships | 4,106,814
-31 | IveDoneItAtLast | 3,980,362
+31 | IveDoneItAtLast | 3,983,025
 32 | VIVOffical | 3,937,100
 33 | clean_cut89 | 3,573,928
 34 | Permanent_WSB_Bull | 3,522,155
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | _Royal_Insylum | 2,603,787
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
-45 | ImAlekBan | 2,200,560
+45 | ImAlekBan | 2,201,068
 46 | GuyOne | 2,159,288
 47 | Autom4tic_Soze | 2,158,811
 48 | Fenrir-1919 | 2,073,740
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | dealkhabari | 1,715,436
 53 | Ten-Mins-Late | 1,706,113
 54 | GooderZBK | 1,613,996
-55 | zdubs | 1,558,957
+55 | zdubs | 1,585,587
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
 58 | DontLaughArt | 1,466,277
@@ -749,22 +749,22 @@ Rank | Username | Totals Tips
 746 | salt_yaf | 3,706
 747 | abbasabba260 | 3,663
 748 | Gelato_33 | 3,628
-749 | Mrcoolguynumberone | 3,420
-750 | SoulUrgeDestiny | 3,409
-751 | n1ghsthade | 3,378
-752 | elksteaksdmt | 3,359
-753 | superficialization | 3,326
-754 | JJJaxMax | 3,325
-755 | ineedmoney2023 | 3,307
-756 | mondaymoderate | 3,271
-757 | Mulleary | 3,271
-758 | trainspottedCSX7 | 3,260
-759 | redditagain91 | 3,163
-760 | Positive-Gazelle2603 | 3,152
-761 | PopLegion | 3,152
-762 | Xrim- | 3,142
-763 | Jenn2895 | 3,139
-764 | Buzzalu | 3,087
+749 | Buzzalu | 3,420
+750 | Mrcoolguynumberone | 3,420
+751 | SoulUrgeDestiny | 3,409
+752 | n1ghsthade | 3,378
+753 | elksteaksdmt | 3,359
+754 | superficialization | 3,326
+755 | JJJaxMax | 3,325
+756 | ineedmoney2023 | 3,307
+757 | mondaymoderate | 3,271
+758 | Mulleary | 3,271
+759 | trainspottedCSX7 | 3,260
+760 | redditagain91 | 3,163
+761 | Positive-Gazelle2603 | 3,152
+762 | PopLegion | 3,152
+763 | Xrim- | 3,142
+764 | Jenn2895 | 3,139
 765 | obaming16 | 3,007
 766 | KingPaladin | 3,000
 767 | Microgamers | 2,915
