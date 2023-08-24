@@ -1,4 +1,4 @@
-Last updated: 23-08-24 22:32:52 UTC  
+Last updated: 23-08-24 22:41:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | redzrex | 4,383,519
 27 | rustyybikes | 4,263,025
 28 | birdwastheword | 4,252,705
-29 | Puddin-Luv | 4,213,672
+29 | Puddin-Luv | 4,216,335
 30 | _ships | 4,115,411
 31 | IveDoneItAtLast | 3,995,688
 32 | VIVOffical | 3,937,100
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | dealkhabari | 1,715,436
 53 | Ten-Mins-Late | 1,706,113
 54 | GooderZBK | 1,613,996
-55 | zdubs | 1,591,545
+55 | zdubs | 1,601,564
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
 58 | DontLaughArt | 1,466,943
@@ -223,7 +223,7 @@ Rank | Username | Totals Tips
 220 | skollywag92 | 163,279
 221 | ultra_terrestrial | 162,922
 222 | DAMG808 | 160,518
-223 | fettskull | 155,725
+223 | fettskull | 158,388
 224 | 6reficul | 153,884
 225 | martymartinator | 152,560
 226 | sjakkpila | 152,031
@@ -336,7 +336,7 @@ Rank | Username | Totals Tips
 333 | shellystarzz | 62,826
 334 | netnemirepxE | 62,645
 335 | meth43 | 62,596
-336 | Emeritux | 62,435
+336 | Emeritux | 62,504
 337 | 1ndy1 | 62,120
 338 | KrunchyKushKing | 61,532
 339 | Iulian_TechNewb | 61,159
