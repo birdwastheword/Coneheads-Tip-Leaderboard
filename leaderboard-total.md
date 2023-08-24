@@ -1,11 +1,11 @@
-Last updated: 23-08-24 21:31:09 UTC  
+Last updated: 23-08-24 21:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,281,556
+5 | nakamo-toe | 26,304,786
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Ginomania | 4,391,483
 26 | redzrex | 4,383,519
 27 | rustyybikes | 4,263,025
-28 | birdwastheword | 4,250,042
+28 | birdwastheword | 4,252,705
 29 | Puddin-Luv | 4,213,672
 30 | _ships | 4,106,814
 31 | IveDoneItAtLast | 3,985,688
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | _Royal_Insylum | 2,603,787
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
-45 | ImAlekBan | 2,201,068
+45 | ImAlekBan | 2,201,676
 46 | GuyOne | 2,159,288
 47 | Autom4tic_Soze | 2,158,811
 48 | Fenrir-1919 | 2,073,740
