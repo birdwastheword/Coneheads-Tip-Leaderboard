@@ -1,4 +1,4 @@
-Last updated: 23-08-24 13:40:59 UTC  
+Last updated: 23-08-24 13:51:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,000,848
@@ -27,8 +27,8 @@ Rank | Username | Totals Tips
 24 | bigbilly1234567899 | 4,496,042
 25 | Ginomania | 4,391,483
 26 | redzrex | 4,383,519
-27 | birdwastheword | 4,246,890
-28 | Puddin-Luv | 4,144,756
+27 | birdwastheword | 4,246,959
+28 | Puddin-Luv | 4,147,419
 29 | _ships | 4,106,814
 30 | VIVOffical | 3,927,100
 31 | IveDoneItAtLast | 3,926,420
