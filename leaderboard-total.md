@@ -1,7 +1,7 @@
-Last updated: 23-08-24 18:53:08 UTC  
+Last updated: 23-08-24 19:14:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 36,027,478
+1 | Bitdream200K | 36,104,108
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 6,844,002
 15 | avyun | 6,654,681
-16 | cutsickass | 6,441,489
+16 | cutsickass | 6,468,126
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,189,774
 19 | ashinamune | 5,725,838
@@ -29,9 +29,9 @@ Rank | Username | Totals Tips
 26 | redzrex | 4,383,519
 27 | rustyybikes | 4,263,025
 28 | birdwastheword | 4,249,622
-29 | Puddin-Luv | 4,160,734
+29 | Puddin-Luv | 4,187,203
 30 | _ships | 4,106,814
-31 | IveDoneItAtLast | 3,942,398
+31 | IveDoneItAtLast | 3,945,061
 32 | VIVOffical | 3,937,100
 33 | clean_cut89 | 3,573,928
 34 | Permanent_WSB_Bull | 3,522,155
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | Feetfailmenot | 1,151,105
 67 | beastlybaker | 1,138,281
 68 | investigator100 | 1,074,704
-69 | djrcollectables | 1,057,149
+69 | djrcollectables | 1,062,475
 70 | freechickens | 1,028,317
 71 | avatarbot | 1,027,000
 72 | 002_timmy | 1,022,512
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | shreyaskg | 538,211
 116 | junkwatch | 510,048
 117 | f0n1xr131ng | 509,681
-118 | MorrisBrett514 | 504,794
+118 | MorrisBrett514 | 504,863
 119 | Allions1 | 503,528
 120 | Successful-Walk-3902 | 498,374
 121 | sinlesco | 462,490
@@ -262,11 +262,11 @@ Rank | Username | Totals Tips
 259 | BitcoinRefuge | 111,112
 260 | PushyDevolution | 110,216
 261 | Strong_Constant_1190 | 109,517
-262 | Kevin3683 | 107,109
-263 | Jlt42000 | 107,091
-264 | AD_VICTORIAM_x | 106,876
-265 | i_wake_up_at_12 | 106,333
-266 | CaptainCheeseCake | 105,349
+262 | CaptainCheeseCake | 108,012
+263 | Kevin3683 | 107,109
+264 | Jlt42000 | 107,091
+265 | AD_VICTORIAM_x | 106,876
+266 | i_wake_up_at_12 | 106,333
 267 | Chanyuui1 | 104,940
 268 | rolonic | 102,765
 269 | deathtr0 | 102,541
@@ -661,16 +661,16 @@ Rank | Username | Totals Tips
 658 | RiceRare | 7,491
 659 | Pengpangolin | 7,488
 660 | FlippiShh | 7,440
-661 | Weirdclerk_ | 7,192
-662 | MedicalJockey | 7,000
-663 | CryptoriumOfficial | 6,969
-664 | tbobs04 | 6,969
-665 | Alternative-Radish13 | 6,969
-666 | physiops | 6,962
-667 | TeflonThaDonn | 6,936
-668 | Squirrel_McNutz | 6,879
-669 | dozebull | 6,849
-670 | CatastrophicSpecter | 6,848
+661 | CatastrophicSpecter | 7,268
+662 | Weirdclerk_ | 7,192
+663 | MedicalJockey | 7,000
+664 | CryptoriumOfficial | 6,969
+665 | tbobs04 | 6,969
+666 | Alternative-Radish13 | 6,969
+667 | physiops | 6,962
+668 | TeflonThaDonn | 6,936
+669 | Squirrel_McNutz | 6,879
+670 | dozebull | 6,849
 671 | Dapper_Bloke88 | 6,843
 672 | Kindly-Strawberry637 | 6,800
 673 | Knackebrodd | 6,683
