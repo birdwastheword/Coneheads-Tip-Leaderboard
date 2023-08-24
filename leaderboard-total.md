@@ -1,4 +1,4 @@
-Last updated: 23-08-24 07:30:54 UTC  
+Last updated: 23-08-24 07:40:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | avyun | 6,612,612
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 6,189,774
-18 | cutsickass | 6,078,493
+18 | cutsickass | 6,083,819
 19 | ashinamune | 5,725,838
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | Duskopia | 626,138
 103 | UniversalNoobMaster | 625,985
 104 | slirpo | 624,211
-105 | Westy3000 | 610,142
+105 | Westy3000 | 616,808
 106 | ID404_Not_Found_8964 | 606,150
 107 | firstmatedotxyz | 598,580
 108 | __PDS__ | 595,709
@@ -221,7 +221,7 @@ Rank | Username | Totals Tips
 218 | skollywag92 | 163,279
 219 | ultra_terrestrial | 162,922
 220 | DAMG808 | 158,694
-221 | Hot_Potato_Salad | 155,492
+221 | Hot_Potato_Salad | 155,561
 222 | 6reficul | 153,884
 223 | martymartinator | 152,560
 224 | sjakkpila | 152,031
@@ -527,9 +527,9 @@ Rank | Username | Totals Tips
 524 | Iiwip | 19,533
 525 | MalarkyD | 19,527
 526 | lookwhatumademedoo | 19,510
-527 | ipad_daps | 19,046
-528 | ___MOM___ | 18,853
-529 | Iulian_TechNewb | 18,065
+527 | Iulian_TechNewb | 19,402
+528 | ipad_daps | 19,046
+529 | ___MOM___ | 18,853
 530 | Collectibl3 | 18,024
 531 | 2620lukas | 17,837
 532 | augustsIippedaway | 17,739
