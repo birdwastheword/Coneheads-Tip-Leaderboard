@@ -1,4 +1,4 @@
-Last updated: 23-08-24 19:40:34 UTC  
+Last updated: 23-08-24 19:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | birdwastheword | 4,249,622
 29 | Puddin-Luv | 4,187,203
 30 | _ships | 4,106,814
-31 | IveDoneItAtLast | 3,974,354
+31 | IveDoneItAtLast | 3,980,362
 32 | VIVOffical | 3,937,100
 33 | clean_cut89 | 3,573,928
 34 | Permanent_WSB_Bull | 3,522,155
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | _Royal_Insylum | 2,603,787
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
-45 | ImAlekBan | 2,197,897
+45 | ImAlekBan | 2,200,560
 46 | GuyOne | 2,159,288
 47 | Autom4tic_Soze | 2,158,811
 48 | Fenrir-1919 | 2,073,740
@@ -107,7 +107,7 @@ Rank | Username | Totals Tips
 104 | Skank_cunt_42 | 626,162
 105 | UniversalNoobMaster | 625,985
 106 | slirpo | 624,211
-107 | ID404_Not_Found_8964 | 606,157
+107 | ID404_Not_Found_8964 | 606,162
 108 | firstmatedotxyz | 598,580
 109 | __PDS__ | 595,709
 110 | El_Gordone | 592,784
@@ -128,9 +128,9 @@ Rank | Username | Totals Tips
 125 | formidable-opponent | 449,977
 126 | dopelifer09 | 449,678
 127 | adrifing | 441,168
-128 | unhingedbigfoot | 439,874
-129 | Lady_Lucks_Man | 438,456
-130 | crodbtc | 437,692
+128 | crodbtc | 440,355
+129 | unhingedbigfoot | 439,874
+130 | Lady_Lucks_Man | 438,456
 131 | Mopeiooo | 427,266
 132 | dronegeeks1 | 414,406
 133 | RazPie | 411,328
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | thecrabdad | 256,177
 171 | Ambitious-Minimum-80 | 252,035
 172 | Sattack4000 | 250,837
-173 | Lillica_Golden_SHIB | 249,725
+173 | Lillica_Golden_SHIB | 250,001
 174 | Gregoryonetulum | 249,309
 175 | BeardedBro_ | 248,627
 176 | MadScientistTheFirst | 246,764
@@ -185,8 +185,8 @@ Rank | Username | Totals Tips
 182 | coolpattakers | 233,047
 183 | Extreme_Issue7325 | 232,538
 184 | superlonelyboy | 230,870
-185 | MisterM0H0 | 227,708
-186 | cannainform2 | 227,358
+185 | cannainform2 | 228,779
+186 | MisterM0H0 | 227,708
 187 | joeviani | 226,028
 188 | MuhSound | 225,403
 189 | SourBeefHoop | 217,512
@@ -532,13 +532,13 @@ Rank | Username | Totals Tips
 529 | lookwhatumademedoo | 19,510
 530 | ipad_daps | 19,046
 531 | ___MOM___ | 18,853
-532 | Collectibl3 | 18,024
-533 | 2620lukas | 17,837
-534 | augustsIippedaway | 17,739
-535 | PRYCDaddy | 17,718
-536 | foreignGER | 17,681
-537 | omfglauren | 17,676
-538 | subredditlurker69 | 17,448
+532 | subredditlurker69 | 18,056
+533 | Collectibl3 | 18,024
+534 | 2620lukas | 17,837
+535 | augustsIippedaway | 17,739
+536 | PRYCDaddy | 17,718
+537 | foreignGER | 17,681
+538 | omfglauren | 17,676
 539 | masterassassin93 | 17,409
 540 | Steves1982 | 17,284
 541 | OutrageousStudy6752 | 17,087
