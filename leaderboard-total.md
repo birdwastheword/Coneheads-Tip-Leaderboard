@@ -1,7 +1,7 @@
-Last updated: 23-08-24 11:34:34 UTC  
+Last updated: 23-08-24 11:42:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 35,920,958
+1 | Bitdream200K | 35,947,588
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Puddin-Luv | 4,128,778
 29 | _ships | 4,080,181
 30 | VIVOffical | 3,927,100
-31 | IveDoneItAtLast | 3,924,808
+31 | IveDoneItAtLast | 3,926,420
 32 | clean_cut89 | 3,573,928
 33 | Permanent_WSB_Bull | 3,522,155
 34 | LuminousViper | 3,408,030
