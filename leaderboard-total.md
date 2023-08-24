@@ -1,4 +1,4 @@
-Last updated: 23-08-24 18:26:48 UTC  
+Last updated: 23-08-24 18:36:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,027,478
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,825,997
 52 | dealkhabari | 1,715,436
-53 | Ten-Mins-Late | 1,689,685
+53 | Ten-Mins-Late | 1,695,693
 54 | GooderZBK | 1,613,996
 55 | zdubs | 1,556,294
 56 | KONGXIANG | 1,526,459
@@ -188,7 +188,7 @@ Rank | Username | Totals Tips
 185 | MisterM0H0 | 227,708
 186 | joeviani | 226,028
 187 | MuhSound | 225,403
-188 | cannainform2 | 223,935
+188 | cannainform2 | 224,355
 189 | SourBeefHoop | 217,512
 190 | FluffyAspie | 215,519
 191 | alexthemay | 214,131
@@ -582,7 +582,7 @@ Rank | Username | Totals Tips
 579 | FixFull | 12,501
 580 | noah1754 | 12,435
 581 | wesleylyan | 12,257
-582 | Diamond_Hands420 | 12,165
+582 | Diamond_Hands420 | 12,234
 583 | bageren | 12,038
 584 | Weezthajuice | 12,007
 585 | gnarlypoop | 11,924
