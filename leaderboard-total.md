@@ -1,4 +1,4 @@
-Last updated: 23-08-24 04:42:47 UTC  
+Last updated: 23-08-24 04:51:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | WarmlyWacky | 462,118
 121 | MediaPrestigious8342 | 453,839
 122 | formidable-opponent | 448,423
-123 | Korean_Street_Pizza | 441,578
+123 | Korean_Street_Pizza | 444,241
 124 | adrifing | 441,168
 125 | unhingedbigfoot | 439,874
 126 | crodbtc | 437,692
