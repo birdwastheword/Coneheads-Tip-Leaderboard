@@ -1,11 +1,11 @@
-Last updated: 23-08-24 02:51:55 UTC  
+Last updated: 23-08-24 03:20:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 25,816,976
+5 | nakamo-toe | 25,819,639
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
@@ -17,8 +17,8 @@ Rank | Username | Totals Tips
 14 | transfermymoons | 6,844,002
 15 | avyun | 6,612,612
 16 | Geniuskills | 6,193,158
-17 | Real_Player_0 | 5,955,564
-18 | cutsickass | 5,918,671
+17 | cutsickass | 6,025,219
+18 | Real_Player_0 | 5,955,564
 19 | ashinamune | 5,580,839
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | redzrex | 4,383,519
 27 | birdwastheword | 4,246,890
 28 | Puddin-Luv | 4,113,452
-29 | _ships | 4,073,360
+29 | _ships | 4,076,023
 30 | VIVOffical | 3,927,100
 31 | IveDoneItAtLast | 3,919,482
 32 | clean_cut89 | 3,573,928
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | ImAlekBan | 2,172,502
 46 | GuyOne | 2,159,288
 47 | Autom4tic_Soze | 2,158,811
-48 | Fenrir-1919 | 2,067,198
+48 | Fenrir-1919 | 2,067,806
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,825,997
@@ -298,7 +298,7 @@ Rank | Username | Totals Tips
 295 | Clonkerz | 83,006
 296 | qwertywich | 82,147
 297 | standArtpluto | 82,100
-298 | AhhhUhmmm | 80,876
+298 | AhhhUhmmm | 80,945
 299 | mastermarvs | 80,384
 300 | Pwny_b0y | 79,447
 301 | diamondbored | 79,397
@@ -350,16 +350,16 @@ Rank | Username | Totals Tips
 347 | Bandit_005 | 56,303
 348 | chuloreddit | 55,878
 349 | imbarrydylan | 55,689
-350 | Bobocod | 55,420
-351 | orangesandonions | 55,238
-352 | Brandillio | 54,271
-353 | WarningKey6517 | 53,910
-354 | LX1070 | 53,855
-355 | meme_used | 53,516
-356 | Virtual-Wrangler5955 | 53,409
-357 | Astrochrono | 53,398
-358 | Jefe0457 | 53,368
-359 | xSkyFa11x | 52,937
+350 | xSkyFa11x | 55,600
+351 | Bobocod | 55,420
+352 | orangesandonions | 55,238
+353 | Brandillio | 54,271
+354 | WarningKey6517 | 53,910
+355 | LX1070 | 53,855
+356 | meme_used | 53,516
+357 | Virtual-Wrangler5955 | 53,409
+358 | Astrochrono | 53,398
+359 | Jefe0457 | 53,368
 360 | abbasabba2 | 52,647
 361 | Zezano | 52,610
 362 | ky0984 | 52,257
@@ -1085,7 +1085,8 @@ Rank | Username | Totals Tips
 1082 | jellodoses69 | 10
 1083 | mercredimedia | 6
 1084 | GroovyIntruder | 3
-1085 | mango9574 | 1
-1086 | Skull0 | 1
-1087 | Skywalker_047 | 1
-1088 | Park_With_No_S | 1
+1085 | Prestigious-Expert15 | 1
+1086 | mango9574 | 1
+1087 | Skull0 | 1
+1088 | Skywalker_047 | 1
+1089 | Park_With_No_S | 1
