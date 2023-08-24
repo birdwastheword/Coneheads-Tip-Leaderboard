@@ -1,4 +1,4 @@
-Last updated: 23-08-24 06:27:49 UTC  
+Last updated: 23-08-24 06:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | ImAlekBan | 2,197,828
 46 | GuyOne | 2,159,288
 47 | Autom4tic_Soze | 2,158,811
-48 | Fenrir-1919 | 2,067,806
+48 | Fenrir-1919 | 2,070,469
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,825,997
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | Richicash | 1,173,866
 66 | Feetfailmenot | 1,151,105
 67 | beastlybaker | 1,138,281
-68 | investigator100 | 1,074,196
+68 | investigator100 | 1,074,704
 69 | freechickens | 1,028,317
 70 | avatarbot | 1,027,000
 71 | djrcollectables | 1,022,530
