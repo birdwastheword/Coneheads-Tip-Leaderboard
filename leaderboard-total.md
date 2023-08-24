@@ -1,16 +1,16 @@
-Last updated: 23-08-24 15:23:24 UTC  
+Last updated: 23-08-24 15:32:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,027,478
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,185,220
+5 | nakamo-toe | 26,194,582
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
 9 | HODL-THE-LINE | 11,920,100
-10 | Parush9 | 11,256,667
+10 | Parush9 | 11,261,636
 11 | SammyCraigar | 8,877,414
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
@@ -106,7 +106,7 @@ Rank | Username | Totals Tips
 103 | Skank_cunt_42 | 626,162
 104 | UniversalNoobMaster | 625,985
 105 | slirpo | 624,211
-106 | ID404_Not_Found_8964 | 606,150
+106 | ID404_Not_Found_8964 | 606,152
 107 | firstmatedotxyz | 598,580
 108 | __PDS__ | 595,709
 109 | El_Gordone | 592,784
@@ -187,7 +187,7 @@ Rank | Username | Totals Tips
 184 | MisterM0H0 | 227,708
 185 | joeviani | 226,028
 186 | MuhSound | 225,403
-187 | cannainform2 | 217,520
+187 | cannainform2 | 218,521
 188 | SourBeefHoop | 217,512
 189 | FluffyAspie | 215,450
 190 | alexthemay | 214,131
@@ -338,10 +338,10 @@ Rank | Username | Totals Tips
 335 | shellystarzz | 62,318
 336 | 1ndy1 | 62,120
 337 | KrunchyKushKing | 61,532
-338 | TheD1ceMan | 60,541
-339 | 192000Hertz | 60,301
-340 | lucrica | 59,987
-341 | Iulian_TechNewb | 59,822
+338 | Iulian_TechNewb | 61,159
+339 | TheD1ceMan | 60,541
+340 | 192000Hertz | 60,301
+341 | lucrica | 59,987
 342 | Big-Ticket1506 | 59,666
 343 | -geek | 59,318
 344 | Heycheckthisout20 | 59,182
