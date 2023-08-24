@@ -1,4 +1,4 @@
-Last updated: 23-08-24 14:34:04 UTC  
+Last updated: 23-08-24 14:42:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,027,478
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,303,115
 37 | Dry_Badger_2403 | 3,193,857
 38 | LordBobTheWhale | 3,063,646
-39 | thom_orrow | 2,754,334
+39 | thom_orrow | 2,776,997
 40 | Mean_Bandicoot_7481 | 2,748,882
 41 | _Royal_Insylum | 2,603,787
 42 | SpookySYN | 2,597,179
@@ -171,8 +171,8 @@ Rank | Username | Totals Tips
 168 | thecrabdad | 256,177
 169 | Ambitious-Minimum-80 | 252,035
 170 | Sattack4000 | 250,837
-171 | Gregoryonetulum | 249,309
-172 | Lillica_Golden_SHIB | 248,960
+171 | Lillica_Golden_SHIB | 249,380
+172 | Gregoryonetulum | 249,309
 173 | BeardedBro_ | 248,627
 174 | MadScientistTheFirst | 246,764
 175 | thestonkinator | 246,260
@@ -186,7 +186,7 @@ Rank | Username | Totals Tips
 183 | MisterM0H0 | 227,708
 184 | joeviani | 226,028
 185 | MuhSound | 225,403
-186 | superlonelyboy | 223,393
+186 | superlonelyboy | 223,901
 187 | cannainform2 | 217,520
 188 | SourBeefHoop | 217,512
 189 | FluffyAspie | 215,450
