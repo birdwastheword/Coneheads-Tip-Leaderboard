@@ -1,11 +1,11 @@
-Last updated: 23-08-24 06:50:40 UTC  
+Last updated: 23-08-24 07:17:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,094,639
+5 | nakamo-toe | 26,098,418
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
@@ -18,8 +18,8 @@ Rank | Username | Totals Tips
 15 | avyun | 6,612,612
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 6,189,774
-18 | cutsickass | 6,051,856
-19 | ashinamune | 5,723,175
+18 | cutsickass | 6,078,493
+19 | ashinamune | 5,725,838
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
 22 | thelonliestcrowd | 4,663,528
@@ -221,7 +221,7 @@ Rank | Username | Totals Tips
 218 | ultra_terrestrial | 162,922
 219 | Most_Being_4002 | 161,259
 220 | DAMG808 | 158,694
-221 | Hot_Potato_Salad | 155,423
+221 | Hot_Potato_Salad | 155,492
 222 | 6reficul | 153,884
 223 | martymartinator | 152,560
 224 | sjakkpila | 152,031
@@ -377,9 +377,9 @@ Rank | Username | Totals Tips
 374 | Dolce_00 | 48,263
 375 | CryptoScamee42069 | 47,454
 376 | Outside-Wolf5928 | 47,433
-377 | mofayew | 46,840
-378 | shredslanding | 46,650
-379 | hey_barry | 46,513
+377 | hey_barry | 46,933
+378 | mofayew | 46,840
+379 | shredslanding | 46,650
 380 | DeanDeanington | 45,844
 381 | Drlitez | 45,436
 382 | NickkyDC | 45,379
