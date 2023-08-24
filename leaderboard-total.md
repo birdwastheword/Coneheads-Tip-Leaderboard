@@ -1,11 +1,11 @@
-Last updated: 23-08-24 07:40:34 UTC  
+Last updated: 23-08-24 07:50:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,098,418
+5 | nakamo-toe | 26,127,711
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | avyun | 6,612,612
 16 | Geniuskills | 6,193,158
 17 | Real_Player_0 | 6,189,774
-18 | cutsickass | 6,083,819
+18 | cutsickass | 6,093,819
 19 | ashinamune | 5,725,838
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
@@ -40,7 +40,7 @@ Rank | Username | Totals Tips
 37 | Dry_Badger_2403 | 3,193,857
 38 | LordBobTheWhale | 3,063,646
 39 | Mean_Bandicoot_7481 | 2,748,882
-40 | thom_orrow | 2,741,019
+40 | thom_orrow | 2,743,682
 41 | _Royal_Insylum | 2,603,787
 42 | SpookySYN | 2,597,179
 43 | send420nudes | 2,451,237
@@ -361,12 +361,12 @@ Rank | Username | Totals Tips
 358 | Virtual-Wrangler5955 | 53,409
 359 | Astrochrono | 53,398
 360 | Jefe0457 | 53,368
-361 | abbasabba2 | 52,647
-362 | Zezano | 52,610
-363 | ky0984 | 52,257
-364 | ConeHead710 | 52,012
-365 | lucivaryas | 51,420
-366 | S2K08 | 50,857
+361 | S2K08 | 52,773
+362 | abbasabba2 | 52,647
+363 | Zezano | 52,610
+364 | ky0984 | 52,257
+365 | ConeHead710 | 52,012
+366 | lucivaryas | 51,420
 367 | Creative_Ad7831 | 50,326
 368 | CHEROKEEJ4CK | 49,878
 369 | eatthebagels | 49,692
