@@ -1,4 +1,4 @@
-Last updated: 23-08-24 10:50:43 UTC  
+Last updated: 23-08-24 11:00:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,920,958
@@ -166,14 +166,14 @@ Rank | Username | Totals Tips
 163 | dinoyeti | 272,765
 164 | Flimsy_Brilliant_239 | 265,592
 165 | SetoXlll | 264,290
-166 | noface_reddit | 258,646
+166 | noface_reddit | 262,846
 167 | _Mitchee_ | 257,664
 168 | thecrabdad | 256,177
 169 | Ambitious-Minimum-80 | 252,035
 170 | Sattack4000 | 250,837
 171 | Gregoryonetulum | 249,309
-172 | BeardedBro_ | 248,627
-173 | Lillica_Golden_SHIB | 248,264
+172 | Lillica_Golden_SHIB | 248,822
+173 | BeardedBro_ | 248,627
 174 | MadScientistTheFirst | 246,764
 175 | thestonkinator | 246,260
 176 | Dripbot8 | 245,384
