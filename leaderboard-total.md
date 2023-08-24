@@ -1,4 +1,4 @@
-Last updated: 23-08-24 09:19:32 UTC  
+Last updated: 23-08-24 09:30:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,920,958
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,303,115
 37 | Dry_Badger_2403 | 3,193,857
 38 | LordBobTheWhale | 3,063,646
-39 | thom_orrow | 2,749,008
+39 | thom_orrow | 2,751,671
 40 | Mean_Bandicoot_7481 | 2,748,882
 41 | _Royal_Insylum | 2,603,787
 42 | SpookySYN | 2,597,179
@@ -48,17 +48,17 @@ Rank | Username | Totals Tips
 45 | ImAlekBan | 2,197,828
 46 | GuyOne | 2,159,288
 47 | Autom4tic_Soze | 2,158,811
-48 | Fenrir-1919 | 2,070,469
+48 | Fenrir-1919 | 2,071,077
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,825,997
-52 | dealkhabari | 1,715,229
+52 | dealkhabari | 1,715,436
 53 | Ten-Mins-Late | 1,689,685
 54 | GooderZBK | 1,613,996
 55 | zdubs | 1,555,451
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
-58 | DontLaughArt | 1,465,355
+58 | DontLaughArt | 1,465,669
 59 | evilninjarobot | 1,412,435
 60 | isthistomorrow_ | 1,281,016
 61 | CMDRGlamdring | 1,233,243
@@ -116,7 +116,7 @@ Rank | Username | Totals Tips
 113 | scientifichistorian | 539,560
 114 | shreyaskg | 538,211
 115 | f0n1xr131ng | 509,681
-116 | junkwatch | 507,316
+116 | junkwatch | 507,385
 117 | Allions1 | 503,528
 118 | MorrisBrett514 | 503,396
 119 | Successful-Walk-3902 | 497,766
@@ -210,10 +210,10 @@ Rank | Username | Totals Tips
 207 | nooobmaester69 | 183,460
 208 | ruccarucca | 179,850
 209 | Heclalava | 177,615
-210 | YourThighsWarmMyEars | 172,697
-211 | Street_Addd | 171,939
-212 | MymannosaurusRex | 171,317
-213 | Final-Scar-941 | 168,055
+210 | Final-Scar-941 | 172,919
+211 | YourThighsWarmMyEars | 172,697
+212 | Street_Addd | 171,939
+213 | MymannosaurusRex | 171,317
 214 | high5s_inureye | 167,388
 215 | DamnWhySoLow | 166,675
 216 | Most_Being_4002 | 166,585
