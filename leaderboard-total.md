@@ -1,11 +1,11 @@
-Last updated: 23-08-24 02:26:58 UTC  
+Last updated: 23-08-24 02:35:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 25,764,453
+5 | nakamo-toe | 25,791,083
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | HODL-THE-LINE | 11,920,100
@@ -128,7 +128,7 @@ Rank | Username | Totals Tips
 125 | crodbtc | 437,692
 126 | Korean_Street_Pizza | 436,252
 127 | Lady_Lucks_Man | 435,793
-128 | dopelifer09 | 429,026
+128 | dopelifer09 | 434,352
 129 | Mopeiooo | 427,266
 130 | dronegeeks1 | 414,406
 131 | RazPie | 411,328
