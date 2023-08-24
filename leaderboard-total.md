@@ -1,16 +1,16 @@
-Last updated: 23-08-24 13:51:02 UTC  
+Last updated: 23-08-24 14:25:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,000,848
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,133,037
+5 | nakamo-toe | 26,156,267
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
 9 | HODL-THE-LINE | 11,920,100
-10 | Parush9 | 11,124,676
+10 | Parush9 | 11,142,339
 11 | SammyCraigar | 8,877,414
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | birdwastheword | 4,246,959
 28 | Puddin-Luv | 4,147,419
 29 | _ships | 4,106,814
-30 | VIVOffical | 3,927,100
+30 | VIVOffical | 3,937,100
 31 | IveDoneItAtLast | 3,926,420
 32 | clean_cut89 | 3,573,928
 33 | Permanent_WSB_Bull | 3,522,155
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,303,115
 37 | Dry_Badger_2403 | 3,193,857
 38 | LordBobTheWhale | 3,063,646
-39 | thom_orrow | 2,751,671
+39 | thom_orrow | 2,754,334
 40 | Mean_Bandicoot_7481 | 2,748,882
 41 | _Royal_Insylum | 2,603,787
 42 | SpookySYN | 2,597,179
@@ -119,7 +119,7 @@ Rank | Username | Totals Tips
 116 | f0n1xr131ng | 509,681
 117 | MorrisBrett514 | 503,816
 118 | Allions1 | 503,528
-119 | Successful-Walk-3902 | 497,766
+119 | Successful-Walk-3902 | 498,374
 120 | sinlesco | 462,490
 121 | WarmlyWacky | 462,118
 122 | MediaPrestigious8342 | 453,839
@@ -165,8 +165,8 @@ Rank | Username | Totals Tips
 162 | deedopete | 277,247
 163 | dinoyeti | 272,765
 164 | Flimsy_Brilliant_239 | 265,592
-165 | SetoXlll | 264,290
-166 | noface_reddit | 262,846
+165 | noface_reddit | 265,509
+166 | SetoXlll | 264,290
 167 | _Mitchee_ | 257,664
 168 | thecrabdad | 256,177
 169 | Ambitious-Minimum-80 | 252,035
@@ -221,7 +221,7 @@ Rank | Username | Totals Tips
 218 | skollywag92 | 163,279
 219 | ultra_terrestrial | 162,922
 220 | DAMG808 | 160,518
-221 | Hot_Potato_Salad | 155,981
+221 | Hot_Potato_Salad | 156,050
 222 | 6reficul | 153,884
 223 | martymartinator | 152,560
 224 | sjakkpila | 152,031
@@ -400,8 +400,8 @@ Rank | Username | Totals Tips
 397 | acfranks | 41,442
 398 | 4gsboofd | 41,377
 399 | ZoomLong | 41,251
-400 | ARoyaleWithCheese | 41,000
-401 | HodLMania | 40,949
+400 | HodLMania | 41,087
+401 | ARoyaleWithCheese | 41,000
 402 | halfavocadoemoji | 40,688
 403 | Expensive_Being_4038 | 40,558
 404 | matdabom | 40,068
@@ -466,8 +466,8 @@ Rank | Username | Totals Tips
 463 | hvefe | 28,005
 464 | Fomo- | 28,000
 465 | madisonfm | 27,934
-466 | Jo2Bax | 27,820
-467 | skatistic | 27,811
+466 | skatistic | 27,880
+467 | Jo2Bax | 27,820
 468 | ikiyen | 27,500
 469 | Motor-breath8 | 27,284
 470 | Sparrow | 27,214
@@ -582,9 +582,9 @@ Rank | Username | Totals Tips
 579 | FixFull | 12,501
 580 | noah1754 | 12,435
 581 | wesleylyan | 12,257
-582 | bageren | 12,038
-583 | Weezthajuice | 12,007
-584 | Diamond_Hands420 | 11,958
+582 | Diamond_Hands420 | 12,096
+583 | bageren | 12,038
+584 | Weezthajuice | 12,007
 585 | gnarlypoop | 11,924
 586 | charlythesecond | 11,794
 587 | Hofmaurerad | 11,711
