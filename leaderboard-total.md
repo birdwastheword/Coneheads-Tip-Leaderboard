@@ -1,11 +1,11 @@
-Last updated: 23-08-24 16:41:08 UTC  
+Last updated: 23-08-24 16:51:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,027,478
 2 | Wonderful_Bad6531 | 34,312,203
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,271,252
+5 | nakamo-toe | 26,273,915
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
@@ -278,10 +278,10 @@ Rank | Username | Totals Tips
 275 | beanwiggin420 | 96,933
 276 | IOTA_Tesla | 96,607
 277 | BrendanTFirefly | 95,347
-278 | Jadenindubai | 94,113
-279 | wolfman333 | 93,566
-280 | H3adshotfox77 | 92,575
-281 | DeanDeanington | 91,959
+278 | DeanDeanington | 94,622
+279 | Jadenindubai | 94,113
+280 | wolfman333 | 93,566
+281 | H3adshotfox77 | 92,575
 282 | CrossPuffs | 91,641
 283 | urlz | 91,281
 284 | DramaticProtogen | 90,274
@@ -400,7 +400,7 @@ Rank | Username | Totals Tips
 397 | acfranks | 41,442
 398 | 4gsboofd | 41,377
 399 | ZoomLong | 41,251
-400 | HodLMania | 41,087
+400 | HodLMania | 41,111
 401 | ARoyaleWithCheese | 41,000
 402 | halfavocadoemoji | 40,688
 403 | Expensive_Being_4038 | 40,558
