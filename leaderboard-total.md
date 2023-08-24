@@ -1,4 +1,4 @@
-Last updated: 23-08-24 04:34:37 UTC  
+Last updated: 23-08-24 04:42:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 35,918,295
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ashinamune | 5,723,175
 20 | HippieStarTraveler | 5,228,041
 21 | 8inchConer | 4,947,480
-22 | thelonliestcrowd | 4,630,811
+22 | thelonliestcrowd | 4,636,891
 23 | rikbona | 4,539,773
 24 | bigbilly1234567899 | 4,496,042
 25 | Ginomania | 4,391,483
@@ -115,7 +115,7 @@ Rank | Username | Totals Tips
 112 | scientifichistorian | 539,560
 113 | shreyaskg | 538,211
 114 | f0n1xr131ng | 509,681
-115 | junkwatch | 507,247
+115 | junkwatch | 507,316
 116 | Allions1 | 503,528
 117 | MorrisBrett514 | 503,396
 118 | Successful-Walk-3902 | 497,766
@@ -123,10 +123,10 @@ Rank | Username | Totals Tips
 120 | WarmlyWacky | 462,118
 121 | MediaPrestigious8342 | 453,839
 122 | formidable-opponent | 448,423
-123 | adrifing | 441,168
-124 | unhingedbigfoot | 439,874
-125 | crodbtc | 437,692
-126 | Korean_Street_Pizza | 436,252
+123 | Korean_Street_Pizza | 441,578
+124 | adrifing | 441,168
+125 | unhingedbigfoot | 439,874
+126 | crodbtc | 437,692
 127 | Lady_Lucks_Man | 435,793
 128 | dopelifer09 | 434,352
 129 | Mopeiooo | 427,266
