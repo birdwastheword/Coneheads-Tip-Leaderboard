@@ -1,4 +1,4 @@
-Last updated: 23-08-25 19:50:46 UTC  
+Last updated: 23-08-25 20:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,279,269
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | DontLaughArt | 1,469,606
 59 | evilninjarobot | 1,436,358
 60 | isthistomorrow_ | 1,350,016
-61 | CMDRGlamdring | 1,233,312
+61 | CMDRGlamdring | 1,233,381
 62 | revdrgonzo | 1,232,551
 63 | saintajoras | 1,197,343
 64 | HestiaIsTheBestia | 1,188,046
@@ -356,8 +356,8 @@ Rank | Username | Totals Tips
 353 | phrodreky | 57,984
 354 | Outrageous_Storm6537 | 56,938
 355 | BitCone_CONE | 56,760
-356 | Bandit_005 | 56,303
-357 | ElmerBlack | 56,161
+356 | ElmerBlack | 56,581
+357 | Bandit_005 | 56,303
 358 | chuloreddit | 55,878
 359 | imbarrydylan | 55,689
 360 | Bobocod | 55,420
