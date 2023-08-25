@@ -1,4 +1,4 @@
-Last updated: 23-08-25 11:16:42 UTC  
+Last updated: 23-08-25 11:24:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,236,661
@@ -180,7 +180,7 @@ Rank | Username | Totals Tips
 177 | BeardedBro_ | 248,627
 178 | thestonkinator | 246,260
 179 | Dripbot8 | 245,384
-180 | SnooMacarons9203 | 243,810
+180 | SnooMacarons9203 | 244,230
 181 | tjex666 | 240,801
 182 | coolpattakers | 235,710
 183 | Zalkwalker | 235,069
