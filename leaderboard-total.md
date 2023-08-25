@@ -1,4 +1,4 @@
-Last updated: 23-08-25 21:50:53 UTC  
+Last updated: 23-08-25 22:00:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,279,269
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | rustyybikes | 4,263,025
 29 | Puddin-Luv | 4,234,976
 30 | _ships | 4,184,129
-31 | IveDoneItAtLast | 4,007,754
+31 | IveDoneItAtLast | 4,015,512
 32 | VIVOffical | 3,937,948
 33 | clean_cut89 | 3,573,997
 34 | Permanent_WSB_Bull | 3,522,155
@@ -216,8 +216,8 @@ Rank | Username | Totals Tips
 213 | Final-Scar-941 | 172,919
 214 | YourThighsWarmMyEars | 172,697
 215 | Street_Addd | 171,939
-216 | MymannosaurusRex | 171,317
-217 | fettskull | 169,040
+216 | fettskull | 171,703
+217 | MymannosaurusRex | 171,317
 218 | high5s_inureye | 167,388
 219 | DamnWhySoLow | 166,675
 220 | MelonFarmer420 | 164,196
