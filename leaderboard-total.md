@@ -1,4 +1,4 @@
-Last updated: 23-08-25 09:40:33 UTC  
+Last updated: 23-08-25 09:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,210,031
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,403,115
 37 | Dry_Badger_2403 | 3,193,857
 38 | LordBobTheWhale | 3,064,254
-39 | thom_orrow | 2,806,997
+39 | thom_orrow | 2,816,997
 40 | Mean_Bandicoot_7481 | 2,749,445
 41 | SpookySYN | 2,649,832
 42 | _Royal_Insylum | 2,603,787
@@ -220,9 +220,9 @@ Rank | Username | Totals Tips
 217 | high5s_inureye | 167,388
 218 | DamnWhySoLow | 166,675
 219 | MelonFarmer420 | 164,196
-220 | ultra_terrestrial | 163,342
-221 | skollywag92 | 163,279
-222 | fettskull | 161,051
+220 | fettskull | 163,714
+221 | ultra_terrestrial | 163,342
+222 | skollywag92 | 163,279
 223 | DAMG808 | 160,518
 224 | 6reficul | 153,884
 225 | martymartinator | 152,560
@@ -517,11 +517,11 @@ Rank | Username | Totals Tips
 514 | RamboBalboa21 | 21,083
 515 | shootingeagleyt | 20,611
 516 | foreignGER | 20,482
-517 | -Boxen | 20,420
-518 | Flat_Opportunity_340 | 20,420
-519 | DLPD-Camko | 20,377
-520 | Bear-Bull-Pig | 20,161
-521 | mihii12 | 20,049
+517 | mihii12 | 20,469
+518 | -Boxen | 20,420
+519 | Flat_Opportunity_340 | 20,420
+520 | DLPD-Camko | 20,377
+521 | Bear-Bull-Pig | 20,161
 522 | NoahG59 | 20,002
 523 | Arash_Rezae | 20,000
 524 | maliplazi | 20,000
