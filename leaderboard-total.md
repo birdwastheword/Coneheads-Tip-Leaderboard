@@ -1,7 +1,7 @@
-Last updated: 23-08-25 15:40:46 UTC  
+Last updated: 23-08-25 15:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 36,239,324
+1 | Bitdream200K | 36,265,954
 2 | Wonderful_Bad6531 | 34,315,543
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
 58 | DontLaughArt | 1,469,606
-59 | evilninjarobot | 1,428,369
+59 | evilninjarobot | 1,431,032
 60 | isthistomorrow_ | 1,281,016
 61 | CMDRGlamdring | 1,233,312
 62 | revdrgonzo | 1,232,551
@@ -87,8 +87,8 @@ Rank | Username | Totals Tips
 84 | vbutarin | 802,000
 85 | ashketchup422 | 794,067
 86 | ziggybri | 782,435
-87 | RegalReptile_ | 748,208
-88 | Cravensworth_redux | 730,803
+87 | Cravensworth_redux | 750,803
+88 | RegalReptile_ | 748,208
 89 | billywright4 | 727,550
 90 | starterpack420694 | 710,420
 91 | WarmIyWacky | 703,049
@@ -174,7 +174,7 @@ Rank | Username | Totals Tips
 171 | thecrabdad | 256,177
 172 | Ambitious-Minimum-80 | 252,035
 173 | Sattack4000 | 250,837
-174 | Lillica_Golden_SHIB | 250,484
+174 | Lillica_Golden_SHIB | 250,622
 175 | MadScientistTheFirst | 249,847
 176 | Gregoryonetulum | 249,309
 177 | BeardedBro_ | 248,627
@@ -219,8 +219,8 @@ Rank | Username | Totals Tips
 216 | MymannosaurusRex | 171,317
 217 | high5s_inureye | 167,388
 218 | DamnWhySoLow | 166,675
-219 | MelonFarmer420 | 164,196
-220 | fettskull | 163,714
+219 | fettskull | 166,377
+220 | MelonFarmer420 | 164,196
 221 | ultra_terrestrial | 163,342
 222 | skollywag92 | 163,279
 223 | DAMG808 | 160,518
@@ -341,7 +341,7 @@ Rank | Username | Totals Tips
 338 | 1ndy1 | 62,120
 339 | Chill_Edoeard | 61,701
 340 | KrunchyKushKing | 61,532
-341 | Iulian_TechNewb | 61,228
+341 | Iulian_TechNewb | 61,229
 342 | TheD1ceMan | 60,541
 343 | 192000Hertz | 60,301
 344 | lucrica | 59,987
@@ -435,8 +435,8 @@ Rank | Username | Totals Tips
 432 | GuronT | 35,561
 433 | TRANZHUMANIST | 35,000
 434 | skatistic | 34,849
-435 | BelowAveIntelligence | 34,132
-436 | FalloutAssasin | 34,104
+435 | FalloutAssasin | 34,794
+436 | BelowAveIntelligence | 34,132
 437 | TummyLice | 33,809
 438 | Obvious-Ask-5747 | 33,806
 439 | PoDunkYuppie | 33,513
