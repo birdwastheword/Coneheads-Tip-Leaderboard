@@ -1,4 +1,4 @@
-Last updated: 23-08-25 14:24:23 UTC  
+Last updated: 23-08-25 14:33:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,239,324
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | LordBobTheWhale | 3,064,862
 39 | thom_orrow | 2,824,986
 40 | Mean_Bandicoot_7481 | 2,752,108
-41 | SpookySYN | 2,649,832
+41 | SpookySYN | 2,726,452
 42 | _Royal_Insylum | 2,603,787
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
@@ -138,7 +138,7 @@ Rank | Username | Totals Tips
 135 | RazPie | 413,991
 136 | LrnFaroeseWthBergur | 409,488
 137 | Creepy-Nectarine-225 | 386,281
-138 | Crypto-4-Freedom | 379,955
+138 | Crypto-4-Freedom | 380,375
 139 | SHIFTY-T3RROR | 377,457
 140 | zenhodl | 374,566
 141 | hellosamaira | 373,235
@@ -198,7 +198,7 @@ Rank | Username | Totals Tips
 195 | SigSalvadore | 212,358
 196 | UWphoto | 209,795
 197 | the_judge_168 | 208,455
-198 | Significant_Talk4943 | 207,399
+198 | Significant_Talk4943 | 207,819
 199 | ziggyback | 203,369
 200 | Ashamed_Raccoon9918 | 203,195
 201 | Esco1980 | 201,771
