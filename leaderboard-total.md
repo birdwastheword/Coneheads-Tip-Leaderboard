@@ -1,4 +1,4 @@
-Last updated: 23-08-25 08:26:39 UTC  
+Last updated: 23-08-25 08:35:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,210,031
@@ -40,7 +40,7 @@ Rank | Username | Totals Tips
 37 | Dry_Badger_2403 | 3,193,857
 38 | LordBobTheWhale | 3,064,254
 39 | thom_orrow | 2,806,997
-40 | Mean_Bandicoot_7481 | 2,748,882
+40 | Mean_Bandicoot_7481 | 2,749,445
 41 | SpookySYN | 2,649,832
 42 | _Royal_Insylum | 2,603,787
 43 | send420nudes | 2,451,237
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | Richicash | 1,179,192
 66 | Feetfailmenot | 1,151,105
 67 | beastlybaker | 1,138,281
-68 | djrcollectables | 1,105,152
+68 | djrcollectables | 1,110,478
 69 | investigator100 | 1,074,704
 70 | freechickens | 1,028,317
 71 | avatarbot | 1,027,000
@@ -121,7 +121,7 @@ Rank | Username | Totals Tips
 118 | MorrisBrett514 | 504,863
 119 | Allions1 | 503,528
 120 | Successful-Walk-3902 | 498,374
-121 | dopelifer09 | 480,981
+121 | dopelifer09 | 483,644
 122 | sinlesco | 462,490
 123 | WarmlyWacky | 462,118
 124 | Korean_Street_Pizza | 460,230
