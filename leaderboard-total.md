@@ -1,11 +1,11 @@
-Last updated: 23-08-25 05:25:31 UTC  
+Last updated: 23-08-25 05:34:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
 2 | Wonderful_Bad6531 | 34,312,811
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,318,269
+5 | nakamo-toe | 26,323,595
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,205,147
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | rustyybikes | 4,263,025
 28 | birdwastheword | 4,252,705
 29 | Puddin-Luv | 4,226,987
-30 | _ships | 4,177,997
+30 | _ships | 4,181,466
 31 | IveDoneItAtLast | 3,996,296
 32 | VIVOffical | 3,937,100
 33 | clean_cut89 | 3,573,928
@@ -261,9 +261,9 @@ Rank | Username | Totals Tips
 258 | flying_bacon | 111,860
 259 | adrefofadre | 111,817
 260 | BitcoinRefuge | 111,112
-261 | PushyDevolution | 110,216
-262 | Strong_Constant_1190 | 109,517
-263 | CaptainCheeseCake | 108,012
+261 | CaptainCheeseCake | 110,665
+262 | PushyDevolution | 110,216
+263 | Strong_Constant_1190 | 109,517
 264 | DeanDeanington | 107,937
 265 | Kevin3683 | 107,109
 266 | Jlt42000 | 107,091
