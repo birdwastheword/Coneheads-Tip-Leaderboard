@@ -1,11 +1,11 @@
-Last updated: 23-08-25 17:41:55 UTC  
+Last updated: 23-08-25 17:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,268,617
 2 | Wonderful_Bad6531 | 34,315,543
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,454,304
+5 | nakamo-toe | 26,480,934
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,239,810
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 7,844,002
-15 | cutsickass | 7,028,892
+15 | cutsickass | 7,082,166
 16 | avyun | 6,794,046
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,190,382
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,403,115
 37 | Dry_Badger_2403 | 3,193,857
 38 | LordBobTheWhale | 3,064,862
-39 | thom_orrow | 2,917,522
+39 | thom_orrow | 2,954,142
 40 | Mean_Bandicoot_7481 | 2,752,108
 41 | SpookySYN | 2,726,452
 42 | _Royal_Insylum | 2,603,787
@@ -263,10 +263,10 @@ Rank | Username | Totals Tips
 260 | adrefofadre | 111,817
 261 | BitcoinRefuge | 111,112
 262 | CaptainCheeseCake | 110,665
-263 | PushyDevolution | 110,216
-264 | Kevin3683 | 109,772
-265 | Strong_Constant_1190 | 109,517
-266 | DeanDeanington | 107,937
+263 | DeanDeanington | 110,600
+264 | PushyDevolution | 110,216
+265 | Kevin3683 | 109,772
+266 | Strong_Constant_1190 | 109,517
 267 | Jlt42000 | 107,091
 268 | AD_VICTORIAM_x | 106,876
 269 | i_wake_up_at_12 | 106,333
