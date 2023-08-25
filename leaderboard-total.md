@@ -1,4 +1,4 @@
-Last updated: 23-08-25 20:22:27 UTC  
+Last updated: 23-08-25 20:30:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,279,269
@@ -476,7 +476,7 @@ Rank | Username | Totals Tips
 473 | kanem87 | 27,265
 474 | Sparrow | 27,214
 475 | sM0k3dR4Gn | 27,131
-476 | yahuurdme | 27,026
+476 | yahuurdme | 27,095
 477 | deltamoney | 26,987
 478 | BottleNcanClapUrHand | 26,658
 479 | DOGETHEEGOD | 26,580
@@ -975,16 +975,16 @@ Rank | Username | Totals Tips
 972 | RepresentativeNo4743 | 369
 973 | teyegurspoon | 345
 974 | DrChuckWhite | 344
-975 | Wise-Grapefruit-1443 | 311
-976 | MimirHinnVitru | 307
-977 | Formal-Way-4610 | 300
-978 | Asleep_Ambassador_66 | 277
-979 | xqpcy | 276
-980 | torontoglutton | 276
-981 | j3llyf1sh3y | 276
-982 | highlyregardedeth | 276
-983 | eddyxoxo | 276
-984 | SaberTurret | 275
+975 | SaberTurret | 344
+976 | Wise-Grapefruit-1443 | 311
+977 | MimirHinnVitru | 307
+978 | Formal-Way-4610 | 300
+979 | Asleep_Ambassador_66 | 277
+980 | xqpcy | 276
+981 | torontoglutton | 276
+982 | j3llyf1sh3y | 276
+983 | highlyregardedeth | 276
+984 | eddyxoxo | 276
 985 | Mr_Fresh83 | 269
 986 | CapnPratt | 260
 987 | VizeKarma | 241
