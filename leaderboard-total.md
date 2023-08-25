@@ -1,4 +1,4 @@
-Last updated: 23-08-25 15:30:53 UTC  
+Last updated: 23-08-25 15:40:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,239,324
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Puddin-Luv | 4,232,313
 30 | _ships | 4,184,129
 31 | IveDoneItAtLast | 4,007,754
-32 | VIVOffical | 3,937,100
+32 | VIVOffical | 3,937,948
 33 | clean_cut89 | 3,573,997
 34 | Permanent_WSB_Bull | 3,522,155
 35 | LuminousViper | 3,408,030
@@ -88,8 +88,8 @@ Rank | Username | Totals Tips
 85 | ashketchup422 | 794,067
 86 | ziggybri | 782,435
 87 | RegalReptile_ | 748,208
-88 | billywright4 | 727,550
-89 | Cravensworth_redux | 710,803
+88 | Cravensworth_redux | 730,803
+89 | billywright4 | 727,550
 90 | starterpack420694 | 710,420
 91 | WarmIyWacky | 703,049
 92 | Starterpack69420 | 696,969
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | piebagz | 661,815
 99 | Alanski22 | 656,861
 100 | Obi1eyeKenobi | 652,339
-101 | MartynDr | 651,420
+101 | MartynDr | 651,840
 102 | Westy3000 | 645,806
 103 | femacampcouncilor | 642,812
 104 | slirpo | 631,180
@@ -137,7 +137,7 @@ Rank | Username | Totals Tips
 134 | dronegeeks1 | 414,406
 135 | RazPie | 413,991
 136 | LrnFaroeseWthBergur | 409,488
-137 | Creepy-Nectarine-225 | 388,313
+137 | Creepy-Nectarine-225 | 389,003
 138 | Crypto-4-Freedom | 380,375
 139 | SHIFTY-T3RROR | 377,457
 140 | zenhodl | 374,566
