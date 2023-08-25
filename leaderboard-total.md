@@ -1,11 +1,11 @@
-Last updated: 23-08-25 15:21:04 UTC  
+Last updated: 23-08-25 15:30:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,239,324
 2 | Wonderful_Bad6531 | 34,315,543
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,363,540
+5 | nakamo-toe | 26,366,162
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,239,810
@@ -287,7 +287,7 @@ Rank | Username | Totals Tips
 284 | urlz | 91,281
 285 | DramaticProtogen | 90,274
 286 | Award-Bot | 90,000
-287 | customsolitaires | 88,355
+287 | customsolitaires | 88,963
 288 | Burzzzt88 | 88,151
 289 | HokkaidoNights | 88,108
 290 | ShopALF | 87,942
@@ -365,11 +365,11 @@ Rank | Username | Totals Tips
 362 | Brandillio | 54,271
 363 | WarningKey6517 | 53,910
 364 | LX1070 | 53,855
-365 | Virtual-Wrangler5955 | 53,409
-366 | Astrochrono | 53,398
-367 | Jefe0457 | 53,368
-368 | IHodlStill | 53,271
-369 | S2K08 | 52,773
+365 | S2K08 | 53,439
+366 | Virtual-Wrangler5955 | 53,409
+367 | Astrochrono | 53,398
+368 | Jefe0457 | 53,368
+369 | IHodlStill | 53,271
 370 | Zezano | 52,679
 371 | abbasabba2 | 52,647
 372 | ky0984 | 52,257
