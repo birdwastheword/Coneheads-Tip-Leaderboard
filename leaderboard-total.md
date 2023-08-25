@@ -1,4 +1,4 @@
-Last updated: 23-08-25 23:19:47 UTC  
+Last updated: 23-08-25 23:31:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,279,269
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,239,810
 9 | HODL-THE-LINE | 11,921,100
-10 | Parush9 | 11,909,786
+10 | Parush9 | 11,919,785
 11 | SammyCraigar | 8,933,945
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | _ships | 4,271,315
 29 | rustyybikes | 4,263,025
 30 | Puddin-Luv | 4,234,976
-31 | IveDoneItAtLast | 4,018,175
+31 | IveDoneItAtLast | 4,020,838
 32 | VIVOffical | 3,946,428
 33 | clean_cut89 | 3,573,997
 34 | Permanent_WSB_Bull | 3,522,155
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | LordBobTheWhale | 3,064,862
 39 | thom_orrow | 3,011,142
 40 | Mean_Bandicoot_7481 | 2,752,108
-41 | SpookySYN | 2,726,452
+41 | SpookySYN | 2,729,115
 42 | _Royal_Insylum | 2,603,787
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
@@ -221,7 +221,7 @@ Rank | Username | Totals Tips
 218 | high5s_inureye | 167,388
 219 | DamnWhySoLow | 166,675
 220 | MelonFarmer420 | 164,196
-221 | ultra_terrestrial | 163,342
+221 | ultra_terrestrial | 163,762
 222 | skollywag92 | 163,279
 223 | Adrewmc | 161,177
 224 | DAMG808 | 160,518
@@ -296,7 +296,7 @@ Rank | Username | Totals Tips
 293 | kwickle | 87,805
 294 | jurgensdapimp | 86,817
 295 | Mother-Werewolf185 | 85,579
-296 | ItailianStallion101 | 85,241
+296 | ItailianStallion101 | 85,342
 297 | qwertywich | 84,810
 298 | Puzzleheaded_Gift738 | 84,020
 299 | RollingSkull0 | 83,098
