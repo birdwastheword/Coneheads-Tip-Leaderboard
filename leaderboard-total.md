@@ -1,4 +1,4 @@
-Last updated: 23-08-25 18:52:06 UTC  
+Last updated: 23-08-25 19:14:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,276,606
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 7,844,002
-15 | cutsickass | 7,268,625
+15 | cutsickass | 7,348,536
 16 | avyun | 6,794,046
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,190,382
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | bray_martin03 | 1,518,175
 58 | DontLaughArt | 1,469,606
 59 | evilninjarobot | 1,436,358
-60 | isthistomorrow_ | 1,281,016
+60 | isthistomorrow_ | 1,350,016
 61 | CMDRGlamdring | 1,233,312
 62 | revdrgonzo | 1,232,551
 63 | saintajoras | 1,197,343
@@ -175,7 +175,7 @@ Rank | Username | Totals Tips
 172 | FluffyAspie | 252,939
 173 | Ambitious-Minimum-80 | 252,035
 174 | Sattack4000 | 250,837
-175 | Lillica_Golden_SHIB | 250,622
+175 | Lillica_Golden_SHIB | 250,760
 176 | MadScientistTheFirst | 249,847
 177 | Gregoryonetulum | 249,309
 178 | BeardedBro_ | 248,627
@@ -225,15 +225,15 @@ Rank | Username | Totals Tips
 222 | skollywag92 | 163,279
 223 | DAMG808 | 160,518
 224 | 6reficul | 153,884
-225 | martymartinator | 152,560
-226 | sjakkpila | 152,031
-227 | CoverYourMaskHoles | 151,719
-228 | NotFullyTerrestrial | 150,694
-229 | satoshi_oscar_wilde | 147,409
-230 | Sad_Entertainer9961 | 143,248
-231 | Lastkidpicked94 | 142,769
-232 | Doovs | 142,767
-233 | tmanfromEarth | 142,392
+225 | tmanfromEarth | 153,392
+226 | martymartinator | 152,560
+227 | sjakkpila | 152,031
+228 | CoverYourMaskHoles | 151,719
+229 | NotFullyTerrestrial | 150,694
+230 | satoshi_oscar_wilde | 147,409
+231 | Lastkidpicked94 | 145,432
+232 | Sad_Entertainer9961 | 143,248
+233 | Doovs | 142,767
 234 | SalliIsAFem | 140,361
 235 | luisantonio197 | 139,511
 236 | GrowinStuffAndThings | 137,461
