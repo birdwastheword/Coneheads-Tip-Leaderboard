@@ -1,4 +1,4 @@
-Last updated: 23-08-25 07:18:57 UTC  
+Last updated: 23-08-25 07:31:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | cutsickass | 6,867,681
 16 | avyun | 6,766,170
 17 | Geniuskills | 6,196,491
-18 | Real_Player_0 | 6,189,774
+18 | Real_Player_0 | 6,190,382
 19 | ashinamune | 5,745,978
 20 | HippieStarTraveler | 5,231,544
 21 | 8inchConer | 4,947,480
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | sinlesco | 462,490
 123 | WarmlyWacky | 462,118
 124 | Korean_Street_Pizza | 460,230
-125 | formidable-opponent | 458,531
+125 | formidable-opponent | 459,308
 126 | MediaPrestigious8342 | 453,839
 127 | Lady_Lucks_Man | 448,456
 128 | crodbtc | 445,681
