@@ -1,7 +1,7 @@
-Last updated: 23-08-25 17:50:45 UTC  
+Last updated: 23-08-25 18:26:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 36,268,617
+1 | Bitdream200K | 36,273,943
 2 | Wonderful_Bad6531 | 34,315,543
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
@@ -15,14 +15,14 @@ Rank | Username | Totals Tips
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 7,844,002
-15 | cutsickass | 7,082,166
+15 | cutsickass | 7,268,625
 16 | avyun | 6,794,046
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,190,382
 19 | ashinamune | 5,820,398
 20 | HippieStarTraveler | 5,231,544
 21 | 8inchConer | 4,947,480
-22 | thelonliestcrowd | 4,751,421
+22 | thelonliestcrowd | 4,751,841
 23 | rikbona | 4,539,773
 24 | bigbilly1234567899 | 4,496,042
 25 | Ginomania | 4,394,146
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,403,115
 37 | Dry_Badger_2403 | 3,193,857
 38 | LordBobTheWhale | 3,064,862
-39 | thom_orrow | 2,954,142
+39 | thom_orrow | 2,974,142
 40 | Mean_Bandicoot_7481 | 2,752,108
 41 | SpookySYN | 2,726,452
 42 | _Royal_Insylum | 2,603,787
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,825,997
-52 | dealkhabari | 1,716,652
+52 | dealkhabari | 1,726,652
 53 | Ten-Mins-Late | 1,706,113
 54 | zdubs | 1,629,257
 55 | GooderZBK | 1,613,996
@@ -87,7 +87,7 @@ Rank | Username | Totals Tips
 84 | vbutarin | 802,000
 85 | ashketchup422 | 794,067
 86 | ziggybri | 782,435
-87 | Cravensworth_redux | 770,803
+87 | Cravensworth_redux | 780,803
 88 | RegalReptile_ | 748,208
 89 | billywright4 | 727,550
 90 | starterpack420694 | 710,420
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | doktastonks | 421,325
 134 | dronegeeks1 | 414,406
 135 | RazPie | 413,991
-136 | Crypto-4-Freedom | 410,795
+136 | Crypto-4-Freedom | 411,215
 137 | LrnFaroeseWthBergur | 409,488
 138 | Creepy-Nectarine-225 | 389,003
 139 | SHIFTY-T3RROR | 377,457
@@ -162,7 +162,7 @@ Rank | Username | Totals Tips
 159 | VincentVanGTFO | 300,598
 160 | legionticket | 296,054
 161 | send_tacoz | 293,576
-162 | monkeybombed | 282,821
+162 | monkeybombed | 283,831
 163 | astro_nut_ | 280,463
 164 | maxfra | 279,459
 165 | deedopete | 277,247
@@ -197,8 +197,8 @@ Rank | Username | Totals Tips
 194 | Beenthorny | 212,362
 195 | SigSalvadore | 212,358
 196 | UWphoto | 209,795
-197 | the_judge_168 | 208,455
-198 | Significant_Talk4943 | 207,819
+197 | Significant_Talk4943 | 208,659
+198 | the_judge_168 | 208,455
 199 | ziggyback | 203,369
 200 | Ashamed_Raccoon9918 | 203,195
 201 | Esco1980 | 201,771
@@ -231,13 +231,13 @@ Rank | Username | Totals Tips
 228 | NotFullyTerrestrial | 150,694
 229 | satoshi_oscar_wilde | 147,409
 230 | Sad_Entertainer9961 | 143,248
-231 | Doovs | 142,767
-232 | tmanfromEarth | 140,892
-233 | SalliIsAFem | 140,361
-234 | luisantonio197 | 139,511
-235 | GrowinStuffAndThings | 137,461
-236 | Outrageous-Ad8481 | 137,001
-237 | Lastkidpicked94 | 134,754
+231 | Lastkidpicked94 | 142,769
+232 | Doovs | 142,767
+233 | tmanfromEarth | 140,892
+234 | SalliIsAFem | 140,361
+235 | luisantonio197 | 139,511
+236 | GrowinStuffAndThings | 137,461
+237 | Outrageous-Ad8481 | 137,001
 238 | MorrisWayne | 133,416
 239 | GoodMornEveGoodNight | 131,019
 240 | Legal-Appointment655 | 130,960
@@ -314,7 +314,7 @@ Rank | Username | Totals Tips
 311 | Admirito | 77,027
 312 | Derefringence | 76,675
 313 | xSkyFa11x | 76,569
-314 | XeroGrave | 76,090
+314 | XeroGrave | 76,510
 315 | BeefaloSlim | 75,182
 316 | MedicineMaterial3501 | 74,654
 317 | Diamond_PnutBrain | 73,199
@@ -340,9 +340,9 @@ Rank | Username | Totals Tips
 337 | meth43 | 62,596
 338 | Emeritux | 62,504
 339 | 1ndy1 | 62,120
-340 | Chill_Edoeard | 61,701
-341 | KrunchyKushKing | 61,532
-342 | Iulian_TechNewb | 61,229
+340 | Iulian_TechNewb | 61,895
+341 | Chill_Edoeard | 61,701
+342 | KrunchyKushKing | 61,532
 343 | TheD1ceMan | 60,541
 344 | 192000Hertz | 60,301
 345 | lucrica | 59,987
