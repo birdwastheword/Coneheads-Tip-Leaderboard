@@ -1,7 +1,7 @@
-Last updated: 23-08-25 07:50:40 UTC  
+Last updated: 23-08-25 08:26:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 36,180,738
+1 | Bitdream200K | 36,210,031
 2 | Wonderful_Bad6531 | 34,315,474
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 7,844,002
 15 | cutsickass | 6,867,681
-16 | avyun | 6,766,170
+16 | avyun | 6,780,108
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,190,382
 19 | ashinamune | 5,745,978
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | Richicash | 1,179,192
 66 | Feetfailmenot | 1,151,105
 67 | beastlybaker | 1,138,281
-68 | djrcollectables | 1,075,859
+68 | djrcollectables | 1,105,152
 69 | investigator100 | 1,074,704
 70 | freechickens | 1,028,317
 71 | avatarbot | 1,027,000
@@ -98,9 +98,9 @@ Rank | Username | Totals Tips
 95 | frickdom | 674,086
 96 | SKITZ_ZA | 673,394
 97 | piebagz | 661,815
-98 | Obi1eyeKenobi | 652,339
-99 | MartynDr | 651,420
-100 | Alanski22 | 649,892
+98 | Alanski22 | 656,861
+99 | Obi1eyeKenobi | 652,339
+100 | MartynDr | 651,420
 101 | Westy3000 | 645,806
 102 | femacampcouncilor | 642,812
 103 | slirpo | 631,180
@@ -149,7 +149,7 @@ Rank | Username | Totals Tips
 146 | anony666mous | 341,008
 147 | tsudrat | 340,707
 148 | YarOldeOrchard | 340,375
-149 | Hot_Potato_Salad | 339,163
+149 | Hot_Potato_Salad | 339,232
 150 | Tinman_ApE | 337,352
 151 | Lion-Hermit | 328,221
 152 | DogSpark84 | 321,862
@@ -198,7 +198,7 @@ Rank | Username | Totals Tips
 195 | SigSalvadore | 212,358
 196 | UWphoto | 209,795
 197 | the_judge_168 | 208,455
-198 | Significant_Talk4943 | 206,979
+198 | Significant_Talk4943 | 207,399
 199 | ziggyback | 203,369
 200 | Ashamed_Raccoon9918 | 203,195
 201 | Esco1980 | 201,771
