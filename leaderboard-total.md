@@ -1,4 +1,4 @@
-Last updated: 23-08-25 02:29:01 UTC  
+Last updated: 23-08-25 02:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | rustyybikes | 4,263,025
 28 | birdwastheword | 4,252,705
 29 | Puddin-Luv | 4,224,324
-30 | _ships | 4,172,671
+30 | _ships | 4,175,334
 31 | IveDoneItAtLast | 3,996,296
 32 | VIVOffical | 3,937,100
 33 | clean_cut89 | 3,573,928
@@ -38,8 +38,8 @@ Rank | Username | Totals Tips
 35 | LuminousViper | 3,408,030
 36 | ZukoBih | 3,403,115
 37 | Dry_Badger_2403 | 3,193,857
-38 | LordBobTheWhale | 3,063,646
-39 | thom_orrow | 2,796,997
+38 | LordBobTheWhale | 3,064,254
+39 | thom_orrow | 2,806,997
 40 | Mean_Bandicoot_7481 | 2,748,882
 41 | SpookySYN | 2,649,832
 42 | _Royal_Insylum | 2,603,787
