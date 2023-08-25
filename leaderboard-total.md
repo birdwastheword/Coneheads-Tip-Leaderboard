@@ -1,4 +1,4 @@
-Last updated: 23-08-25 23:31:02 UTC  
+Last updated: 23-08-25 23:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,279,269
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | MorrisBrett514 | 504,863
 120 | Allions1 | 503,528
 121 | Successful-Walk-3902 | 498,374
-122 | dopelifer09 | 488,970
+122 | dopelifer09 | 491,633
 123 | Korean_Street_Pizza | 462,893
 124 | sinlesco | 462,490
 125 | WarmlyWacky | 462,118
@@ -152,7 +152,7 @@ Rank | Username | Totals Tips
 149 | tsudrat | 340,707
 150 | YarOldeOrchard | 340,375
 151 | Tinman_ApE | 337,352
-152 | Lion-Hermit | 328,221
+152 | Lion-Hermit | 330,884
 153 | Dripbot8 | 325,384
 154 | DogSpark84 | 322,470
 155 | virmamies | 316,478
