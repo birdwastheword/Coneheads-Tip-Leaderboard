@@ -1,4 +1,4 @@
-Last updated: 23-08-25 09:30:52 UTC  
+Last updated: 23-08-25 09:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,210,031
@@ -263,9 +263,9 @@ Rank | Username | Totals Tips
 260 | BitcoinRefuge | 111,112
 261 | CaptainCheeseCake | 110,665
 262 | PushyDevolution | 110,216
-263 | Strong_Constant_1190 | 109,517
-264 | DeanDeanington | 107,937
-265 | Kevin3683 | 107,109
+263 | Kevin3683 | 109,772
+264 | Strong_Constant_1190 | 109,517
+265 | DeanDeanington | 107,937
 266 | Jlt42000 | 107,091
 267 | AD_VICTORIAM_x | 106,876
 268 | i_wake_up_at_12 | 106,333
@@ -294,7 +294,7 @@ Rank | Username | Totals Tips
 291 | kwickle | 87,805
 292 | jurgensdapimp | 86,817
 293 | Mother-Werewolf185 | 85,579
-294 | ItailianStallion101 | 85,039
+294 | ItailianStallion101 | 85,140
 295 | Puzzleheaded_Gift738 | 84,020
 296 | RollingSkull0 | 83,098
 297 | Clonkerz | 83,006
@@ -521,12 +521,12 @@ Rank | Username | Totals Tips
 518 | Flat_Opportunity_340 | 20,420
 519 | DLPD-Camko | 20,377
 520 | Bear-Bull-Pig | 20,161
-521 | NoahG59 | 20,002
-522 | Arash_Rezae | 20,000
-523 | maliplazi | 20,000
-524 | PassiveRoadRage | 20,000
-525 | Yeh_nah_yeh_ | 20,000
-526 | mihii12 | 19,980
+521 | mihii12 | 20,049
+522 | NoahG59 | 20,002
+523 | Arash_Rezae | 20,000
+524 | maliplazi | 20,000
+525 | PassiveRoadRage | 20,000
+526 | Yeh_nah_yeh_ | 20,000
 527 | PsLJdogg | 19,975
 528 | Iiwip | 19,533
 529 | MalarkyD | 19,527
