@@ -1,4 +1,4 @@
-Last updated: 23-08-25 17:24:37 UTC  
+Last updated: 23-08-25 17:33:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,268,617
@@ -27,8 +27,8 @@ Rank | Username | Totals Tips
 24 | bigbilly1234567899 | 4,496,042
 25 | Ginomania | 4,394,146
 26 | redzrex | 4,391,928
-27 | rustyybikes | 4,263,025
-28 | birdwastheword | 4,252,705
+27 | birdwastheword | 4,289,325
+28 | rustyybikes | 4,263,025
 29 | Puddin-Luv | 4,234,976
 30 | _ships | 4,184,129
 31 | IveDoneItAtLast | 4,007,754
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | ZukoBih | 3,403,115
 37 | Dry_Badger_2403 | 3,193,857
 38 | LordBobTheWhale | 3,064,862
-39 | thom_orrow | 2,860,313
+39 | thom_orrow | 2,917,522
 40 | Mean_Bandicoot_7481 | 2,752,108
 41 | SpookySYN | 2,726,452
 42 | _Royal_Insylum | 2,603,787
@@ -540,22 +540,22 @@ Rank | Username | Totals Tips
 537 | augustsIippedaway | 17,739
 538 | PRYCDaddy | 17,718
 539 | omfglauren | 17,676
-540 | masterassassin93 | 17,409
-541 | Steves1982 | 17,284
-542 | OutrageousStudy6752 | 17,087
-543 | Sebanimation | 17,004
-544 | leviathynx | 16,901
-545 | ipsole | 16,425
-546 | deeeznotes | 16,235
-547 | Conflict63 | 16,063
-548 | giooo_tdm | 15,895
-549 | Zwott | 15,441
-550 | Fr3sh-Ch3mical | 15,393
-551 | Rookslook | 15,359
-552 | Rake_wlkr | 15,330
-553 | imeme1969 | 15,070
-554 | Doublix | 15,054
-555 | yahuurdme | 14,768
+540 | yahuurdme | 17,431
+541 | masterassassin93 | 17,409
+542 | Steves1982 | 17,284
+543 | OutrageousStudy6752 | 17,087
+544 | Sebanimation | 17,004
+545 | leviathynx | 16,901
+546 | ipsole | 16,425
+547 | deeeznotes | 16,235
+548 | Conflict63 | 16,063
+549 | giooo_tdm | 15,895
+550 | Zwott | 15,441
+551 | Fr3sh-Ch3mical | 15,393
+552 | Rookslook | 15,359
+553 | Rake_wlkr | 15,330
+554 | imeme1969 | 15,070
+555 | Doublix | 15,054
 556 | redbasl | 14,643
 557 | Big_Bonus3617 | 14,640
 558 | mixmasterpayne | 14,409
