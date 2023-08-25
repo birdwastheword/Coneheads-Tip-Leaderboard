@@ -1,4 +1,4 @@
-Last updated: 23-08-25 13:33:08 UTC  
+Last updated: 23-08-25 13:41:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,239,324
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | birdwastheword | 4,252,705
 29 | Puddin-Luv | 4,232,313
 30 | _ships | 4,184,129
-31 | IveDoneItAtLast | 4,005,091
+31 | IveDoneItAtLast | 4,007,754
 32 | VIVOffical | 3,937,100
 33 | clean_cut89 | 3,573,997
 34 | Permanent_WSB_Bull | 3,522,155
@@ -54,7 +54,7 @@ Rank | Username | Totals Tips
 51 | swampyswede | 1,825,997
 52 | dealkhabari | 1,716,652
 53 | Ten-Mins-Late | 1,706,113
-54 | zdubs | 1,628,649
+54 | zdubs | 1,629,257
 55 | GooderZBK | 1,613,996
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
