@@ -1,4 +1,4 @@
-Last updated: 23-08-25 14:41:34 UTC  
+Last updated: 23-08-25 14:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,239,324
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 7,844,002
-15 | cutsickass | 6,999,592
+15 | cutsickass | 7,002,255
 16 | avyun | 6,787,077
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,190,382
@@ -148,10 +148,10 @@ Rank | Username | Totals Tips
 145 | Mundane-Farm-4117 | 358,176
 146 | Outrageous-Skill-464 | 344,174
 147 | anony666mous | 341,008
-148 | tsudrat | 340,707
-149 | YarOldeOrchard | 340,375
-150 | Tinman_ApE | 337,352
-151 | noface_reddit | 336,695
+148 | noface_reddit | 340,895
+149 | tsudrat | 340,707
+150 | YarOldeOrchard | 340,375
+151 | Tinman_ApE | 337,352
 152 | Lion-Hermit | 328,221
 153 | DogSpark84 | 321,862
 154 | virmamies | 316,478
