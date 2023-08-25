@@ -1,4 +1,4 @@
-Last updated: 23-08-25 11:33:39 UTC  
+Last updated: 23-08-25 11:41:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,236,661
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
 5 | nakamo-toe | 26,360,877
-6 | waterhasnocalories | 22,938,543
+6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,239,810
 9 | HODL-THE-LINE | 11,921,100
@@ -314,8 +314,8 @@ Rank | Username | Totals Tips
 311 | Derefringence | 76,675
 312 | xSkyFa11x | 76,569
 313 | XeroGrave | 75,582
-314 | MedicineMaterial3501 | 74,654
-315 | BeefaloSlim | 72,519
+314 | BeefaloSlim | 75,182
+315 | MedicineMaterial3501 | 74,654
 316 | I_AM_MORE_BADASS | 72,332
 317 | adi_00_ | 71,759
 318 | pwan7505 | 71,230
