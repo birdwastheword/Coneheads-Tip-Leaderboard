@@ -1,4 +1,4 @@
-Last updated: 23-08-25 07:31:03 UTC  
+Last updated: 23-08-25 07:40:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | Obi1eyeKenobi | 652,339
 99 | MartynDr | 651,420
 100 | Alanski22 | 649,892
-101 | Westy3000 | 643,584
+101 | Westy3000 | 645,806
 102 | femacampcouncilor | 642,812
 103 | slirpo | 631,180
 104 | Duskopia | 630,829
@@ -121,7 +121,7 @@ Rank | Username | Totals Tips
 118 | MorrisBrett514 | 504,863
 119 | Allions1 | 503,528
 120 | Successful-Walk-3902 | 498,374
-121 | dopelifer09 | 467,666
+121 | dopelifer09 | 478,318
 122 | sinlesco | 462,490
 123 | WarmlyWacky | 462,118
 124 | Korean_Street_Pizza | 460,230
