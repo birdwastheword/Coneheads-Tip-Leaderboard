@@ -1,4 +1,4 @@
-Last updated: 23-08-25 21:30:52 UTC  
+Last updated: 23-08-25 21:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,279,269
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,239,810
 9 | HODL-THE-LINE | 11,921,100
 10 | Parush9 | 11,909,786
-11 | SammyCraigar | 8,904,652
+11 | SammyCraigar | 8,931,282
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 7,844,002
@@ -66,8 +66,8 @@ Rank | Username | Totals Tips
 63 | saintajoras | 1,199,943
 64 | HestiaIsTheBestia | 1,188,046
 65 | Richicash | 1,181,855
-66 | Feetfailmenot | 1,151,105
-67 | djrcollectables | 1,145,605
+66 | djrcollectables | 1,151,539
+67 | Feetfailmenot | 1,151,105
 68 | beastlybaker | 1,138,281
 69 | LongCauliflower6791 | 1,086,444
 70 | investigator100 | 1,074,704
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | doktastonks | 421,325
 134 | dronegeeks1 | 414,406
 135 | RazPie | 413,991
-136 | Crypto-4-Freedom | 411,215
+136 | Crypto-4-Freedom | 411,635
 137 | LrnFaroeseWthBergur | 409,488
 138 | Creepy-Nectarine-225 | 389,003
 139 | SHIFTY-T3RROR | 377,457
@@ -460,23 +460,23 @@ Rank | Username | Totals Tips
 457 | masedogg98 | 30,127
 458 | Big-Researcher-3855 | 29,994
 459 | Potential_Fix_5007 | 29,897
-460 | ProfessionalIcy6456 | 29,743
-461 | Gilbertll | 29,585
-462 | FoleyKali | 28,843
-463 | Rbmui13 | 28,756
-464 | Locid | 28,518
-465 | bentolman | 28,291
-466 | Fictional_Blook | 28,143
-467 | hvefe | 28,005
-468 | Fomo- | 28,000
-469 | madisonfm | 27,934
-470 | Jo2Bax | 27,820
-471 | ikiyen | 27,500
-472 | Motor-breath8 | 27,284
-473 | kanem87 | 27,265
-474 | Sparrow | 27,214
-475 | sM0k3dR4Gn | 27,131
-476 | yahuurdme | 27,095
+460 | yahuurdme | 29,758
+461 | ProfessionalIcy6456 | 29,743
+462 | Gilbertll | 29,585
+463 | FoleyKali | 28,843
+464 | Rbmui13 | 28,756
+465 | Locid | 28,518
+466 | bentolman | 28,291
+467 | Fictional_Blook | 28,143
+468 | hvefe | 28,005
+469 | Fomo- | 28,000
+470 | madisonfm | 27,934
+471 | Jo2Bax | 27,820
+472 | ikiyen | 27,500
+473 | Motor-breath8 | 27,284
+474 | kanem87 | 27,265
+475 | Sparrow | 27,214
+476 | sM0k3dR4Gn | 27,131
 477 | deltamoney | 26,987
 478 | BottleNcanClapUrHand | 26,658
 479 | DOGETHEEGOD | 26,580
