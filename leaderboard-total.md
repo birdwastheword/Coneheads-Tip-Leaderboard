@@ -1,4 +1,4 @@
-Last updated: 23-08-25 21:40:37 UTC  
+Last updated: 23-08-25 21:50:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,279,269
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | saintajoras | 1,199,943
 64 | HestiaIsTheBestia | 1,188,046
 65 | Richicash | 1,181,855
-66 | djrcollectables | 1,151,539
+66 | djrcollectables | 1,159,528
 67 | Feetfailmenot | 1,151,105
 68 | beastlybaker | 1,138,281
 69 | LongCauliflower6791 | 1,086,444
@@ -217,9 +217,9 @@ Rank | Username | Totals Tips
 214 | YourThighsWarmMyEars | 172,697
 215 | Street_Addd | 171,939
 216 | MymannosaurusRex | 171,317
-217 | high5s_inureye | 167,388
-218 | DamnWhySoLow | 166,675
-219 | fettskull | 166,377
+217 | fettskull | 169,040
+218 | high5s_inureye | 167,388
+219 | DamnWhySoLow | 166,675
 220 | MelonFarmer420 | 164,196
 221 | ultra_terrestrial | 163,342
 222 | skollywag92 | 163,279
