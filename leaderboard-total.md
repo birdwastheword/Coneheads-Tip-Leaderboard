@@ -1,4 +1,4 @@
-Last updated: 23-08-25 11:41:50 UTC  
+Last updated: 23-08-25 11:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,236,661
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,239,810
 9 | HODL-THE-LINE | 11,921,100
-10 | Parush9 | 11,893,185
+10 | Parush9 | 11,902,817
 11 | SammyCraigar | 8,878,022
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | avyun | 6,780,108
 17 | Geniuskills | 6,196,491
 18 | Real_Player_0 | 6,190,382
-19 | ashinamune | 5,750,978
+19 | ashinamune | 5,820,398
 20 | HippieStarTraveler | 5,231,544
 21 | 8inchConer | 4,947,480
 22 | thelonliestcrowd | 4,740,769
@@ -122,9 +122,9 @@ Rank | Username | Totals Tips
 119 | Allions1 | 503,528
 120 | Successful-Walk-3902 | 498,374
 121 | dopelifer09 | 483,644
-122 | sinlesco | 462,490
-123 | WarmlyWacky | 462,118
-124 | Korean_Street_Pizza | 460,230
+122 | Korean_Street_Pizza | 462,893
+123 | sinlesco | 462,490
+124 | WarmlyWacky | 462,118
 125 | formidable-opponent | 459,308
 126 | MediaPrestigious8342 | 453,839
 127 | Lady_Lucks_Man | 448,456
@@ -232,8 +232,8 @@ Rank | Username | Totals Tips
 229 | satoshi_oscar_wilde | 147,409
 230 | Sad_Entertainer9961 | 143,248
 231 | Doovs | 142,767
-232 | SalliIsAFem | 140,361
-233 | tmanfromEarth | 140,226
+232 | tmanfromEarth | 140,892
+233 | SalliIsAFem | 140,361
 234 | luisantonio197 | 139,511
 235 | GrowinStuffAndThings | 137,461
 236 | Outrageous-Ad8481 | 137,001
@@ -360,7 +360,7 @@ Rank | Username | Totals Tips
 357 | Bobocod | 55,420
 358 | Creative_Ad7831 | 55,326
 359 | orangesandonions | 55,238
-360 | Chill_Edoeard | 54,312
+360 | Chill_Edoeard | 54,732
 361 | Brandillio | 54,271
 362 | WarningKey6517 | 53,910
 363 | LX1070 | 53,855
