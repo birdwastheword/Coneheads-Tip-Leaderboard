@@ -1,4 +1,4 @@
-Last updated: 23-08-25 03:20:29 UTC  
+Last updated: 23-08-25 03:30:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -54,7 +54,7 @@ Rank | Username | Totals Tips
 51 | swampyswede | 1,825,997
 52 | dealkhabari | 1,715,436
 53 | Ten-Mins-Late | 1,706,113
-54 | zdubs | 1,621,867
+54 | zdubs | 1,624,530
 55 | GooderZBK | 1,613,996
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
@@ -287,10 +287,10 @@ Rank | Username | Totals Tips
 284 | urlz | 91,281
 285 | DramaticProtogen | 90,274
 286 | Award-Bot | 90,000
-287 | Burzzzt88 | 88,151
-288 | HokkaidoNights | 88,108
-289 | ShopALF | 87,942
-290 | customsolitaires | 87,886
+287 | customsolitaires | 88,355
+288 | Burzzzt88 | 88,151
+289 | HokkaidoNights | 88,108
+290 | ShopALF | 87,942
 291 | kwickle | 87,805
 292 | jurgensdapimp | 86,817
 293 | Mother-Werewolf185 | 85,579
