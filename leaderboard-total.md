@@ -1,4 +1,4 @@
-Last updated: 23-08-25 16:31:20 UTC  
+Last updated: 23-08-25 16:41:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,265,954
@@ -69,13 +69,13 @@ Rank | Username | Totals Tips
 66 | Feetfailmenot | 1,151,105
 67 | djrcollectables | 1,142,942
 68 | beastlybaker | 1,138,281
-69 | investigator100 | 1,074,704
-70 | freechickens | 1,028,317
-71 | avatarbot | 1,027,000
-72 | 002_timmy | 1,022,512
-73 | 0-Give-a-fucks | 1,009,971
-74 | WarmBiertje | 1,000,000
-75 | LongCauliflower6791 | 986,444
+69 | LongCauliflower6791 | 1,086,444
+70 | investigator100 | 1,074,704
+71 | freechickens | 1,028,317
+72 | avatarbot | 1,027,000
+73 | 002_timmy | 1,022,512
+74 | 0-Give-a-fucks | 1,009,971
+75 | WarmBiertje | 1,000,000
 76 | EvanIsBacon | 970,416
 77 | Forward_Today2849 | 932,405
 78 | Modestexcuse | 903,684
@@ -185,7 +185,7 @@ Rank | Username | Totals Tips
 182 | coolpattakers | 235,710
 183 | Zalkwalker | 235,069
 184 | Extreme_Issue7325 | 232,538
-185 | superlonelyboy | 230,870
+185 | superlonelyboy | 231,378
 186 | cannainform2 | 229,780
 187 | MisterM0H0 | 227,708
 188 | joeviani | 227,028
