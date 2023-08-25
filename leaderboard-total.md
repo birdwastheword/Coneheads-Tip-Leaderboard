@@ -1,4 +1,4 @@
-Last updated: 23-08-25 23:40:43 UTC  
+Last updated: 23-08-25 23:51:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,279,269
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ashinamune | 5,832,398
 20 | HippieStarTraveler | 5,231,544
 21 | 8inchConer | 4,947,480
-22 | thelonliestcrowd | 4,754,504
+22 | thelonliestcrowd | 4,755,112
 23 | rikbona | 4,539,773
 24 | bigbilly1234567899 | 4,496,042
 25 | Ginomania | 4,396,809
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | saintajoras | 1,199,943
 64 | HestiaIsTheBestia | 1,188,046
 65 | Richicash | 1,181,855
-66 | djrcollectables | 1,159,528
+66 | djrcollectables | 1,167,517
 67 | Feetfailmenot | 1,151,105
 68 | beastlybaker | 1,138,281
 69 | LongCauliflower6791 | 1,086,444
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | doktastonks | 421,325
 134 | dronegeeks1 | 414,406
 135 | RazPie | 413,991
-136 | Crypto-4-Freedom | 411,635
+136 | Crypto-4-Freedom | 412,055
 137 | LrnFaroeseWthBergur | 409,488
 138 | Creepy-Nectarine-225 | 389,003
 139 | SHIFTY-T3RROR | 377,457
