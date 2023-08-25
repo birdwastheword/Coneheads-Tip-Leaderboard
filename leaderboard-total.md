@@ -1,7 +1,7 @@
-Last updated: 23-08-25 18:26:39 UTC  
+Last updated: 23-08-25 18:35:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 36,273,943
+1 | Bitdream200K | 36,276,606
 2 | Wonderful_Bad6531 | 34,315,543
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
@@ -233,7 +233,7 @@ Rank | Username | Totals Tips
 230 | Sad_Entertainer9961 | 143,248
 231 | Lastkidpicked94 | 142,769
 232 | Doovs | 142,767
-233 | tmanfromEarth | 140,892
+233 | tmanfromEarth | 142,392
 234 | SalliIsAFem | 140,361
 235 | luisantonio197 | 139,511
 236 | GrowinStuffAndThings | 137,461
