@@ -1,4 +1,4 @@
-Last updated: 23-08-25 14:33:30 UTC  
+Last updated: 23-08-25 14:41:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,239,324
@@ -191,7 +191,7 @@ Rank | Username | Totals Tips
 188 | joeviani | 227,028
 189 | MuhSound | 225,403
 190 | SourBeefHoop | 217,512
-191 | FluffyAspie | 215,519
+191 | FluffyAspie | 215,939
 192 | alexthemay | 214,131
 193 | Conetent | 212,738
 194 | Beenthorny | 212,362
@@ -270,9 +270,9 @@ Rank | Username | Totals Tips
 267 | AD_VICTORIAM_x | 106,876
 268 | i_wake_up_at_12 | 106,333
 269 | Chanyuui1 | 104,940
-270 | rolonic | 102,765
-271 | deathtr0 | 102,541
-272 | redditinchina | 102,361
+270 | redditinchina | 102,781
+271 | rolonic | 102,765
+272 | deathtr0 | 102,541
 273 | ACorDC | 100,420
 274 | FeetAndHandFetish | 98,146
 275 | Knaeggebrott | 97,076
