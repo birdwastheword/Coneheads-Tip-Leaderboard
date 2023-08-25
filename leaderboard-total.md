@@ -1,4 +1,4 @@
-Last updated: 23-08-25 22:43:24 UTC  
+Last updated: 23-08-25 22:51:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,279,269
@@ -28,9 +28,9 @@ Rank | Username | Totals Tips
 25 | Ginomania | 4,394,146
 26 | redzrex | 4,391,928
 27 | birdwastheword | 4,289,325
-28 | rustyybikes | 4,263,025
-29 | Puddin-Luv | 4,234,976
-30 | _ships | 4,221,411
+28 | _ships | 4,263,326
+29 | rustyybikes | 4,263,025
+30 | Puddin-Luv | 4,234,976
 31 | IveDoneItAtLast | 4,018,175
 32 | VIVOffical | 3,937,948
 33 | clean_cut89 | 3,573,997
@@ -172,7 +172,7 @@ Rank | Username | Totals Tips
 169 | _Mitchee_ | 260,327
 170 | Hactar_42 | 256,832
 171 | thecrabdad | 256,177
-172 | FluffyAspie | 252,939
+172 | FluffyAspie | 255,602
 173 | Ambitious-Minimum-80 | 252,035
 174 | Lillica_Golden_SHIB | 251,174
 175 | Sattack4000 | 250,837
@@ -187,7 +187,7 @@ Rank | Username | Totals Tips
 184 | Zalkwalker | 235,069
 185 | Extreme_Issue7325 | 232,538
 186 | superlonelyboy | 231,378
-187 | cannainform2 | 229,780
+187 | cannainform2 | 230,200
 188 | MisterM0H0 | 227,708
 189 | joeviani | 227,028
 190 | MuhSound | 225,403
