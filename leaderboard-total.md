@@ -1,4 +1,4 @@
-Last updated: 23-08-25 20:40:32 UTC  
+Last updated: 23-08-25 20:50:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,279,269
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | transfermymoons | 7,844,002
 15 | cutsickass | 7,404,473
 16 | avyun | 6,794,046
-17 | Geniuskills | 6,196,491
+17 | Geniuskills | 6,199,154
 18 | Real_Player_0 | 6,190,382
 19 | ashinamune | 5,820,398
 20 | HippieStarTraveler | 5,231,544
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
 45 | ImAlekBan | 2,204,339
-46 | GuyOne | 2,161,951
+46 | GuyOne | 2,164,614
 47 | Autom4tic_Soze | 2,158,811
 48 | Fenrir-1919 | 2,076,403
 49 | Affectionate_Hand_76 | 1,949,263
@@ -231,7 +231,7 @@ Rank | Username | Totals Tips
 228 | CoverYourMaskHoles | 151,719
 229 | NotFullyTerrestrial | 150,694
 230 | satoshi_oscar_wilde | 147,409
-231 | Lastkidpicked94 | 145,432
+231 | Lastkidpicked94 | 145,500
 232 | Sad_Entertainer9961 | 143,248
 233 | Doovs | 142,767
 234 | SalliIsAFem | 140,361
@@ -519,7 +519,7 @@ Rank | Username | Totals Tips
 516 | Flamingo777 | 21,275
 517 | RamboBalboa21 | 21,083
 518 | shootingeagleyt | 20,611
-519 | foreignGER | 20,482
+519 | foreignGER | 20,551
 520 | mihii12 | 20,469
 521 | -Boxen | 20,420
 522 | Flat_Opportunity_340 | 20,420
