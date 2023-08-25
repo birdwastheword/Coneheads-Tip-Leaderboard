@@ -1,4 +1,4 @@
-Last updated: 23-08-25 05:43:23 UTC  
+Last updated: 23-08-25 05:51:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | rustyybikes | 4,263,025
 28 | birdwastheword | 4,252,705
 29 | Puddin-Luv | 4,226,987
-30 | _ships | 4,181,466
+30 | _ships | 4,184,129
 31 | IveDoneItAtLast | 3,996,296
 32 | VIVOffical | 3,937,100
 33 | clean_cut89 | 3,573,928
@@ -516,9 +516,9 @@ Rank | Username | Totals Tips
 513 | Flamingo777 | 21,275
 514 | RamboBalboa21 | 21,083
 515 | shootingeagleyt | 20,611
-516 | -Boxen | 20,420
-517 | Flat_Opportunity_340 | 20,420
-518 | foreignGER | 20,413
+516 | foreignGER | 20,482
+517 | -Boxen | 20,420
+518 | Flat_Opportunity_340 | 20,420
 519 | DLPD-Camko | 20,377
 520 | Bear-Bull-Pig | 20,161
 521 | NoahG59 | 20,002
