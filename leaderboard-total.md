@@ -1,11 +1,11 @@
-Last updated: 23-08-25 05:34:57 UTC  
+Last updated: 23-08-25 05:43:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
 2 | Wonderful_Bad6531 | 34,312,811
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 27,995,979
-5 | nakamo-toe | 26,323,595
+5 | nakamo-toe | 26,326,258
 6 | waterhasnocalories | 22,938,543
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,205,147
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Affectionate_Hand_76 | 1,949,263
 50 | catlover-100 | 1,913,158
 51 | swampyswede | 1,825,997
-52 | dealkhabari | 1,715,436
+52 | dealkhabari | 1,716,652
 53 | Ten-Mins-Late | 1,706,113
 54 | zdubs | 1,628,041
 55 | GooderZBK | 1,613,996
@@ -124,7 +124,7 @@ Rank | Username | Totals Tips
 121 | dopelifer09 | 465,003
 122 | sinlesco | 462,490
 123 | WarmlyWacky | 462,118
-124 | Korean_Street_Pizza | 457,567
+124 | Korean_Street_Pizza | 460,230
 125 | MediaPrestigious8342 | 453,839
 126 | formidable-opponent | 449,977
 127 | Lady_Lucks_Man | 448,456
@@ -182,8 +182,8 @@ Rank | Username | Totals Tips
 179 | Dripbot8 | 245,384
 180 | SnooMacarons9203 | 243,810
 181 | tjex666 | 240,801
-182 | Zalkwalker | 235,069
-183 | coolpattakers | 233,047
+182 | coolpattakers | 235,710
+183 | Zalkwalker | 235,069
 184 | Extreme_Issue7325 | 232,538
 185 | superlonelyboy | 230,870
 186 | cannainform2 | 229,780
