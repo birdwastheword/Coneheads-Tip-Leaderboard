@@ -1,4 +1,4 @@
-Last updated: 23-08-25 21:00:51 UTC  
+Last updated: 23-08-25 21:17:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,279,269
@@ -11,11 +11,11 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,239,810
 9 | HODL-THE-LINE | 11,921,100
 10 | Parush9 | 11,909,786
-11 | SammyCraigar | 8,878,022
+11 | SammyCraigar | 8,904,652
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 7,844,002
-15 | cutsickass | 7,404,473
+15 | cutsickass | 7,431,110
 16 | avyun | 6,794,046
 17 | Geniuskills | 6,208,786
 18 | Real_Player_0 | 6,190,382
@@ -63,11 +63,11 @@ Rank | Username | Totals Tips
 60 | isthistomorrow_ | 1,350,016
 61 | CMDRGlamdring | 1,240,350
 62 | revdrgonzo | 1,232,551
-63 | saintajoras | 1,197,343
+63 | saintajoras | 1,199,943
 64 | HestiaIsTheBestia | 1,188,046
 65 | Richicash | 1,181,855
 66 | Feetfailmenot | 1,151,105
-67 | djrcollectables | 1,142,942
+67 | djrcollectables | 1,145,605
 68 | beastlybaker | 1,138,281
 69 | LongCauliflower6791 | 1,086,444
 70 | investigator100 | 1,074,704
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | MorrisBrett514 | 504,863
 120 | Allions1 | 503,528
 121 | Successful-Walk-3902 | 498,374
-122 | dopelifer09 | 486,307
+122 | dopelifer09 | 488,970
 123 | Korean_Street_Pizza | 462,893
 124 | sinlesco | 462,490
 125 | WarmlyWacky | 462,118
