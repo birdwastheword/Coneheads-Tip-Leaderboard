@@ -1,4 +1,4 @@
-Last updated: 23-08-25 02:40:29 UTC  
+Last updated: 23-08-25 02:50:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,876,280
 8 | crypto_grandma | 12,142,484
 9 | HODL-THE-LINE | 11,921,100
-10 | Parush9 | 11,886,216
+10 | Parush9 | 11,893,185
 11 | SammyCraigar | 8,877,414
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
@@ -272,8 +272,8 @@ Rank | Username | Totals Tips
 269 | Chanyuui1 | 104,940
 270 | rolonic | 102,765
 271 | deathtr0 | 102,541
-272 | ACorDC | 100,420
-273 | redditinchina | 99,698
+272 | redditinchina | 102,361
+273 | ACorDC | 100,420
 274 | FeetAndHandFetish | 98,146
 275 | Knaeggebrott | 97,076
 276 | bakerdawg555 | 96,959
