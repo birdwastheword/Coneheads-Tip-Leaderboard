@@ -1,4 +1,4 @@
-Last updated: 23-08-25 09:19:20 UTC  
+Last updated: 23-08-25 09:30:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,210,031
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,232,147
 9 | HODL-THE-LINE | 11,921,100
 10 | Parush9 | 11,893,185
-11 | SammyCraigar | 8,877,414
+11 | SammyCraigar | 8,878,022
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 7,844,002
@@ -159,9 +159,9 @@ Rank | Username | Totals Tips
 156 | x52x | 304,860
 157 | liwipe | 304,467
 158 | VincentVanGTFO | 300,598
-159 | legionticket | 296,054
-160 | send_tacoz | 293,576
-161 | noface_reddit | 292,139
+159 | noface_reddit | 296,339
+160 | legionticket | 296,054
+161 | send_tacoz | 293,576
 162 | monkeybombed | 282,821
 163 | astro_nut_ | 280,463
 164 | maxfra | 279,459
@@ -397,10 +397,10 @@ Rank | Username | Totals Tips
 394 | Coneboy2663 | 43,852
 395 | RiightYouKnow | 43,329
 396 | halfABsinC | 43,285
-397 | ACE415_ | 42,000
-398 | Cyber-Cafe | 41,921
-399 | PushyDevoIution | 41,695
-400 | 4gsboofd | 41,377
+397 | 4gsboofd | 42,377
+398 | ACE415_ | 42,000
+399 | Cyber-Cafe | 41,921
+400 | PushyDevoIution | 41,695
 401 | ZoomLong | 41,251
 402 | HodLMania | 41,111
 403 | ARoyaleWithCheese | 41,000
