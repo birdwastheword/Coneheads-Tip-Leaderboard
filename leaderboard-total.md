@@ -1,4 +1,4 @@
-Last updated: 23-08-25 08:44:00 UTC  
+Last updated: 23-08-25 08:52:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,210,031
@@ -63,25 +63,25 @@ Rank | Username | Totals Tips
 60 | isthistomorrow_ | 1,281,016
 61 | CMDRGlamdring | 1,233,243
 62 | revdrgonzo | 1,229,888
-63 | saintajoras | 1,196,343
+63 | saintajoras | 1,197,343
 64 | HestiaIsTheBestia | 1,188,046
 65 | Richicash | 1,179,192
 66 | Feetfailmenot | 1,151,105
 67 | beastlybaker | 1,138,281
-68 | djrcollectables | 1,110,478
+68 | djrcollectables | 1,137,108
 69 | investigator100 | 1,074,704
 70 | freechickens | 1,028,317
 71 | avatarbot | 1,027,000
 72 | 002_timmy | 1,022,512
 73 | 0-Give-a-fucks | 1,009,971
 74 | WarmBiertje | 1,000,000
-75 | EvanIsBacon | 970,416
-76 | Forward_Today2849 | 932,405
-77 | Modestexcuse | 903,684
-78 | CluelessSurvivor | 902,466
-79 | thee_monster | 896,765
-80 | Bobisdeadrun | 868,415
-81 | LongCauliflower6791 | 862,988
+75 | LongCauliflower6791 | 986,444
+76 | EvanIsBacon | 970,416
+77 | Forward_Today2849 | 932,405
+78 | Modestexcuse | 903,684
+79 | CluelessSurvivor | 902,466
+80 | thee_monster | 896,765
+81 | Bobisdeadrun | 868,415
 82 | ValiantJudge29500 | 857,035
 83 | goldyluckinblokchain | 806,874
 84 | vbutarin | 802,000
