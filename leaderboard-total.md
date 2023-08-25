@@ -1,4 +1,4 @@
-Last updated: 23-08-25 06:40:58 UTC  
+Last updated: 23-08-25 06:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -101,10 +101,10 @@ Rank | Username | Totals Tips
 98 | Obi1eyeKenobi | 652,339
 99 | MartynDr | 651,420
 100 | Alanski22 | 649,892
-101 | femacampcouncilor | 642,812
-102 | Westy3000 | 632,473
+101 | Westy3000 | 643,584
+102 | femacampcouncilor | 642,812
 103 | slirpo | 631,180
-104 | Duskopia | 628,166
+104 | Duskopia | 630,829
 105 | Skank_cunt_42 | 626,162
 106 | UniversalNoobMaster | 625,985
 107 | ID404_Not_Found_8964 | 606,162
