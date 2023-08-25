@@ -1,4 +1,4 @@
-Last updated: 23-08-25 11:24:47 UTC  
+Last updated: 23-08-25 11:33:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,236,661
@@ -54,7 +54,7 @@ Rank | Username | Totals Tips
 51 | swampyswede | 1,825,997
 52 | dealkhabari | 1,716,652
 53 | Ten-Mins-Late | 1,706,113
-54 | zdubs | 1,628,041
+54 | zdubs | 1,628,649
 55 | GooderZBK | 1,613,996
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
@@ -151,7 +151,7 @@ Rank | Username | Totals Tips
 148 | YarOldeOrchard | 340,375
 149 | Hot_Potato_Salad | 339,232
 150 | Tinman_ApE | 337,352
-151 | noface_reddit | 331,369
+151 | noface_reddit | 334,032
 152 | Lion-Hermit | 328,221
 153 | DogSpark84 | 321,862
 154 | virmamies | 316,478
