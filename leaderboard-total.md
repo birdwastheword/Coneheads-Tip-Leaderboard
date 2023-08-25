@@ -1,4 +1,4 @@
-Last updated: 23-08-25 03:50:36 UTC  
+Last updated: 23-08-25 04:27:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,154,108
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | send420nudes | 2,451,237
 44 | possibili-teas | 2,399,515
 45 | ImAlekBan | 2,201,676
-46 | GuyOne | 2,159,288
+46 | GuyOne | 2,161,951
 47 | Autom4tic_Soze | 2,158,811
 48 | Fenrir-1919 | 2,073,740
 49 | Affectionate_Hand_76 | 1,949,263
@@ -159,8 +159,8 @@ Rank | Username | Totals Tips
 156 | x52x | 304,860
 157 | liwipe | 304,467
 158 | VincentVanGTFO | 300,598
-159 | send_tacoz | 293,576
-160 | legionticket | 293,391
+159 | legionticket | 296,054
+160 | send_tacoz | 293,576
 161 | monkeybombed | 282,821
 162 | astro_nut_ | 280,463
 163 | maxfra | 279,459
@@ -200,8 +200,8 @@ Rank | Username | Totals Tips
 197 | the_judge_168 | 208,455
 198 | Significant_Talk4943 | 206,979
 199 | ziggyback | 203,369
-200 | Esco1980 | 201,771
-201 | Ashamed_Raccoon9918 | 201,515
+200 | Ashamed_Raccoon9918 | 202,355
+201 | Esco1980 | 201,771
 202 | jimfird | 200,671
 203 | CedricDiccory | 197,932
 204 | sudrats | 197,124
