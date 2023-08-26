@@ -1,4 +1,4 @@
-Last updated: 23-08-26 15:50:33 UTC  
+Last updated: 23-08-26 16:28:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,354,033
-9 | HODL-THE-LINE | 11,955,181
+9 | HODL-THE-LINE | 11,968,181
 10 | Parush9 | 11,940,680
 11 | SammyCraigar | 8,938,145
 12 | ArtConsitent | 8,532,279
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | IveDoneItAtLast | 4,040,087
 34 | VIVOffical | 3,946,428
 35 | SpookySYN | 3,885,449
-36 | clean_cut89 | 3,582,986
+36 | clean_cut89 | 3,585,649
 37 | LuminousViper | 3,408,030
 38 | ZukoBih | 3,403,115
 39 | Dry_Badger_2403 | 3,193,857
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | DontLaughArt | 1,485,598
 60 | evilninjarobot | 1,447,010
 61 | isthistomorrow_ | 1,350,016
-62 | CMDRGlamdring | 1,257,115
+62 | CMDRGlamdring | 1,258,184
 63 | djrcollectables | 1,237,971
 64 | ValiantJudge29500 | 1,234,212
 65 | revdrgonzo | 1,232,551
@@ -114,9 +114,9 @@ Rank | Username | Totals Tips
 111 | El_Gordone | 592,784
 112 | Independent_Heart_15 | 578,825
 113 | nichnotnick | 556,778
-114 | StepAsideSuckers | 540,695
-115 | scientifichistorian | 539,560
-116 | formidable-opponent | 538,632
+114 | formidable-opponent | 547,963
+115 | StepAsideSuckers | 540,695
+116 | scientifichistorian | 539,560
 117 | shreyaskg | 538,211
 118 | junkwatch | 510,048
 119 | f0n1xr131ng | 509,681
@@ -302,15 +302,15 @@ Rank | Username | Totals Tips
 299 | Puzzleheaded_Gift738 | 84,020
 300 | RollingSkull0 | 83,098
 301 | standArtpluto | 82,100
-302 | AhhhUhmmm | 81,014
-303 | mastermarvs | 80,384
-304 | diamondbored | 79,817
-305 | Pwny_b0y | 79,447
-306 | GodOfWarGuy737 | 79,069
-307 | shiesto | 78,994
-308 | fleshlyLoath | 78,366
-309 | mokkingjay | 77,914
-310 | yahuurdme | 77,620
+302 | yahuurdme | 81,889
+303 | AhhhUhmmm | 81,014
+304 | mastermarvs | 80,384
+305 | diamondbored | 79,817
+306 | Pwny_b0y | 79,447
+307 | GodOfWarGuy737 | 79,069
+308 | shiesto | 78,994
+309 | fleshlyLoath | 78,366
+310 | mokkingjay | 77,914
 311 | HelicopterDear6064 | 77,619
 312 | youtooleyesing | 77,229
 313 | Admirito | 77,027
@@ -391,12 +391,12 @@ Rank | Username | Totals Tips
 388 | Outside-Wolf5928 | 47,433
 389 | hey_barry | 47,353
 390 | shredslanding | 46,650
-391 | sicilian2124 | 45,866
-392 | Drlitez | 45,436
-393 | NickkyDC | 45,379
-394 | tentazoc | 45,078
-395 | Name_Trikolon | 45,002
-396 | SandersIncBV | 44,929
+391 | SandersIncBV | 46,266
+392 | sicilian2124 | 45,866
+393 | Drlitez | 45,436
+394 | NickkyDC | 45,379
+395 | tentazoc | 45,078
+396 | Name_Trikolon | 45,002
 397 | acfranks | 44,105
 398 | Kilv3r | 44,021
 399 | Coneboy2663 | 43,852
@@ -570,8 +570,8 @@ Rank | Username | Totals Tips
 567 | couchguitar | 13,330
 568 | zahrawins | 13,329
 569 | MantisToboggan66 | 13,083
-570 | rare1994 | 13,069
-571 | Diamond_Hands420 | 13,001
+570 | Diamond_Hands420 | 13,070
+571 | rare1994 | 13,069
 572 | AdinaEspada | 12,997
 573 | seamonkey420 | 12,906
 574 | Artistic-Quit-3311 | 12,851
