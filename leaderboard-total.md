@@ -1,4 +1,4 @@
-Last updated: 23-08-26 21:14:56 UTC  
+Last updated: 23-08-26 21:23:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,194,870
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,241,204
+22 | HippieStarTraveler | 5,241,624
 23 | 8inchConer | 4,947,480
 24 | _ships | 4,921,054
 25 | thelonliestcrowd | 4,759,643
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | MorrisBrett514 | 506,123
 121 | Allions1 | 503,528
 122 | dopelifer09 | 502,285
-123 | Successful-Walk-3902 | 498,374
+123 | Successful-Walk-3902 | 498,794
 124 | Korean_Street_Pizza | 473,546
 125 | sinlesco | 462,490
 126 | WarmlyWacky | 462,118
@@ -168,7 +168,7 @@ Rank | Username | Totals Tips
 165 | astro_nut_ | 280,463
 166 | maxfra | 279,459
 167 | deedopete | 277,247
-168 | MadScientistTheFirst | 276,477
+168 | MadScientistTheFirst | 276,897
 169 | dinoyeti | 273,373
 170 | Flimsy_Brilliant_239 | 265,592
 171 | FluffyAspie | 265,128
