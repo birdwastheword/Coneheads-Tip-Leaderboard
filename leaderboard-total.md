@@ -1,4 +1,4 @@
-Last updated: 23-08-26 16:40:32 UTC  
+Last updated: 23-08-26 16:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | IveDoneItAtLast | 4,040,087
 34 | VIVOffical | 3,946,428
 35 | SpookySYN | 3,885,449
-36 | clean_cut89 | 3,585,649
+36 | clean_cut89 | 3,586,326
 37 | LuminousViper | 3,408,030
 38 | ZukoBih | 3,403,115
 39 | Dry_Badger_2403 | 3,193,857
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | swampyswede | 1,825,997
 53 | dealkhabari | 1,736,652
 54 | Ten-Mins-Late | 1,706,113
-55 | zdubs | 1,631,501
+55 | zdubs | 1,632,109
 56 | GooderZBK | 1,613,996
 57 | KONGXIANG | 1,526,459
 58 | bray_martin03 | 1,518,175
