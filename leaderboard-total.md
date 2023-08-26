@@ -1,4 +1,4 @@
-Last updated: 23-08-26 13:30:42 UTC  
+Last updated: 23-08-26 13:40:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | avyun | 6,801,015
 18 | Geniuskills | 6,274,170
 19 | Real_Player_0 | 6,194,262
-20 | ashinamune | 5,950,061
+20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,232,804
 23 | 8inchConer | 4,947,480
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | Obi1eyeKenobi | 652,339
 103 | MartynDr | 651,840
 104 | femacampcouncilor | 642,812
-105 | UniversalNoobMaster | 634,340
+105 | UniversalNoobMaster | 635,036
 106 | Duskopia | 633,492
 107 | slirpo | 631,180
 108 | ID404_Not_Found_8964 | 606,162
