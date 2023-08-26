@@ -1,4 +1,4 @@
-Last updated: 23-08-26 09:18:29 UTC  
+Last updated: 23-08-26 09:30:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | avyun | 6,801,015
 18 | Geniuskills | 6,274,170
 19 | Real_Player_0 | 6,190,382
-20 | ashinamune | 5,850,061
+20 | ashinamune | 5,950,061
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,231,544
 23 | 8inchConer | 4,947,480
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | thelonliestcrowd | 4,759,035
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
-28 | Ginomania | 4,396,809
+28 | Ginomania | 4,441,809
 29 | redzrex | 4,391,928
 30 | birdwastheword | 4,294,326
 31 | rustyybikes | 4,263,025
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | clean_cut89 | 3,573,997
 36 | LuminousViper | 3,408,030
 37 | ZukoBih | 3,403,115
-38 | SpookySYN | 3,339,767
+38 | SpookySYN | 3,345,093
 39 | Dry_Badger_2403 | 3,193,857
 40 | thom_orrow | 3,087,142
 41 | LordBobTheWhale | 3,066,078
