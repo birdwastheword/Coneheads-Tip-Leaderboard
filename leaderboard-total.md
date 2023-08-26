@@ -1,4 +1,4 @@
-Last updated: 23-08-26 11:31:22 UTC  
+Last updated: 23-08-26 11:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -197,7 +197,7 @@ Rank | Username | Totals Tips
 194 | Beenthorny | 212,362
 195 | SigSalvadore | 212,358
 196 | UWphoto | 209,795
-197 | Significant_Talk4943 | 209,079
+197 | Significant_Talk4943 | 209,499
 198 | the_judge_168 | 208,455
 199 | Ashamed_Raccoon9918 | 205,858
 200 | Esco1980 | 204,434
