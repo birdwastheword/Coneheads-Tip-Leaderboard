@@ -1,4 +1,4 @@
-Last updated: 23-08-26 12:57:53 UTC  
+Last updated: 23-08-26 13:21:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -19,10 +19,10 @@ Rank | Username | Totals Tips
 16 | cutsickass | 7,680,843
 17 | avyun | 6,801,015
 18 | Geniuskills | 6,274,170
-19 | Real_Player_0 | 6,193,653
+19 | Real_Player_0 | 6,194,262
 20 | ashinamune | 5,950,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,231,964
+22 | HippieStarTraveler | 5,232,384
 23 | 8inchConer | 4,947,480
 24 | _ships | 4,921,054
 25 | thelonliestcrowd | 4,759,035
@@ -30,10 +30,10 @@ Rank | Username | Totals Tips
 27 | bigbilly1234567899 | 4,496,042
 28 | Ginomania | 4,446,809
 29 | redzrex | 4,391,928
-30 | birdwastheword | 4,294,326
+30 | birdwastheword | 4,294,746
 31 | rustyybikes | 4,263,025
 32 | Puddin-Luv | 4,261,445
-33 | IveDoneItAtLast | 4,032,098
+33 | IveDoneItAtLast | 4,034,761
 34 | VIVOffical | 3,946,428
 35 | SpookySYN | 3,885,449
 36 | clean_cut89 | 3,573,997
@@ -138,7 +138,7 @@ Rank | Username | Totals Tips
 135 | Crypto-4-Freedom | 415,138
 136 | dronegeeks1 | 414,406
 137 | LrnFaroeseWthBergur | 409,488
-138 | Creepy-Nectarine-225 | 389,003
+138 | Creepy-Nectarine-225 | 389,511
 139 | SHIFTY-T3RROR | 377,457
 140 | zenhodl | 374,566
 141 | hellosamaira | 373,235
