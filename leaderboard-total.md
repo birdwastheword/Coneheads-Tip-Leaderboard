@@ -1,4 +1,4 @@
-Last updated: 23-08-26 23:20:08 UTC  
+Last updated: 23-08-26 23:30:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,354,033
 9 | HODL-THE-LINE | 11,968,181
 10 | Parush9 | 11,940,680
-11 | SammyCraigar | 8,949,405
+11 | SammyCraigar | 8,950,621
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
 14 | Homeslicekilla | 7,995,797
