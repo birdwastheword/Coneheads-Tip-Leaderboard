@@ -1,4 +1,4 @@
-Last updated: 23-08-26 14:22:57 UTC  
+Last updated: 23-08-26 14:31:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,194,262
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,234,904
+22 | HippieStarTraveler | 5,236,164
 23 | 8inchConer | 4,947,480
 24 | _ships | 4,921,054
 25 | thelonliestcrowd | 4,759,035
@@ -30,13 +30,13 @@ Rank | Username | Totals Tips
 27 | bigbilly1234567899 | 4,496,042
 28 | Ginomania | 4,446,809
 29 | redzrex | 4,392,348
-30 | birdwastheword | 4,297,409
+30 | birdwastheword | 4,300,072
 31 | rustyybikes | 4,263,025
 32 | Puddin-Luv | 4,261,445
 33 | IveDoneItAtLast | 4,034,761
 34 | VIVOffical | 3,946,428
 35 | SpookySYN | 3,885,449
-36 | clean_cut89 | 3,576,660
+36 | clean_cut89 | 3,579,323
 37 | LuminousViper | 3,408,030
 38 | ZukoBih | 3,403,115
 39 | Dry_Badger_2403 | 3,193,857
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
 45 | possibili-teas | 2,399,515
-46 | ImAlekBan | 2,204,339
+46 | ImAlekBan | 2,206,032
 47 | GuyOne | 2,191,244
 48 | Autom4tic_Soze | 2,161,474
 49 | Fenrir-1919 | 2,076,403
@@ -232,8 +232,8 @@ Rank | Username | Totals Tips
 229 | sjakkpila | 152,031
 230 | CoverYourMaskHoles | 151,719
 231 | NotFullyTerrestrial | 150,694
-232 | satoshi_oscar_wilde | 147,409
-233 | Lastkidpicked94 | 145,500
+232 | Lastkidpicked94 | 148,163
+233 | satoshi_oscar_wilde | 147,409
 234 | Sad_Entertainer9961 | 143,248
 235 | Doovs | 142,767
 236 | SalliIsAFem | 140,361
@@ -473,8 +473,8 @@ Rank | Username | Totals Tips
 470 | Fomo- | 28,000
 471 | madisonfm | 27,934
 472 | Jo2Bax | 27,820
-473 | ikiyen | 27,500
-474 | Motor-breath8 | 27,284
+473 | Motor-breath8 | 27,704
+474 | ikiyen | 27,500
 475 | kanem87 | 27,265
 476 | Sparrow | 27,214
 477 | sM0k3dR4Gn | 27,131
