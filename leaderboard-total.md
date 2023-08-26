@@ -1,11 +1,11 @@
-Last updated: 23-08-26 05:22:20 UTC  
+Last updated: 23-08-26 05:30:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
 2 | Wonderful_Bad6531 | 34,315,543
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
-5 | nakamo-toe | 26,853,045
+5 | nakamo-toe | 26,853,893
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,247,133
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | HippieStarTraveler | 5,231,544
 22 | 8inchConer | 4,947,480
 23 | thelonliestcrowd | 4,758,615
-24 | _ships | 4,575,623
+24 | _ships | 4,576,231
 25 | rikbona | 4,539,773
 26 | bigbilly1234567899 | 4,496,042
 27 | Ginomania | 4,396,809
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | Allions1 | 503,528
 121 | dopelifer09 | 502,285
 122 | Successful-Walk-3902 | 498,374
-123 | Korean_Street_Pizza | 465,557
+123 | Korean_Street_Pizza | 470,883
 124 | sinlesco | 462,490
 125 | WarmlyWacky | 462,118
 126 | formidable-opponent | 459,308
@@ -302,7 +302,7 @@ Rank | Username | Totals Tips
 299 | Puzzleheaded_Gift738 | 84,020
 300 | RollingSkull0 | 83,098
 301 | standArtpluto | 82,100
-302 | AhhhUhmmm | 80,945
+302 | AhhhUhmmm | 81,014
 303 | mastermarvs | 80,384
 304 | diamondbored | 79,817
 305 | Pwny_b0y | 79,447
