@@ -1,4 +1,4 @@
-Last updated: 23-08-26 04:41:41 UTC  
+Last updated: 23-08-26 04:51:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | swampyswede | 1,825,997
 53 | dealkhabari | 1,736,652
 54 | Ten-Mins-Late | 1,706,113
-55 | zdubs | 1,630,893
+55 | zdubs | 1,631,501
 56 | GooderZBK | 1,613,996
 57 | KONGXIANG | 1,526,459
 58 | bray_martin03 | 1,518,175
