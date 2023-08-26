@@ -1,4 +1,4 @@
-Last updated: 23-08-26 14:31:21 UTC  
+Last updated: 23-08-26 14:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,354,033
 9 | HODL-THE-LINE | 11,955,181
 10 | Parush9 | 11,940,680
-11 | SammyCraigar | 8,933,945
+11 | SammyCraigar | 8,938,145
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
 14 | Homeslicekilla | 7,995,797
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,194,262
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,236,164
+22 | HippieStarTraveler | 5,237,424
 23 | 8inchConer | 4,947,480
 24 | _ships | 4,921,054
 25 | thelonliestcrowd | 4,759,035
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | IveDoneItAtLast | 4,034,761
 34 | VIVOffical | 3,946,428
 35 | SpookySYN | 3,885,449
-36 | clean_cut89 | 3,579,323
+36 | clean_cut89 | 3,582,986
 37 | LuminousViper | 3,408,030
 38 | ZukoBih | 3,403,115
 39 | Dry_Badger_2403 | 3,193,857
@@ -62,10 +62,10 @@ Rank | Username | Totals Tips
 59 | DontLaughArt | 1,485,598
 60 | evilninjarobot | 1,447,010
 61 | isthistomorrow_ | 1,350,016
-62 | CMDRGlamdring | 1,254,452
-63 | ValiantJudge29500 | 1,234,212
-64 | revdrgonzo | 1,232,551
-65 | djrcollectables | 1,229,374
+62 | CMDRGlamdring | 1,257,115
+63 | djrcollectables | 1,234,700
+64 | ValiantJudge29500 | 1,234,212
+65 | revdrgonzo | 1,232,551
 66 | saintajoras | 1,202,606
 67 | HestiaIsTheBestia | 1,188,046
 68 | Richicash | 1,181,855
@@ -360,9 +360,9 @@ Rank | Username | Totals Tips
 357 | BitCone_CONE | 56,760
 358 | ElmerBlack | 56,581
 359 | ProfessionalIcy6456 | 56,380
-360 | Creative_Ad7831 | 56,326
-361 | Bandit_005 | 56,303
-362 | IHodlStill | 55,934
+360 | IHodlStill | 56,354
+361 | Creative_Ad7831 | 56,326
+362 | Bandit_005 | 56,303
 363 | chuloreddit | 55,878
 364 | imbarrydylan | 55,689
 365 | Bobocod | 55,420
