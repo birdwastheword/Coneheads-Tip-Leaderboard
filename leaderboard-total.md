@@ -1,11 +1,11 @@
-Last updated: 23-08-26 20:18:44 UTC  
+Last updated: 23-08-26 20:30:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
 2 | Wonderful_Bad6531 | 34,535,963
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
-5 | nakamo-toe | 26,883,186
+5 | nakamo-toe | 26,909,816
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,354,033
@@ -90,8 +90,8 @@ Rank | Username | Totals Tips
 87 | ashketchup422 | 794,067
 88 | Cravensworth_redux | 790,803
 89 | ziggybri | 782,435
-90 | RegalReptile_ | 753,708
-91 | UniversalNoobMaster | 748,974
+90 | UniversalNoobMaster | 755,943
+91 | RegalReptile_ | 753,708
 92 | billywright4 | 727,550
 93 | starterpack420694 | 710,420
 94 | WarmIyWacky | 703,049
@@ -168,17 +168,17 @@ Rank | Username | Totals Tips
 165 | astro_nut_ | 280,463
 166 | maxfra | 279,459
 167 | deedopete | 277,247
-168 | dinoyeti | 273,373
-169 | Flimsy_Brilliant_239 | 265,592
-170 | FluffyAspie | 265,128
-171 | SetoXlll | 264,956
-172 | _Mitchee_ | 260,327
-173 | Hactar_42 | 256,832
-174 | thecrabdad | 256,177
-175 | Ambitious-Minimum-80 | 252,035
-176 | Lillica_Golden_SHIB | 251,519
-177 | Sattack4000 | 250,837
-178 | MadScientistTheFirst | 249,847
+168 | MadScientistTheFirst | 276,477
+169 | dinoyeti | 273,373
+170 | Flimsy_Brilliant_239 | 265,592
+171 | FluffyAspie | 265,128
+172 | SetoXlll | 264,956
+173 | _Mitchee_ | 260,327
+174 | Hactar_42 | 256,832
+175 | thecrabdad | 256,177
+176 | Ambitious-Minimum-80 | 252,035
+177 | Lillica_Golden_SHIB | 251,519
+178 | Sattack4000 | 250,837
 179 | Gregoryonetulum | 249,309
 180 | BeardedBro_ | 248,627
 181 | SnooMacarons9203 | 246,893
