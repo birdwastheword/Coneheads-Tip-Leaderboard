@@ -1,8 +1,8 @@
-Last updated: 23-08-26 17:19:44 UTC  
+Last updated: 23-08-26 17:30:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
-2 | Wonderful_Bad6531 | 34,535,543
+2 | Wonderful_Bad6531 | 34,535,963
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
 5 | nakamo-toe | 26,883,186
@@ -202,7 +202,7 @@ Rank | Username | Totals Tips
 199 | Ashamed_Raccoon9918 | 205,858
 200 | Esco1980 | 204,434
 201 | ziggyback | 203,369
-202 | jimfird | 200,671
+202 | jimfird | 201,179
 203 | CedricDiccory | 197,932
 204 | sudrats | 197,124
 205 | redditavanft | 195,122
@@ -501,7 +501,7 @@ Rank | Username | Totals Tips
 498 | Practical-Store9603 | 25,000
 499 | 4ucklehead | 24,684
 500 | liberovento | 24,307
-501 | SirPesoOtaku | 23,641
+501 | SirPesoOtaku | 24,061
 502 | Qptimised | 23,573
 503 | africanasshat | 23,062
 504 | AntonioTT05 | 22,876
