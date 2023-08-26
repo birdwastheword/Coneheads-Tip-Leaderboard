@@ -1,11 +1,11 @@
-Last updated: 23-08-26 05:40:44 UTC  
+Last updated: 23-08-26 05:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
 2 | Wonderful_Bad6531 | 34,315,543
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
-5 | nakamo-toe | 26,853,893
+5 | nakamo-toe | 26,880,523
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,247,133
@@ -124,9 +124,9 @@ Rank | Username | Totals Tips
 121 | dopelifer09 | 502,285
 122 | Successful-Walk-3902 | 498,374
 123 | Korean_Street_Pizza | 470,883
-124 | sinlesco | 462,490
-125 | WarmlyWacky | 462,118
-126 | formidable-opponent | 459,308
+124 | formidable-opponent | 467,085
+125 | sinlesco | 462,490
+126 | WarmlyWacky | 462,118
 127 | crodbtc | 455,681
 128 | MediaPrestigious8342 | 453,839
 129 | Lady_Lucks_Man | 448,456
