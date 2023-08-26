@@ -1,11 +1,11 @@
-Last updated: 23-08-26 20:50:38 UTC  
+Last updated: 23-08-26 21:14:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
 2 | Wonderful_Bad6531 | 34,535,963
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
-5 | nakamo-toe | 26,909,816
+5 | nakamo-toe | 26,944,095
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,354,033
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | KONGXIANG | 1,526,459
 60 | bray_martin03 | 1,518,175
 61 | DontLaughArt | 1,498,261
-62 | evilninjarobot | 1,447,010
+62 | evilninjarobot | 1,453,979
 63 | isthistomorrow_ | 1,350,016
 64 | ValiantJudge29500 | 1,267,591
 65 | djrcollectables | 1,267,264
@@ -105,8 +105,8 @@ Rank | Username | Totals Tips
 102 | Westy3000 | 659,138
 103 | Obi1eyeKenobi | 652,339
 104 | MartynDr | 651,840
-105 | femacampcouncilor | 642,812
-106 | Duskopia | 633,492
+105 | Duskopia | 643,492
+106 | femacampcouncilor | 642,812
 107 | slirpo | 631,180
 108 | ID404_Not_Found_8964 | 606,165
 109 | firstmatedotxyz | 598,580
@@ -227,8 +227,8 @@ Rank | Username | Totals Tips
 224 | skollywag92 | 163,279
 225 | Adrewmc | 161,177
 226 | tmanfromEarth | 155,392
-227 | 6reficul | 153,884
-228 | Lastkidpicked94 | 153,397
+227 | Lastkidpicked94 | 154,734
+228 | 6reficul | 153,884
 229 | martymartinator | 152,560
 230 | sjakkpila | 152,031
 231 | CoverYourMaskHoles | 151,719
