@@ -1,4 +1,4 @@
-Last updated: 23-08-26 19:01:03 UTC  
+Last updated: 23-08-26 19:15:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -33,9 +33,9 @@ Rank | Username | Totals Tips
 30 | birdwastheword | 4,300,072
 31 | rustyybikes | 4,263,025
 32 | Puddin-Luv | 4,261,445
-33 | IveDoneItAtLast | 4,040,087
+33 | IveDoneItAtLast | 4,040,695
 34 | VIVOffical | 3,946,428
-35 | SpookySYN | 3,885,449
+35 | SpookySYN | 3,896,101
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
 38 | ZukoBih | 3,403,115
@@ -411,15 +411,15 @@ Rank | Username | Totals Tips
 408 | Oue | 41,026
 409 | ARoyaleWithCheese | 41,000
 410 | halfavocadoemoji | 40,688
-411 | Expensive_Being_4038 | 40,558
-412 | matdabom | 40,068
-413 | YourLocalDuskFox | 40,000
-414 | babuba1234321 | 40,000
-415 | alex_si_davies | 39,965
-416 | Zap1324 | 39,869
-417 | AMAxyz | 39,775
-418 | Mortifer6 | 39,669
-419 | Yirii | 39,605
+411 | Yirii | 40,605
+412 | Expensive_Being_4038 | 40,558
+413 | matdabom | 40,068
+414 | YourLocalDuskFox | 40,000
+415 | babuba1234321 | 40,000
+416 | alex_si_davies | 39,965
+417 | Zap1324 | 39,869
+418 | AMAxyz | 39,775
+419 | Mortifer6 | 39,669
 420 | waterincorporated | 39,428
 421 | Lucabba | 39,278
 422 | madridgalactico | 39,231
