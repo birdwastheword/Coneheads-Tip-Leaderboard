@@ -1,4 +1,4 @@
-Last updated: 23-08-26 21:23:17 UTC  
+Last updated: 23-08-26 21:32:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -167,8 +167,8 @@ Rank | Username | Totals Tips
 164 | Extreme_Issue7325 | 282,538
 165 | astro_nut_ | 280,463
 166 | maxfra | 279,459
-167 | deedopete | 277,247
-168 | MadScientistTheFirst | 276,897
+167 | MadScientistTheFirst | 277,317
+168 | deedopete | 277,247
 169 | dinoyeti | 273,373
 170 | Flimsy_Brilliant_239 | 265,592
 171 | FluffyAspie | 265,128
@@ -193,7 +193,7 @@ Rank | Username | Totals Tips
 190 | MuhSound | 225,403
 191 | SourBeefHoop | 217,512
 192 | alexthemay | 214,131
-193 | Conetent | 213,346
+193 | Conetent | 213,846
 194 | Beenthorny | 212,362
 195 | SigSalvadore | 212,358
 196 | UWphoto | 209,795
