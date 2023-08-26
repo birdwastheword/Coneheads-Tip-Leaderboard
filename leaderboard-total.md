@@ -1,11 +1,11 @@
-Last updated: 23-08-26 21:50:35 UTC  
+Last updated: 23-08-26 22:22:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
 2 | Wonderful_Bad6531 | 34,535,963
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
-5 | nakamo-toe | 26,973,388
+5 | nakamo-toe | 27,058,264
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,354,033
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,241,624
 23 | 8inchConer | 4,947,480
-24 | _ships | 4,921,054
+24 | _ships | 4,923,717
 25 | thelonliestcrowd | 4,759,643
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,300,072
 32 | rustyybikes | 4,263,025
 33 | Puddin-Luv | 4,261,445
-34 | IveDoneItAtLast | 4,048,684
+34 | IveDoneItAtLast | 4,054,010
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -146,13 +146,13 @@ Rank | Username | Totals Tips
 143 | PortCity_MadMan | 362,265
 144 | farmertypoerror | 359,212
 145 | Mundane-Farm-4117 | 358,176
-146 | Outrageous-Skill-464 | 344,174
-147 | anony666mous | 341,008
-148 | noface_reddit | 340,895
-149 | tsudrat | 340,707
-150 | YarOldeOrchard | 340,375
-151 | Tinman_ApE | 337,352
-152 | Lion-Hermit | 335,884
+146 | Lion-Hermit | 345,884
+147 | Outrageous-Skill-464 | 344,174
+148 | anony666mous | 341,008
+149 | noface_reddit | 340,895
+150 | tsudrat | 340,707
+151 | YarOldeOrchard | 340,375
+152 | Tinman_ApE | 337,352
 153 | DogSpark84 | 325,741
 154 | Dripbot8 | 325,384
 155 | virmamies | 316,478
@@ -166,8 +166,8 @@ Rank | Username | Totals Tips
 163 | monkeybombed | 283,831
 164 | Extreme_Issue7325 | 282,538
 165 | astro_nut_ | 280,463
-166 | maxfra | 279,459
-167 | MadScientistTheFirst | 277,317
+166 | MadScientistTheFirst | 280,400
+167 | maxfra | 279,459
 168 | deedopete | 277,247
 169 | dinoyeti | 273,373
 170 | Flimsy_Brilliant_239 | 265,592
@@ -296,7 +296,7 @@ Rank | Username | Totals Tips
 293 | ShopALF | 87,942
 294 | kwickle | 87,805
 295 | jurgensdapimp | 86,817
-296 | ItailianStallion101 | 85,762
+296 | ItailianStallion101 | 86,182
 297 | Mother-Werewolf185 | 85,579
 298 | qwertywich | 84,810
 299 | Puzzleheaded_Gift738 | 84,020
@@ -436,8 +436,8 @@ Rank | Username | Totals Tips
 433 | Imalittlestitious86 | 37,090
 434 | degree-01 | 36,486
 435 | genesis_crazy_one | 36,167
-436 | GuronT | 35,561
-437 | skatistic | 35,338
+436 | skatistic | 35,827
+437 | GuronT | 35,561
 438 | TRANZHUMANIST | 35,000
 439 | FalloutAssasin | 34,863
 440 | BelowAveIntelligence | 34,132
