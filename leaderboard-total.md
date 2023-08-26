@@ -1,4 +1,4 @@
-Last updated: 23-08-26 09:30:42 UTC  
+Last updated: 23-08-26 09:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -28,17 +28,17 @@ Rank | Username | Totals Tips
 25 | thelonliestcrowd | 4,759,035
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
-28 | Ginomania | 4,441,809
+28 | Ginomania | 4,446,809
 29 | redzrex | 4,391,928
 30 | birdwastheword | 4,294,326
 31 | rustyybikes | 4,263,025
 32 | Puddin-Luv | 4,261,445
 33 | IveDoneItAtLast | 4,024,109
 34 | VIVOffical | 3,946,428
-35 | clean_cut89 | 3,573,997
-36 | LuminousViper | 3,408,030
-37 | ZukoBih | 3,403,115
-38 | SpookySYN | 3,345,093
+35 | SpookySYN | 3,845,093
+36 | clean_cut89 | 3,573,997
+37 | LuminousViper | 3,408,030
+38 | ZukoBih | 3,403,115
 39 | Dry_Badger_2403 | 3,193,857
 40 | thom_orrow | 3,087,142
 41 | LordBobTheWhale | 3,066,078
@@ -59,11 +59,11 @@ Rank | Username | Totals Tips
 56 | GooderZBK | 1,613,996
 57 | KONGXIANG | 1,526,459
 58 | bray_martin03 | 1,518,175
-59 | DontLaughArt | 1,470,272
+59 | DontLaughArt | 1,482,935
 60 | evilninjarobot | 1,447,010
 61 | isthistomorrow_ | 1,350,016
 62 | CMDRGlamdring | 1,253,762
-63 | ValiantJudge29500 | 1,232,604
+63 | ValiantJudge29500 | 1,233,212
 64 | revdrgonzo | 1,232,551
 65 | saintajoras | 1,202,606
 66 | djrcollectables | 1,196,810
@@ -89,7 +89,7 @@ Rank | Username | Totals Tips
 86 | ashketchup422 | 794,067
 87 | ziggybri | 782,435
 88 | Cravensworth_redux | 780,803
-89 | RegalReptile_ | 748,208
+89 | RegalReptile_ | 753,708
 90 | billywright4 | 727,550
 91 | starterpack420694 | 710,420
 92 | WarmIyWacky | 703,049
