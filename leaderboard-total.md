@@ -1,4 +1,4 @@
-Last updated: 23-08-26 03:50:59 UTC  
+Last updated: 23-08-26 04:24:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 7,844,002
 15 | cutsickass | 7,590,932
-16 | avyun | 6,794,046
+16 | avyun | 6,801,015
 17 | Geniuskills | 6,267,201
 18 | Real_Player_0 | 6,190,382
 19 | ashinamune | 5,850,061
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | LuminousViper | 3,408,030
 37 | ZukoBih | 3,403,115
 38 | Dry_Badger_2403 | 3,193,857
-39 | thom_orrow | 3,086,142
+39 | thom_orrow | 3,087,142
 40 | LordBobTheWhale | 3,066,078
 41 | SpookySYN | 2,834,441
 42 | Mean_Bandicoot_7481 | 2,752,108
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | GooderZBK | 1,613,996
 57 | KONGXIANG | 1,526,459
 58 | bray_martin03 | 1,518,175
-59 | DontLaughArt | 1,469,606
+59 | DontLaughArt | 1,470,272
 60 | evilninjarobot | 1,447,010
 61 | isthistomorrow_ | 1,350,016
 62 | CMDRGlamdring | 1,252,762
@@ -119,7 +119,7 @@ Rank | Username | Totals Tips
 116 | shreyaskg | 538,211
 117 | junkwatch | 510,048
 118 | f0n1xr131ng | 509,681
-119 | MorrisBrett514 | 505,703
+119 | MorrisBrett514 | 506,123
 120 | Allions1 | 503,528
 121 | dopelifer09 | 502,285
 122 | Successful-Walk-3902 | 498,374
