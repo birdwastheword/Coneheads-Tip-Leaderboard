@@ -1,8 +1,8 @@
-Last updated: 23-08-26 14:00:40 UTC  
+Last updated: 23-08-26 14:22:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
-2 | Wonderful_Bad6531 | 34,335,543
+2 | Wonderful_Bad6531 | 34,535,543
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
 5 | nakamo-toe | 26,883,186
@@ -22,21 +22,21 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,194,262
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,233,224
+22 | HippieStarTraveler | 5,234,904
 23 | 8inchConer | 4,947,480
 24 | _ships | 4,921,054
 25 | thelonliestcrowd | 4,759,035
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
 28 | Ginomania | 4,446,809
-29 | redzrex | 4,391,928
-30 | birdwastheword | 4,294,746
+29 | redzrex | 4,392,348
+30 | birdwastheword | 4,297,409
 31 | rustyybikes | 4,263,025
 32 | Puddin-Luv | 4,261,445
 33 | IveDoneItAtLast | 4,034,761
 34 | VIVOffical | 3,946,428
 35 | SpookySYN | 3,885,449
-36 | clean_cut89 | 3,573,997
+36 | clean_cut89 | 3,576,660
 37 | LuminousViper | 3,408,030
 38 | ZukoBih | 3,403,115
 39 | Dry_Badger_2403 | 3,193,857
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | DontLaughArt | 1,485,598
 60 | evilninjarobot | 1,447,010
 61 | isthistomorrow_ | 1,350,016
-62 | CMDRGlamdring | 1,253,762
+62 | CMDRGlamdring | 1,254,452
 63 | ValiantJudge29500 | 1,234,212
 64 | revdrgonzo | 1,232,551
 65 | djrcollectables | 1,229,374
@@ -72,8 +72,8 @@ Rank | Username | Totals Tips
 69 | Feetfailmenot | 1,151,105
 70 | beastlybaker | 1,138,701
 71 | LongCauliflower6791 | 1,086,444
-72 | Hot_Potato_Salad | 1,079,657
-73 | investigator100 | 1,074,704
+72 | investigator100 | 1,084,704
+73 | Hot_Potato_Salad | 1,079,657
 74 | 0-Give-a-fucks | 1,039,264
 75 | freechickens | 1,028,386
 76 | avatarbot | 1,027,000
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | Obi1eyeKenobi | 652,339
 103 | MartynDr | 651,840
 104 | femacampcouncilor | 642,812
-105 | UniversalNoobMaster | 635,036
+105 | UniversalNoobMaster | 642,005
 106 | Duskopia | 633,492
 107 | slirpo | 631,180
 108 | ID404_Not_Found_8964 | 606,162
@@ -133,9 +133,9 @@ Rank | Username | Totals Tips
 130 | adrifing | 441,168
 131 | unhingedbigfoot | 439,874
 132 | Mopeiooo | 427,266
-133 | doktastonks | 421,325
-134 | RazPie | 416,654
-135 | Crypto-4-Freedom | 415,138
+133 | Crypto-4-Freedom | 423,298
+134 | doktastonks | 421,325
+135 | RazPie | 416,654
 136 | dronegeeks1 | 414,406
 137 | LrnFaroeseWthBergur | 409,488
 138 | Creepy-Nectarine-225 | 389,511
