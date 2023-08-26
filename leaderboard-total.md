@@ -1,4 +1,4 @@
-Last updated: 23-08-26 22:30:51 UTC  
+Last updated: 23-08-26 22:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,300,072
 32 | rustyybikes | 4,263,025
 33 | Puddin-Luv | 4,261,445
-34 | IveDoneItAtLast | 4,056,673
+34 | IveDoneItAtLast | 4,059,336
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
