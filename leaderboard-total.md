@@ -1,4 +1,4 @@
-Last updated: 23-08-26 22:40:37 UTC  
+Last updated: 23-08-26 22:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -22,9 +22,9 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,194,870
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,241,624
+22 | HippieStarTraveler | 5,242,044
 23 | 8inchConer | 4,947,480
-24 | _ships | 4,923,717
+24 | _ships | 4,934,665
 25 | thelonliestcrowd | 4,759,643
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
