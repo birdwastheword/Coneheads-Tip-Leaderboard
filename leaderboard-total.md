@@ -1,8 +1,8 @@
-Last updated: 23-08-26 13:40:28 UTC  
+Last updated: 23-08-26 13:50:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
-2 | Wonderful_Bad6531 | 34,315,543
+2 | Wonderful_Bad6531 | 34,335,543
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
 5 | nakamo-toe | 26,883,186
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,194,262
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,232,804
+22 | HippieStarTraveler | 5,233,224
 23 | 8inchConer | 4,947,480
 24 | _ships | 4,921,054
 25 | thelonliestcrowd | 4,759,035
