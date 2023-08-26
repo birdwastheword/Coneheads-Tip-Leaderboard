@@ -1,4 +1,4 @@
-Last updated: 23-08-26 19:32:48 UTC  
+Last updated: 23-08-26 19:41:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,300,072
 32 | rustyybikes | 4,263,025
 33 | Puddin-Luv | 4,261,445
-34 | IveDoneItAtLast | 4,043,358
+34 | IveDoneItAtLast | 4,048,684
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -153,8 +153,8 @@ Rank | Username | Totals Tips
 150 | YarOldeOrchard | 340,375
 151 | Tinman_ApE | 337,352
 152 | Lion-Hermit | 335,884
-153 | Dripbot8 | 325,384
-154 | DogSpark84 | 325,133
+153 | DogSpark84 | 325,741
+154 | Dripbot8 | 325,384
 155 | virmamies | 316,478
 156 | WhateverAlready | 316,461
 157 | EffinDrongoC | 312,738
@@ -216,9 +216,9 @@ Rank | Username | Totals Tips
 213 | Most_Being_4002 | 174,574
 214 | Final-Scar-941 | 172,919
 215 | YourThighsWarmMyEars | 172,697
-216 | Street_Addd | 171,939
-217 | fettskull | 171,703
-218 | DAMG808 | 171,397
+216 | DAMG808 | 172,005
+217 | Street_Addd | 171,939
+218 | fettskull | 171,703
 219 | MymannosaurusRex | 171,317
 220 | high5s_inureye | 167,388
 221 | DamnWhySoLow | 166,675
@@ -301,7 +301,7 @@ Rank | Username | Totals Tips
 298 | qwertywich | 84,810
 299 | Puzzleheaded_Gift738 | 84,020
 300 | RollingSkull0 | 83,098
-301 | shiesto | 82,497
+301 | shiesto | 82,917
 302 | standArtpluto | 82,100
 303 | yahuurdme | 81,889
 304 | AhhhUhmmm | 81,014
@@ -434,8 +434,8 @@ Rank | Username | Totals Tips
 431 | shitwhenismycakeday | 37,409
 432 | redditisalt | 37,307
 433 | Imalittlestitious86 | 37,090
-434 | genesis_crazy_one | 36,167
-435 | degree-01 | 36,066
+434 | degree-01 | 36,486
+435 | genesis_crazy_one | 36,167
 436 | GuronT | 35,561
 437 | skatistic | 35,338
 438 | TRANZHUMANIST | 35,000
