@@ -1,4 +1,4 @@
-Last updated: 23-08-26 18:51:08 UTC  
+Last updated: 23-08-26 19:01:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | GooderZBK | 1,613,996
 57 | KONGXIANG | 1,526,459
 58 | bray_martin03 | 1,518,175
-59 | DontLaughArt | 1,485,598
+59 | DontLaughArt | 1,498,261
 60 | evilninjarobot | 1,447,010
 61 | isthistomorrow_ | 1,350,016
 62 | djrcollectables | 1,267,264
