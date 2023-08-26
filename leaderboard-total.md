@@ -1,4 +1,4 @@
-Last updated: 23-08-26 08:33:03 UTC  
+Last updated: 23-08-26 08:41:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,556,121
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | nakamo-toe | 26,883,186
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
-8 | crypto_grandma | 12,347,133
+8 | crypto_grandma | 12,354,033
 9 | Parush9 | 11,940,680
 10 | HODL-THE-LINE | 11,921,100
 11 | SammyCraigar | 8,933,945
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | SpookySYN | 2,834,441
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
-44 | send420nudes | 2,451,237
+44 | send420nudes | 2,551,237
 45 | possibili-teas | 2,399,515
 46 | ImAlekBan | 2,204,339
 47 | GuyOne | 2,191,244
