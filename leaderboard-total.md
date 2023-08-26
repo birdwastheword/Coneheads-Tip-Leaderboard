@@ -1,4 +1,4 @@
-Last updated: 23-08-26 19:24:02 UTC  
+Last updated: 23-08-26 19:32:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -29,13 +29,13 @@ Rank | Username | Totals Tips
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
 28 | Ginomania | 4,446,809
-29 | redzrex | 4,395,011
-30 | birdwastheword | 4,300,072
-31 | rustyybikes | 4,263,025
-32 | Puddin-Luv | 4,261,445
-33 | IveDoneItAtLast | 4,040,695
-34 | VIVOffical | 3,946,428
-35 | SpookySYN | 3,898,764
+29 | SpookySYN | 4,401,427
+30 | redzrex | 4,395,011
+31 | birdwastheword | 4,300,072
+32 | rustyybikes | 4,263,025
+33 | Puddin-Luv | 4,261,445
+34 | IveDoneItAtLast | 4,043,358
+35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
 38 | ZukoBih | 3,403,115
@@ -62,8 +62,8 @@ Rank | Username | Totals Tips
 59 | DontLaughArt | 1,498,261
 60 | evilninjarobot | 1,447,010
 61 | isthistomorrow_ | 1,350,016
-62 | djrcollectables | 1,267,264
-63 | ValiantJudge29500 | 1,266,983
+62 | ValiantJudge29500 | 1,267,591
+63 | djrcollectables | 1,267,264
 64 | CMDRGlamdring | 1,258,184
 65 | revdrgonzo | 1,232,551
 66 | saintajoras | 1,202,606
@@ -218,17 +218,17 @@ Rank | Username | Totals Tips
 215 | YourThighsWarmMyEars | 172,697
 216 | Street_Addd | 171,939
 217 | fettskull | 171,703
-218 | MymannosaurusRex | 171,317
-219 | high5s_inureye | 167,388
-220 | DamnWhySoLow | 166,675
-221 | MelonFarmer420 | 164,196
-222 | ultra_terrestrial | 163,762
-223 | skollywag92 | 163,279
-224 | Adrewmc | 161,177
-225 | DAMG808 | 161,126
-226 | 6reficul | 153,884
-227 | Lastkidpicked94 | 153,397
-228 | tmanfromEarth | 153,392
+218 | DAMG808 | 171,397
+219 | MymannosaurusRex | 171,317
+220 | high5s_inureye | 167,388
+221 | DamnWhySoLow | 166,675
+222 | MelonFarmer420 | 164,196
+223 | ultra_terrestrial | 163,762
+224 | skollywag92 | 163,279
+225 | Adrewmc | 161,177
+226 | tmanfromEarth | 154,392
+227 | 6reficul | 153,884
+228 | Lastkidpicked94 | 153,397
 229 | martymartinator | 152,560
 230 | sjakkpila | 152,031
 231 | CoverYourMaskHoles | 151,719
