@@ -1,4 +1,4 @@
-Last updated: 23-08-26 17:50:42 UTC  
+Last updated: 23-08-26 18:24:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -11,12 +11,12 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,354,033
 9 | HODL-THE-LINE | 11,968,181
 10 | Parush9 | 11,940,680
-11 | SammyCraigar | 8,938,145
+11 | SammyCraigar | 8,943,471
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
 14 | Homeslicekilla | 7,995,797
 15 | transfermymoons | 7,844,002
-16 | cutsickass | 7,734,117
+16 | cutsickass | 7,814,028
 17 | avyun | 7,540,053
 18 | Geniuskills | 6,274,170
 19 | Real_Player_0 | 6,194,870
@@ -25,7 +25,7 @@ Rank | Username | Totals Tips
 22 | HippieStarTraveler | 5,240,364
 23 | 8inchConer | 4,947,480
 24 | _ships | 4,921,054
-25 | thelonliestcrowd | 4,759,035
+25 | thelonliestcrowd | 4,759,643
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
 28 | Ginomania | 4,446,809
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | evilninjarobot | 1,447,010
 61 | isthistomorrow_ | 1,350,016
 62 | djrcollectables | 1,267,264
-63 | ValiantJudge29500 | 1,264,320
+63 | ValiantJudge29500 | 1,266,983
 64 | CMDRGlamdring | 1,258,184
 65 | revdrgonzo | 1,232,551
 66 | saintajoras | 1,202,606
@@ -104,8 +104,8 @@ Rank | Username | Totals Tips
 101 | Westy3000 | 659,138
 102 | Obi1eyeKenobi | 652,339
 103 | MartynDr | 651,840
-104 | femacampcouncilor | 642,812
-105 | UniversalNoobMaster | 642,005
+104 | UniversalNoobMaster | 648,974
+105 | femacampcouncilor | 642,812
 106 | Duskopia | 633,492
 107 | slirpo | 631,180
 108 | ID404_Not_Found_8964 | 606,162
@@ -208,7 +208,7 @@ Rank | Username | Totals Tips
 205 | redditavanft | 195,122
 206 | AverageLiberalJoe | 195,007
 207 | ShortBusCult | 192,925
-208 | TummyLice | 192,040
+208 | TummyLice | 192,460
 209 | TubeNerd92 | 184,257
 210 | nooobmaester69 | 183,460
 211 | ruccarucca | 179,850
