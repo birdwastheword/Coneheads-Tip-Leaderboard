@@ -1,4 +1,4 @@
-Last updated: 23-08-26 18:24:37 UTC  
+Last updated: 23-08-26 18:34:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -16,13 +16,13 @@ Rank | Username | Totals Tips
 13 | Permanent_WSB_Bull | 8,522,155
 14 | Homeslicekilla | 7,995,797
 15 | transfermymoons | 7,844,002
-16 | cutsickass | 7,814,028
+16 | cutsickass | 7,840,665
 17 | avyun | 7,540,053
 18 | Geniuskills | 6,274,170
 19 | Real_Player_0 | 6,194,870
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,240,364
+22 | HippieStarTraveler | 5,241,204
 23 | 8inchConer | 4,947,480
 24 | _ships | 4,921,054
 25 | thelonliestcrowd | 4,759,643
@@ -108,7 +108,7 @@ Rank | Username | Totals Tips
 105 | femacampcouncilor | 642,812
 106 | Duskopia | 633,492
 107 | slirpo | 631,180
-108 | ID404_Not_Found_8964 | 606,162
+108 | ID404_Not_Found_8964 | 606,165
 109 | firstmatedotxyz | 598,580
 110 | __PDS__ | 595,709
 111 | El_Gordone | 592,784
