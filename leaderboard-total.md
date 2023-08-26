@@ -1,4 +1,4 @@
-Last updated: 23-08-26 12:42:20 UTC  
+Last updated: 23-08-26 12:57:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,193,653
 20 | ashinamune | 5,950,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,231,544
+22 | HippieStarTraveler | 5,231,964
 23 | 8inchConer | 4,947,480
 24 | _ships | 4,921,054
 25 | thelonliestcrowd | 4,759,035
@@ -88,8 +88,8 @@ Rank | Username | Totals Tips
 85 | goldyluckinblokchain | 806,874
 86 | vbutarin | 802,000
 87 | ashketchup422 | 794,067
-88 | ziggybri | 782,435
-89 | Cravensworth_redux | 780,803
+88 | Cravensworth_redux | 790,803
+89 | ziggybri | 782,435
 90 | RegalReptile_ | 753,708
 91 | billywright4 | 727,550
 92 | starterpack420694 | 710,420
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | SKITZ_ZA | 673,394
 99 | Alanski22 | 663,830
 100 | piebagz | 661,815
-101 | Westy3000 | 654,694
+101 | Westy3000 | 659,138
 102 | Obi1eyeKenobi | 652,339
 103 | MartynDr | 651,840
 104 | femacampcouncilor | 642,812
