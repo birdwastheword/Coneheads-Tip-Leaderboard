@@ -1,4 +1,4 @@
-Last updated: 23-08-26 11:50:36 UTC  
+Last updated: 23-08-26 12:42:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -9,17 +9,17 @@ Rank | Username | Totals Tips
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,354,033
-9 | Parush9 | 11,940,680
-10 | HODL-THE-LINE | 11,923,115
+9 | HODL-THE-LINE | 11,945,681
+10 | Parush9 | 11,940,680
 11 | SammyCraigar | 8,933,945
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
 14 | Homeslicekilla | 7,995,797
 15 | transfermymoons | 7,844,002
-16 | cutsickass | 7,654,206
+16 | cutsickass | 7,680,843
 17 | avyun | 6,801,015
 18 | Geniuskills | 6,274,170
-19 | Real_Player_0 | 6,190,990
+19 | Real_Player_0 | 6,193,653
 20 | ashinamune | 5,950,061
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,231,544
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | HestiaIsTheBestia | 1,188,046
 68 | Richicash | 1,181,855
 69 | Feetfailmenot | 1,151,105
-70 | beastlybaker | 1,138,281
+70 | beastlybaker | 1,138,701
 71 | LongCauliflower6791 | 1,086,444
 72 | Hot_Potato_Salad | 1,079,657
 73 | investigator100 | 1,074,704
@@ -101,13 +101,13 @@ Rank | Username | Totals Tips
 98 | SKITZ_ZA | 673,394
 99 | Alanski22 | 663,830
 100 | piebagz | 661,815
-101 | Obi1eyeKenobi | 652,339
-102 | MartynDr | 651,840
-103 | Westy3000 | 649,139
+101 | Westy3000 | 654,694
+102 | Obi1eyeKenobi | 652,339
+103 | MartynDr | 651,840
 104 | femacampcouncilor | 642,812
-105 | Duskopia | 633,492
-106 | slirpo | 631,180
-107 | UniversalNoobMaster | 625,985
+105 | UniversalNoobMaster | 634,340
+106 | Duskopia | 633,492
+107 | slirpo | 631,180
 108 | ID404_Not_Found_8964 | 606,162
 109 | firstmatedotxyz | 598,580
 110 | __PDS__ | 595,709
@@ -176,7 +176,7 @@ Rank | Username | Totals Tips
 173 | Hactar_42 | 256,832
 174 | thecrabdad | 256,177
 175 | Ambitious-Minimum-80 | 252,035
-176 | Lillica_Golden_SHIB | 251,312
+176 | Lillica_Golden_SHIB | 251,519
 177 | Sattack4000 | 250,837
 178 | MadScientistTheFirst | 249,847
 179 | Gregoryonetulum | 249,309
@@ -296,8 +296,8 @@ Rank | Username | Totals Tips
 293 | ShopALF | 87,942
 294 | kwickle | 87,805
 295 | jurgensdapimp | 86,817
-296 | Mother-Werewolf185 | 85,579
-297 | ItailianStallion101 | 85,342
+296 | ItailianStallion101 | 85,762
+297 | Mother-Werewolf185 | 85,579
 298 | qwertywich | 84,810
 299 | Puzzleheaded_Gift738 | 84,020
 300 | RollingSkull0 | 83,098
@@ -438,8 +438,8 @@ Rank | Username | Totals Tips
 435 | degree-01 | 36,066
 436 | GuronT | 35,561
 437 | TRANZHUMANIST | 35,000
-438 | FalloutAssasin | 34,863
-439 | skatistic | 34,849
+438 | skatistic | 34,918
+439 | FalloutAssasin | 34,863
 440 | BelowAveIntelligence | 34,132
 441 | Obvious-Ask-5747 | 33,806
 442 | PoDunkYuppie | 33,513
