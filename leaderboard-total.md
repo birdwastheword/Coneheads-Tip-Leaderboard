@@ -1,4 +1,4 @@
-Last updated: 23-08-26 11:14:15 UTC  
+Last updated: 23-08-26 11:22:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -463,8 +463,8 @@ Rank | Username | Totals Tips
 460 | Big-Researcher-3855 | 29,994
 461 | Potential_Fix_5007 | 29,897
 462 | Gilbertll | 29,585
-463 | FoleyKali | 28,843
-464 | Rbmui13 | 28,756
+463 | Rbmui13 | 29,176
+464 | FoleyKali | 28,843
 465 | Locid | 28,518
 466 | bentolman | 28,291
 467 | cryotosensei | 28,224
