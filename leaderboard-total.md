@@ -1,4 +1,4 @@
-Last updated: 23-08-26 05:50:50 UTC  
+Last updated: 23-08-26 06:25:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Skank_cunt_42 | 5,467,162
 21 | HippieStarTraveler | 5,231,544
 22 | 8inchConer | 4,947,480
-23 | thelonliestcrowd | 4,758,615
+23 | thelonliestcrowd | 4,759,035
 24 | _ships | 4,576,231
 25 | rikbona | 4,539,773
 26 | bigbilly1234567899 | 4,496,042
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | DontLaughArt | 1,470,272
 60 | evilninjarobot | 1,447,010
 61 | isthistomorrow_ | 1,350,016
-62 | CMDRGlamdring | 1,252,762
+62 | CMDRGlamdring | 1,253,762
 63 | revdrgonzo | 1,232,551
 64 | saintajoras | 1,202,606
 65 | HestiaIsTheBestia | 1,188,046
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | piebagz | 661,815
 101 | Obi1eyeKenobi | 652,339
 102 | MartynDr | 651,840
-103 | Westy3000 | 645,806
+103 | Westy3000 | 649,139
 104 | femacampcouncilor | 642,812
 105 | Duskopia | 633,492
 106 | slirpo | 631,180
@@ -123,8 +123,8 @@ Rank | Username | Totals Tips
 120 | Allions1 | 503,528
 121 | dopelifer09 | 502,285
 122 | Successful-Walk-3902 | 498,374
-123 | Korean_Street_Pizza | 470,883
-124 | formidable-opponent | 467,085
+123 | formidable-opponent | 498,193
+124 | Korean_Street_Pizza | 473,546
 125 | sinlesco | 462,490
 126 | WarmlyWacky | 462,118
 127 | crodbtc | 455,681
@@ -181,8 +181,8 @@ Rank | Username | Totals Tips
 178 | MadScientistTheFirst | 249,847
 179 | Gregoryonetulum | 249,309
 180 | BeardedBro_ | 248,627
-181 | thestonkinator | 246,260
-182 | SnooMacarons9203 | 244,230
+181 | SnooMacarons9203 | 246,893
+182 | thestonkinator | 246,260
 183 | tjex666 | 240,801
 184 | coolpattakers | 235,710
 185 | Zalkwalker | 235,069
@@ -437,8 +437,8 @@ Rank | Username | Totals Tips
 434 | degree-01 | 36,066
 435 | GuronT | 35,561
 436 | TRANZHUMANIST | 35,000
-437 | skatistic | 34,849
-438 | FalloutAssasin | 34,794
+437 | FalloutAssasin | 34,863
+438 | skatistic | 34,849
 439 | BelowAveIntelligence | 34,132
 440 | Obvious-Ask-5747 | 33,806
 441 | PoDunkYuppie | 33,513
