@@ -1,4 +1,4 @@
-Last updated: 23-08-26 10:50:59 UTC  
+Last updated: 23-08-26 11:14:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -33,9 +33,9 @@ Rank | Username | Totals Tips
 30 | birdwastheword | 4,294,326
 31 | rustyybikes | 4,263,025
 32 | Puddin-Luv | 4,261,445
-33 | IveDoneItAtLast | 4,029,435
+33 | IveDoneItAtLast | 4,032,098
 34 | VIVOffical | 3,946,428
-35 | SpookySYN | 3,858,819
+35 | SpookySYN | 3,885,449
 36 | clean_cut89 | 3,573,997
 37 | LuminousViper | 3,408,030
 38 | ZukoBih | 3,403,115
@@ -760,20 +760,20 @@ Rank | Username | Totals Tips
 757 | SoulUrgeDestiny | 3,409
 758 | n1ghsthade | 3,378
 759 | elksteaksdmt | 3,359
-760 | superficialization | 3,326
-761 | JJJaxMax | 3,325
-762 | ineedmoney2023 | 3,307
-763 | mondaymoderate | 3,271
-764 | Mulleary | 3,271
-765 | trainspottedCSX7 | 3,260
-766 | redditagain91 | 3,163
-767 | Positive-Gazelle2603 | 3,152
-768 | PopLegion | 3,152
-769 | Xrim- | 3,142
-770 | Jenn2895 | 3,139
-771 | obaming16 | 3,007
-772 | KingPaladin | 3,000
-773 | Microgamers | 2,915
+760 | Microgamers | 3,335
+761 | superficialization | 3,326
+762 | JJJaxMax | 3,325
+763 | ineedmoney2023 | 3,307
+764 | mondaymoderate | 3,271
+765 | Mulleary | 3,271
+766 | trainspottedCSX7 | 3,260
+767 | redditagain91 | 3,163
+768 | Positive-Gazelle2603 | 3,152
+769 | PopLegion | 3,152
+770 | Xrim- | 3,142
+771 | Jenn2895 | 3,139
+772 | obaming16 | 3,007
+773 | KingPaladin | 3,000
 774 | _echnaton | 2,896
 775 | LaPantheRose | 2,818
 776 | KlemenKisi | 2,808
