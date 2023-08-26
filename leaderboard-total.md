@@ -1,4 +1,4 @@
-Last updated: 23-08-26 15:18:14 UTC  
+Last updated: 23-08-26 15:30:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -229,10 +229,10 @@ Rank | Username | Totals Tips
 226 | 6reficul | 153,884
 227 | tmanfromEarth | 153,392
 228 | martymartinator | 152,560
-229 | sjakkpila | 152,031
-230 | CoverYourMaskHoles | 151,719
-231 | NotFullyTerrestrial | 150,694
-232 | Lastkidpicked94 | 149,500
+229 | Lastkidpicked94 | 152,163
+230 | sjakkpila | 152,031
+231 | CoverYourMaskHoles | 151,719
+232 | NotFullyTerrestrial | 150,694
 233 | satoshi_oscar_wilde | 147,409
 234 | Sad_Entertainer9961 | 143,248
 235 | Doovs | 142,767
@@ -437,8 +437,8 @@ Rank | Username | Totals Tips
 434 | genesis_crazy_one | 36,167
 435 | degree-01 | 36,066
 436 | GuronT | 35,561
-437 | TRANZHUMANIST | 35,000
-438 | skatistic | 34,918
+437 | skatistic | 35,338
+438 | TRANZHUMANIST | 35,000
 439 | FalloutAssasin | 34,863
 440 | BelowAveIntelligence | 34,132
 441 | Obvious-Ask-5747 | 33,806
