@@ -1,4 +1,4 @@
-Last updated: 23-08-26 11:22:46 UTC  
+Last updated: 23-08-26 11:31:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -16,10 +16,10 @@ Rank | Username | Totals Tips
 13 | Permanent_WSB_Bull | 8,522,155
 14 | Homeslicekilla | 7,995,797
 15 | transfermymoons | 7,844,002
-16 | cutsickass | 7,627,569
+16 | cutsickass | 7,654,206
 17 | avyun | 6,801,015
 18 | Geniuskills | 6,274,170
-19 | Real_Player_0 | 6,190,382
+19 | Real_Player_0 | 6,190,990
 20 | ashinamune | 5,950,061
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,231,544
@@ -65,8 +65,8 @@ Rank | Username | Totals Tips
 62 | CMDRGlamdring | 1,253,762
 63 | ValiantJudge29500 | 1,234,212
 64 | revdrgonzo | 1,232,551
-65 | saintajoras | 1,202,606
-66 | djrcollectables | 1,200,081
+65 | djrcollectables | 1,202,744
+66 | saintajoras | 1,202,606
 67 | HestiaIsTheBestia | 1,188,046
 68 | Richicash | 1,181,855
 69 | Feetfailmenot | 1,151,105
