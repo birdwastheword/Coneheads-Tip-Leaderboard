@@ -1,4 +1,4 @@
-Last updated: 23-08-26 06:42:45 UTC  
+Last updated: 23-08-26 06:51:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 7,844,002
-15 | cutsickass | 7,590,932
+15 | cutsickass | 7,617,569
 16 | avyun | 6,801,015
 17 | Geniuskills | 6,267,201
 18 | Real_Player_0 | 6,190,382
@@ -919,12 +919,12 @@ Rank | Username | Totals Tips
 916 | Ge_n0 | 729
 917 | SufficientNet9227 | 711
 918 | o_LUCIFER_o | 709
-919 | Mysterious-Heart-459 | 696
-920 | TheNano100 | 696
-921 | daigsischt | 696
-922 | Indisciplinato | 677
-923 | Troll_humper | 665
-924 | Unlucky_Narwhal3983 | 638
+919 | Unlucky_Narwhal3983 | 707
+920 | Mysterious-Heart-459 | 696
+921 | TheNano100 | 696
+922 | daigsischt | 696
+923 | Indisciplinato | 677
+924 | Troll_humper | 665
 925 | Riviera20 | 638
 926 | Big_Count_6042 | 633
 927 | pelaguras | 627
