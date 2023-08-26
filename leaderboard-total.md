@@ -1,4 +1,4 @@
-Last updated: 23-08-26 23:40:32 UTC  
+Last updated: 23-08-26 23:50:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -165,8 +165,8 @@ Rank | Username | Totals Tips
 162 | send_tacoz | 293,576
 163 | monkeybombed | 283,831
 164 | Extreme_Issue7325 | 282,538
-165 | astro_nut_ | 280,463
-166 | MadScientistTheFirst | 280,400
+165 | MadScientistTheFirst | 280,469
+166 | astro_nut_ | 280,463
 167 | maxfra | 279,459
 168 | deedopete | 277,247
 169 | dinoyeti | 273,373
