@@ -1,4 +1,4 @@
-Last updated: 23-08-26 09:40:43 UTC  
+Last updated: 23-08-26 09:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -33,9 +33,9 @@ Rank | Username | Totals Tips
 30 | birdwastheword | 4,294,326
 31 | rustyybikes | 4,263,025
 32 | Puddin-Luv | 4,261,445
-33 | IveDoneItAtLast | 4,024,109
+33 | IveDoneItAtLast | 4,026,772
 34 | VIVOffical | 3,946,428
-35 | SpookySYN | 3,845,093
+35 | SpookySYN | 3,847,756
 36 | clean_cut89 | 3,573,997
 37 | LuminousViper | 3,408,030
 38 | ZukoBih | 3,403,115
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | ValiantJudge29500 | 1,233,212
 64 | revdrgonzo | 1,232,551
 65 | saintajoras | 1,202,606
-66 | djrcollectables | 1,196,810
+66 | djrcollectables | 1,200,081
 67 | HestiaIsTheBestia | 1,188,046
 68 | Richicash | 1,181,855
 69 | Feetfailmenot | 1,151,105
