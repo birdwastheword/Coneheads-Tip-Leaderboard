@@ -1,4 +1,4 @@
-Last updated: 23-08-26 04:24:25 UTC  
+Last updated: 23-08-26 04:33:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,247,133
-9 | Parush9 | 11,933,722
+9 | Parush9 | 11,940,680
 10 | HODL-THE-LINE | 11,921,100
 11 | SammyCraigar | 8,933,945
 12 | ArtConsitent | 8,532,279
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Skank_cunt_42 | 5,467,162
 21 | HippieStarTraveler | 5,231,544
 22 | 8inchConer | 4,947,480
-23 | thelonliestcrowd | 4,755,532
+23 | thelonliestcrowd | 4,758,195
 24 | _ships | 4,574,846
 25 | rikbona | 4,539,773
 26 | bigbilly1234567899 | 4,496,042
