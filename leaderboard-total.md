@@ -1,7 +1,7 @@
-Last updated: 23-08-26 07:16:30 UTC  
+Last updated: 23-08-26 07:24:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 36,284,595
+1 | Bitdream200K | 36,287,258
 2 | Wonderful_Bad6531 | 34,315,543
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | transfermymoons | 7,844,002
 15 | cutsickass | 7,617,569
 16 | avyun | 6,801,015
-17 | Geniuskills | 6,267,201
+17 | Geniuskills | 6,274,170
 18 | Real_Player_0 | 6,190,382
 19 | ashinamune | 5,850,061
 20 | Skank_cunt_42 | 5,467,162
