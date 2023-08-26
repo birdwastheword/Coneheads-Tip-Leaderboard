@@ -1,7 +1,7 @@
-Last updated: 23-08-26 08:24:38 UTC  
+Last updated: 23-08-26 08:33:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 36,553,558
+1 | Bitdream200K | 36,556,121
 2 | Wonderful_Bad6531 | 34,315,543
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | saintajoras | 1,202,606
 65 | HestiaIsTheBestia | 1,188,046
 66 | Richicash | 1,181,855
-67 | djrcollectables | 1,167,517
+67 | djrcollectables | 1,170,180
 68 | Feetfailmenot | 1,151,105
 69 | beastlybaker | 1,138,281
 70 | LongCauliflower6791 | 1,086,444
