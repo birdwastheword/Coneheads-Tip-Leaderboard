@@ -1,4 +1,4 @@
-Last updated: 23-08-26 07:00:47 UTC  
+Last updated: 23-08-26 07:16:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
@@ -117,7 +117,7 @@ Rank | Username | Totals Tips
 114 | StepAsideSuckers | 540,695
 115 | scientifichistorian | 539,560
 116 | shreyaskg | 538,211
-117 | formidable-opponent | 515,301
+117 | formidable-opponent | 523,078
 118 | junkwatch | 510,048
 119 | f0n1xr131ng | 509,681
 120 | MorrisBrett514 | 506,123
@@ -491,15 +491,15 @@ Rank | Username | Totals Tips
 488 | universal_language | 25,489
 489 | ThekinginYellow27 | 25,431
 490 | SnooRevelations6751 | 25,420
-491 | open-now | 25,247
-492 | worldofshiba | 25,069
-493 | Blossom_butterfly | 25,069
-494 | Truffle_Shuffle_85 | 25,049
-495 | Mysterious-Bar-4721 | 25,000
-496 | CowDapper7867 | 25,000
-497 | Practical-Store9603 | 25,000
-498 | 4ucklehead | 24,684
-499 | XBBlade | 24,572
+491 | XBBlade | 25,412
+492 | open-now | 25,247
+493 | worldofshiba | 25,069
+494 | Blossom_butterfly | 25,069
+495 | Truffle_Shuffle_85 | 25,049
+496 | Mysterious-Bar-4721 | 25,000
+497 | CowDapper7867 | 25,000
+498 | Practical-Store9603 | 25,000
+499 | 4ucklehead | 24,684
 500 | liberovento | 24,307
 501 | SirPesoOtaku | 23,641
 502 | Qptimised | 23,573
