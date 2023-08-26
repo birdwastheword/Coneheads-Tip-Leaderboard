@@ -1,4 +1,4 @@
-Last updated: 23-08-26 19:15:44 UTC  
+Last updated: 23-08-26 19:24:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,354,033
 9 | HODL-THE-LINE | 11,968,181
 10 | Parush9 | 11,940,680
-11 | SammyCraigar | 8,943,471
+11 | SammyCraigar | 8,946,134
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
 14 | Homeslicekilla | 7,995,797
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | Puddin-Luv | 4,261,445
 33 | IveDoneItAtLast | 4,040,695
 34 | VIVOffical | 3,946,428
-35 | SpookySYN | 3,896,101
+35 | SpookySYN | 3,898,764
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
 38 | ZukoBih | 3,403,115
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | adrifing | 441,168
 131 | unhingedbigfoot | 439,874
 132 | Mopeiooo | 427,266
-133 | Crypto-4-Freedom | 423,298
+133 | Crypto-4-Freedom | 423,718
 134 | doktastonks | 421,325
 135 | RazPie | 416,654
 136 | dronegeeks1 | 414,406
@@ -225,7 +225,7 @@ Rank | Username | Totals Tips
 222 | ultra_terrestrial | 163,762
 223 | skollywag92 | 163,279
 224 | Adrewmc | 161,177
-225 | DAMG808 | 160,518
+225 | DAMG808 | 161,126
 226 | 6reficul | 153,884
 227 | Lastkidpicked94 | 153,397
 228 | tmanfromEarth | 153,392
