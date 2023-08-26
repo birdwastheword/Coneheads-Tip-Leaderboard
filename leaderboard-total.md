@@ -1,4 +1,4 @@
-Last updated: 23-08-26 17:40:29 UTC  
+Last updated: 23-08-26 17:50:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -16,13 +16,13 @@ Rank | Username | Totals Tips
 13 | Permanent_WSB_Bull | 8,522,155
 14 | Homeslicekilla | 7,995,797
 15 | transfermymoons | 7,844,002
-16 | cutsickass | 7,680,843
-17 | avyun | 6,801,015
+16 | cutsickass | 7,734,117
+17 | avyun | 7,540,053
 18 | Geniuskills | 6,274,170
 19 | Real_Player_0 | 6,194,870
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,239,944
+22 | HippieStarTraveler | 5,240,364
 23 | 8inchConer | 4,947,480
 24 | _ships | 4,921,054
 25 | thelonliestcrowd | 4,759,035
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | IveDoneItAtLast | 4,040,087
 34 | VIVOffical | 3,946,428
 35 | SpookySYN | 3,885,449
-36 | clean_cut89 | 3,586,326
+36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
 38 | ZukoBih | 3,403,115
 39 | Dry_Badger_2403 | 3,193,857
@@ -46,8 +46,8 @@ Rank | Username | Totals Tips
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
 45 | possibili-teas | 2,399,515
-46 | ImAlekBan | 2,206,032
-47 | GuyOne | 2,191,244
+46 | GuyOne | 2,252,052
+47 | ImAlekBan | 2,206,032
 48 | Autom4tic_Soze | 2,161,474
 49 | Fenrir-1919 | 2,076,403
 50 | Affectionate_Hand_76 | 1,949,263
@@ -63,8 +63,8 @@ Rank | Username | Totals Tips
 60 | evilninjarobot | 1,447,010
 61 | isthistomorrow_ | 1,350,016
 62 | djrcollectables | 1,267,264
-63 | CMDRGlamdring | 1,258,184
-64 | ValiantJudge29500 | 1,234,212
+63 | ValiantJudge29500 | 1,264,320
+64 | CMDRGlamdring | 1,258,184
 65 | revdrgonzo | 1,232,551
 66 | saintajoras | 1,202,606
 67 | HestiaIsTheBestia | 1,188,046
@@ -227,9 +227,9 @@ Rank | Username | Totals Tips
 224 | Adrewmc | 161,177
 225 | DAMG808 | 160,518
 226 | 6reficul | 153,884
-227 | tmanfromEarth | 153,392
-228 | martymartinator | 152,560
-229 | Lastkidpicked94 | 152,163
+227 | Lastkidpicked94 | 153,397
+228 | tmanfromEarth | 153,392
+229 | martymartinator | 152,560
 230 | sjakkpila | 152,031
 231 | CoverYourMaskHoles | 151,719
 232 | NotFullyTerrestrial | 150,694
