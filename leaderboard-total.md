@@ -1,4 +1,4 @@
-Last updated: 23-08-26 02:50:38 UTC  
+Last updated: 23-08-26 03:19:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ashinamune | 5,847,398
 20 | HippieStarTraveler | 5,231,544
 21 | 8inchConer | 4,947,480
-22 | thelonliestcrowd | 4,755,112
+22 | thelonliestcrowd | 4,755,532
 23 | _ships | 4,572,183
 24 | rikbona | 4,539,773
 25 | bigbilly1234567899 | 4,496,042
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | redzrex | 4,391,928
 28 | birdwastheword | 4,289,325
 29 | rustyybikes | 4,263,025
-30 | Puddin-Luv | 4,234,976
+30 | Puddin-Luv | 4,261,445
 31 | IveDoneItAtLast | 4,020,838
 32 | VIVOffical | 3,946,428
 33 | clean_cut89 | 3,573,997
@@ -59,11 +59,11 @@ Rank | Username | Totals Tips
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
 58 | DontLaughArt | 1,469,606
-59 | evilninjarobot | 1,441,684
+59 | evilninjarobot | 1,444,347
 60 | isthistomorrow_ | 1,350,016
-61 | CMDRGlamdring | 1,252,693
+61 | CMDRGlamdring | 1,252,762
 62 | revdrgonzo | 1,232,551
-63 | saintajoras | 1,199,943
+63 | saintajoras | 1,202,606
 64 | HestiaIsTheBestia | 1,188,046
 65 | Richicash | 1,181,855
 66 | djrcollectables | 1,167,517
@@ -119,7 +119,7 @@ Rank | Username | Totals Tips
 116 | shreyaskg | 538,211
 117 | junkwatch | 510,048
 118 | f0n1xr131ng | 509,681
-119 | MorrisBrett514 | 505,283
+119 | MorrisBrett514 | 505,703
 120 | Allions1 | 503,528
 121 | dopelifer09 | 502,285
 122 | Successful-Walk-3902 | 498,374
