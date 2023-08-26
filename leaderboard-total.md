@@ -1,4 +1,4 @@
-Last updated: 23-08-26 15:40:56 UTC  
+Last updated: 23-08-26 15:50:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -489,13 +489,13 @@ Rank | Username | Totals Tips
 486 | AnxiousQuestioner | 25,684
 487 | tmztmz2 | 25,490
 488 | universal_language | 25,489
-489 | ThekinginYellow27 | 25,431
-490 | SnooRevelations6751 | 25,420
-491 | XBBlade | 25,412
-492 | open-now | 25,247
-493 | worldofshiba | 25,069
-494 | Blossom_butterfly | 25,069
-495 | Truffle_Shuffle_85 | 25,049
+489 | Truffle_Shuffle_85 | 25,469
+490 | ThekinginYellow27 | 25,431
+491 | SnooRevelations6751 | 25,420
+492 | XBBlade | 25,412
+493 | open-now | 25,247
+494 | worldofshiba | 25,069
+495 | Blossom_butterfly | 25,069
 496 | Mysterious-Bar-4721 | 25,000
 497 | CowDapper7867 | 25,000
 498 | Practical-Store9603 | 25,000
