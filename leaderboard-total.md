@@ -1,11 +1,11 @@
-Last updated: 23-08-26 02:41:48 UTC  
+Last updated: 23-08-26 02:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
 2 | Wonderful_Bad6531 | 34,315,543
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
-5 | nakamo-toe | 26,850,382
+5 | nakamo-toe | 26,853,045
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,247,133
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
 58 | DontLaughArt | 1,469,606
-59 | evilninjarobot | 1,439,021
+59 | evilninjarobot | 1,441,684
 60 | isthistomorrow_ | 1,350,016
 61 | CMDRGlamdring | 1,252,693
 62 | revdrgonzo | 1,232,551
@@ -119,10 +119,10 @@ Rank | Username | Totals Tips
 116 | shreyaskg | 538,211
 117 | junkwatch | 510,048
 118 | f0n1xr131ng | 509,681
-119 | MorrisBrett514 | 504,863
+119 | MorrisBrett514 | 505,283
 120 | Allions1 | 503,528
-121 | Successful-Walk-3902 | 498,374
-122 | dopelifer09 | 494,296
+121 | dopelifer09 | 502,285
+122 | Successful-Walk-3902 | 498,374
 123 | Korean_Street_Pizza | 462,893
 124 | sinlesco | 462,490
 125 | WarmlyWacky | 462,118
