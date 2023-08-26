@@ -1,4 +1,4 @@
-Last updated: 23-08-26 23:00:47 UTC  
+Last updated: 23-08-26 23:20:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,540,053
 18 | Geniuskills | 6,274,170
-19 | Real_Player_0 | 6,194,870
+19 | Real_Player_0 | 6,197,533
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,242,044
