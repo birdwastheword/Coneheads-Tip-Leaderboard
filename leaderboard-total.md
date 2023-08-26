@@ -1,4 +1,4 @@
-Last updated: 23-08-26 22:50:43 UTC  
+Last updated: 23-08-26 23:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,300,072
 32 | rustyybikes | 4,263,025
 33 | Puddin-Luv | 4,261,445
-34 | IveDoneItAtLast | 4,059,336
+34 | IveDoneItAtLast | 4,059,844
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -211,7 +211,7 @@ Rank | Username | Totals Tips
 208 | TummyLice | 192,460
 209 | TubeNerd92 | 184,257
 210 | nooobmaester69 | 183,460
-211 | DAMG808 | 180,669
+211 | DAMG808 | 181,277
 212 | ruccarucca | 179,850
 213 | Heclalava | 177,615
 214 | Most_Being_4002 | 174,574
