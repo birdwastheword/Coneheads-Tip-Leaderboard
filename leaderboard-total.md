@@ -1,4 +1,4 @@
-Last updated: 23-08-26 09:50:37 UTC  
+Last updated: 23-08-26 10:25:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,231,544
 23 | 8inchConer | 4,947,480
-24 | _ships | 4,919,230
+24 | _ships | 4,920,446
 25 | thelonliestcrowd | 4,759,035
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | Puddin-Luv | 4,261,445
 33 | IveDoneItAtLast | 4,026,772
 34 | VIVOffical | 3,946,428
-35 | SpookySYN | 3,847,756
+35 | SpookySYN | 3,858,819
 36 | clean_cut89 | 3,573,997
 37 | LuminousViper | 3,408,030
 38 | ZukoBih | 3,403,115
@@ -59,11 +59,11 @@ Rank | Username | Totals Tips
 56 | GooderZBK | 1,613,996
 57 | KONGXIANG | 1,526,459
 58 | bray_martin03 | 1,518,175
-59 | DontLaughArt | 1,482,935
+59 | DontLaughArt | 1,485,598
 60 | evilninjarobot | 1,447,010
 61 | isthistomorrow_ | 1,350,016
 62 | CMDRGlamdring | 1,253,762
-63 | ValiantJudge29500 | 1,233,212
+63 | ValiantJudge29500 | 1,234,212
 64 | revdrgonzo | 1,232,551
 65 | saintajoras | 1,202,606
 66 | djrcollectables | 1,200,081
@@ -171,12 +171,12 @@ Rank | Username | Totals Tips
 168 | dinoyeti | 273,373
 169 | Flimsy_Brilliant_239 | 265,592
 170 | SetoXlll | 264,956
-171 | _Mitchee_ | 260,327
-172 | Hactar_42 | 256,832
-173 | thecrabdad | 256,177
-174 | FluffyAspie | 255,602
+171 | FluffyAspie | 262,465
+172 | _Mitchee_ | 260,327
+173 | Hactar_42 | 256,832
+174 | thecrabdad | 256,177
 175 | Ambitious-Minimum-80 | 252,035
-176 | Lillica_Golden_SHIB | 251,174
+176 | Lillica_Golden_SHIB | 251,312
 177 | Sattack4000 | 250,837
 178 | MadScientistTheFirst | 249,847
 179 | Gregoryonetulum | 249,309
@@ -197,7 +197,7 @@ Rank | Username | Totals Tips
 194 | Beenthorny | 212,362
 195 | SigSalvadore | 212,358
 196 | UWphoto | 209,795
-197 | Significant_Talk4943 | 208,659
+197 | Significant_Talk4943 | 209,079
 198 | the_judge_168 | 208,455
 199 | Ashamed_Raccoon9918 | 205,858
 200 | Esco1980 | 204,434
@@ -308,7 +308,7 @@ Rank | Username | Totals Tips
 305 | Pwny_b0y | 79,447
 306 | GodOfWarGuy737 | 79,069
 307 | shiesto | 78,994
-308 | fleshlyLoath | 77,946
+308 | fleshlyLoath | 78,366
 309 | mokkingjay | 77,914
 310 | HelicopterDear6064 | 77,619
 311 | youtooleyesing | 77,229
