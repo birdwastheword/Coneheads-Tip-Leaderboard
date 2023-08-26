@@ -1,4 +1,4 @@
-Last updated: 23-08-26 16:28:19 UTC  
+Last updated: 23-08-26 16:40:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -113,8 +113,8 @@ Rank | Username | Totals Tips
 110 | __PDS__ | 595,709
 111 | El_Gordone | 592,784
 112 | Independent_Heart_15 | 578,825
-113 | nichnotnick | 556,778
-114 | formidable-opponent | 547,963
+113 | formidable-opponent | 558,071
+114 | nichnotnick | 556,778
 115 | StepAsideSuckers | 540,695
 116 | scientifichistorian | 539,560
 117 | shreyaskg | 538,211
@@ -170,8 +170,8 @@ Rank | Username | Totals Tips
 167 | deedopete | 277,247
 168 | dinoyeti | 273,373
 169 | Flimsy_Brilliant_239 | 265,592
-170 | SetoXlll | 264,956
-171 | FluffyAspie | 262,465
+170 | FluffyAspie | 265,128
+171 | SetoXlll | 264,956
 172 | _Mitchee_ | 260,327
 173 | Hactar_42 | 256,832
 174 | thecrabdad | 256,177
@@ -1080,18 +1080,19 @@ Rank | Username | Totals Tips
 1077 | ogg_ogg | 50
 1078 | downlowdata | 50
 1079 | TannedViking | 30
-1080 | _JC_84_ | 23
-1081 | Madurosadvisor | 22
-1082 | Quick_Silver_Wolf | 20
-1083 | Sufficient_Ad_4708 | 20
-1084 | XoooX24 | 20
-1085 | TamSchnow | 15
-1086 | breathe345 | 13
-1087 | jellodoses69 | 10
-1088 | mercredimedia | 6
-1089 | GroovyIntruder | 3
-1090 | Prestigious-Expert15 | 1
-1091 | mango9574 | 1
-1092 | Skull0 | 1
-1093 | Skywalker_047 | 1
-1094 | Park_With_No_S | 1
+1080 | mochi_ball223 | 25
+1081 | _JC_84_ | 23
+1082 | Madurosadvisor | 22
+1083 | Quick_Silver_Wolf | 20
+1084 | Sufficient_Ad_4708 | 20
+1085 | XoooX24 | 20
+1086 | TamSchnow | 15
+1087 | breathe345 | 13
+1088 | jellodoses69 | 10
+1089 | mercredimedia | 6
+1090 | GroovyIntruder | 3
+1091 | Prestigious-Expert15 | 1
+1092 | mango9574 | 1
+1093 | Skull0 | 1
+1094 | Skywalker_047 | 1
+1095 | Park_With_No_S | 1
