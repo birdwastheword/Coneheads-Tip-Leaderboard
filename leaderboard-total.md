@@ -1,4 +1,4 @@
-Last updated: 23-08-26 10:34:17 UTC  
+Last updated: 23-08-26 10:42:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | birdwastheword | 4,294,326
 31 | rustyybikes | 4,263,025
 32 | Puddin-Luv | 4,261,445
-33 | IveDoneItAtLast | 4,026,772
+33 | IveDoneItAtLast | 4,029,435
 34 | VIVOffical | 3,946,428
 35 | SpookySYN | 3,858,819
 36 | clean_cut89 | 3,573,997
@@ -129,7 +129,7 @@ Rank | Username | Totals Tips
 126 | WarmlyWacky | 462,118
 127 | crodbtc | 455,681
 128 | MediaPrestigious8342 | 453,839
-129 | Lady_Lucks_Man | 448,456
+129 | Lady_Lucks_Man | 451,119
 130 | adrifing | 441,168
 131 | unhingedbigfoot | 439,874
 132 | Mopeiooo | 427,266
