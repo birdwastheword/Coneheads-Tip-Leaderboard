@@ -1,4 +1,4 @@
-Last updated: 23-08-26 04:51:01 UTC  
+Last updated: 23-08-26 05:22:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | HippieStarTraveler | 5,231,544
 22 | 8inchConer | 4,947,480
 23 | thelonliestcrowd | 4,758,615
-24 | _ships | 4,574,846
+24 | _ships | 4,575,623
 25 | rikbona | 4,539,773
 26 | bigbilly1234567899 | 4,496,042
 27 | Ginomania | 4,396,809
@@ -123,12 +123,12 @@ Rank | Username | Totals Tips
 120 | Allions1 | 503,528
 121 | dopelifer09 | 502,285
 122 | Successful-Walk-3902 | 498,374
-123 | Korean_Street_Pizza | 462,893
+123 | Korean_Street_Pizza | 465,557
 124 | sinlesco | 462,490
 125 | WarmlyWacky | 462,118
 126 | formidable-opponent | 459,308
-127 | MediaPrestigious8342 | 453,839
-128 | crodbtc | 450,681
+127 | crodbtc | 455,681
+128 | MediaPrestigious8342 | 453,839
 129 | Lady_Lucks_Man | 448,456
 130 | adrifing | 441,168
 131 | unhingedbigfoot | 439,874
@@ -379,15 +379,15 @@ Rank | Username | Totals Tips
 376 | ConeHead710 | 52,012
 377 | lucivaryas | 51,420
 378 | d0ntmess87 | 51,278
-379 | CHEROKEEJ4CK | 49,878
-380 | eatthebagels | 49,692
-381 | mofayew | 49,503
-382 | Levl1Critter | 49,152
-383 | d_Shazam_b | 48,908
-384 | Dolce_00 | 48,683
-385 | CryptoScamee42069 | 47,523
-386 | Outside-Wolf5928 | 47,433
-387 | Dboythegreat | 47,394
+379 | Dboythegreat | 50,057
+380 | CHEROKEEJ4CK | 49,878
+381 | eatthebagels | 49,692
+382 | mofayew | 49,503
+383 | Levl1Critter | 49,152
+384 | d_Shazam_b | 48,908
+385 | Dolce_00 | 48,683
+386 | CryptoScamee42069 | 47,523
+387 | Outside-Wolf5928 | 47,433
 388 | hey_barry | 47,353
 389 | shredslanding | 46,650
 390 | sicilian2124 | 45,866
