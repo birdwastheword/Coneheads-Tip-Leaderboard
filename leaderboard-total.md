@@ -1,4 +1,4 @@
-Last updated: 23-08-26 20:40:31 UTC  
+Last updated: 23-08-26 20:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -90,7 +90,7 @@ Rank | Username | Totals Tips
 87 | ashketchup422 | 794,067
 88 | Cravensworth_redux | 790,803
 89 | ziggybri | 782,435
-90 | UniversalNoobMaster | 755,943
+90 | UniversalNoobMaster | 756,363
 91 | RegalReptile_ | 753,708
 92 | billywright4 | 727,550
 93 | starterpack420694 | 710,420
