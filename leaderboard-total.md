@@ -1,4 +1,4 @@
-Last updated: 23-08-26 02:33:25 UTC  
+Last updated: 23-08-26 02:41:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 7,844,002
-15 | cutsickass | 7,564,295
+15 | cutsickass | 7,590,932
 16 | avyun | 6,794,046
 17 | Geniuskills | 6,260,232
 18 | Real_Player_0 | 6,190,382
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | HippieStarTraveler | 5,231,544
 21 | 8inchConer | 4,947,480
 22 | thelonliestcrowd | 4,755,112
-23 | _ships | 4,569,520
+23 | _ships | 4,572,183
 24 | rikbona | 4,539,773
 25 | bigbilly1234567899 | 4,496,042
 26 | Ginomania | 4,396,809
@@ -59,9 +59,9 @@ Rank | Username | Totals Tips
 56 | KONGXIANG | 1,526,459
 57 | bray_martin03 | 1,518,175
 58 | DontLaughArt | 1,469,606
-59 | evilninjarobot | 1,436,358
+59 | evilninjarobot | 1,439,021
 60 | isthistomorrow_ | 1,350,016
-61 | CMDRGlamdring | 1,252,486
+61 | CMDRGlamdring | 1,252,693
 62 | revdrgonzo | 1,232,551
 63 | saintajoras | 1,199,943
 64 | HestiaIsTheBestia | 1,188,046
