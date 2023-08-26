@@ -1,4 +1,4 @@
-Last updated: 23-08-26 11:40:43 UTC  
+Last updated: 23-08-26 11:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,354,033
 9 | Parush9 | 11,940,680
-10 | HODL-THE-LINE | 11,921,100
+10 | HODL-THE-LINE | 11,923,115
 11 | SammyCraigar | 8,933,945
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | CMDRGlamdring | 1,253,762
 63 | ValiantJudge29500 | 1,234,212
 64 | revdrgonzo | 1,232,551
-65 | djrcollectables | 1,202,744
+65 | djrcollectables | 1,229,374
 66 | saintajoras | 1,202,606
 67 | HestiaIsTheBestia | 1,188,046
 68 | Richicash | 1,181,855
@@ -421,8 +421,8 @@ Rank | Username | Totals Tips
 418 | Mortifer6 | 39,669
 419 | Yirii | 39,605
 420 | waterincorporated | 39,428
-421 | madridgalactico | 39,231
-422 | Lucabba | 38,858
+421 | Lucabba | 39,278
+422 | madridgalactico | 39,231
 423 | mutinomonem | 38,823
 424 | chaud3r | 38,290
 425 | lovenets_ | 38,182
