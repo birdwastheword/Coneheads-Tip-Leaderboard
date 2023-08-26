@@ -1,4 +1,4 @@
-Last updated: 23-08-26 21:32:17 UTC  
+Last updated: 23-08-26 21:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
 14 | Homeslicekilla | 7,995,797
-15 | cutsickass | 7,952,293
+15 | cutsickass | 7,957,373
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,540,053
 18 | Geniuskills | 6,274,170
@@ -192,8 +192,8 @@ Rank | Username | Totals Tips
 189 | joeviani | 227,028
 190 | MuhSound | 225,403
 191 | SourBeefHoop | 217,512
-192 | alexthemay | 214,131
-193 | Conetent | 213,846
+192 | Conetent | 214,454
+193 | alexthemay | 214,131
 194 | Beenthorny | 212,362
 195 | SigSalvadore | 212,358
 196 | UWphoto | 209,795
