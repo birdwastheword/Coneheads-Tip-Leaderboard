@@ -1,4 +1,4 @@
-Last updated: 23-08-26 06:25:33 UTC  
+Last updated: 23-08-26 06:34:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
@@ -119,11 +119,11 @@ Rank | Username | Totals Tips
 116 | shreyaskg | 538,211
 117 | junkwatch | 510,048
 118 | f0n1xr131ng | 509,681
-119 | MorrisBrett514 | 506,123
-120 | Allions1 | 503,528
-121 | dopelifer09 | 502,285
-122 | Successful-Walk-3902 | 498,374
-123 | formidable-opponent | 498,193
+119 | formidable-opponent | 506,747
+120 | MorrisBrett514 | 506,123
+121 | Allions1 | 503,528
+122 | dopelifer09 | 502,285
+123 | Successful-Walk-3902 | 498,374
 124 | Korean_Street_Pizza | 473,546
 125 | sinlesco | 462,490
 126 | WarmlyWacky | 462,118
