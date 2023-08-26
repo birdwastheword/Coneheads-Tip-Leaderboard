@@ -1,4 +1,4 @@
-Last updated: 23-08-26 02:24:30 UTC  
+Last updated: 23-08-26 02:33:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,284,595
@@ -15,15 +15,15 @@ Rank | Username | Totals Tips
 12 | ArtConsitent | 8,532,279
 13 | Homeslicekilla | 7,995,797
 14 | transfermymoons | 7,844,002
-15 | cutsickass | 7,537,658
+15 | cutsickass | 7,564,295
 16 | avyun | 6,794,046
-17 | Geniuskills | 6,257,569
+17 | Geniuskills | 6,260,232
 18 | Real_Player_0 | 6,190,382
 19 | ashinamune | 5,847,398
 20 | HippieStarTraveler | 5,231,544
 21 | 8inchConer | 4,947,480
 22 | thelonliestcrowd | 4,755,112
-23 | _ships | 4,561,135
+23 | _ships | 4,569,520
 24 | rikbona | 4,539,773
 25 | bigbilly1234567899 | 4,496,042
 26 | Ginomania | 4,396,809
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | Mopeiooo | 427,266
 133 | doktastonks | 421,325
 134 | RazPie | 416,654
-135 | Crypto-4-Freedom | 414,718
+135 | Crypto-4-Freedom | 415,138
 136 | dronegeeks1 | 414,406
 137 | LrnFaroeseWthBergur | 409,488
 138 | Creepy-Nectarine-225 | 389,003
@@ -152,7 +152,7 @@ Rank | Username | Totals Tips
 149 | tsudrat | 340,707
 150 | YarOldeOrchard | 340,375
 151 | Tinman_ApE | 337,352
-152 | Lion-Hermit | 330,884
+152 | Lion-Hermit | 335,884
 153 | Dripbot8 | 325,384
 154 | DogSpark84 | 325,133
 155 | virmamies | 316,478
