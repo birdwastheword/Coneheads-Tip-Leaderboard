@@ -1,4 +1,4 @@
-Last updated: 23-08-27 23:17:51 UTC  
+Last updated: 23-08-27 23:30:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,305,398
 32 | Puddin-Luv | 4,272,097
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,193,670
+34 | IveDoneItAtLast | 4,196,333
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -93,8 +93,8 @@ Rank | Username | Totals Tips
 90 | ziggybri | 782,435
 91 | RegalReptile_ | 753,708
 92 | billywright4 | 727,550
-93 | starterpack420694 | 710,420
-94 | Westy3000 | 706,018
+93 | Westy3000 | 710,462
+94 | starterpack420694 | 710,420
 95 | WarmIyWacky | 703,049
 96 | Starterpack69420 | 696,969
 97 | abracadabra087 | 694,045
