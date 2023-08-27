@@ -1,4 +1,4 @@
-Last updated: 23-08-27 14:40:35 UTC  
+Last updated: 23-08-27 14:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,660,103
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
 28 | Ginomania | 4,473,439
-29 | SpookySYN | 4,430,720
+29 | SpookySYN | 4,457,350
 30 | redzrex | 4,395,011
 31 | birdwastheword | 4,302,735
 32 | Puddin-Luv | 4,266,771
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | StepAsideSuckers | 540,695
 116 | scientifichistorian | 539,560
 117 | shreyaskg | 538,211
-118 | junkwatch | 512,780
+118 | junkwatch | 513,200
 119 | f0n1xr131ng | 509,681
 120 | dopelifer09 | 507,611
 121 | MorrisBrett514 | 506,543
@@ -176,7 +176,7 @@ Rank | Username | Totals Tips
 173 | _Mitchee_ | 260,747
 174 | Hactar_42 | 256,832
 175 | thecrabdad | 256,177
-176 | Lillica_Golden_SHIB | 252,140
+176 | Lillica_Golden_SHIB | 252,278
 177 | Ambitious-Minimum-80 | 252,035
 178 | Sattack4000 | 250,837
 179 | Gregoryonetulum | 249,309
