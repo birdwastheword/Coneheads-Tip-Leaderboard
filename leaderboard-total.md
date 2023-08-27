@@ -1,4 +1,4 @@
-Last updated: 23-08-27 21:15:00 UTC  
+Last updated: 23-08-27 21:23:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
 28 | Ginomania | 4,473,859
-29 | SpookySYN | 4,462,676
+29 | SpookySYN | 4,465,339
 30 | redzrex | 4,395,011
 31 | birdwastheword | 4,305,398
 32 | Puddin-Luv | 4,266,771
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | zdubs | 1,632,109
 58 | GooderZBK | 1,613,996
 59 | 0-Give-a-fucks | 1,571,220
-60 | KONGXIANG | 1,526,459
+60 | KONGXIANG | 1,529,122
 61 | bray_martin03 | 1,518,175
 62 | evilninjarobot | 1,453,979
 63 | isthistomorrow_ | 1,350,016
@@ -925,20 +925,20 @@ Rank | Username | Totals Tips
 922 | Mysterious-Heart-459 | 696
 923 | TheNano100 | 696
 924 | daigsischt | 696
-925 | Indisciplinato | 677
-926 | Troll_humper | 665
-927 | Riviera20 | 638
-928 | Big_Count_6042 | 633
-929 | pelaguras | 627
-930 | Avatar_Degen | 627
-931 | QualcunoCF | 620
-932 | barbiescorvette | 608
-933 | iiCollinHD | 608
-934 | JaJaJaNVM | 608
-935 | eskimojerk | 606
-936 | glouglas | 558
-937 | Professer__ | 558
-938 | Most_Border_3917 | 557
+925 | Most_Border_3917 | 677
+926 | Indisciplinato | 677
+927 | Troll_humper | 665
+928 | Riviera20 | 638
+929 | Big_Count_6042 | 633
+930 | pelaguras | 627
+931 | Avatar_Degen | 627
+932 | QualcunoCF | 620
+933 | barbiescorvette | 608
+934 | iiCollinHD | 608
+935 | JaJaJaNVM | 608
+936 | eskimojerk | 606
+937 | glouglas | 558
+938 | Professer__ | 558
 939 | Dare2gamer | 544
 940 | Swordfish-Select | 543
 941 | justthebelton | 540
