@@ -1,4 +1,4 @@
-Last updated: 23-08-27 11:50:44 UTC  
+Last updated: 23-08-27 12:43:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,660,103
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,197,533
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,242,044
+22 | HippieStarTraveler | 5,244,707
 23 | _ships | 4,966,495
 24 | 8inchConer | 4,947,480
 25 | thelonliestcrowd | 4,759,643
@@ -34,13 +34,13 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,302,735
 32 | Puddin-Luv | 4,266,771
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,137,698
+34 | IveDoneItAtLast | 4,146,369
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
 38 | ZukoBih | 3,403,115
 39 | Dry_Badger_2403 | 3,193,857
-40 | thom_orrow | 3,140,443
+40 | thom_orrow | 3,143,106
 41 | LordBobTheWhale | 3,067,294
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
@@ -95,9 +95,9 @@ Rank | Username | Totals Tips
 92 | billywright4 | 727,550
 93 | starterpack420694 | 710,420
 94 | WarmIyWacky | 703,049
-95 | Starterpack69420 | 696,969
-96 | abracadabra087 | 694,045
-97 | Westy3000 | 693,579
+95 | Westy3000 | 699,134
+96 | Starterpack69420 | 696,969
+97 | abracadabra087 | 694,045
 98 | Due_Insurance8159 | 678,620
 99 | frickdom | 674,086
 100 | SKITZ_ZA | 673,394
@@ -196,8 +196,8 @@ Rank | Username | Totals Tips
 193 | alexthemay | 214,131
 194 | Beenthorny | 212,362
 195 | SigSalvadore | 212,358
-196 | UWphoto | 209,795
-197 | Significant_Talk4943 | 209,499
+196 | Significant_Talk4943 | 209,919
+197 | UWphoto | 209,795
 198 | the_judge_168 | 208,455
 199 | Ashamed_Raccoon9918 | 205,858
 200 | Esco1980 | 204,434
@@ -346,11 +346,11 @@ Rank | Username | Totals Tips
 343 | Chill_Edoeard | 61,701
 344 | KrunchyKushKing | 61,532
 345 | BitCone_CONE | 60,947
-346 | TheD1ceMan | 60,541
-347 | 192000Hertz | 60,301
-348 | lucrica | 59,987
-349 | Big-Ticket1506 | 59,666
-350 | IHodlStill | 59,625
+346 | IHodlStill | 60,655
+347 | TheD1ceMan | 60,541
+348 | 192000Hertz | 60,301
+349 | lucrica | 59,987
+350 | Big-Ticket1506 | 59,666
 351 | -geek | 59,318
 352 | Heycheckthisout20 | 59,182
 353 | Wildspliffosis | 58,703
@@ -417,7 +417,7 @@ Rank | Username | Totals Tips
 414 | YourLocalDuskFox | 40,000
 415 | babuba1234321 | 40,000
 416 | alex_si_davies | 39,965
-417 | Zap1324 | 39,869
+417 | Zap1324 | 39,938
 418 | AMAxyz | 39,775
 419 | Mortifer6 | 39,669
 420 | waterincorporated | 39,428
@@ -560,16 +560,16 @@ Rank | Username | Totals Tips
 557 | redbasl | 14,643
 558 | Big_Bonus3617 | 14,640
 559 | mixmasterpayne | 14,409
-560 | Fivebag | 14,290
-561 | cole-badger | 14,269
-562 | theycallmekimpembe | 14,037
-563 | TamilPunk | 13,754
-564 | D6P6 | 13,710
-565 | osoese | 13,680
-566 | mantrakid | 13,644
-567 | couchguitar | 13,330
-568 | zahrawins | 13,329
-569 | Styl_Ianos_ | 13,328
+560 | Styl_Ianos_ | 14,328
+561 | Fivebag | 14,290
+562 | cole-badger | 14,269
+563 | theycallmekimpembe | 14,037
+564 | TamilPunk | 13,754
+565 | D6P6 | 13,710
+566 | osoese | 13,680
+567 | mantrakid | 13,644
+568 | couchguitar | 13,330
+569 | zahrawins | 13,329
 570 | CatastrophicSpecter | 13,085
 571 | MantisToboggan66 | 13,083
 572 | Diamond_Hands420 | 13,070
