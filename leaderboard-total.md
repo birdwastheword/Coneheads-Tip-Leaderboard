@@ -1,10 +1,10 @@
-Last updated: 23-08-27 13:30:39 UTC  
+Last updated: 23-08-27 13:40:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,660,103
 2 | Wonderful_Bad6531 | 34,535,963
 3 | rickribera93 | 28,283,727
-4 | Jeff5704 | 28,001,338
+4 | Jeff5704 | 28,007,021
 5 | nakamo-toe | 27,202,954
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
@@ -19,10 +19,10 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,540,053
 18 | Geniuskills | 6,274,170
-19 | Real_Player_0 | 6,200,804
+19 | Real_Player_0 | 6,202,020
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,244,707
+22 | HippieStarTraveler | 5,245,818
 23 | _ships | 4,966,495
 24 | 8inchConer | 4,947,480
 25 | thelonliestcrowd | 4,759,643
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,302,735
 32 | Puddin-Luv | 4,266,771
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,149,640
+34 | IveDoneItAtLast | 4,152,303
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -262,12 +262,12 @@ Rank | Username | Totals Tips
 259 | AlternativeBag2619 | 114,483
 260 | Fox1931 | 114,000
 261 | CaptainCheeseCake | 113,328
-262 | pythonskynet | 113,031
-263 | flying_bacon | 111,860
-264 | adrefofadre | 111,817
-265 | BitcoinRefuge | 111,112
-266 | Kevin3683 | 111,006
-267 | DeanDeanington | 110,600
+262 | DeanDeanington | 113,263
+263 | pythonskynet | 113,031
+264 | flying_bacon | 111,860
+265 | adrefofadre | 111,817
+266 | BitcoinRefuge | 111,112
+267 | Kevin3683 | 111,006
 268 | PushyDevolution | 110,216
 269 | Strong_Constant_1190 | 109,517
 270 | Jadenindubai | 107,137
