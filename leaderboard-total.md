@@ -1,4 +1,4 @@
-Last updated: 23-08-27 15:00:48 UTC  
+Last updated: 23-08-27 15:19:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,660,103
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
 28 | Ginomania | 4,473,439
-29 | SpookySYN | 4,460,013
+29 | SpookySYN | 4,462,676
 30 | redzrex | 4,395,011
 31 | birdwastheword | 4,302,735
 32 | Puddin-Luv | 4,266,771
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | billywright4 | 727,550
 93 | starterpack420694 | 710,420
 94 | WarmIyWacky | 703,049
-95 | Westy3000 | 702,265
+95 | Westy3000 | 702,685
 96 | Starterpack69420 | 696,969
 97 | abracadabra087 | 694,045
 98 | Due_Insurance8159 | 678,620
