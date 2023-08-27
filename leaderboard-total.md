@@ -1,11 +1,11 @@
-Last updated: 23-08-27 07:00:57 UTC  
+Last updated: 23-08-27 07:17:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,628,147
 2 | Wonderful_Bad6531 | 34,535,963
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,338
-5 | nakamo-toe | 27,200,291
+5 | nakamo-toe | 27,202,954
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,454,033
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,242,044
-23 | _ships | 4,951,672
+23 | _ships | 4,957,752
 24 | 8inchConer | 4,947,480
 25 | thelonliestcrowd | 4,759,643
 26 | rikbona | 4,539,773
