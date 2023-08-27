@@ -1,4 +1,4 @@
-Last updated: 23-08-27 20:19:02 UTC  
+Last updated: 23-08-27 20:30:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | SammyCraigar | 8,956,555
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
-14 | cutsickass | 8,423,528
+14 | cutsickass | 8,476,802
 15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,547,022
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | ashinamune | 6,005,061
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,246,727
-23 | _ships | 4,966,495
+23 | _ships | 4,969,158
 24 | 8inchConer | 4,947,480
 25 | thelonliestcrowd | 4,789,969
 26 | rikbona | 4,539,773
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | Fenrir-1919 | 2,076,403
 51 | 002_timmy | 2,022,512
 52 | Affectionate_Hand_76 | 1,949,263
-53 | swampyswede | 1,926,163
+53 | swampyswede | 1,926,246
 54 | catlover-100 | 1,913,158
 55 | dealkhabari | 1,760,619
 56 | Ten-Mins-Late | 1,706,113
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | bray_martin03 | 1,518,175
 62 | evilninjarobot | 1,453,979
 63 | isthistomorrow_ | 1,350,016
-64 | djrcollectables | 1,312,604
+64 | djrcollectables | 1,315,267
 65 | ValiantJudge29500 | 1,268,199
 66 | CMDRGlamdring | 1,259,024
 67 | revdrgonzo | 1,232,551
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | beastlybaker | 1,138,701
 73 | investigator100 | 1,104,704
 74 | LongCauliflower6791 | 1,086,444
-75 | Hot_Potato_Salad | 1,079,657
+75 | Hot_Potato_Salad | 1,079,726
 76 | freechickens | 1,028,386
 77 | avatarbot | 1,027,000
 78 | WarmBiertje | 1,000,000
