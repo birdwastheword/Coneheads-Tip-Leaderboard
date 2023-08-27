@@ -1,4 +1,4 @@
-Last updated: 23-08-27 12:43:15 UTC  
+Last updated: 23-08-27 12:58:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,660,103
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,540,053
 18 | Geniuskills | 6,274,170
-19 | Real_Player_0 | 6,197,533
+19 | Real_Player_0 | 6,200,804
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,244,707
@@ -144,7 +144,7 @@ Rank | Username | Totals Tips
 141 | zenhodl | 374,566
 142 | hellosamaira | 373,235
 143 | AustinTX1985 | 368,863
-144 | PortCity_MadMan | 364,928
+144 | PortCity_MadMan | 367,591
 145 | farmertypoerror | 359,212
 146 | Mundane-Farm-4117 | 358,176
 147 | Lion-Hermit | 345,884
@@ -212,9 +212,9 @@ Rank | Username | Totals Tips
 209 | Most_Being_4002 | 184,574
 210 | TubeNerd92 | 184,257
 211 | nooobmaester69 | 183,460
-212 | DAMG808 | 181,277
-213 | ruccarucca | 180,270
-214 | fettskull | 179,692
+212 | fettskull | 182,355
+213 | DAMG808 | 181,277
+214 | ruccarucca | 180,270
 215 | Heclalava | 177,615
 216 | Final-Scar-941 | 172,919
 217 | YourThighsWarmMyEars | 172,697
@@ -291,12 +291,12 @@ Rank | Username | Totals Tips
 288 | DramaticProtogen | 90,274
 289 | Award-Bot | 90,000
 290 | customsolitaires | 89,383
-291 | Burzzzt88 | 88,571
-292 | HokkaidoNights | 88,108
-293 | ShopALF | 87,942
-294 | kwickle | 87,805
-295 | jurgensdapimp | 86,817
-296 | ItailianStallion101 | 86,182
+291 | ItailianStallion101 | 88,845
+292 | Burzzzt88 | 88,571
+293 | HokkaidoNights | 88,108
+294 | ShopALF | 87,942
+295 | kwickle | 87,805
+296 | jurgensdapimp | 86,817
 297 | Mother-Werewolf185 | 85,579
 298 | qwertywich | 84,810
 299 | Puzzleheaded_Gift738 | 84,020
@@ -337,18 +337,18 @@ Rank | Username | Totals Tips
 334 | zuzieey7719 | 64,549
 335 | guokaidi | 63,245
 336 | slug_tamer | 63,175
-337 | shellystarzz | 62,826
-338 | netnemirepxE | 62,645
-339 | meth43 | 62,596
-340 | Emeritux | 62,504
-341 | 1ndy1 | 62,120
-342 | Iulian_TechNewb | 61,895
-343 | Chill_Edoeard | 61,701
-344 | KrunchyKushKing | 61,532
-345 | BitCone_CONE | 60,947
-346 | IHodlStill | 60,655
-347 | TheD1ceMan | 60,541
-348 | 192000Hertz | 60,301
+337 | 192000Hertz | 62,964
+338 | shellystarzz | 62,826
+339 | netnemirepxE | 62,645
+340 | meth43 | 62,596
+341 | Emeritux | 62,504
+342 | 1ndy1 | 62,120
+343 | Iulian_TechNewb | 61,895
+344 | Chill_Edoeard | 61,701
+345 | KrunchyKushKing | 61,532
+346 | BitCone_CONE | 60,947
+347 | IHodlStill | 60,655
+348 | TheD1ceMan | 60,541
 349 | lucrica | 59,987
 350 | Big-Ticket1506 | 59,666
 351 | -geek | 59,318
