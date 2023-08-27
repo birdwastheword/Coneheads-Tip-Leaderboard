@@ -1,4 +1,4 @@
-Last updated: 23-08-27 23:40:53 UTC  
+Last updated: 23-08-27 23:50:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,456,696
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | SammyCraigar | 8,956,555
+11 | SammyCraigar | 8,957,063
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
 14 | cutsickass | 8,503,439
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | SpookySYN | 4,465,339
 30 | redzrex | 4,395,011
 31 | birdwastheword | 4,305,398
-32 | Puddin-Luv | 4,272,097
+32 | Puddin-Luv | 4,280,086
 33 | rustyybikes | 4,263,025
 34 | IveDoneItAtLast | 4,196,333
 35 | VIVOffical | 3,946,428
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | catlover-100 | 1,913,158
 55 | dealkhabari | 1,760,619
 56 | Ten-Mins-Late | 1,706,113
-57 | zdubs | 1,632,109
+57 | zdubs | 1,634,772
 58 | GooderZBK | 1,613,996
 59 | 0-Give-a-fucks | 1,597,850
 60 | KONGXIANG | 1,529,122
@@ -174,7 +174,7 @@ Rank | Username | Totals Tips
 171 | SetoXlll | 266,067
 172 | Flimsy_Brilliant_239 | 265,592
 173 | FluffyAspie | 265,128
-174 | _Mitchee_ | 260,747
+174 | _Mitchee_ | 261,167
 175 | Hactar_42 | 256,832
 176 | thecrabdad | 256,177
 177 | tmanfromEarth | 255,392
