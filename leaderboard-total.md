@@ -1,4 +1,4 @@
-Last updated: 23-08-27 05:50:34 UTC  
+Last updated: 23-08-27 06:26:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,454,033
-9 | HODL-THE-LINE | 11,968,181
+9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
 11 | SammyCraigar | 8,953,892
 12 | ArtConsitent | 8,532,279
@@ -120,7 +120,7 @@ Rank | Username | Totals Tips
 117 | shreyaskg | 538,211
 118 | junkwatch | 510,048
 119 | f0n1xr131ng | 509,681
-120 | MorrisBrett514 | 506,123
+120 | MorrisBrett514 | 506,543
 121 | Allions1 | 503,528
 122 | dopelifer09 | 502,285
 123 | Successful-Walk-3902 | 498,794
@@ -352,16 +352,16 @@ Rank | Username | Totals Tips
 349 | Big-Ticket1506 | 59,666
 350 | -geek | 59,318
 351 | Heycheckthisout20 | 59,182
-352 | Wildspliffosis | 58,703
-353 | meme_used | 58,516
-354 | Trink333 | 58,338
-355 | preemcuz | 58,314
-356 | phrodreky | 57,984
-357 | Outrageous_Storm6537 | 56,938
-358 | Creative_Ad7831 | 56,746
-359 | ElmerBlack | 56,581
-360 | ProfessionalIcy6456 | 56,380
-361 | IHodlStill | 56,354
+352 | IHodlStill | 59,017
+353 | Wildspliffosis | 58,703
+354 | meme_used | 58,516
+355 | Trink333 | 58,338
+356 | preemcuz | 58,314
+357 | phrodreky | 57,984
+358 | Outrageous_Storm6537 | 56,938
+359 | Creative_Ad7831 | 56,746
+360 | ElmerBlack | 56,581
+361 | ProfessionalIcy6456 | 56,380
 362 | Bandit_005 | 56,303
 363 | chuloreddit | 55,878
 364 | imbarrydylan | 55,689
