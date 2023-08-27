@@ -1,17 +1,17 @@
-Last updated: 23-08-27 02:28:28 UTC  
+Last updated: 23-08-27 02:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
 2 | Wonderful_Bad6531 | 34,535,963
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
-5 | nakamo-toe | 27,139,786
+5 | nakamo-toe | 27,171,742
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,354,033
 9 | HODL-THE-LINE | 11,968,181
 10 | Parush9 | 11,950,679
-11 | SammyCraigar | 8,953,284
+11 | SammyCraigar | 8,953,892
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
 14 | Homeslicekilla | 7,995,797
@@ -23,8 +23,8 @@ Rank | Username | Totals Tips
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,242,044
-23 | 8inchConer | 4,947,480
-24 | _ships | 4,945,925
+23 | _ships | 4,948,588
+24 | 8inchConer | 4,947,480
 25 | thelonliestcrowd | 4,759,643
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
@@ -32,8 +32,8 @@ Rank | Username | Totals Tips
 29 | SpookySYN | 4,428,057
 30 | redzrex | 4,395,011
 31 | birdwastheword | 4,300,072
-32 | rustyybikes | 4,263,025
-33 | Puddin-Luv | 4,261,445
+32 | Puddin-Luv | 4,264,108
+33 | rustyybikes | 4,263,025
 34 | IveDoneItAtLast | 4,059,844
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | WarmIyWacky | 703,049
 95 | Starterpack69420 | 696,969
 96 | abracadabra087 | 694,045
-97 | Westy3000 | 684,691
+97 | Westy3000 | 686,913
 98 | Due_Insurance8159 | 678,620
 99 | frickdom | 674,086
 100 | SKITZ_ZA | 673,394
@@ -153,7 +153,7 @@ Rank | Username | Totals Tips
 150 | tsudrat | 340,707
 151 | YarOldeOrchard | 340,375
 152 | Tinman_ApE | 337,352
-153 | DogSpark84 | 325,741
+153 | DogSpark84 | 331,067
 154 | Dripbot8 | 325,384
 155 | virmamies | 316,478
 156 | WhateverAlready | 316,461
