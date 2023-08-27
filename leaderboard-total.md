@@ -1,4 +1,4 @@
-Last updated: 23-08-27 09:51:00 UTC  
+Last updated: 23-08-27 10:25:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,654,777
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | StepAsideSuckers | 540,695
 116 | scientifichistorian | 539,560
 117 | shreyaskg | 538,211
-118 | junkwatch | 510,048
+118 | junkwatch | 510,117
 119 | f0n1xr131ng | 509,681
 120 | dopelifer09 | 507,611
 121 | MorrisBrett514 | 506,543
@@ -209,13 +209,13 @@ Rank | Username | Totals Tips
 206 | AverageLiberalJoe | 195,007
 207 | ShortBusCult | 192,925
 208 | TummyLice | 192,460
-209 | TubeNerd92 | 184,257
-210 | nooobmaester69 | 183,460
-211 | DAMG808 | 181,277
-212 | ruccarucca | 180,270
-213 | fettskull | 179,692
-214 | Heclalava | 177,615
-215 | Most_Being_4002 | 174,574
+209 | Most_Being_4002 | 184,574
+210 | TubeNerd92 | 184,257
+211 | nooobmaester69 | 183,460
+212 | DAMG808 | 181,277
+213 | ruccarucca | 180,270
+214 | fettskull | 179,692
+215 | Heclalava | 177,615
 216 | Final-Scar-941 | 172,919
 217 | YourThighsWarmMyEars | 172,697
 218 | Street_Addd | 171,939
@@ -246,10 +246,10 @@ Rank | Username | Totals Tips
 243 | GoodMornEveGoodNight | 131,019
 244 | Mj_6o4 | 129,568
 245 | Awake-- | 128,173
-246 | robnectar | 127,974
-247 | CalligrapherEnough83 | 127,227
-248 | Trakorr | 125,110
-249 | jamjam794 | 122,686
+246 | jamjam794 | 128,012
+247 | robnectar | 127,974
+248 | CalligrapherEnough83 | 127,227
+249 | Trakorr | 125,110
 250 | ZeMadMan1 | 122,599
 251 | Sativa55555 | 121,481
 252 | stupidcupid112 | 121,421
@@ -434,9 +434,9 @@ Rank | Username | Totals Tips
 431 | shitwhenismycakeday | 37,409
 432 | redditisalt | 37,307
 433 | Imalittlestitious86 | 37,090
-434 | degree-01 | 36,486
-435 | genesis_crazy_one | 36,167
-436 | skatistic | 35,827
+434 | skatistic | 36,667
+435 | degree-01 | 36,486
+436 | genesis_crazy_one | 36,167
 437 | GuronT | 35,561
 438 | TRANZHUMANIST | 35,000
 439 | FalloutAssasin | 34,863
