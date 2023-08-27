@@ -1,4 +1,4 @@
-Last updated: 23-08-27 14:50:51 UTC  
+Last updated: 23-08-27 15:00:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,660,103
@@ -19,17 +19,17 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,540,053
 18 | Geniuskills | 6,274,170
-19 | Real_Player_0 | 6,202,020
+19 | Real_Player_0 | 6,203,236
 20 | ashinamune | 6,005,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,246,307
+22 | HippieStarTraveler | 5,246,727
 23 | _ships | 4,966,495
 24 | 8inchConer | 4,947,480
 25 | thelonliestcrowd | 4,759,643
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
 28 | Ginomania | 4,473,439
-29 | SpookySYN | 4,457,350
+29 | SpookySYN | 4,460,013
 30 | redzrex | 4,395,011
 31 | birdwastheword | 4,302,735
 32 | Puddin-Luv | 4,266,771
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | Fenrir-1919 | 2,076,403
 51 | 002_timmy | 2,022,512
 52 | Affectionate_Hand_76 | 1,949,263
-53 | swampyswede | 1,925,997
+53 | swampyswede | 1,926,080
 54 | catlover-100 | 1,913,158
 55 | dealkhabari | 1,736,652
 56 | Ten-Mins-Late | 1,706,113
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | bray_martin03 | 1,518,175
 62 | evilninjarobot | 1,453,979
 63 | isthistomorrow_ | 1,350,016
-64 | djrcollectables | 1,299,220
+64 | djrcollectables | 1,307,278
 65 | ValiantJudge29500 | 1,267,591
 66 | CMDRGlamdring | 1,258,604
 67 | revdrgonzo | 1,232,551
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | billywright4 | 727,550
 93 | starterpack420694 | 710,420
 94 | WarmIyWacky | 703,049
-95 | Westy3000 | 701,845
+95 | Westy3000 | 702,265
 96 | Starterpack69420 | 696,969
 97 | abracadabra087 | 694,045
 98 | Due_Insurance8159 | 678,620
