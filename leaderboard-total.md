@@ -1,8 +1,8 @@
-Last updated: 23-08-27 18:24:21 UTC  
+Last updated: 23-08-27 18:34:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
-2 | Wonderful_Bad6531 | 34,548,626
+2 | Wonderful_Bad6531 | 34,551,289
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,007,021
 5 | nakamo-toe | 27,261,540
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | cutsickass | 8,210,432
 15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
-17 | avyun | 7,540,053
+17 | avyun | 7,547,022
 18 | Geniuskills | 6,274,170
 19 | Real_Player_0 | 6,203,236
 20 | ashinamune | 6,005,061
@@ -148,7 +148,7 @@ Rank | Username | Totals Tips
 145 | PortCity_MadMan | 367,591
 146 | farmertypoerror | 359,212
 147 | Mundane-Farm-4117 | 358,176
-148 | Lion-Hermit | 345,884
+148 | Lion-Hermit | 354,884
 149 | Outrageous-Skill-464 | 344,174
 150 | virmamies | 343,108
 151 | anony666mous | 341,008
@@ -197,7 +197,7 @@ Rank | Username | Totals Tips
 194 | alexthemay | 214,131
 195 | Beenthorny | 212,362
 196 | SigSalvadore | 212,358
-197 | Significant_Talk4943 | 210,339
+197 | Significant_Talk4943 | 210,759
 198 | UWphoto | 209,795
 199 | the_judge_168 | 208,455
 200 | Ashamed_Raccoon9918 | 205,858
