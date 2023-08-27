@@ -1,4 +1,4 @@
-Last updated: 23-08-27 21:40:40 UTC  
+Last updated: 23-08-27 21:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | ZukoBih | 3,403,115
 39 | thom_orrow | 3,303,106
 40 | Dry_Badger_2403 | 3,193,857
-41 | LordBobTheWhale | 3,067,902
+41 | LordBobTheWhale | 3,068,510
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
@@ -280,8 +280,8 @@ Rank | Username | Totals Tips
 277 | deathtr0 | 102,541
 278 | ACorDC | 100,420
 279 | FeetAndHandFetish | 98,146
-280 | Knaeggebrott | 97,076
-281 | beanwiggin420 | 96,933
+280 | beanwiggin420 | 97,353
+281 | Knaeggebrott | 97,076
 282 | IOTA_Tesla | 96,607
 283 | BrendanTFirefly | 95,347
 284 | wolfman333 | 93,986
