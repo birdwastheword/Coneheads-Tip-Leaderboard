@@ -1,4 +1,4 @@
-Last updated: 23-08-27 18:42:11 UTC  
+Last updated: 23-08-27 18:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -297,14 +297,14 @@ Rank | Username | Totals Tips
 294 | ShopALF | 87,942
 295 | kwickle | 87,805
 296 | jurgensdapimp | 86,817
-297 | Mother-Werewolf185 | 85,579
-298 | xSkyFa11x | 85,459
-299 | qwertywich | 84,810
-300 | Puzzleheaded_Gift738 | 84,020
-301 | RollingSkull0 | 83,098
-302 | shiesto | 82,917
-303 | standArtpluto | 82,100
-304 | yahuurdme | 81,889
+297 | yahuurdme | 86,158
+298 | Mother-Werewolf185 | 85,579
+299 | xSkyFa11x | 85,459
+300 | qwertywich | 84,810
+301 | Puzzleheaded_Gift738 | 84,020
+302 | RollingSkull0 | 83,098
+303 | shiesto | 82,917
+304 | standArtpluto | 82,100
 305 | AhhhUhmmm | 81,083
 306 | mastermarvs | 80,384
 307 | diamondbored | 79,817
