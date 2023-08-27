@@ -1,4 +1,4 @@
-Last updated: 23-08-27 03:30:40 UTC  
+Last updated: 23-08-27 03:40:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -346,18 +346,18 @@ Rank | Username | Totals Tips
 343 | Chill_Edoeard | 61,701
 344 | KrunchyKushKing | 61,532
 345 | TheD1ceMan | 60,541
-346 | 192000Hertz | 60,301
-347 | lucrica | 59,987
-348 | Big-Ticket1506 | 59,666
-349 | -geek | 59,318
-350 | Heycheckthisout20 | 59,182
-351 | Wildspliffosis | 58,703
-352 | meme_used | 58,516
-353 | Trink333 | 58,338
-354 | preemcuz | 58,314
-355 | phrodreky | 57,984
-356 | Outrageous_Storm6537 | 56,938
-357 | BitCone_CONE | 56,760
+346 | BitCone_CONE | 60,439
+347 | 192000Hertz | 60,301
+348 | lucrica | 59,987
+349 | Big-Ticket1506 | 59,666
+350 | -geek | 59,318
+351 | Heycheckthisout20 | 59,182
+352 | Wildspliffosis | 58,703
+353 | meme_used | 58,516
+354 | Trink333 | 58,338
+355 | preemcuz | 58,314
+356 | phrodreky | 57,984
+357 | Outrageous_Storm6537 | 56,938
 358 | Creative_Ad7831 | 56,746
 359 | ElmerBlack | 56,581
 360 | ProfessionalIcy6456 | 56,380
