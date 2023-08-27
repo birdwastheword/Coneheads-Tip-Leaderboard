@@ -1,4 +1,4 @@
-Last updated: 23-08-27 10:51:19 UTC  
+Last updated: 23-08-27 11:13:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,657,440
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,302,735
 32 | Puddin-Luv | 4,264,108
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,100,416
+34 | IveDoneItAtLast | 4,132,372
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | f0n1xr131ng | 509,681
 120 | dopelifer09 | 507,611
 121 | MorrisBrett514 | 506,543
-122 | Allions1 | 503,597
+122 | Allions1 | 503,666
 123 | Successful-Walk-3902 | 498,794
 124 | Korean_Street_Pizza | 483,871
 125 | YarOldeOrchard | 463,831
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | Mopeiooo | 427,266
 134 | Crypto-4-Freedom | 423,718
 135 | doktastonks | 421,325
-136 | RazPie | 416,654
+136 | RazPie | 419,317
 137 | dronegeeks1 | 414,406
 138 | LrnFaroeseWthBergur | 409,488
 139 | Creepy-Nectarine-225 | 389,511
@@ -173,11 +173,11 @@ Rank | Username | Totals Tips
 170 | Flimsy_Brilliant_239 | 265,592
 171 | FluffyAspie | 265,128
 172 | SetoXlll | 264,956
-173 | _Mitchee_ | 260,327
+173 | _Mitchee_ | 260,747
 174 | Hactar_42 | 256,832
 175 | thecrabdad | 256,177
 176 | Ambitious-Minimum-80 | 252,035
-177 | Lillica_Golden_SHIB | 251,519
+177 | Lillica_Golden_SHIB | 251,726
 178 | Sattack4000 | 250,837
 179 | Gregoryonetulum | 249,309
 180 | BeardedBro_ | 248,627
