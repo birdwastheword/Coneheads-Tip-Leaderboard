@@ -1,4 +1,4 @@
-Last updated: 23-08-27 19:00:48 UTC  
+Last updated: 23-08-27 19:14:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | SammyCraigar | 8,956,555
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
-14 | cutsickass | 8,290,343
+14 | cutsickass | 8,316,980
 15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,547,022
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | bray_martin03 | 1,518,175
 62 | evilninjarobot | 1,453,979
 63 | isthistomorrow_ | 1,350,016
-64 | djrcollectables | 1,309,941
+64 | djrcollectables | 1,312,604
 65 | ValiantJudge29500 | 1,268,199
 66 | CMDRGlamdring | 1,259,024
 67 | revdrgonzo | 1,232,551
