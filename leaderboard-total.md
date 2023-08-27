@@ -1,4 +1,4 @@
-Last updated: 23-08-27 10:34:19 UTC  
+Last updated: 23-08-27 10:42:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,657,440
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | SammyCraigar | 8,953,892
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
-14 | cutsickass | 8,122,521
+14 | cutsickass | 8,149,158
 15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,540,053
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | bray_martin03 | 1,518,175
 62 | evilninjarobot | 1,453,979
 63 | isthistomorrow_ | 1,350,016
-64 | djrcollectables | 1,269,927
+64 | djrcollectables | 1,272,590
 65 | ValiantJudge29500 | 1,267,591
 66 | CMDRGlamdring | 1,258,604
 67 | revdrgonzo | 1,232,551
@@ -694,14 +694,14 @@ Rank | Username | Totals Tips
 691 | DrunkDoge420 | 6,000
 692 | forceworks | 5,998
 693 | SecretSuch420 | 5,981
-694 | OddNebula2844 | 5,938
-695 | This_Red_Apple | 5,934
-696 | theBarefootedBastard | 5,896
-697 | Sir_Mobius_Mook | 5,840
-698 | stspts | 5,822
-699 | aPandox | 5,695
-700 | Makaveli4Sheez | 5,569
-701 | st3alth247 | 5,555
+694 | st3alth247 | 5,975
+695 | OddNebula2844 | 5,938
+696 | This_Red_Apple | 5,934
+697 | theBarefootedBastard | 5,896
+698 | Sir_Mobius_Mook | 5,840
+699 | stspts | 5,822
+700 | aPandox | 5,695
+701 | Makaveli4Sheez | 5,569
 702 | DioDilemma | 5,545
 703 | NEO_R1CH | 5,488
 704 | LATech99 | 5,463
