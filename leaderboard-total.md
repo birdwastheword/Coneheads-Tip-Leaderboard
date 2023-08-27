@@ -1,4 +1,4 @@
-Last updated: 23-08-27 02:50:52 UTC  
+Last updated: 23-08-27 03:19:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -40,7 +40,7 @@ Rank | Username | Totals Tips
 37 | LuminousViper | 3,477,450
 38 | ZukoBih | 3,403,115
 39 | Dry_Badger_2403 | 3,193,857
-40 | thom_orrow | 3,137,780
+40 | thom_orrow | 3,140,443
 41 | LordBobTheWhale | 3,066,078
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
@@ -52,8 +52,8 @@ Rank | Username | Totals Tips
 49 | Fenrir-1919 | 2,076,403
 50 | 002_timmy | 2,022,512
 51 | Affectionate_Hand_76 | 1,949,263
-52 | catlover-100 | 1,913,158
-53 | swampyswede | 1,825,997
+52 | swampyswede | 1,925,997
+53 | catlover-100 | 1,913,158
 54 | dealkhabari | 1,736,652
 55 | Ten-Mins-Late | 1,706,113
 56 | zdubs | 1,632,109
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | WarmIyWacky | 703,049
 95 | Starterpack69420 | 696,969
 96 | abracadabra087 | 694,045
-97 | Westy3000 | 686,913
+97 | Westy3000 | 691,357
 98 | Due_Insurance8159 | 678,620
 99 | frickdom | 674,086
 100 | SKITZ_ZA | 673,394
@@ -124,7 +124,7 @@ Rank | Username | Totals Tips
 121 | Allions1 | 503,528
 122 | dopelifer09 | 502,285
 123 | Successful-Walk-3902 | 498,794
-124 | Korean_Street_Pizza | 478,872
+124 | Korean_Street_Pizza | 481,535
 125 | sinlesco | 462,490
 126 | WarmlyWacky | 462,118
 127 | crodbtc | 455,681
@@ -184,11 +184,11 @@ Rank | Username | Totals Tips
 181 | SnooMacarons9203 | 246,893
 182 | thestonkinator | 246,260
 183 | tjex666 | 240,801
-184 | coolpattakers | 235,710
-185 | Zalkwalker | 235,069
-186 | cannainform2 | 231,620
-187 | superlonelyboy | 231,378
-188 | MisterM0H0 | 227,708
+184 | MisterM0H0 | 237,708
+185 | coolpattakers | 235,710
+186 | Zalkwalker | 235,069
+187 | cannainform2 | 231,620
+188 | superlonelyboy | 231,378
 189 | joeviani | 227,028
 190 | MuhSound | 225,403
 191 | SourBeefHoop | 217,512
