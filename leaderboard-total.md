@@ -1,11 +1,11 @@
-Last updated: 23-08-27 17:40:35 UTC  
+Last updated: 23-08-27 17:50:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
 2 | Wonderful_Bad6531 | 34,548,626
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,007,021
-5 | nakamo-toe | 27,205,617
+5 | nakamo-toe | 27,208,280
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,456,696
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | SammyCraigar | 8,956,555
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
-14 | cutsickass | 8,157,158
+14 | cutsickass | 8,183,795
 15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,540,053
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,305,398
 32 | Puddin-Luv | 4,266,771
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,175,474
+34 | IveDoneItAtLast | 4,178,137
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | DontLaughArt | 2,516,345
 46 | possibili-teas | 2,399,515
 47 | GuyOne | 2,252,052
-48 | ImAlekBan | 2,209,901
+48 | ImAlekBan | 2,212,564
 49 | Autom4tic_Soze | 2,164,137
 50 | Fenrir-1919 | 2,076,403
 51 | 002_timmy | 2,022,512
@@ -171,9 +171,9 @@ Rank | Username | Totals Tips
 168 | maxfra | 279,459
 169 | deedopete | 278,024
 170 | dinoyeti | 273,373
-171 | Flimsy_Brilliant_239 | 265,592
-172 | FluffyAspie | 265,128
-173 | SetoXlll | 264,956
+171 | SetoXlll | 266,067
+172 | Flimsy_Brilliant_239 | 265,592
+173 | FluffyAspie | 265,128
 174 | _Mitchee_ | 260,747
 175 | Hactar_42 | 256,832
 176 | thecrabdad | 256,177
