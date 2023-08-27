@@ -1,4 +1,4 @@
-Last updated: 23-08-27 08:23:11 UTC  
+Last updated: 23-08-27 08:31:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,654,777
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
-45 | DontLaughArt | 2,513,074
+45 | DontLaughArt | 2,515,737
 46 | possibili-teas | 2,399,515
 47 | GuyOne | 2,252,052
 48 | ImAlekBan | 2,206,032
