@@ -1,4 +1,4 @@
-Last updated: 23-08-27 08:51:01 UTC  
+Last updated: 23-08-27 09:16:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,654,777
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | SammyCraigar | 8,953,892
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
-14 | cutsickass | 8,090,558
+14 | cutsickass | 8,119,858
 15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,540,053
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,302,735
 32 | Puddin-Luv | 4,264,108
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,059,844
+34 | IveDoneItAtLast | 4,071,860
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -45,10 +45,10 @@ Rank | Username | Totals Tips
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
-45 | DontLaughArt | 2,515,737
+45 | DontLaughArt | 2,516,345
 46 | possibili-teas | 2,399,515
 47 | GuyOne | 2,252,052
-48 | ImAlekBan | 2,206,032
+48 | ImAlekBan | 2,209,901
 49 | Autom4tic_Soze | 2,164,137
 50 | Fenrir-1919 | 2,076,403
 51 | 002_timmy | 2,022,512
@@ -64,8 +64,8 @@ Rank | Username | Totals Tips
 61 | bray_martin03 | 1,518,175
 62 | evilninjarobot | 1,453,979
 63 | isthistomorrow_ | 1,350,016
-64 | ValiantJudge29500 | 1,267,591
-65 | djrcollectables | 1,267,264
+64 | djrcollectables | 1,269,927
+65 | ValiantJudge29500 | 1,267,591
 66 | CMDRGlamdring | 1,258,604
 67 | revdrgonzo | 1,232,551
 68 | saintajoras | 1,202,606
@@ -249,10 +249,10 @@ Rank | Username | Totals Tips
 246 | robnectar | 127,974
 247 | CalligrapherEnough83 | 127,227
 248 | Trakorr | 125,110
-249 | ZeMadMan1 | 122,599
-250 | Sativa55555 | 121,481
-251 | stupidcupid112 | 121,421
-252 | jamjam794 | 120,023
+249 | jamjam794 | 122,686
+250 | ZeMadMan1 | 122,599
+251 | Sativa55555 | 121,481
+252 | stupidcupid112 | 121,421
 253 | Schl0tz | 120,000
 254 | wato4000 | 118,802
 255 | street_shark_puppet | 116,891
@@ -304,7 +304,7 @@ Rank | Username | Totals Tips
 301 | shiesto | 82,917
 302 | standArtpluto | 82,100
 303 | yahuurdme | 81,889
-304 | AhhhUhmmm | 81,014
+304 | AhhhUhmmm | 81,083
 305 | mastermarvs | 80,384
 306 | diamondbored | 79,817
 307 | Pwny_b0y | 79,447
