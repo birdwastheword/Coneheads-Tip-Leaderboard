@@ -1,4 +1,4 @@
-Last updated: 23-08-27 19:40:38 UTC  
+Last updated: 23-08-27 19:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | SammyCraigar | 8,956,555
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
-14 | cutsickass | 8,316,980
+14 | cutsickass | 8,343,617
 15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,547,022
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,305,398
 32 | Puddin-Luv | 4,266,771
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,190,079
+34 | IveDoneItAtLast | 4,193,670
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
