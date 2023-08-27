@@ -1,17 +1,17 @@
-Last updated: 23-08-26 23:50:32 UTC  
+Last updated: 23-08-27 01:59:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
 2 | Wonderful_Bad6531 | 34,535,963
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,305
-5 | nakamo-toe | 27,058,264
+5 | nakamo-toe | 27,108,076
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,354,033
 9 | HODL-THE-LINE | 11,968,181
-10 | Parush9 | 11,940,680
-11 | SammyCraigar | 8,950,621
+10 | Parush9 | 11,950,679
+11 | SammyCraigar | 8,953,284
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
 14 | Homeslicekilla | 7,995,797
@@ -24,12 +24,12 @@ Rank | Username | Totals Tips
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,242,044
 23 | 8inchConer | 4,947,480
-24 | _ships | 4,934,665
+24 | _ships | 4,940,599
 25 | thelonliestcrowd | 4,759,643
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
 28 | Ginomania | 4,446,809
-29 | SpookySYN | 4,401,427
+29 | SpookySYN | 4,428,057
 30 | redzrex | 4,395,011
 31 | birdwastheword | 4,300,072
 32 | rustyybikes | 4,263,025
@@ -40,7 +40,7 @@ Rank | Username | Totals Tips
 37 | LuminousViper | 3,477,450
 38 | ZukoBih | 3,403,115
 39 | Dry_Badger_2403 | 3,193,857
-40 | thom_orrow | 3,087,142
+40 | thom_orrow | 3,132,453
 41 | LordBobTheWhale | 3,066,078
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | isthistomorrow_ | 1,350,016
 64 | ValiantJudge29500 | 1,267,591
 65 | djrcollectables | 1,267,264
-66 | CMDRGlamdring | 1,258,184
+66 | CMDRGlamdring | 1,258,604
 67 | revdrgonzo | 1,232,551
 68 | saintajoras | 1,202,606
 69 | HestiaIsTheBestia | 1,188,046
@@ -97,12 +97,12 @@ Rank | Username | Totals Tips
 94 | WarmIyWacky | 703,049
 95 | Starterpack69420 | 696,969
 96 | abracadabra087 | 694,045
-97 | Due_Insurance8159 | 678,620
-98 | frickdom | 674,086
-99 | SKITZ_ZA | 673,394
-100 | Alanski22 | 663,830
-101 | piebagz | 661,815
-102 | Westy3000 | 659,138
+97 | Westy3000 | 680,247
+98 | Due_Insurance8159 | 678,620
+99 | frickdom | 674,086
+100 | SKITZ_ZA | 673,394
+101 | Alanski22 | 663,830
+102 | piebagz | 661,815
 103 | Obi1eyeKenobi | 652,339
 104 | MartynDr | 651,840
 105 | Duskopia | 643,492
@@ -143,7 +143,7 @@ Rank | Username | Totals Tips
 140 | zenhodl | 374,566
 141 | hellosamaira | 373,235
 142 | AustinTX1985 | 368,863
-143 | PortCity_MadMan | 362,265
+143 | PortCity_MadMan | 364,928
 144 | farmertypoerror | 359,212
 145 | Mundane-Farm-4117 | 358,176
 146 | Lion-Hermit | 345,884
@@ -168,7 +168,7 @@ Rank | Username | Totals Tips
 165 | MadScientistTheFirst | 280,469
 166 | astro_nut_ | 280,463
 167 | maxfra | 279,459
-168 | deedopete | 277,247
+168 | deedopete | 278,024
 169 | dinoyeti | 273,373
 170 | Flimsy_Brilliant_239 | 265,592
 171 | FluffyAspie | 265,128
