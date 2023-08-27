@@ -1,4 +1,4 @@
-Last updated: 23-08-27 04:50:44 UTC  
+Last updated: 23-08-27 05:00:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | 0-Give-a-fucks | 1,539,264
 59 | KONGXIANG | 1,526,459
 60 | bray_martin03 | 1,518,175
-61 | DontLaughArt | 1,498,261
+61 | DontLaughArt | 1,500,924
 62 | evilninjarobot | 1,453,979
 63 | isthistomorrow_ | 1,350,016
 64 | ValiantJudge29500 | 1,267,591
