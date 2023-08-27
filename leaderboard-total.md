@@ -1,7 +1,7 @@
-Last updated: 23-08-27 11:40:32 UTC  
+Last updated: 23-08-27 11:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 36,657,440
+1 | Bitdream200K | 36,660,103
 2 | Wonderful_Bad6531 | 34,535,963
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,001,338
@@ -32,16 +32,16 @@ Rank | Username | Totals Tips
 29 | SpookySYN | 4,430,720
 30 | redzrex | 4,395,011
 31 | birdwastheword | 4,302,735
-32 | Puddin-Luv | 4,264,108
+32 | Puddin-Luv | 4,266,771
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,135,035
+34 | IveDoneItAtLast | 4,137,698
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
 38 | ZukoBih | 3,403,115
 39 | Dry_Badger_2403 | 3,193,857
 40 | thom_orrow | 3,140,443
-41 | LordBobTheWhale | 3,066,078
+41 | LordBobTheWhale | 3,067,294
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
