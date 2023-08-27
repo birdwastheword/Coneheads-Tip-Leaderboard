@@ -1,4 +1,4 @@
-Last updated: 23-08-27 14:20:38 UTC  
+Last updated: 23-08-27 14:30:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,660,103
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | avyun | 7,540,053
 18 | Geniuskills | 6,274,170
 19 | Real_Player_0 | 6,202,020
-20 | ashinamune | 6,000,061
+20 | ashinamune | 6,005,061
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,246,238
 23 | _ships | 4,966,495
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | billywright4 | 727,550
 93 | starterpack420694 | 710,420
 94 | WarmIyWacky | 703,049
-95 | Westy3000 | 701,776
+95 | Westy3000 | 701,845
 96 | Starterpack69420 | 696,969
 97 | abracadabra087 | 694,045
 98 | Due_Insurance8159 | 678,620
