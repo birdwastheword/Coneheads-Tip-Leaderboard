@@ -1,4 +1,4 @@
-Last updated: 23-08-27 13:50:34 UTC  
+Last updated: 23-08-27 14:20:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,660,103
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,202,020
 20 | ashinamune | 6,000,061
 21 | Skank_cunt_42 | 5,467,162
-22 | HippieStarTraveler | 5,245,818
+22 | HippieStarTraveler | 5,246,238
 23 | _ships | 4,966,495
 24 | 8inchConer | 4,947,480
 25 | thelonliestcrowd | 4,759,643
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | ZukoBih | 3,403,115
 39 | Dry_Badger_2403 | 3,193,857
 40 | thom_orrow | 3,143,106
-41 | LordBobTheWhale | 3,067,294
+41 | LordBobTheWhale | 3,067,902
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | billywright4 | 727,550
 93 | starterpack420694 | 710,420
 94 | WarmIyWacky | 703,049
-95 | Westy3000 | 699,134
+95 | Westy3000 | 701,776
 96 | Starterpack69420 | 696,969
 97 | abracadabra087 | 694,045
 98 | Due_Insurance8159 | 678,620
@@ -227,8 +227,8 @@ Rank | Username | Totals Tips
 224 | ultra_terrestrial | 163,762
 225 | skollywag92 | 163,279
 226 | Adrewmc | 161,177
-227 | tmanfromEarth | 155,392
-228 | Lastkidpicked94 | 154,734
+227 | Lastkidpicked94 | 157,397
+228 | tmanfromEarth | 155,392
 229 | 6reficul | 153,884
 230 | martymartinator | 152,560
 231 | sjakkpila | 152,031
