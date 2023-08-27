@@ -1,11 +1,11 @@
-Last updated: 23-08-27 17:50:30 UTC  
+Last updated: 23-08-27 18:24:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
 2 | Wonderful_Bad6531 | 34,548,626
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,007,021
-5 | nakamo-toe | 27,208,280
+5 | nakamo-toe | 27,261,540
 6 | waterhasnocalories | 23,358,612
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,456,696
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | SammyCraigar | 8,956,555
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
-14 | cutsickass | 8,183,795
+14 | cutsickass | 8,210,432
 15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,540,053
@@ -28,13 +28,13 @@ Rank | Username | Totals Tips
 25 | thelonliestcrowd | 4,789,969
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
-28 | Ginomania | 4,473,439
+28 | Ginomania | 4,473,859
 29 | SpookySYN | 4,462,676
 30 | redzrex | 4,395,011
 31 | birdwastheword | 4,305,398
 32 | Puddin-Luv | 4,266,771
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,178,137
+34 | IveDoneItAtLast | 4,190,079
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,926,163
 54 | catlover-100 | 1,913,158
-55 | dealkhabari | 1,736,652
+55 | dealkhabari | 1,760,619
 56 | Ten-Mins-Late | 1,706,113
 57 | zdubs | 1,632,109
 58 | GooderZBK | 1,613,996
@@ -89,8 +89,8 @@ Rank | Username | Totals Tips
 86 | vbutarin | 802,000
 87 | ashketchup422 | 794,067
 88 | Cravensworth_redux | 790,803
-89 | ziggybri | 782,435
-90 | UniversalNoobMaster | 777,270
+89 | UniversalNoobMaster | 784,239
+90 | ziggybri | 782,435
 91 | RegalReptile_ | 753,708
 92 | billywright4 | 727,550
 93 | starterpack420694 | 710,420
@@ -101,11 +101,11 @@ Rank | Username | Totals Tips
 98 | Due_Insurance8159 | 678,620
 99 | frickdom | 674,086
 100 | SKITZ_ZA | 673,394
-101 | Alanski22 | 663,830
+101 | Alanski22 | 664,438
 102 | piebagz | 661,815
 103 | Obi1eyeKenobi | 652,339
 104 | MartynDr | 651,840
-105 | Duskopia | 643,492
+105 | Duskopia | 646,155
 106 | femacampcouncilor | 642,812
 107 | slirpo | 631,180
 108 | ID404_Not_Found_8964 | 606,165
