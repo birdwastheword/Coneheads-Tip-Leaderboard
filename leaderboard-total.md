@@ -1,4 +1,4 @@
-Last updated: 23-08-27 23:30:48 UTC  
+Last updated: 23-08-27 23:40:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | Ten-Mins-Late | 1,706,113
 57 | zdubs | 1,632,109
 58 | GooderZBK | 1,613,996
-59 | 0-Give-a-fucks | 1,571,220
+59 | 0-Give-a-fucks | 1,597,850
 60 | KONGXIANG | 1,529,122
 61 | bray_martin03 | 1,518,175
 62 | evilninjarobot | 1,453,979
@@ -144,8 +144,8 @@ Rank | Username | Totals Tips
 141 | SHIFTY-T3RROR | 377,457
 142 | zenhodl | 374,566
 143 | hellosamaira | 373,235
-144 | AustinTX1985 | 368,863
-145 | PortCity_MadMan | 367,591
+144 | PortCity_MadMan | 372,917
+145 | AustinTX1985 | 368,863
 146 | farmertypoerror | 359,212
 147 | Mundane-Farm-4117 | 358,176
 148 | Lion-Hermit | 354,884
