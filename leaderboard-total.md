@@ -1,4 +1,4 @@
-Last updated: 23-08-27 17:30:40 UTC  
+Last updated: 23-08-27 17:40:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,305,398
 32 | Puddin-Luv | 4,266,771
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,172,811
+34 | IveDoneItAtLast | 4,175,474
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -90,7 +90,7 @@ Rank | Username | Totals Tips
 87 | ashketchup422 | 794,067
 88 | Cravensworth_redux | 790,803
 89 | ziggybri | 782,435
-90 | UniversalNoobMaster | 763,332
+90 | UniversalNoobMaster | 777,270
 91 | RegalReptile_ | 753,708
 92 | billywright4 | 727,550
 93 | starterpack420694 | 710,420
@@ -549,19 +549,19 @@ Rank | Username | Totals Tips
 546 | Sebanimation | 17,004
 547 | leviathynx | 16,901
 548 | ipsole | 16,425
-549 | deeeznotes | 16,235
-550 | Conflict63 | 16,063
-551 | giooo_tdm | 15,895
-552 | Zwott | 15,441
-553 | Fr3sh-Ch3mical | 15,393
-554 | Rookslook | 15,359
-555 | Rake_wlkr | 15,330
-556 | imeme1969 | 15,070
-557 | Doublix | 15,054
-558 | redbasl | 14,643
-559 | Big_Bonus3617 | 14,640
-560 | mixmasterpayne | 14,409
-561 | Styl_Ianos_ | 14,328
+549 | Styl_Ianos_ | 16,328
+550 | deeeznotes | 16,235
+551 | Conflict63 | 16,063
+552 | giooo_tdm | 15,895
+553 | Zwott | 15,441
+554 | Fr3sh-Ch3mical | 15,393
+555 | Rookslook | 15,359
+556 | Rake_wlkr | 15,330
+557 | imeme1969 | 15,070
+558 | Doublix | 15,054
+559 | redbasl | 14,643
+560 | Big_Bonus3617 | 14,640
+561 | mixmasterpayne | 14,409
 562 | Fivebag | 14,290
 563 | cole-badger | 14,269
 564 | theycallmekimpembe | 14,037
