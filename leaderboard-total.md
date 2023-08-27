@@ -1,4 +1,4 @@
-Last updated: 23-08-27 07:25:45 UTC  
+Last updated: 23-08-27 07:34:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,628,147
@@ -121,8 +121,8 @@ Rank | Username | Totals Tips
 118 | junkwatch | 510,048
 119 | f0n1xr131ng | 509,681
 120 | MorrisBrett514 | 506,543
-121 | Allions1 | 503,528
-122 | dopelifer09 | 502,285
+121 | dopelifer09 | 504,948
+122 | Allions1 | 503,528
 123 | Successful-Walk-3902 | 498,794
 124 | Korean_Street_Pizza | 481,535
 125 | sinlesco | 462,490
