@@ -1,4 +1,4 @@
-Last updated: 23-08-27 04:24:40 UTC  
+Last updated: 23-08-27 04:33:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | WarmIyWacky | 703,049
 95 | Starterpack69420 | 696,969
 96 | abracadabra087 | 694,045
-97 | Westy3000 | 691,357
+97 | Westy3000 | 693,579
 98 | Due_Insurance8159 | 678,620
 99 | frickdom | 674,086
 100 | SKITZ_ZA | 673,394
