@@ -1,4 +1,4 @@
-Last updated: 23-08-27 05:41:27 UTC  
+Last updated: 23-08-27 05:50:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -73,8 +73,8 @@ Rank | Username | Totals Tips
 70 | Richicash | 1,181,855
 71 | Feetfailmenot | 1,151,105
 72 | beastlybaker | 1,138,701
-73 | LongCauliflower6791 | 1,086,444
-74 | investigator100 | 1,084,704
+73 | investigator100 | 1,094,704
+74 | LongCauliflower6791 | 1,086,444
 75 | Hot_Potato_Salad | 1,079,657
 76 | freechickens | 1,028,386
 77 | avatarbot | 1,027,000
@@ -212,7 +212,7 @@ Rank | Username | Totals Tips
 209 | TubeNerd92 | 184,257
 210 | nooobmaester69 | 183,460
 211 | DAMG808 | 181,277
-212 | ruccarucca | 179,850
+212 | ruccarucca | 180,270
 213 | fettskull | 179,692
 214 | Heclalava | 177,615
 215 | Most_Being_4002 | 174,574
