@@ -1,4 +1,4 @@
-Last updated: 23-08-27 20:50:48 UTC  
+Last updated: 23-08-27 21:15:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -20,10 +20,10 @@ Rank | Username | Totals Tips
 17 | avyun | 7,547,022
 18 | Geniuskills | 6,274,170
 19 | Real_Player_0 | 6,203,236
-20 | ashinamune | 6,005,061
+20 | ashinamune | 6,007,724
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,246,727
-23 | _ships | 4,969,158
+23 | _ships | 4,971,821
 24 | 8inchConer | 4,947,480
 25 | thelonliestcrowd | 4,789,969
 26 | rikbona | 4,539,773
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | Ten-Mins-Late | 1,706,113
 57 | zdubs | 1,632,109
 58 | GooderZBK | 1,613,996
-59 | 0-Give-a-fucks | 1,568,557
+59 | 0-Give-a-fucks | 1,571,220
 60 | KONGXIANG | 1,526,459
 61 | bray_martin03 | 1,518,175
 62 | evilninjarobot | 1,453,979
@@ -88,8 +88,8 @@ Rank | Username | Totals Tips
 85 | goldyluckinblokchain | 809,537
 86 | vbutarin | 802,000
 87 | ashketchup422 | 794,067
-88 | Cravensworth_redux | 790,803
-89 | UniversalNoobMaster | 784,239
+88 | UniversalNoobMaster | 791,208
+89 | Cravensworth_redux | 790,803
 90 | ziggybri | 782,435
 91 | RegalReptile_ | 753,708
 92 | billywright4 | 727,550
@@ -756,21 +756,21 @@ Rank | Username | Totals Tips
 753 | Complete-Tadpole-728 | 3,709
 754 | salt_yaf | 3,706
 755 | abbasabba260 | 3,663
-756 | Gelato_33 | 3,628
-757 | Buzzalu | 3,622
-758 | _echnaton | 3,504
-759 | Mrcoolguynumberone | 3,420
-760 | SoulUrgeDestiny | 3,409
-761 | n1ghsthade | 3,378
-762 | elksteaksdmt | 3,359
-763 | Microgamers | 3,335
-764 | superficialization | 3,326
-765 | JJJaxMax | 3,325
-766 | ineedmoney2023 | 3,307
-767 | mondaymoderate | 3,271
-768 | Mulleary | 3,271
-769 | trainspottedCSX7 | 3,260
-770 | LaPantheRose | 3,238
+756 | LaPantheRose | 3,658
+757 | Gelato_33 | 3,628
+758 | Buzzalu | 3,622
+759 | _echnaton | 3,504
+760 | Mrcoolguynumberone | 3,420
+761 | SoulUrgeDestiny | 3,409
+762 | n1ghsthade | 3,378
+763 | elksteaksdmt | 3,359
+764 | Microgamers | 3,335
+765 | superficialization | 3,326
+766 | JJJaxMax | 3,325
+767 | ineedmoney2023 | 3,307
+768 | mondaymoderate | 3,271
+769 | Mulleary | 3,271
+770 | trainspottedCSX7 | 3,260
 771 | redditagain91 | 3,163
 772 | Positive-Gazelle2603 | 3,152
 773 | PopLegion | 3,152
