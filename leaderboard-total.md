@@ -1,4 +1,4 @@
-Last updated: 23-08-27 09:33:59 UTC  
+Last updated: 23-08-27 09:42:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,654,777
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | thelonliestcrowd | 4,759,643
 26 | rikbona | 4,539,773
 27 | bigbilly1234567899 | 4,496,042
-28 | Ginomania | 4,446,809
+28 | Ginomania | 4,473,439
 29 | SpookySYN | 4,430,720
 30 | redzrex | 4,395,011
 31 | birdwastheword | 4,302,735
