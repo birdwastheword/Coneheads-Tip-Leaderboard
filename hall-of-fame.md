@@ -91,5 +91,6 @@ Rank | Date | Username | Totals Tips | to User
 88 | 2023-08-22 03:33:53 | Permanent_WSB_Bull | 1,000,000| skollywag92
 89 | 2023-08-25 07:06:59 | transfermymoons | 1,000,000| Specialist_Duck3
 90 | 2023-08-26 19:46:09 | 002_timmy | 1,000,000| GuyOne
+91 | 2023-08-27 08:15:14 | DontLaughArt | 1,000,000| GuyOne
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
