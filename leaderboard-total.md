@@ -1,4 +1,4 @@
-Last updated: 23-08-27 20:30:29 UTC  
+Last updated: 23-08-27 20:40:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -119,8 +119,8 @@ Rank | Username | Totals Tips
 116 | scientifichistorian | 539,560
 117 | shreyaskg | 538,211
 118 | junkwatch | 513,200
-119 | f0n1xr131ng | 509,681
-120 | dopelifer09 | 507,611
+119 | dopelifer09 | 510,274
+120 | f0n1xr131ng | 509,681
 121 | MorrisBrett514 | 506,543
 122 | Allions1 | 503,735
 123 | Successful-Walk-3902 | 498,794
