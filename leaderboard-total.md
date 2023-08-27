@@ -1,4 +1,4 @@
-Last updated: 23-08-27 05:00:51 UTC  
+Last updated: 23-08-27 05:24:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,622,821
@@ -14,8 +14,8 @@ Rank | Username | Totals Tips
 11 | SammyCraigar | 8,953,892
 12 | ArtConsitent | 8,532,279
 13 | Permanent_WSB_Bull | 8,522,155
-14 | Homeslicekilla | 7,995,797
-15 | cutsickass | 7,984,010
+14 | cutsickass | 8,063,921
+15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,540,053
 18 | Geniuskills | 6,274,170
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | Ten-Mins-Late | 1,706,113
 56 | zdubs | 1,632,109
 57 | GooderZBK | 1,613,996
-58 | 0-Give-a-fucks | 1,539,264
+58 | 0-Give-a-fucks | 1,541,927
 59 | KONGXIANG | 1,526,459
 60 | bray_martin03 | 1,518,175
 61 | DontLaughArt | 1,500,924
@@ -329,7 +329,7 @@ Rank | Username | Totals Tips
 326 | Yoda975 | 69,055
 327 | Tapiz3land | 68,942
 328 | AnduriII | 68,313
-329 | Dazzling_Marzipan474 | 67,773
+329 | Dazzling_Marzipan474 | 68,193
 330 | Friendly-Airline2426 | 66,545
 331 | imp3order | 65,546
 332 | damnusernamegotcutof | 65,004
@@ -387,11 +387,11 @@ Rank | Username | Totals Tips
 384 | Levl1Critter | 49,152
 385 | d_Shazam_b | 48,908
 386 | Dolce_00 | 48,683
-387 | CryptoScamee42069 | 47,523
-388 | Outside-Wolf5928 | 47,433
-389 | hey_barry | 47,353
-390 | shredslanding | 46,650
-391 | SandersIncBV | 46,266
+387 | SandersIncBV | 47,603
+388 | CryptoScamee42069 | 47,523
+389 | Outside-Wolf5928 | 47,433
+390 | hey_barry | 47,353
+391 | shredslanding | 46,650
 392 | sicilian2124 | 45,866
 393 | Drlitez | 45,436
 394 | NickkyDC | 45,379
