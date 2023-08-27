@@ -1,11 +1,11 @@
-Last updated: 23-08-27 22:33:04 UTC  
+Last updated: 23-08-27 22:41:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
 2 | Wonderful_Bad6531 | 34,551,289
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,007,021
-5 | nakamo-toe | 27,352,366
+5 | nakamo-toe | 27,355,029
 6 | waterhasnocalories | 23,428,032
 7 | ConeDesk | 17,937,086
 8 | crypto_grandma | 12,456,696
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | avyun | 7,547,022
 18 | Geniuskills | 6,274,170
 19 | Real_Player_0 | 6,203,236
-20 | ashinamune | 6,127,724
+20 | ashinamune | 6,130,387
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,246,727
 23 | _ships | 4,971,821
@@ -94,7 +94,7 @@ Rank | Username | Totals Tips
 91 | RegalReptile_ | 753,708
 92 | billywright4 | 727,550
 93 | starterpack420694 | 710,420
-94 | Westy3000 | 703,796
+94 | Westy3000 | 706,018
 95 | WarmIyWacky | 703,049
 96 | Starterpack69420 | 696,969
 97 | abracadabra087 | 694,045
