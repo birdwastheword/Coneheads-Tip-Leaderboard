@@ -1,4 +1,4 @@
-Last updated: 23-08-27 15:19:38 UTC  
+Last updated: 23-08-27 15:30:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,660,103
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | birdwastheword | 4,302,735
 32 | Puddin-Luv | 4,266,771
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,152,303
+34 | IveDoneItAtLast | 4,153,419
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | Fenrir-1919 | 2,076,403
 51 | 002_timmy | 2,022,512
 52 | Affectionate_Hand_76 | 1,949,263
-53 | swampyswede | 1,926,080
+53 | swampyswede | 1,926,163
 54 | catlover-100 | 1,913,158
 55 | dealkhabari | 1,736,652
 56 | Ten-Mins-Late | 1,706,113
