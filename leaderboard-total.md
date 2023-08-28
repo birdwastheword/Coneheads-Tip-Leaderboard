@@ -1,11 +1,11 @@
-Last updated: 23-08-28 17:25:00 UTC  
+Last updated: 23-08-28 17:34:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,271,949
 2 | Wonderful_Bad6531 | 34,551,289
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,010,292
-5 | nakamo-toe | 27,544,113
+5 | nakamo-toe | 27,570,743
 6 | waterhasnocalories | 23,428,032
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,506,696
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | Parush9 | 11,950,679
 11 | SammyCraigar | 8,959,726
 12 | 8inchConer | 8,947,480
-13 | cutsickass | 8,586,013
+13 | cutsickass | 8,616,013
 14 | ArtConsitent | 8,532,279
 15 | Permanent_WSB_Bull | 8,522,155
 16 | Homeslicekilla | 7,995,797
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | Puddin-Luv | 4,389,411
 32 | birdwastheword | 4,308,061
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,239,392
+34 | IveDoneItAtLast | 4,247,381
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
