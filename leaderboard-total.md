@@ -1,4 +1,4 @@
-Last updated: 23-08-28 02:28:59 UTC  
+Last updated: 23-08-28 02:40:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | Jeff5704 | 28,007,021
 5 | nakamo-toe | 27,477,538
 6 | waterhasnocalories | 23,428,032
-7 | ConeDesk | 17,940,965
+7 | ConeDesk | 17,947,045
 8 | crypto_grandma | 12,456,696
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Ginomania | 4,476,522
 29 | SpookySYN | 4,470,894
 30 | redzrex | 4,395,011
-31 | Puddin-Luv | 4,370,145
+31 | Puddin-Luv | 4,370,753
 32 | birdwastheword | 4,305,398
 33 | rustyybikes | 4,263,025
 34 | IveDoneItAtLast | 4,196,333
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | dealkhabari | 1,760,619
 56 | Ten-Mins-Late | 1,706,113
 57 | 0-Give-a-fucks | 1,693,900
-58 | zdubs | 1,668,740
+58 | zdubs | 1,674,066
 59 | GooderZBK | 1,613,996
 60 | KONGXIANG | 1,529,122
 61 | bray_martin03 | 1,518,175
