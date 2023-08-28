@@ -1,4 +1,4 @@
-Last updated: 23-08-28 05:51:21 UTC  
+Last updated: 23-08-28 06:28:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | isthistomorrow_ | 1,350,016
 64 | djrcollectables | 1,315,267
 65 | ValiantJudge29500 | 1,270,699
-66 | CMDRGlamdring | 1,259,024
+66 | CMDRGlamdring | 1,259,444
 67 | revdrgonzo | 1,235,214
 68 | saintajoras | 1,202,606
 69 | HestiaIsTheBestia | 1,188,046
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | ziggybri | 782,435
 91 | RegalReptile_ | 753,708
 92 | billywright4 | 728,158
-93 | Westy3000 | 719,350
+93 | Westy3000 | 721,572
 94 | starterpack420694 | 710,420
 95 | WarmIyWacky | 703,049
 96 | Starterpack69420 | 696,969
