@@ -1,4 +1,4 @@
-Last updated: 23-08-28 03:50:37 UTC  
+Last updated: 23-08-28 04:26:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -18,9 +18,9 @@ Rank | Username | Totals Tips
 15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,547,022
-18 | Geniuskills | 6,274,170
-19 | Real_Player_0 | 6,205,668
-20 | ashinamune | 6,159,680
+18 | ashinamune | 6,288,463
+19 | Geniuskills | 6,274,170
+20 | Real_Player_0 | 6,205,668
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,246,727
 23 | _ships | 5,087,152
@@ -116,9 +116,9 @@ Rank | Username | Totals Tips
 113 | Independent_Heart_15 | 578,825
 114 | formidable-opponent | 558,071
 115 | nichnotnick | 556,778
-116 | StepAsideSuckers | 540,695
-117 | scientifichistorian | 539,560
-118 | dopelifer09 | 538,960
+116 | dopelifer09 | 544,286
+117 | StepAsideSuckers | 540,695
+118 | scientifichistorian | 539,560
 119 | shreyaskg | 538,211
 120 | junkwatch | 514,040
 121 | f0n1xr131ng | 509,681
@@ -146,15 +146,15 @@ Rank | Username | Totals Tips
 143 | zenhodl | 374,566
 144 | hellosamaira | 373,235
 145 | AustinTX1985 | 368,863
-146 | farmertypoerror | 359,212
-147 | Mundane-Farm-4117 | 358,176
-148 | Lion-Hermit | 354,884
-149 | Outrageous-Skill-464 | 344,174
-150 | virmamies | 343,108
-151 | anony666mous | 341,008
-152 | noface_reddit | 340,895
-153 | tsudrat | 340,707
-154 | DogSpark84 | 339,338
+146 | DogSpark84 | 365,968
+147 | farmertypoerror | 359,212
+148 | Mundane-Farm-4117 | 358,176
+149 | Lion-Hermit | 354,884
+150 | Outrageous-Skill-464 | 344,174
+151 | virmamies | 343,108
+152 | anony666mous | 341,008
+153 | noface_reddit | 340,895
+154 | tsudrat | 340,707
 155 | Tinman_ApE | 339,176
 156 | Dripbot8 | 325,384
 157 | WhateverAlready | 316,461
