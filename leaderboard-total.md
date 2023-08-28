@@ -1,4 +1,4 @@
-Last updated: 23-08-28 16:50:56 UTC  
+Last updated: 23-08-28 17:00:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,245,319
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | Parush9 | 11,950,679
 11 | SammyCraigar | 8,959,726
 12 | 8inchConer | 8,947,480
-13 | cutsickass | 8,559,376
+13 | cutsickass | 8,586,013
 14 | ArtConsitent | 8,532,279
 15 | Permanent_WSB_Bull | 8,522,155
 16 | Homeslicekilla | 7,995,797
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | evilninjarobot | 1,457,250
 63 | isthistomorrow_ | 1,350,016
 64 | YarOldeOrchard | 1,340,375
-65 | djrcollectables | 1,315,267
+65 | djrcollectables | 1,317,930
 66 | ValiantJudge29500 | 1,270,699
 67 | CMDRGlamdring | 1,259,444
 68 | revdrgonzo | 1,235,214
@@ -82,7 +82,7 @@ Rank | Username | Totals Tips
 79 | WarmBiertje | 1,000,000
 80 | EvanIsBacon | 970,416
 81 | Forward_Today2849 | 932,405
-82 | ID404_Not_Found_8964 | 909,617
+82 | ID404_Not_Found_8964 | 909,620
 83 | Modestexcuse | 903,684
 84 | CluelessSurvivor | 902,466
 85 | thee_monster | 896,765
@@ -106,7 +106,7 @@ Rank | Username | Totals Tips
 103 | frickdom | 676,749
 104 | SKITZ_ZA | 673,394
 105 | piebagz | 661,815
-106 | Duskopia | 652,481
+106 | Duskopia | 655,144
 107 | Obi1eyeKenobi | 652,339
 108 | MartynDr | 651,840
 109 | femacampcouncilor | 642,812
@@ -145,8 +145,8 @@ Rank | Username | Totals Tips
 142 | SHIFTY-T3RROR | 377,457
 143 | zenhodl | 374,566
 144 | hellosamaira | 373,235
-145 | AustinTX1985 | 368,863
-146 | DogSpark84 | 366,576
+145 | DogSpark84 | 369,239
+146 | AustinTX1985 | 368,863
 147 | farmertypoerror | 359,212
 148 | Mundane-Farm-4117 | 358,176
 149 | Lion-Hermit | 354,884
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | Hactar_42 | 256,832
 176 | thecrabdad | 256,177
 177 | tmanfromEarth | 255,392
-178 | Lillica_Golden_SHIB | 252,416
+178 | Lillica_Golden_SHIB | 252,554
 179 | Ambitious-Minimum-80 | 252,035
 180 | Sattack4000 | 250,837
 181 | Gregoryonetulum | 249,309
