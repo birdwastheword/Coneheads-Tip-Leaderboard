@@ -1,11 +1,11 @@
-Last updated: 23-08-28 17:34:46 UTC  
+Last updated: 23-08-28 17:43:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,271,949
 2 | Wonderful_Bad6531 | 34,551,289
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,010,292
-5 | nakamo-toe | 27,570,743
+5 | nakamo-toe | 27,578,961
 6 | waterhasnocalories | 23,428,032
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,506,696
@@ -13,12 +13,12 @@ Rank | Username | Totals Tips
 10 | Parush9 | 11,950,679
 11 | SammyCraigar | 8,959,726
 12 | 8inchConer | 8,947,480
-13 | cutsickass | 8,616,013
+13 | cutsickass | 8,626,013
 14 | ArtConsitent | 8,532,279
 15 | Permanent_WSB_Bull | 8,522,155
 16 | Homeslicekilla | 7,995,797
 17 | transfermymoons | 7,844,002
-18 | avyun | 7,547,022
+18 | avyun | 7,616,712
 19 | Real_Player_0 | 6,527,751
 20 | ashinamune | 6,291,126
 21 | Geniuskills | 6,274,170
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | thom_orrow | 3,436,546
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
-41 | LordBobTheWhale | 3,068,510
+41 | LordBobTheWhale | 3,069,118
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | Feetfailmenot | 1,151,105
 73 | beastlybaker | 1,138,701
 74 | investigator100 | 1,120,712
-75 | LongCauliflower6791 | 1,086,444
+75 | LongCauliflower6791 | 1,089,107
 76 | Hot_Potato_Salad | 1,079,726
 77 | freechickens | 1,028,386
 78 | avatarbot | 1,027,000
@@ -121,7 +121,7 @@ Rank | Username | Totals Tips
 118 | StepAsideSuckers | 540,695
 119 | scientifichistorian | 539,560
 120 | shreyaskg | 538,211
-121 | junkwatch | 514,040
+121 | junkwatch | 514,460
 122 | Allions1 | 510,704
 123 | f0n1xr131ng | 509,681
 124 | MorrisBrett514 | 506,963
@@ -381,8 +381,8 @@ Rank | Username | Totals Tips
 378 | mofayew | 52,166
 379 | ConeHead710 | 52,012
 380 | lucivaryas | 51,420
-381 | d0ntmess87 | 51,278
-382 | Dboythegreat | 50,897
+381 | Dboythegreat | 51,317
+382 | d0ntmess87 | 51,278
 383 | CHEROKEEJ4CK | 49,947
 384 | eatthebagels | 49,692
 385 | Levl1Critter | 49,152
