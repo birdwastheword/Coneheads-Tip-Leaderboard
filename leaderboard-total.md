@@ -1,4 +1,4 @@
-Last updated: 23-08-28 20:21:09 UTC  
+Last updated: 23-08-28 20:31:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,301,242
@@ -16,8 +16,8 @@ Rank | Username | Totals Tips
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,279
 15 | Permanent_WSB_Bull | 8,522,155
-16 | Homeslicekilla | 7,995,797
-17 | transfermymoons | 7,944,002
+16 | transfermymoons | 8,094,002
+17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,616,712
 19 | Real_Player_0 | 6,527,751
 20 | ashinamune | 6,291,126
