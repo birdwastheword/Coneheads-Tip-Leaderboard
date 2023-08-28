@@ -1,8 +1,8 @@
-Last updated: 23-08-28 18:27:27 UTC  
+Last updated: 23-08-28 18:40:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,298,579
-2 | Wonderful_Bad6531 | 34,551,289
+2 | Wonderful_Bad6531 | 34,777,922
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,010,292
 5 | nakamo-toe | 27,621,030
@@ -25,7 +25,7 @@ Rank | Username | Totals Tips
 22 | Skank_cunt_42 | 5,467,162
 23 | HippieStarTraveler | 5,249,390
 24 | _ships | 5,087,152
-25 | SpookySYN | 4,902,850
+25 | SpookySYN | 4,929,480
 26 | thelonliestcrowd | 4,797,958
 27 | rikbona | 4,540,773
 28 | bigbilly1234567899 | 4,496,042
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | ValiantJudge29500 | 1,270,699
 67 | CMDRGlamdring | 1,259,444
 68 | revdrgonzo | 1,235,214
-69 | saintajoras | 1,202,606
+69 | saintajoras | 1,205,269
 70 | HestiaIsTheBestia | 1,188,046
 71 | Richicash | 1,181,855
 72 | Feetfailmenot | 1,151,105
@@ -82,7 +82,7 @@ Rank | Username | Totals Tips
 79 | WarmBiertje | 1,000,000
 80 | EvanIsBacon | 970,416
 81 | Forward_Today2849 | 932,405
-82 | ID404_Not_Found_8964 | 909,620
+82 | ID404_Not_Found_8964 | 910,620
 83 | Modestexcuse | 903,684
 84 | CluelessSurvivor | 902,466
 85 | thee_monster | 896,765
@@ -398,7 +398,7 @@ Rank | Username | Totals Tips
 395 | NickkyDC | 45,379
 396 | tentazoc | 45,078
 397 | Name_Trikolon | 45,002
-398 | acfranks | 44,105
+398 | acfranks | 44,525
 399 | Kilv3r | 44,021
 400 | Coneboy2663 | 43,852
 401 | RiightYouKnow | 43,329
@@ -435,7 +435,7 @@ Rank | Username | Totals Tips
 432 | shitwhenismycakeday | 37,409
 433 | redditisalt | 37,307
 434 | Imalittlestitious86 | 37,090
-435 | skatistic | 36,943
+435 | skatistic | 37,012
 436 | degree-01 | 36,486
 437 | genesis_crazy_one | 36,167
 438 | GuronT | 35,561
