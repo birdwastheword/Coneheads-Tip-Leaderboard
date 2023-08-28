@@ -1,4 +1,4 @@
-Last updated: 23-08-28 05:43:02 UTC  
+Last updated: 23-08-28 05:51:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -12,8 +12,8 @@ Rank | Username | Totals Tips
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
 11 | SammyCraigar | 8,959,726
-12 | ArtConsitent | 8,532,279
-13 | cutsickass | 8,530,076
+12 | cutsickass | 8,556,713
+13 | ArtConsitent | 8,532,279
 14 | Permanent_WSB_Bull | 8,522,155
 15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | thelonliestcrowd | 4,792,632
 26 | rikbona | 4,540,773
 27 | bigbilly1234567899 | 4,496,042
-28 | Ginomania | 4,476,522
+28 | Ginomania | 4,479,185
 29 | SpookySYN | 4,470,894
 30 | redzrex | 4,395,011
 31 | Puddin-Luv | 4,373,416
