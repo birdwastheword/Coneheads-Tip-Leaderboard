@@ -1,4 +1,4 @@
-Last updated: 23-08-28 15:30:58 UTC  
+Last updated: 23-08-28 15:40:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,716,026
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | Puddin-Luv | 4,386,748
 32 | birdwastheword | 4,305,398
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,233,458
+34 | IveDoneItAtLast | 4,236,729
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | Hactar_42 | 256,832
 176 | thecrabdad | 256,177
 177 | tmanfromEarth | 255,392
-178 | Lillica_Golden_SHIB | 252,278
+178 | Lillica_Golden_SHIB | 252,416
 179 | Ambitious-Minimum-80 | 252,035
 180 | Sattack4000 | 250,837
 181 | Gregoryonetulum | 249,309
@@ -279,8 +279,8 @@ Rank | Username | Totals Tips
 276 | redditinchina | 102,781
 277 | deathtr0 | 102,541
 278 | ACorDC | 100,420
-279 | FeetAndHandFetish | 98,146
-280 | beanwiggin420 | 97,432
+279 | beanwiggin420 | 98,432
+280 | FeetAndHandFetish | 98,146
 281 | Knaeggebrott | 97,076
 282 | IOTA_Tesla | 96,607
 283 | BrendanTFirefly | 95,347
