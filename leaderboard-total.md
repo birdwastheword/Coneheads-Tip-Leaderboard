@@ -1,4 +1,4 @@
-Last updated: 23-08-28 03:30:57 UTC  
+Last updated: 23-08-28 03:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | evilninjarobot | 1,457,250
 63 | isthistomorrow_ | 1,350,016
 64 | djrcollectables | 1,315,267
-65 | ValiantJudge29500 | 1,268,199
+65 | ValiantJudge29500 | 1,270,699
 66 | CMDRGlamdring | 1,259,024
 67 | revdrgonzo | 1,235,214
 68 | saintajoras | 1,202,606
