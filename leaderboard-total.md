@@ -1,13 +1,13 @@
-Last updated: 23-08-28 17:00:53 UTC  
+Last updated: 23-08-28 17:25:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 39,245,319
+1 | Bitdream200K | 39,271,949
 2 | Wonderful_Bad6531 | 34,551,289
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,010,292
-5 | nakamo-toe | 27,504,168
+5 | nakamo-toe | 27,544,113
 6 | waterhasnocalories | 23,428,032
-7 | ConeDesk | 17,947,045
+7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,506,696
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | ashinamune | 6,291,126
 21 | Geniuskills | 6,274,170
 22 | Skank_cunt_42 | 5,467,162
-23 | HippieStarTraveler | 5,246,727
+23 | HippieStarTraveler | 5,249,390
 24 | _ships | 5,087,152
 25 | SpookySYN | 4,823,557
 26 | thelonliestcrowd | 4,797,958
@@ -58,14 +58,14 @@ Rank | Username | Totals Tips
 55 | dealkhabari | 1,760,619
 56 | Ten-Mins-Late | 1,706,113
 57 | 0-Give-a-fucks | 1,696,563
-58 | zdubs | 1,674,066
+58 | zdubs | 1,674,674
 59 | GooderZBK | 1,613,996
 60 | KONGXIANG | 1,529,122
 61 | bray_martin03 | 1,518,175
 62 | evilninjarobot | 1,457,250
 63 | isthistomorrow_ | 1,350,016
 64 | YarOldeOrchard | 1,340,375
-65 | djrcollectables | 1,317,930
+65 | djrcollectables | 1,326,527
 66 | ValiantJudge29500 | 1,270,699
 67 | CMDRGlamdring | 1,259,444
 68 | revdrgonzo | 1,235,214
@@ -113,7 +113,7 @@ Rank | Username | Totals Tips
 110 | slirpo | 631,180
 111 | __PDS__ | 595,709
 112 | El_Gordone | 592,784
-113 | superlonelyboy | 588,756
+113 | superlonelyboy | 591,419
 114 | Independent_Heart_15 | 578,825
 115 | formidable-opponent | 558,071
 116 | nichnotnick | 556,778
@@ -189,7 +189,7 @@ Rank | Username | Totals Tips
 186 | MisterM0H0 | 237,708
 187 | coolpattakers | 235,710
 188 | Zalkwalker | 235,069
-189 | cannainform2 | 232,040
+189 | cannainform2 | 232,460
 190 | joeviani | 230,028
 191 | MuhSound | 228,066
 192 | SourBeefHoop | 217,512
