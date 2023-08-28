@@ -1,4 +1,4 @@
-Last updated: 23-08-28 06:50:46 UTC  
+Last updated: 23-08-28 07:18:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
 11 | SammyCraigar | 8,959,726
-12 | cutsickass | 8,556,713
+12 | cutsickass | 8,559,376
 13 | ArtConsitent | 8,532,279
 14 | Permanent_WSB_Bull | 8,522,155
 15 | Homeslicekilla | 7,995,797
