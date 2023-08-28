@@ -1,7 +1,7 @@
-Last updated: 23-08-28 19:50:46 UTC  
+Last updated: 23-08-28 20:21:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 39,298,579
+1 | Bitdream200K | 39,301,242
 2 | Wonderful_Bad6531 | 34,777,922
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,010,292
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,506,696
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 9,046,013
+11 | cutsickass | 9,168,676
 12 | SammyCraigar | 8,959,726
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,279
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | HippieStarTraveler | 5,249,390
 24 | _ships | 5,087,152
 25 | SpookySYN | 4,929,480
-26 | thelonliestcrowd | 4,797,958
+26 | thelonliestcrowd | 4,798,566
 27 | rikbona | 4,540,773
 28 | bigbilly1234567899 | 4,496,042
 29 | Ginomania | 4,481,848
@@ -100,7 +100,7 @@ Rank | Username | Totals Tips
 97 | WarmIyWacky | 703,049
 98 | Starterpack69420 | 696,969
 99 | abracadabra087 | 694,045
-100 | firstmatedotxyz | 683,743
+100 | firstmatedotxyz | 688,743
 101 | Alanski22 | 682,101
 102 | Due_Insurance8159 | 678,620
 103 | frickdom | 676,749
@@ -468,11 +468,11 @@ Rank | Username | Totals Tips
 465 | Gilbertll | 29,585
 466 | Rbmui13 | 29,245
 467 | FoleyKali | 28,843
-468 | Locid | 28,518
-469 | bentolman | 28,291
-470 | cryotosensei | 28,224
-471 | Fictional_Blook | 28,143
-472 | Truffle_Shuffle_85 | 28,132
+468 | Truffle_Shuffle_85 | 28,552
+469 | Locid | 28,518
+470 | bentolman | 28,291
+471 | cryotosensei | 28,224
+472 | Fictional_Blook | 28,143
 473 | hvefe | 28,005
 474 | Fomo- | 28,000
 475 | madisonfm | 27,934
