@@ -1,4 +1,4 @@
-Last updated: 23-08-28 23:39:35 UTC  
+Last updated: 23-08-28 23:46:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -235,8 +235,8 @@ Rank | Username | Totals Tips
 232 | CoverYourMaskHoles | 151,719
 233 | NotFullyTerrestrial | 150,694
 234 | satoshi_oscar_wilde | 147,409
-235 | Sad_Entertainer9961 | 143,248
-236 | Doovs | 142,767
+235 | Doovs | 143,375
+236 | Sad_Entertainer9961 | 143,248
 237 | SalliIsAFem | 140,361
 238 | luisantonio197 | 139,511
 239 | Clonkerz | 138,006
