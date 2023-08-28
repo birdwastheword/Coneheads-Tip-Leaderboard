@@ -1,4 +1,4 @@
-Last updated: 23-08-28 14:32:55 UTC  
+Last updated: 23-08-28 14:41:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -18,8 +18,8 @@ Rank | Username | Totals Tips
 15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,547,022
-18 | ashinamune | 6,288,463
-19 | Real_Player_0 | 6,277,751
+18 | Real_Player_0 | 6,527,751
+19 | ashinamune | 6,288,463
 20 | Geniuskills | 6,274,170
 21 | Skank_cunt_42 | 5,467,162
 22 | HippieStarTraveler | 5,246,727
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | adrifing | 441,168
 133 | unhingedbigfoot | 439,874
 134 | Mopeiooo | 427,266
-135 | Crypto-4-Freedom | 424,558
+135 | Crypto-4-Freedom | 425,398
 136 | doktastonks | 421,325
 137 | RazPie | 419,317
 138 | dronegeeks1 | 414,406
