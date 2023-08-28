@@ -1,4 +1,4 @@
-Last updated: 23-08-28 20:31:08 UTC  
+Last updated: 23-08-28 20:40:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,301,242
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,506,696
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 9,168,676
+11 | cutsickass | 9,198,676
 12 | SammyCraigar | 8,959,726
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,279
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | ValiantJudge29500 | 1,270,699
 67 | CMDRGlamdring | 1,259,444
 68 | revdrgonzo | 1,235,214
-69 | saintajoras | 1,205,269
+69 | saintajoras | 1,215,269
 70 | HestiaIsTheBestia | 1,188,046
 71 | Richicash | 1,181,855
 72 | Feetfailmenot | 1,151,105
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | Hactar_42 | 256,832
 176 | thecrabdad | 256,177
 177 | tmanfromEarth | 255,392
-178 | Lillica_Golden_SHIB | 252,554
+178 | Lillica_Golden_SHIB | 252,761
 179 | Ambitious-Minimum-80 | 252,035
 180 | Sattack4000 | 250,837
 181 | SnooMacarons9203 | 249,556
@@ -947,17 +947,17 @@ Rank | Username | Totals Tips
 944 | CraigyFakeFake | 500
 945 | Right-Shopping9589 | 500
 946 | I_forgot_my_opinion | 500
-947 | TreacleBeneficial678 | 489
-948 | French_physicist | 489
-949 | Blackskulllll | 489
-950 | Zeratrem | 489
-951 | mrblazed23 | 489
-952 | mochi_ball223 | 445
-953 | Calm_Lemonade | 445
-954 | Poyal_Rines | 443
-955 | 0xKeith | 440
-956 | Kryptomaus | 438
-957 | SaberTurret | 436
+947 | SaberTurret | 499
+948 | TreacleBeneficial678 | 489
+949 | French_physicist | 489
+950 | Blackskulllll | 489
+951 | Zeratrem | 489
+952 | mrblazed23 | 489
+953 | mochi_ball223 | 445
+954 | Calm_Lemonade | 445
+955 | Poyal_Rines | 443
+956 | 0xKeith | 440
+957 | Kryptomaus | 438
 958 | FilypW | 420
 959 | VicBear93 | 420
 960 | Wooden_Ad1779 | 420
