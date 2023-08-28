@@ -1,4 +1,4 @@
-Last updated: 23-08-28 19:41:52 UTC  
+Last updated: 23-08-28 19:50:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,298,579
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | evilninjarobot | 1,457,250
 63 | isthistomorrow_ | 1,350,016
 64 | YarOldeOrchard | 1,340,375
-65 | djrcollectables | 1,326,527
+65 | djrcollectables | 1,332,461
 66 | ValiantJudge29500 | 1,270,699
 67 | CMDRGlamdring | 1,259,444
 68 | revdrgonzo | 1,235,214
@@ -197,7 +197,7 @@ Rank | Username | Totals Tips
 194 | alexthemay | 214,131
 195 | Beenthorny | 212,362
 196 | SigSalvadore | 212,358
-197 | the_judge_168 | 211,118
+197 | the_judge_168 | 211,726
 198 | Significant_Talk4943 | 210,759
 199 | UWphoto | 209,795
 200 | Ashamed_Raccoon9918 | 205,858
@@ -520,8 +520,8 @@ Rank | Username | Totals Tips
 517 | Tasty_Bag | 21,384
 518 | Flamingo777 | 21,275
 519 | RamboBalboa21 | 21,083
-520 | shootingeagleyt | 20,611
-521 | foreignGER | 20,551
+520 | foreignGER | 20,620
+521 | shootingeagleyt | 20,611
 522 | mihii12 | 20,469
 523 | -Boxen | 20,420
 524 | Flat_Opportunity_340 | 20,420
