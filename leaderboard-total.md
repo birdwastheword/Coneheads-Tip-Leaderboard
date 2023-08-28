@@ -1,4 +1,4 @@
-Last updated: 23-08-28 05:34:52 UTC  
+Last updated: 23-08-28 05:43:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | _ships | 5,087,152
 24 | 8inchConer | 4,947,480
 25 | thelonliestcrowd | 4,792,632
-26 | rikbona | 4,539,773
+26 | rikbona | 4,540,773
 27 | bigbilly1234567899 | 4,496,042
 28 | Ginomania | 4,476,522
 29 | SpookySYN | 4,470,894
@@ -378,13 +378,13 @@ Rank | Username | Totals Tips
 375 | Zezano | 52,679
 376 | abbasabba2 | 52,647
 377 | ky0984 | 52,257
-378 | ConeHead710 | 52,012
-379 | lucivaryas | 51,420
-380 | d0ntmess87 | 51,278
-381 | Dboythegreat | 50,897
-382 | CHEROKEEJ4CK | 49,947
-383 | eatthebagels | 49,692
-384 | mofayew | 49,503
+378 | mofayew | 52,166
+379 | ConeHead710 | 52,012
+380 | lucivaryas | 51,420
+381 | d0ntmess87 | 51,278
+382 | Dboythegreat | 50,897
+383 | CHEROKEEJ4CK | 49,947
+384 | eatthebagels | 49,692
 385 | Levl1Critter | 49,152
 386 | d_Shazam_b | 48,908
 387 | Dolce_00 | 48,683
