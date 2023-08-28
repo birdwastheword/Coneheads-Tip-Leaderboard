@@ -1,4 +1,4 @@
-Last updated: 23-08-28 05:25:06 UTC  
+Last updated: 23-08-28 05:34:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -610,9 +610,9 @@ Rank | Username | Totals Tips
 607 | maurinet79 | 10,840
 608 | ancheli | 10,588
 609 | Background-Ad-2102 | 10,450
-610 | 73i1 | 10,412
-611 | ZeusDubstep | 10,326
-612 | Straton_Conemont_Inc | 10,274
+610 | Straton_Conemont_Inc | 10,412
+611 | 73i1 | 10,412
+612 | ZeusDubstep | 10,326
 613 | Gamestopisthe1 | 10,227
 614 | Alexploded | 10,070
 615 | CM19901 | 10,000
