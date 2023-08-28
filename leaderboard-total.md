@@ -1,4 +1,4 @@
-Last updated: 23-08-28 04:51:38 UTC  
+Last updated: 23-08-28 05:25:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -13,8 +13,8 @@ Rank | Username | Totals Tips
 10 | Parush9 | 11,950,679
 11 | SammyCraigar | 8,959,726
 12 | ArtConsitent | 8,532,279
-13 | Permanent_WSB_Bull | 8,522,155
-14 | cutsickass | 8,503,439
+13 | cutsickass | 8,530,076
+14 | Permanent_WSB_Bull | 8,522,155
 15 | Homeslicekilla | 7,995,797
 16 | transfermymoons | 7,844,002
 17 | avyun | 7,547,022
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | ziggybri | 782,435
 91 | RegalReptile_ | 753,708
 92 | billywright4 | 728,158
-93 | Westy3000 | 717,128
+93 | Westy3000 | 719,350
 94 | starterpack420694 | 710,420
 95 | WarmIyWacky | 703,049
 96 | Starterpack69420 | 696,969
@@ -105,8 +105,8 @@ Rank | Username | Totals Tips
 102 | piebagz | 661,815
 103 | Obi1eyeKenobi | 652,339
 104 | MartynDr | 651,840
-105 | firstmatedotxyz | 646,243
-106 | Duskopia | 646,155
+105 | Duskopia | 648,818
+106 | firstmatedotxyz | 646,243
 107 | femacampcouncilor | 642,812
 108 | slirpo | 631,180
 109 | ID404_Not_Found_8964 | 606,165
@@ -258,10 +258,10 @@ Rank | Username | Totals Tips
 255 | Schl0tz | 120,000
 256 | street_shark_puppet | 116,891
 257 | lordciders | 116,606
-258 | mvea | 115,748
-259 | AlternativeBag2619 | 114,483
-260 | Fox1931 | 114,000
-261 | CaptainCheeseCake | 113,328
+258 | CaptainCheeseCake | 115,981
+259 | mvea | 115,748
+260 | AlternativeBag2619 | 114,483
+261 | Fox1931 | 114,000
 262 | DeanDeanington | 113,263
 263 | pythonskynet | 113,031
 264 | flying_bacon | 111,860
