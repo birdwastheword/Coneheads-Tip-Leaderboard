@@ -1,4 +1,4 @@
-Last updated: 23-08-28 03:20:50 UTC  
+Last updated: 23-08-28 03:30:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | ziggybri | 782,435
 91 | RegalReptile_ | 753,708
 92 | billywright4 | 728,158
-93 | Westy3000 | 714,906
+93 | Westy3000 | 717,128
 94 | starterpack420694 | 710,420
 95 | WarmIyWacky | 703,049
 96 | Starterpack69420 | 696,969
@@ -253,9 +253,9 @@ Rank | Username | Totals Tips
 250 | Trakorr | 125,110
 251 | ZeMadMan1 | 122,599
 252 | Sativa55555 | 121,550
-253 | stupidcupid112 | 121,421
-254 | Schl0tz | 120,000
-255 | wato4000 | 118,802
+253 | wato4000 | 121,465
+254 | stupidcupid112 | 121,421
+255 | Schl0tz | 120,000
 256 | street_shark_puppet | 116,891
 257 | lordciders | 116,606
 258 | mvea | 115,748
