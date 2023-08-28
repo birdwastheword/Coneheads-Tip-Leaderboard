@@ -1,4 +1,4 @@
-Last updated: 23-08-28 19:15:56 UTC  
+Last updated: 23-08-28 19:24:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,298,579
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,506,696
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 8,986,013
+11 | cutsickass | 9,016,013
 12 | SammyCraigar | 8,959,726
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,279
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | thom_orrow | 3,436,546
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
-41 | LordBobTheWhale | 3,069,118
+41 | LordBobTheWhale | 3,069,726
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
