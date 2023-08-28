@@ -1,4 +1,4 @@
-Last updated: 23-08-28 04:26:42 UTC  
+Last updated: 23-08-28 04:35:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | catlover-100 | 1,913,158
 55 | dealkhabari | 1,760,619
 56 | Ten-Mins-Late | 1,706,113
-57 | 0-Give-a-fucks | 1,693,900
+57 | 0-Give-a-fucks | 1,696,563
 58 | zdubs | 1,674,066
 59 | GooderZBK | 1,613,996
 60 | KONGXIANG | 1,529,122
