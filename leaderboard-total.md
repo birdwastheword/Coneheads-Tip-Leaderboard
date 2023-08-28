@@ -1,4 +1,4 @@
-Last updated: 23-08-28 22:24:37 UTC  
+Last updated: 23-08-28 22:33:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -293,13 +293,13 @@ Rank | Username | Totals Tips
 290 | DramaticProtogen | 90,274
 291 | Award-Bot | 90,000
 292 | 192000Hertz | 89,594
-293 | Burzzzt88 | 88,571
-294 | HokkaidoNights | 88,108
-295 | ShopALF | 87,942
-296 | kwickle | 87,805
-297 | qwertywich | 87,473
-298 | jurgensdapimp | 86,817
-299 | yahuurdme | 86,158
+293 | yahuurdme | 88,821
+294 | Burzzzt88 | 88,571
+295 | HokkaidoNights | 88,108
+296 | ShopALF | 87,942
+297 | kwickle | 87,805
+298 | qwertywich | 87,473
+299 | jurgensdapimp | 86,817
 300 | Mother-Werewolf185 | 85,579
 301 | xSkyFa11x | 85,459
 302 | Puzzleheaded_Gift738 | 84,020
