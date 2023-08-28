@@ -1,4 +1,4 @@
-Last updated: 23-08-28 03:40:37 UTC  
+Last updated: 23-08-28 03:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Ginomania | 4,476,522
 29 | SpookySYN | 4,470,894
 30 | redzrex | 4,395,011
-31 | Puddin-Luv | 4,370,753
+31 | Puddin-Luv | 4,373,416
 32 | birdwastheword | 4,305,398
 33 | rustyybikes | 4,263,025
 34 | IveDoneItAtLast | 4,196,333
