@@ -1,11 +1,11 @@
-Last updated: 23-08-28 21:30:47 UTC  
+Last updated: 23-08-28 21:40:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,301,242
 2 | Wonderful_Bad6531 | 34,780,585
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,010,292
-5 | nakamo-toe | 27,684,942
+5 | nakamo-toe | 27,780,992
 6 | waterhasnocalories | 23,428,032
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,506,696
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | DontLaughArt | 2,520,324
 46 | possibili-teas | 2,399,515
 47 | GuyOne | 2,254,715
-48 | ImAlekBan | 2,212,564
+48 | ImAlekBan | 2,215,227
 49 | Autom4tic_Soze | 2,169,463
 50 | Fenrir-1919 | 2,076,403
 51 | 002_timmy | 2,022,512
