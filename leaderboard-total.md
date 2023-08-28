@@ -1,4 +1,4 @@
-Last updated: 23-08-28 23:46:37 UTC  
+Last updated: 23-08-28 23:55:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -59,22 +59,22 @@ Rank | Username | Totals Tips
 56 | dealkhabari | 1,760,619
 57 | Ten-Mins-Late | 1,706,113
 58 | zdubs | 1,674,674
-59 | GooderZBK | 1,613,996
-60 | KONGXIANG | 1,529,122
-61 | bray_martin03 | 1,518,175
-62 | evilninjarobot | 1,457,250
-63 | isthistomorrow_ | 1,350,016
-64 | YarOldeOrchard | 1,340,375
-65 | djrcollectables | 1,332,461
-66 | ValiantJudge29500 | 1,270,699
-67 | CMDRGlamdring | 1,259,444
-68 | revdrgonzo | 1,235,214
-69 | saintajoras | 1,215,269
-70 | HestiaIsTheBestia | 1,188,046
-71 | Richicash | 1,181,855
-72 | Feetfailmenot | 1,151,105
-73 | beastlybaker | 1,138,701
-74 | investigator100 | 1,120,712
+59 | investigator100 | 1,620,712
+60 | GooderZBK | 1,613,996
+61 | KONGXIANG | 1,529,122
+62 | bray_martin03 | 1,518,175
+63 | evilninjarobot | 1,457,250
+64 | isthistomorrow_ | 1,350,016
+65 | YarOldeOrchard | 1,340,375
+66 | djrcollectables | 1,332,461
+67 | ValiantJudge29500 | 1,270,699
+68 | CMDRGlamdring | 1,259,444
+69 | revdrgonzo | 1,235,214
+70 | saintajoras | 1,215,269
+71 | HestiaIsTheBestia | 1,188,046
+72 | Richicash | 1,181,855
+73 | Feetfailmenot | 1,151,105
+74 | beastlybaker | 1,138,701
 75 | LongCauliflower6791 | 1,089,107
 76 | Hot_Potato_Salad | 1,079,726
 77 | freechickens | 1,028,386
