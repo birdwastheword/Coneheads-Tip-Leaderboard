@@ -1,4 +1,4 @@
-Last updated: 23-08-28 14:41:14 UTC  
+Last updated: 23-08-28 14:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 36,713,363
@@ -28,13 +28,13 @@ Rank | Username | Totals Tips
 25 | thelonliestcrowd | 4,792,632
 26 | rikbona | 4,540,773
 27 | bigbilly1234567899 | 4,496,042
-28 | Ginomania | 4,479,185
+28 | Ginomania | 4,481,848
 29 | SpookySYN | 4,470,894
 30 | redzrex | 4,395,011
 31 | Puddin-Luv | 4,373,416
 32 | birdwastheword | 4,305,398
 33 | rustyybikes | 4,263,025
-34 | IveDoneItAtLast | 4,196,333
+34 | IveDoneItAtLast | 4,222,963
 35 | VIVOffical | 3,946,428
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
@@ -102,11 +102,11 @@ Rank | Username | Totals Tips
 99 | Alanski22 | 677,101
 100 | frickdom | 674,086
 101 | SKITZ_ZA | 673,394
-102 | piebagz | 661,815
-103 | Obi1eyeKenobi | 652,339
-104 | MartynDr | 651,840
-105 | Duskopia | 648,818
-106 | firstmatedotxyz | 646,243
+102 | firstmatedotxyz | 666,243
+103 | piebagz | 661,815
+104 | Obi1eyeKenobi | 652,339
+105 | MartynDr | 651,840
+106 | Duskopia | 648,818
 107 | femacampcouncilor | 642,812
 108 | slirpo | 631,180
 109 | ID404_Not_Found_8964 | 606,165
@@ -573,7 +573,7 @@ Rank | Username | Totals Tips
 570 | couchguitar | 13,330
 571 | zahrawins | 13,329
 572 | SenseiRaheem | 13,296
-573 | Diamond_Hands420 | 13,139
+573 | Diamond_Hands420 | 13,208
 574 | CatastrophicSpecter | 13,085
 575 | MantisToboggan66 | 13,083
 576 | rare1994 | 13,069
