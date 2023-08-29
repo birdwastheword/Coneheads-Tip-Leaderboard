@@ -1,4 +1,4 @@
-Last updated: 23-08-29 21:16:49 UTC  
+Last updated: 23-08-29 21:25:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,333,198
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,535,509
 20 | ashinamune | 6,296,452
 21 | Geniuskills | 6,274,902
-22 | SpookySYN | 5,626,321
+22 | SpookySYN | 5,652,951
 23 | Skank_cunt_42 | 5,467,162
 24 | HippieStarTraveler | 5,249,459
 25 | _ships | 5,087,152
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | WarmlyWacky | 462,118
 131 | MediaPrestigious8342 | 453,839
 132 | Lady_Lucks_Man | 451,119
-133 | adrifing | 441,168
+133 | adrifing | 443,831
 134 | unhingedbigfoot | 439,874
 135 | Mopeiooo | 427,266
 136 | Crypto-4-Freedom | 425,398
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | Hactar_42 | 256,832
 176 | tmanfromEarth | 256,392
 177 | thecrabdad | 256,177
-178 | Lillica_Golden_SHIB | 253,589
+178 | Lillica_Golden_SHIB | 253,658
 179 | Ambitious-Minimum-80 | 252,035
 180 | Sattack4000 | 250,837
 181 | SnooMacarons9203 | 249,556
