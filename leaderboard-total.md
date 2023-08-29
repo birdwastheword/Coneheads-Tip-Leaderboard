@@ -1,4 +1,4 @@
-Last updated: 23-08-29 07:00:55 UTC  
+Last updated: 23-08-29 07:19:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | DontLaughArt | 2,520,324
 46 | possibili-teas | 2,399,515
 47 | GuyOne | 2,254,715
-48 | ImAlekBan | 2,215,835
+48 | ImAlekBan | 2,219,106
 49 | Autom4tic_Soze | 2,172,126
 50 | Fenrir-1919 | 2,079,066
 51 | 002_timmy | 2,022,512
@@ -126,7 +126,7 @@ Rank | Username | Totals Tips
 123 | Allions1 | 510,704
 124 | Korean_Street_Pizza | 510,501
 125 | f0n1xr131ng | 509,681
-126 | MorrisBrett514 | 506,963
+126 | MorrisBrett514 | 507,383
 127 | Successful-Walk-3902 | 498,794
 128 | crodbtc | 473,996
 129 | sinlesco | 462,490
@@ -362,14 +362,14 @@ Rank | Username | Totals Tips
 359 | ElmerBlack | 57,421
 360 | Outrageous_Storm6537 | 56,938
 361 | Creative_Ad7831 | 56,746
-362 | ProfessionalIcy6456 | 56,380
-363 | Bandit_005 | 56,303
-364 | chuloreddit | 55,878
-365 | imbarrydylan | 55,689
-366 | Bobocod | 55,420
-367 | orangesandonions | 55,238
-368 | Brandillio | 54,271
-369 | Dboythegreat | 53,980
+362 | Dboythegreat | 56,643
+363 | ProfessionalIcy6456 | 56,380
+364 | Bandit_005 | 56,303
+365 | chuloreddit | 55,878
+366 | imbarrydylan | 55,689
+367 | Bobocod | 55,420
+368 | orangesandonions | 55,238
+369 | Brandillio | 54,271
 370 | WarningKey6517 | 53,910
 371 | LX1070 | 53,855
 372 | S2K08 | 53,439
@@ -398,7 +398,7 @@ Rank | Username | Totals Tips
 395 | NickkyDC | 45,379
 396 | tentazoc | 45,078
 397 | Name_Trikolon | 45,002
-398 | skatistic | 44,895
+398 | skatistic | 44,964
 399 | acfranks | 44,525
 400 | Kilv3r | 44,021
 401 | Coneboy2663 | 43,852
@@ -533,10 +533,10 @@ Rank | Username | Totals Tips
 530 | PassiveRoadRage | 20,000
 531 | Yeh_nah_yeh_ | 20,000
 532 | PsLJdogg | 19,975
-533 | Iiwip | 19,533
-534 | MalarkyD | 19,527
-535 | lookwhatumademedoo | 19,510
-536 | ipad_daps | 19,115
+533 | ipad_daps | 19,535
+534 | Iiwip | 19,533
+535 | MalarkyD | 19,527
+536 | lookwhatumademedoo | 19,510
 537 | ___MOM___ | 18,853
 538 | CatastrophicSpecter | 18,484
 539 | subredditlurker69 | 18,125
