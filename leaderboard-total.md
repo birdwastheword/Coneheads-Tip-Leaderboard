@@ -1,4 +1,4 @@
-Last updated: 23-08-29 20:50:41 UTC  
+Last updated: 23-08-29 21:16:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,333,198
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,529,928
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 10,098,676
+11 | cutsickass | 10,128,676
 12 | SammyCraigar | 8,966,168
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,379
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,535,509
 20 | ashinamune | 6,296,452
 21 | Geniuskills | 6,274,902
-22 | SpookySYN | 5,535,001
+22 | SpookySYN | 5,626,321
 23 | Skank_cunt_42 | 5,467,162
 24 | HippieStarTraveler | 5,249,459
 25 | _ships | 5,087,152
@@ -104,8 +104,8 @@ Rank | Username | Totals Tips
 101 | firstmatedotxyz | 688,743
 102 | Alanski22 | 682,101
 103 | Due_Insurance8159 | 678,620
-104 | frickdom | 676,749
-105 | Duskopia | 673,807
+104 | Duskopia | 677,470
+105 | frickdom | 676,749
 106 | SKITZ_ZA | 673,394
 107 | piebagz | 661,815
 108 | Obi1eyeKenobi | 652,339
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | Independent_Heart_15 | 578,825
 116 | formidable-opponent | 565,848
 117 | nichnotnick | 556,778
-118 | dopelifer09 | 549,612
+118 | dopelifer09 | 552,275
 119 | StepAsideSuckers | 540,695
 120 | scientifichistorian | 539,560
 121 | shreyaskg | 538,211
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | Hactar_42 | 256,832
 176 | tmanfromEarth | 256,392
 177 | thecrabdad | 256,177
-178 | Lillica_Golden_SHIB | 253,451
+178 | Lillica_Golden_SHIB | 253,589
 179 | Ambitious-Minimum-80 | 252,035
 180 | Sattack4000 | 250,837
 181 | SnooMacarons9203 | 249,556
