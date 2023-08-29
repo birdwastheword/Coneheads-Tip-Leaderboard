@@ -1,4 +1,4 @@
-Last updated: 23-08-29 22:28:54 UTC  
+Last updated: 23-08-29 22:40:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,535,509
 20 | ashinamune | 6,296,452
 21 | Geniuskills | 6,274,902
-22 | SpookySYN | 5,662,280
+22 | SpookySYN | 5,664,943
 23 | Skank_cunt_42 | 5,467,162
 24 | HippieStarTraveler | 5,249,459
 25 | _ships | 5,087,152
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | bigbilly1234567899 | 4,496,042
 29 | Ginomania | 4,488,648
 30 | Puddin-Luv | 4,478,505
-31 | redzrex | 4,397,674
+31 | redzrex | 4,400,337
 32 | birdwastheword | 4,310,724
 33 | IveDoneItAtLast | 4,276,683
 34 | rustyybikes | 4,263,025
