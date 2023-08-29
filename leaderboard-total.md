@@ -1,4 +1,4 @@
-Last updated: 23-08-29 13:43:14 UTC  
+Last updated: 23-08-29 13:51:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 8,094,002
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,616,712
-19 | Real_Player_0 | 6,534,293
+19 | Real_Player_0 | 6,534,901
 20 | ashinamune | 6,296,452
 21 | Geniuskills | 6,274,170
 22 | Skank_cunt_42 | 5,467,162
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | 0-Give-a-fucks | 1,841,666
 56 | dealkhabari | 1,760,619
 57 | Ten-Mins-Late | 1,706,113
-58 | zdubs | 1,680,376
+58 | zdubs | 1,704,977
 59 | investigator100 | 1,620,712
 60 | GooderZBK | 1,613,996
 61 | KONGXIANG | 1,529,122
@@ -155,7 +155,7 @@ Rank | Username | Totals Tips
 152 | anony666mous | 341,008
 153 | noface_reddit | 340,895
 154 | tsudrat | 340,707
-155 | Tinman_ApE | 339,176
+155 | Tinman_ApE | 339,784
 156 | Dripbot8 | 325,384
 157 | WhateverAlready | 316,461
 158 | EffinDrongoC | 312,738
