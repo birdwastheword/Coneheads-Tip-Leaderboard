@@ -1,10 +1,10 @@
-Last updated: 23-08-29 16:50:51 UTC  
+Last updated: 23-08-29 17:20:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
 2 | Wonderful_Bad6531 | 34,780,585
 3 | rickribera93 | 28,283,727
-4 | nakamo-toe | 28,098,932
+4 | nakamo-toe | 28,167,631
 5 | Jeff5704 | 28,036,929
 6 | waterhasnocalories | 23,470,101
 7 | ConeDesk | 17,947,653
@@ -194,13 +194,13 @@ Rank | Username | Totals Tips
 191 | joeviani | 230,028
 192 | SourBeefHoop | 217,512
 193 | Conetent | 214,454
-194 | alexthemay | 214,131
-195 | Beenthorny | 212,362
-196 | SigSalvadore | 212,358
-197 | the_judge_168 | 212,146
-198 | Significant_Talk4943 | 211,599
-199 | Adrewmc | 211,177
-200 | ultra_terrestrial | 210,031
+194 | ultra_terrestrial | 214,231
+195 | alexthemay | 214,131
+196 | Beenthorny | 212,362
+197 | SigSalvadore | 212,358
+198 | the_judge_168 | 212,146
+199 | Significant_Talk4943 | 211,599
+200 | Adrewmc | 211,177
 201 | UWphoto | 209,795
 202 | Final-Scar-941 | 208,791
 203 | Ashamed_Raccoon9918 | 205,858
