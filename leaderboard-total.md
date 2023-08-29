@@ -1,4 +1,4 @@
-Last updated: 23-08-29 15:40:54 UTC  
+Last updated: 23-08-29 15:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | birdwastheword | 4,308,061
 33 | IveDoneItAtLast | 4,268,273
 34 | rustyybikes | 4,263,025
-35 | VIVOffical | 3,952,602
+35 | VIVOffical | 3,953,408
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
 38 | thom_orrow | 3,441,546
@@ -330,24 +330,24 @@ Rank | Username | Totals Tips
 327 | Rush4Time | 69,659
 328 | Yoda975 | 69,055
 329 | Tapiz3land | 68,942
-330 | AnduriII | 68,313
-331 | Dazzling_Marzipan474 | 68,193
-332 | Friendly-Airline2426 | 66,545
-333 | imp3order | 65,546
-334 | damnusernamegotcutof | 65,004
-335 | zuzieey7719 | 64,549
-336 | ElmerBlack | 64,390
-337 | IHodlStill | 63,873
-338 | Heycheckthisout20 | 63,382
-339 | guokaidi | 63,245
-340 | slug_tamer | 63,175
-341 | shellystarzz | 62,826
-342 | netnemirepxE | 62,645
-343 | meth43 | 62,596
-344 | Emeritux | 62,504
-345 | 1ndy1 | 62,120
-346 | Iulian_TechNewb | 61,895
-347 | Chill_Edoeard | 61,701
+330 | Chill_Edoeard | 68,670
+331 | AnduriII | 68,313
+332 | Dazzling_Marzipan474 | 68,193
+333 | Friendly-Airline2426 | 66,545
+334 | imp3order | 65,546
+335 | damnusernamegotcutof | 65,004
+336 | zuzieey7719 | 64,549
+337 | ElmerBlack | 64,390
+338 | IHodlStill | 63,873
+339 | Heycheckthisout20 | 63,382
+340 | guokaidi | 63,245
+341 | slug_tamer | 63,175
+342 | shellystarzz | 62,826
+343 | netnemirepxE | 62,645
+344 | meth43 | 62,596
+345 | Emeritux | 62,504
+346 | 1ndy1 | 62,120
+347 | Iulian_TechNewb | 61,895
 348 | KrunchyKushKing | 61,532
 349 | BitCone_CONE | 60,947
 350 | TheD1ceMan | 60,541
