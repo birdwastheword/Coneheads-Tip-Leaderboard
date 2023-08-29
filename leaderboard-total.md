@@ -1,4 +1,4 @@
-Last updated: 23-08-29 21:34:57 UTC  
+Last updated: 23-08-29 21:43:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,333,198
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,379
 15 | Permanent_WSB_Bull | 8,522,155
-16 | transfermymoons | 8,094,002
+16 | transfermymoons | 8,094,102
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,616,712
 19 | Real_Player_0 | 6,535,509
@@ -876,10 +876,10 @@ Rank | Username | Totals Tips
 873 | ElderberryOk469 | 1,138
 874 | CatBoy191114 | 1,138
 875 | redditavies | 1,138
-876 | pizza-chit | 1,116
-877 | jwz9904 | 1,111
-878 | SkuniMasterMind | 1,094
-879 | SaberTurret | 1,082
+876 | SaberTurret | 1,126
+877 | pizza-chit | 1,116
+878 | jwz9904 | 1,111
+879 | SkuniMasterMind | 1,094
 880 | lostfootdoctor | 1,070
 881 | CloverKittyPie | 1,069
 882 | SMaur0 | 1,069
