@@ -28,7 +28,7 @@ totals = (dict(sorted(totals.items(), key=lambda item: -item[1])))
 first = list(totals.items())[0]
 
 rank = 0
-comment = f"New [All Time leaderboard](conegecko.com/leaderboard) is live on ConeGecko!!  \r\n" \
+comment = f"New [All Time leaderboard](https://conegecko.com/leaderboard) is live on ConeGecko!!  \r\n" \
           f"Congratulation to{first[0]} tipping {'{:,}'.format(first[1])} put you in the #1 spot.  \r\n" \
           f"The biggest tip was from{biggest[0]} tipping {'{:,}'.format(biggest[2])} to{biggest[1]}\r\n" \
           "\r\nRank | Username | Totals Tips\r\n:-|:-|-:\r\n"
