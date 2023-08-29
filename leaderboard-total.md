@@ -1,4 +1,4 @@
-Last updated: 23-08-29 07:40:37 UTC  
+Last updated: 23-08-29 07:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -126,7 +126,7 @@ Rank | Username | Totals Tips
 123 | Allions1 | 510,704
 124 | Korean_Street_Pizza | 510,501
 125 | f0n1xr131ng | 509,681
-126 | MorrisBrett514 | 507,383
+126 | MorrisBrett514 | 507,803
 127 | Successful-Walk-3902 | 498,794
 128 | crodbtc | 473,996
 129 | sinlesco | 462,490
@@ -245,9 +245,9 @@ Rank | Username | Totals Tips
 242 | MorrisWayne | 133,416
 243 | Legal-Appointment655 | 131,029
 244 | GoodMornEveGoodNight | 131,019
-245 | Mj_6o4 | 129,568
-246 | Awake-- | 128,173
-247 | jamjam794 | 128,012
+245 | jamjam794 | 130,675
+246 | Mj_6o4 | 129,568
+247 | Awake-- | 128,173
 248 | robnectar | 127,974
 249 | CalligrapherEnough83 | 127,227
 250 | Trakorr | 125,110
