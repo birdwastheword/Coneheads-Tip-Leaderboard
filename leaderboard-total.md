@@ -1,4 +1,4 @@
-Last updated: 23-08-29 23:30:49 UTC  
+Last updated: 23-08-29 23:40:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | Cravensworth_redux | 790,803
 93 | ziggybri | 782,435
 94 | RegalReptile_ | 753,708
-95 | Westy3000 | 749,347
+95 | Westy3000 | 750,680
 96 | billywright4 | 728,766
 97 | starterpack420694 | 710,420
 98 | WarmIyWacky | 703,049
@@ -421,24 +421,24 @@ Rank | Username | Totals Tips
 418 | babuba1234321 | 40,000
 419 | alex_si_davies | 39,965
 420 | Zap1324 | 39,938
-421 | AMAxyz | 39,775
-422 | Mortifer6 | 39,669
-423 | waterincorporated | 39,428
-424 | Lucabba | 39,278
-425 | mutinomonem | 38,823
-426 | chaud3r | 38,290
-427 | lovenets_ | 38,182
-428 | rowdy1212 | 38,129
-429 | ysnmingle | 38,038
-430 | samer109 | 37,973
-431 | Yogi_Kat | 37,785
-432 | onetrueSage | 37,633
-433 | shitwhenismycakeday | 37,409
-434 | redditisalt | 37,307
-435 | Imalittlestitious86 | 37,090
-436 | degree-01 | 36,486
-437 | genesis_crazy_one | 36,167
-438 | GuronT | 35,561
+421 | GuronT | 39,830
+422 | AMAxyz | 39,775
+423 | Mortifer6 | 39,669
+424 | waterincorporated | 39,428
+425 | Lucabba | 39,278
+426 | mutinomonem | 38,823
+427 | chaud3r | 38,290
+428 | lovenets_ | 38,182
+429 | rowdy1212 | 38,129
+430 | ysnmingle | 38,038
+431 | samer109 | 37,973
+432 | Yogi_Kat | 37,785
+433 | onetrueSage | 37,633
+434 | shitwhenismycakeday | 37,409
+435 | redditisalt | 37,307
+436 | Imalittlestitious86 | 37,090
+437 | degree-01 | 36,486
+438 | genesis_crazy_one | 36,167
 439 | TRANZHUMANIST | 35,000
 440 | FalloutAssasin | 34,863
 441 | BelowAveIntelligence | 34,132
