@@ -1,4 +1,4 @@
-Last updated: 23-08-29 12:53:21 UTC  
+Last updated: 23-08-29 13:25:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 8,094,002
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,616,712
-19 | Real_Player_0 | 6,527,751
+19 | Real_Player_0 | 6,531,022
 20 | ashinamune | 6,296,452
 21 | Geniuskills | 6,274,170
 22 | Skank_cunt_42 | 5,467,162
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | Cravensworth_redux | 790,803
 93 | ziggybri | 782,435
 94 | RegalReptile_ | 753,708
-95 | Westy3000 | 744,903
+95 | Westy3000 | 746,014
 96 | billywright4 | 728,158
 97 | starterpack420694 | 710,420
 98 | WarmIyWacky | 703,049
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | Hactar_42 | 256,832
 176 | thecrabdad | 256,177
 177 | tmanfromEarth | 255,392
-178 | Lillica_Golden_SHIB | 253,037
+178 | Lillica_Golden_SHIB | 253,106
 179 | Ambitious-Minimum-80 | 252,035
 180 | Sattack4000 | 250,837
 181 | SnooMacarons9203 | 249,556
@@ -386,16 +386,16 @@ Rank | Username | Totals Tips
 383 | CHEROKEEJ4CK | 49,947
 384 | eatthebagels | 49,692
 385 | Levl1Critter | 49,152
-386 | d_Shazam_b | 48,908
-387 | Dolce_00 | 48,683
-388 | SandersIncBV | 47,603
+386 | SandersIncBV | 48,940
+387 | d_Shazam_b | 48,908
+388 | Dolce_00 | 48,683
 389 | CryptoScamee42069 | 47,523
 390 | Outside-Wolf5928 | 47,433
 391 | hey_barry | 47,353
 392 | shredslanding | 46,650
 393 | sicilian2124 | 45,866
-394 | Drlitez | 45,436
-395 | skatistic | 45,384
+394 | skatistic | 45,453
+395 | Drlitez | 45,436
 396 | NickkyDC | 45,379
 397 | tentazoc | 45,078
 398 | Name_Trikolon | 45,002
