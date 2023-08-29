@@ -1,4 +1,4 @@
-Last updated: 23-08-29 05:50:54 UTC  
+Last updated: 23-08-29 06:28:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,529,928
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 9,288,676
+11 | cutsickass | 9,528,676
 12 | SammyCraigar | 8,960,842
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,279
@@ -172,9 +172,9 @@ Rank | Username | Totals Tips
 169 | maxfra | 279,459
 170 | deedopete | 278,024
 171 | FluffyAspie | 271,208
-172 | SetoXlll | 266,067
-173 | Flimsy_Brilliant_239 | 265,592
-174 | _Mitchee_ | 263,830
+172 | _Mitchee_ | 266,493
+173 | SetoXlll | 266,067
+174 | Flimsy_Brilliant_239 | 265,592
 175 | Hactar_42 | 256,832
 176 | thecrabdad | 256,177
 177 | tmanfromEarth | 255,392
