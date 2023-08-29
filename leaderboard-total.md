@@ -1,4 +1,4 @@
-Last updated: 23-08-29 21:25:14 UTC  
+Last updated: 23-08-29 21:34:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,333,198
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,529,928
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 10,128,676
+11 | cutsickass | 10,158,676
 12 | SammyCraigar | 8,966,168
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,379
@@ -187,9 +187,9 @@ Rank | Username | Totals Tips
 184 | thestonkinator | 246,260
 185 | tjex666 | 240,801
 186 | MisterM0H0 | 237,708
-187 | coolpattakers | 235,710
-188 | Zalkwalker | 235,069
-189 | cannainform2 | 232,460
+187 | cannainform2 | 236,660
+188 | coolpattakers | 235,710
+189 | Zalkwalker | 235,069
 190 | MuhSound | 230,729
 191 | joeviani | 230,028
 192 | SourBeefHoop | 217,512
