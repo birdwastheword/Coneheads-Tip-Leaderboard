@@ -1,4 +1,4 @@
-Last updated: 23-08-29 21:51:07 UTC  
+Last updated: 23-08-29 22:00:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -333,7 +333,7 @@ Rank | Username | Totals Tips
 330 | Chill_Edoeard | 68,670
 331 | AnduriII | 68,313
 332 | Dazzling_Marzipan474 | 68,193
-333 | Friendly-Airline2426 | 66,545
+333 | Friendly-Airline2426 | 66,547
 334 | imp3order | 65,546
 335 | damnusernamegotcutof | 65,004
 336 | zuzieey7719 | 64,549
@@ -474,7 +474,7 @@ Rank | Username | Totals Tips
 471 | bentolman | 28,291
 472 | cryotosensei | 28,224
 473 | Fictional_Blook | 28,143
-474 | Fomo- | 28,008
+474 | Fomo- | 28,020
 475 | hvefe | 28,005
 476 | madisonfm | 27,934
 477 | Jo2Bax | 27,820
