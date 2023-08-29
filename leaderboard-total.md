@@ -1,4 +1,4 @@
-Last updated: 23-08-29 07:19:53 UTC  
+Last updated: 23-08-29 07:31:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | Cravensworth_redux | 790,803
 93 | ziggybri | 782,435
 94 | RegalReptile_ | 753,708
-95 | Westy3000 | 739,348
+95 | Westy3000 | 741,570
 96 | billywright4 | 728,158
 97 | starterpack420694 | 710,420
 98 | WarmIyWacky | 703,049
@@ -165,7 +165,7 @@ Rank | Username | Totals Tips
 162 | legionticket | 296,054
 163 | send_tacoz | 293,576
 164 | monkeybombed | 283,911
-165 | dinoyeti | 283,373
+165 | dinoyeti | 283,881
 166 | Extreme_Issue7325 | 282,538
 167 | MadScientistTheFirst | 280,469
 168 | astro_nut_ | 280,463
