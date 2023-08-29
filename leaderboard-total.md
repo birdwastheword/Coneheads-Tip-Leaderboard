@@ -1,4 +1,4 @@
-Last updated: 23-08-29 23:00:43 UTC  
+Last updated: 23-08-29 23:19:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -19,8 +19,8 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 8,094,102
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,616,712
-19 | Real_Player_0 | 6,535,509
-20 | ashinamune | 6,296,452
+19 | Real_Player_0 | 6,538,241
+20 | ashinamune | 6,304,723
 21 | Geniuskills | 6,274,902
 22 | SpookySYN | 5,664,943
 23 | Skank_cunt_42 | 5,467,162
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Puddin-Luv | 4,478,505
 31 | redzrex | 4,400,337
 32 | birdwastheword | 4,310,724
-33 | IveDoneItAtLast | 4,277,291
+33 | IveDoneItAtLast | 4,300,521
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,963,408
 36 | clean_cut89 | 3,586,746
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | Cravensworth_redux | 790,803
 93 | ziggybri | 782,435
 94 | RegalReptile_ | 753,708
-95 | Westy3000 | 746,014
+95 | Westy3000 | 747,125
 96 | billywright4 | 728,766
 97 | starterpack420694 | 710,420
 98 | WarmIyWacky | 703,049
@@ -122,22 +122,22 @@ Rank | Username | Totals Tips
 119 | StepAsideSuckers | 540,695
 120 | scientifichistorian | 539,560
 121 | shreyaskg | 538,211
-122 | junkwatch | 514,460
-123 | Allions1 | 510,704
-124 | Korean_Street_Pizza | 510,501
-125 | f0n1xr131ng | 509,681
-126 | MorrisBrett514 | 507,803
-127 | Successful-Walk-3902 | 498,794
-128 | crodbtc | 473,996
-129 | sinlesco | 462,490
-130 | WarmlyWacky | 462,118
-131 | MediaPrestigious8342 | 453,839
-132 | Lady_Lucks_Man | 451,119
-133 | adrifing | 443,831
-134 | unhingedbigfoot | 439,874
-135 | Mopeiooo | 427,266
-136 | Crypto-4-Freedom | 425,398
-137 | doktastonks | 421,325
+122 | doktastonks | 521,325
+123 | junkwatch | 514,460
+124 | Allions1 | 510,704
+125 | Korean_Street_Pizza | 510,501
+126 | f0n1xr131ng | 509,681
+127 | MorrisBrett514 | 507,803
+128 | Successful-Walk-3902 | 498,794
+129 | crodbtc | 473,996
+130 | sinlesco | 462,490
+131 | WarmlyWacky | 462,118
+132 | MediaPrestigious8342 | 453,839
+133 | Lady_Lucks_Man | 451,119
+134 | adrifing | 443,831
+135 | unhingedbigfoot | 439,874
+136 | Mopeiooo | 427,266
+137 | Crypto-4-Freedom | 425,398
 138 | RazPie | 419,317
 139 | dronegeeks1 | 414,406
 140 | LrnFaroeseWthBergur | 409,488
