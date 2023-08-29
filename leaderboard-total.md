@@ -1,9 +1,9 @@
-Last updated: 23-08-29 23:19:36 UTC  
+Last updated: 23-08-29 23:30:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
 2 | Wonderful_Bad6531 | 34,780,585
-3 | nakamo-toe | 28,411,003
+3 | nakamo-toe | 28,434,233
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,036,929
 6 | waterhasnocalories | 23,470,101
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Puddin-Luv | 4,478,505
 31 | redzrex | 4,400,337
 32 | birdwastheword | 4,310,724
-33 | IveDoneItAtLast | 4,300,521
+33 | IveDoneItAtLast | 4,305,847
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,963,408
 36 | clean_cut89 | 3,586,746
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
 54 | catlover-100 | 1,913,158
-55 | zdubs | 1,881,607
+55 | zdubs | 1,881,608
 56 | 0-Give-a-fucks | 1,841,666
 57 | dealkhabari | 1,760,619
 58 | Ten-Mins-Late | 1,706,113
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | Cravensworth_redux | 790,803
 93 | ziggybri | 782,435
 94 | RegalReptile_ | 753,708
-95 | Westy3000 | 747,125
+95 | Westy3000 | 749,347
 96 | billywright4 | 728,766
 97 | starterpack420694 | 710,420
 98 | WarmIyWacky | 703,049
@@ -186,9 +186,9 @@ Rank | Username | Totals Tips
 183 | BeardedBro_ | 248,627
 184 | thestonkinator | 246,260
 185 | tjex666 | 240,801
-186 | MisterM0H0 | 237,708
-187 | cannainform2 | 236,660
-188 | coolpattakers | 235,710
+186 | coolpattakers | 238,373
+187 | MisterM0H0 | 237,708
+188 | cannainform2 | 236,660
 189 | Zalkwalker | 235,069
 190 | MuhSound | 230,729
 191 | joeviani | 230,028
@@ -221,13 +221,13 @@ Rank | Username | Totals Tips
 218 | DAMG808 | 181,277
 219 | ruccarucca | 180,270
 220 | Heclalava | 177,615
-221 | YourThighsWarmMyEars | 172,697
-222 | Street_Addd | 171,939
-223 | MymannosaurusRex | 171,317
-224 | high5s_inureye | 167,388
-225 | DamnWhySoLow | 166,675
-226 | MelonFarmer420 | 164,196
-227 | skollywag92 | 163,279
+221 | skollywag92 | 173,279
+222 | YourThighsWarmMyEars | 172,697
+223 | Street_Addd | 171,939
+224 | MymannosaurusRex | 171,317
+225 | high5s_inureye | 167,388
+226 | DamnWhySoLow | 166,675
+227 | MelonFarmer420 | 164,196
 228 | Lastkidpicked94 | 157,397
 229 | 6reficul | 153,884
 230 | martymartinator | 152,560
@@ -287,12 +287,12 @@ Rank | Username | Totals Tips
 284 | BrendanTFirefly | 95,347
 285 | wolfman333 | 93,986
 286 | H3adshotfox77 | 92,575
-287 | CrossPuffs | 91,641
-288 | ItailianStallion101 | 91,508
-289 | urlz | 91,281
-290 | DramaticProtogen | 90,274
-291 | Award-Bot | 90,000
-292 | 192000Hertz | 89,594
+287 | 192000Hertz | 92,257
+288 | CrossPuffs | 91,641
+289 | ItailianStallion101 | 91,508
+290 | urlz | 91,281
+291 | DramaticProtogen | 90,274
+292 | Award-Bot | 90,000
 293 | yahuurdme | 88,821
 294 | Burzzzt88 | 88,571
 295 | HokkaidoNights | 88,108
@@ -318,7 +318,7 @@ Rank | Username | Totals Tips
 315 | youtooleyesing | 77,229
 316 | Admirito | 77,027
 317 | Derefringence | 76,675
-318 | XeroGrave | 76,510
+318 | XeroGrave | 76,579
 319 | BeefaloSlim | 75,182
 320 | MedicineMaterial3501 | 74,654
 321 | Diamond_PnutBrain | 73,199
