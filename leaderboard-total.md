@@ -1,9 +1,9 @@
-Last updated: 23-08-29 19:14:53 UTC  
+Last updated: 23-08-29 19:23:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,333,198
 2 | Wonderful_Bad6531 | 34,780,585
-3 | nakamo-toe | 28,323,122
+3 | nakamo-toe | 28,325,785
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,036,929
 6 | waterhasnocalories | 23,470,101
@@ -82,7 +82,7 @@ Rank | Username | Totals Tips
 79 | avatarbot | 1,027,000
 80 | WarmBiertje | 1,000,000
 81 | EvanIsBacon | 970,416
-82 | UniversalNoobMaster | 962,115
+82 | UniversalNoobMaster | 969,084
 83 | Forward_Today2849 | 932,405
 84 | ID404_Not_Found_8964 | 910,620
 85 | Modestexcuse | 903,684
