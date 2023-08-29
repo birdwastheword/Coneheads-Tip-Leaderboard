@@ -1,10 +1,10 @@
-Last updated: 23-08-29 03:40:36 UTC  
+Last updated: 23-08-29 03:50:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
 2 | Wonderful_Bad6531 | 34,780,585
 3 | rickribera93 | 28,283,727
-4 | nakamo-toe | 28,033,620
+4 | nakamo-toe | 28,036,283
 5 | Jeff5704 | 28,010,292
 6 | waterhasnocalories | 23,428,032
 7 | ConeDesk | 17,947,653
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Geniuskills | 6,274,170
 22 | Skank_cunt_42 | 5,467,162
 23 | HippieStarTraveler | 5,249,390
-24 | SpookySYN | 5,103,067
+24 | SpookySYN | 5,117,951
 25 | _ships | 5,087,152
 26 | thelonliestcrowd | 4,798,566
 27 | rikbona | 4,540,773
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | 0-Give-a-fucks | 1,841,666
 56 | dealkhabari | 1,760,619
 57 | Ten-Mins-Late | 1,706,113
-58 | zdubs | 1,679,161
+58 | zdubs | 1,680,376
 59 | investigator100 | 1,620,712
 60 | GooderZBK | 1,613,996
 61 | KONGXIANG | 1,529,122
