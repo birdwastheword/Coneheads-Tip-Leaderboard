@@ -1,5 +1,5 @@
 Tips Hall of Fame:
-Rank | Date | Username | Totals Tips | to User
+Rank | Date | Username | Tip size | to User
 :-|:-|:-|-:|:-
 1 | 2023-08-14 03:28:23 | Jeff5704 | 24,195,813| HODL-THE-LINE
 2 | 2023-08-14 05:33:22 | HODL-THE-LINE | 11,400,000| isthistomorrow_
