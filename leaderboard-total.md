@@ -1,4 +1,4 @@
-Last updated: 23-08-29 13:25:38 UTC  
+Last updated: 23-08-29 13:35:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 8,094,002
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,616,712
-19 | Real_Player_0 | 6,531,022
+19 | Real_Player_0 | 6,533,685
 20 | ashinamune | 6,296,452
 21 | Geniuskills | 6,274,170
 22 | Skank_cunt_42 | 5,467,162
@@ -176,8 +176,8 @@ Rank | Username | Totals Tips
 173 | SetoXlll | 266,067
 174 | Flimsy_Brilliant_239 | 265,592
 175 | Hactar_42 | 256,832
-176 | thecrabdad | 256,177
-177 | tmanfromEarth | 255,392
+176 | tmanfromEarth | 256,392
+177 | thecrabdad | 256,177
 178 | Lillica_Golden_SHIB | 253,106
 179 | Ambitious-Minimum-80 | 252,035
 180 | Sattack4000 | 250,837
