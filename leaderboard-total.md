@@ -1,7 +1,7 @@
-Last updated: 23-08-29 21:43:00 UTC  
+Last updated: 23-08-29 21:51:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 39,333,198
+1 | Bitdream200K | 39,483,198
 2 | Wonderful_Bad6531 | 34,780,585
 3 | nakamo-toe | 28,381,708
 4 | rickribera93 | 28,283,727
@@ -474,8 +474,8 @@ Rank | Username | Totals Tips
 471 | bentolman | 28,291
 472 | cryotosensei | 28,224
 473 | Fictional_Blook | 28,143
-474 | hvefe | 28,005
-475 | Fomo- | 28,000
+474 | Fomo- | 28,008
+475 | hvefe | 28,005
 476 | madisonfm | 27,934
 477 | Jo2Bax | 27,820
 478 | ikiyen | 27,500
@@ -683,20 +683,20 @@ Rank | Username | Totals Tips
 680 | Dapper_Bloke88 | 6,843
 681 | Kindly-Strawberry637 | 6,800
 682 | Knackebrodd | 6,683
-683 | No-Emu-5060 | 6,663
-684 | thespygorillas | 6,662
-685 | GoldMaster15 | 6,618
-686 | Fourplyer80 | 6,587
-687 | strworld | 6,544
-688 | dexabonk | 6,541
-689 | _pondering_insomniac | 6,500
-690 | SeniorThiccBoi | 6,405
-691 | theindoshow | 6,388
-692 | rpgruli | 6,364
-693 | ReasonReasonable7168 | 6,357
-694 | Schwoanz | 6,219
-695 | solarssun | 6,111
-696 | Swoopscooter | 6,068
+683 | Swoopscooter | 6,676
+684 | No-Emu-5060 | 6,663
+685 | thespygorillas | 6,662
+686 | GoldMaster15 | 6,618
+687 | Fourplyer80 | 6,587
+688 | strworld | 6,544
+689 | dexabonk | 6,541
+690 | _pondering_insomniac | 6,500
+691 | SeniorThiccBoi | 6,405
+692 | theindoshow | 6,388
+693 | rpgruli | 6,364
+694 | ReasonReasonable7168 | 6,357
+695 | Schwoanz | 6,219
+696 | solarssun | 6,111
 697 | DrunkDoge420 | 6,000
 698 | forceworks | 5,998
 699 | SecretSuch420 | 5,981
