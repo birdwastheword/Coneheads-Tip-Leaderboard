@@ -1,4 +1,4 @@
-Last updated: 23-08-29 18:40:38 UTC  
+Last updated: 23-08-29 18:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,529,928
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 9,768,676
+11 | cutsickass | 9,828,676
 12 | SammyCraigar | 8,963,505
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,279
@@ -22,8 +22,8 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,535,509
 20 | ashinamune | 6,296,452
 21 | Geniuskills | 6,274,902
-22 | Skank_cunt_42 | 5,467,162
-23 | SpookySYN | 5,366,399
+22 | SpookySYN | 5,532,338
+23 | Skank_cunt_42 | 5,467,162
 24 | HippieStarTraveler | 5,249,390
 25 | _ships | 5,087,152
 26 | thelonliestcrowd | 4,801,649
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Puddin-Luv | 4,475,842
 31 | redzrex | 4,397,674
 32 | birdwastheword | 4,310,724
-33 | IveDoneItAtLast | 4,270,936
+33 | IveDoneItAtLast | 4,273,600
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,963,408
 36 | clean_cut89 | 3,586,746
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | Ten-Mins-Late | 1,706,113
 58 | zdubs | 1,704,977
 59 | investigator100 | 1,620,712
-60 | GooderZBK | 1,613,996
+60 | GooderZBK | 1,614,604
 61 | KONGXIANG | 1,529,122
 62 | bray_martin03 | 1,518,175
 63 | evilninjarobot | 1,457,250
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | Independent_Heart_15 | 578,825
 116 | formidable-opponent | 565,848
 117 | nichnotnick | 556,778
-118 | dopelifer09 | 544,286
+118 | dopelifer09 | 549,612
 119 | StepAsideSuckers | 540,695
 120 | scientifichistorian | 539,560
 121 | shreyaskg | 538,211
@@ -164,13 +164,13 @@ Rank | Username | Totals Tips
 161 | VincentVanGTFO | 300,598
 162 | legionticket | 296,054
 163 | send_tacoz | 293,576
-164 | monkeybombed | 283,911
-165 | dinoyeti | 283,881
-166 | Extreme_Issue7325 | 282,538
-167 | MadScientistTheFirst | 280,469
-168 | astro_nut_ | 280,463
-169 | maxfra | 279,459
-170 | deedopete | 278,024
+164 | deedopete | 285,361
+165 | monkeybombed | 283,911
+166 | dinoyeti | 283,881
+167 | Extreme_Issue7325 | 282,538
+168 | MadScientistTheFirst | 280,469
+169 | astro_nut_ | 280,463
+170 | maxfra | 279,459
 171 | FluffyAspie | 271,874
 172 | _Mitchee_ | 266,493
 173 | SetoXlll | 266,067
