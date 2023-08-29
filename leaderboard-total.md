@@ -1,9 +1,9 @@
-Last updated: 23-08-29 22:50:45 UTC  
+Last updated: 23-08-29 23:00:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
 2 | Wonderful_Bad6531 | 34,780,585
-3 | nakamo-toe | 28,384,373
+3 | nakamo-toe | 28,411,003
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,036,929
 6 | waterhasnocalories | 23,470,101
@@ -526,14 +526,14 @@ Rank | Username | Totals Tips
 523 | -Boxen | 20,420
 524 | Flat_Opportunity_340 | 20,420
 525 | DLPD-Camko | 20,377
-526 | Bear-Bull-Pig | 20,230
-527 | NoahG59 | 20,002
-528 | Arash_Rezae | 20,000
-529 | maliplazi | 20,000
-530 | PassiveRoadRage | 20,000
-531 | Yeh_nah_yeh_ | 20,000
-532 | PsLJdogg | 19,975
-533 | ipad_daps | 19,955
+526 | ipad_daps | 20,375
+527 | Bear-Bull-Pig | 20,230
+528 | NoahG59 | 20,002
+529 | Arash_Rezae | 20,000
+530 | maliplazi | 20,000
+531 | PassiveRoadRage | 20,000
+532 | Yeh_nah_yeh_ | 20,000
+533 | PsLJdogg | 19,975
 534 | Iiwip | 19,533
 535 | MalarkyD | 19,527
 536 | lookwhatumademedoo | 19,510
