@@ -1,9 +1,9 @@
-Last updated: 23-08-29 19:50:40 UTC  
+Last updated: 23-08-29 20:21:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,333,198
 2 | Wonderful_Bad6531 | 34,780,585
-3 | nakamo-toe | 28,325,785
+3 | nakamo-toe | 28,381,708
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,036,929
 6 | waterhasnocalories | 23,470,101
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,535,509
 20 | ashinamune | 6,296,452
 21 | Geniuskills | 6,274,902
-22 | SpookySYN | 5,532,338
+22 | SpookySYN | 5,535,001
 23 | Skank_cunt_42 | 5,467,162
 24 | HippieStarTraveler | 5,249,390
 25 | _ships | 5,087,152
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | rikbona | 4,540,773
 28 | bigbilly1234567899 | 4,496,042
 29 | Ginomania | 4,488,648
-30 | Puddin-Luv | 4,475,842
+30 | Puddin-Luv | 4,478,505
 31 | redzrex | 4,397,674
 32 | birdwastheword | 4,310,724
 33 | IveDoneItAtLast | 4,274,020
@@ -383,10 +383,10 @@ Rank | Username | Totals Tips
 380 | ConeHead710 | 52,012
 381 | lucivaryas | 51,420
 382 | d0ntmess87 | 51,278
-383 | CHEROKEEJ4CK | 49,947
-384 | eatthebagels | 49,692
-385 | Levl1Critter | 49,152
-386 | SandersIncBV | 48,940
+383 | SandersIncBV | 50,277
+384 | CHEROKEEJ4CK | 49,947
+385 | eatthebagels | 49,692
+386 | Levl1Critter | 49,152
 387 | d_Shazam_b | 48,908
 388 | Dolce_00 | 48,683
 389 | CryptoScamee42069 | 48,131
