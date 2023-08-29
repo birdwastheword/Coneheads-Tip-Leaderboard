@@ -1,4 +1,4 @@
-Last updated: 23-08-29 07:31:00 UTC  
+Last updated: 23-08-29 07:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | Cravensworth_redux | 790,803
 93 | ziggybri | 782,435
 94 | RegalReptile_ | 753,708
-95 | Westy3000 | 741,570
+95 | Westy3000 | 744,903
 96 | billywright4 | 728,158
 97 | starterpack420694 | 710,420
 98 | WarmIyWacky | 703,049
@@ -395,10 +395,10 @@ Rank | Username | Totals Tips
 392 | shredslanding | 46,650
 393 | sicilian2124 | 45,866
 394 | Drlitez | 45,436
-395 | NickkyDC | 45,379
-396 | tentazoc | 45,078
-397 | Name_Trikolon | 45,002
-398 | skatistic | 44,964
+395 | skatistic | 45,384
+396 | NickkyDC | 45,379
+397 | tentazoc | 45,078
+398 | Name_Trikolon | 45,002
 399 | acfranks | 44,525
 400 | Kilv3r | 44,021
 401 | Coneboy2663 | 43,852
