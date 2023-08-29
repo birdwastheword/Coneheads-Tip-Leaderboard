@@ -1,4 +1,4 @@
-Last updated: 23-08-29 06:28:25 UTC  
+Last updated: 23-08-29 06:40:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -202,10 +202,10 @@ Rank | Username | Totals Tips
 199 | Significant_Talk4943 | 210,759
 200 | ultra_terrestrial | 210,031
 201 | UWphoto | 209,795
-202 | Ashamed_Raccoon9918 | 205,858
-203 | Esco1980 | 204,434
-204 | ziggyback | 203,369
-205 | Final-Scar-941 | 203,319
+202 | Final-Scar-941 | 208,791
+203 | Ashamed_Raccoon9918 | 205,858
+204 | Esco1980 | 204,434
+205 | ziggyback | 203,369
 206 | jimfird | 201,179
 207 | CedricDiccory | 197,932
 208 | sudrats | 197,124
