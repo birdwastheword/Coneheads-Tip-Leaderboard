@@ -1,4 +1,4 @@
-Last updated: 23-08-29 17:40:46 UTC  
+Last updated: 23-08-29 17:50:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | Mundane-Farm-4117 | 1,358,176
 65 | isthistomorrow_ | 1,350,016
 66 | YarOldeOrchard | 1,340,375
-67 | djrcollectables | 1,335,124
+67 | djrcollectables | 1,337,787
 68 | ValiantJudge29500 | 1,322,307
 69 | CMDRGlamdring | 1,259,444
 70 | revdrgonzo | 1,235,214
