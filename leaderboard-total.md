@@ -1,4 +1,4 @@
-Last updated: 23-08-29 16:41:29 UTC  
+Last updated: 23-08-29 16:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | HippieStarTraveler | 5,249,390
 24 | SpookySYN | 5,117,951
 25 | _ships | 5,087,152
-26 | thelonliestcrowd | 4,801,229
+26 | thelonliestcrowd | 4,801,649
 27 | rikbona | 4,540,773
 28 | bigbilly1234567899 | 4,496,042
 29 | Ginomania | 4,488,648
@@ -106,7 +106,7 @@ Rank | Username | Totals Tips
 103 | Due_Insurance8159 | 678,620
 104 | frickdom | 676,749
 105 | SKITZ_ZA | 673,394
-106 | Duskopia | 666,144
+106 | Duskopia | 668,807
 107 | piebagz | 661,815
 108 | Obi1eyeKenobi | 652,339
 109 | MartynDr | 651,840
