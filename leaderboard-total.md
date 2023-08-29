@@ -1,11 +1,11 @@
-Last updated: 23-08-29 03:32:21 UTC  
+Last updated: 23-08-29 03:40:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
 2 | Wonderful_Bad6531 | 34,780,585
 3 | rickribera93 | 28,283,727
-4 | Jeff5704 | 28,010,292
-5 | nakamo-toe | 27,991,551
+4 | nakamo-toe | 28,033,620
+5 | Jeff5704 | 28,010,292
 6 | waterhasnocalories | 23,428,032
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,529,928
@@ -30,8 +30,8 @@ Rank | Username | Totals Tips
 27 | rikbona | 4,540,773
 28 | bigbilly1234567899 | 4,496,042
 29 | Ginomania | 4,481,848
-30 | Puddin-Luv | 4,470,516
-31 | redzrex | 4,395,011
+30 | Puddin-Luv | 4,473,179
+31 | redzrex | 4,397,674
 32 | birdwastheword | 4,308,061
 33 | IveDoneItAtLast | 4,268,273
 34 | rustyybikes | 4,263,025
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | isthistomorrow_ | 1,350,016
 66 | YarOldeOrchard | 1,340,375
 67 | djrcollectables | 1,332,461
-68 | ValiantJudge29500 | 1,270,699
+68 | ValiantJudge29500 | 1,271,307
 69 | CMDRGlamdring | 1,259,444
 70 | revdrgonzo | 1,235,214
 71 | saintajoras | 1,215,269
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | Cravensworth_redux | 790,803
 93 | ziggybri | 782,435
 94 | RegalReptile_ | 753,708
-95 | Westy3000 | 736,015
+95 | Westy3000 | 738,237
 96 | billywright4 | 728,158
 97 | starterpack420694 | 710,420
 98 | WarmIyWacky | 703,049
