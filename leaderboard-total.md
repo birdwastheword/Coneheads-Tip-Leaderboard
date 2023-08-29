@@ -1,17 +1,17 @@
-Last updated: 23-08-29 18:27:28 UTC  
+Last updated: 23-08-29 18:40:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
 2 | Wonderful_Bad6531 | 34,780,585
 3 | rickribera93 | 28,283,727
-4 | nakamo-toe | 28,236,869
+4 | nakamo-toe | 28,269,862
 5 | Jeff5704 | 28,036,929
 6 | waterhasnocalories | 23,470,101
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,529,928
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 9,708,676
+11 | cutsickass | 9,768,676
 12 | SammyCraigar | 8,963,505
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,279
@@ -23,8 +23,8 @@ Rank | Username | Totals Tips
 20 | ashinamune | 6,296,452
 21 | Geniuskills | 6,274,902
 22 | Skank_cunt_42 | 5,467,162
-23 | HippieStarTraveler | 5,249,390
-24 | SpookySYN | 5,117,951
+23 | SpookySYN | 5,366,399
+24 | HippieStarTraveler | 5,249,390
 25 | _ships | 5,087,152
 26 | thelonliestcrowd | 4,801,649
 27 | rikbona | 4,540,773
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,488,648
 30 | Puddin-Luv | 4,475,842
 31 | redzrex | 4,397,674
-32 | birdwastheword | 4,308,061
+32 | birdwastheword | 4,310,724
 33 | IveDoneItAtLast | 4,270,936
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,963,408
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | DontLaughArt | 2,520,324
 46 | possibili-teas | 2,399,515
 47 | GuyOne | 2,254,715
-48 | ImAlekBan | 2,219,106
+48 | ImAlekBan | 2,220,322
 49 | Autom4tic_Soze | 2,172,126
 50 | Fenrir-1919 | 2,079,066
 51 | 002_timmy | 2,022,512
@@ -306,7 +306,7 @@ Rank | Username | Totals Tips
 303 | RollingSkull0 | 83,098
 304 | shiesto | 82,917
 305 | standArtpluto | 82,100
-306 | AhhhUhmmm | 81,152
+306 | AhhhUhmmm | 81,221
 307 | mastermarvs | 80,384
 308 | diamondbored | 79,817
 309 | Pwny_b0y | 79,447
