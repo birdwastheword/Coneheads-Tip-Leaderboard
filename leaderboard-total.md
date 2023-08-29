@@ -1,4 +1,4 @@
-Last updated: 23-08-29 22:40:30 UTC  
+Last updated: 23-08-29 22:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Puddin-Luv | 4,478,505
 31 | redzrex | 4,400,337
 32 | birdwastheword | 4,310,724
-33 | IveDoneItAtLast | 4,276,683
+33 | IveDoneItAtLast | 4,277,291
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,963,408
 36 | clean_cut89 | 3,586,746
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
 54 | catlover-100 | 1,913,158
-55 | zdubs | 1,854,977
+55 | zdubs | 1,881,607
 56 | 0-Give-a-fucks | 1,841,666
 57 | dealkhabari | 1,760,619
 58 | Ten-Mins-Late | 1,706,113
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | Hactar_42 | 256,832
 176 | tmanfromEarth | 256,392
 177 | thecrabdad | 256,177
-178 | Lillica_Golden_SHIB | 253,658
+178 | Lillica_Golden_SHIB | 254,078
 179 | Ambitious-Minimum-80 | 252,035
 180 | Sattack4000 | 250,837
 181 | SnooMacarons9203 | 249,556
@@ -533,7 +533,7 @@ Rank | Username | Totals Tips
 530 | PassiveRoadRage | 20,000
 531 | Yeh_nah_yeh_ | 20,000
 532 | PsLJdogg | 19,975
-533 | ipad_daps | 19,535
+533 | ipad_daps | 19,955
 534 | Iiwip | 19,533
 535 | MalarkyD | 19,527
 536 | lookwhatumademedoo | 19,510
