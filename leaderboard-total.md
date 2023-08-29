@@ -1,4 +1,4 @@
-Last updated: 23-08-29 19:32:20 UTC  
+Last updated: 23-08-29 19:40:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,333,198
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,529,928
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 9,978,676
+11 | cutsickass | 10,038,676
 12 | SammyCraigar | 8,966,168
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,379
@@ -66,8 +66,8 @@ Rank | Username | Totals Tips
 63 | evilninjarobot | 1,457,250
 64 | Mundane-Farm-4117 | 1,358,176
 65 | isthistomorrow_ | 1,350,016
-66 | YarOldeOrchard | 1,340,375
-67 | djrcollectables | 1,337,787
+66 | djrcollectables | 1,340,450
+67 | YarOldeOrchard | 1,340,375
 68 | ValiantJudge29500 | 1,322,307
 69 | CMDRGlamdring | 1,259,444
 70 | revdrgonzo | 1,235,214
