@@ -1,14 +1,14 @@
-Last updated: 23-08-29 03:23:32 UTC  
+Last updated: 23-08-29 03:32:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
 2 | Wonderful_Bad6531 | 34,780,585
 3 | rickribera93 | 28,283,727
 4 | Jeff5704 | 28,010,292
-5 | nakamo-toe | 27,964,921
+5 | nakamo-toe | 27,991,551
 6 | waterhasnocalories | 23,428,032
 7 | ConeDesk | 17,947,653
-8 | crypto_grandma | 12,506,696
+8 | crypto_grandma | 12,529,928
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
 11 | cutsickass | 9,288,676
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | rikbona | 4,540,773
 28 | bigbilly1234567899 | 4,496,042
 29 | Ginomania | 4,481,848
-30 | Puddin-Luv | 4,441,384
+30 | Puddin-Luv | 4,470,516
 31 | redzrex | 4,395,011
 32 | birdwastheword | 4,308,061
 33 | IveDoneItAtLast | 4,268,273
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | 0-Give-a-fucks | 1,841,666
 56 | dealkhabari | 1,760,619
 57 | Ten-Mins-Late | 1,706,113
-58 | zdubs | 1,677,945
+58 | zdubs | 1,679,161
 59 | investigator100 | 1,620,712
 60 | GooderZBK | 1,613,996
 61 | KONGXIANG | 1,529,122
