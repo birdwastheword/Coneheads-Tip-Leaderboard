@@ -1,4 +1,4 @@
-Last updated: 23-08-29 16:32:03 UTC  
+Last updated: 23-08-29 16:41:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,303,905
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | HippieStarTraveler | 5,249,390
 24 | SpookySYN | 5,117,951
 25 | _ships | 5,087,152
-26 | thelonliestcrowd | 4,798,566
+26 | thelonliestcrowd | 4,801,229
 27 | rikbona | 4,540,773
 28 | bigbilly1234567899 | 4,496,042
 29 | Ginomania | 4,488,648
@@ -143,7 +143,7 @@ Rank | Username | Totals Tips
 140 | LrnFaroeseWthBergur | 409,488
 141 | Creepy-Nectarine-225 | 389,511
 142 | PortCity_MadMan | 386,232
-143 | DogSpark84 | 380,499
+143 | DogSpark84 | 380,919
 144 | SHIFTY-T3RROR | 377,457
 145 | zenhodl | 374,566
 146 | hellosamaira | 373,235
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | Hactar_42 | 256,832
 176 | tmanfromEarth | 256,392
 177 | thecrabdad | 256,177
-178 | Lillica_Golden_SHIB | 253,106
+178 | Lillica_Golden_SHIB | 253,175
 179 | Ambitious-Minimum-80 | 252,035
 180 | Sattack4000 | 250,837
 181 | SnooMacarons9203 | 249,556
@@ -198,7 +198,7 @@ Rank | Username | Totals Tips
 195 | Beenthorny | 212,362
 196 | SigSalvadore | 212,358
 197 | the_judge_168 | 212,146
-198 | Significant_Talk4943 | 211,179
+198 | Significant_Talk4943 | 211,599
 199 | Adrewmc | 211,177
 200 | ultra_terrestrial | 210,031
 201 | UWphoto | 209,795
