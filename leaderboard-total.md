@@ -1,9 +1,9 @@
-Last updated: 23-08-29 22:00:41 UTC  
+Last updated: 23-08-29 22:28:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
 2 | Wonderful_Bad6531 | 34,780,585
-3 | nakamo-toe | 28,381,708
+3 | nakamo-toe | 28,384,373
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,036,929
 6 | waterhasnocalories | 23,470,101
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,535,509
 20 | ashinamune | 6,296,452
 21 | Geniuskills | 6,274,902
-22 | SpookySYN | 5,652,951
+22 | SpookySYN | 5,662,280
 23 | Skank_cunt_42 | 5,467,162
 24 | HippieStarTraveler | 5,249,459
 25 | _ships | 5,087,152
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Puddin-Luv | 4,478,505
 31 | redzrex | 4,397,674
 32 | birdwastheword | 4,310,724
-33 | IveDoneItAtLast | 4,274,020
+33 | IveDoneItAtLast | 4,276,683
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,963,408
 36 | clean_cut89 | 3,586,746
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
-45 | DontLaughArt | 2,520,324
+45 | DontLaughArt | 2,520,990
 46 | possibili-teas | 2,399,515
 47 | ImAlekBan | 2,321,538
 48 | GuyOne | 2,254,715
@@ -55,10 +55,10 @@ Rank | Username | Totals Tips
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
 54 | catlover-100 | 1,913,158
-55 | 0-Give-a-fucks | 1,841,666
-56 | dealkhabari | 1,760,619
-57 | Ten-Mins-Late | 1,706,113
-58 | zdubs | 1,704,977
+55 | zdubs | 1,854,977
+56 | 0-Give-a-fucks | 1,841,666
+57 | dealkhabari | 1,760,619
+58 | Ten-Mins-Late | 1,706,113
 59 | investigator100 | 1,620,712
 60 | GooderZBK | 1,614,604
 61 | KONGXIANG | 1,529,122
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | YarOldeOrchard | 1,340,375
 68 | ValiantJudge29500 | 1,322,307
 69 | CMDRGlamdring | 1,259,444
-70 | revdrgonzo | 1,235,214
+70 | revdrgonzo | 1,235,215
 71 | saintajoras | 1,215,269
 72 | HestiaIsTheBestia | 1,188,046
 73 | Richicash | 1,181,855
@@ -263,8 +263,8 @@ Rank | Username | Totals Tips
 260 | Kevin3683 | 114,506
 261 | AlternativeBag2619 | 114,483
 262 | Fox1931 | 114,000
-263 | DeanDeanington | 113,263
-264 | pythonskynet | 113,031
+263 | pythonskynet | 113,451
+264 | DeanDeanington | 113,263
 265 | flying_bacon | 111,860
 266 | adrefofadre | 111,817
 267 | BitcoinRefuge | 111,112
@@ -926,13 +926,13 @@ Rank | Username | Totals Tips
 923 | SufficientNet9227 | 711
 924 | o_LUCIFER_o | 709
 925 | Unlucky_Narwhal3983 | 707
-926 | Mysterious-Heart-459 | 696
-927 | TheNano100 | 696
-928 | daigsischt | 696
-929 | Most_Border_3917 | 677
-930 | Indisciplinato | 677
-931 | Troll_humper | 665
-932 | Riviera20 | 638
+926 | Riviera20 | 707
+927 | Mysterious-Heart-459 | 696
+928 | TheNano100 | 696
+929 | daigsischt | 696
+930 | Most_Border_3917 | 677
+931 | Indisciplinato | 677
+932 | Troll_humper | 665
 933 | Big_Count_6042 | 633
 934 | pelaguras | 627
 935 | Avatar_Degen | 627
