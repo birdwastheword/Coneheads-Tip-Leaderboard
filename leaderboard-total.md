@@ -1,4 +1,4 @@
-Last updated: 23-08-30 05:42:08 UTC  
+Last updated: 23-08-30 05:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | Skank_cunt_42 | 5,467,162
 24 | HippieStarTraveler | 5,252,122
 25 | _ships | 5,087,152
-26 | thelonliestcrowd | 4,801,649
+26 | thelonliestcrowd | 4,804,312
 27 | rikbona | 4,540,773
 28 | Puddin-Luv | 4,504,974
 29 | bigbilly1234567899 | 4,496,042
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | KONGXIANG | 1,529,122
 62 | bray_martin03 | 1,518,175
 63 | evilninjarobot | 1,457,250
-64 | isthistomorrow_ | 1,361,127
+64 | isthistomorrow_ | 1,366,127
 65 | Mundane-Farm-4117 | 1,358,176
 66 | djrcollectables | 1,340,450
 67 | YarOldeOrchard | 1,340,375
