@@ -1,4 +1,4 @@
-Last updated: 23-08-30 13:50:51 UTC  
+Last updated: 23-08-30 14:25:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -19,12 +19,12 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 8,100,558
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,616,712
-19 | Real_Player_0 | 6,551,563
+19 | Real_Player_0 | 6,561,195
 20 | ashinamune | 6,304,723
 21 | Geniuskills | 6,274,902
 22 | SpookySYN | 5,748,458
 23 | Skank_cunt_42 | 5,467,162
-24 | HippieStarTraveler | 5,252,122
+24 | HippieStarTraveler | 5,252,611
 25 | _ships | 5,087,152
 26 | thelonliestcrowd | 4,804,732
 27 | rikbona | 4,540,773
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
-37 | thom_orrow | 3,521,035
+37 | thom_orrow | 3,525,035
 38 | LuminousViper | 3,477,450
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | investigator100 | 1,620,712
 60 | GooderZBK | 1,614,604
 61 | KONGXIANG | 1,529,122
-62 | bray_martin03 | 1,518,175
+62 | bray_martin03 | 1,518,176
 63 | evilninjarobot | 1,457,250
 64 | djrcollectables | 1,376,962
 65 | isthistomorrow_ | 1,366,127
@@ -172,7 +172,7 @@ Rank | Username | Totals Tips
 169 | astro_nut_ | 280,463
 170 | maxfra | 279,459
 171 | FluffyAspie | 274,537
-172 | ultra_terrestrial | 267,971
+172 | ultra_terrestrial | 270,634
 173 | _Mitchee_ | 266,493
 174 | SetoXlll | 266,067
 175 | Flimsy_Brilliant_239 | 265,592
@@ -236,10 +236,10 @@ Rank | Username | Totals Tips
 233 | CoverYourMaskHoles | 151,719
 234 | NotFullyTerrestrial | 150,694
 235 | satoshi_oscar_wilde | 150,072
-236 | Doovs | 143,375
-237 | Sad_Entertainer9961 | 143,248
-238 | yahuurdme | 141,511
-239 | BitcoinRefuge | 141,181
+236 | BitcoinRefuge | 145,181
+237 | Doovs | 143,375
+238 | Sad_Entertainer9961 | 143,248
+239 | yahuurdme | 141,511
 240 | SalliIsAFem | 140,361
 241 | luisantonio197 | 139,511
 242 | Clonkerz | 138,006
