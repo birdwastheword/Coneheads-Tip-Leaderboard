@@ -1,4 +1,4 @@
-Last updated: 23-08-30 07:30:53 UTC  
+Last updated: 23-08-30 07:40:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
-38 | thom_orrow | 3,462,615
+38 | thom_orrow | 3,466,615
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,069,726
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | evilninjarobot | 1,457,250
 64 | isthistomorrow_ | 1,366,127
 65 | Mundane-Farm-4117 | 1,358,176
-66 | djrcollectables | 1,340,519
+66 | djrcollectables | 1,343,790
 67 | YarOldeOrchard | 1,340,375
 68 | ValiantJudge29500 | 1,322,307
 69 | CMDRGlamdring | 1,259,444
@@ -94,7 +94,7 @@ Rank | Username | Totals Tips
 91 | ashketchup422 | 794,067
 92 | Cravensworth_redux | 790,803
 93 | ziggybri | 782,435
-94 | Westy3000 | 758,896
+94 | Westy3000 | 763,340
 95 | RegalReptile_ | 753,708
 96 | billywright4 | 728,766
 97 | starterpack420694 | 710,420
