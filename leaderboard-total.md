@@ -1,9 +1,9 @@
-Last updated: 23-08-30 04:52:35 UTC  
+Last updated: 23-08-30 05:24:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
 2 | Wonderful_Bad6531 | 34,780,585
-3 | nakamo-toe | 28,583,775
+3 | nakamo-toe | 28,586,858
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,106,229
 6 | waterhasnocalories | 23,470,101
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,529,928
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 10,158,676
+11 | cutsickass | 10,248,676
 12 | SammyCraigar | 8,966,168
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,379
@@ -850,11 +850,11 @@ Rank | Username | Totals Tips
 847 | Ask_Ari | 1,544
 848 | KantoRegionChampRed | 1,536
 849 | XenonXTR | 1,517
-850 | Pataphak377 | 1,490
-851 | adamdmn | 1,490
-852 | WhiteMoss_ | 1,488
-853 | SinTron99 | 1,448
-854 | happily_unlawful | 1,438
+850 | happily_unlawful | 1,507
+851 | Pataphak377 | 1,490
+852 | adamdmn | 1,490
+853 | WhiteMoss_ | 1,488
+854 | SinTron99 | 1,448
 855 | Prodigyyyyyy | 1,432
 856 | Most_Border_3917 | 1,432
 857 | mkultrahigh | 1,415
