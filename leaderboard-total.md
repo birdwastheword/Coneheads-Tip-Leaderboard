@@ -1,4 +1,4 @@
-Last updated: 23-08-30 05:24:35 UTC  
+Last updated: 23-08-30 05:33:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,529,928
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 10,248,676
+11 | cutsickass | 10,428,676
 12 | SammyCraigar | 8,966,168
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,379
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Puddin-Luv | 4,504,974
 29 | bigbilly1234567899 | 4,496,042
 30 | Ginomania | 4,488,648
-31 | redzrex | 4,400,757
+31 | redzrex | 4,403,420
 32 | birdwastheword | 4,310,724
 33 | IveDoneItAtLast | 4,308,510
 34 | rustyybikes | 4,263,025
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | scientifichistorian | 539,560
 121 | shreyaskg | 538,211
 122 | doktastonks | 521,325
-123 | Korean_Street_Pizza | 515,827
+123 | Korean_Street_Pizza | 518,490
 124 | junkwatch | 514,460
 125 | Allions1 | 510,704
 126 | f0n1xr131ng | 509,681
