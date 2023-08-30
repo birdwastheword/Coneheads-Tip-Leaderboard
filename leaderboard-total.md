@@ -1,4 +1,4 @@
-Last updated: 23-08-30 10:50:51 UTC  
+Last updated: 23-08-30 11:15:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 8,100,558
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,616,712
-19 | Real_Player_0 | 6,542,520
+19 | Real_Player_0 | 6,543,128
 20 | ashinamune | 6,304,723
 21 | Geniuskills | 6,274,902
 22 | SpookySYN | 5,740,240
@@ -253,12 +253,12 @@ Rank | Username | Totals Tips
 250 | Kevin3683 | 128,085
 251 | robnectar | 127,974
 252 | CalligrapherEnough83 | 127,227
-253 | Trakorr | 125,110
-254 | ZeMadMan1 | 122,599
-255 | Sativa55555 | 121,550
-256 | wato4000 | 121,465
-257 | stupidcupid112 | 121,421
-258 | BitcoinRefuge | 120,112
+253 | BitcoinRefuge | 126,112
+254 | Trakorr | 125,110
+255 | ZeMadMan1 | 122,599
+256 | Sativa55555 | 121,550
+257 | wato4000 | 121,465
+258 | stupidcupid112 | 121,421
 259 | Schl0tz | 120,000
 260 | street_shark_puppet | 116,891
 261 | lordciders | 116,606
@@ -394,8 +394,8 @@ Rank | Username | Totals Tips
 391 | CryptoScamee42069 | 48,131
 392 | Outside-Wolf5928 | 47,433
 393 | hey_barry | 47,353
-394 | shredslanding | 46,650
-395 | sicilian2124 | 45,866
+394 | sicilian2124 | 46,866
+395 | shredslanding | 46,650
 396 | skatistic | 45,453
 397 | Drlitez | 45,436
 398 | NickkyDC | 45,379
