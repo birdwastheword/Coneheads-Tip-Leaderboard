@@ -1,4 +1,4 @@
-Last updated: 23-08-30 11:33:18 UTC  
+Last updated: 23-08-30 11:42:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
-37 | thom_orrow | 3,502,615
+37 | thom_orrow | 3,508,615
 38 | LuminousViper | 3,477,450
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | KONGXIANG | 1,529,122
 62 | bray_martin03 | 1,518,175
 63 | evilninjarobot | 1,457,250
-64 | djrcollectables | 1,373,083
+64 | djrcollectables | 1,376,962
 65 | isthistomorrow_ | 1,366,127
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
@@ -136,9 +136,9 @@ Rank | Username | Totals Tips
 133 | Lady_Lucks_Man | 451,119
 134 | adrifing | 443,831
 135 | unhingedbigfoot | 439,874
-136 | Mopeiooo | 427,266
-137 | Crypto-4-Freedom | 425,398
-138 | RazPie | 419,317
+136 | RazPie | 429,317
+137 | Mopeiooo | 427,266
+138 | Crypto-4-Freedom | 425,398
 139 | dronegeeks1 | 414,406
 140 | LrnFaroeseWthBergur | 409,488
 141 | DogSpark84 | 397,690
@@ -245,12 +245,12 @@ Rank | Username | Totals Tips
 242 | GrowinStuffAndThings | 137,461
 243 | Outrageous-Ad8481 | 137,001
 244 | MorrisWayne | 133,416
-245 | Legal-Appointment655 | 131,029
-246 | GoodMornEveGoodNight | 131,019
-247 | jamjam794 | 130,675
-248 | Mj_6o4 | 129,568
-249 | Awake-- | 128,173
-250 | BitcoinRefuge | 128,112
+245 | BitcoinRefuge | 131,181
+246 | Legal-Appointment655 | 131,029
+247 | GoodMornEveGoodNight | 131,019
+248 | jamjam794 | 130,675
+249 | Mj_6o4 | 129,568
+250 | Awake-- | 128,173
 251 | Kevin3683 | 128,085
 252 | robnectar | 127,974
 253 | CalligrapherEnough83 | 127,227
@@ -344,12 +344,12 @@ Rank | Username | Totals Tips
 341 | Heycheckthisout20 | 63,382
 342 | guokaidi | 63,245
 343 | slug_tamer | 63,175
-344 | shellystarzz | 62,826
-345 | netnemirepxE | 62,645
-346 | meth43 | 62,596
-347 | Emeritux | 62,504
-348 | 1ndy1 | 62,120
-349 | Iulian_TechNewb | 61,964
+344 | Iulian_TechNewb | 62,965
+345 | shellystarzz | 62,826
+346 | netnemirepxE | 62,645
+347 | meth43 | 62,596
+348 | Emeritux | 62,504
+349 | 1ndy1 | 62,120
 350 | KrunchyKushKing | 61,532
 351 | BitCone_CONE | 60,947
 352 | TheD1ceMan | 60,541
@@ -404,14 +404,14 @@ Rank | Username | Totals Tips
 401 | acfranks | 44,525
 402 | Kilv3r | 44,021
 403 | Coneboy2663 | 43,852
-404 | halfABsinC | 43,285
-405 | 4gsboofd | 42,377
-406 | ACE415_ | 42,000
-407 | Cyber-Cafe | 41,921
-408 | PushyDevoIution | 41,695
-409 | ZoomLong | 41,251
-410 | HodLMania | 41,111
-411 | Oue | 41,026
+404 | Oue | 43,689
+405 | halfABsinC | 43,285
+406 | 4gsboofd | 42,377
+407 | ACE415_ | 42,000
+408 | Cyber-Cafe | 41,921
+409 | PushyDevoIution | 41,695
+410 | ZoomLong | 41,251
+411 | HodLMania | 41,111
 412 | ARoyaleWithCheese | 41,000
 413 | halfavocadoemoji | 40,688
 414 | Yirii | 40,605
