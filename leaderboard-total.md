@@ -1,4 +1,4 @@
-Last updated: 23-08-30 03:30:49 UTC  
+Last updated: 23-08-30 03:40:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -28,9 +28,9 @@ Rank | Username | Totals Tips
 25 | _ships | 5,087,152
 26 | thelonliestcrowd | 4,801,649
 27 | rikbona | 4,540,773
-28 | bigbilly1234567899 | 4,496,042
-29 | Ginomania | 4,488,648
-30 | Puddin-Luv | 4,478,505
+28 | Puddin-Luv | 4,504,974
+29 | bigbilly1234567899 | 4,496,042
+30 | Ginomania | 4,488,648
 31 | redzrex | 4,400,757
 32 | birdwastheword | 4,310,724
 33 | IveDoneItAtLast | 4,308,510
@@ -141,7 +141,7 @@ Rank | Username | Totals Tips
 138 | RazPie | 419,317
 139 | dronegeeks1 | 414,406
 140 | LrnFaroeseWthBergur | 409,488
-141 | DogSpark84 | 392,135
+141 | DogSpark84 | 397,690
 142 | PortCity_MadMan | 391,558
 143 | Creepy-Nectarine-225 | 389,511
 144 | SHIFTY-T3RROR | 377,457
