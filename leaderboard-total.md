@@ -1,4 +1,4 @@
-Last updated: 23-08-30 08:44:24 UTC  
+Last updated: 23-08-30 08:52:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -37,8 +37,8 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
-37 | LuminousViper | 3,477,450
-38 | thom_orrow | 3,476,615
+37 | thom_orrow | 3,478,615
+38 | LuminousViper | 3,477,450
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,069,726
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | catlover-100 | 1,913,578
 55 | zdubs | 1,883,136
 56 | 0-Give-a-fucks | 1,841,666
-57 | dealkhabari | 1,760,619
+57 | dealkhabari | 1,760,620
 58 | Ten-Mins-Late | 1,706,113
 59 | investigator100 | 1,620,712
 60 | GooderZBK | 1,614,604
