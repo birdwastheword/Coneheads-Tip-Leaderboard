@@ -1,4 +1,4 @@
-Last updated: 23-08-30 06:40:41 UTC  
+Last updated: 23-08-30 06:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
-38 | thom_orrow | 3,453,615
+38 | thom_orrow | 3,457,615
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,069,726
@@ -613,8 +613,8 @@ Rank | Username | Totals Tips
 610 | maurinet79 | 10,840
 611 | j9101a | 10,804
 612 | ancheli | 10,588
-613 | Background-Ad-2102 | 10,450
-614 | Straton_Conemont_Inc | 10,412
+613 | Straton_Conemont_Inc | 10,550
+614 | Background-Ad-2102 | 10,450
 615 | 73i1 | 10,412
 616 | ZeusDubstep | 10,326
 617 | Gamestopisthe1 | 10,227
