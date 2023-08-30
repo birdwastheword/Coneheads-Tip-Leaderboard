@@ -1,4 +1,4 @@
-Last updated: 23-08-30 09:40:39 UTC  
+Last updated: 23-08-30 09:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -94,7 +94,7 @@ Rank | Username | Totals Tips
 91 | ashketchup422 | 794,067
 92 | Cravensworth_redux | 790,803
 93 | ziggybri | 782,435
-94 | Westy3000 | 763,340
+94 | Westy3000 | 765,562
 95 | RegalReptile_ | 753,708
 96 | billywright4 | 728,766
 97 | starterpack420694 | 710,420
@@ -142,7 +142,7 @@ Rank | Username | Totals Tips
 139 | dronegeeks1 | 414,406
 140 | LrnFaroeseWthBergur | 409,488
 141 | DogSpark84 | 397,690
-142 | PortCity_MadMan | 391,558
+142 | PortCity_MadMan | 394,221
 143 | Creepy-Nectarine-225 | 389,511
 144 | SHIFTY-T3RROR | 377,457
 145 | zenhodl | 374,566
@@ -151,9 +151,9 @@ Rank | Username | Totals Tips
 148 | farmertypoerror | 359,212
 149 | Lion-Hermit | 354,884
 150 | Outrageous-Skill-464 | 344,174
-151 | virmamies | 343,108
-152 | anony666mous | 341,008
-153 | noface_reddit | 340,895
+151 | noface_reddit | 343,558
+152 | virmamies | 343,108
+153 | anony666mous | 341,008
 154 | tsudrat | 340,707
 155 | Tinman_ApE | 339,784
 156 | Dripbot8 | 325,384
@@ -267,9 +267,9 @@ Rank | Username | Totals Tips
 264 | Fox1931 | 114,000
 265 | pythonskynet | 113,451
 266 | DeanDeanington | 113,263
-267 | flying_bacon | 111,860
-268 | adrefofadre | 111,817
-269 | BitcoinRefuge | 111,112
+267 | BitcoinRefuge | 113,112
+268 | flying_bacon | 111,860
+269 | adrefofadre | 111,817
 270 | rolonic | 110,773
 271 | PushyDevolution | 110,216
 272 | Strong_Constant_1190 | 109,517
