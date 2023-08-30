@@ -1,4 +1,4 @@
-Last updated: 23-08-30 09:50:47 UTC  
+Last updated: 23-08-30 10:00:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -150,8 +150,8 @@ Rank | Username | Totals Tips
 147 | AustinTX1985 | 368,863
 148 | farmertypoerror | 359,212
 149 | Lion-Hermit | 354,884
-150 | Outrageous-Skill-464 | 344,174
-151 | noface_reddit | 343,558
+150 | noface_reddit | 346,221
+151 | Outrageous-Skill-464 | 344,174
 152 | virmamies | 343,108
 153 | anony666mous | 341,008
 154 | tsudrat | 340,707
@@ -261,13 +261,13 @@ Rank | Username | Totals Tips
 258 | Schl0tz | 120,000
 259 | street_shark_puppet | 116,891
 260 | lordciders | 116,606
-261 | CaptainCheeseCake | 115,981
-262 | mvea | 115,748
-263 | AlternativeBag2619 | 114,483
-264 | Fox1931 | 114,000
-265 | pythonskynet | 113,451
-266 | DeanDeanington | 113,263
-267 | BitcoinRefuge | 113,112
+261 | BitcoinRefuge | 116,112
+262 | CaptainCheeseCake | 115,981
+263 | mvea | 115,748
+264 | AlternativeBag2619 | 114,483
+265 | Fox1931 | 114,000
+266 | pythonskynet | 113,451
+267 | DeanDeanington | 113,263
 268 | flying_bacon | 111,860
 269 | adrefofadre | 111,817
 270 | rolonic | 110,773
