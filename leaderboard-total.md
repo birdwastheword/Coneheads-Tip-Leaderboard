@@ -1,4 +1,4 @@
-Last updated: 23-08-30 10:00:55 UTC  
+Last updated: 23-08-30 10:29:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,529,928
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 10,458,676
+11 | cutsickass | 10,488,676
 12 | SammyCraigar | 8,966,168
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,379
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Ginomania | 4,488,648
 31 | redzrex | 4,403,420
 32 | IveDoneItAtLast | 4,312,342
-33 | birdwastheword | 4,310,724
+33 | birdwastheword | 4,311,148
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | Independent_Heart_15 | 578,825
 116 | formidable-opponent | 565,848
 117 | nichnotnick | 556,778
-118 | dopelifer09 | 552,275
+118 | dopelifer09 | 554,938
 119 | StepAsideSuckers | 540,695
 120 | scientifichistorian | 539,560
 121 | shreyaskg | 538,211
@@ -171,7 +171,7 @@ Rank | Username | Totals Tips
 168 | MadScientistTheFirst | 280,469
 169 | astro_nut_ | 280,463
 170 | maxfra | 279,459
-171 | FluffyAspie | 271,874
+171 | FluffyAspie | 274,537
 172 | ultra_terrestrial | 267,971
 173 | _Mitchee_ | 266,493
 174 | SetoXlll | 266,067
@@ -259,9 +259,9 @@ Rank | Username | Totals Tips
 256 | wato4000 | 121,465
 257 | stupidcupid112 | 121,421
 258 | Schl0tz | 120,000
-259 | street_shark_puppet | 116,891
-260 | lordciders | 116,606
-261 | BitcoinRefuge | 116,112
+259 | BitcoinRefuge | 119,112
+260 | street_shark_puppet | 116,891
+261 | lordciders | 116,606
 262 | CaptainCheeseCake | 115,981
 263 | mvea | 115,748
 264 | AlternativeBag2619 | 114,483
