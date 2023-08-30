@@ -1,4 +1,4 @@
-Last updated: 23-08-30 11:42:00 UTC  
+Last updated: 23-08-30 11:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
-37 | thom_orrow | 3,508,615
+37 | thom_orrow | 3,509,035
 38 | LuminousViper | 3,477,450
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
-45 | DontLaughArt | 2,520,990
+45 | DontLaughArt | 2,521,656
 46 | possibili-teas | 2,399,515
 47 | ImAlekBan | 2,321,538
 48 | GuyOne | 2,254,715
@@ -396,15 +396,15 @@ Rank | Username | Totals Tips
 393 | hey_barry | 47,353
 394 | sicilian2124 | 46,866
 395 | shredslanding | 46,650
-396 | skatistic | 45,453
-397 | Drlitez | 45,436
-398 | NickkyDC | 45,379
-399 | tentazoc | 45,078
-400 | Name_Trikolon | 45,002
-401 | acfranks | 44,525
-402 | Kilv3r | 44,021
-403 | Coneboy2663 | 43,852
-404 | Oue | 43,689
+396 | Oue | 46,352
+397 | skatistic | 45,453
+398 | Drlitez | 45,436
+399 | NickkyDC | 45,379
+400 | tentazoc | 45,078
+401 | Name_Trikolon | 45,002
+402 | acfranks | 44,525
+403 | Kilv3r | 44,021
+404 | Coneboy2663 | 43,852
 405 | halfABsinC | 43,285
 406 | 4gsboofd | 42,377
 407 | ACE415_ | 42,000
