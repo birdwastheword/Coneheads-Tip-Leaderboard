@@ -1,11 +1,11 @@
-Last updated: 23-08-30 03:50:30 UTC  
+Last updated: 23-08-30 04:27:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
 2 | Wonderful_Bad6531 | 34,780,585
-3 | nakamo-toe | 28,551,065
+3 | nakamo-toe | 28,577,695
 4 | rickribera93 | 28,283,727
-5 | Jeff5704 | 28,036,929
+5 | Jeff5704 | 28,063,566
 6 | waterhasnocalories | 23,470,101
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,529,928
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
 54 | catlover-100 | 1,913,158
-55 | zdubs | 1,882,824
+55 | zdubs | 1,883,136
 56 | 0-Give-a-fucks | 1,841,666
 57 | dealkhabari | 1,760,619
 58 | Ten-Mins-Late | 1,706,113
@@ -695,12 +695,12 @@ Rank | Username | Totals Tips
 692 | theindoshow | 6,388
 693 | rpgruli | 6,364
 694 | ReasonReasonable7168 | 6,357
-695 | Schwoanz | 6,219
-696 | solarssun | 6,111
-697 | DrunkDoge420 | 6,000
-698 | forceworks | 5,998
-699 | SecretSuch420 | 5,981
-700 | NEO_R1CH | 5,980
+695 | NEO_R1CH | 6,226
+696 | Schwoanz | 6,219
+697 | solarssun | 6,111
+698 | DrunkDoge420 | 6,000
+699 | forceworks | 5,998
+700 | SecretSuch420 | 5,981
 701 | st3alth247 | 5,975
 702 | OddNebula2844 | 5,938
 703 | theBarefootedBastard | 5,896
