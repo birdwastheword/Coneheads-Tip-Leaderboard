@@ -1,4 +1,4 @@
-Last updated: 23-08-30 11:24:17 UTC  
+Last updated: 23-08-30 11:33:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -32,12 +32,12 @@ Rank | Username | Totals Tips
 29 | bigbilly1234567899 | 4,496,042
 30 | Ginomania | 4,488,648
 31 | redzrex | 4,403,420
-32 | IveDoneItAtLast | 4,312,342
+32 | IveDoneItAtLast | 4,318,350
 33 | birdwastheword | 4,311,148
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
-37 | thom_orrow | 3,480,615
+37 | thom_orrow | 3,502,615
 38 | LuminousViper | 3,477,450
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
@@ -179,7 +179,7 @@ Rank | Username | Totals Tips
 176 | Hactar_42 | 256,832
 177 | tmanfromEarth | 256,392
 178 | thecrabdad | 256,177
-179 | Lillica_Golden_SHIB | 254,147
+179 | Lillica_Golden_SHIB | 254,216
 180 | Ambitious-Minimum-80 | 252,035
 181 | Sattack4000 | 250,837
 182 | SnooMacarons9203 | 249,556
@@ -207,7 +207,7 @@ Rank | Username | Totals Tips
 204 | Esco1980 | 204,434
 205 | ziggyback | 203,369
 206 | jimfird | 201,179
-207 | fettskull | 198,333
+207 | fettskull | 200,996
 208 | CedricDiccory | 197,932
 209 | sudrats | 197,124
 210 | redditavanft | 195,122
@@ -250,10 +250,10 @@ Rank | Username | Totals Tips
 247 | jamjam794 | 130,675
 248 | Mj_6o4 | 129,568
 249 | Awake-- | 128,173
-250 | Kevin3683 | 128,085
-251 | robnectar | 127,974
-252 | CalligrapherEnough83 | 127,227
-253 | BitcoinRefuge | 127,112
+250 | BitcoinRefuge | 128,112
+251 | Kevin3683 | 128,085
+252 | robnectar | 127,974
+253 | CalligrapherEnough83 | 127,227
 254 | Trakorr | 125,110
 255 | ZeMadMan1 | 122,599
 256 | Sativa55555 | 121,550
@@ -290,8 +290,8 @@ Rank | Username | Totals Tips
 287 | wolfman333 | 93,986
 288 | H3adshotfox77 | 92,575
 289 | 192000Hertz | 92,257
-290 | CrossPuffs | 91,641
-291 | ItailianStallion101 | 91,609
+290 | ItailianStallion101 | 91,710
+291 | CrossPuffs | 91,641
 292 | urlz | 91,281
 293 | DramaticProtogen | 90,274
 294 | Award-Bot | 90,000
