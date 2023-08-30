@@ -1,4 +1,4 @@
-Last updated: 23-08-30 08:52:46 UTC  
+Last updated: 23-08-30 09:20:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
-37 | thom_orrow | 3,478,615
+37 | thom_orrow | 3,480,615
 38 | LuminousViper | 3,477,450
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
@@ -250,9 +250,9 @@ Rank | Username | Totals Tips
 247 | jamjam794 | 130,675
 248 | Mj_6o4 | 129,568
 249 | Awake-- | 128,173
-250 | robnectar | 127,974
-251 | CalligrapherEnough83 | 127,227
-252 | Kevin3683 | 126,851
+250 | Kevin3683 | 128,085
+251 | robnectar | 127,974
+252 | CalligrapherEnough83 | 127,227
 253 | Trakorr | 125,110
 254 | ZeMadMan1 | 122,599
 255 | Sativa55555 | 121,550
