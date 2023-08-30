@@ -1,4 +1,4 @@
-Last updated: 23-08-30 13:25:03 UTC  
+Last updated: 23-08-30 13:34:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,529,928
 9 | HODL-THE-LINE | 12,069,181
 10 | Parush9 | 11,950,679
-11 | cutsickass | 10,491,339
+11 | cutsickass | 10,521,339
 12 | SammyCraigar | 8,966,168
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,379
@@ -239,8 +239,8 @@ Rank | Username | Totals Tips
 236 | Doovs | 143,375
 237 | Sad_Entertainer9961 | 143,248
 238 | yahuurdme | 141,511
-239 | SalliIsAFem | 140,361
-240 | BitcoinRefuge | 140,181
+239 | BitcoinRefuge | 141,181
+240 | SalliIsAFem | 140,361
 241 | luisantonio197 | 139,511
 242 | Clonkerz | 138,006
 243 | GrowinStuffAndThings | 137,461
