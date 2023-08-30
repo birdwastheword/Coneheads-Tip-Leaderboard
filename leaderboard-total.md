@@ -1,4 +1,4 @@
-Last updated: 23-08-30 06:50:52 UTC  
+Last updated: 23-08-30 07:17:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -32,13 +32,13 @@ Rank | Username | Totals Tips
 29 | bigbilly1234567899 | 4,496,042
 30 | Ginomania | 4,488,648
 31 | redzrex | 4,403,420
-32 | IveDoneItAtLast | 4,310,928
+32 | IveDoneItAtLast | 4,311,536
 33 | birdwastheword | 4,310,724
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
-38 | thom_orrow | 3,457,615
+38 | thom_orrow | 3,458,615
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,069,726
@@ -54,7 +54,7 @@ Rank | Username | Totals Tips
 51 | 002_timmy | 2,022,512
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
-54 | catlover-100 | 1,913,158
+54 | catlover-100 | 1,913,578
 55 | zdubs | 1,883,136
 56 | 0-Give-a-fucks | 1,841,666
 57 | dealkhabari | 1,760,619
@@ -94,7 +94,7 @@ Rank | Username | Totals Tips
 91 | ashketchup422 | 794,067
 92 | Cravensworth_redux | 790,803
 93 | ziggybri | 782,435
-94 | Westy3000 | 756,452
+94 | Westy3000 | 758,896
 95 | RegalReptile_ | 753,708
 96 | billywright4 | 728,766
 97 | starterpack420694 | 710,420
