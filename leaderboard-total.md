@@ -1,4 +1,4 @@
-Last updated: 23-08-30 10:29:36 UTC  
+Last updated: 23-08-30 10:40:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | KONGXIANG | 1,529,122
 62 | bray_martin03 | 1,518,175
 63 | evilninjarobot | 1,457,250
-64 | djrcollectables | 1,370,420
+64 | djrcollectables | 1,373,083
 65 | isthistomorrow_ | 1,366,127
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
@@ -258,8 +258,8 @@ Rank | Username | Totals Tips
 255 | Sativa55555 | 121,550
 256 | wato4000 | 121,465
 257 | stupidcupid112 | 121,421
-258 | Schl0tz | 120,000
-259 | BitcoinRefuge | 119,112
+258 | BitcoinRefuge | 120,112
+259 | Schl0tz | 120,000
 260 | street_shark_puppet | 116,891
 261 | lordciders | 116,606
 262 | CaptainCheeseCake | 115,981
@@ -291,7 +291,7 @@ Rank | Username | Totals Tips
 288 | H3adshotfox77 | 92,575
 289 | 192000Hertz | 92,257
 290 | CrossPuffs | 91,641
-291 | ItailianStallion101 | 91,508
+291 | ItailianStallion101 | 91,609
 292 | urlz | 91,281
 293 | DramaticProtogen | 90,274
 294 | Award-Bot | 90,000
