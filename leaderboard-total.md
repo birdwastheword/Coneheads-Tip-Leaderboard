@@ -1,4 +1,4 @@
-Last updated: 23-08-30 02:40:50 UTC  
+Last updated: 23-08-30 02:50:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -31,11 +31,11 @@ Rank | Username | Totals Tips
 28 | bigbilly1234567899 | 4,496,042
 29 | Ginomania | 4,488,648
 30 | Puddin-Luv | 4,478,505
-31 | redzrex | 4,400,337
+31 | redzrex | 4,400,757
 32 | birdwastheword | 4,310,724
 33 | IveDoneItAtLast | 4,308,510
 34 | rustyybikes | 4,263,025
-35 | VIVOffical | 3,966,071
+35 | VIVOffical | 3,966,877
 36 | clean_cut89 | 3,586,746
 37 | LuminousViper | 3,477,450
 38 | thom_orrow | 3,441,546
@@ -172,10 +172,10 @@ Rank | Username | Totals Tips
 169 | astro_nut_ | 280,463
 170 | maxfra | 279,459
 171 | FluffyAspie | 271,874
-172 | _Mitchee_ | 266,493
-173 | SetoXlll | 266,067
-174 | Flimsy_Brilliant_239 | 265,592
-175 | ultra_terrestrial | 260,500
+172 | ultra_terrestrial | 267,971
+173 | _Mitchee_ | 266,493
+174 | SetoXlll | 266,067
+175 | Flimsy_Brilliant_239 | 265,592
 176 | Hactar_42 | 256,832
 177 | tmanfromEarth | 256,392
 178 | thecrabdad | 256,177
