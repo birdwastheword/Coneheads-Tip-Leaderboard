@@ -1,4 +1,4 @@
-Last updated: 23-08-30 11:15:49 UTC  
+Last updated: 23-08-30 11:24:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -179,7 +179,7 @@ Rank | Username | Totals Tips
 176 | Hactar_42 | 256,832
 177 | tmanfromEarth | 256,392
 178 | thecrabdad | 256,177
-179 | Lillica_Golden_SHIB | 254,078
+179 | Lillica_Golden_SHIB | 254,147
 180 | Ambitious-Minimum-80 | 252,035
 181 | Sattack4000 | 250,837
 182 | SnooMacarons9203 | 249,556
@@ -253,7 +253,7 @@ Rank | Username | Totals Tips
 250 | Kevin3683 | 128,085
 251 | robnectar | 127,974
 252 | CalligrapherEnough83 | 127,227
-253 | BitcoinRefuge | 126,112
+253 | BitcoinRefuge | 127,112
 254 | Trakorr | 125,110
 255 | ZeMadMan1 | 122,599
 256 | Sativa55555 | 121,550
