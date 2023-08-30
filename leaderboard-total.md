@@ -1,4 +1,4 @@
-Last updated: 23-08-30 13:34:09 UTC  
+Last updated: 23-08-30 13:42:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 8,100,558
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,616,712
-19 | Real_Player_0 | 6,550,347
+19 | Real_Player_0 | 6,551,563
 20 | ashinamune | 6,304,723
 21 | Geniuskills | 6,274,902
 22 | SpookySYN | 5,748,458
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
-37 | thom_orrow | 3,517,035
+37 | thom_orrow | 3,521,035
 38 | LuminousViper | 3,477,450
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
@@ -469,8 +469,8 @@ Rank | Username | Totals Tips
 466 | Potential_Fix_5007 | 29,897
 467 | Gilbertll | 29,585
 468 | Rbmui13 | 29,245
-469 | FoleyKali | 28,843
-470 | Truffle_Shuffle_85 | 28,552
+469 | Truffle_Shuffle_85 | 28,972
+470 | FoleyKali | 28,843
 471 | Locid | 28,518
 472 | bentolman | 28,291
 473 | cryotosensei | 28,224
@@ -591,12 +591,12 @@ Rank | Username | Totals Tips
 588 | norjayy | 12,653
 589 | Potstar1 | 12,552
 590 | FixFull | 12,501
-591 | noah1754 | 12,435
-592 | wesleylyan | 12,257
-593 | bageren | 12,038
-594 | Weezthajuice | 12,007
-595 | gnarlypoop | 11,924
-596 | Dapper_Bloke88 | 11,842
+591 | Dapper_Bloke88 | 12,451
+592 | noah1754 | 12,435
+593 | wesleylyan | 12,257
+594 | bageren | 12,038
+595 | Weezthajuice | 12,007
+596 | gnarlypoop | 11,924
 597 | charlythesecond | 11,794
 598 | Hofmaurerad | 11,711
 599 | reddit_saltyaf | 11,603
