@@ -1,9 +1,9 @@
-Last updated: 23-08-31 07:30:47 UTC  
+Last updated: 23-08-31 07:40:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
 2 | Wonderful_Bad6531 | 34,830,585
-3 | nakamo-toe | 29,764,300
+3 | nakamo-toe | 29,892,339
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,106,229
 6 | waterhasnocalories | 23,470,101
@@ -28,11 +28,11 @@ Rank | Username | Totals Tips
 25 | _ships | 5,107,569
 26 | thelonliestcrowd | 4,804,732
 27 | rikbona | 4,540,773
-28 | Puddin-Luv | 4,505,394
+28 | Puddin-Luv | 4,531,863
 29 | bigbilly1234567899 | 4,496,042
 30 | Ginomania | 4,488,648
 31 | redzrex | 4,403,420
-32 | IveDoneItAtLast | 4,318,350
+32 | IveDoneItAtLast | 4,321,013
 33 | birdwastheword | 4,313,811
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
@@ -336,11 +336,11 @@ Rank | Username | Totals Tips
 333 | AnduriII | 68,313
 334 | Dazzling_Marzipan474 | 68,193
 335 | Friendly-Airline2426 | 66,547
-336 | imp3order | 65,546
-337 | damnusernamegotcutof | 65,004
-338 | zuzieey7719 | 64,549
-339 | ElmerBlack | 64,390
-340 | IHodlStill | 63,873
+336 | IHodlStill | 66,536
+337 | imp3order | 65,546
+338 | damnusernamegotcutof | 65,004
+339 | zuzieey7719 | 64,549
+340 | ElmerBlack | 64,390
 341 | Heycheckthisout20 | 63,382
 342 | guokaidi | 63,245
 343 | slug_tamer | 63,175
