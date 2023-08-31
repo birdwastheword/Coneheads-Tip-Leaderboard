@@ -1,4 +1,4 @@
-Last updated: 23-08-31 11:32:50 UTC  
+Last updated: 23-08-31 11:41:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | send420nudes | 2,551,237
 45 | DontLaughArt | 2,521,698
 46 | possibili-teas | 2,399,515
-47 | ImAlekBan | 2,328,080
+47 | ImAlekBan | 2,328,588
 48 | GuyOne | 2,254,715
 49 | Autom4tic_Soze | 2,172,126
 50 | Fenrir-1919 | 2,082,945
