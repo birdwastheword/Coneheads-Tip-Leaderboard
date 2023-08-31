@@ -1,4 +1,4 @@
-Last updated: 23-08-31 13:40:40 UTC  
+Last updated: 23-08-31 13:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | _ships | 5,119,519
 26 | thelonliestcrowd | 4,804,732
 27 | rikbona | 4,540,773
-28 | Puddin-Luv | 4,535,134
+28 | Puddin-Luv | 4,537,797
 29 | bigbilly1234567899 | 4,496,042
 30 | Ginomania | 4,488,648
 31 | redzrex | 4,403,420
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | Tinman_ApE | 339,784
 157 | Dripbot8 | 325,384
 158 | WhateverAlready | 316,461
-159 | ultra_terrestrial | 314,961
+159 | ultra_terrestrial | 315,381
 160 | EffinDrongoC | 312,738
 161 | x52x | 304,860
 162 | liwipe | 304,467
@@ -335,8 +335,8 @@ Rank | Username | Totals Tips
 332 | Yoda975 | 69,055
 333 | Tapiz3land | 68,942
 334 | Chill_Edoeard | 68,670
-335 | AnduriII | 68,313
-336 | Dazzling_Marzipan474 | 68,193
+335 | Dazzling_Marzipan474 | 68,613
+336 | AnduriII | 68,313
 337 | Friendly-Airline2426 | 66,547
 338 | IHodlStill | 66,536
 339 | imp3order | 65,546
