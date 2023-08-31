@@ -1,4 +1,4 @@
-Last updated: 23-08-31 21:34:45 UTC  
+Last updated: 23-08-31 21:43:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | IveDoneItAtLast | 4,335,816
 34 | rustyybikes | 4,263,336
 35 | VIVOffical | 3,973,009
-36 | clean_cut89 | 3,586,746
+36 | clean_cut89 | 3,589,409
 37 | thom_orrow | 3,555,229
 38 | LuminousViper | 3,478,058
 39 | ZukoBih | 3,403,115
@@ -418,14 +418,14 @@ Rank | Username | Totals Tips
 415 | Yirii | 40,605
 416 | Expensive_Being_4038 | 40,558
 417 | madridgalactico | 40,231
-418 | matdabom | 40,068
-419 | YourLocalDuskFox | 40,000
-420 | babuba1234321 | 40,000
-421 | alex_si_davies | 39,965
-422 | Zap1324 | 39,938
-423 | GuronT | 39,830
-424 | AMAxyz | 39,775
-425 | Lucabba | 39,698
+418 | Lucabba | 40,118
+419 | matdabom | 40,068
+420 | YourLocalDuskFox | 40,000
+421 | babuba1234321 | 40,000
+422 | alex_si_davies | 39,965
+423 | Zap1324 | 39,938
+424 | GuronT | 39,830
+425 | AMAxyz | 39,775
 426 | Mortifer6 | 39,669
 427 | waterincorporated | 39,428
 428 | mutinomonem | 38,823
@@ -520,8 +520,8 @@ Rank | Username | Totals Tips
 517 | DrD_D | 21,509
 518 | Tasty_Bag | 21,384
 519 | Flamingo777 | 21,275
-520 | RamboBalboa21 | 21,083
-521 | foreignGER | 20,827
+520 | foreignGER | 21,247
+521 | RamboBalboa21 | 21,083
 522 | shootingeagleyt | 20,611
 523 | mihii12 | 20,469
 524 | -Boxen | 20,420
