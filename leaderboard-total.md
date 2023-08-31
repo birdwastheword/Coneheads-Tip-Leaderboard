@@ -1,9 +1,9 @@
-Last updated: 23-08-31 18:27:44 UTC  
+Last updated: 23-08-31 18:40:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
 2 | Wonderful_Bad6531 | 34,883,911
-3 | nakamo-toe | 30,696,321
+3 | nakamo-toe | 30,702,401
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,108,892
 6 | waterhasnocalories | 24,390,791
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,555,888
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 10,711,339
+11 | cutsickass | 10,801,339
 12 | SammyCraigar | 8,966,168
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,379
@@ -19,10 +19,10 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 8,100,558
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,658,781
-19 | Real_Player_0 | 6,561,195
-20 | ashinamune | 6,386,905
-21 | Geniuskills | 6,323,940
-22 | _ships | 6,176,707
+19 | _ships | 6,626,699
+20 | Real_Player_0 | 6,561,195
+21 | ashinamune | 6,386,905
+22 | Geniuskills | 6,323,940
 23 | SpookySYN | 5,748,458
 24 | Skank_cunt_42 | 5,467,162
 25 | HippieStarTraveler | 5,252,680
