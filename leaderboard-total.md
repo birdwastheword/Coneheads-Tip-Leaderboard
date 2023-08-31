@@ -1,4 +1,4 @@
-Last updated: 23-08-31 14:34:45 UTC  
+Last updated: 23-08-31 14:43:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -158,8 +158,8 @@ Rank | Username | Totals Tips
 155 | tsudrat | 340,707
 156 | Tinman_ApE | 339,784
 157 | Dripbot8 | 325,384
-158 | WhateverAlready | 316,461
-159 | ultra_terrestrial | 315,381
+158 | ultra_terrestrial | 319,581
+159 | WhateverAlready | 316,461
 160 | EffinDrongoC | 312,738
 161 | x52x | 304,860
 162 | liwipe | 304,467
