@@ -1,4 +1,4 @@
-Last updated: 23-08-31 15:00:57 UTC  
+Last updated: 23-08-31 15:23:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | send420nudes | 2,551,237
 45 | DontLaughArt | 2,521,698
 46 | possibili-teas | 2,399,515
-47 | ImAlekBan | 2,340,246
+47 | ImAlekBan | 2,340,854
 48 | GuyOne | 2,254,715
 49 | Autom4tic_Soze | 2,172,126
 50 | Fenrir-1919 | 2,082,945
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | 0-Give-a-fucks | 1,841,666
 58 | dealkhabari | 1,760,620
 59 | Ten-Mins-Late | 1,706,113
-60 | investigator100 | 1,620,712
+60 | investigator100 | 1,621,320
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
 63 | evilninjarobot | 1,457,250
@@ -144,7 +144,7 @@ Rank | Username | Totals Tips
 141 | DogSpark84 | 397,690
 142 | PortCity_MadMan | 394,221
 143 | Creepy-Nectarine-225 | 389,511
-144 | CHEROKEEJ4CK | 388,050
+144 | CHEROKEEJ4CK | 388,890
 145 | SHIFTY-T3RROR | 380,120
 146 | zenhodl | 374,566
 147 | hellosamaira | 373,235
@@ -217,7 +217,7 @@ Rank | Username | Totals Tips
 214 | ShortBusCult | 192,925
 215 | TummyLice | 192,460
 216 | bakerdawg555 | 192,028
-217 | Most_Being_4002 | 184,574
+217 | Most_Being_4002 | 184,994
 218 | TubeNerd92 | 184,257
 219 | nooobmaester69 | 183,460
 220 | DAMG808 | 181,277
@@ -238,9 +238,9 @@ Rank | Username | Totals Tips
 235 | NotFullyTerrestrial | 150,694
 236 | satoshi_oscar_wilde | 150,072
 237 | BitcoinRefuge | 146,181
-238 | Doovs | 143,375
-239 | Sad_Entertainer9961 | 143,248
-240 | yahuurdme | 141,511
+238 | yahuurdme | 144,174
+239 | Doovs | 143,375
+240 | Sad_Entertainer9961 | 143,248
 241 | SalliIsAFem | 140,361
 242 | luisantonio197 | 139,511
 243 | Clonkerz | 138,006
@@ -397,7 +397,7 @@ Rank | Username | Totals Tips
 394 | sicilian2124 | 46,866
 395 | shredslanding | 46,650
 396 | Oue | 46,352
-397 | skatistic | 45,591
+397 | skatistic | 46,011
 398 | Drlitez | 45,436
 399 | NickkyDC | 45,379
 400 | tentazoc | 45,078
