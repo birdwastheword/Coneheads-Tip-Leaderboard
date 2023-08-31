@@ -1,4 +1,4 @@
-Last updated: 23-08-31 08:41:01 UTC  
+Last updated: 23-08-31 08:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Ginomania | 4,488,648
 31 | redzrex | 4,403,420
 32 | IveDoneItAtLast | 4,323,676
-33 | birdwastheword | 4,318,035
+33 | birdwastheword | 4,318,060
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | KONGXIANG | 1,531,785
 62 | bray_martin03 | 1,518,176
 63 | evilninjarobot | 1,457,250
-64 | djrcollectables | 1,382,288
+64 | djrcollectables | 1,384,951
 65 | isthistomorrow_ | 1,366,127
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
