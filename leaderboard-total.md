@@ -1,4 +1,4 @@
-Last updated: 23-08-31 08:27:32 UTC  
+Last updated: 23-08-31 08:41:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
@@ -25,7 +25,7 @@ Rank | Username | Totals Tips
 22 | SpookySYN | 5,748,458
 23 | Skank_cunt_42 | 5,467,162
 24 | HippieStarTraveler | 5,252,611
-25 | _ships | 5,107,569
+25 | _ships | 5,119,519
 26 | thelonliestcrowd | 4,804,732
 27 | rikbona | 4,540,773
 28 | Puddin-Luv | 4,531,863
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Ginomania | 4,488,648
 31 | redzrex | 4,403,420
 32 | IveDoneItAtLast | 4,323,676
-33 | birdwastheword | 4,313,811
+33 | birdwastheword | 4,318,035
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
@@ -138,7 +138,7 @@ Rank | Username | Totals Tips
 135 | unhingedbigfoot | 439,874
 136 | RazPie | 429,317
 137 | Mopeiooo | 427,266
-138 | Crypto-4-Freedom | 425,818
+138 | Crypto-4-Freedom | 426,238
 139 | dronegeeks1 | 414,406
 140 | LrnFaroeseWthBergur | 409,488
 141 | DogSpark84 | 397,690
@@ -254,8 +254,8 @@ Rank | Username | Totals Tips
 251 | Kevin3683 | 128,085
 252 | robnectar | 127,974
 253 | CalligrapherEnough83 | 127,227
-254 | Trakorr | 125,110
-255 | ZeMadMan1 | 122,599
+254 | ZeMadMan1 | 125,262
+255 | Trakorr | 125,110
 256 | Sativa55555 | 121,550
 257 | wato4000 | 121,465
 258 | stupidcupid112 | 121,421
