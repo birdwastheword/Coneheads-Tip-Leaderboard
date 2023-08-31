@@ -1,4 +1,4 @@
-Last updated: 23-08-31 15:35:01 UTC  
+Last updated: 23-08-31 15:43:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -424,9 +424,9 @@ Rank | Username | Totals Tips
 421 | Zap1324 | 39,938
 422 | GuronT | 39,830
 423 | AMAxyz | 39,775
-424 | Mortifer6 | 39,669
-425 | waterincorporated | 39,428
-426 | Lucabba | 39,278
+424 | Lucabba | 39,698
+425 | Mortifer6 | 39,669
+426 | waterincorporated | 39,428
 427 | mutinomonem | 38,823
 428 | chaud3r | 38,290
 429 | lovenets_ | 38,182
