@@ -1,17 +1,17 @@
-Last updated: 23-08-31 17:50:31 UTC  
+Last updated: 23-08-31 18:27:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
 2 | Wonderful_Bad6531 | 34,883,911
-3 | nakamo-toe | 30,692,119
+3 | nakamo-toe | 30,696,321
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,108,892
-6 | waterhasnocalories | 23,970,101
+6 | waterhasnocalories | 24,390,791
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,555,888
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 10,651,339
+11 | cutsickass | 10,711,339
 12 | SammyCraigar | 8,966,168
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,379
@@ -22,10 +22,10 @@ Rank | Username | Totals Tips
 19 | Real_Player_0 | 6,561,195
 20 | ashinamune | 6,386,905
 21 | Geniuskills | 6,323,940
-22 | SpookySYN | 5,748,458
-23 | Skank_cunt_42 | 5,467,162
-24 | HippieStarTraveler | 5,252,680
-25 | _ships | 5,119,519
+22 | _ships | 6,176,707
+23 | SpookySYN | 5,748,458
+24 | Skank_cunt_42 | 5,467,162
+25 | HippieStarTraveler | 5,252,680
 26 | thelonliestcrowd | 4,810,058
 27 | rikbona | 4,540,773
 28 | Puddin-Luv | 4,537,797
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | birdwastheword | 4,360,184
 33 | IveDoneItAtLast | 4,329,808
 34 | rustyybikes | 4,263,025
-35 | VIVOffical | 3,970,346
+35 | VIVOffical | 3,973,009
 36 | clean_cut89 | 3,586,746
 37 | thom_orrow | 3,555,229
 38 | LuminousViper | 3,478,058
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | zdubs | 1,915,772
 56 | catlover-100 | 1,913,578
 57 | 0-Give-a-fucks | 1,841,666
-58 | dealkhabari | 1,760,620
+58 | dealkhabari | 1,763,283
 59 | Ten-Mins-Late | 1,706,113
 60 | investigator100 | 1,621,320
 61 | GooderZBK | 1,614,604
@@ -75,9 +75,9 @@ Rank | Username | Totals Tips
 72 | HestiaIsTheBestia | 1,188,046
 73 | Richicash | 1,181,855
 74 | Feetfailmenot | 1,151,105
-75 | beastlybaker | 1,138,701
-76 | LongCauliflower6791 | 1,122,440
-77 | Hot_Potato_Salad | 1,079,726
+75 | Hot_Potato_Salad | 1,146,957
+76 | beastlybaker | 1,138,701
+77 | LongCauliflower6791 | 1,122,440
 78 | freechickens | 1,028,386
 79 | avatarbot | 1,027,000
 80 | WarmBiertje | 1,000,000
@@ -218,7 +218,7 @@ Rank | Username | Totals Tips
 215 | TummyLice | 192,460
 216 | bakerdawg555 | 192,028
 217 | Most_Being_4002 | 184,994
-218 | TubeNerd92 | 184,257
+218 | TubeNerd92 | 184,677
 219 | nooobmaester69 | 183,460
 220 | DAMG808 | 181,277
 221 | ruccarucca | 180,270
@@ -237,8 +237,8 @@ Rank | Username | Totals Tips
 234 | CoverYourMaskHoles | 151,719
 235 | NotFullyTerrestrial | 150,694
 236 | satoshi_oscar_wilde | 150,072
-237 | BitcoinRefuge | 146,181
-238 | yahuurdme | 144,594
+237 | yahuurdme | 149,283
+238 | BitcoinRefuge | 146,181
 239 | Doovs | 143,375
 240 | Sad_Entertainer9961 | 143,248
 241 | SalliIsAFem | 140,361

@@ -95,5 +95,6 @@ Rank | Date | Username | Tip size | to User
 92 | 2023-08-26 19:46:09 | 002_timmy | 1,000,000| GuyOne
 93 | 2023-08-27 08:15:14 | DontLaughArt | 1,000,000| GuyOne
 94 | 2023-08-29 02:54:39 | Mundane-Farm-4117 | 1,000,000| SpookySYN
+95 | 2023-08-31 17:51:47 | _ships | 1,000,000| GuyOne
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
