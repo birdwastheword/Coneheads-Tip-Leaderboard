@@ -1,4 +1,4 @@
-Last updated: 23-08-31 11:50:59 UTC  
+Last updated: 23-08-31 12:52:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
@@ -28,12 +28,12 @@ Rank | Username | Totals Tips
 25 | _ships | 5,119,519
 26 | thelonliestcrowd | 4,804,732
 27 | rikbona | 4,540,773
-28 | Puddin-Luv | 4,531,863
+28 | Puddin-Luv | 4,534,526
 29 | bigbilly1234567899 | 4,496,042
 30 | Ginomania | 4,488,648
 31 | redzrex | 4,403,420
-32 | IveDoneItAtLast | 4,323,676
-33 | birdwastheword | 4,318,060
+32 | birdwastheword | 4,360,184
+33 | IveDoneItAtLast | 4,323,676
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | send420nudes | 2,551,237
 45 | DontLaughArt | 2,521,698
 46 | possibili-teas | 2,399,515
-47 | ImAlekBan | 2,328,588
+47 | ImAlekBan | 2,331,759
 48 | GuyOne | 2,254,715
 49 | Autom4tic_Soze | 2,172,126
 50 | Fenrir-1919 | 2,082,945
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | isthistomorrow_ | 1,366,127
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
-68 | ValiantJudge29500 | 1,322,307
+68 | ValiantJudge29500 | 1,332,307
 69 | CMDRGlamdring | 1,279,444
 70 | revdrgonzo | 1,235,635
 71 | saintajoras | 1,220,595
@@ -122,8 +122,8 @@ Rank | Username | Totals Tips
 119 | StepAsideSuckers | 540,695
 120 | scientifichistorian | 539,560
 121 | shreyaskg | 538,211
-122 | doktastonks | 521,325
-123 | Korean_Street_Pizza | 518,490
+122 | Korean_Street_Pizza | 521,490
+123 | doktastonks | 521,325
 124 | junkwatch | 514,880
 125 | Allions1 | 513,773
 126 | f0n1xr131ng | 509,681
@@ -158,8 +158,8 @@ Rank | Username | Totals Tips
 155 | Tinman_ApE | 339,784
 156 | Dripbot8 | 325,384
 157 | WhateverAlready | 316,461
-158 | EffinDrongoC | 312,738
-159 | ultra_terrestrial | 312,703
+158 | ultra_terrestrial | 314,961
+159 | EffinDrongoC | 312,738
 160 | x52x | 304,860
 161 | liwipe | 304,467
 162 | VincentVanGTFO | 300,598
@@ -297,13 +297,13 @@ Rank | Username | Totals Tips
 294 | Award-Bot | 90,000
 295 | MedicalJockey | 89,083
 296 | Burzzzt88 | 88,571
-297 | HokkaidoNights | 88,108
-298 | ShopALF | 87,942
-299 | kwickle | 87,805
-300 | qwertywich | 87,473
-301 | jurgensdapimp | 86,817
-302 | Mother-Werewolf185 | 85,579
-303 | xSkyFa11x | 85,459
+297 | xSkyFa11x | 88,122
+298 | HokkaidoNights | 88,108
+299 | ShopALF | 87,942
+300 | kwickle | 87,805
+301 | qwertywich | 87,473
+302 | jurgensdapimp | 86,817
+303 | Mother-Werewolf185 | 85,579
 304 | Puzzleheaded_Gift738 | 84,020
 305 | AhhhUhmmm | 83,884
 306 | RollingSkull0 | 83,098
