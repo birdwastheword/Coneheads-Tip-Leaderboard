@@ -1,4 +1,4 @@
-Last updated: 23-08-31 22:33:18 UTC  
+Last updated: 23-08-31 22:41:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -117,13 +117,13 @@ Rank | Username | Totals Tips
 114 | superlonelyboy | 591,419
 115 | Independent_Heart_15 | 578,825
 116 | formidable-opponent | 565,848
-117 | nichnotnick | 556,778
-118 | dopelifer09 | 554,938
-119 | StepAsideSuckers | 540,695
-120 | scientifichistorian | 539,560
-121 | shreyaskg | 538,211
-122 | Korean_Street_Pizza | 526,816
-123 | CHEROKEEJ4CK | 523,402
+117 | CHEROKEEJ4CK | 565,471
+118 | nichnotnick | 556,778
+119 | dopelifer09 | 554,938
+120 | StepAsideSuckers | 540,695
+121 | scientifichistorian | 539,560
+122 | shreyaskg | 538,211
+123 | Korean_Street_Pizza | 526,816
 124 | doktastonks | 521,325
 125 | junkwatch | 515,720
 126 | Allions1 | 513,773
