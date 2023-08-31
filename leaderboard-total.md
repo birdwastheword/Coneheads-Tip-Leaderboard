@@ -1,4 +1,4 @@
-Last updated: 23-08-31 11:15:58 UTC  
+Last updated: 23-08-31 11:24:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | LuminousViper | 3,477,450
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
-41 | LordBobTheWhale | 3,069,726
+41 | LordBobTheWhale | 3,111,795
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | YarOldeOrchard | 1,340,375
 68 | ValiantJudge29500 | 1,322,307
 69 | CMDRGlamdring | 1,279,444
-70 | revdrgonzo | 1,235,215
+70 | revdrgonzo | 1,235,635
 71 | saintajoras | 1,220,595
 72 | HestiaIsTheBestia | 1,188,046
 73 | Richicash | 1,181,855
@@ -179,7 +179,7 @@ Rank | Username | Totals Tips
 176 | Hactar_42 | 256,832
 177 | tmanfromEarth | 256,392
 178 | thecrabdad | 256,177
-179 | Lillica_Golden_SHIB | 254,423
+179 | Lillica_Golden_SHIB | 254,630
 180 | Ambitious-Minimum-80 | 252,035
 181 | Sattack4000 | 250,837
 182 | SnooMacarons9203 | 249,556
