@@ -1,4 +1,4 @@
-Last updated: 23-08-31 05:24:58 UTC  
+Last updated: 23-08-31 05:34:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,483,198
@@ -124,7 +124,7 @@ Rank | Username | Totals Tips
 121 | shreyaskg | 538,211
 122 | doktastonks | 521,325
 123 | Korean_Street_Pizza | 518,490
-124 | junkwatch | 514,460
+124 | junkwatch | 514,880
 125 | Allions1 | 510,704
 126 | f0n1xr131ng | 509,681
 127 | MorrisBrett514 | 507,872
