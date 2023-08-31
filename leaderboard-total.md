@@ -1,4 +1,4 @@
-Last updated: 23-08-31 14:26:41 UTC  
+Last updated: 23-08-31 14:34:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
 68 | ValiantJudge29500 | 1,332,307
-69 | CMDRGlamdring | 1,279,944
+69 | CMDRGlamdring | 1,284,944
 70 | revdrgonzo | 1,235,635
 71 | saintajoras | 1,220,595
 72 | HestiaIsTheBestia | 1,188,046
@@ -144,10 +144,10 @@ Rank | Username | Totals Tips
 141 | DogSpark84 | 397,690
 142 | PortCity_MadMan | 394,221
 143 | Creepy-Nectarine-225 | 389,511
-144 | SHIFTY-T3RROR | 380,120
-145 | zenhodl | 374,566
-146 | hellosamaira | 373,235
-147 | CHEROKEEJ4CK | 370,287
+144 | CHEROKEEJ4CK | 388,050
+145 | SHIFTY-T3RROR | 380,120
+146 | zenhodl | 374,566
+147 | hellosamaira | 373,235
 148 | AustinTX1985 | 368,863
 149 | farmertypoerror | 359,212
 150 | Lion-Hermit | 354,884
