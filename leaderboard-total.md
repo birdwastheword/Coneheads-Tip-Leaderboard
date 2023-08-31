@@ -1,4 +1,4 @@
-Last updated: 23-08-31 23:19:25 UTC  
+Last updated: 23-08-31 23:30:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | SpookySYN | 5,748,458
 24 | Skank_cunt_42 | 5,467,162
 25 | HippieStarTraveler | 5,252,680
-26 | thelonliestcrowd | 4,818,047
+26 | thelonliestcrowd | 4,820,310
 27 | rikbona | 4,540,773
 28 | Puddin-Luv | 4,537,797
 29 | Ginomania | 4,517,941
@@ -110,14 +110,14 @@ Rank | Username | Totals Tips
 107 | piebagz | 661,815
 108 | Obi1eyeKenobi | 652,339
 109 | MartynDr | 651,840
-110 | femacampcouncilor | 642,812
-111 | slirpo | 631,180
-112 | __PDS__ | 595,709
-113 | El_Gordone | 592,784
-114 | superlonelyboy | 591,419
-115 | Independent_Heart_15 | 578,825
-116 | formidable-opponent | 565,848
-117 | CHEROKEEJ4CK | 565,787
+110 | CHEROKEEJ4CK | 649,925
+111 | femacampcouncilor | 642,812
+112 | slirpo | 631,180
+113 | __PDS__ | 595,709
+114 | El_Gordone | 592,784
+115 | superlonelyboy | 591,419
+116 | Independent_Heart_15 | 578,825
+117 | formidable-opponent | 565,848
 118 | nichnotnick | 556,778
 119 | dopelifer09 | 554,938
 120 | StepAsideSuckers | 540,695
