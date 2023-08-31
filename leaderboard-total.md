@@ -1,4 +1,4 @@
-Last updated: 23-08-31 18:51:02 UTC  
+Last updated: 23-08-31 19:12:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -6,12 +6,12 @@ Rank | Username | Totals Tips
 3 | nakamo-toe | 30,702,401
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,108,892
-6 | waterhasnocalories | 24,390,791
+6 | waterhasnocalories | 25,087,760
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,555,888
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 10,801,339
+11 | cutsickass | 10,831,339
 12 | SammyCraigar | 8,966,168
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,379
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | SpookySYN | 5,748,458
 24 | Skank_cunt_42 | 5,467,162
 25 | HippieStarTraveler | 5,252,680
-26 | thelonliestcrowd | 4,810,058
+26 | thelonliestcrowd | 4,812,721
 27 | rikbona | 4,540,773
 28 | Puddin-Luv | 4,537,797
 29 | bigbilly1234567899 | 4,496,042
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | redzrex | 4,403,420
 32 | birdwastheword | 4,360,184
 33 | IveDoneItAtLast | 4,329,808
-34 | rustyybikes | 4,263,025
+34 | rustyybikes | 4,263,336
 35 | VIVOffical | 3,973,009
 36 | clean_cut89 | 3,586,746
 37 | thom_orrow | 3,555,229
