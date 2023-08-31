@@ -1,4 +1,4 @@
-Last updated: 23-08-31 08:50:36 UTC  
+Last updated: 23-08-31 09:20:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
@@ -76,7 +76,7 @@ Rank | Username | Totals Tips
 73 | Richicash | 1,181,855
 74 | Feetfailmenot | 1,151,105
 75 | beastlybaker | 1,138,701
-76 | LongCauliflower6791 | 1,089,107
+76 | LongCauliflower6791 | 1,122,440
 77 | Hot_Potato_Salad | 1,079,726
 78 | freechickens | 1,028,386
 79 | avatarbot | 1,027,000
