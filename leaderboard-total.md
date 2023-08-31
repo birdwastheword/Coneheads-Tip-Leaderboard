@@ -1,4 +1,4 @@
-Last updated: 23-08-31 15:23:54 UTC  
+Last updated: 23-08-31 15:35:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -181,7 +181,7 @@ Rank | Username | Totals Tips
 178 | Hactar_42 | 256,832
 179 | tmanfromEarth | 256,392
 180 | thecrabdad | 256,177
-181 | Lillica_Golden_SHIB | 254,630
+181 | Lillica_Golden_SHIB | 254,837
 182 | Ambitious-Minimum-80 | 252,035
 183 | Sattack4000 | 250,837
 184 | SnooMacarons9203 | 249,556
@@ -344,9 +344,9 @@ Rank | Username | Totals Tips
 341 | zuzieey7719 | 64,549
 342 | ElmerBlack | 64,390
 343 | Iulian_TechNewb | 63,965
-344 | guokaidi | 63,245
-345 | slug_tamer | 63,175
-346 | shellystarzz | 62,826
+344 | shellystarzz | 63,434
+345 | guokaidi | 63,245
+346 | slug_tamer | 63,175
 347 | netnemirepxE | 62,645
 348 | meth43 | 62,596
 349 | Emeritux | 62,504
