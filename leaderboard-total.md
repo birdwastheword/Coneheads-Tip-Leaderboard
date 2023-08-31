@@ -1,4 +1,4 @@
-Last updated: 23-08-31 18:40:55 UTC  
+Last updated: 23-08-31 18:51:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 8,100,558
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,658,781
-19 | _ships | 6,626,699
+19 | _ships | 6,629,022
 20 | Real_Player_0 | 6,561,195
 21 | ashinamune | 6,386,905
 22 | Geniuskills | 6,323,940
@@ -358,14 +358,14 @@ Rank | Username | Totals Tips
 355 | Creative_Ad7831 | 59,909
 356 | Big-Ticket1506 | 59,666
 357 | -geek | 59,318
-358 | RepublicRude6350 | 58,754
-359 | Wildspliffosis | 58,703
-360 | meme_used | 58,516
-361 | Trink333 | 58,338
-362 | preemcuz | 58,314
-363 | phrodreky | 57,984
-364 | Outrageous_Storm6537 | 56,938
-365 | Dboythegreat | 56,643
+358 | Dboythegreat | 59,306
+359 | RepublicRude6350 | 58,754
+360 | Wildspliffosis | 58,703
+361 | meme_used | 58,516
+362 | Trink333 | 58,338
+363 | preemcuz | 58,314
+364 | phrodreky | 57,984
+365 | Outrageous_Storm6537 | 56,938
 366 | ProfessionalIcy6456 | 56,380
 367 | Bandit_005 | 56,303
 368 | chuloreddit | 55,878
