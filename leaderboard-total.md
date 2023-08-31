@@ -1,4 +1,4 @@
-Last updated: 23-08-31 22:50:53 UTC  
+Last updated: 23-08-31 23:19:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -11,9 +11,9 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,555,888
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 11,071,339
+11 | cutsickass | 11,101,339
 12 | _ships | 10,680,160
-13 | SammyCraigar | 8,966,168
+13 | SammyCraigar | 8,968,831
 14 | 8inchConer | 8,947,480
 15 | ArtConsitent | 8,532,379
 16 | Permanent_WSB_Bull | 8,522,155
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,658,781
 20 | Real_Player_0 | 6,561,195
-21 | ashinamune | 6,413,535
+21 | ashinamune | 6,414,143
 22 | Geniuskills | 6,323,940
 23 | SpookySYN | 5,748,458
 24 | Skank_cunt_42 | 5,467,162
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | ValiantJudge29500 | 1,332,307
 69 | CMDRGlamdring | 1,284,944
 70 | revdrgonzo | 1,235,635
-71 | saintajoras | 1,223,258
+71 | saintajoras | 1,228,584
 72 | HestiaIsTheBestia | 1,188,046
 73 | Richicash | 1,181,855
 74 | Feetfailmenot | 1,151,105
@@ -117,7 +117,7 @@ Rank | Username | Totals Tips
 114 | superlonelyboy | 591,419
 115 | Independent_Heart_15 | 578,825
 116 | formidable-opponent | 565,848
-117 | CHEROKEEJ4CK | 565,471
+117 | CHEROKEEJ4CK | 565,787
 118 | nichnotnick | 556,778
 119 | dopelifer09 | 554,938
 120 | StepAsideSuckers | 540,695
@@ -200,11 +200,11 @@ Rank | Username | Totals Tips
 197 | Beenthorny | 212,362
 198 | SigSalvadore | 212,358
 199 | the_judge_168 | 212,146
-200 | Significant_Talk4943 | 211,599
-201 | Adrewmc | 211,177
-202 | UWphoto | 209,795
-203 | Final-Scar-941 | 208,792
-204 | fettskull | 206,322
+200 | fettskull | 211,648
+201 | Significant_Talk4943 | 211,599
+202 | Adrewmc | 211,177
+203 | UWphoto | 209,795
+204 | Final-Scar-941 | 208,792
 205 | Ashamed_Raccoon9918 | 205,858
 206 | Esco1980 | 204,434
 207 | jimfird | 203,842
