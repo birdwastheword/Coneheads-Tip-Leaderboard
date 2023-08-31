@@ -1,4 +1,4 @@
-Last updated: 23-08-31 21:16:41 UTC  
+Last updated: 23-08-31 21:25:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,555,888
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 10,981,339
+11 | cutsickass | 11,011,339
 12 | _ships | 10,662,066
 13 | SammyCraigar | 8,966,168
 14 | 8inchConer | 8,947,480
@@ -262,9 +262,9 @@ Rank | Username | Totals Tips
 259 | wato4000 | 121,465
 260 | stupidcupid112 | 121,421
 261 | Schl0tz | 120,000
-262 | street_shark_puppet | 116,891
-263 | lordciders | 116,606
-264 | pythonskynet | 116,534
+262 | pythonskynet | 116,954
+263 | street_shark_puppet | 116,891
+264 | lordciders | 116,606
 265 | CaptainCheeseCake | 115,981
 266 | mvea | 115,748
 267 | xSkyFa11x | 114,752
