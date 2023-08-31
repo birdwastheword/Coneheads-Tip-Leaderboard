@@ -1,4 +1,4 @@
-Last updated: 23-08-31 21:43:02 UTC  
+Last updated: 23-08-31 21:51:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
 11 | cutsickass | 11,011,339
-12 | _ships | 10,662,066
+12 | _ships | 10,664,729
 13 | SammyCraigar | 8,966,168
 14 | 8inchConer | 8,947,480
 15 | ArtConsitent | 8,532,379
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,658,781
 20 | Real_Player_0 | 6,561,195
-21 | ashinamune | 6,386,905
+21 | ashinamune | 6,413,535
 22 | Geniuskills | 6,323,940
 23 | SpookySYN | 5,748,458
 24 | Skank_cunt_42 | 5,467,162
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | birdwastheword | 4,360,184
 33 | IveDoneItAtLast | 4,335,816
 34 | rustyybikes | 4,263,336
-35 | VIVOffical | 3,973,009
+35 | VIVOffical | 3,975,672
 36 | clean_cut89 | 3,589,409
 37 | thom_orrow | 3,555,229
 38 | LuminousViper | 3,478,058
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | Korean_Street_Pizza | 526,816
 123 | CHEROKEEJ4CK | 523,402
 124 | doktastonks | 521,325
-125 | junkwatch | 515,300
+125 | junkwatch | 515,720
 126 | Allions1 | 513,773
 127 | f0n1xr131ng | 509,681
 128 | MorrisBrett514 | 507,872
