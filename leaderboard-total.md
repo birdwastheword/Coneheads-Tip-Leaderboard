@@ -1,4 +1,4 @@
-Last updated: 23-08-31 19:31:03 UTC  
+Last updated: 23-08-31 19:40:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -19,14 +19,14 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 8,100,558
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,658,781
-19 | _ships | 6,629,022
+19 | _ships | 7,326,021
 20 | Real_Player_0 | 6,561,195
 21 | ashinamune | 6,386,905
 22 | Geniuskills | 6,323,940
 23 | SpookySYN | 5,748,458
 24 | Skank_cunt_42 | 5,467,162
 25 | HippieStarTraveler | 5,252,680
-26 | thelonliestcrowd | 4,812,721
+26 | thelonliestcrowd | 4,815,384
 27 | rikbona | 4,540,773
 28 | Puddin-Luv | 4,537,797
 29 | bigbilly1234567899 | 4,496,042
