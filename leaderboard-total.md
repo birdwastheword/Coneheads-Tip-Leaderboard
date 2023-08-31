@@ -1,4 +1,4 @@
-Last updated: 23-08-31 22:41:30 UTC  
+Last updated: 23-08-31 22:50:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -11,8 +11,8 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,555,888
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 11,041,339
-12 | _ships | 10,668,000
+11 | cutsickass | 11,071,339
+12 | _ships | 10,680,160
 13 | SammyCraigar | 8,966,168
 14 | 8inchConer | 8,947,480
 15 | ArtConsitent | 8,532,379
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | bigbilly1234567899 | 4,496,042
 31 | redzrex | 4,403,420
 32 | birdwastheword | 4,360,184
-33 | IveDoneItAtLast | 4,335,816
+33 | IveDoneItAtLast | 4,338,479
 34 | rustyybikes | 4,263,336
 35 | VIVOffical | 3,975,672
 36 | clean_cut89 | 3,589,409
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | StepAsideSuckers | 540,695
 121 | scientifichistorian | 539,560
 122 | shreyaskg | 538,211
-123 | Korean_Street_Pizza | 526,816
+123 | Korean_Street_Pizza | 529,479
 124 | doktastonks | 521,325
 125 | junkwatch | 515,720
 126 | Allions1 | 513,773
@@ -465,9 +465,9 @@ Rank | Username | Totals Tips
 462 | Atorcran | 30,809
 463 | keyoh321 | 30,734
 464 | rOn3OW | 30,714
-465 | LoudlySoupy | 30,408
-466 | MaestroMustache | 30,152
-467 | masedogg98 | 30,127
+465 | masedogg98 | 30,547
+466 | LoudlySoupy | 30,408
+467 | MaestroMustache | 30,152
 468 | Potential_Fix_5007 | 29,897
 469 | Gilbertll | 29,585
 470 | Rbmui13 | 29,245
