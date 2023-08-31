@@ -1,4 +1,4 @@
-Last updated: 23-08-31 14:51:26 UTC  
+Last updated: 23-08-31 15:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -56,7 +56,7 @@ Rank | Username | Totals Tips
 53 | swampyswede | 1,928,909
 54 | bray_martin03 | 1,918,176
 55 | catlover-100 | 1,913,578
-56 | zdubs | 1,883,136
+56 | zdubs | 1,909,766
 57 | 0-Give-a-fucks | 1,841,666
 58 | dealkhabari | 1,760,620
 59 | Ten-Mins-Late | 1,706,113
@@ -229,7 +229,7 @@ Rank | Username | Totals Tips
 226 | MymannosaurusRex | 171,317
 227 | high5s_inureye | 168,388
 228 | DamnWhySoLow | 166,675
-229 | MelonFarmer420 | 164,196
+229 | MelonFarmer420 | 165,456
 230 | Lastkidpicked94 | 157,397
 231 | 6reficul | 153,884
 232 | martymartinator | 152,560
