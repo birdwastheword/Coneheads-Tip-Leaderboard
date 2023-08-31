@@ -1,4 +1,4 @@
-Last updated: 23-08-31 10:28:44 UTC  
+Last updated: 23-08-31 10:40:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
@@ -186,8 +186,8 @@ Rank | Username | Totals Tips
 183 | Gregoryonetulum | 249,309
 184 | BeardedBro_ | 248,627
 185 | thestonkinator | 246,260
-186 | tjex666 | 240,801
-187 | coolpattakers | 238,373
+186 | coolpattakers | 241,036
+187 | tjex666 | 240,801
 188 | MisterM0H0 | 237,708
 189 | cannainform2 | 236,660
 190 | Zalkwalker | 235,069
