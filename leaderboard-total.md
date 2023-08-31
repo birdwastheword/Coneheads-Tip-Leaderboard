@@ -1,4 +1,4 @@
-Last updated: 23-08-31 11:41:09 UTC  
+Last updated: 23-08-31 11:50:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
@@ -84,7 +84,7 @@ Rank | Username | Totals Tips
 81 | EvanIsBacon | 970,416
 82 | UniversalNoobMaster | 969,084
 83 | Forward_Today2849 | 932,405
-84 | ID404_Not_Found_8964 | 910,620
+84 | ID404_Not_Found_8964 | 911,730
 85 | Modestexcuse | 903,684
 86 | CluelessSurvivor | 902,466
 87 | thee_monster | 896,765
@@ -281,11 +281,11 @@ Rank | Username | Totals Tips
 278 | redditinchina | 102,781
 279 | deathtr0 | 102,541
 280 | ACorDC | 100,420
-281 | customsolitaires | 99,383
-282 | beanwiggin420 | 98,432
-283 | FeetAndHandFetish | 98,146
-284 | Knaeggebrott | 97,076
-285 | ItailianStallion101 | 97,036
+281 | ItailianStallion101 | 99,699
+282 | customsolitaires | 99,383
+283 | beanwiggin420 | 98,432
+284 | FeetAndHandFetish | 98,146
+285 | Knaeggebrott | 97,076
 286 | IOTA_Tesla | 96,607
 287 | BrendanTFirefly | 95,347
 288 | wolfman333 | 93,986
@@ -469,8 +469,8 @@ Rank | Username | Totals Tips
 466 | masedogg98 | 30,127
 467 | Potential_Fix_5007 | 29,897
 468 | Gilbertll | 29,585
-469 | Rbmui13 | 29,245
-470 | Truffle_Shuffle_85 | 28,972
+469 | Truffle_Shuffle_85 | 29,392
+470 | Rbmui13 | 29,245
 471 | FoleyKali | 28,843
 472 | Locid | 28,518
 473 | bentolman | 28,291
@@ -649,9 +649,9 @@ Rank | Username | Totals Tips
 646 | TNJCrypto | 8,468
 647 | ElegantShelter7947 | 8,461
 648 | 1-760-706-7425 | 8,272
-649 | akemicariocaer | 8,264
-650 | Handsome_Gourd | 8,242
-651 | shityougrin | 8,196
+649 | shityougrin | 8,265
+650 | akemicariocaer | 8,264
+651 | Handsome_Gourd | 8,242
 652 | JAK0M0VIN0 | 8,097
 653 | TheConeHodler | 8,090
 654 | Nyarlatotep781 | 8,078
