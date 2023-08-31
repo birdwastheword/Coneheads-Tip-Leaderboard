@@ -1,4 +1,4 @@
-Last updated: 23-08-31 19:40:39 UTC  
+Last updated: 23-08-31 19:50:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -6,12 +6,12 @@ Rank | Username | Totals Tips
 3 | nakamo-toe | 30,705,064
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,108,892
-6 | waterhasnocalories | 25,087,760
+6 | waterhasnocalories | 25,865,537
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,555,888
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 10,831,339
+11 | cutsickass | 10,861,339
 12 | SammyCraigar | 8,966,168
 13 | 8inchConer | 8,947,480
 14 | ArtConsitent | 8,532,379
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | transfermymoons | 8,100,558
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,658,781
-19 | _ships | 7,326,021
+19 | _ships | 7,328,684
 20 | Real_Player_0 | 6,561,195
 21 | ashinamune | 6,386,905
 22 | Geniuskills | 6,323,940
@@ -104,7 +104,7 @@ Rank | Username | Totals Tips
 101 | firstmatedotxyz | 688,743
 102 | Alanski22 | 685,372
 103 | Duskopia | 680,133
-104 | frickdom | 679,412
+104 | frickdom | 679,832
 105 | Due_Insurance8159 | 678,620
 106 | SKITZ_ZA | 673,394
 107 | piebagz | 661,815
