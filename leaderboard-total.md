@@ -1,4 +1,4 @@
-Last updated: 23-08-31 10:40:31 UTC  
+Last updated: 23-08-31 10:51:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 4,263,025
 35 | VIVOffical | 3,970,346
 36 | clean_cut89 | 3,586,746
-37 | thom_orrow | 3,525,035
+37 | thom_orrow | 3,536,035
 38 | LuminousViper | 3,477,450
 39 | ZukoBih | 3,403,115
 40 | Dry_Badger_2403 | 3,193,857
@@ -305,10 +305,10 @@ Rank | Username | Totals Tips
 302 | Mother-Werewolf185 | 85,579
 303 | xSkyFa11x | 85,459
 304 | Puzzleheaded_Gift738 | 84,020
-305 | RollingSkull0 | 83,098
-306 | shiesto | 82,917
-307 | standArtpluto | 82,100
-308 | AhhhUhmmm | 81,221
+305 | AhhhUhmmm | 83,884
+306 | RollingSkull0 | 83,098
+307 | shiesto | 82,917
+308 | standArtpluto | 82,100
 309 | mastermarvs | 80,384
 310 | diamondbored | 79,817
 311 | Pwny_b0y | 79,447
