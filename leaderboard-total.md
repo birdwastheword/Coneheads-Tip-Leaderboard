@@ -1,9 +1,9 @@
-Last updated: 23-08-31 06:40:44 UTC  
+Last updated: 23-08-31 06:50:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
 2 | Wonderful_Bad6531 | 34,830,585
-3 | nakamo-toe | 29,398,736
+3 | nakamo-toe | 29,523,358
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,106,229
 6 | waterhasnocalories | 23,470,101
@@ -20,12 +20,12 @@ Rank | Username | Totals Tips
 17 | Homeslicekilla | 7,995,797
 18 | avyun | 7,658,781
 19 | Real_Player_0 | 6,561,195
-20 | ashinamune | 6,305,331
+20 | ashinamune | 6,331,961
 21 | Geniuskills | 6,274,902
 22 | SpookySYN | 5,748,458
 23 | Skank_cunt_42 | 5,467,162
 24 | HippieStarTraveler | 5,252,611
-25 | _ships | 5,105,246
+25 | _ships | 5,107,569
 26 | thelonliestcrowd | 4,804,732
 27 | rikbona | 4,540,773
 28 | Puddin-Luv | 4,505,394
@@ -354,15 +354,15 @@ Rank | Username | Totals Tips
 351 | BitCone_CONE | 60,947
 352 | TheD1ceMan | 60,541
 353 | lucrica | 59,987
-354 | Big-Ticket1506 | 59,666
-355 | -geek | 59,318
-356 | RepublicRude6350 | 58,754
-357 | Wildspliffosis | 58,703
-358 | meme_used | 58,516
-359 | Trink333 | 58,338
-360 | preemcuz | 58,314
-361 | phrodreky | 57,984
-362 | Creative_Ad7831 | 57,246
+354 | Creative_Ad7831 | 59,909
+355 | Big-Ticket1506 | 59,666
+356 | -geek | 59,318
+357 | RepublicRude6350 | 58,754
+358 | Wildspliffosis | 58,703
+359 | meme_used | 58,516
+360 | Trink333 | 58,338
+361 | preemcuz | 58,314
+362 | phrodreky | 57,984
 363 | Outrageous_Storm6537 | 56,938
 364 | Dboythegreat | 56,643
 365 | ProfessionalIcy6456 | 56,380
