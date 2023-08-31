@@ -1,9 +1,9 @@
-Last updated: 23-08-31 07:50:47 UTC  
+Last updated: 23-08-31 08:27:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,509,837
 2 | Wonderful_Bad6531 | 34,830,585
-3 | nakamo-toe | 29,892,339
+3 | nakamo-toe | 29,895,698
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,106,229
 6 | waterhasnocalories | 23,470,101
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | _Royal_Insylum | 2,603,787
 44 | send420nudes | 2,551,237
-45 | DontLaughArt | 2,521,656
+45 | DontLaughArt | 2,521,698
 46 | possibili-teas | 2,399,515
 47 | ImAlekBan | 2,328,080
 48 | GuyOne | 2,254,715
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | doktastonks | 521,325
 123 | Korean_Street_Pizza | 518,490
 124 | junkwatch | 514,880
-125 | Allions1 | 510,704
+125 | Allions1 | 510,773
 126 | f0n1xr131ng | 509,681
 127 | MorrisBrett514 | 507,872
 128 | Successful-Walk-3902 | 498,794
@@ -285,9 +285,9 @@ Rank | Username | Totals Tips
 282 | beanwiggin420 | 98,432
 283 | FeetAndHandFetish | 98,146
 284 | Knaeggebrott | 97,076
-285 | IOTA_Tesla | 96,607
-286 | BrendanTFirefly | 95,347
-287 | ItailianStallion101 | 94,373
+285 | ItailianStallion101 | 97,036
+286 | IOTA_Tesla | 96,607
+287 | BrendanTFirefly | 95,347
 288 | wolfman333 | 93,986
 289 | H3adshotfox77 | 92,575
 290 | 192000Hertz | 92,257
