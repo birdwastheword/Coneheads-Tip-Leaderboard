@@ -1,4 +1,4 @@
-Last updated: 23-08-31 19:50:30 UTC  
+Last updated: 23-08-31 20:20:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -6,20 +6,20 @@ Rank | Username | Totals Tips
 3 | nakamo-toe | 30,705,064
 4 | rickribera93 | 28,283,727
 5 | Jeff5704 | 28,108,892
-6 | waterhasnocalories | 25,865,537
+6 | waterhasnocalories | 27,976,647
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,555,888
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 10,861,339
-12 | SammyCraigar | 8,966,168
-13 | 8inchConer | 8,947,480
-14 | ArtConsitent | 8,532,379
-15 | Permanent_WSB_Bull | 8,522,155
-16 | transfermymoons | 8,100,558
-17 | Homeslicekilla | 7,995,797
-18 | avyun | 7,658,781
-19 | _ships | 7,328,684
+11 | cutsickass | 10,921,339
+12 | _ships | 9,226,316
+13 | SammyCraigar | 8,966,168
+14 | 8inchConer | 8,947,480
+15 | ArtConsitent | 8,532,379
+16 | Permanent_WSB_Bull | 8,522,155
+17 | transfermymoons | 8,100,558
+18 | Homeslicekilla | 7,995,797
+19 | avyun | 7,658,781
 20 | Real_Player_0 | 6,561,195
 21 | ashinamune | 6,386,905
 22 | Geniuskills | 6,323,940
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Ginomania | 4,491,311
 31 | redzrex | 4,403,420
 32 | birdwastheword | 4,360,184
-33 | IveDoneItAtLast | 4,329,808
+33 | IveDoneItAtLast | 4,335,816
 34 | rustyybikes | 4,263,336
 35 | VIVOffical | 3,973,009
 36 | clean_cut89 | 3,586,746
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | send420nudes | 2,551,237
 45 | DontLaughArt | 2,528,386
 46 | possibili-teas | 2,399,515
-47 | ImAlekBan | 2,340,854
+47 | ImAlekBan | 2,348,517
 48 | GuyOne | 2,315,386
 49 | Autom4tic_Soze | 2,172,126
 50 | Fenrir-1919 | 2,082,945
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | ValiantJudge29500 | 1,332,307
 69 | CMDRGlamdring | 1,284,944
 70 | revdrgonzo | 1,235,635
-71 | saintajoras | 1,220,595
+71 | saintajoras | 1,223,258
 72 | HestiaIsTheBestia | 1,188,046
 73 | Richicash | 1,181,855
 74 | Feetfailmenot | 1,151,105
