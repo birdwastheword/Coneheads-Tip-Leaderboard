@@ -1,4 +1,4 @@
-Last updated: 23-09-01 05:33:46 UTC  
+Last updated: 23-09-01 05:41:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
 11 | cutsickass | 11,191,339
-12 | _ships | 10,683,851
+12 | _ships | 10,686,514
 13 | SammyCraigar | 8,973,018
 14 | 8inchConer | 8,947,480
 15 | ArtConsitent | 8,532,379
