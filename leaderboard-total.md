@@ -1,4 +1,4 @@
-Last updated: 23-09-01 12:51:34 UTC  
+Last updated: 23-09-01 13:24:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -23,9 +23,9 @@ Rank | Username | Totals Tips
 20 | Real_Player_0 | 6,561,195
 21 | ashinamune | 6,414,143
 22 | Geniuskills | 6,323,940
-23 | SpookySYN | 5,748,458
-24 | Skank_cunt_42 | 5,467,162
-25 | HippieStarTraveler | 5,255,343
+23 | HippieStarTraveler | 6,255,343
+24 | SpookySYN | 5,748,458
+25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,822,973
 27 | rikbona | 4,540,773
 28 | Puddin-Luv | 4,537,797
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | ImAlekBan | 2,351,180
 48 | GuyOne | 2,315,386
 49 | Autom4tic_Soze | 2,172,126
-50 | Fenrir-1919 | 2,109,575
+50 | Fenrir-1919 | 2,110,183
 51 | 002_timmy | 2,027,838
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
@@ -84,7 +84,7 @@ Rank | Username | Totals Tips
 81 | EvanIsBacon | 970,416
 82 | UniversalNoobMaster | 969,084
 83 | Forward_Today2849 | 932,405
-84 | ID404_Not_Found_8964 | 911,730
+84 | ID404_Not_Found_8964 | 911,740
 85 | Modestexcuse | 903,684
 86 | CluelessSurvivor | 902,466
 87 | thee_monster | 896,765
