@@ -1,4 +1,4 @@
-Last updated: 23-09-01 13:24:34 UTC  
+Last updated: 23-09-01 13:33:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | ImAlekBan | 2,351,180
 48 | GuyOne | 2,315,386
 49 | Autom4tic_Soze | 2,172,126
-50 | Fenrir-1919 | 2,110,183
+50 | Fenrir-1919 | 2,110,791
 51 | 002_timmy | 2,027,838
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
