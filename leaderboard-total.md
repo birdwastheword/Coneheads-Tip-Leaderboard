@@ -1,9 +1,9 @@
-Last updated: 23-09-01 15:50:46 UTC  
+Last updated: 23-09-01 16:31:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
 2 | Wonderful_Bad6531 | 34,883,911
-3 | nakamo-toe | 31,176,871
+3 | nakamo-toe | 31,232,794
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,206,064
 6 | Jeff5704 | 28,108,892
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | Parush9 | 11,958,456
 11 | cutsickass | 11,221,339
 12 | _ships | 10,699,156
-13 | SammyCraigar | 8,973,018
+13 | SammyCraigar | 8,973,526
 14 | 8inchConer | 8,947,480
 15 | ArtConsitent | 8,532,379
 16 | Permanent_WSB_Bull | 8,522,155
@@ -32,8 +32,8 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,517,941
 30 | bigbilly1234567899 | 4,496,042
 31 | redzrex | 4,403,420
-32 | birdwastheword | 4,360,184
-33 | IveDoneItAtLast | 4,343,805
+32 | IveDoneItAtLast | 4,365,457
+33 | birdwastheword | 4,360,184
 34 | rustyybikes | 4,263,336
 35 | VIVOffical | 3,975,672
 36 | clean_cut89 | 3,592,072
@@ -182,7 +182,7 @@ Rank | Username | Totals Tips
 179 | Hactar_42 | 256,832
 180 | tmanfromEarth | 256,392
 181 | thecrabdad | 256,177
-182 | Lillica_Golden_SHIB | 254,906
+182 | Lillica_Golden_SHIB | 255,044
 183 | Ambitious-Minimum-80 | 252,035
 184 | Sattack4000 | 250,837
 185 | SnooMacarons9203 | 249,556
@@ -235,7 +235,7 @@ Rank | Username | Totals Tips
 232 | 6reficul | 153,884
 233 | martymartinator | 152,560
 234 | CoverYourMaskHoles | 151,719
-235 | NotFullyTerrestrial | 150,694
+235 | NotFullyTerrestrial | 151,302
 236 | satoshi_oscar_wilde | 150,072
 237 | yahuurdme | 149,283
 238 | BitcoinRefuge | 146,181
