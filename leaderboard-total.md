@@ -1,4 +1,4 @@
-Last updated: 23-09-01 19:00:57 UTC  
+Last updated: 23-09-01 19:15:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,558,211
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 11,321,339
+11 | cutsickass | 11,471,339
 12 | _ships | 10,778,959
 13 | SammyCraigar | 8,974,542
 14 | 8inchConer | 8,947,480
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | Permanent_WSB_Bull | 8,522,155
 17 | transfermymoons | 8,100,558
 18 | Homeslicekilla | 7,995,797
-19 | avyun | 7,658,781
+19 | avyun | 7,728,201
 20 | Real_Player_0 | 6,561,195
 21 | ashinamune | 6,417,414
 22 | Geniuskills | 6,350,570
@@ -310,8 +310,8 @@ Rank | Username | Totals Tips
 307 | Mother-Werewolf185 | 85,579
 308 | Puzzleheaded_Gift738 | 84,020
 309 | RollingSkull0 | 83,098
-310 | standArtpluto | 82,100
-311 | Backwood20 | 81,386
+310 | Backwood20 | 82,620
+311 | standArtpluto | 82,100
 312 | mastermarvs | 80,384
 313 | diamondbored | 79,817
 314 | Pwny_b0y | 79,447
