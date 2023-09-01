@@ -1,9 +1,9 @@
-Last updated: 23-09-01 22:32:46 UTC  
+Last updated: 23-09-01 22:41:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
 2 | Wonderful_Bad6531 | 35,110,280
-3 | nakamo-toe | 31,763,511
+3 | nakamo-toe | 31,766,174
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,206,064
 6 | Jeff5704 | 28,108,892
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | thelonliestcrowd | 4,830,962
 27 | IveDoneItAtLast | 4,559,691
 28 | rikbona | 4,540,773
-29 | Puddin-Luv | 4,537,797
+29 | Puddin-Luv | 4,540,460
 30 | Ginomania | 4,517,941
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,403,420
@@ -179,7 +179,7 @@ Rank | Username | Totals Tips
 176 | SetoXlll | 266,067
 177 | Flimsy_Brilliant_239 | 265,592
 178 | MisterM0H0 | 264,338
-179 | Lastkidpicked94 | 261,100
+179 | Lastkidpicked94 | 263,419
 180 | Hactar_42 | 256,832
 181 | tmanfromEarth | 256,392
 182 | thecrabdad | 256,177
