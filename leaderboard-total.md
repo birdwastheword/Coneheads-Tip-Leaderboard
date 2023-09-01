@@ -1,4 +1,4 @@
-Last updated: 23-09-01 21:42:01 UTC  
+Last updated: 23-09-01 21:50:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -218,20 +218,20 @@ Rank | Username | Totals Tips
 215 | ShortBusCult | 192,925
 216 | TummyLice | 192,460
 217 | bakerdawg555 | 192,028
-218 | Most_Being_4002 | 185,414
-219 | TubeNerd92 | 184,677
-220 | nooobmaester69 | 183,460
-221 | ruccarucca | 180,270
-222 | Heclalava | 178,035
-223 | skollywag92 | 173,279
-224 | YourThighsWarmMyEars | 172,697
-225 | Street_Addd | 171,939
-226 | MymannosaurusRex | 171,317
-227 | high5s_inureye | 168,388
-228 | DamnWhySoLow | 166,675
-229 | MelonFarmer420 | 165,456
-230 | sjakkpila | 159,557
-231 | Lastkidpicked94 | 157,397
+218 | Lastkidpicked94 | 187,397
+219 | Most_Being_4002 | 185,834
+220 | TubeNerd92 | 184,677
+221 | nooobmaester69 | 183,460
+222 | ruccarucca | 180,270
+223 | Heclalava | 178,035
+224 | skollywag92 | 173,279
+225 | YourThighsWarmMyEars | 172,697
+226 | Street_Addd | 171,939
+227 | MymannosaurusRex | 171,317
+228 | high5s_inureye | 168,388
+229 | DamnWhySoLow | 166,675
+230 | MelonFarmer420 | 165,456
+231 | sjakkpila | 159,557
 232 | 6reficul | 153,884
 233 | martymartinator | 152,560
 234 | CoverYourMaskHoles | 151,719
