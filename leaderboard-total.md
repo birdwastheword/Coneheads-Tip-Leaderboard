@@ -1,4 +1,4 @@
-Last updated: 23-09-01 19:15:49 UTC  
+Last updated: 23-09-01 19:24:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,558,211
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 11,471,339
+11 | cutsickass | 11,561,339
 12 | _ships | 10,778,959
 13 | SammyCraigar | 8,974,542
 14 | 8inchConer | 8,947,480
@@ -303,14 +303,14 @@ Rank | Username | Totals Tips
 300 | HokkaidoNights | 88,108
 301 | ShopALF | 87,942
 302 | kwickle | 87,805
-303 | qwertywich | 87,473
-304 | jurgensdapimp | 86,817
-305 | AhhhUhmmm | 86,220
-306 | shiesto | 85,580
-307 | Mother-Werewolf185 | 85,579
-308 | Puzzleheaded_Gift738 | 84,020
-309 | RollingSkull0 | 83,098
-310 | Backwood20 | 82,620
+303 | Backwood20 | 87,566
+304 | qwertywich | 87,473
+305 | jurgensdapimp | 86,817
+306 | AhhhUhmmm | 86,220
+307 | shiesto | 85,580
+308 | Mother-Werewolf185 | 85,579
+309 | Puzzleheaded_Gift738 | 84,020
+310 | RollingSkull0 | 83,098
 311 | standArtpluto | 82,100
 312 | mastermarvs | 80,384
 313 | diamondbored | 79,817
