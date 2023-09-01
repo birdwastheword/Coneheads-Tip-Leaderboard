@@ -1,4 +1,4 @@
-Last updated: 23-09-01 22:24:20 UTC  
+Last updated: 23-09-01 22:32:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -179,16 +179,16 @@ Rank | Username | Totals Tips
 176 | SetoXlll | 266,067
 177 | Flimsy_Brilliant_239 | 265,592
 178 | MisterM0H0 | 264,338
-179 | Hactar_42 | 256,832
-180 | tmanfromEarth | 256,392
-181 | thecrabdad | 256,177
-182 | Lillica_Golden_SHIB | 255,113
-183 | Ambitious-Minimum-80 | 252,035
-184 | Sattack4000 | 250,837
-185 | SnooMacarons9203 | 249,556
-186 | Gregoryonetulum | 249,309
-187 | BeardedBro_ | 248,627
-188 | Lastkidpicked94 | 247,723
+179 | Lastkidpicked94 | 261,100
+180 | Hactar_42 | 256,832
+181 | tmanfromEarth | 256,392
+182 | thecrabdad | 256,177
+183 | Lillica_Golden_SHIB | 255,113
+184 | Ambitious-Minimum-80 | 252,035
+185 | Sattack4000 | 250,837
+186 | SnooMacarons9203 | 249,556
+187 | Gregoryonetulum | 249,309
+188 | BeardedBro_ | 248,627
 189 | cannainform2 | 246,661
 190 | thestonkinator | 246,260
 191 | coolpattakers | 241,036
