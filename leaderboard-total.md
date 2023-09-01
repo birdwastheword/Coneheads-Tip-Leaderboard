@@ -1,4 +1,4 @@
-Last updated: 23-09-01 22:50:47 UTC  
+Last updated: 23-09-01 23:18:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | avyun | 7,728,201
 20 | Real_Player_0 | 6,561,195
 21 | ashinamune | 6,417,414
-22 | Geniuskills | 6,350,570
+22 | Geniuskills | 6,378,739
 23 | HippieStarTraveler | 6,255,343
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
@@ -175,11 +175,11 @@ Rank | Username | Totals Tips
 172 | astro_nut_ | 280,463
 173 | maxfra | 279,459
 174 | FluffyAspie | 274,537
-175 | _Mitchee_ | 266,493
-176 | SetoXlll | 266,067
-177 | Flimsy_Brilliant_239 | 265,592
-178 | MisterM0H0 | 264,338
-179 | Lastkidpicked94 | 263,419
+175 | Lastkidpicked94 | 268,419
+176 | _Mitchee_ | 266,493
+177 | SetoXlll | 266,067
+178 | Flimsy_Brilliant_239 | 265,592
+179 | MisterM0H0 | 264,338
 180 | Hactar_42 | 256,832
 181 | tmanfromEarth | 256,392
 182 | thecrabdad | 256,177
