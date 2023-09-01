@@ -1,4 +1,4 @@
-Last updated: 23-09-01 14:34:32 UTC  
+Last updated: 23-09-01 14:42:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
 63 | evilninjarobot | 1,462,576
-64 | djrcollectables | 1,390,277
+64 | djrcollectables | 1,416,907
 65 | isthistomorrow_ | 1,366,127
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
