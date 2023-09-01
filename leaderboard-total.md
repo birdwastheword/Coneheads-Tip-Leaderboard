@@ -1,4 +1,4 @@
-Last updated: 23-09-01 14:25:13 UTC  
+Last updated: 23-09-01 14:34:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | HippieStarTraveler | 6,255,343
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
-26 | thelonliestcrowd | 4,822,973
+26 | thelonliestcrowd | 4,825,636
 27 | rikbona | 4,540,773
 28 | Puddin-Luv | 4,537,797
 29 | Ginomania | 4,517,941
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | DontLaughArt | 2,528,386
 46 | possibili-teas | 2,399,515
 47 | ImAlekBan | 2,351,180
-48 | GuyOne | 2,315,386
+48 | GuyOne | 2,318,049
 49 | Autom4tic_Soze | 2,172,126
 50 | Fenrir-1919 | 2,110,791
 51 | 002_timmy | 2,027,838
