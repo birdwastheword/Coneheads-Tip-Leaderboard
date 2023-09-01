@@ -1,4 +1,4 @@
-Last updated: 23-09-01 19:33:08 UTC  
+Last updated: 23-09-01 19:41:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
 68 | ValiantJudge29500 | 1,332,984
-69 | CMDRGlamdring | 1,284,944
+69 | CMDRGlamdring | 1,286,144
 70 | saintajoras | 1,236,573
 71 | revdrgonzo | 1,235,635
 72 | HestiaIsTheBestia | 1,188,046
