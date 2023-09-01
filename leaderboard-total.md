@@ -1,4 +1,4 @@
-Last updated: 23-09-01 03:21:19 UTC  
+Last updated: 23-09-01 03:30:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | Parush9 | 11,958,456
 11 | cutsickass | 11,191,339
 12 | _ships | 10,683,851
-13 | SammyCraigar | 8,970,355
+13 | SammyCraigar | 8,973,018
 14 | 8inchConer | 8,947,480
 15 | ArtConsitent | 8,532,379
 16 | Permanent_WSB_Bull | 8,522,155
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
 54 | bray_martin03 | 1,918,176
-55 | zdubs | 1,915,772
+55 | zdubs | 1,916,380
 56 | catlover-100 | 1,913,578
 57 | 0-Give-a-fucks | 1,841,666
 58 | dealkhabari | 1,763,283
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | abracadabra087 | 694,045
 101 | firstmatedotxyz | 688,743
 102 | Alanski22 | 685,980
-103 | frickdom | 680,526
+103 | frickdom | 681,216
 104 | Duskopia | 680,133
 105 | Obi1eyeKenobi | 678,969
 106 | Due_Insurance8159 | 678,620
