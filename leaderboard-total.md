@@ -1,4 +1,4 @@
-Last updated: 23-09-01 18:52:18 UTC  
+Last updated: 23-09-01 19:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -118,8 +118,8 @@ Rank | Username | Totals Tips
 115 | superlonelyboy | 591,419
 116 | Independent_Heart_15 | 578,825
 117 | formidable-opponent | 565,848
-118 | nichnotnick | 556,778
-119 | dopelifer09 | 554,938
+118 | dopelifer09 | 557,601
+119 | nichnotnick | 556,778
 120 | StepAsideSuckers | 540,695
 121 | scientifichistorian | 539,560
 122 | shreyaskg | 538,211
@@ -311,22 +311,22 @@ Rank | Username | Totals Tips
 308 | Puzzleheaded_Gift738 | 84,020
 309 | RollingSkull0 | 83,098
 310 | standArtpluto | 82,100
-311 | mastermarvs | 80,384
-312 | diamondbored | 79,817
-313 | Pwny_b0y | 79,447
-314 | GodOfWarGuy737 | 79,069
-315 | fleshlyLoath | 78,366
-316 | TheOneWhoCared | 78,239
-317 | mokkingjay | 77,914
-318 | HelicopterDear6064 | 77,619
-319 | youtooleyesing | 77,229
-320 | Admirito | 77,027
-321 | Derefringence | 76,675
-322 | XeroGrave | 76,579
-323 | BeefaloSlim | 75,182
-324 | MedicineMaterial3501 | 74,654
-325 | Diamond_PnutBrain | 73,619
-326 | Backwood20 | 73,367
+311 | Backwood20 | 81,386
+312 | mastermarvs | 80,384
+313 | diamondbored | 79,817
+314 | Pwny_b0y | 79,447
+315 | GodOfWarGuy737 | 79,069
+316 | fleshlyLoath | 78,366
+317 | TheOneWhoCared | 78,239
+318 | mokkingjay | 77,914
+319 | HelicopterDear6064 | 77,619
+320 | youtooleyesing | 77,229
+321 | Admirito | 77,027
+322 | Derefringence | 76,675
+323 | XeroGrave | 76,579
+324 | BeefaloSlim | 75,182
+325 | MedicineMaterial3501 | 74,654
+326 | Diamond_PnutBrain | 73,619
 327 | I_AM_MORE_BADASS | 72,332
 328 | adi_00_ | 71,759
 329 | pwan7505 | 71,230
