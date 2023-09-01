@@ -1,9 +1,9 @@
-Last updated: 23-08-31 23:50:45 UTC  
+Last updated: 23-09-01 02:05:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
 2 | Wonderful_Bad6531 | 34,883,911
-3 | nakamo-toe | 30,900,989
+3 | nakamo-toe | 30,930,282
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,206,064
 6 | Jeff5704 | 28,108,892
@@ -11,9 +11,9 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,555,888
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 11,101,339
-12 | _ships | 10,680,160
-13 | SammyCraigar | 8,968,831
+11 | cutsickass | 11,131,339
+12 | _ships | 10,683,851
+13 | SammyCraigar | 8,969,847
 14 | 8inchConer | 8,947,480
 15 | ArtConsitent | 8,532,379
 16 | Permanent_WSB_Bull | 8,522,155
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | clean_cut89 | 3,589,409
 37 | thom_orrow | 3,555,229
 38 | LuminousViper | 3,478,058
-39 | ZukoBih | 3,403,115
+39 | ZukoBih | 3,405,778
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,111,795
 42 | Mean_Bandicoot_7481 | 2,752,108
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | ValiantJudge29500 | 1,332,307
 69 | CMDRGlamdring | 1,284,944
 70 | revdrgonzo | 1,235,635
-71 | saintajoras | 1,228,584
+71 | saintajoras | 1,233,910
 72 | HestiaIsTheBestia | 1,188,046
 73 | Richicash | 1,181,855
 74 | Feetfailmenot | 1,151,105
@@ -103,8 +103,8 @@ Rank | Username | Totals Tips
 100 | abracadabra087 | 694,045
 101 | firstmatedotxyz | 688,743
 102 | Alanski22 | 685,980
-103 | Duskopia | 680,133
-104 | frickdom | 679,832
+103 | frickdom | 680,526
+104 | Duskopia | 680,133
 105 | Due_Insurance8159 | 678,620
 106 | SKITZ_ZA | 673,394
 107 | piebagz | 661,815
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | anony666mous | 341,008
 156 | tsudrat | 340,707
 157 | Dripbot8 | 325,384
-158 | ultra_terrestrial | 319,581
+158 | ultra_terrestrial | 323,084
 159 | WhateverAlready | 316,461
 160 | EffinDrongoC | 312,738
 161 | x52x | 304,860
@@ -194,13 +194,13 @@ Rank | Username | Totals Tips
 191 | Zalkwalker | 235,069
 192 | MuhSound | 230,729
 193 | joeviani | 230,028
-194 | SourBeefHoop | 217,512
-195 | Conetent | 214,454
-196 | alexthemay | 214,131
-197 | Beenthorny | 212,362
-198 | SigSalvadore | 212,358
-199 | the_judge_168 | 212,146
-200 | fettskull | 211,648
+194 | Conetent | 221,423
+195 | SourBeefHoop | 217,512
+196 | fettskull | 214,311
+197 | alexthemay | 214,131
+198 | Beenthorny | 212,362
+199 | SigSalvadore | 212,358
+200 | the_judge_168 | 212,146
 201 | Significant_Talk4943 | 211,599
 202 | Adrewmc | 211,177
 203 | UWphoto | 209,795
@@ -755,9 +755,9 @@ Rank | Username | Totals Tips
 752 | Badit_01 | 3,992
 753 | Soil_Electronic | 3,975
 754 | Dreadaussie | 3,920
-755 | carsonthecarsinogen | 3,769
-756 | Buzzalu | 3,723
-757 | Complete-Tadpole-728 | 3,709
+755 | Complete-Tadpole-728 | 3,847
+756 | carsonthecarsinogen | 3,769
+757 | Buzzalu | 3,723
 758 | salt_yaf | 3,706
 759 | abbasabba260 | 3,663
 760 | Gelato_33 | 3,628
