@@ -1,4 +1,4 @@
-Last updated: 23-09-01 04:43:45 UTC  
+Last updated: 23-09-01 04:52:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -192,7 +192,7 @@ Rank | Username | Totals Tips
 189 | coolpattakers | 241,036
 190 | tjex666 | 240,801
 191 | Zalkwalker | 235,069
-192 | MuhSound | 230,729
+192 | MuhSound | 233,392
 193 | joeviani | 230,028
 194 | Conetent | 221,843
 195 | SourBeefHoop | 217,512
