@@ -1,9 +1,9 @@
-Last updated: 23-09-01 16:50:32 UTC  
+Last updated: 23-09-01 17:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
 2 | Wonderful_Bad6531 | 34,883,911
-3 | nakamo-toe | 31,288,717
+3 | nakamo-toe | 31,291,380
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,206,064
 6 | Jeff5704 | 28,108,892
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,517,941
 30 | bigbilly1234567899 | 4,496,042
 31 | redzrex | 4,403,420
-32 | IveDoneItAtLast | 4,365,457
+32 | IveDoneItAtLast | 4,366,065
 33 | birdwastheword | 4,360,184
 34 | rustyybikes | 4,263,336
 35 | VIVOffical | 3,975,672
