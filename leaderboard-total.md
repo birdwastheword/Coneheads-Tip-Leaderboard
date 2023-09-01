@@ -1,4 +1,4 @@
-Last updated: 23-09-01 20:40:33 UTC  
+Last updated: 23-09-01 20:51:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,558,211
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 11,621,339
+11 | cutsickass | 11,651,339
 12 | _ships | 10,778,959
 13 | SammyCraigar | 8,974,542
 14 | 8inchConer | 8,947,480
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
 68 | ValiantJudge29500 | 1,332,984
-69 | CMDRGlamdring | 1,286,144
+69 | CMDRGlamdring | 1,286,752
 70 | saintajoras | 1,236,573
 71 | revdrgonzo | 1,235,635
 72 | HestiaIsTheBestia | 1,188,046
@@ -230,8 +230,8 @@ Rank | Username | Totals Tips
 227 | high5s_inureye | 168,388
 228 | DamnWhySoLow | 166,675
 229 | MelonFarmer420 | 165,456
-230 | Lastkidpicked94 | 157,397
-231 | sjakkpila | 154,694
+230 | sjakkpila | 159,557
+231 | Lastkidpicked94 | 157,397
 232 | 6reficul | 153,884
 233 | martymartinator | 152,560
 234 | CoverYourMaskHoles | 151,719
