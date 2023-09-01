@@ -1,9 +1,9 @@
-Last updated: 23-09-01 06:28:45 UTC  
+Last updated: 23-09-01 06:40:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
 2 | Wonderful_Bad6531 | 34,883,911
-3 | nakamo-toe | 31,146,776
+3 | nakamo-toe | 31,153,641
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,206,064
 6 | Jeff5704 | 28,108,892
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,558,211
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 11,191,339
+11 | cutsickass | 11,221,339
 12 | _ships | 10,688,433
 13 | SammyCraigar | 8,973,018
 14 | 8inchConer | 8,947,480
@@ -398,7 +398,7 @@ Rank | Username | Totals Tips
 395 | sicilian2124 | 46,866
 396 | shredslanding | 46,650
 397 | Oue | 46,352
-398 | skatistic | 46,011
+398 | skatistic | 46,080
 399 | Drlitez | 45,436
 400 | NickkyDC | 45,379
 401 | tentazoc | 45,078
