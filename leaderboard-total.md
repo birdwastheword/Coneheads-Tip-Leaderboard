@@ -1,9 +1,9 @@
-Last updated: 23-09-01 21:16:23 UTC  
+Last updated: 23-09-01 21:24:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
 2 | Wonderful_Bad6531 | 35,110,280
-3 | nakamo-toe | 31,683,621
+3 | nakamo-toe | 31,710,251
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,206,064
 6 | Jeff5704 | 28,108,892
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,558,211
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 11,681,339
+11 | cutsickass | 11,711,339
 12 | _ships | 10,778,959
 13 | SammyCraigar | 8,974,542
 14 | 8inchConer | 8,947,480
@@ -342,9 +342,9 @@ Rank | Username | Totals Tips
 339 | Friendly-Airline2426 | 66,547
 340 | imp3order | 65,546
 341 | damnusernamegotcutof | 65,004
-342 | zuzieey7719 | 64,549
-343 | ElmerBlack | 64,390
-344 | shellystarzz | 64,042
+342 | shellystarzz | 64,650
+343 | zuzieey7719 | 64,549
+344 | ElmerBlack | 64,390
 345 | Iulian_TechNewb | 63,965
 346 | guokaidi | 63,245
 347 | slug_tamer | 63,175
