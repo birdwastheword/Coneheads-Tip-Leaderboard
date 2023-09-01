@@ -1,9 +1,9 @@
-Last updated: 23-09-01 19:24:11 UTC  
+Last updated: 23-09-01 19:33:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
 2 | Wonderful_Bad6531 | 34,883,911
-3 | nakamo-toe | 31,566,898
+3 | nakamo-toe | 31,596,191
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,206,064
 6 | Jeff5704 | 28,108,892
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
 63 | evilninjarobot | 1,462,576
-64 | djrcollectables | 1,416,907
+64 | djrcollectables | 1,422,233
 65 | isthistomorrow_ | 1,366,127
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
