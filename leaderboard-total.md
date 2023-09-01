@@ -1,4 +1,4 @@
-Last updated: 23-09-01 14:42:41 UTC  
+Last updated: 23-09-01 14:50:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -101,16 +101,16 @@ Rank | Username | Totals Tips
 98 | WarmIyWacky | 703,049
 99 | Starterpack69420 | 696,969
 100 | abracadabra087 | 694,045
-101 | firstmatedotxyz | 688,743
-102 | Alanski22 | 685,980
-103 | frickdom | 681,216
-104 | Duskopia | 680,133
-105 | Obi1eyeKenobi | 678,969
-106 | Due_Insurance8159 | 678,620
-107 | SKITZ_ZA | 673,394
-108 | piebagz | 661,815
-109 | MartynDr | 651,840
-110 | CHEROKEEJ4CK | 649,925
+101 | CHEROKEEJ4CK | 691,994
+102 | firstmatedotxyz | 688,743
+103 | Alanski22 | 685,980
+104 | frickdom | 681,216
+105 | Duskopia | 680,133
+106 | Obi1eyeKenobi | 678,969
+107 | Due_Insurance8159 | 678,620
+108 | SKITZ_ZA | 673,394
+109 | piebagz | 661,815
+110 | MartynDr | 651,840
 111 | femacampcouncilor | 642,812
 112 | slirpo | 631,180
 113 | __PDS__ | 595,709
