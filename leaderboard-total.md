@@ -1,4 +1,4 @@
-Last updated: 23-09-02 12:58:26 UTC  
+Last updated: 23-09-02 13:21:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,831,031
-27 | IveDoneItAtLast | 4,655,474
+27 | IveDoneItAtLast | 4,655,543
 28 | Puddin-Luv | 4,566,929
 29 | Ginomania | 4,544,571
 30 | rikbona | 4,540,773
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | Tinman_ApE | 342,447
 155 | anony666mous | 341,008
 156 | tsudrat | 340,707
-157 | ultra_terrestrial | 325,747
+157 | ultra_terrestrial | 326,167
 158 | Dripbot8 | 325,384
 159 | WhateverAlready | 316,461
 160 | EffinDrongoC | 312,738
