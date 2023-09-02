@@ -1,4 +1,4 @@
-Last updated: 23-09-02 11:00:42 UTC  
+Last updated: 23-09-02 11:15:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,831,031
-27 | IveDoneItAtLast | 4,610,491
+27 | IveDoneItAtLast | 4,613,154
 28 | Puddin-Luv | 4,566,929
 29 | Ginomania | 4,544,571
 30 | rikbona | 4,540,773
@@ -183,7 +183,7 @@ Rank | Username | Totals Tips
 180 | Hactar_42 | 256,832
 181 | tmanfromEarth | 256,392
 182 | thecrabdad | 256,177
-183 | Lillica_Golden_SHIB | 255,113
+183 | Lillica_Golden_SHIB | 255,878
 184 | Ambitious-Minimum-80 | 252,035
 185 | Sattack4000 | 250,837
 186 | SnooMacarons9203 | 249,556
