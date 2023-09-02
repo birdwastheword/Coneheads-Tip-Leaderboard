@@ -1,4 +1,4 @@
-Last updated: 23-09-02 11:50:44 UTC  
+Last updated: 23-09-02 12:43:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -23,11 +23,11 @@ Rank | Username | Totals Tips
 20 | Geniuskills | 6,778,831
 21 | Real_Player_0 | 6,563,858
 22 | ashinamune | 6,417,414
-23 | HippieStarTraveler | 6,255,343
+23 | HippieStarTraveler | 6,255,481
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,831,031
-27 | IveDoneItAtLast | 4,625,065
+27 | IveDoneItAtLast | 4,655,474
 28 | Puddin-Luv | 4,566,929
 29 | Ginomania | 4,544,571
 30 | rikbona | 4,540,773
@@ -143,7 +143,7 @@ Rank | Username | Totals Tips
 140 | Crypto-4-Freedom | 426,238
 141 | dronegeeks1 | 414,406
 142 | LrnFaroeseWthBergur | 409,488
-143 | DogSpark84 | 403,245
+143 | DogSpark84 | 405,908
 144 | PortCity_MadMan | 394,221
 145 | Creepy-Nectarine-225 | 389,511
 146 | SHIFTY-T3RROR | 380,120
@@ -567,9 +567,9 @@ Rank | Username | Totals Tips
 564 | mixmasterpayne | 14,409
 565 | Fivebag | 14,290
 566 | cole-badger | 14,269
-567 | theycallmekimpembe | 14,037
-568 | TamilPunk | 13,754
-569 | Complete-Tadpole-728 | 13,736
+567 | Complete-Tadpole-728 | 14,156
+568 | theycallmekimpembe | 14,037
+569 | TamilPunk | 13,754
 570 | D6P6 | 13,710
 571 | osoese | 13,680
 572 | mantrakid | 13,644
