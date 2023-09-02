@@ -1,4 +1,4 @@
-Last updated: 23-09-02 03:30:42 UTC  
+Last updated: 23-09-02 03:40:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
 54 | bray_martin03 | 1,918,176
-55 | zdubs | 1,916,990
+55 | zdubs | 1,917,598
 56 | catlover-100 | 1,913,578
 57 | 0-Give-a-fucks | 1,841,666
 58 | dealkhabari | 1,763,283
@@ -766,7 +766,7 @@ Rank | Username | Totals Tips
 763 | WeaselJCD | 3,434
 764 | Mrcoolguynumberone | 3,420
 765 | SoulUrgeDestiny | 3,409
-766 | Microgamers | 3,404
+766 | Microgamers | 3,405
 767 | n1ghsthade | 3,378
 768 | Riviera20 | 3,370
 769 | elksteaksdmt | 3,359
