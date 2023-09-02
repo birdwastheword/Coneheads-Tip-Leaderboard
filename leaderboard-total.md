@@ -1,4 +1,4 @@
-Last updated: 23-09-02 04:51:38 UTC  
+Last updated: 23-09-02 05:22:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -11,8 +11,8 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,563,211
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 11,711,339
-12 | _ships | 10,793,782
+11 | cutsickass | 11,891,339
+12 | _ships | 11,238,935
 13 | SammyCraigar | 10,243,505
 14 | 8inchConer | 8,947,480
 15 | ArtConsitent | 8,532,379
@@ -20,9 +20,9 @@ Rank | Username | Totals Tips
 17 | transfermymoons | 8,100,558
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,728,201
-20 | Real_Player_0 | 6,561,195
-21 | ashinamune | 6,417,414
-22 | Geniuskills | 6,378,739
+20 | Geniuskills | 6,778,831
+21 | Real_Player_0 | 6,561,195
+22 | ashinamune | 6,417,414
 23 | HippieStarTraveler | 6,255,343
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | zdubs | 1,923,727
 55 | bray_martin03 | 1,918,176
 56 | catlover-100 | 1,913,578
-57 | 0-Give-a-fucks | 1,841,666
+57 | 0-Give-a-fucks | 1,844,329
 58 | dealkhabari | 1,763,283
 59 | Ten-Mins-Late | 1,706,113
 60 | investigator100 | 1,623,983
@@ -945,12 +945,12 @@ Rank | Username | Totals Tips
 942 | iiCollinHD | 608
 943 | JaJaJaNVM | 608
 944 | eskimojerk | 606
-945 | glouglas | 558
-946 | Professer__ | 558
-947 | Dare2gamer | 544
-948 | Swordfish-Select | 543
-949 | justthebelton | 540
-950 | johnnyb0083 | 520
+945 | johnnyb0083 | 589
+946 | glouglas | 558
+947 | Professer__ | 558
+948 | Dare2gamer | 544
+949 | Swordfish-Select | 543
+950 | justthebelton | 540
 951 | Gabba- | 520
 952 | CraigyFakeFake | 500
 953 | Right-Shopping9589 | 500
