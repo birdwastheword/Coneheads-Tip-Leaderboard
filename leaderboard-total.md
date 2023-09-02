@@ -1,4 +1,4 @@
-Last updated: 23-09-02 01:54:35 UTC  
+Last updated: 23-09-02 02:23:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -12,8 +12,8 @@ Rank | Username | Totals Tips
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
 11 | cutsickass | 11,711,339
-12 | _ships | 10,778,959
-13 | SammyCraigar | 8,974,542
+12 | _ships | 10,785,039
+13 | SammyCraigar | 10,240,842
 14 | 8inchConer | 8,947,480
 15 | ArtConsitent | 8,532,379
 16 | Permanent_WSB_Bull | 8,522,155
@@ -27,9 +27,9 @@ Rank | Username | Totals Tips
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,830,962
-27 | IveDoneItAtLast | 4,559,691
-28 | rikbona | 4,540,773
-29 | Puddin-Luv | 4,540,460
+27 | Puddin-Luv | 4,566,929
+28 | IveDoneItAtLast | 4,559,691
+29 | rikbona | 4,540,773
 30 | Ginomania | 4,517,941
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,406,083
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
 54 | bray_martin03 | 1,918,176
-55 | zdubs | 1,916,380
+55 | zdubs | 1,916,988
 56 | catlover-100 | 1,913,578
 57 | 0-Give-a-fucks | 1,841,666
 58 | dealkhabari | 1,763,283
