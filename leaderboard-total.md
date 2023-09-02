@@ -1,4 +1,4 @@
-Last updated: 23-09-02 06:51:37 UTC  
+Last updated: 23-09-02 07:15:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -11,8 +11,8 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,563,211
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 11,894,002
-12 | _ships | 11,744,261
+11 | cutsickass | 11,926,665
+12 | _ships | 11,754,913
 13 | SammyCraigar | 10,243,505
 14 | 8inchConer | 8,947,480
 15 | ArtConsitent | 8,532,379
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | StepAsideSuckers | 540,695
 121 | scientifichistorian | 539,560
 122 | shreyaskg | 538,211
-123 | Korean_Street_Pizza | 534,944
+123 | Korean_Street_Pizza | 537,607
 124 | doktastonks | 521,325
 125 | junkwatch | 518,383
 126 | Allions1 | 513,842
