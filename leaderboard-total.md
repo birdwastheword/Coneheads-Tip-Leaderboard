@@ -1,4 +1,4 @@
-Last updated: 23-09-02 03:50:35 UTC  
+Last updated: 23-09-02 04:26:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | HippieStarTraveler | 6,255,343
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
-26 | thelonliestcrowd | 4,830,962
+26 | thelonliestcrowd | 4,831,031
 27 | Puddin-Luv | 4,566,929
 28 | IveDoneItAtLast | 4,559,691
 29 | rikbona | 4,540,773
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | StepAsideSuckers | 540,695
 121 | scientifichistorian | 539,560
 122 | shreyaskg | 538,211
-123 | Korean_Street_Pizza | 532,281
+123 | Korean_Street_Pizza | 534,944
 124 | doktastonks | 521,325
 125 | junkwatch | 518,383
 126 | Allions1 | 513,842
@@ -267,7 +267,7 @@ Rank | Username | Totals Tips
 264 | lordciders | 116,606
 265 | CaptainCheeseCake | 115,981
 266 | mvea | 115,748
-267 | xSkyFa11x | 114,752
+267 | xSkyFa11x | 114,768
 268 | AlternativeBag2619 | 114,483
 269 | Fox1931 | 114,000
 270 | flying_bacon | 111,860
