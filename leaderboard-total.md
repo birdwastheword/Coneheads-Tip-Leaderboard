@@ -1,4 +1,4 @@
-Last updated: 23-09-01 23:50:31 UTC  
+Last updated: 23-09-02 01:54:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | KONGXIANG | 1,531,785
 63 | evilninjarobot | 1,462,576
 64 | djrcollectables | 1,432,885
-65 | isthistomorrow_ | 1,366,127
+65 | isthistomorrow_ | 1,368,790
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
 68 | ValiantJudge29500 | 1,332,984
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | StepAsideSuckers | 540,695
 121 | scientifichistorian | 539,560
 122 | shreyaskg | 538,211
-123 | Korean_Street_Pizza | 529,479
+123 | Korean_Street_Pizza | 529,617
 124 | doktastonks | 521,325
 125 | junkwatch | 518,383
 126 | Allions1 | 513,842
@@ -157,8 +157,8 @@ Rank | Username | Totals Tips
 154 | Tinman_ApE | 342,447
 155 | anony666mous | 341,008
 156 | tsudrat | 340,707
-157 | Dripbot8 | 325,384
-158 | ultra_terrestrial | 323,084
+157 | ultra_terrestrial | 325,747
+158 | Dripbot8 | 325,384
 159 | WhateverAlready | 316,461
 160 | EffinDrongoC | 312,738
 161 | x52x | 304,860
@@ -174,8 +174,8 @@ Rank | Username | Totals Tips
 171 | MadScientistTheFirst | 280,469
 172 | astro_nut_ | 280,463
 173 | maxfra | 279,459
-174 | FluffyAspie | 274,537
-175 | Lastkidpicked94 | 271,082
+174 | Lastkidpicked94 | 276,408
+175 | FluffyAspie | 274,537
 176 | _Mitchee_ | 266,493
 177 | SetoXlll | 266,067
 178 | Flimsy_Brilliant_239 | 265,592
@@ -357,9 +357,9 @@ Rank | Username | Totals Tips
 354 | TheD1ceMan | 60,541
 355 | lucrica | 59,987
 356 | Creative_Ad7831 | 59,909
-357 | Big-Ticket1506 | 59,666
-358 | -geek | 59,318
-359 | Dboythegreat | 59,306
+357 | Dboythegreat | 59,726
+358 | Big-Ticket1506 | 59,666
+359 | -geek | 59,318
 360 | RepublicRude6350 | 58,754
 361 | Wildspliffosis | 58,703
 362 | meme_used | 58,516
@@ -880,10 +880,10 @@ Rank | Username | Totals Tips
 877 | AssociateTime9542 | 1,200
 878 | lulatheq | 1,200
 879 | Patrickcscott66 | 1,185
-880 | ElderberryOk469 | 1,138
-881 | CatBoy191114 | 1,138
-882 | redditavies | 1,138
-883 | pizza-chit | 1,116
+880 | pizza-chit | 1,185
+881 | ElderberryOk469 | 1,138
+882 | CatBoy191114 | 1,138
+883 | redditavies | 1,138
 884 | jwz9904 | 1,111
 885 | TSC4 | 1,100
 886 | SkuniMasterMind | 1,094
