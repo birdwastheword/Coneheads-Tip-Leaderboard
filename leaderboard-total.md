@@ -1,4 +1,4 @@
-Last updated: 23-09-02 12:43:00 UTC  
+Last updated: 23-09-02 12:58:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | VIVOffical | 3,975,672
 36 | clean_cut89 | 3,592,172
 37 | thom_orrow | 3,560,892
-38 | LuminousViper | 3,478,058
+38 | LuminousViper | 3,478,334
 39 | ZukoBih | 3,405,778
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,111,795
@@ -51,7 +51,7 @@ Rank | Username | Totals Tips
 48 | GuyOne | 2,318,049
 49 | Autom4tic_Soze | 2,176,126
 50 | Fenrir-1919 | 2,138,029
-51 | 002_timmy | 2,027,838
+51 | 002_timmy | 2,030,501
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
 54 | zdubs | 1,926,998
@@ -183,7 +183,7 @@ Rank | Username | Totals Tips
 180 | Hactar_42 | 256,832
 181 | tmanfromEarth | 256,392
 182 | thecrabdad | 256,177
-183 | Lillica_Golden_SHIB | 256,016
+183 | Lillica_Golden_SHIB | 256,085
 184 | Ambitious-Minimum-80 | 252,035
 185 | Sattack4000 | 250,837
 186 | SnooMacarons9203 | 249,556
@@ -197,9 +197,9 @@ Rank | Username | Totals Tips
 194 | MuhSound | 233,392
 195 | joeviani | 230,028
 196 | Conetent | 221,843
-197 | SourBeefHoop | 217,512
-198 | the_judge_168 | 214,809
-199 | fettskull | 214,311
+197 | fettskull | 219,637
+198 | SourBeefHoop | 217,512
+199 | the_judge_168 | 214,809
 200 | alexthemay | 214,131
 201 | Beenthorny | 212,362
 202 | SigSalvadore | 212,358
