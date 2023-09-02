@@ -1,4 +1,4 @@
-Last updated: 23-09-02 09:50:42 UTC  
+Last updated: 23-09-02 10:25:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,728,201
 20 | Geniuskills | 6,778,831
-21 | Real_Player_0 | 6,561,195
+21 | Real_Player_0 | 6,563,858
 22 | ashinamune | 6,417,414
 23 | HippieStarTraveler | 6,255,343
 24 | SpookySYN | 5,748,458
@@ -694,11 +694,11 @@ Rank | Username | Totals Tips
 691 | strworld | 6,544
 692 | dexabonk | 6,541
 693 | _pondering_insomniac | 6,500
-694 | SeniorThiccBoi | 6,405
-695 | theindoshow | 6,388
-696 | rpgruli | 6,364
-697 | ReasonReasonable7168 | 6,357
-698 | NEO_R1CH | 6,226
+694 | NEO_R1CH | 6,472
+695 | SeniorThiccBoi | 6,405
+696 | theindoshow | 6,388
+697 | rpgruli | 6,364
+698 | ReasonReasonable7168 | 6,357
 699 | Schwoanz | 6,219
 700 | solarssun | 6,111
 701 | DrunkDoge420 | 6,000
