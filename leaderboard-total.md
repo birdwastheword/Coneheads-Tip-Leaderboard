@@ -1,4 +1,4 @@
-Last updated: 23-09-02 05:30:50 UTC  
+Last updated: 23-09-02 05:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | rikbona | 4,540,773
 30 | Ginomania | 4,517,941
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,406,083
+32 | redzrex | 4,432,713
 33 | birdwastheword | 4,360,184
 34 | rustyybikes | 4,263,336
 35 | VIVOffical | 3,975,672
@@ -54,7 +54,7 @@ Rank | Username | Totals Tips
 51 | 002_timmy | 2,027,838
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
-54 | zdubs | 1,924,335
+54 | zdubs | 1,926,998
 55 | bray_martin03 | 1,918,176
 56 | catlover-100 | 1,913,578
 57 | 0-Give-a-fucks | 1,844,329
@@ -569,12 +569,12 @@ Rank | Username | Totals Tips
 566 | cole-badger | 14,269
 567 | theycallmekimpembe | 14,037
 568 | TamilPunk | 13,754
-569 | D6P6 | 13,710
-570 | osoese | 13,680
-571 | mantrakid | 13,644
-572 | couchguitar | 13,330
-573 | zahrawins | 13,329
-574 | Complete-Tadpole-728 | 13,316
+569 | Complete-Tadpole-728 | 13,736
+570 | D6P6 | 13,710
+571 | osoese | 13,680
+572 | mantrakid | 13,644
+573 | couchguitar | 13,330
+574 | zahrawins | 13,329
 575 | SenseiRaheem | 13,296
 576 | Diamond_Hands420 | 13,277
 577 | MantisToboggan66 | 13,083
