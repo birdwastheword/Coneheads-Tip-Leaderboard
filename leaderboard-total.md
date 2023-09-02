@@ -1,9 +1,9 @@
-Last updated: 23-09-02 04:26:03 UTC  
+Last updated: 23-09-02 04:34:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
 2 | Wonderful_Bad6531 | 35,110,280
-3 | nakamo-toe | 31,831,760
+3 | nakamo-toe | 31,835,962
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,206,064
 6 | Jeff5704 | 28,108,892
@@ -54,8 +54,8 @@ Rank | Username | Totals Tips
 51 | 002_timmy | 2,027,838
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
-54 | bray_martin03 | 1,918,176
-55 | zdubs | 1,917,598
+54 | zdubs | 1,923,727
+55 | bray_martin03 | 1,918,176
 56 | catlover-100 | 1,913,578
 57 | 0-Give-a-fucks | 1,841,666
 58 | dealkhabari | 1,763,283
@@ -342,9 +342,9 @@ Rank | Username | Totals Tips
 339 | Friendly-Airline2426 | 66,547
 340 | imp3order | 65,546
 341 | damnusernamegotcutof | 65,004
-342 | shellystarzz | 64,650
-343 | zuzieey7719 | 64,549
-344 | ElmerBlack | 64,390
+342 | ElmerBlack | 64,810
+343 | shellystarzz | 64,650
+344 | zuzieey7719 | 64,549
 345 | Iulian_TechNewb | 63,965
 346 | guokaidi | 63,245
 347 | slug_tamer | 63,175
