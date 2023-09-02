@@ -1,4 +1,4 @@
-Last updated: 23-09-02 11:23:58 UTC  
+Last updated: 23-09-02 11:32:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,831,031
-27 | IveDoneItAtLast | 4,616,325
+27 | IveDoneItAtLast | 4,622,402
 28 | Puddin-Luv | 4,566,929
 29 | Ginomania | 4,544,571
 30 | rikbona | 4,540,773
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | ImAlekBan | 2,353,843
 48 | GuyOne | 2,318,049
 49 | Autom4tic_Soze | 2,176,126
-50 | Fenrir-1919 | 2,111,399
+50 | Fenrir-1919 | 2,138,029
 51 | 002_timmy | 2,027,838
 52 | Affectionate_Hand_76 | 1,949,263
 53 | swampyswede | 1,928,909
@@ -413,12 +413,12 @@ Rank | Username | Totals Tips
 410 | Cyber-Cafe | 41,921
 411 | PushyDevoIution | 41,695
 412 | ZoomLong | 41,251
-413 | HodLMania | 41,111
-414 | ARoyaleWithCheese | 41,000
-415 | halfavocadoemoji | 40,688
-416 | Yirii | 40,605
-417 | Expensive_Being_4038 | 40,558
-418 | madridgalactico | 40,231
+413 | madridgalactico | 41,231
+414 | HodLMania | 41,111
+415 | ARoyaleWithCheese | 41,000
+416 | halfavocadoemoji | 40,688
+417 | Yirii | 40,605
+418 | Expensive_Being_4038 | 40,558
 419 | Lucabba | 40,118
 420 | matdabom | 40,068
 421 | YourLocalDuskFox | 40,000
