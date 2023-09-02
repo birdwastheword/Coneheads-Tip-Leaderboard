@@ -1,4 +1,4 @@
-Last updated: 23-09-02 11:41:08 UTC  
+Last updated: 23-09-02 11:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -183,7 +183,7 @@ Rank | Username | Totals Tips
 180 | Hactar_42 | 256,832
 181 | tmanfromEarth | 256,392
 182 | thecrabdad | 256,177
-183 | Lillica_Golden_SHIB | 255,878
+183 | Lillica_Golden_SHIB | 256,016
 184 | Ambitious-Minimum-80 | 252,035
 185 | Sattack4000 | 250,837
 186 | SnooMacarons9203 | 249,556
