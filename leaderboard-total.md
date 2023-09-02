@@ -1,4 +1,4 @@
-Last updated: 23-09-02 03:19:32 UTC  
+Last updated: 23-09-02 03:30:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -756,17 +756,17 @@ Rank | Username | Totals Tips
 753 | Badit_01 | 3,992
 754 | Soil_Electronic | 3,975
 755 | Dreadaussie | 3,920
-756 | carsonthecarsinogen | 3,769
-757 | Buzzalu | 3,723
-758 | salt_yaf | 3,706
-759 | abbasabba260 | 3,663
-760 | Gelato_33 | 3,628
-761 | _echnaton | 3,504
-762 | WeaselJCD | 3,434
-763 | Mrcoolguynumberone | 3,420
-764 | SoulUrgeDestiny | 3,409
-765 | Microgamers | 3,404
-766 | Most_Border_3917 | 3,381
+756 | Most_Border_3917 | 3,801
+757 | carsonthecarsinogen | 3,769
+758 | Buzzalu | 3,723
+759 | salt_yaf | 3,706
+760 | abbasabba260 | 3,663
+761 | Gelato_33 | 3,628
+762 | _echnaton | 3,504
+763 | WeaselJCD | 3,434
+764 | Mrcoolguynumberone | 3,420
+765 | SoulUrgeDestiny | 3,409
+766 | Microgamers | 3,404
 767 | n1ghsthade | 3,378
 768 | Riviera20 | 3,370
 769 | elksteaksdmt | 3,359
