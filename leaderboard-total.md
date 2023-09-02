@@ -1,4 +1,4 @@
-Last updated: 23-09-02 05:50:37 UTC  
+Last updated: 23-09-02 06:25:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -206,8 +206,8 @@ Rank | Username | Totals Tips
 203 | Significant_Talk4943 | 211,599
 204 | Adrewmc | 211,177
 205 | UWphoto | 210,403
-206 | Final-Scar-941 | 208,792
-207 | Ashamed_Raccoon9918 | 206,698
+206 | Ashamed_Raccoon9918 | 209,361
+207 | Final-Scar-941 | 208,792
 208 | Esco1980 | 204,434
 209 | jimfird | 203,842
 210 | ziggyback | 203,369
@@ -262,7 +262,7 @@ Rank | Username | Totals Tips
 259 | wato4000 | 121,465
 260 | stupidcupid112 | 121,421
 261 | Schl0tz | 120,000
-262 | pythonskynet | 117,374
+262 | pythonskynet | 117,794
 263 | street_shark_puppet | 116,891
 264 | lordciders | 116,606
 265 | CaptainCheeseCake | 115,981
