@@ -1,4 +1,4 @@
-Last updated: 23-09-02 13:40:28 UTC  
+Last updated: 23-09-02 13:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,831,031
-27 | IveDoneItAtLast | 4,655,543
+27 | IveDoneItAtLast | 4,719,006
 28 | Puddin-Luv | 4,566,929
 29 | Ginomania | 4,544,571
 30 | rikbona | 4,540,773
@@ -146,20 +146,20 @@ Rank | Username | Totals Tips
 143 | DogSpark84 | 405,908
 144 | PortCity_MadMan | 394,221
 145 | Creepy-Nectarine-225 | 389,511
-146 | SHIFTY-T3RROR | 380,120
-147 | zenhodl | 374,566
-148 | hellosamaira | 373,235
-149 | AustinTX1985 | 368,863
-150 | farmertypoerror | 359,212
-151 | Lion-Hermit | 355,884
-152 | noface_reddit | 346,221
-153 | Outrageous-Skill-464 | 344,174
-154 | Tinman_ApE | 342,447
-155 | anony666mous | 341,008
-156 | tsudrat | 340,707
-157 | ultra_terrestrial | 326,167
-158 | Dripbot8 | 325,384
-159 | WhateverAlready | 316,461
+146 | WhateverAlready | 385,881
+147 | SHIFTY-T3RROR | 380,120
+148 | zenhodl | 374,566
+149 | hellosamaira | 373,235
+150 | AustinTX1985 | 368,863
+151 | farmertypoerror | 359,212
+152 | Lion-Hermit | 355,884
+153 | noface_reddit | 346,221
+154 | Outrageous-Skill-464 | 344,174
+155 | Tinman_ApE | 342,447
+156 | anony666mous | 341,008
+157 | tsudrat | 340,707
+158 | ultra_terrestrial | 326,167
+159 | Dripbot8 | 325,384
 160 | EffinDrongoC | 312,738
 161 | x52x | 304,860
 162 | liwipe | 304,467
