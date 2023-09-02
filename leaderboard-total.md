@@ -1,4 +1,4 @@
-Last updated: 23-09-02 05:40:29 UTC  
+Last updated: 23-09-02 05:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 12,563,211
 9 | HODL-THE-LINE | 12,469,181
 10 | Parush9 | 11,958,456
-11 | cutsickass | 11,891,339
+11 | cutsickass | 11,894,002
 12 | _ships | 11,741,598
 13 | SammyCraigar | 10,243,505
 14 | 8inchConer | 8,947,480
