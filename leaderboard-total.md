@@ -1,4 +1,4 @@
-Last updated: 23-09-03 18:42:00 UTC  
+Last updated: 23-09-03 18:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,563,211
 9 | HODL-THE-LINE | 12,469,181
-10 | cutsickass | 12,363,107
+10 | cutsickass | 12,393,107
 11 | Parush9 | 11,958,456
 12 | _ships | 11,763,656
 13 | SammyCraigar | 10,271,959
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Real_Player_0 | 6,565,682
 22 | ashinamune | 6,417,414
 23 | HippieStarTraveler | 6,255,901
-24 | SpookySYN | 5,831,011
+24 | SpookySYN | 5,860,812
 25 | Puddin-Luv | 5,578,841
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,831,031
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | investigator100 | 1,633,983
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
-63 | djrcollectables | 1,470,167
+63 | djrcollectables | 1,472,830
 64 | evilninjarobot | 1,462,576
 65 | isthistomorrow_ | 1,368,790
 66 | Mundane-Farm-4117 | 1,359,176
@@ -572,12 +572,12 @@ Rank | Username | Totals Tips
 569 | cole-badger | 14,269
 570 | theycallmekimpembe | 14,037
 571 | TamilPunk | 13,754
-572 | D6P6 | 13,710
-573 | osoese | 13,680
-574 | mantrakid | 13,644
-575 | couchguitar | 13,330
-576 | zahrawins | 13,329
-577 | SenseiRaheem | 13,296
+572 | SenseiRaheem | 13,716
+573 | D6P6 | 13,710
+574 | osoese | 13,680
+575 | mantrakid | 13,644
+576 | couchguitar | 13,330
+577 | zahrawins | 13,329
 578 | Diamond_Hands420 | 13,277
 579 | rare1994 | 13,069
 580 | AdinaEspada | 12,997
