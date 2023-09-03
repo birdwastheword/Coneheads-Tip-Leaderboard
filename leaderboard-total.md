@@ -1,4 +1,4 @@
-Last updated: 23-09-03 18:24:21 UTC  
+Last updated: 23-09-03 18:33:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,563,211
 9 | HODL-THE-LINE | 12,469,181
-10 | cutsickass | 12,243,107
+10 | cutsickass | 12,333,107
 11 | Parush9 | 11,958,456
 12 | _ships | 11,763,656
 13 | SammyCraigar | 10,271,959
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Real_Player_0 | 6,565,682
 22 | ashinamune | 6,417,414
 23 | HippieStarTraveler | 6,255,901
-24 | SpookySYN | 5,748,458
+24 | SpookySYN | 5,831,011
 25 | Puddin-Luv | 5,578,841
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,831,031
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
 68 | ValiantJudge29500 | 1,332,984
-69 | CMDRGlamdring | 1,297,752
+69 | CMDRGlamdring | 1,300,415
 70 | saintajoras | 1,236,573
 71 | revdrgonzo | 1,235,635
 72 | HestiaIsTheBestia | 1,188,046
@@ -154,7 +154,7 @@ Rank | Username | Totals Tips
 151 | hellosamaira | 373,235
 152 | AustinTX1985 | 368,863
 153 | farmertypoerror | 359,212
-154 | Lion-Hermit | 355,884
+154 | Lion-Hermit | 356,884
 155 | noface_reddit | 346,221
 156 | ultra_terrestrial | 344,305
 157 | Outrageous-Skill-464 | 344,174
@@ -347,14 +347,14 @@ Rank | Username | Totals Tips
 344 | shellystarzz | 64,650
 345 | zuzieey7719 | 64,549
 346 | Iulian_TechNewb | 63,965
-347 | guokaidi | 63,245
-348 | slug_tamer | 63,175
-349 | netnemirepxE | 62,645
-350 | meth43 | 62,596
-351 | Emeritux | 62,504
-352 | 1ndy1 | 62,120
-353 | KrunchyKushKing | 61,532
-354 | BitCone_CONE | 60,947
+347 | BitCone_CONE | 63,610
+348 | guokaidi | 63,245
+349 | slug_tamer | 63,175
+350 | netnemirepxE | 62,645
+351 | meth43 | 62,596
+352 | Emeritux | 62,504
+353 | 1ndy1 | 62,120
+354 | KrunchyKushKing | 61,532
 355 | TheD1ceMan | 60,541
 356 | lucrica | 59,987
 357 | Creative_Ad7831 | 59,909
