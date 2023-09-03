@@ -1,4 +1,4 @@
-Last updated: 23-09-03 21:41:38 UTC  
+Last updated: 23-09-03 21:50:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -27,9 +27,9 @@ Rank | Username | Totals Tips
 24 | HippieStarTraveler | 6,255,901
 25 | Puddin-Luv | 5,584,849
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,831,031
+27 | thelonliestcrowd | 4,833,694
 28 | IveDoneItAtLast | 4,811,894
-29 | Ginomania | 4,544,571
+29 | Ginomania | 4,544,991
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,435,376
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | AustinTX1985 | 368,863
 155 | farmertypoerror | 359,212
 156 | Lion-Hermit | 356,884
-157 | ultra_terrestrial | 348,505
+157 | ultra_terrestrial | 348,925
 158 | noface_reddit | 346,221
 159 | Outrageous-Skill-464 | 344,174
 160 | Tinman_ApE | 342,447
