@@ -1,9 +1,9 @@
-Last updated: 23-09-03 19:22:56 UTC  
+Last updated: 23-09-03 19:31:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
 2 | Wonderful_Bad6531 | 36,116,404
-3 | nakamo-toe | 31,989,765
+3 | nakamo-toe | 31,992,428
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,133
 6 | Jeff5704 | 28,108,892
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | LuminousViper | 3,478,334
 39 | ZukoBih | 3,405,778
 40 | Dry_Badger_2403 | 3,193,857
-41 | LordBobTheWhale | 3,113,011
+41 | LordBobTheWhale | 3,113,619
 42 | Mean_Bandicoot_7481 | 2,752,108
 43 | Fenrir-1919 | 2,638,029
 44 | _Royal_Insylum | 2,603,787
