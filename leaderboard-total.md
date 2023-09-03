@@ -1,4 +1,4 @@
-Last updated: 23-09-03 04:41:31 UTC  
+Last updated: 23-09-03 04:50:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -53,9 +53,9 @@ Rank | Username | Totals Tips
 50 | Fenrir-1919 | 2,138,029
 51 | 002_timmy | 2,030,501
 52 | Affectionate_Hand_76 | 1,949,263
-53 | swampyswede | 1,928,909
-54 | zdubs | 1,926,998
-55 | bray_martin03 | 1,918,176
+53 | bray_martin03 | 1,940,839
+54 | swampyswede | 1,928,909
+55 | zdubs | 1,926,998
 56 | catlover-100 | 1,913,578
 57 | 0-Give-a-fucks | 1,844,329
 58 | dealkhabari | 1,763,283
