@@ -1,16 +1,16 @@
-Last updated: 23-09-03 19:40:58 UTC  
+Last updated: 23-09-03 19:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
 2 | Wonderful_Bad6531 | 36,116,404
-3 | nakamo-toe | 31,992,428
+3 | nakamo-toe | 32,034,497
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,133
 6 | Jeff5704 | 28,108,892
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,563,211
-9 | HODL-THE-LINE | 12,469,181
-10 | cutsickass | 12,423,107
+9 | cutsickass | 12,483,107
+10 | HODL-THE-LINE | 12,469,181
 11 | Parush9 | 11,958,456
 12 | _ships | 11,769,736
 13 | SammyCraigar | 10,274,622
@@ -89,15 +89,15 @@ Rank | Username | Totals Tips
 86 | CluelessSurvivor | 902,466
 87 | thee_monster | 896,765
 88 | Bobisdeadrun | 868,415
-89 | goldyluckinblokchain | 809,537
-90 | vbutarin | 802,000
-91 | ashketchup422 | 794,067
-92 | Cravensworth_redux | 790,803
-93 | ziggybri | 782,435
-94 | Westy3000 | 776,895
-95 | Lillica_Golden_SHIB | 756,490
-96 | RegalReptile_ | 753,708
-97 | CHEROKEEJ4CK | 734,063
+89 | CHEROKEEJ4CK | 814,148
+90 | goldyluckinblokchain | 809,537
+91 | vbutarin | 802,000
+92 | ashketchup422 | 794,067
+93 | Cravensworth_redux | 790,803
+94 | ziggybri | 782,435
+95 | Westy3000 | 776,895
+96 | Lillica_Golden_SHIB | 756,490
+97 | RegalReptile_ | 753,708
 98 | billywright4 | 728,766
 99 | starterpack420694 | 710,420
 100 | WarmIyWacky | 703,049
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | abracadabra087 | 694,045
 103 | Alanski22 | 690,306
 104 | firstmatedotxyz | 688,743
-105 | frickdom | 686,542
+105 | frickdom | 686,611
 106 | Duskopia | 680,133
 107 | Obi1eyeKenobi | 678,969
 108 | Due_Insurance8159 | 678,620
