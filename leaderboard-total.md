@@ -1,4 +1,4 @@
-Last updated: 23-09-03 16:40:45 UTC  
+Last updated: 23-09-03 16:51:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,802,767
@@ -48,14 +48,14 @@ Rank | Username | Totals Tips
 45 | send420nudes | 2,551,606
 46 | DontLaughArt | 2,528,386
 47 | bray_martin03 | 2,440,839
-48 | possibili-teas | 2,399,515
-49 | ImAlekBan | 2,356,506
-50 | GuyOne | 2,318,049
-51 | Autom4tic_Soze | 2,176,126
-52 | 002_timmy | 2,030,501
-53 | Affectionate_Hand_76 | 1,949,263
-54 | swampyswede | 1,928,909
-55 | zdubs | 1,926,998
+48 | zdubs | 2,426,998
+49 | possibili-teas | 2,399,515
+50 | ImAlekBan | 2,356,506
+51 | GuyOne | 2,318,049
+52 | Autom4tic_Soze | 2,176,126
+53 | 002_timmy | 2,030,501
+54 | Affectionate_Hand_76 | 1,949,263
+55 | swampyswede | 1,928,909
 56 | catlover-100 | 1,914,244
 57 | 0-Give-a-fucks | 1,844,329
 58 | dealkhabari | 1,763,283
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | abracadabra087 | 694,045
 103 | Alanski22 | 690,306
 104 | firstmatedotxyz | 688,743
-105 | frickdom | 683,879
+105 | frickdom | 686,542
 106 | Duskopia | 680,133
 107 | Obi1eyeKenobi | 678,969
 108 | Due_Insurance8159 | 678,620
@@ -668,15 +668,15 @@ Rank | Username | Totals Tips
 665 | Nugacity5 | 7,996
 666 | Coeruleus_ | 7,930
 667 | mronki | 7,737
-668 | isthisanavatar | 7,709
-669 | Chichakitty | 7,677
-670 | gold_digger333 | 7,577
-671 | king0ftheroad | 7,500
-672 | RiceRare | 7,491
-673 | Pengpangolin | 7,488
-674 | FlippiShh | 7,440
-675 | quaker-goats | 7,414
-676 | Squirrel_McNutz | 7,300
+668 | Squirrel_McNutz | 7,720
+669 | isthisanavatar | 7,709
+670 | Chichakitty | 7,677
+671 | gold_digger333 | 7,577
+672 | king0ftheroad | 7,500
+673 | RiceRare | 7,491
+674 | Pengpangolin | 7,488
+675 | FlippiShh | 7,440
+676 | quaker-goats | 7,414
 677 | Weirdclerk_ | 7,192
 678 | CryptoriumOfficial | 6,969
 679 | tbobs04 | 6,969
