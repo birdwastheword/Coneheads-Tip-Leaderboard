@@ -106,5 +106,6 @@ Rank | Date | Username | Tip size | to User
 103 | 2023-09-03 20:38:56 | nakamo-toe | 1,000,000| cutsickass
 104 | 2023-09-03 20:59:59 | SpookySYN | 1,000,000| cutsickass
 105 | 2023-09-03 21:26:21 | jimfird | 1,000,000| transfermymoons
+106 | 2023-09-03 22:10:36 | Puddin-Luv | 1,000,000| cutsickass
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
