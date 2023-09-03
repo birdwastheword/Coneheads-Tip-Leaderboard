@@ -1,7 +1,7 @@
-Last updated: 23-09-03 17:01:00 UTC  
+Last updated: 23-09-03 17:25:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 39,829,397
+1 | Bitdream200K | 39,856,027
 2 | Wonderful_Bad6531 | 36,116,404
 3 | nakamo-toe | 31,899,222
 4 | rickribera93 | 28,283,727
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,563,211
 9 | HODL-THE-LINE | 12,469,181
-10 | cutsickass | 12,093,107
+10 | cutsickass | 12,123,107
 11 | Parush9 | 11,958,456
 12 | _ships | 11,754,913
 13 | SammyCraigar | 10,271,351
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Puddin-Luv | 5,578,421
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,831,031
-28 | IveDoneItAtLast | 4,807,397
+28 | IveDoneItAtLast | 4,808,425
 29 | Ginomania | 4,544,571
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | HestiaIsTheBestia | 1,188,046
 73 | Richicash | 1,181,855
 74 | Feetfailmenot | 1,151,105
-75 | Hot_Potato_Salad | 1,146,957
+75 | Hot_Potato_Salad | 1,147,026
 76 | beastlybaker | 1,138,701
 77 | LongCauliflower6791 | 1,122,440
 78 | freechickens | 1,028,386
