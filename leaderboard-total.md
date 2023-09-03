@@ -1,4 +1,4 @@
-Last updated: 23-09-03 11:50:58 UTC  
+Last updated: 23-09-03 12:44:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,802,767
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,831,031
-27 | IveDoneItAtLast | 4,774,035
+27 | IveDoneItAtLast | 4,783,126
 28 | Puddin-Luv | 4,566,929
 29 | Ginomania | 4,544,571
 30 | rikbona | 4,540,773
@@ -63,13 +63,13 @@ Rank | Username | Totals Tips
 60 | investigator100 | 1,623,983
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
-63 | evilninjarobot | 1,462,576
-64 | djrcollectables | 1,462,178
+63 | djrcollectables | 1,464,841
+64 | evilninjarobot | 1,462,576
 65 | isthistomorrow_ | 1,368,790
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
 68 | ValiantJudge29500 | 1,332,984
-69 | CMDRGlamdring | 1,286,752
+69 | CMDRGlamdring | 1,287,752
 70 | saintajoras | 1,236,573
 71 | revdrgonzo | 1,235,635
 72 | HestiaIsTheBestia | 1,188,046
@@ -181,8 +181,8 @@ Rank | Username | Totals Tips
 178 | Flimsy_Brilliant_239 | 265,592
 179 | MisterM0H0 | 264,338
 180 | Hactar_42 | 256,832
-181 | tmanfromEarth | 256,392
-182 | Lillica_Golden_SHIB | 256,292
+181 | Lillica_Golden_SHIB | 256,490
+182 | tmanfromEarth | 256,392
 183 | thecrabdad | 256,177
 184 | Ambitious-Minimum-80 | 252,035
 185 | Sattack4000 | 250,837
@@ -203,7 +203,7 @@ Rank | Username | Totals Tips
 200 | alexthemay | 214,131
 201 | Beenthorny | 212,362
 202 | SigSalvadore | 212,358
-203 | Significant_Talk4943 | 211,599
+203 | Significant_Talk4943 | 212,019
 204 | Adrewmc | 211,177
 205 | UWphoto | 210,403
 206 | Ashamed_Raccoon9918 | 209,361
@@ -385,9 +385,9 @@ Rank | Username | Totals Tips
 382 | ky0984 | 52,257
 383 | mofayew | 52,166
 384 | ConeHead710 | 52,012
-385 | lucivaryas | 51,420
-386 | d0ntmess87 | 51,278
-387 | SandersIncBV | 50,277
+385 | SandersIncBV | 51,614
+386 | lucivaryas | 51,420
+387 | d0ntmess87 | 51,278
 388 | Yogi_Kat | 49,785
 389 | hey_barry | 49,698
 390 | eatthebagels | 49,692
@@ -748,16 +748,16 @@ Rank | Username | Totals Tips
 745 | Werd2jaH | 4,205
 746 | OG_Bobcat32 | 4,200
 747 | officialzodiacbeats | 4,194
-748 | DrAgaricus | 4,111
-749 | JAlbert653 | 4,095
-750 | LaPantheRose | 4,078
-751 | Ronkad | 4,003
-752 | Puzzleheaded_Popup | 4,000
-753 | nathanroberts14 | 4,000
-754 | Badit_01 | 3,992
-755 | Soil_Electronic | 3,975
-756 | Dreadaussie | 3,920
-757 | SaberTurret | 3,900
+748 | SaberTurret | 4,163
+749 | DrAgaricus | 4,111
+750 | JAlbert653 | 4,095
+751 | LaPantheRose | 4,078
+752 | Ronkad | 4,003
+753 | Puzzleheaded_Popup | 4,000
+754 | nathanroberts14 | 4,000
+755 | Badit_01 | 3,992
+756 | Soil_Electronic | 3,975
+757 | Dreadaussie | 3,920
 758 | Most_Border_3917 | 3,801
 759 | carsonthecarsinogen | 3,769
 760 | Buzzalu | 3,723
