@@ -1,4 +1,4 @@
-Last updated: 23-09-03 18:33:49 UTC  
+Last updated: 23-09-03 18:42:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -10,12 +10,12 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,563,211
 9 | HODL-THE-LINE | 12,469,181
-10 | cutsickass | 12,333,107
+10 | cutsickass | 12,363,107
 11 | Parush9 | 11,958,456
 12 | _ships | 11,763,656
 13 | SammyCraigar | 10,271,959
 14 | 8inchConer | 8,947,480
-15 | transfermymoons | 8,700,558
+15 | transfermymoons | 8,850,558
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
@@ -552,13 +552,13 @@ Rank | Username | Totals Tips
 549 | OutrageousStudy6752 | 17,087
 550 | Sebanimation | 17,004
 551 | leviathynx | 16,901
-552 | ipsole | 16,425
-553 | Styl_Ianos_ | 16,328
-554 | Complete-Tadpole-728 | 16,256
-555 | deeeznotes | 16,235
-556 | Conflict63 | 16,063
-557 | giooo_tdm | 15,895
-558 | MantisToboggan66 | 15,747
+552 | MantisToboggan66 | 16,437
+553 | ipsole | 16,425
+554 | Styl_Ianos_ | 16,328
+555 | Complete-Tadpole-728 | 16,256
+556 | deeeznotes | 16,235
+557 | Conflict63 | 16,063
+558 | giooo_tdm | 15,895
 559 | Zwott | 15,441
 560 | Fr3sh-Ch3mical | 15,393
 561 | Rookslook | 15,359
