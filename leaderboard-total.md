@@ -1,9 +1,9 @@
-Last updated: 23-09-03 19:50:38 UTC  
+Last updated: 23-09-03 20:19:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
 2 | Wonderful_Bad6531 | 36,116,404
-3 | nakamo-toe | 32,034,497
+3 | nakamo-toe | 32,327,427
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,133
 6 | Jeff5704 | 28,108,892
@@ -120,8 +120,8 @@ Rank | Username | Totals Tips
 117 | Burzzzt88 | 589,129
 118 | Independent_Heart_15 | 578,825
 119 | formidable-opponent | 573,625
-120 | nichnotnick | 559,101
-121 | dopelifer09 | 557,601
+120 | dopelifer09 | 560,264
+121 | nichnotnick | 559,101
 122 | MorrisBrett514 | 550,361
 123 | Korean_Street_Pizza | 543,002
 124 | StepAsideSuckers | 540,695
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | f0n1xr131ng | 509,681
 131 | AcceptableLeg8751 | 500,000
 132 | Successful-Walk-3902 | 498,794
-133 | Crypto-4-Freedom | 495,658
+133 | Crypto-4-Freedom | 496,078
 134 | crodbtc | 489,648
 135 | sinlesco | 462,490
 136 | WarmlyWacky | 462,118
