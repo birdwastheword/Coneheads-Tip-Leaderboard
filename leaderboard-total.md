@@ -1,8 +1,8 @@
-Last updated: 23-09-03 06:34:40 UTC  
+Last updated: 23-09-03 06:43:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
-2 | Wonderful_Bad6531 | 35,115,796
+2 | Wonderful_Bad6531 | 35,116,404
 3 | nakamo-toe | 31,899,222
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,206,064
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,432,713
-33 | birdwastheword | 4,362,847
+33 | birdwastheword | 4,365,510
 34 | rustyybikes | 4,263,336
 35 | VIVOffical | 3,975,672
 36 | clean_cut89 | 3,592,172
@@ -120,15 +120,15 @@ Rank | Username | Totals Tips
 117 | formidable-opponent | 565,848
 118 | dopelifer09 | 557,601
 119 | nichnotnick | 556,778
-120 | StepAsideSuckers | 540,695
-121 | scientifichistorian | 539,560
-122 | shreyaskg | 538,211
-123 | Korean_Street_Pizza | 537,607
-124 | doktastonks | 521,325
-125 | junkwatch | 518,383
-126 | Allions1 | 513,842
-127 | f0n1xr131ng | 509,681
-128 | MorrisBrett514 | 507,872
+120 | MorrisBrett514 | 549,941
+121 | StepAsideSuckers | 540,695
+122 | scientifichistorian | 539,560
+123 | shreyaskg | 538,211
+124 | Korean_Street_Pizza | 537,607
+125 | doktastonks | 521,325
+126 | junkwatch | 518,383
+127 | Allions1 | 513,842
+128 | f0n1xr131ng | 509,681
 129 | Successful-Walk-3902 | 498,794
 130 | crodbtc | 489,648
 131 | sinlesco | 462,490
