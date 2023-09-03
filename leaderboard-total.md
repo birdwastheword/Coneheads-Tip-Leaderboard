@@ -1,4 +1,4 @@
-Last updated: 23-09-03 11:31:00 UTC  
+Last updated: 23-09-03 11:40:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,802,767
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,435,376
-33 | birdwastheword | 4,370,836
+33 | birdwastheword | 4,373,499
 34 | rustyybikes | 4,263,944
 35 | VIVOffical | 3,975,672
 36 | clean_cut89 | 3,592,172
