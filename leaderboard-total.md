@@ -1,4 +1,4 @@
-Last updated: 23-09-03 04:33:16 UTC  
+Last updated: 23-09-03 04:41:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Geniuskills | 6,778,831
 21 | Real_Player_0 | 6,563,858
 22 | ashinamune | 6,417,414
-23 | HippieStarTraveler | 6,255,481
+23 | HippieStarTraveler | 6,255,901
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,831,031
