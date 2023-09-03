@@ -1,4 +1,4 @@
-Last updated: 23-09-03 15:30:43 UTC  
+Last updated: 23-09-03 15:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,802,767
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,797,621
 20 | Geniuskills | 6,778,831
-21 | Real_Player_0 | 6,565,074
+21 | Real_Player_0 | 6,565,682
 22 | ashinamune | 6,417,414
 23 | HippieStarTraveler | 6,255,901
 24 | SpookySYN | 5,748,458
