@@ -1,4 +1,4 @@
-Last updated: 23-09-03 11:22:29 UTC  
+Last updated: 23-09-03 11:31:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,802,767
@@ -158,8 +158,8 @@ Rank | Username | Totals Tips
 155 | Tinman_ApE | 342,447
 156 | anony666mous | 341,008
 157 | tsudrat | 340,707
-158 | DAMG808 | 339,266
-159 | ultra_terrestrial | 333,136
+158 | ultra_terrestrial | 340,105
+159 | DAMG808 | 339,266
 160 | Dripbot8 | 325,384
 161 | EffinDrongoC | 312,738
 162 | x52x | 304,860
@@ -612,7 +612,7 @@ Rank | Username | Totals Tips
 609 | xllw | 11,000
 610 | PurpleCoveredSnow | 10,915
 611 | Zealousideal-War6206 | 10,905
-612 | maurinet79 | 10,840
+612 | maurinet79 | 10,844
 613 | j9101a | 10,804
 614 | ancheli | 10,588
 615 | Straton_Conemont_Inc | 10,550
