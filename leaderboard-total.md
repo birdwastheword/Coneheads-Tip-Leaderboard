@@ -1,4 +1,4 @@
-Last updated: 23-09-03 18:50:37 UTC  
+Last updated: 23-09-03 19:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | HODL-THE-LINE | 12,469,181
 10 | cutsickass | 12,393,107
 11 | Parush9 | 11,958,456
-12 | _ships | 11,763,656
+12 | _ships | 11,769,736
 13 | SammyCraigar | 10,271,959
 14 | 8inchConer | 8,947,480
 15 | transfermymoons | 8,850,558
@@ -342,9 +342,9 @@ Rank | Username | Totals Tips
 339 | AnduriII | 68,313
 340 | Friendly-Airline2426 | 66,547
 341 | imp3order | 65,546
-342 | damnusernamegotcutof | 65,004
-343 | ElmerBlack | 64,810
-344 | shellystarzz | 64,650
+342 | shellystarzz | 65,258
+343 | damnusernamegotcutof | 65,004
+344 | ElmerBlack | 64,810
 345 | zuzieey7719 | 64,549
 346 | Iulian_TechNewb | 63,965
 347 | BitCone_CONE | 63,610
