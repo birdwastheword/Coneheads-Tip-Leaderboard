@@ -101,5 +101,6 @@ Rank | Date | Username | Tip size | to User
 98 | 2023-08-29 02:54:39 | Mundane-Farm-4117 | 1,000,000| SpookySYN
 99 | 2023-08-31 17:51:47 | _ships | 1,000,000| GuyOne
 100 | 2023-09-01 13:02:25 | HippieStarTraveler | 1,000,000| Iulian_TechNewb
+101 | 2023-09-03 13:52:56 | Wonderful_Bad6531 | 1,000,000| transfermymoons
 
 Tips over 1,000,000 will be eligible for the Hall of Fame

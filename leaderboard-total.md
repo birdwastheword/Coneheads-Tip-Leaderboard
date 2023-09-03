@@ -1,8 +1,8 @@
-Last updated: 23-09-03 13:50:33 UTC  
+Last updated: 23-09-03 14:01:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,802,767
-2 | Wonderful_Bad6531 | 35,116,404
+2 | Wonderful_Bad6531 | 36,116,404
 3 | nakamo-toe | 31,899,222
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,133
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,563,211
 9 | HODL-THE-LINE | 12,469,181
-10 | cutsickass | 12,092,599
+10 | cutsickass | 12,093,107
 11 | Parush9 | 11,958,456
 12 | _ships | 11,754,913
 13 | SammyCraigar | 10,271,351
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,831,031
-27 | IveDoneItAtLast | 4,783,734
+27 | IveDoneItAtLast | 4,786,397
 28 | Puddin-Luv | 4,566,929
 29 | Ginomania | 4,544,571
 30 | rikbona | 4,540,773
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | 0-Give-a-fucks | 1,844,329
 58 | dealkhabari | 1,763,283
 59 | Ten-Mins-Late | 1,706,113
-60 | investigator100 | 1,623,983
+60 | investigator100 | 1,633,983
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
 63 | djrcollectables | 1,470,167
@@ -122,8 +122,8 @@ Rank | Username | Totals Tips
 119 | dopelifer09 | 557,601
 120 | nichnotnick | 556,778
 121 | MorrisBrett514 | 550,361
-122 | StepAsideSuckers | 540,695
-123 | Korean_Street_Pizza | 540,339
+122 | Korean_Street_Pizza | 543,002
+123 | StepAsideSuckers | 540,695
 124 | scientifichistorian | 539,560
 125 | shreyaskg | 538,211
 126 | doktastonks | 521,325
@@ -735,20 +735,20 @@ Rank | Username | Totals Tips
 732 | mcbifter | 4,834
 733 | Fcbp | 4,800
 734 | billw1zz | 4,791
-735 | Strict_Berry366 | 4,680
-736 | AnimeFlamingo | 4,620
-737 | Photo_Shop_Beast | 4,585
-738 | Sledheadjack | 4,528
-739 | FoLKOM | 4,422
-740 | Ok-Profile-1744 | 4,383
-741 | Defeat-the-Kraken | 4,379
-742 | _dual1ty | 4,333
-743 | DepressedVegabond | 4,300
-744 | ADT06 | 4,260
-745 | Werd2jaH | 4,205
-746 | OG_Bobcat32 | 4,200
-747 | officialzodiacbeats | 4,194
-748 | SaberTurret | 4,163
+735 | SaberTurret | 4,771
+736 | Strict_Berry366 | 4,680
+737 | AnimeFlamingo | 4,620
+738 | Photo_Shop_Beast | 4,585
+739 | Sledheadjack | 4,528
+740 | FoLKOM | 4,422
+741 | Ok-Profile-1744 | 4,383
+742 | Defeat-the-Kraken | 4,379
+743 | _dual1ty | 4,333
+744 | DepressedVegabond | 4,300
+745 | ADT06 | 4,260
+746 | Werd2jaH | 4,205
+747 | OG_Bobcat32 | 4,200
+748 | officialzodiacbeats | 4,194
 749 | DrAgaricus | 4,111
 750 | JAlbert653 | 4,095
 751 | LaPantheRose | 4,078
