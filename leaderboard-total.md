@@ -1,4 +1,4 @@
-Last updated: 23-09-03 17:34:32 UTC  
+Last updated: 23-09-03 17:43:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | cutsickass | 12,213,107
 11 | Parush9 | 11,958,456
 12 | _ships | 11,754,913
-13 | SammyCraigar | 10,271,351
+13 | SammyCraigar | 10,271,959
 14 | 8inchConer | 8,947,480
 15 | transfermymoons | 8,700,558
 16 | ArtConsitent | 8,532,379
@@ -197,8 +197,8 @@ Rank | Username | Totals Tips
 194 | Zalkwalker | 235,069
 195 | MuhSound | 233,392
 196 | joeviani | 230,028
-197 | Conetent | 221,843
-198 | fettskull | 219,637
+197 | fettskull | 222,300
+198 | Conetent | 221,843
 199 | SourBeefHoop | 217,512
 200 | the_judge_168 | 217,472
 201 | alexthemay | 214,131
