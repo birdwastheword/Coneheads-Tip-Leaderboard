@@ -1,4 +1,4 @@
-Last updated: 23-09-03 20:50:37 UTC  
+Last updated: 23-09-03 21:00:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -20,11 +20,11 @@ Rank | Username | Totals Tips
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
-20 | Geniuskills | 6,778,831
-21 | Real_Player_0 | 6,565,682
-22 | ashinamune | 6,417,414
-23 | HippieStarTraveler | 6,255,901
-24 | SpookySYN | 5,940,702
+20 | SpookySYN | 6,940,702
+21 | Geniuskills | 6,778,831
+22 | Real_Player_0 | 6,565,682
+23 | ashinamune | 6,417,414
+24 | HippieStarTraveler | 6,255,901
 25 | Puddin-Luv | 5,578,841
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,831,031
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,435,376
-33 | birdwastheword | 4,376,162
+33 | birdwastheword | 4,378,825
 34 | rustyybikes | 4,263,944
 35 | VIVOffical | 3,975,672
 36 | clean_cut89 | 3,592,172
