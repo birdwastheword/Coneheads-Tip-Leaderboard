@@ -1,4 +1,4 @@
-Last updated: 23-09-03 09:34:00 UTC  
+Last updated: 23-09-03 09:42:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,802,767
@@ -117,7 +117,7 @@ Rank | Username | Totals Tips
 114 | El_Gordone | 592,784
 115 | superlonelyboy | 591,419
 116 | Independent_Heart_15 | 578,825
-117 | formidable-opponent | 565,848
+117 | formidable-opponent | 573,625
 118 | dopelifer09 | 557,601
 119 | nichnotnick | 556,778
 120 | MorrisBrett514 | 550,361
