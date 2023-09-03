@@ -1,4 +1,4 @@
-Last updated: 23-09-03 20:40:37 UTC  
+Last updated: 23-09-03 20:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -72,12 +72,12 @@ Rank | Username | Totals Tips
 69 | CMDRGlamdring | 1,300,415
 70 | saintajoras | 1,236,573
 71 | revdrgonzo | 1,235,635
-72 | HestiaIsTheBestia | 1,188,046
-73 | Richicash | 1,181,855
-74 | Feetfailmenot | 1,151,105
-75 | Hot_Potato_Salad | 1,147,026
-76 | beastlybaker | 1,138,701
-77 | LongCauliflower6791 | 1,122,440
+72 | LongCauliflower6791 | 1,222,440
+73 | HestiaIsTheBestia | 1,188,046
+74 | Richicash | 1,181,855
+75 | Feetfailmenot | 1,151,105
+76 | Hot_Potato_Salad | 1,147,026
+77 | beastlybaker | 1,138,701
 78 | freechickens | 1,028,386
 79 | avatarbot | 1,027,000
 80 | WarmBiertje | 1,000,000
@@ -156,8 +156,8 @@ Rank | Username | Totals Tips
 153 | AustinTX1985 | 368,863
 154 | farmertypoerror | 359,212
 155 | Lion-Hermit | 356,884
-156 | noface_reddit | 346,221
-157 | ultra_terrestrial | 344,305
+156 | ultra_terrestrial | 348,505
+157 | noface_reddit | 346,221
 158 | Outrageous-Skill-464 | 344,174
 159 | Tinman_ApE | 342,447
 160 | anony666mous | 341,008
