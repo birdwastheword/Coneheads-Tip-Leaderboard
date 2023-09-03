@@ -1,4 +1,4 @@
-Last updated: 23-09-03 07:50:35 UTC  
+Last updated: 23-09-03 08:23:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | cutsickass | 12,029,936
 11 | Parush9 | 11,958,456
 12 | _ships | 11,754,913
-13 | SammyCraigar | 10,243,505
+13 | SammyCraigar | 10,271,351
 14 | 8inchConer | 8,947,480
 15 | ArtConsitent | 8,532,379
 16 | Permanent_WSB_Bull | 8,522,155
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,831,031
-27 | IveDoneItAtLast | 4,733,611
+27 | IveDoneItAtLast | 4,738,891
 28 | Puddin-Luv | 4,566,929
 29 | Ginomania | 4,544,571
 30 | rikbona | 4,540,773
