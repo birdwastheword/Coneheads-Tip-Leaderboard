@@ -1,4 +1,4 @@
-Last updated: 23-09-03 07:16:04 UTC  
+Last updated: 23-09-03 07:24:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -27,12 +27,12 @@ Rank | Username | Totals Tips
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,831,031
-27 | IveDoneItAtLast | 4,719,006
+27 | IveDoneItAtLast | 4,725,014
 28 | Puddin-Luv | 4,566,929
 29 | Ginomania | 4,544,571
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,432,713
+32 | redzrex | 4,435,376
 33 | birdwastheword | 4,365,510
 34 | rustyybikes | 4,263,336
 35 | VIVOffical | 3,975,672
