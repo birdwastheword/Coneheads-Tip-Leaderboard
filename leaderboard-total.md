@@ -1,16 +1,16 @@
-Last updated: 23-09-03 17:25:49 UTC  
+Last updated: 23-09-03 17:34:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
 2 | Wonderful_Bad6531 | 36,116,404
-3 | nakamo-toe | 31,899,222
+3 | nakamo-toe | 31,928,515
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,133
 6 | Jeff5704 | 28,108,892
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,563,211
 9 | HODL-THE-LINE | 12,469,181
-10 | cutsickass | 12,123,107
+10 | cutsickass | 12,213,107
 11 | Parush9 | 11,958,456
 12 | _ships | 11,754,913
 13 | SammyCraigar | 10,271,351
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
-19 | avyun | 7,797,621
+19 | avyun | 7,804,620
 20 | Geniuskills | 6,778,831
 21 | Real_Player_0 | 6,565,682
 22 | ashinamune | 6,417,414
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Puddin-Luv | 5,578,421
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,831,031
-28 | IveDoneItAtLast | 4,808,425
+28 | IveDoneItAtLast | 4,811,088
 29 | Ginomania | 4,544,571
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
