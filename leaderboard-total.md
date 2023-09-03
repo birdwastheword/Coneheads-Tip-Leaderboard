@@ -1,4 +1,4 @@
-Last updated: 23-09-03 22:50:45 UTC  
+Last updated: 23-09-03 23:18:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -20,11 +20,11 @@ Rank | Username | Totals Tips
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
-20 | SpookySYN | 7,140,702
-21 | Puddin-Luv | 6,920,846
+20 | SpookySYN | 7,169,695
+21 | Puddin-Luv | 6,923,509
 22 | Geniuskills | 6,778,831
-23 | Real_Player_0 | 6,565,682
-24 | ashinamune | 6,444,044
+23 | Real_Player_0 | 6,566,290
+24 | ashinamune | 6,544,652
 25 | HippieStarTraveler | 6,255,901
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,833,694
@@ -96,7 +96,7 @@ Rank | Username | Totals Tips
 93 | ashketchup422 | 794,067
 94 | Cravensworth_redux | 790,803
 95 | ziggybri | 782,435
-96 | Westy3000 | 779,710
+96 | Westy3000 | 782,043
 97 | Lillica_Golden_SHIB | 756,490
 98 | RegalReptile_ | 753,708
 99 | billywright4 | 728,766
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | AcceptableLeg8751 | 500,000
 133 | Successful-Walk-3902 | 498,794
 134 | Crypto-4-Freedom | 496,078
-135 | crodbtc | 489,648
+135 | crodbtc | 492,311
 136 | sinlesco | 462,490
 137 | WarmlyWacky | 462,118
 138 | MediaPrestigious8342 | 453,839
@@ -146,17 +146,17 @@ Rank | Username | Totals Tips
 143 | RazPie | 429,317
 144 | Mopeiooo | 427,266
 145 | dronegeeks1 | 414,406
-146 | LrnFaroeseWthBergur | 409,488
-147 | DogSpark84 | 405,908
-148 | PortCity_MadMan | 394,221
-149 | Creepy-Nectarine-225 | 389,511
-150 | WhateverAlready | 385,881
-151 | SHIFTY-T3RROR | 380,120
-152 | zenhodl | 374,566
-153 | hellosamaira | 373,235
-154 | AustinTX1985 | 368,863
-155 | farmertypoerror | 359,212
-156 | Lion-Hermit | 356,884
+146 | Lion-Hermit | 409,547
+147 | LrnFaroeseWthBergur | 409,488
+148 | DogSpark84 | 405,908
+149 | PortCity_MadMan | 394,221
+150 | Creepy-Nectarine-225 | 389,511
+151 | WhateverAlready | 385,881
+152 | SHIFTY-T3RROR | 380,120
+153 | zenhodl | 374,566
+154 | hellosamaira | 373,235
+155 | AustinTX1985 | 368,863
+156 | farmertypoerror | 359,212
 157 | ultra_terrestrial | 348,925
 158 | noface_reddit | 346,221
 159 | Outrageous-Skill-464 | 344,174
@@ -196,9 +196,9 @@ Rank | Username | Totals Tips
 193 | thestonkinator | 246,260
 194 | coolpattakers | 241,036
 195 | tjex666 | 240,801
-196 | Zalkwalker | 235,069
-197 | MuhSound | 233,392
-198 | joeviani | 230,028
+196 | joeviani | 240,028
+197 | Zalkwalker | 235,069
+198 | MuhSound | 233,392
 199 | fettskull | 222,300
 200 | Conetent | 221,843
 201 | SourBeefHoop | 217,512
@@ -327,10 +327,10 @@ Rank | Username | Totals Tips
 324 | XeroGrave | 76,579
 325 | BeefaloSlim | 75,182
 326 | MedicineMaterial3501 | 74,654
-327 | Diamond_PnutBrain | 73,619
-328 | I_AM_MORE_BADASS | 72,332
-329 | adi_00_ | 71,759
-330 | pwan7505 | 71,230
+327 | pwan7505 | 73,893
+328 | Diamond_PnutBrain | 73,619
+329 | I_AM_MORE_BADASS | 72,332
+330 | adi_00_ | 71,759
 331 | sparanaghcoar | 71,118
 332 | drche35 | 70,397
 333 | Heycheckthisout20 | 70,282
