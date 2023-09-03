@@ -1,4 +1,4 @@
-Last updated: 23-09-03 14:22:54 UTC  
+Last updated: 23-09-03 14:31:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,802,767
@@ -43,14 +43,14 @@ Rank | Username | Totals Tips
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,111,795
 42 | Mean_Bandicoot_7481 | 2,752,108
-43 | _Royal_Insylum | 2,603,787
-44 | send420nudes | 2,551,606
-45 | DontLaughArt | 2,528,386
-46 | possibili-teas | 2,399,515
-47 | ImAlekBan | 2,356,506
-48 | GuyOne | 2,318,049
-49 | Autom4tic_Soze | 2,176,126
-50 | Fenrir-1919 | 2,138,029
+43 | Fenrir-1919 | 2,638,029
+44 | _Royal_Insylum | 2,603,787
+45 | send420nudes | 2,551,606
+46 | DontLaughArt | 2,528,386
+47 | possibili-teas | 2,399,515
+48 | ImAlekBan | 2,356,506
+49 | GuyOne | 2,318,049
+50 | Autom4tic_Soze | 2,176,126
 51 | 002_timmy | 2,030,501
 52 | Affectionate_Hand_76 | 1,949,263
 53 | bray_martin03 | 1,940,839
@@ -94,7 +94,7 @@ Rank | Username | Totals Tips
 91 | ashketchup422 | 794,067
 92 | Cravensworth_redux | 790,803
 93 | ziggybri | 782,435
-94 | Westy3000 | 776,673
+94 | Westy3000 | 776,895
 95 | Lillica_Golden_SHIB | 756,490
 96 | RegalReptile_ | 753,708
 97 | CHEROKEEJ4CK | 734,063
