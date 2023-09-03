@@ -1,4 +1,4 @@
-Last updated: 23-09-03 05:32:04 UTC  
+Last updated: 23-09-03 05:40:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,728,201
 20 | Geniuskills | 6,778,831
-21 | Real_Player_0 | 6,563,858
+21 | Real_Player_0 | 6,564,466
 22 | ashinamune | 6,417,414
 23 | HippieStarTraveler | 6,255,901
 24 | SpookySYN | 5,748,458
@@ -262,7 +262,7 @@ Rank | Username | Totals Tips
 259 | wato4000 | 121,465
 260 | stupidcupid112 | 121,421
 261 | Schl0tz | 120,000
-262 | pythonskynet | 117,794
+262 | pythonskynet | 118,214
 263 | street_shark_puppet | 116,891
 264 | lordciders | 116,606
 265 | CaptainCheeseCake | 115,981
