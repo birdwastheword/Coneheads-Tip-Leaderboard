@@ -1,7 +1,7 @@
-Last updated: 23-09-03 08:50:47 UTC  
+Last updated: 23-09-03 09:17:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 39,536,467
+1 | Bitdream200K | 39,802,767
 2 | Wonderful_Bad6531 | 35,116,404
 3 | nakamo-toe | 31,899,222
 4 | rickribera93 | 28,283,727
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,563,211
 9 | HODL-THE-LINE | 12,469,181
-10 | cutsickass | 12,029,936
+10 | cutsickass | 12,089,936
 11 | Parush9 | 11,958,456
 12 | _ships | 11,754,913
 13 | SammyCraigar | 10,271,351
@@ -56,7 +56,7 @@ Rank | Username | Totals Tips
 53 | bray_martin03 | 1,940,839
 54 | swampyswede | 1,928,909
 55 | zdubs | 1,926,998
-56 | catlover-100 | 1,913,578
+56 | catlover-100 | 1,914,244
 57 | 0-Give-a-fucks | 1,844,329
 58 | dealkhabari | 1,763,283
 59 | Ten-Mins-Late | 1,706,113
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
 63 | evilninjarobot | 1,462,576
-64 | djrcollectables | 1,432,885
+64 | djrcollectables | 1,462,178
 65 | isthistomorrow_ | 1,368,790
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
