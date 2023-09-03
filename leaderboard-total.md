@@ -1,4 +1,4 @@
-Last updated: 23-09-03 12:44:18 UTC  
+Last updated: 23-09-03 12:59:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,802,767
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,435,376
-33 | birdwastheword | 4,373,499
+33 | birdwastheword | 4,376,162
 34 | rustyybikes | 4,263,944
 35 | VIVOffical | 3,975,672
 36 | clean_cut89 | 3,592,172
@@ -154,11 +154,11 @@ Rank | Username | Totals Tips
 151 | farmertypoerror | 359,212
 152 | Lion-Hermit | 355,884
 153 | noface_reddit | 346,221
-154 | Outrageous-Skill-464 | 344,174
-155 | Tinman_ApE | 342,447
-156 | anony666mous | 341,008
-157 | tsudrat | 340,707
-158 | ultra_terrestrial | 340,105
+154 | ultra_terrestrial | 344,305
+155 | Outrageous-Skill-464 | 344,174
+156 | Tinman_ApE | 342,447
+157 | anony666mous | 341,008
+158 | tsudrat | 340,707
 159 | DAMG808 | 339,266
 160 | Dripbot8 | 325,384
 161 | EffinDrongoC | 312,738
