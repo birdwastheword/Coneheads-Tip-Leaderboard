@@ -1,4 +1,4 @@
-Last updated: 23-09-03 20:19:07 UTC  
+Last updated: 23-09-03 20:30:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,108,892
 7 | ConeDesk | 17,947,653
 8 | crypto_grandma | 12,563,211
-9 | cutsickass | 12,483,107
+9 | cutsickass | 12,513,107
 10 | HODL-THE-LINE | 12,469,181
 11 | Parush9 | 11,958,456
 12 | _ships | 11,769,736
@@ -120,7 +120,7 @@ Rank | Username | Totals Tips
 117 | Burzzzt88 | 589,129
 118 | Independent_Heart_15 | 578,825
 119 | formidable-opponent | 573,625
-120 | dopelifer09 | 560,264
+120 | dopelifer09 | 566,448
 121 | nichnotnick | 559,101
 122 | MorrisBrett514 | 550,361
 123 | Korean_Street_Pizza | 543,002
