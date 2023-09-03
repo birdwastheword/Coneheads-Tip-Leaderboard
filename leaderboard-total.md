@@ -1,4 +1,4 @@
-Last updated: 23-09-03 08:23:43 UTC  
+Last updated: 23-09-03 08:33:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | Permanent_WSB_Bull | 8,522,155
 17 | transfermymoons | 8,100,558
 18 | Homeslicekilla | 7,995,797
-19 | avyun | 7,728,201
+19 | avyun | 7,797,621
 20 | Geniuskills | 6,778,831
 21 | Real_Player_0 | 6,564,466
 22 | ashinamune | 6,417,414
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | SpookySYN | 5,748,458
 25 | Skank_cunt_42 | 5,467,162
 26 | thelonliestcrowd | 4,831,031
-27 | IveDoneItAtLast | 4,738,891
+27 | IveDoneItAtLast | 4,741,554
 28 | Puddin-Luv | 4,566,929
 29 | Ginomania | 4,544,571
 30 | rikbona | 4,540,773
