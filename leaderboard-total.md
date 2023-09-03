@@ -1,4 +1,4 @@
-Last updated: 23-09-03 23:30:40 UTC  
+Last updated: 23-09-03 23:40:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -194,12 +194,12 @@ Rank | Username | Totals Tips
 191 | BeardedBro_ | 248,627
 192 | cannainform2 | 246,661
 193 | thestonkinator | 246,260
-194 | coolpattakers | 241,036
-195 | tjex666 | 240,801
-196 | joeviani | 240,028
-197 | Zalkwalker | 235,069
-198 | MuhSound | 233,392
-199 | fettskull | 222,300
+194 | fettskull | 242,300
+195 | coolpattakers | 241,036
+196 | tjex666 | 240,801
+197 | joeviani | 240,028
+198 | Zalkwalker | 235,069
+199 | MuhSound | 233,392
 200 | Conetent | 221,843
 201 | SourBeefHoop | 217,512
 202 | the_judge_168 | 217,472
