@@ -1,4 +1,4 @@
-Last updated: 23-09-03 03:50:42 UTC  
+Last updated: 23-09-03 04:25:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,536,467
@@ -234,10 +234,10 @@ Rank | Username | Totals Tips
 231 | sjakkpila | 159,557
 232 | 6reficul | 153,884
 233 | martymartinator | 152,560
-234 | CoverYourMaskHoles | 151,719
-235 | NotFullyTerrestrial | 151,302
-236 | satoshi_oscar_wilde | 150,072
-237 | yahuurdme | 149,283
+234 | yahuurdme | 151,946
+235 | CoverYourMaskHoles | 151,719
+236 | NotFullyTerrestrial | 151,302
+237 | satoshi_oscar_wilde | 150,072
 238 | BitcoinRefuge | 146,181
 239 | Doovs | 143,375
 240 | Sad_Entertainer9961 | 143,248
