@@ -1,4 +1,4 @@
-Last updated: 23-09-03 09:50:30 UTC  
+Last updated: 23-09-03 10:00:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,802,767
@@ -122,9 +122,9 @@ Rank | Username | Totals Tips
 119 | nichnotnick | 556,778
 120 | MorrisBrett514 | 550,361
 121 | StepAsideSuckers | 540,695
-122 | scientifichistorian | 539,560
-123 | shreyaskg | 538,211
-124 | Korean_Street_Pizza | 537,607
+122 | Korean_Street_Pizza | 540,270
+123 | scientifichistorian | 539,560
+124 | shreyaskg | 538,211
 125 | doktastonks | 521,325
 126 | junkwatch | 518,383
 127 | Allions1 | 513,842
