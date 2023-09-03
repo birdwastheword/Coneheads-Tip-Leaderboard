@@ -1,4 +1,4 @@
-Last updated: 23-09-03 23:40:47 UTC  
+Last updated: 23-09-03 23:51:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
-20 | SpookySYN | 7,169,695
+20 | SpookySYN | 7,196,325
 21 | Puddin-Luv | 6,923,509
 22 | Geniuskills | 6,778,831
 23 | Real_Player_0 | 6,566,290
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
 63 | djrcollectables | 1,499,460
-64 | evilninjarobot | 1,462,576
+64 | evilninjarobot | 1,465,239
 65 | isthistomorrow_ | 1,368,790
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
@@ -96,7 +96,7 @@ Rank | Username | Totals Tips
 93 | ashketchup422 | 794,067
 94 | Cravensworth_redux | 790,803
 95 | ziggybri | 782,435
-96 | Westy3000 | 782,043
+96 | Westy3000 | 782,265
 97 | Lillica_Golden_SHIB | 756,490
 98 | RegalReptile_ | 753,708
 99 | billywright4 | 728,766
@@ -341,8 +341,8 @@ Rank | Username | Totals Tips
 338 | Dazzling_Marzipan474 | 68,613
 339 | AnduriII | 68,313
 340 | Friendly-Airline2426 | 66,547
-341 | imp3order | 65,546
-342 | shellystarzz | 65,258
+341 | shellystarzz | 65,866
+342 | imp3order | 65,546
 343 | damnusernamegotcutof | 65,004
 344 | ElmerBlack | 64,810
 345 | zuzieey7719 | 64,549
