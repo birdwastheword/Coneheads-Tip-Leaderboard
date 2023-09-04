@@ -1,4 +1,4 @@
-Last updated: 23-09-04 17:22:40 UTC  
+Last updated: 23-09-04 17:30:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | __PDS__ | 595,709
 116 | El_Gordone | 592,784
 117 | superlonelyboy | 591,419
-118 | Burzzzt88 | 589,129
+118 | Burzzzt88 | 589,549
 119 | Independent_Heart_15 | 578,825
 120 | formidable-opponent | 574,402
 121 | dopelifer09 | 566,448
@@ -199,7 +199,7 @@ Rank | Username | Totals Tips
 196 | tjex666 | 240,801
 197 | joeviani | 240,028
 198 | Zalkwalker | 235,069
-199 | MuhSound | 233,392
+199 | MuhSound | 233,900
 200 | Conetent | 221,843
 201 | the_judge_168 | 217,892
 202 | SourBeefHoop | 217,512
@@ -300,12 +300,12 @@ Rank | Username | Totals Tips
 297 | CrossPuffs | 91,641
 298 | urlz | 91,281
 299 | DramaticProtogen | 90,274
-300 | Award-Bot | 90,000
-301 | MedicalJockey | 89,083
-302 | HokkaidoNights | 88,108
-303 | ShopALF | 87,942
-304 | kwickle | 87,805
-305 | Backwood20 | 87,566
+300 | Backwood20 | 90,229
+301 | Award-Bot | 90,000
+302 | MedicalJockey | 89,083
+303 | HokkaidoNights | 88,108
+304 | ShopALF | 87,942
+305 | kwickle | 87,805
 306 | qwertywich | 87,473
 307 | jurgensdapimp | 86,817
 308 | AhhhUhmmm | 86,220
@@ -1115,6 +1115,7 @@ Rank | Username | Totals Tips
 1112 | Prestigious-Expert15 | 1
 1113 | mango9574 | 1
 1114 | Ancient_Summer_1833 | 1
-1115 | Skull0 | 1
-1116 | Skywalker_047 | 1
-1117 | Park_With_No_S | 1
+1115 | SlowpokesEmporium | 1
+1116 | Skull0 | 1
+1117 | Skywalker_047 | 1
+1118 | Park_With_No_S | 1
