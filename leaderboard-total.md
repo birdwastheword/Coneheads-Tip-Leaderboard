@@ -1,4 +1,4 @@
-Last updated: 23-09-04 03:20:41 UTC  
+Last updated: 23-09-04 03:30:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,108,892
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 12,605,770
-9 | crypto_grandma | 12,563,211
+9 | crypto_grandma | 12,565,874
 10 | HODL-THE-LINE | 12,469,181
 11 | Parush9 | 11,958,456
 12 | _ships | 11,796,366
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
-20 | SpookySYN | 7,454,911
+20 | SpookySYN | 7,481,541
 21 | Puddin-Luv | 6,952,641
 22 | Geniuskills | 6,778,831
 23 | ashinamune | 6,576,608
@@ -208,22 +208,22 @@ Rank | Username | Totals Tips
 205 | SigSalvadore | 212,358
 206 | Significant_Talk4943 | 212,019
 207 | Adrewmc | 211,177
-208 | UWphoto | 210,403
-209 | Ashamed_Raccoon9918 | 209,361
-210 | Final-Scar-941 | 208,792
-211 | Esco1980 | 204,434
-212 | ziggyback | 203,369
-213 | CedricDiccory | 197,932
-214 | sudrats | 197,124
-215 | redditavanft | 195,122
-216 | AverageLiberalJoe | 195,007
-217 | RiightYouKnow | 193,329
-218 | ShortBusCult | 192,925
-219 | TummyLice | 192,880
-220 | bakerdawg555 | 192,028
-221 | Most_Being_4002 | 185,834
-222 | TubeNerd92 | 184,677
-223 | yahuurdme | 183,902
+208 | yahuurdme | 210,532
+209 | UWphoto | 210,403
+210 | Ashamed_Raccoon9918 | 209,361
+211 | Final-Scar-941 | 208,792
+212 | Esco1980 | 204,434
+213 | ziggyback | 203,369
+214 | CedricDiccory | 197,932
+215 | sudrats | 197,124
+216 | redditavanft | 195,122
+217 | AverageLiberalJoe | 195,007
+218 | RiightYouKnow | 193,329
+219 | ShortBusCult | 192,925
+220 | TummyLice | 192,880
+221 | bakerdawg555 | 192,028
+222 | Most_Being_4002 | 185,834
+223 | TubeNerd92 | 184,677
 224 | nooobmaester69 | 183,460
 225 | ruccarucca | 180,270
 226 | Heclalava | 178,035
