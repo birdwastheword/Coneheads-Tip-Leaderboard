@@ -1,4 +1,4 @@
-Last updated: 23-09-04 04:51:24 UTC  
+Last updated: 23-09-04 05:24:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -27,13 +27,13 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,566,290
 25 | HippieStarTraveler | 6,255,901
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,833,694
+27 | thelonliestcrowd | 4,836,777
 28 | IveDoneItAtLast | 4,812,314
 29 | Ginomania | 4,547,654
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,440,702
-33 | birdwastheword | 4,378,825
+33 | birdwastheword | 4,384,151
 34 | rustyybikes | 4,263,944
 35 | VIVOffical | 3,975,672
 36 | clean_cut89 | 3,592,172
@@ -254,17 +254,17 @@ Rank | Username | Totals Tips
 251 | jamjam794 | 130,675
 252 | Kevin3683 | 130,622
 253 | Mj_6o4 | 129,568
-254 | Awake-- | 128,173
-255 | robnectar | 127,974
-256 | CalligrapherEnough83 | 127,227
-257 | ZeMadMan1 | 125,262
-258 | Trakorr | 125,110
-259 | wato4000 | 124,128
+254 | wato4000 | 129,454
+255 | Awake-- | 128,173
+256 | robnectar | 127,974
+257 | CalligrapherEnough83 | 127,227
+258 | ZeMadMan1 | 125,262
+259 | Trakorr | 125,110
 260 | DeanDeanington | 123,915
 261 | Sativa55555 | 121,550
 262 | stupidcupid112 | 121,421
-263 | Schl0tz | 120,000
-264 | pythonskynet | 118,214
+263 | pythonskynet | 121,297
+264 | Schl0tz | 120,000
 265 | street_shark_puppet | 116,891
 266 | lordciders | 116,606
 267 | CaptainCheeseCake | 115,981
