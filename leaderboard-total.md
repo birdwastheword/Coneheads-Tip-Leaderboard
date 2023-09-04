@@ -1,4 +1,4 @@
-Last updated: 23-09-04 18:43:36 UTC  
+Last updated: 23-09-04 18:52:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
 63 | djrcollectables | 1,507,449
-64 | evilninjarobot | 1,477,534
+64 | evilninjarobot | 1,478,142
 65 | isthistomorrow_ | 1,381,135
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
@@ -192,7 +192,7 @@ Rank | Username | Totals Tips
 189 | Sattack4000 | 250,837
 190 | Gregoryonetulum | 249,309
 191 | BeardedBro_ | 248,627
-192 | cannainform2 | 246,661
+192 | cannainform2 | 247,662
 193 | thestonkinator | 246,260
 194 | fettskull | 242,300
 195 | coolpattakers | 241,036
@@ -563,8 +563,8 @@ Rank | Username | Totals Tips
 560 | Fr3sh-Ch3mical | 15,393
 561 | Rookslook | 15,359
 562 | Rake_wlkr | 15,330
-563 | imeme1969 | 15,070
-564 | Doublix | 15,054
+563 | Doublix | 15,074
+564 | imeme1969 | 15,070
 565 | Big_Bonus3617 | 14,763
 566 | redbasl | 14,643
 567 | mixmasterpayne | 14,478
@@ -1120,6 +1120,7 @@ Rank | Username | Totals Tips
 1117 | mango9574 | 1
 1118 | Ancient_Summer_1833 | 1
 1119 | SlowpokesEmporium | 1
-1120 | Skull0 | 1
-1121 | Skywalker_047 | 1
-1122 | Park_With_No_S | 1
+1120 | crawleyfinance | 1
+1121 | Skull0 | 1
+1122 | Skywalker_047 | 1
+1123 | Park_With_No_S | 1
