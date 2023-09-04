@@ -1,4 +1,4 @@
-Last updated: 23-09-04 19:23:51 UTC  
+Last updated: 23-09-04 19:32:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
-20 | SpookySYN | 7,540,127
+20 | SpookySYN | 7,545,453
 21 | Puddin-Luv | 6,962,812
 22 | Geniuskills | 6,805,461
 23 | ashinamune | 6,579,271
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
 63 | djrcollectables | 1,507,449
-64 | evilninjarobot | 1,478,142
+64 | evilninjarobot | 1,504,772
 65 | isthistomorrow_ | 1,381,135
 66 | CMDRGlamdring | 1,374,278
 67 | Mundane-Farm-4117 | 1,359,176
@@ -224,7 +224,7 @@ Rank | Username | Totals Tips
 221 | bakerdawg555 | 192,028
 222 | Iulian_TechNewb | 190,179
 223 | Most_Being_4002 | 185,834
-224 | TubeNerd92 | 184,677
+224 | TubeNerd92 | 184,746
 225 | nooobmaester69 | 183,460
 226 | skollywag92 | 183,279
 227 | ruccarucca | 180,270
@@ -490,24 +490,24 @@ Rank | Username | Totals Tips
 487 | BottleNcanClapUrHand | 26,658
 488 | DOGETHEEGOD | 26,580
 489 | Trelucatre | 26,469
-490 | puzzled__panther | 26,000
-491 | Primary_Technical | 26,000
-492 | iamannonymous27 | 25,840
-493 | Glitzxc | 25,779
-494 | AnxiousQuestioner | 25,684
-495 | tmztmz2 | 25,490
-496 | universal_language | 25,489
-497 | slasula | 25,468
-498 | ThekinginYellow27 | 25,431
-499 | SnooRevelations6751 | 25,420
-500 | XBBlade | 25,412
-501 | open-now | 25,247
-502 | worldofshiba | 25,069
-503 | Blossom_butterfly | 25,069
-504 | SirPesoOtaku | 25,061
-505 | Mysterious-Bar-4721 | 25,000
-506 | CowDapper7867 | 25,000
-507 | Practical-Store9603 | 25,000
+490 | Practical-Store9603 | 26,000
+491 | puzzled__panther | 26,000
+492 | Primary_Technical | 26,000
+493 | iamannonymous27 | 25,840
+494 | Glitzxc | 25,779
+495 | AnxiousQuestioner | 25,684
+496 | tmztmz2 | 25,490
+497 | universal_language | 25,489
+498 | slasula | 25,468
+499 | ThekinginYellow27 | 25,431
+500 | SnooRevelations6751 | 25,420
+501 | XBBlade | 25,412
+502 | open-now | 25,247
+503 | worldofshiba | 25,069
+504 | Blossom_butterfly | 25,069
+505 | SirPesoOtaku | 25,061
+506 | Mysterious-Bar-4721 | 25,000
+507 | CowDapper7867 | 25,000
 508 | 4ucklehead | 24,684
 509 | liberovento | 24,307
 510 | Qptimised | 23,642
@@ -1123,6 +1123,7 @@ Rank | Username | Totals Tips
 1120 | Ancient_Summer_1833 | 1
 1121 | SlowpokesEmporium | 1
 1122 | crawleyfinance | 1
-1123 | Skull0 | 1
-1124 | Skywalker_047 | 1
-1125 | Park_With_No_S | 1
+1123 | Ok_Instruction_4717 | 1
+1124 | Skull0 | 1
+1125 | Skywalker_047 | 1
+1126 | Park_With_No_S | 1
