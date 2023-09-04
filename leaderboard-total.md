@@ -1,4 +1,4 @@
-Last updated: 23-09-04 23:40:33 UTC  
+Last updated: 23-09-04 23:50:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -20,12 +20,12 @@ Rank | Username | Totals Tips
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
-20 | SpookySYN | 7,601,376
+20 | SpookySYN | 7,630,669
 21 | Puddin-Luv | 6,963,232
 22 | Geniuskills | 6,808,124
 23 | ashinamune | 6,580,487
 24 | Real_Player_0 | 6,568,953
-25 | HippieStarTraveler | 6,255,901
+25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,842,523
 28 | IveDoneItAtLast | 4,820,680
