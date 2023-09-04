@@ -1,4 +1,4 @@
-Last updated: 23-09-04 05:42:38 UTC  
+Last updated: 23-09-04 05:50:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -206,11 +206,11 @@ Rank | Username | Totals Tips
 203 | alexthemay | 214,131
 204 | Beenthorny | 212,362
 205 | SigSalvadore | 212,358
-206 | Significant_Talk4943 | 212,019
-207 | Adrewmc | 211,177
-208 | yahuurdme | 210,532
-209 | UWphoto | 210,403
-210 | Ashamed_Raccoon9918 | 209,361
+206 | Ashamed_Raccoon9918 | 212,024
+207 | Significant_Talk4943 | 212,019
+208 | Adrewmc | 211,177
+209 | yahuurdme | 210,532
+210 | UWphoto | 210,403
 211 | Final-Scar-941 | 208,792
 212 | Esco1980 | 204,434
 213 | ziggyback | 203,369
