@@ -1,4 +1,4 @@
-Last updated: 23-09-04 22:50:46 UTC  
+Last updated: 23-09-04 23:18:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -21,9 +21,9 @@ Rank | Username | Totals Tips
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
 20 | SpookySYN | 7,574,746
-21 | Puddin-Luv | 6,962,812
+21 | Puddin-Luv | 6,963,232
 22 | Geniuskills | 6,808,124
-23 | ashinamune | 6,579,271
+23 | ashinamune | 6,580,487
 24 | Real_Player_0 | 6,568,953
 25 | HippieStarTraveler | 6,255,901
 26 | Skank_cunt_42 | 5,467,162
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | ZukoBih | 3,405,778
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,114,835
-42 | bray_martin03 | 2,967,469
+42 | bray_martin03 | 2,970,132
 43 | Mean_Bandicoot_7481 | 2,752,108
 44 | Fenrir-1919 | 2,638,637
 45 | _Royal_Insylum | 2,603,787
