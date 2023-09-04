@@ -1,4 +1,4 @@
-Last updated: 23-09-04 04:43:19 UTC  
+Last updated: 23-09-04 04:51:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -259,9 +259,9 @@ Rank | Username | Totals Tips
 256 | CalligrapherEnough83 | 127,227
 257 | ZeMadMan1 | 125,262
 258 | Trakorr | 125,110
-259 | DeanDeanington | 123,915
-260 | Sativa55555 | 121,550
-261 | wato4000 | 121,465
+259 | wato4000 | 124,128
+260 | DeanDeanington | 123,915
+261 | Sativa55555 | 121,550
 262 | stupidcupid112 | 121,421
 263 | Schl0tz | 120,000
 264 | pythonskynet | 118,214
