@@ -1,4 +1,4 @@
-Last updated: 23-09-04 18:52:00 UTC  
+Last updated: 23-09-04 19:00:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,108,892
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 12,712,996
+8 | cutsickass | 12,772,996
 9 | crypto_grandma | 12,565,874
 10 | HODL-THE-LINE | 12,469,181
 11 | Parush9 | 11,958,456
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
 20 | SpookySYN | 7,510,834
-21 | Puddin-Luv | 6,955,912
+21 | Puddin-Luv | 6,962,812
 22 | Geniuskills | 6,805,461
 23 | ashinamune | 6,579,271
 24 | Real_Player_0 | 6,566,290
@@ -42,12 +42,12 @@ Rank | Username | Totals Tips
 39 | ZukoBih | 3,405,778
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,114,835
-42 | Mean_Bandicoot_7481 | 2,752,108
-43 | Fenrir-1919 | 2,638,637
-44 | _Royal_Insylum | 2,603,787
-45 | send420nudes | 2,555,875
-46 | DontLaughArt | 2,528,386
-47 | bray_martin03 | 2,440,839
+42 | bray_martin03 | 2,940,839
+43 | Mean_Bandicoot_7481 | 2,752,108
+44 | Fenrir-1919 | 2,638,637
+45 | _Royal_Insylum | 2,603,787
+46 | send420nudes | 2,555,875
+47 | DontLaughArt | 2,528,386
 48 | zdubs | 2,439,532
 49 | possibili-teas | 2,399,515
 50 | ImAlekBan | 2,361,051
@@ -83,7 +83,7 @@ Rank | Username | Totals Tips
 80 | avatarbot | 1,027,000
 81 | WarmBiertje | 1,000,000
 82 | EvanIsBacon | 970,416
-83 | UniversalNoobMaster | 969,084
+83 | UniversalNoobMaster | 969,774
 84 | Forward_Today2849 | 932,405
 85 | ID404_Not_Found_8964 | 911,740
 86 | Modestexcuse | 903,684
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | Cravensworth_redux | 790,803
 95 | Westy3000 | 782,487
 96 | ziggybri | 782,435
-97 | Lillica_Golden_SHIB | 756,628
+97 | Lillica_Golden_SHIB | 757,048
 98 | RegalReptile_ | 754,485
 99 | billywright4 | 728,766
 100 | starterpack420694 | 710,420
@@ -145,7 +145,7 @@ Rank | Username | Totals Tips
 142 | unhingedbigfoot | 439,874
 143 | DogSpark84 | 432,538
 144 | RazPie | 429,317
-145 | Mopeiooo | 427,266
+145 | Mopeiooo | 427,268
 146 | dronegeeks1 | 414,406
 147 | Lion-Hermit | 409,547
 148 | LrnFaroeseWthBergur | 409,488
@@ -1111,16 +1111,17 @@ Rank | Username | Totals Tips
 1108 | XoooX24 | 20
 1109 | TamSchnow | 15
 1110 | breathe345 | 13
-1111 | jellodoses69 | 10
-1112 | mercredimedia | 6
-1113 | 18-35 | 5
-1114 | Waste_Actuary_3290 | 4
-1115 | GroovyIntruder | 3
-1116 | Prestigious-Expert15 | 1
-1117 | mango9574 | 1
-1118 | Ancient_Summer_1833 | 1
-1119 | SlowpokesEmporium | 1
-1120 | crawleyfinance | 1
-1121 | Skull0 | 1
-1122 | Skywalker_047 | 1
-1123 | Park_With_No_S | 1
+1111 | KEDW | 10
+1112 | jellodoses69 | 10
+1113 | mercredimedia | 6
+1114 | 18-35 | 5
+1115 | Waste_Actuary_3290 | 4
+1116 | GroovyIntruder | 3
+1117 | Prestigious-Expert15 | 1
+1118 | mango9574 | 1
+1119 | Ancient_Summer_1833 | 1
+1120 | SlowpokesEmporium | 1
+1121 | crawleyfinance | 1
+1122 | Skull0 | 1
+1123 | Skywalker_047 | 1
+1124 | Park_With_No_S | 1
