@@ -1,4 +1,4 @@
-Last updated: 23-09-04 22:32:31 UTC  
+Last updated: 23-09-04 22:40:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,255,901
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,842,523
-28 | IveDoneItAtLast | 4,820,072
+28 | IveDoneItAtLast | 4,820,680
 29 | Ginomania | 4,550,317
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
