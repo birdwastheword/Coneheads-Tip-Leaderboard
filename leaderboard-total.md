@@ -1,4 +1,4 @@
-Last updated: 23-09-04 02:51:03 UTC  
+Last updated: 23-09-04 03:20:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -23,8 +23,8 @@ Rank | Username | Totals Tips
 20 | SpookySYN | 7,454,911
 21 | Puddin-Luv | 6,952,641
 22 | Geniuskills | 6,778,831
-23 | Real_Player_0 | 6,566,290
-24 | ashinamune | 6,544,652
+23 | ashinamune | 6,576,608
+24 | Real_Player_0 | 6,566,290
 25 | HippieStarTraveler | 6,255,901
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,833,694
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,547,654
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,435,376
+32 | redzrex | 4,438,039
 33 | birdwastheword | 4,378,825
 34 | rustyybikes | 4,263,944
 35 | VIVOffical | 3,975,672
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | send420nudes | 2,551,606
 46 | DontLaughArt | 2,528,386
 47 | bray_martin03 | 2,440,839
-48 | zdubs | 2,438,258
+48 | zdubs | 2,438,924
 49 | possibili-teas | 2,399,515
 50 | ImAlekBan | 2,356,506
 51 | GuyOne | 2,318,049
@@ -143,12 +143,12 @@ Rank | Username | Totals Tips
 140 | virmamies | 444,445
 141 | adrifing | 443,831
 142 | unhingedbigfoot | 439,874
-143 | RazPie | 429,317
-144 | Mopeiooo | 427,266
-145 | dronegeeks1 | 414,406
-146 | Lion-Hermit | 409,547
-147 | LrnFaroeseWthBergur | 409,488
-148 | DogSpark84 | 405,908
+143 | DogSpark84 | 432,538
+144 | RazPie | 429,317
+145 | Mopeiooo | 427,266
+146 | dronegeeks1 | 414,406
+147 | Lion-Hermit | 409,547
+148 | LrnFaroeseWthBergur | 409,488
 149 | PortCity_MadMan | 394,221
 150 | Creepy-Nectarine-225 | 389,511
 151 | WhateverAlready | 385,881
@@ -156,15 +156,15 @@ Rank | Username | Totals Tips
 153 | zenhodl | 374,566
 154 | hellosamaira | 373,235
 155 | AustinTX1985 | 368,863
-156 | farmertypoerror | 359,212
-157 | ultra_terrestrial | 348,925
-158 | noface_reddit | 346,221
-159 | Outrageous-Skill-464 | 344,174
-160 | Tinman_ApE | 342,447
-161 | anony666mous | 341,008
-162 | tsudrat | 340,707
-163 | DAMG808 | 339,266
-164 | Dripbot8 | 325,384
+156 | Dripbot8 | 365,384
+157 | farmertypoerror | 359,212
+158 | ultra_terrestrial | 348,925
+159 | noface_reddit | 346,221
+160 | Outrageous-Skill-464 | 344,174
+161 | Tinman_ApE | 342,447
+162 | anony666mous | 341,008
+163 | tsudrat | 340,707
+164 | DAMG808 | 339,266
 165 | EffinDrongoC | 312,738
 166 | x52x | 304,860
 167 | liwipe | 304,467
