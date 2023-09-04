@@ -1,4 +1,4 @@
-Last updated: 23-09-04 05:34:28 UTC  
+Last updated: 23-09-04 05:42:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,566,290
 25 | HippieStarTraveler | 6,255,901
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,836,777
+27 | thelonliestcrowd | 4,837,197
 28 | IveDoneItAtLast | 4,812,314
 29 | Ginomania | 4,547,654
 30 | rikbona | 4,540,773
@@ -451,10 +451,10 @@ Rank | Username | Totals Tips
 448 | PoDunkYuppie | 33,513
 449 | Atorcran | 33,478
 450 | Gerboogler | 33,314
-451 | See0tter | 33,242
-452 | xxapplej4ckx | 33,181
-453 | redditavatar555 | 32,875
-454 | foreignGER | 32,778
+451 | foreignGER | 33,278
+452 | See0tter | 33,242
+453 | xxapplej4ckx | 33,181
+454 | redditavatar555 | 32,875
 455 | himthecool21 | 32,647
 456 | Steadfast_Apparition | 32,437
 457 | n00b1shm4n | 32,159
