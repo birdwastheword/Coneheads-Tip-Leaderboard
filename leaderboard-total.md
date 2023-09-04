@@ -1,4 +1,4 @@
-Last updated: 23-09-04 02:29:20 UTC  
+Last updated: 23-09-04 02:40:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -13,14 +13,14 @@ Rank | Username | Totals Tips
 10 | HODL-THE-LINE | 12,469,181
 11 | Parush9 | 11,958,456
 12 | _ships | 11,796,366
-13 | SammyCraigar | 10,279,948
+13 | SammyCraigar | 10,306,578
 14 | transfermymoons | 8,950,558
 15 | 8inchConer | 8,947,480
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
-20 | SpookySYN | 7,452,248
+20 | SpookySYN | 7,454,911
 21 | Puddin-Luv | 6,949,978
 22 | Geniuskills | 6,778,831
 23 | Real_Player_0 | 6,566,290
@@ -555,7 +555,7 @@ Rank | Username | Totals Tips
 552 | MantisToboggan66 | 16,437
 553 | ipsole | 16,425
 554 | Styl_Ianos_ | 16,328
-555 | Complete-Tadpole-728 | 16,256
+555 | Complete-Tadpole-728 | 16,325
 556 | deeeznotes | 16,235
 557 | Conflict63 | 16,063
 558 | giooo_tdm | 15,895
