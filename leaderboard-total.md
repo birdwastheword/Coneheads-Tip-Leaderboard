@@ -1,9 +1,9 @@
-Last updated: 23-09-04 05:50:55 UTC  
+Last updated: 23-09-04 06:29:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
 2 | Wonderful_Bad6531 | 36,116,404
-3 | nakamo-toe | 33,386,013
+3 | nakamo-toe | 33,391,339
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,133
 6 | Jeff5704 | 28,108,892
@@ -22,12 +22,12 @@ Rank | Username | Totals Tips
 19 | avyun | 7,804,620
 20 | SpookySYN | 7,481,541
 21 | Puddin-Luv | 6,952,641
-22 | Geniuskills | 6,778,831
+22 | Geniuskills | 6,805,461
 23 | ashinamune | 6,576,608
 24 | Real_Player_0 | 6,566,290
 25 | HippieStarTraveler | 6,255,901
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,837,197
+27 | thelonliestcrowd | 4,839,860
 28 | IveDoneItAtLast | 4,812,314
 29 | Ginomania | 4,547,654
 30 | rikbona | 4,540,773
@@ -120,7 +120,7 @@ Rank | Username | Totals Tips
 117 | superlonelyboy | 591,419
 118 | Burzzzt88 | 589,129
 119 | Independent_Heart_15 | 578,825
-120 | formidable-opponent | 573,625
+120 | formidable-opponent | 574,402
 121 | dopelifer09 | 566,448
 122 | nichnotnick | 559,101
 123 | MorrisBrett514 | 550,361
@@ -204,12 +204,12 @@ Rank | Username | Totals Tips
 201 | SourBeefHoop | 217,512
 202 | the_judge_168 | 217,472
 203 | alexthemay | 214,131
-204 | Beenthorny | 212,362
-205 | SigSalvadore | 212,358
-206 | Ashamed_Raccoon9918 | 212,024
-207 | Significant_Talk4943 | 212,019
-208 | Adrewmc | 211,177
-209 | yahuurdme | 210,532
+204 | yahuurdme | 213,195
+205 | Ashamed_Raccoon9918 | 212,444
+206 | Beenthorny | 212,362
+207 | SigSalvadore | 212,358
+208 | Significant_Talk4943 | 212,019
+209 | Adrewmc | 211,177
 210 | UWphoto | 210,403
 211 | Final-Scar-941 | 208,792
 212 | Esco1980 | 204,434
@@ -709,13 +709,13 @@ Rank | Username | Totals Tips
 706 | SecretSuch420 | 5,981
 707 | st3alth247 | 5,975
 708 | OddNebula2844 | 5,938
-709 | theBarefootedBastard | 5,896
-710 | Sir_Mobius_Mook | 5,840
-711 | stspts | 5,822
-712 | aPandox | 5,695
-713 | Makaveli4Sheez | 5,569
-714 | DioDilemma | 5,545
-715 | Most_Border_3917 | 5,481
+709 | Most_Border_3917 | 5,901
+710 | theBarefootedBastard | 5,896
+711 | Sir_Mobius_Mook | 5,840
+712 | stspts | 5,822
+713 | aPandox | 5,695
+714 | Makaveli4Sheez | 5,569
+715 | DioDilemma | 5,545
 716 | WiseDude69 | 5,464
 717 | LATech99 | 5,463
 718 | dorinosss | 5,420
