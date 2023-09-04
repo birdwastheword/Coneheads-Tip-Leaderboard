@@ -1,4 +1,4 @@
-Last updated: 23-09-04 21:24:04 UTC  
+Last updated: 23-09-04 21:33:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -134,7 +134,7 @@ Rank | Username | Totals Tips
 131 | f0n1xr131ng | 509,681
 132 | AcceptableLeg8751 | 500,000
 133 | Successful-Walk-3902 | 498,794
-134 | Crypto-4-Freedom | 496,498
+134 | Crypto-4-Freedom | 496,918
 135 | crodbtc | 494,974
 136 | sinlesco | 462,490
 137 | WarmlyWacky | 462,118
@@ -456,10 +456,10 @@ Rank | Username | Totals Tips
 453 | xxapplej4ckx | 33,181
 454 | redditavatar555 | 32,875
 455 | himthecool21 | 32,647
-456 | Steadfast_Apparition | 32,437
-457 | n00b1shm4n | 32,159
-458 | Originalibb | 32,157
-459 | Truffle_Shuffle_85 | 32,055
+456 | Truffle_Shuffle_85 | 32,475
+457 | Steadfast_Apparition | 32,437
+458 | n00b1shm4n | 32,159
+459 | Originalibb | 32,157
 460 | mbashs | 31,747
 461 | Motor-breath8 | 31,279
 462 | OutTop | 31,069
