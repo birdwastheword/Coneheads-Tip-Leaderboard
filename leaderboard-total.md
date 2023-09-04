@@ -1,4 +1,4 @@
-Last updated: 23-09-04 14:51:31 UTC  
+Last updated: 23-09-04 15:20:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -8,11 +8,11 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,248,133
 6 | Jeff5704 | 28,108,892
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 12,698,433
+8 | cutsickass | 12,703,433
 9 | crypto_grandma | 12,565,874
 10 | HODL-THE-LINE | 12,469,181
 11 | Parush9 | 11,958,456
-12 | _ships | 11,822,996
+12 | _ships | 11,823,604
 13 | SammyCraigar | 10,333,208
 14 | transfermymoons | 8,950,558
 15 | 8inchConer | 8,947,480
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
 63 | djrcollectables | 1,507,449
-64 | evilninjarobot | 1,467,902
+64 | evilninjarobot | 1,470,565
 65 | isthistomorrow_ | 1,368,790
 66 | Mundane-Farm-4117 | 1,359,176
 67 | YarOldeOrchard | 1,340,375
@@ -342,7 +342,7 @@ Rank | Username | Totals Tips
 339 | Dazzling_Marzipan474 | 68,613
 340 | AnduriII | 68,313
 341 | Friendly-Airline2426 | 66,547
-342 | shellystarzz | 66,235
+342 | shellystarzz | 66,304
 343 | imp3order | 65,546
 344 | damnusernamegotcutof | 65,004
 345 | ElmerBlack | 64,810
@@ -702,14 +702,14 @@ Rank | Username | Totals Tips
 699 | theindoshow | 6,388
 700 | rpgruli | 6,364
 701 | ReasonReasonable7168 | 6,357
-702 | Schwoanz | 6,219
-703 | solarssun | 6,111
-704 | DrunkDoge420 | 6,000
-705 | forceworks | 5,998
-706 | SecretSuch420 | 5,981
-707 | st3alth247 | 5,975
-708 | OddNebula2844 | 5,938
-709 | Most_Border_3917 | 5,901
+702 | Most_Border_3917 | 6,321
+703 | Schwoanz | 6,219
+704 | solarssun | 6,111
+705 | DrunkDoge420 | 6,000
+706 | forceworks | 5,998
+707 | SecretSuch420 | 5,981
+708 | st3alth247 | 5,975
+709 | OddNebula2844 | 5,938
 710 | theBarefootedBastard | 5,896
 711 | Sir_Mobius_Mook | 5,840
 712 | stspts | 5,822
