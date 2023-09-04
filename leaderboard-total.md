@@ -1,4 +1,4 @@
-Last updated: 23-09-04 04:26:18 UTC  
+Last updated: 23-09-04 04:34:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -134,7 +134,7 @@ Rank | Username | Totals Tips
 131 | f0n1xr131ng | 509,681
 132 | AcceptableLeg8751 | 500,000
 133 | Successful-Walk-3902 | 498,794
-134 | Crypto-4-Freedom | 496,078
+134 | Crypto-4-Freedom | 496,498
 135 | crodbtc | 492,311
 136 | sinlesco | 462,490
 137 | WarmlyWacky | 462,118
@@ -741,15 +741,15 @@ Rank | Username | Totals Tips
 738 | Fcbp | 4,800
 739 | billw1zz | 4,791
 740 | Strict_Berry366 | 4,680
-741 | AnimeFlamingo | 4,620
-742 | Photo_Shop_Beast | 4,585
-743 | Sledheadjack | 4,528
-744 | FoLKOM | 4,422
-745 | Defeat-the-Kraken | 4,379
-746 | _dual1ty | 4,333
-747 | DepressedVegabond | 4,300
-748 | ADT06 | 4,260
-749 | Most_Border_3917 | 4,221
+741 | Most_Border_3917 | 4,641
+742 | AnimeFlamingo | 4,620
+743 | Photo_Shop_Beast | 4,585
+744 | Sledheadjack | 4,528
+745 | FoLKOM | 4,422
+746 | Defeat-the-Kraken | 4,379
+747 | _dual1ty | 4,333
+748 | DepressedVegabond | 4,300
+749 | ADT06 | 4,260
 750 | Werd2jaH | 4,205
 751 | OG_Bobcat32 | 4,200
 752 | officialzodiacbeats | 4,194
