@@ -1,4 +1,4 @@
-Last updated: 23-09-04 21:41:30 UTC  
+Last updated: 23-09-04 21:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,108,892
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 12,982,996
+8 | cutsickass | 13,012,996
 9 | crypto_grandma | 12,565,874
 10 | HODL-THE-LINE | 12,469,181
 11 | Parush9 | 11,958,456
@@ -428,7 +428,7 @@ Rank | Username | Totals Tips
 425 | Zap1324 | 39,938
 426 | GuronT | 39,830
 427 | AMAxyz | 39,775
-428 | Mortifer6 | 39,669
+428 | Mortifer6 | 39,738
 429 | waterincorporated | 39,428
 430 | mutinomonem | 38,823
 431 | chaud3r | 38,290
