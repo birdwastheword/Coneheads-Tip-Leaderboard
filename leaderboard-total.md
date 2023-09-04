@@ -1,4 +1,4 @@
-Last updated: 23-09-04 17:40:32 UTC  
+Last updated: 23-09-04 17:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | redzrex | 4,440,702
 33 | birdwastheword | 4,389,477
 34 | rustyybikes | 4,263,944
-35 | VIVOffical | 3,975,672
+35 | VIVOffical | 3,978,335
 36 | clean_cut89 | 3,592,172
 37 | thom_orrow | 3,580,892
 38 | LuminousViper | 3,478,334
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | YarOldeOrchard | 1,340,375
 68 | ValiantJudge29500 | 1,332,984
 69 | CMDRGlamdring | 1,313,078
-70 | saintajoras | 1,236,573
+70 | saintajoras | 1,239,236
 71 | revdrgonzo | 1,235,635
 72 | LongCauliflower6791 | 1,222,440
 73 | jimfird | 1,203,842
@@ -307,7 +307,7 @@ Rank | Username | Totals Tips
 304 | ShopALF | 87,942
 305 | kwickle | 87,805
 306 | qwertywich | 87,473
-307 | jurgensdapimp | 86,817
+307 | jurgensdapimp | 87,237
 308 | AhhhUhmmm | 86,220
 309 | shiesto | 85,580
 310 | Mother-Werewolf185 | 85,579
@@ -570,10 +570,10 @@ Rank | Username | Totals Tips
 567 | mixmasterpayne | 14,478
 568 | Fivebag | 14,290
 569 | cole-badger | 14,269
-570 | theycallmekimpembe | 14,037
-571 | TamilPunk | 13,754
-572 | SenseiRaheem | 13,716
-573 | D6P6 | 13,710
+570 | D6P6 | 14,130
+571 | theycallmekimpembe | 14,037
+572 | TamilPunk | 13,754
+573 | SenseiRaheem | 13,716
 574 | osoese | 13,680
 575 | mantrakid | 13,644
 576 | couchguitar | 13,330
