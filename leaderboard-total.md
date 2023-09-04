@@ -1,4 +1,4 @@
-Last updated: 23-09-04 22:23:50 UTC  
+Last updated: 23-09-04 22:32:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -205,7 +205,7 @@ Rank | Username | Totals Tips
 202 | SourBeefHoop | 217,512
 203 | alexthemay | 214,131
 204 | yahuurdme | 213,195
-205 | Ashamed_Raccoon9918 | 212,444
+205 | Ashamed_Raccoon9918 | 212,864
 206 | Significant_Talk4943 | 212,439
 207 | Beenthorny | 212,362
 208 | SigSalvadore | 212,358
