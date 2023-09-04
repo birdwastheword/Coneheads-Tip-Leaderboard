@@ -1,4 +1,4 @@
-Last updated: 23-09-04 07:00:55 UTC  
+Last updated: 23-09-04 07:20:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -258,9 +258,9 @@ Rank | Username | Totals Tips
 255 | Awake-- | 128,173
 256 | robnectar | 127,974
 257 | CalligrapherEnough83 | 127,227
-258 | ZeMadMan1 | 125,262
-259 | Trakorr | 125,110
-260 | pythonskynet | 123,960
+258 | pythonskynet | 126,623
+259 | ZeMadMan1 | 125,262
+260 | Trakorr | 125,110
 261 | DeanDeanington | 123,915
 262 | Sativa55555 | 121,550
 263 | stupidcupid112 | 121,421
