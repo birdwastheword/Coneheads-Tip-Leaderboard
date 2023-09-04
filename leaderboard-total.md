@@ -1,4 +1,4 @@
-Last updated: 23-09-04 23:18:20 UTC  
+Last updated: 23-09-04 23:30:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
-20 | SpookySYN | 7,574,746
+20 | SpookySYN | 7,601,376
 21 | Puddin-Luv | 6,963,232
 22 | Geniuskills | 6,808,124
 23 | ashinamune | 6,580,487
@@ -662,24 +662,24 @@ Rank | Username | Totals Tips
 659 | gacu-gacu | 8,065
 660 | PalpitationSecure660 | 8,055
 661 | ad5xlh | 8,050
-662 | Erikiller06 | 8,039
-663 | crypto-indian | 8,013
-664 | ryker_69 | 8,005
-665 | Primetimemongrel | 8,001
-666 | asmuth | 8,000
-667 | Nugacity5 | 7,996
-668 | Coeruleus_ | 7,930
-669 | mronki | 7,737
-670 | Squirrel_McNutz | 7,720
-671 | isthisanavatar | 7,709
-672 | Chichakitty | 7,677
-673 | Most_Border_3917 | 7,581
-674 | gold_digger333 | 7,577
-675 | king0ftheroad | 7,500
-676 | RiceRare | 7,491
-677 | Pengpangolin | 7,488
-678 | FlippiShh | 7,440
-679 | SaberTurret | 7,434
+662 | SaberTurret | 8,042
+663 | Erikiller06 | 8,039
+664 | crypto-indian | 8,013
+665 | ryker_69 | 8,005
+666 | Primetimemongrel | 8,001
+667 | asmuth | 8,000
+668 | Nugacity5 | 7,996
+669 | Coeruleus_ | 7,930
+670 | mronki | 7,737
+671 | Squirrel_McNutz | 7,720
+672 | isthisanavatar | 7,709
+673 | Chichakitty | 7,677
+674 | Most_Border_3917 | 7,581
+675 | gold_digger333 | 7,577
+676 | king0ftheroad | 7,500
+677 | RiceRare | 7,491
+678 | Pengpangolin | 7,488
+679 | FlippiShh | 7,440
 680 | quaker-goats | 7,414
 681 | Weirdclerk_ | 7,192
 682 | Ok-Profile-1744 | 7,046
