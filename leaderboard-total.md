@@ -1,4 +1,4 @@
-Last updated: 23-09-04 14:43:10 UTC  
+Last updated: 23-09-04 14:51:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | HODL-THE-LINE | 12,469,181
 11 | Parush9 | 11,958,456
 12 | _ships | 11,822,996
-13 | SammyCraigar | 10,306,578
+13 | SammyCraigar | 10,333,208
 14 | transfermymoons | 8,950,558
 15 | 8inchConer | 8,947,480
 16 | ArtConsitent | 8,532,379
@@ -150,15 +150,15 @@ Rank | Username | Totals Tips
 147 | Lion-Hermit | 409,547
 148 | LrnFaroeseWthBergur | 409,488
 149 | PortCity_MadMan | 394,221
-150 | Creepy-Nectarine-225 | 389,511
-151 | WhateverAlready | 385,881
-152 | Dripbot8 | 385,384
-153 | SHIFTY-T3RROR | 380,120
-154 | zenhodl | 374,566
-155 | hellosamaira | 373,235
-156 | AustinTX1985 | 368,863
-157 | farmertypoerror | 359,212
-158 | ultra_terrestrial | 348,925
+150 | ultra_terrestrial | 390,994
+151 | Creepy-Nectarine-225 | 389,511
+152 | WhateverAlready | 385,881
+153 | Dripbot8 | 385,384
+154 | SHIFTY-T3RROR | 380,120
+155 | zenhodl | 374,566
+156 | hellosamaira | 373,235
+157 | AustinTX1985 | 368,863
+158 | farmertypoerror | 359,212
 159 | noface_reddit | 346,221
 160 | Outrageous-Skill-464 | 344,174
 161 | Tinman_ApE | 342,447
