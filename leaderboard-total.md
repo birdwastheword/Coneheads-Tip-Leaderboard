@@ -1,4 +1,4 @@
-Last updated: 23-09-04 18:35:21 UTC  
+Last updated: 23-09-04 18:43:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -8,14 +8,14 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,108,892
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 12,706,096
+8 | cutsickass | 12,712,996
 9 | crypto_grandma | 12,565,874
 10 | HODL-THE-LINE | 12,469,181
 11 | Parush9 | 11,958,456
 12 | _ships | 11,864,430
 13 | SammyCraigar | 10,333,208
 14 | transfermymoons | 10,300,558
-15 | 8inchConer | 8,947,480
+15 | 8inchConer | 8,947,481
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | bray_martin03 | 2,440,839
 48 | zdubs | 2,439,532
 49 | possibili-teas | 2,399,515
-50 | ImAlekBan | 2,360,385
+50 | ImAlekBan | 2,361,051
 51 | GuyOne | 2,318,049
 52 | Autom4tic_Soze | 2,176,126
 53 | 002_timmy | 2,033,164
@@ -250,9 +250,9 @@ Rank | Username | Totals Tips
 247 | GrowinStuffAndThings | 137,461
 248 | Outrageous-Ad8481 | 137,001
 249 | MorrisWayne | 133,416
-250 | Legal-Appointment655 | 131,030
-251 | GoodMornEveGoodNight | 131,019
-252 | jamjam794 | 130,675
+250 | jamjam794 | 133,338
+251 | Legal-Appointment655 | 131,030
+252 | GoodMornEveGoodNight | 131,019
 253 | Kevin3683 | 130,622
 254 | Mj_6o4 | 129,568
 255 | wato4000 | 129,454
@@ -346,7 +346,7 @@ Rank | Username | Totals Tips
 343 | imp3order | 65,546
 344 | damnusernamegotcutof | 65,004
 345 | ElmerBlack | 64,810
-346 | zuzieey7719 | 64,549
+346 | zuzieey7719 | 64,618
 347 | BitCone_CONE | 63,610
 348 | guokaidi | 63,245
 349 | slug_tamer | 63,175
@@ -552,7 +552,7 @@ Rank | Username | Totals Tips
 549 | OutrageousStudy6752 | 17,087
 550 | Sebanimation | 17,004
 551 | leviathynx | 16,901
-552 | Complete-Tadpole-728 | 16,814
+552 | Complete-Tadpole-728 | 16,883
 553 | MantisToboggan66 | 16,437
 554 | ipsole | 16,425
 555 | Styl_Ianos_ | 16,328
@@ -688,13 +688,13 @@ Rank | Username | Totals Tips
 685 | TeflonThaDonn | 6,936
 686 | dozebull | 6,849
 687 | Kindly-Strawberry637 | 6,800
-688 | Most_Border_3917 | 6,741
-689 | NEO_R1CH | 6,718
-690 | Knackebrodd | 6,683
-691 | Swoopscooter | 6,676
-692 | No-Emu-5060 | 6,663
-693 | thespygorillas | 6,662
-694 | WiseDude69 | 6,643
+688 | WiseDude69 | 6,781
+689 | Most_Border_3917 | 6,741
+690 | NEO_R1CH | 6,718
+691 | Knackebrodd | 6,683
+692 | Swoopscooter | 6,676
+693 | No-Emu-5060 | 6,663
+694 | thespygorillas | 6,662
 695 | GoldMaster15 | 6,618
 696 | Fourplyer80 | 6,587
 697 | strworld | 6,544
