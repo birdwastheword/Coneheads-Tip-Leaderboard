@@ -1,9 +1,9 @@
-Last updated: 23-09-04 20:19:48 UTC  
+Last updated: 23-09-04 20:30:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
 2 | Wonderful_Bad6531 | 36,119,067
-3 | nakamo-toe | 33,430,945
+3 | nakamo-toe | 33,431,553
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,108,892
@@ -169,8 +169,8 @@ Rank | Username | Totals Tips
 166 | x52x | 304,860
 167 | liwipe | 304,467
 168 | VincentVanGTFO | 300,598
-169 | legionticket | 296,054
-170 | Lastkidpicked94 | 295,122
+169 | Lastkidpicked94 | 297,785
+170 | legionticket | 296,054
 171 | send_tacoz | 293,576
 172 | deedopete | 285,361
 173 | Extreme_Issue7325 | 285,201
