@@ -1,4 +1,4 @@
-Last updated: 23-09-04 08:40:51 UTC  
+Last updated: 23-09-04 08:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -123,8 +123,8 @@ Rank | Username | Totals Tips
 120 | formidable-opponent | 574,402
 121 | dopelifer09 | 566,448
 122 | nichnotnick | 559,101
-123 | MorrisBrett514 | 550,361
-124 | Korean_Street_Pizza | 545,665
+123 | Korean_Street_Pizza | 554,476
+124 | MorrisBrett514 | 550,361
 125 | StepAsideSuckers | 540,695
 126 | scientifichistorian | 539,560
 127 | shreyaskg | 538,211
