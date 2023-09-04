@@ -1,4 +1,4 @@
-Last updated: 23-09-04 19:40:29 UTC  
+Last updated: 23-09-04 19:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -8,19 +8,19 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,108,892
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 12,772,996
+8 | cutsickass | 12,832,996
 9 | crypto_grandma | 12,565,874
 10 | HODL-THE-LINE | 12,469,181
 11 | Parush9 | 11,958,456
 12 | _ships | 11,867,093
-13 | SammyCraigar | 10,333,208
-14 | transfermymoons | 10,300,558
+13 | transfermymoons | 10,450,558
+14 | SammyCraigar | 10,333,208
 15 | 8inchConer | 8,947,481
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
-20 | SpookySYN | 7,545,453
+20 | SpookySYN | 7,548,116
 21 | Puddin-Luv | 6,962,812
 22 | Geniuskills | 6,805,461
 23 | ashinamune | 6,579,271
@@ -180,9 +180,9 @@ Rank | Username | Totals Tips
 177 | astro_nut_ | 280,463
 178 | maxfra | 279,459
 179 | FluffyAspie | 274,537
-180 | _Mitchee_ | 269,156
-181 | SetoXlll | 266,136
-182 | Flimsy_Brilliant_239 | 265,592
+180 | Flimsy_Brilliant_239 | 269,792
+181 | _Mitchee_ | 269,156
+182 | SetoXlll | 266,136
 183 | MisterM0H0 | 264,338
 184 | Hactar_42 | 256,832
 185 | tmanfromEarth | 256,392
