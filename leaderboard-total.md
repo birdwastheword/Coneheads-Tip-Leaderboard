@@ -1,9 +1,9 @@
-Last updated: 23-09-04 02:40:39 UTC  
+Last updated: 23-09-04 02:51:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
 2 | Wonderful_Bad6531 | 36,116,404
-3 | nakamo-toe | 33,383,350
+3 | nakamo-toe | 33,386,013
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,133
 6 | Jeff5704 | 28,108,892
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
 20 | SpookySYN | 7,454,911
-21 | Puddin-Luv | 6,949,978
+21 | Puddin-Luv | 6,952,641
 22 | Geniuskills | 6,778,831
 23 | Real_Player_0 | 6,566,290
 24 | ashinamune | 6,544,652
