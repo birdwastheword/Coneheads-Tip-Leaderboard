@@ -1,4 +1,4 @@
-Last updated: 23-09-04 16:40:39 UTC  
+Last updated: 23-09-04 16:50:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,566,290
 25 | HippieStarTraveler | 6,255,901
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,839,860
+27 | thelonliestcrowd | 4,842,523
 28 | IveDoneItAtLast | 4,812,314
 29 | Ginomania | 4,550,317
 30 | rikbona | 4,540,773
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | 0-Give-a-fucks | 1,913,749
 58 | dealkhabari | 1,763,283
 59 | Ten-Mins-Late | 1,706,113
-60 | investigator100 | 1,633,983
+60 | investigator100 | 1,643,983
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
 63 | djrcollectables | 1,507,449
@@ -123,8 +123,8 @@ Rank | Username | Totals Tips
 120 | formidable-opponent | 574,402
 121 | dopelifer09 | 566,448
 122 | nichnotnick | 559,101
-123 | Korean_Street_Pizza | 554,476
-124 | MorrisBrett514 | 550,361
+123 | Korean_Street_Pizza | 557,139
+124 | MorrisBrett514 | 550,430
 125 | StepAsideSuckers | 540,695
 126 | scientifichistorian | 539,560
 127 | shreyaskg | 538,211
@@ -206,9 +206,9 @@ Rank | Username | Totals Tips
 203 | alexthemay | 214,131
 204 | yahuurdme | 213,195
 205 | Ashamed_Raccoon9918 | 212,444
-206 | Beenthorny | 212,362
-207 | SigSalvadore | 212,358
-208 | Significant_Talk4943 | 212,019
+206 | Significant_Talk4943 | 212,439
+207 | Beenthorny | 212,362
+208 | SigSalvadore | 212,358
 209 | Adrewmc | 211,177
 210 | UWphoto | 210,403
 211 | Final-Scar-941 | 208,792
@@ -277,7 +277,7 @@ Rank | Username | Totals Tips
 274 | adrefofadre | 111,817
 275 | rolonic | 110,773
 276 | PushyDevolution | 110,216
-277 | Strong_Constant_1190 | 109,517
+277 | Strong_Constant_1190 | 109,921
 278 | Jadenindubai | 107,137
 279 | Jlt42000 | 107,091
 280 | AD_VICTORIAM_x | 106,876
@@ -295,7 +295,7 @@ Rank | Username | Totals Tips
 292 | 192000Hertz | 96,457
 293 | BrendanTFirefly | 95,347
 294 | wolfman333 | 93,986
-295 | IHodlStill | 93,289
+295 | IHodlStill | 93,358
 296 | H3adshotfox77 | 92,575
 297 | CrossPuffs | 91,641
 298 | urlz | 91,281
@@ -726,10 +726,10 @@ Rank | Username | Totals Tips
 723 | ineedmoney2024 | 5,243
 724 | --hermit | 5,219
 725 | gonzOkook | 5,169
-726 | just_half_baked710 | 5,133
-727 | Prize-Reference9329 | 5,090
-728 | Hour_Sleep_9544 | 5,080
-729 | NoNumbersNumber | 5,069
+726 | NoNumbersNumber | 5,138
+727 | just_half_baked710 | 5,133
+728 | Prize-Reference9329 | 5,090
+729 | Hour_Sleep_9544 | 5,080
 730 | Happy-Cheeseface | 5,061
 731 | Zaxoosh | 5,010
 732 | Itwillmoon | 5,000
