@@ -1,4 +1,4 @@
-Last updated: 23-09-04 07:50:48 UTC  
+Last updated: 23-09-04 08:27:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | SpookySYN | 7,481,541
 21 | Puddin-Luv | 6,952,641
 22 | Geniuskills | 6,805,461
-23 | ashinamune | 6,576,608
+23 | ashinamune | 6,579,271
 24 | Real_Player_0 | 6,566,290
 25 | HippieStarTraveler | 6,255,901
 26 | Skank_cunt_42 | 5,467,162
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | investigator100 | 1,633,983
 61 | GooderZBK | 1,614,604
 62 | KONGXIANG | 1,531,785
-63 | djrcollectables | 1,499,460
+63 | djrcollectables | 1,507,449
 64 | evilninjarobot | 1,467,902
 65 | isthistomorrow_ | 1,368,790
 66 | Mundane-Farm-4117 | 1,359,176
