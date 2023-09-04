@@ -1,4 +1,4 @@
-Last updated: 23-09-04 03:50:37 UTC  
+Last updated: 23-09-04 04:26:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | crypto_grandma | 12,565,874
 10 | HODL-THE-LINE | 12,469,181
 11 | Parush9 | 11,958,456
-12 | _ships | 11,796,366
+12 | _ships | 11,822,996
 13 | SammyCraigar | 10,306,578
 14 | transfermymoons | 8,950,558
 15 | 8inchConer | 8,947,480
@@ -152,11 +152,11 @@ Rank | Username | Totals Tips
 149 | PortCity_MadMan | 394,221
 150 | Creepy-Nectarine-225 | 389,511
 151 | WhateverAlready | 385,881
-152 | SHIFTY-T3RROR | 380,120
-153 | zenhodl | 374,566
-154 | hellosamaira | 373,235
-155 | AustinTX1985 | 368,863
-156 | Dripbot8 | 365,384
+152 | Dripbot8 | 385,384
+153 | SHIFTY-T3RROR | 380,120
+154 | zenhodl | 374,566
+155 | hellosamaira | 373,235
+156 | AustinTX1985 | 368,863
 157 | farmertypoerror | 359,212
 158 | ultra_terrestrial | 348,925
 159 | noface_reddit | 346,221
