@@ -1,4 +1,4 @@
-Last updated: 23-09-04 19:00:56 UTC  
+Last updated: 23-09-04 19:15:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -42,13 +42,13 @@ Rank | Username | Totals Tips
 39 | ZukoBih | 3,405,778
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,114,835
-42 | bray_martin03 | 2,940,839
+42 | bray_martin03 | 2,967,469
 43 | Mean_Bandicoot_7481 | 2,752,108
 44 | Fenrir-1919 | 2,638,637
 45 | _Royal_Insylum | 2,603,787
 46 | send420nudes | 2,555,875
 47 | DontLaughArt | 2,528,386
-48 | zdubs | 2,439,532
+48 | zdubs | 2,439,601
 49 | possibili-teas | 2,399,515
 50 | ImAlekBan | 2,361,051
 51 | GuyOne | 2,318,049
