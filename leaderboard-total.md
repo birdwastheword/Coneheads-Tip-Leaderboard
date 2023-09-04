@@ -1,4 +1,4 @@
-Last updated: 23-09-04 21:33:02 UTC  
+Last updated: 23-09-04 21:41:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -147,7 +147,7 @@ Rank | Username | Totals Tips
 144 | RazPie | 429,317
 145 | Mopeiooo | 427,268
 146 | dronegeeks1 | 414,406
-147 | Lion-Hermit | 409,547
+147 | Lion-Hermit | 410,547
 148 | LrnFaroeseWthBergur | 409,488
 149 | PortCity_MadMan | 394,221
 150 | ultra_terrestrial | 390,994
@@ -249,8 +249,8 @@ Rank | Username | Totals Tips
 246 | Clonkerz | 138,006
 247 | GrowinStuffAndThings | 137,461
 248 | Outrageous-Ad8481 | 137,001
-249 | MorrisWayne | 133,416
-250 | jamjam794 | 133,338
+249 | jamjam794 | 136,001
+250 | MorrisWayne | 133,416
 251 | Legal-Appointment655 | 131,030
 252 | GoodMornEveGoodNight | 131,019
 253 | Kevin3683 | 130,622
@@ -278,7 +278,7 @@ Rank | Username | Totals Tips
 275 | rolonic | 110,773
 276 | PushyDevolution | 110,216
 277 | Strong_Constant_1190 | 109,921
-278 | Jadenindubai | 107,137
+278 | Jadenindubai | 107,206
 279 | Jlt42000 | 107,091
 280 | AD_VICTORIAM_x | 106,876
 281 | i_wake_up_at_12 | 106,333
@@ -681,15 +681,15 @@ Rank | Username | Totals Tips
 678 | SaberTurret | 7,434
 679 | quaker-goats | 7,414
 680 | Weirdclerk_ | 7,192
-681 | Ok-Profile-1744 | 7,046
-682 | CryptoriumOfficial | 6,969
-683 | tbobs04 | 6,969
-684 | Alternative-Radish13 | 6,969
-685 | physiops | 6,962
-686 | TeflonThaDonn | 6,936
-687 | dozebull | 6,849
-688 | Kindly-Strawberry637 | 6,800
-689 | Most_Border_3917 | 6,741
+681 | Most_Border_3917 | 7,161
+682 | Ok-Profile-1744 | 7,046
+683 | CryptoriumOfficial | 6,969
+684 | tbobs04 | 6,969
+685 | Alternative-Radish13 | 6,969
+686 | physiops | 6,962
+687 | TeflonThaDonn | 6,936
+688 | dozebull | 6,849
+689 | Kindly-Strawberry637 | 6,800
 690 | NEO_R1CH | 6,718
 691 | Knackebrodd | 6,683
 692 | Swoopscooter | 6,676
