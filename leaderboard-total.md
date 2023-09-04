@@ -1,4 +1,4 @@
-Last updated: 23-09-04 19:32:16 UTC  
+Last updated: 23-09-04 19:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -770,7 +770,7 @@ Rank | Username | Totals Tips
 767 | WeaselJCD | 3,434
 768 | Mrcoolguynumberone | 3,420
 769 | SoulUrgeDestiny | 3,409
-770 | Microgamers | 3,405
+770 | Microgamers | 3,406
 771 | n1ghsthade | 3,378
 772 | Riviera20 | 3,370
 773 | elksteaksdmt | 3,359
