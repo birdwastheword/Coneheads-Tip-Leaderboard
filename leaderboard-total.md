@@ -1,4 +1,4 @@
-Last updated: 23-09-05 02:35:23 UTC  
+Last updated: 23-09-05 02:43:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | _Royal_Insylum | 2,603,787
 46 | send420nudes | 2,555,875
 47 | DontLaughArt | 2,528,386
-48 | zdubs | 2,440,308
+48 | zdubs | 2,440,916
 49 | possibili-teas | 2,399,515
 50 | ImAlekBan | 2,361,051
 51 | GuyOne | 2,318,049
@@ -88,9 +88,9 @@ Rank | Username | Totals Tips
 85 | ID404_Not_Found_8964 | 911,742
 86 | Modestexcuse | 903,684
 87 | CluelessSurvivor | 902,466
-88 | thee_monster | 896,765
-89 | Bobisdeadrun | 868,835
-90 | CHEROKEEJ4CK | 814,148
+88 | CHEROKEEJ4CK | 898,217
+89 | thee_monster | 896,765
+90 | Bobisdeadrun | 868,835
 91 | goldyluckinblokchain | 809,537
 92 | vbutarin | 802,000
 93 | ashketchup422 | 794,067
