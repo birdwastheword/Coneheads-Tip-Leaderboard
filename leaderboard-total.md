@@ -1,4 +1,4 @@
-Last updated: 23-09-05 08:27:19 UTC  
+Last updated: 23-09-05 08:36:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,885,320
@@ -681,7 +681,7 @@ Rank | Username | Totals Tips
 678 | Pengpangolin | 7,488
 679 | FlippiShh | 7,440
 680 | quaker-goats | 7,414
-681 | Weirdclerk_ | 7,192
+681 | Weirdclerk_ | 7,392
 682 | Ok-Profile-1744 | 7,046
 683 | CryptoriumOfficial | 6,969
 684 | tbobs04 | 6,969
