@@ -1,4 +1,4 @@
-Last updated: 23-09-05 11:24:21 UTC  
+Last updated: 23-09-05 11:33:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 13,313,322
-9 | crypto_grandma | 12,923,357
+9 | crypto_grandma | 12,933,357
 10 | HODL-THE-LINE | 12,469,181
 11 | _ships | 11,977,499
 12 | Parush9 | 11,958,456
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | Fenrir-1919 | 2,641,300
 45 | _Royal_Insylum | 2,603,787
 46 | send420nudes | 2,564,413
-47 | DontLaughArt | 2,558,576
+47 | DontLaughArt | 2,562,455
 48 | zdubs | 2,441,524
 49 | possibili-teas | 2,399,515
 50 | ImAlekBan | 2,363,714
