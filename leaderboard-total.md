@@ -1,4 +1,4 @@
-Last updated: 23-09-05 07:30:54 UTC  
+Last updated: 23-09-05 07:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,858,690
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,848,269
 28 | IveDoneItAtLast | 4,821,288
-29 | Ginomania | 4,582,273
+29 | Ginomania | 4,584,936
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,448,691
@@ -540,7 +540,7 @@ Rank | Username | Totals Tips
 537 | Iiwip | 19,533
 538 | MalarkyD | 19,527
 539 | lookwhatumademedoo | 19,510
-540 | Complete-Tadpole-728 | 18,983
+540 | Complete-Tadpole-728 | 19,403
 541 | ___MOM___ | 18,853
 542 | CatastrophicSpecter | 18,492
 543 | subredditlurker69 | 18,125
