@@ -1,4 +1,4 @@
-Last updated: 23-09-05 09:20:14 UTC  
+Last updated: 23-09-05 09:30:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 13,278,322
-9 | crypto_grandma | 12,784,112
+9 | crypto_grandma | 12,811,012
 10 | HODL-THE-LINE | 12,469,181
 11 | _ships | 11,977,499
 12 | Parush9 | 11,958,456
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,448,691
 33 | birdwastheword | 4,399,897
-34 | rustyybikes | 4,263,944
+34 | rustyybikes | 4,264,552
 35 | VIVOffical | 3,988,335
 36 | clean_cut89 | 3,592,172
 37 | thom_orrow | 3,580,892
@@ -128,7 +128,7 @@ Rank | Username | Totals Tips
 125 | StepAsideSuckers | 540,695
 126 | scientifichistorian | 539,560
 127 | shreyaskg | 538,211
-128 | junkwatch | 522,024
+128 | junkwatch | 525,107
 129 | doktastonks | 521,325
 130 | Allions1 | 514,492
 131 | f0n1xr131ng | 509,681
@@ -256,11 +256,11 @@ Rank | Username | Totals Tips
 253 | Kevin3683 | 130,622
 254 | Mj_6o4 | 129,568
 255 | wato4000 | 129,454
-256 | Awake-- | 128,173
-257 | robnectar | 127,974
-258 | ZeMadMan1 | 127,925
-259 | CalligrapherEnough83 | 127,227
-260 | pythonskynet | 126,623
+256 | pythonskynet | 129,286
+257 | Awake-- | 128,173
+258 | robnectar | 127,974
+259 | ZeMadMan1 | 127,925
+260 | CalligrapherEnough83 | 127,227
 261 | Trakorr | 125,110
 262 | DeanDeanington | 123,915
 263 | Sativa55555 | 121,550
@@ -369,9 +369,9 @@ Rank | Username | Totals Tips
 366 | phrodreky | 57,984
 367 | Outrageous_Storm6537 | 56,938
 368 | Virtual-Wrangler5955 | 56,680
-369 | ProfessionalIcy6456 | 56,380
-370 | Bandit_005 | 56,303
-371 | Bobocod | 56,260
+369 | Bobocod | 56,680
+370 | ProfessionalIcy6456 | 56,380
+371 | Bandit_005 | 56,303
 372 | chuloreddit | 55,878
 373 | imbarrydylan | 55,689
 374 | orangesandonions | 55,238
