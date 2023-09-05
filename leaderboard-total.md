@@ -1,4 +1,4 @@
-Last updated: 23-09-05 03:40:31 UTC  
+Last updated: 23-09-05 03:50:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,568,953
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,845,606
+27 | thelonliestcrowd | 4,848,269
 28 | IveDoneItAtLast | 4,820,680
 29 | Ginomania | 4,550,317
 30 | rikbona | 4,540,773
@@ -84,11 +84,11 @@ Rank | Username | Totals Tips
 81 | WarmBiertje | 1,000,000
 82 | EvanIsBacon | 970,416
 83 | UniversalNoobMaster | 969,774
-84 | Forward_Today2849 | 932,405
-85 | ID404_Not_Found_8964 | 911,742
-86 | Modestexcuse | 903,684
-87 | CluelessSurvivor | 902,466
-88 | CHEROKEEJ4CK | 898,217
+84 | CHEROKEEJ4CK | 940,286
+85 | Forward_Today2849 | 932,405
+86 | ID404_Not_Found_8964 | 911,742
+87 | Modestexcuse | 903,684
+88 | CluelessSurvivor | 902,466
 89 | thee_monster | 896,765
 90 | Bobisdeadrun | 868,835
 91 | goldyluckinblokchain | 809,537
@@ -352,7 +352,7 @@ Rank | Username | Totals Tips
 349 | slug_tamer | 63,175
 350 | netnemirepxE | 62,645
 351 | meth43 | 62,596
-352 | Emeritux | 62,504
+352 | Emeritux | 62,573
 353 | 1ndy1 | 62,120
 354 | KrunchyKushKing | 61,532
 355 | TheD1ceMan | 60,541
@@ -549,11 +549,11 @@ Rank | Username | Totals Tips
 546 | omfglauren | 17,676
 547 | masterassassin93 | 17,409
 548 | Styl_Ianos_ | 17,328
-549 | Steves1982 | 17,284
-550 | OutrageousStudy6752 | 17,087
-551 | Sebanimation | 17,004
-552 | leviathynx | 16,901
-553 | Complete-Tadpole-728 | 16,883
+549 | Complete-Tadpole-728 | 17,303
+550 | Steves1982 | 17,284
+551 | OutrageousStudy6752 | 17,087
+552 | Sebanimation | 17,004
+553 | leviathynx | 16,901
 554 | MantisToboggan66 | 16,437
 555 | ipsole | 16,425
 556 | deeeznotes | 16,235
