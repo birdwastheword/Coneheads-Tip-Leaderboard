@@ -1,4 +1,4 @@
-Last updated: 23-09-05 10:50:43 UTC  
+Last updated: 23-09-05 11:16:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 13,313,322
-9 | crypto_grandma | 12,913,357
+9 | crypto_grandma | 12,923,357
 10 | HODL-THE-LINE | 12,469,181
 11 | _ships | 11,977,499
 12 | Parush9 | 11,958,456
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | Fenrir-1919 | 2,641,300
 45 | _Royal_Insylum | 2,603,787
 46 | send420nudes | 2,564,413
-47 | DontLaughArt | 2,528,386
+47 | DontLaughArt | 2,555,305
 48 | zdubs | 2,441,524
 49 | possibili-teas | 2,399,515
 50 | ImAlekBan | 2,363,714
@@ -316,18 +316,18 @@ Rank | Username | Totals Tips
 313 | standArtpluto | 82,100
 314 | Chill_Edoeard | 81,015
 315 | mastermarvs | 80,384
-316 | diamondbored | 79,886
-317 | Pwny_b0y | 79,447
-318 | GodOfWarGuy737 | 79,069
-319 | fleshlyLoath | 78,366
-320 | TheOneWhoCared | 78,239
-321 | mokkingjay | 77,914
-322 | HelicopterDear6064 | 77,619
-323 | youtooleyesing | 77,229
-324 | Admirito | 77,027
-325 | Derefringence | 76,675
-326 | XeroGrave | 76,579
-327 | BeefaloSlim | 75,182
+316 | BeefaloSlim | 80,182
+317 | diamondbored | 79,886
+318 | Pwny_b0y | 79,447
+319 | GodOfWarGuy737 | 79,069
+320 | fleshlyLoath | 78,366
+321 | TheOneWhoCared | 78,239
+322 | mokkingjay | 77,914
+323 | HelicopterDear6064 | 77,619
+324 | youtooleyesing | 77,229
+325 | Admirito | 77,027
+326 | Derefringence | 76,675
+327 | XeroGrave | 76,579
 328 | MedicineMaterial3501 | 74,654
 329 | pwan7505 | 73,893
 330 | Diamond_PnutBrain | 73,619
