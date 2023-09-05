@@ -1,4 +1,4 @@
-Last updated: 23-09-05 03:30:54 UTC  
+Last updated: 23-09-05 03:40:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -150,7 +150,7 @@ Rank | Username | Totals Tips
 147 | Lion-Hermit | 410,547
 148 | LrnFaroeseWthBergur | 409,488
 149 | PortCity_MadMan | 394,221
-150 | ultra_terrestrial | 390,994
+150 | ultra_terrestrial | 393,657
 151 | Creepy-Nectarine-225 | 389,511
 152 | WhateverAlready | 385,881
 153 | Dripbot8 | 385,384
@@ -200,8 +200,8 @@ Rank | Username | Totals Tips
 197 | joeviani | 240,028
 198 | Zalkwalker | 235,069
 199 | MuhSound | 233,900
-200 | Conetent | 221,843
-201 | the_judge_168 | 217,892
+200 | the_judge_168 | 223,218
+201 | Conetent | 221,843
 202 | SourBeefHoop | 217,512
 203 | alexthemay | 214,131
 204 | yahuurdme | 213,714
