@@ -1,4 +1,4 @@
-Last updated: 23-09-05 17:50:30 UTC  
+Last updated: 23-09-05 18:00:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -526,8 +526,8 @@ Rank | Username | Totals Tips
 523 | Tasty_Bag | 21,384
 524 | Complete-Tadpole-728 | 21,221
 525 | RamboBalboa21 | 21,083
-526 | shootingeagleyt | 20,611
-527 | mihii12 | 20,538
+526 | mihii12 | 20,958
+527 | shootingeagleyt | 20,611
 528 | Flat_Opportunity_340 | 20,420
 529 | DLPD-Camko | 20,377
 530 | ipad_daps | 20,375
