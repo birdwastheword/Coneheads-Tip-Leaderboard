@@ -1,4 +1,4 @@
-Last updated: 23-09-05 01:56:47 UTC  
+Last updated: 23-09-05 02:26:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,856,027
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | nakamo-toe | 33,450,685
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,202
-6 | Jeff5704 | 28,115,861
+6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 13,042,996
 9 | crypto_grandma | 12,565,874
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,550,317
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,440,702
+32 | redzrex | 4,443,365
 33 | birdwastheword | 4,389,477
 34 | rustyybikes | 4,263,944
 35 | VIVOffical | 3,988,335
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | 0-Give-a-fucks | 1,913,749
 58 | dealkhabari | 1,763,283
 59 | Ten-Mins-Late | 1,706,113
-60 | investigator100 | 1,643,983
+60 | investigator100 | 1,646,646
 61 | GooderZBK | 1,617,267
 62 | KONGXIANG | 1,531,785
 63 | djrcollectables | 1,510,112
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | formidable-opponent | 574,402
 121 | dopelifer09 | 569,111
 122 | nichnotnick | 559,101
-123 | Korean_Street_Pizza | 557,139
+123 | Korean_Street_Pizza | 557,208
 124 | MorrisBrett514 | 550,850
 125 | StepAsideSuckers | 540,695
 126 | scientifichistorian | 539,560
@@ -136,14 +136,14 @@ Rank | Username | Totals Tips
 133 | Successful-Walk-3902 | 498,794
 134 | Crypto-4-Freedom | 496,918
 135 | crodbtc | 494,974
-136 | sinlesco | 462,490
-137 | WarmlyWacky | 462,118
-138 | MediaPrestigious8342 | 453,839
-139 | Lady_Lucks_Man | 451,219
-140 | virmamies | 444,445
-141 | adrifing | 443,831
-142 | unhingedbigfoot | 439,874
-143 | DogSpark84 | 432,538
+136 | DogSpark84 | 485,798
+137 | sinlesco | 462,490
+138 | WarmlyWacky | 462,118
+139 | MediaPrestigious8342 | 453,839
+140 | Lady_Lucks_Man | 451,219
+141 | virmamies | 444,445
+142 | adrifing | 443,831
+143 | unhingedbigfoot | 439,874
 144 | RazPie | 429,317
 145 | Mopeiooo | 427,268
 146 | dronegeeks1 | 414,406
@@ -715,17 +715,17 @@ Rank | Username | Totals Tips
 712 | Sir_Mobius_Mook | 5,840
 713 | stspts | 5,822
 714 | aPandox | 5,695
-715 | Makaveli4Sheez | 5,569
-716 | DioDilemma | 5,545
-717 | LATech99 | 5,463
-718 | dorinosss | 5,420
-719 | Independent_Safe1351 | 5,352
-720 | moonmanuk | 5,326
-721 | Significant-Bet5762 | 5,323
-722 | Zeratrem | 5,252
-723 | ineedmoney2024 | 5,243
-724 | --hermit | 5,219
-725 | TheChillDyl | 5,183
+715 | TheChillDyl | 5,603
+716 | Makaveli4Sheez | 5,569
+717 | DioDilemma | 5,545
+718 | LATech99 | 5,463
+719 | dorinosss | 5,420
+720 | Independent_Safe1351 | 5,352
+721 | moonmanuk | 5,326
+722 | Significant-Bet5762 | 5,323
+723 | Zeratrem | 5,252
+724 | ineedmoney2024 | 5,243
+725 | --hermit | 5,219
 726 | gonzOkook | 5,169
 727 | NoNumbersNumber | 5,138
 728 | just_half_baked710 | 5,133
