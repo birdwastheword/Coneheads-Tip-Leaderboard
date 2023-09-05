@@ -1,4 +1,4 @@
-Last updated: 23-09-05 09:30:47 UTC  
+Last updated: 23-09-05 09:40:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -716,16 +716,16 @@ Rank | Username | Totals Tips
 713 | Sir_Mobius_Mook | 5,840
 714 | stspts | 5,822
 715 | aPandox | 5,695
-716 | TheChillDyl | 5,603
-717 | Makaveli4Sheez | 5,569
-718 | DioDilemma | 5,545
-719 | ASingleGuitarString | 5,464
-720 | LATech99 | 5,463
-721 | dorinosss | 5,420
-722 | Independent_Safe1351 | 5,352
-723 | moonmanuk | 5,326
-724 | Significant-Bet5762 | 5,323
-725 | Zeratrem | 5,252
+716 | Zeratrem | 5,672
+717 | TheChillDyl | 5,603
+718 | Makaveli4Sheez | 5,569
+719 | DioDilemma | 5,545
+720 | ASingleGuitarString | 5,464
+721 | LATech99 | 5,463
+722 | dorinosss | 5,420
+723 | Independent_Safe1351 | 5,352
+724 | moonmanuk | 5,326
+725 | Significant-Bet5762 | 5,323
 726 | ineedmoney2024 | 5,243
 727 | --hermit | 5,219
 728 | gonzOkook | 5,169
