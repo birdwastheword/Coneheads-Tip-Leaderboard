@@ -1,4 +1,4 @@
-Last updated: 23-09-05 05:43:20 UTC  
+Last updated: 23-09-05 05:51:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,858,690
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | HODL-THE-LINE | 12,469,181
 11 | _ships | 11,977,499
 12 | Parush9 | 11,958,456
-13 | transfermymoons | 10,550,558
+13 | transfermymoons | 10,650,558
 14 | SammyCraigar | 10,333,816
 15 | 8inchConer | 8,947,481
 16 | ArtConsitent | 8,532,379
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | catlover-100 | 1,914,664
 57 | 0-Give-a-fucks | 1,914,169
 58 | dealkhabari | 1,763,283
-59 | Ten-Mins-Late | 1,706,113
+59 | Ten-Mins-Late | 1,706,533
 60 | investigator100 | 1,646,646
 61 | GooderZBK | 1,617,267
 62 | KONGXIANG | 1,534,448
@@ -128,8 +128,8 @@ Rank | Username | Totals Tips
 125 | StepAsideSuckers | 540,695
 126 | scientifichistorian | 539,560
 127 | shreyaskg | 538,211
-128 | doktastonks | 521,325
-129 | junkwatch | 519,361
+128 | junkwatch | 522,024
+129 | doktastonks | 521,325
 130 | Allions1 | 514,492
 131 | f0n1xr131ng | 509,681
 132 | AcceptableLeg8751 | 500,000
