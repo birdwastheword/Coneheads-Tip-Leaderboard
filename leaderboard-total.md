@@ -1,9 +1,9 @@
-Last updated: 23-09-05 17:00:57 UTC  
+Last updated: 23-09-05 17:18:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
 2 | Wonderful_Bad6531 | 36,151,664
-3 | nakamo-toe | 34,474,210
+3 | nakamo-toe | 34,479,536
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,850,932
-28 | IveDoneItAtLast | 4,844,121
+28 | IveDoneItAtLast | 4,847,392
 29 | Ginomania | 4,615,262
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | Cravensworth_redux | 790,803
 96 | Westy3000 | 782,487
 97 | ziggybri | 782,435
-98 | Lillica_Golden_SHIB | 759,744
+98 | Lillica_Golden_SHIB | 759,882
 99 | RegalReptile_ | 754,485
 100 | billywright4 | 729,374
 101 | starterpack420694 | 710,420
@@ -376,7 +376,7 @@ Rank | Username | Totals Tips
 373 | imbarrydylan | 55,689
 374 | orangesandonions | 55,238
 375 | Brandillio | 54,271
-376 | S2K08 | 53,928
+376 | S2K08 | 54,050
 377 | WarningKey6517 | 53,910
 378 | LX1070 | 53,855
 379 | Astrochrono | 53,398
