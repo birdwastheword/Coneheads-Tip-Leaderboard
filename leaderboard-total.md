@@ -1,4 +1,4 @@
-Last updated: 23-09-05 15:31:01 UTC  
+Last updated: 23-09-05 15:40:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
-8 | crypto_grandma | 13,385,056
+8 | crypto_grandma | 13,465,141
 9 | cutsickass | 13,315,985
 10 | HODL-THE-LINE | 12,469,181
 11 | _ships | 11,977,499
@@ -155,10 +155,10 @@ Rank | Username | Totals Tips
 152 | WhateverAlready | 385,881
 153 | Dripbot8 | 385,384
 154 | SHIFTY-T3RROR | 380,120
-155 | zenhodl | 374,566
-156 | hellosamaira | 373,235
-157 | noface_reddit | 372,851
-158 | MisterM0H0 | 369,338
+155 | MisterM0H0 | 379,338
+156 | zenhodl | 374,566
+157 | hellosamaira | 373,235
+158 | noface_reddit | 372,851
 159 | AustinTX1985 | 368,863
 160 | farmertypoerror | 359,212
 161 | Outrageous-Skill-464 | 344,174
