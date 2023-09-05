@@ -1,9 +1,9 @@
-Last updated: 23-09-05 18:00:53 UTC  
+Last updated: 23-09-05 18:23:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
 2 | Wonderful_Bad6531 | 36,151,664
-3 | nakamo-toe | 34,482,807
+3 | nakamo-toe | 34,485,470
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,853,595
-28 | IveDoneItAtLast | 4,847,392
+28 | IveDoneItAtLast | 4,848,198
 29 | Ginomania | 4,615,262
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | bray_martin03 | 2,999,425
 43 | Mean_Bandicoot_7481 | 2,752,108
 44 | Fenrir-1919 | 2,641,300
-45 | send420nudes | 2,615,000
+45 | send420nudes | 2,615,420
 46 | _Royal_Insylum | 2,603,787
 47 | DontLaughArt | 2,592,356
 48 | zdubs | 2,441,524
@@ -224,7 +224,7 @@ Rank | Username | Totals Tips
 221 | RiightYouKnow | 193,329
 222 | bakerdawg555 | 192,028
 223 | Iulian_TechNewb | 190,179
-224 | Most_Being_4002 | 185,834
+224 | Most_Being_4002 | 186,254
 225 | TubeNerd92 | 184,746
 226 | nooobmaester69 | 183,460
 227 | skollywag92 | 183,279
