@@ -1,9 +1,9 @@
-Last updated: 23-09-05 06:50:48 UTC  
+Last updated: 23-09-05 07:18:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,858,690
 2 | Wonderful_Bad6531 | 36,151,664
-3 | nakamo-toe | 33,600,720
+3 | nakamo-toe | 33,652,317
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
@@ -28,8 +28,8 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,848,269
-28 | IveDoneItAtLast | 4,820,680
-29 | Ginomania | 4,552,980
+28 | IveDoneItAtLast | 4,821,288
+29 | Ginomania | 4,582,273
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,448,691
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | __PDS__ | 595,709
 116 | El_Gordone | 592,784
 117 | superlonelyboy | 591,419
-118 | Burzzzt88 | 589,549
+118 | Burzzzt88 | 589,969
 119 | Independent_Heart_15 | 578,825
 120 | formidable-opponent | 574,402
 121 | dopelifer09 | 569,111
