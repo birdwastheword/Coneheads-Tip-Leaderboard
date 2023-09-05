@@ -1,4 +1,4 @@
-Last updated: 23-09-05 09:50:45 UTC  
+Last updated: 23-09-05 10:28:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 13,278,322
-9 | crypto_grandma | 12,817,912
+9 | crypto_grandma | 12,851,357
 10 | HODL-THE-LINE | 12,469,181
 11 | _ships | 11,977,499
 12 | Parush9 | 11,958,456
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,848,269
 28 | IveDoneItAtLast | 4,822,094
-29 | Ginomania | 4,587,599
+29 | Ginomania | 4,615,262
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,448,691
@@ -44,13 +44,13 @@ Rank | Username | Totals Tips
 41 | LordBobTheWhale | 3,114,835
 42 | bray_martin03 | 2,970,132
 43 | Mean_Bandicoot_7481 | 2,752,108
-44 | Fenrir-1919 | 2,638,637
+44 | Fenrir-1919 | 2,641,300
 45 | _Royal_Insylum | 2,603,787
-46 | send420nudes | 2,560,144
+46 | send420nudes | 2,564,413
 47 | DontLaughArt | 2,528,386
 48 | zdubs | 2,441,524
 49 | possibili-teas | 2,399,515
-50 | ImAlekBan | 2,361,051
+50 | ImAlekBan | 2,363,714
 51 | GuyOne | 2,318,049
 52 | Autom4tic_Soze | 2,176,448
 53 | 002_timmy | 2,033,164
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | Cravensworth_redux | 790,803
 95 | Westy3000 | 782,487
 96 | ziggybri | 782,435
-97 | Lillica_Golden_SHIB | 757,048
+97 | Lillica_Golden_SHIB | 757,606
 98 | RegalReptile_ | 754,485
 99 | billywright4 | 728,766
 100 | starterpack420694 | 710,420
@@ -187,7 +187,7 @@ Rank | Username | Totals Tips
 184 | Hactar_42 | 256,832
 185 | tmanfromEarth | 256,392
 186 | thecrabdad | 256,177
-187 | SnooMacarons9203 | 252,219
+187 | SnooMacarons9203 | 254,882
 188 | Ambitious-Minimum-80 | 252,035
 189 | Sattack4000 | 250,837
 190 | Gregoryonetulum | 249,309
@@ -344,8 +344,8 @@ Rank | Username | Totals Tips
 341 | shellystarzz | 66,912
 342 | Friendly-Airline2426 | 66,547
 343 | imp3order | 65,546
-344 | damnusernamegotcutof | 65,004
-345 | ElmerBlack | 64,810
+344 | ElmerBlack | 65,230
+345 | damnusernamegotcutof | 65,004
 346 | zuzieey7719 | 64,618
 347 | BitCone_CONE | 63,610
 348 | guokaidi | 63,245
