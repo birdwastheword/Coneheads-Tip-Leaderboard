@@ -1,4 +1,4 @@
-Last updated: 23-09-05 13:25:26 UTC  
+Last updated: 23-09-05 13:34:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 13,315,985
-9 | crypto_grandma | 13,150,021
+9 | crypto_grandma | 13,170,243
 10 | HODL-THE-LINE | 12,469,181
 11 | _ships | 11,977,499
 12 | Parush9 | 11,958,456
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | ZukoBih | 3,405,778
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,114,835
-42 | bray_martin03 | 2,970,132
+42 | bray_martin03 | 2,996,762
 43 | Mean_Bandicoot_7481 | 2,752,108
 44 | Fenrir-1919 | 2,641,300
 45 | _Royal_Insylum | 2,603,787
@@ -160,18 +160,18 @@ Rank | Username | Totals Tips
 157 | noface_reddit | 372,851
 158 | AustinTX1985 | 368,863
 159 | farmertypoerror | 359,212
-160 | Outrageous-Skill-464 | 344,174
-161 | Tinman_ApE | 342,447
-162 | anony666mous | 341,008
-163 | tsudrat | 340,707
-164 | DAMG808 | 339,266
-165 | EffinDrongoC | 312,738
-166 | x52x | 304,860
-167 | liwipe | 304,467
-168 | VincentVanGTFO | 300,598
-169 | Lastkidpicked94 | 297,785
-170 | legionticket | 296,054
-171 | MisterM0H0 | 294,338
+160 | MisterM0H0 | 349,338
+161 | Outrageous-Skill-464 | 344,174
+162 | Tinman_ApE | 342,447
+163 | anony666mous | 341,008
+164 | tsudrat | 340,707
+165 | DAMG808 | 339,266
+166 | EffinDrongoC | 312,738
+167 | x52x | 304,860
+168 | liwipe | 304,467
+169 | VincentVanGTFO | 300,598
+170 | Lastkidpicked94 | 297,785
+171 | legionticket | 296,054
 172 | send_tacoz | 293,576
 173 | deedopete | 285,361
 174 | Extreme_Issue7325 | 285,201
