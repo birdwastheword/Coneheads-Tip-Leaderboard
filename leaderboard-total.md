@@ -1,4 +1,4 @@
-Last updated: 23-09-05 07:40:33 UTC  
+Last updated: 23-09-05 07:50:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,858,690
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 13,233,322
+8 | cutsickass | 13,238,322
 9 | crypto_grandma | 12,565,874
 10 | HODL-THE-LINE | 12,469,181
 11 | _ships | 11,977,499
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,848,269
 28 | IveDoneItAtLast | 4,821,288
-29 | Ginomania | 4,584,936
+29 | Ginomania | 4,587,599
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,448,691
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | starterpack420694 | 710,420
 101 | WarmIyWacky | 703,049
 102 | Starterpack69420 | 696,969
-103 | abracadabra087 | 694,045
+103 | abracadabra087 | 694,465
 104 | frickdom | 691,937
 105 | Alanski22 | 690,306
 106 | firstmatedotxyz | 688,743
@@ -283,8 +283,8 @@ Rank | Username | Totals Tips
 280 | AD_VICTORIAM_x | 106,876
 281 | i_wake_up_at_12 | 106,333
 282 | Chanyuui1 | 104,940
-283 | deathtr0 | 102,961
-284 | ItailianStallion101 | 102,883
+283 | ItailianStallion101 | 102,984
+284 | deathtr0 | 102,961
 285 | redditinchina | 102,781
 286 | beanwiggin420 | 101,095
 287 | ACorDC | 100,420
@@ -995,22 +995,22 @@ Rank | Username | Totals Tips
 992 | RepresentativeNo4743 | 369
 993 | teyegurspoon | 345
 994 | DrChuckWhite | 344
-995 | Wise-Grapefruit-1443 | 311
-996 | MimirHinnVitru | 307
-997 | Formal-Way-4610 | 300
-998 | Asleep_Ambassador_66 | 277
-999 | xqpcy | 276
-1000 | torontoglutton | 276
-1001 | j3llyf1sh3y | 276
-1002 | highlyregardedeth | 276
-1003 | eddyxoxo | 276
-1004 | Mr_Fresh83 | 269
-1005 | CapnPratt | 260
-1006 | VizeKarma | 241
-1007 | True_Impression9773 | 240
-1008 | asskickersouthbread | 238
-1009 | Bonbon_01 | 237
-1010 | TheyAskWho | 222
+995 | TheyAskWho | 333
+996 | Wise-Grapefruit-1443 | 311
+997 | MimirHinnVitru | 307
+998 | Formal-Way-4610 | 300
+999 | Asleep_Ambassador_66 | 277
+1000 | xqpcy | 276
+1001 | torontoglutton | 276
+1002 | j3llyf1sh3y | 276
+1003 | highlyregardedeth | 276
+1004 | eddyxoxo | 276
+1005 | Mr_Fresh83 | 269
+1006 | CapnPratt | 260
+1007 | VizeKarma | 241
+1008 | True_Impression9773 | 240
+1009 | asskickersouthbread | 238
+1010 | Bonbon_01 | 237
 1011 | Goney85 | 222
 1012 | Gravel_Sandwich | 217
 1013 | punkmanmatthew | 208
