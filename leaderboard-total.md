@@ -1,9 +1,9 @@
-Last updated: 23-09-05 05:51:46 UTC  
+Last updated: 23-09-05 06:28:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,858,690
-2 | Wonderful_Bad6531 | 36,119,067
-3 | nakamo-toe | 33,529,975
+2 | Wonderful_Bad6531 | 36,151,664
+3 | nakamo-toe | 33,565,348
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Puddin-Luv | 6,963,232
 22 | Geniuskills | 6,808,124
 23 | ashinamune | 6,607,117
-24 | Real_Player_0 | 6,570,169
+24 | Real_Player_0 | 6,570,777
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,848,269
@@ -32,8 +32,8 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,552,980
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,446,028
-33 | birdwastheword | 4,389,477
+32 | redzrex | 4,448,691
+33 | birdwastheword | 4,389,897
 34 | rustyybikes | 4,263,944
 35 | VIVOffical | 3,988,335
 36 | clean_cut89 | 3,592,172
@@ -235,7 +235,7 @@ Rank | Username | Totals Tips
 232 | high5s_inureye | 168,388
 233 | DamnWhySoLow | 166,675
 234 | MelonFarmer420 | 165,456
-235 | sjakkpila | 159,557
+235 | sjakkpila | 162,220
 236 | 6reficul | 153,884
 237 | martymartinator | 152,560
 238 | CoverYourMaskHoles | 151,719
@@ -540,16 +540,16 @@ Rank | Username | Totals Tips
 537 | Iiwip | 19,533
 538 | MalarkyD | 19,527
 539 | lookwhatumademedoo | 19,510
-540 | ___MOM___ | 18,853
-541 | CatastrophicSpecter | 18,492
-542 | subredditlurker69 | 18,125
-543 | Collectibl3 | 18,024
-544 | augustsIippedaway | 17,739
-545 | PRYCDaddy | 17,718
-546 | omfglauren | 17,676
-547 | masterassassin93 | 17,409
-548 | Styl_Ianos_ | 17,328
-549 | Complete-Tadpole-728 | 17,303
+540 | Complete-Tadpole-728 | 18,983
+541 | ___MOM___ | 18,853
+542 | CatastrophicSpecter | 18,492
+543 | subredditlurker69 | 18,125
+544 | Collectibl3 | 18,024
+545 | augustsIippedaway | 17,739
+546 | PRYCDaddy | 17,718
+547 | omfglauren | 17,676
+548 | masterassassin93 | 17,409
+549 | Styl_Ianos_ | 17,328
 550 | Steves1982 | 17,284
 551 | OutrageousStudy6752 | 17,087
 552 | Sebanimation | 17,004
