@@ -1,9 +1,9 @@
-Last updated: 23-09-05 05:35:14 UTC  
+Last updated: 23-09-05 05:43:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,858,690
 2 | Wonderful_Bad6531 | 36,119,067
-3 | nakamo-toe | 33,519,923
+3 | nakamo-toe | 33,529,975
 4 | rickribera93 | 28,283,727
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
@@ -65,8 +65,8 @@ Rank | Username | Totals Tips
 62 | KONGXIANG | 1,534,448
 63 | djrcollectables | 1,510,112
 64 | evilninjarobot | 1,504,772
-65 | isthistomorrow_ | 1,381,135
-66 | CMDRGlamdring | 1,374,278
+65 | CMDRGlamdring | 1,400,908
+66 | isthistomorrow_ | 1,381,135
 67 | Mundane-Farm-4117 | 1,359,176
 68 | YarOldeOrchard | 1,340,375
 69 | ValiantJudge29500 | 1,332,984
