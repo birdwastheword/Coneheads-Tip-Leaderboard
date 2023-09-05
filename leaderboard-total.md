@@ -1,4 +1,4 @@
-Last updated: 23-09-05 14:35:11 UTC  
+Last updated: 23-09-05 14:43:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
-8 | crypto_grandma | 13,355,956
+8 | crypto_grandma | 13,362,856
 9 | cutsickass | 13,315,985
 10 | HODL-THE-LINE | 12,469,181
 11 | _ships | 11,977,499
@@ -37,11 +37,11 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 4,264,552
 35 | VIVOffical | 3,990,998
 36 | clean_cut89 | 3,592,172
-37 | thom_orrow | 3,583,555
+37 | thom_orrow | 3,588,881
 38 | LuminousViper | 3,478,754
 39 | ZukoBih | 3,405,778
 40 | Dry_Badger_2403 | 3,193,857
-41 | LordBobTheWhale | 3,114,835
+41 | LordBobTheWhale | 3,115,443
 42 | bray_martin03 | 2,996,762
 43 | Mean_Bandicoot_7481 | 2,752,108
 44 | Fenrir-1919 | 2,641,300
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | Cravensworth_redux | 790,803
 95 | Westy3000 | 782,487
 96 | ziggybri | 782,435
-97 | Lillica_Golden_SHIB | 758,578
+97 | Lillica_Golden_SHIB | 758,716
 98 | RegalReptile_ | 754,485
 99 | billywright4 | 729,374
 100 | starterpack420694 | 710,420
@@ -159,8 +159,8 @@ Rank | Username | Totals Tips
 156 | hellosamaira | 373,235
 157 | noface_reddit | 372,851
 158 | AustinTX1985 | 368,863
-159 | farmertypoerror | 359,212
-160 | MisterM0H0 | 349,338
+159 | MisterM0H0 | 359,338
+160 | farmertypoerror | 359,212
 161 | Outrageous-Skill-464 | 344,174
 162 | Tinman_ApE | 342,447
 163 | anony666mous | 341,008
