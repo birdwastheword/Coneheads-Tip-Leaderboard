@@ -1,4 +1,4 @@
-Last updated: 23-09-05 13:34:50 UTC  
+Last updated: 23-09-05 13:43:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 13,315,985
-9 | crypto_grandma | 13,170,243
+9 | crypto_grandma | 13,212,243
 10 | HODL-THE-LINE | 12,469,181
 11 | _ships | 11,977,499
 12 | Parush9 | 11,958,456
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | Cravensworth_redux | 790,803
 95 | Westy3000 | 782,487
 96 | ziggybri | 782,435
-97 | Lillica_Golden_SHIB | 757,744
+97 | Lillica_Golden_SHIB | 757,813
 98 | RegalReptile_ | 754,485
 99 | billywright4 | 729,374
 100 | starterpack420694 | 710,420
