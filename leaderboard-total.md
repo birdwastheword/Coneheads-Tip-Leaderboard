@@ -1,7 +1,7 @@
-Last updated: 23-09-05 03:50:32 UTC  
+Last updated: 23-09-05 04:43:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 39,856,027
+1 | Bitdream200K | 39,858,690
 2 | Wonderful_Bad6531 | 36,119,067
 3 | nakamo-toe | 33,453,348
 4 | rickribera93 | 28,283,727
@@ -20,11 +20,11 @@ Rank | Username | Totals Tips
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
 19 | avyun | 7,804,620
-20 | SpookySYN | 7,713,222
+20 | SpookySYN | 7,739,852
 21 | Puddin-Luv | 6,963,232
 22 | Geniuskills | 6,808,124
 23 | ashinamune | 6,607,117
-24 | Real_Player_0 | 6,568,953
+24 | Real_Player_0 | 6,570,169
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,848,269
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,550,317
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,443,365
+32 | redzrex | 4,446,028
 33 | birdwastheword | 4,389,477
 34 | rustyybikes | 4,263,944
 35 | VIVOffical | 3,988,335
@@ -129,7 +129,7 @@ Rank | Username | Totals Tips
 126 | scientifichistorian | 539,560
 127 | shreyaskg | 538,211
 128 | doktastonks | 521,325
-129 | junkwatch | 518,872
+129 | junkwatch | 519,292
 130 | Allions1 | 514,492
 131 | f0n1xr131ng | 509,681
 132 | AcceptableLeg8751 | 500,000
@@ -350,9 +350,9 @@ Rank | Username | Totals Tips
 347 | BitCone_CONE | 63,610
 348 | guokaidi | 63,245
 349 | slug_tamer | 63,175
-350 | netnemirepxE | 62,645
-351 | meth43 | 62,596
-352 | Emeritux | 62,573
+350 | Emeritux | 62,813
+351 | netnemirepxE | 62,645
+352 | meth43 | 62,596
 353 | 1ndy1 | 62,120
 354 | KrunchyKushKing | 61,532
 355 | TheD1ceMan | 60,541
@@ -371,8 +371,8 @@ Rank | Username | Totals Tips
 368 | Virtual-Wrangler5955 | 56,680
 369 | ProfessionalIcy6456 | 56,380
 370 | Bandit_005 | 56,303
-371 | chuloreddit | 55,878
-372 | Bobocod | 55,840
+371 | Bobocod | 56,260
+372 | chuloreddit | 55,878
 373 | imbarrydylan | 55,689
 374 | orangesandonions | 55,238
 375 | Brandillio | 54,271
