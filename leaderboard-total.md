@@ -1,4 +1,4 @@
-Last updated: 23-09-05 11:33:14 UTC  
+Last updated: 23-09-05 11:41:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 13,313,322
-9 | crypto_grandma | 12,933,357
+9 | crypto_grandma | 12,947,157
 10 | HODL-THE-LINE | 12,469,181
 11 | _ships | 11,977,499
 12 | Parush9 | 11,958,456
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,848,269
-28 | IveDoneItAtLast | 4,822,094
+28 | IveDoneItAtLast | 4,827,420
 29 | Ginomania | 4,615,262
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
