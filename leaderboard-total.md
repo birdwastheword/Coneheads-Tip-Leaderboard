@@ -1,7 +1,7 @@
-Last updated: 23-09-05 07:50:32 UTC  
+Last updated: 23-09-05 08:27:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 39,858,690
+1 | Bitdream200K | 39,885,320
 2 | Wonderful_Bad6531 | 36,151,664
 3 | nakamo-toe | 33,652,317
 4 | rickribera93 | 28,283,727
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | investigator100 | 1,646,646
 61 | GooderZBK | 1,617,267
 62 | KONGXIANG | 1,534,448
-63 | djrcollectables | 1,510,112
+63 | djrcollectables | 1,510,720
 64 | evilninjarobot | 1,504,772
 65 | CMDRGlamdring | 1,400,908
 66 | isthistomorrow_ | 1,381,135
@@ -72,7 +72,7 @@ Rank | Username | Totals Tips
 69 | ValiantJudge29500 | 1,332,984
 70 | saintajoras | 1,239,236
 71 | revdrgonzo | 1,235,635
-72 | LongCauliflower6791 | 1,222,440
+72 | LongCauliflower6791 | 1,232,440
 73 | jimfird | 1,203,842
 74 | HestiaIsTheBestia | 1,188,046
 75 | Richicash | 1,181,855
@@ -462,19 +462,19 @@ Rank | Username | Totals Tips
 459 | Originalibb | 32,157
 460 | mbashs | 31,747
 461 | Motor-breath8 | 31,279
-462 | OutTop | 31,069
-463 | Big-Researcher-3855 | 31,063
-464 | riceboi3789 | 31,000
-465 | ClubbyTheCub | 30,885
-466 | keyoh321 | 30,734
-467 | rOn3OW | 30,714
-468 | masedogg98 | 30,547
-469 | -Boxen | 30,420
-470 | LoudlySoupy | 30,408
-471 | MaestroMustache | 30,152
-472 | Potential_Fix_5007 | 29,897
-473 | Gilbertll | 29,585
-474 | kanem87 | 29,252
+462 | kanem87 | 31,239
+463 | OutTop | 31,069
+464 | Big-Researcher-3855 | 31,063
+465 | riceboi3789 | 31,000
+466 | ClubbyTheCub | 30,885
+467 | keyoh321 | 30,734
+468 | rOn3OW | 30,714
+469 | masedogg98 | 30,547
+470 | -Boxen | 30,420
+471 | LoudlySoupy | 30,408
+472 | MaestroMustache | 30,152
+473 | Potential_Fix_5007 | 29,897
+474 | Gilbertll | 29,585
 475 | Rbmui13 | 29,245
 476 | FoleyKali | 28,843
 477 | Locid | 28,518
