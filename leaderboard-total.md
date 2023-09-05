@@ -1,4 +1,4 @@
-Last updated: 23-09-05 14:43:41 UTC  
+Last updated: 23-09-05 14:51:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -158,8 +158,8 @@ Rank | Username | Totals Tips
 155 | zenhodl | 374,566
 156 | hellosamaira | 373,235
 157 | noface_reddit | 372,851
-158 | AustinTX1985 | 368,863
-159 | MisterM0H0 | 359,338
+158 | MisterM0H0 | 369,338
+159 | AustinTX1985 | 368,863
 160 | farmertypoerror | 359,212
 161 | Outrageous-Skill-464 | 344,174
 162 | Tinman_ApE | 342,447
@@ -524,7 +524,7 @@ Rank | Username | Totals Tips
 521 | DrD_D | 21,509
 522 | Flamingo777 | 21,497
 523 | Tasty_Bag | 21,384
-524 | Complete-Tadpole-728 | 21,152
+524 | Complete-Tadpole-728 | 21,221
 525 | RamboBalboa21 | 21,083
 526 | shootingeagleyt | 20,611
 527 | mihii12 | 20,469
