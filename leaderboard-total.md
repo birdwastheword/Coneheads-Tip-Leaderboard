@@ -1,4 +1,4 @@
-Last updated: 23-09-06 18:23:39 UTC  
+Last updated: 23-09-06 18:32:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -82,7 +82,7 @@ Rank | Username | Totals Tips
 79 | beastlybaker | 1,138,701
 80 | freechickens | 1,028,386
 81 | avatarbot | 1,027,000
-82 | UniversalNoobMaster | 1,013,712
+82 | UniversalNoobMaster | 1,014,402
 83 | WarmBiertje | 1,000,000
 84 | EvanIsBacon | 970,416
 85 | CHEROKEEJ4CK | 940,286
