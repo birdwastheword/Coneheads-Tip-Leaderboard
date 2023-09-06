@@ -1,4 +1,4 @@
-Last updated: 23-09-06 18:32:41 UTC  
+Last updated: 23-09-06 18:41:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
-19 | SpookySYN | 7,822,405
+19 | SpookySYN | 7,904,590
 20 | avyun | 7,804,620
 21 | Puddin-Luv | 7,018,833
 22 | Geniuskills | 6,877,544
