@@ -1,4 +1,4 @@
-Last updated: 23-09-06 22:40:32 UTC  
+Last updated: 23-09-06 22:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -944,19 +944,19 @@ Rank | Username | Totals Tips
 941 | TheNano100 | 696
 942 | daigsischt | 696
 943 | Indisciplinato | 677
-944 | Troll_humper | 665
-945 | Big_Count_6042 | 633
-946 | pelaguras | 627
-947 | Avatar_Degen | 627
-948 | QualcunoCF | 620
-949 | barbiescorvette | 608
-950 | iiCollinHD | 608
-951 | JaJaJaNVM | 608
-952 | eskimojerk | 606
-953 | Full-Art-Weeb | 595
-954 | glouglas | 558
-955 | Professer__ | 558
-956 | TheyAskWho | 555
+944 | TheyAskWho | 666
+945 | Troll_humper | 665
+946 | Big_Count_6042 | 633
+947 | pelaguras | 627
+948 | Avatar_Degen | 627
+949 | QualcunoCF | 620
+950 | barbiescorvette | 608
+951 | iiCollinHD | 608
+952 | JaJaJaNVM | 608
+953 | eskimojerk | 606
+954 | Full-Art-Weeb | 595
+955 | glouglas | 558
+956 | Professer__ | 558
 957 | Dare2gamer | 544
 958 | Swordfish-Select | 543
 959 | justthebelton | 540
