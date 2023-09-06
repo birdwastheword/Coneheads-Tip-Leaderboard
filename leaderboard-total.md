@@ -1,4 +1,4 @@
-Last updated: 23-09-06 22:18:55 UTC  
+Last updated: 23-09-06 22:30:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -163,9 +163,9 @@ Rank | Username | Totals Tips
 160 | farmertypoerror | 359,212
 161 | Outrageous-Skill-464 | 344,174
 162 | Tinman_ApE | 342,447
-163 | anony666mous | 341,008
-164 | tsudrat | 340,707
-165 | DAMG808 | 339,266
+163 | DAMG808 | 342,349
+164 | anony666mous | 341,008
+165 | tsudrat | 340,707
 166 | EffinDrongoC | 312,738
 167 | x52x | 304,860
 168 | liwipe | 304,467
