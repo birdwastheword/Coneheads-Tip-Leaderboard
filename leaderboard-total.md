@@ -1,9 +1,9 @@
-Last updated: 23-09-06 21:41:32 UTC  
+Last updated: 23-09-06 21:50:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
 2 | Wonderful_Bad6531 | 36,151,664
-3 | nakamo-toe | 34,518,043
+3 | nakamo-toe | 34,518,651
 4 | rickribera93 | 28,283,728
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
@@ -129,7 +129,7 @@ Rank | Username | Totals Tips
 126 | StepAsideSuckers | 540,695
 127 | scientifichistorian | 539,560
 128 | shreyaskg | 538,211
-129 | junkwatch | 530,502
+129 | junkwatch | 530,922
 130 | doktastonks | 521,325
 131 | Allions1 | 514,492
 132 | DogSpark84 | 514,108
@@ -652,11 +652,11 @@ Rank | Username | Totals Tips
 649 | 69BoJack69 | 9,003
 650 | allisonovo | 8,899
 651 | Duckeis | 8,873
-652 | BreadfruitIll4265 | 8,608
-653 | J-_Mad | 8,540
-654 | TNJCrypto | 8,468
-655 | ElegantShelter7947 | 8,461
-656 | Nugacity5 | 8,416
+652 | Nugacity5 | 8,836
+653 | BreadfruitIll4265 | 8,608
+654 | J-_Mad | 8,540
+655 | TNJCrypto | 8,468
+656 | ElegantShelter7947 | 8,461
 657 | LaPantheRose | 8,278
 658 | 1-760-706-7425 | 8,272
 659 | TheChillDyl | 8,266
