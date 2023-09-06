@@ -1,4 +1,4 @@
-Last updated: 23-09-06 16:53:19 UTC  
+Last updated: 23-09-06 17:04:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | crypto_grandma | 13,495,273
 9 | cutsickass | 13,315,985
 10 | HODL-THE-LINE | 12,469,181
-11 | _ships | 12,116,189
+11 | _ships | 12,121,515
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 10,750,558
 14 | SammyCraigar | 10,370,934
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | redzrex | 4,448,691
 33 | birdwastheword | 4,399,897
 34 | rustyybikes | 4,265,160
-35 | VIVOffical | 3,990,998
+35 | VIVOffical | 4,000,284
 36 | clean_cut89 | 3,592,172
 37 | thom_orrow | 3,588,881
 38 | LuminousViper | 3,478,754
@@ -936,15 +936,15 @@ Rank | Username | Totals Tips
 933 | Yegpetphoto | 825
 934 | brymezHD | 769
 935 | Ge_n0 | 729
-936 | SufficientNet9227 | 711
-937 | o_LUCIFER_o | 709
-938 | Unlucky_Narwhal3983 | 707
-939 | Mysterious-Heart-459 | 696
-940 | TheNano100 | 696
-941 | daigsischt | 696
-942 | Indisciplinato | 677
-943 | Troll_humper | 665
-944 | johnnyb0083 | 658
+936 | johnnyb0083 | 727
+937 | SufficientNet9227 | 711
+938 | o_LUCIFER_o | 709
+939 | Unlucky_Narwhal3983 | 707
+940 | Mysterious-Heart-459 | 696
+941 | TheNano100 | 696
+942 | daigsischt | 696
+943 | Indisciplinato | 677
+944 | Troll_humper | 665
 945 | Big_Count_6042 | 633
 946 | pelaguras | 627
 947 | Avatar_Degen | 627
