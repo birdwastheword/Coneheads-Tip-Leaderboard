@@ -1,9 +1,9 @@
-Last updated: 23-09-06 17:40:33 UTC  
+Last updated: 23-09-06 17:50:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
 2 | Wonderful_Bad6531 | 36,151,664
-3 | nakamo-toe | 34,515,371
+3 | nakamo-toe | 34,515,979
 4 | rickribera93 | 28,283,728
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
@@ -83,8 +83,8 @@ Rank | Username | Totals Tips
 80 | freechickens | 1,028,386
 81 | avatarbot | 1,027,000
 82 | WarmBiertje | 1,000,000
-83 | EvanIsBacon | 970,416
-84 | UniversalNoobMaster | 969,774
+83 | UniversalNoobMaster | 983,712
+84 | EvanIsBacon | 970,416
 85 | CHEROKEEJ4CK | 940,286
 86 | Forward_Today2849 | 932,405
 87 | ID404_Not_Found_8964 | 912,742
