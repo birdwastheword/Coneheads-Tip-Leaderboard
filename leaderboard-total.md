@@ -1,14 +1,14 @@
-Last updated: 23-09-06 20:19:20 UTC  
+Last updated: 23-09-06 20:30:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
 2 | Wonderful_Bad6531 | 36,151,664
-3 | nakamo-toe | 34,517,435
+3 | nakamo-toe | 34,518,043
 4 | rickribera93 | 28,283,728
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 14,375,985
+8 | cutsickass | 14,405,985
 9 | crypto_grandma | 13,495,273
 10 | _ships | 12,495,301
 11 | HODL-THE-LINE | 12,469,181
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | ultra_terrestrial | 1,344,737
 69 | YarOldeOrchard | 1,340,375
 70 | ValiantJudge29500 | 1,332,984
-71 | LongCauliflower6791 | 1,275,103
+71 | LongCauliflower6791 | 1,285,103
 72 | saintajoras | 1,239,236
 73 | revdrgonzo | 1,235,635
 74 | jimfird | 1,213,842
