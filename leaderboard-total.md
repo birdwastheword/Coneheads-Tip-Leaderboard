@@ -1,4 +1,4 @@
-Last updated: 23-09-06 21:50:31 UTC  
+Last updated: 23-09-06 22:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -186,9 +186,9 @@ Rank | Username | Totals Tips
 183 | SetoXlll | 266,136
 184 | shiesto | 266,111
 185 | cannainform2 | 257,773
-186 | fettskull | 257,308
-187 | Hactar_42 | 256,832
-188 | tmanfromEarth | 256,392
+186 | tmanfromEarth | 257,392
+187 | fettskull | 257,308
+188 | Hactar_42 | 256,832
 189 | thecrabdad | 256,177
 190 | SnooMacarons9203 | 254,882
 191 | Ambitious-Minimum-80 | 252,035
@@ -451,7 +451,7 @@ Rank | Username | Totals Tips
 448 | Atorcran | 33,547
 449 | PoDunkYuppie | 33,513
 450 | Gerboogler | 33,314
-451 | foreignGER | 33,278
+451 | foreignGER | 33,279
 452 | See0tter | 33,242
 453 | kanem87 | 33,226
 454 | xxapplej4ckx | 33,181
