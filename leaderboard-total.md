@@ -1,4 +1,4 @@
-Last updated: 23-09-06 23:01:02 UTC  
+Last updated: 23-09-06 23:17:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,571,993
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | IveDoneItAtLast | 4,855,012
+27 | IveDoneItAtLast | 4,855,620
 28 | thelonliestcrowd | 4,853,595
 29 | Ginomania | 4,615,262
 30 | rikbona | 4,540,773
@@ -148,7 +148,7 @@ Rank | Username | Totals Tips
 145 | RazPie | 429,317
 146 | Mopeiooo | 427,268
 147 | dronegeeks1 | 414,406
-148 | Lion-Hermit | 410,547
+148 | Lion-Hermit | 412,547
 149 | LrnFaroeseWthBergur | 409,488
 150 | PortCity_MadMan | 394,221
 151 | Creepy-Nectarine-225 | 389,511
