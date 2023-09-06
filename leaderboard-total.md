@@ -1,4 +1,4 @@
-Last updated: 23-09-06 16:24:21 UTC  
+Last updated: 23-09-06 16:36:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | _ships | 11,980,162
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 10,750,558
-14 | SammyCraigar | 10,336,479
+14 | SammyCraigar | 10,370,934
 15 | 8inchConer | 8,947,481
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | KONGXIANG | 1,534,448
 63 | djrcollectables | 1,513,383
 64 | evilninjarobot | 1,504,772
-65 | CMDRGlamdring | 1,403,571
+65 | CMDRGlamdring | 1,453,571
 66 | isthistomorrow_ | 1,381,135
 67 | Mundane-Farm-4117 | 1,359,176
 68 | ultra_terrestrial | 1,344,737
@@ -635,14 +635,14 @@ Rank | Username | Totals Tips
 632 | Cauzzai | 9,672
 633 | kekzilla59 | 9,655
 634 | Elegant_Tale_3929 | 9,600
-635 | xSeekTruthx | 9,459
-636 | Mavis80 | 9,414
-637 | mmmohm | 9,363
-638 | Big_Beyotch | 9,318
-639 | SaberTurret | 9,258
-640 | Donmari590 | 9,250
-641 | cptnkook | 9,241
-642 | Mrmakanakai | 9,178
+635 | Mrmakanakai | 9,598
+636 | xSeekTruthx | 9,459
+637 | Mavis80 | 9,414
+638 | mmmohm | 9,363
+639 | Big_Beyotch | 9,318
+640 | SaberTurret | 9,258
+641 | Donmari590 | 9,250
+642 | cptnkook | 9,241
 643 | Ddoublewhopper | 9,126
 644 | undefined-account | 9,126
 645 | Shraier | 9,103
