@@ -1,4 +1,4 @@
-Last updated: 23-09-06 19:00:54 UTC  
+Last updated: 23-09-06 19:14:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,448,691
 33 | birdwastheword | 4,399,897
-34 | rustyybikes | 4,265,160
+34 | rustyybikes | 4,265,768
 35 | VIVOffical | 4,000,284
 36 | clean_cut89 | 3,592,172
 37 | thom_orrow | 3,588,881
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | KONGXIANG | 1,534,448
 63 | djrcollectables | 1,516,046
 64 | evilninjarobot | 1,504,772
-65 | CMDRGlamdring | 1,467,234
+65 | CMDRGlamdring | 1,469,897
 66 | isthistomorrow_ | 1,381,135
 67 | Mundane-Farm-4117 | 1,359,176
 68 | ultra_terrestrial | 1,344,737
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | Cravensworth_redux | 790,803
 96 | Westy3000 | 782,487
 97 | ziggybri | 782,435
-98 | Lillica_Golden_SHIB | 760,158
+98 | Lillica_Golden_SHIB | 760,296
 99 | RegalReptile_ | 754,485
 100 | billywright4 | 729,374
 101 | starterpack420694 | 710,420
@@ -142,7 +142,7 @@ Rank | Username | Totals Tips
 139 | WarmlyWacky | 462,118
 140 | MediaPrestigious8342 | 453,839
 141 | Lady_Lucks_Man | 451,219
-142 | virmamies | 444,445
+142 | virmamies | 447,108
 143 | adrifing | 443,831
 144 | unhingedbigfoot | 439,874
 145 | RazPie | 429,317
