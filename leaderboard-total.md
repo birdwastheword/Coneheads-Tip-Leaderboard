@@ -1,4 +1,4 @@
-Last updated: 23-09-06 21:24:18 UTC  
+Last updated: 23-09-06 21:33:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -521,10 +521,10 @@ Rank | Username | Totals Tips
 518 | deezirae | 22,203
 519 | beejbum | 22,200
 520 | Matth3w_95 | 21,820
-521 | DrD_D | 21,509
-522 | Flamingo777 | 21,497
-523 | Tasty_Bag | 21,384
-524 | Complete-Tadpole-728 | 21,221
+521 | Complete-Tadpole-728 | 21,641
+522 | DrD_D | 21,509
+523 | Flamingo777 | 21,497
+524 | Tasty_Bag | 21,384
 525 | RamboBalboa21 | 21,083
 526 | mihii12 | 20,958
 527 | shootingeagleyt | 20,611
