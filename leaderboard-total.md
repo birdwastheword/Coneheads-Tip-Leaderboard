@@ -1,4 +1,4 @@
-Last updated: 23-09-06 23:17:27 UTC  
+Last updated: 23-09-06 23:30:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,399,897
 34 | rustyybikes | 4,265,768
 35 | VIVOffical | 4,000,284
-36 | clean_cut89 | 3,592,172
+36 | clean_cut89 | 3,594,835
 37 | thom_orrow | 3,588,881
 38 | LuminousViper | 3,478,754
 39 | ZukoBih | 3,405,778
