@@ -1,4 +1,4 @@
-Last updated: 23-09-06 22:30:50 UTC  
+Last updated: 23-09-06 22:40:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -229,7 +229,7 @@ Rank | Username | Totals Tips
 226 | nooobmaester69 | 183,460
 227 | skollywag92 | 183,279
 228 | ruccarucca | 180,270
-229 | Heclalava | 178,035
+229 | Heclalava | 178,455
 230 | YourThighsWarmMyEars | 172,697
 231 | Street_Addd | 171,939
 232 | MymannosaurusRex | 171,317
@@ -311,12 +311,12 @@ Rank | Username | Totals Tips
 308 | jurgensdapimp | 87,237
 309 | AhhhUhmmm | 86,289
 310 | Mother-Werewolf185 | 85,579
-311 | Puzzleheaded_Gift738 | 84,020
-312 | RollingSkull0 | 83,098
-313 | standArtpluto | 82,100
-314 | Chill_Edoeard | 81,015
-315 | mastermarvs | 80,384
-316 | BeefaloSlim | 80,182
+311 | BeefaloSlim | 84,382
+312 | Puzzleheaded_Gift738 | 84,020
+313 | RollingSkull0 | 83,098
+314 | standArtpluto | 82,100
+315 | Chill_Edoeard | 81,015
+316 | mastermarvs | 80,384
 317 | diamondbored | 79,886
 318 | Pwny_b0y | 79,447
 319 | GodOfWarGuy737 | 79,069
