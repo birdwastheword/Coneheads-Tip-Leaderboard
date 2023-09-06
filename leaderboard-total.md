@@ -1,4 +1,4 @@
-Last updated: 23-09-06 20:00:45 UTC  
+Last updated: 23-09-06 20:19:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 14,345,985
+8 | cutsickass | 14,375,985
 9 | crypto_grandma | 13,495,273
 10 | _ships | 12,495,301
 11 | HODL-THE-LINE | 12,469,181
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | DontLaughArt | 2,595,019
 48 | zdubs | 2,441,524
 49 | possibili-teas | 2,399,515
-50 | ImAlekBan | 2,366,377
+50 | ImAlekBan | 2,376,377
 51 | GuyOne | 2,318,049
 52 | Autom4tic_Soze | 2,176,448
 53 | 002_timmy | 2,033,164
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | KONGXIANG | 1,534,448
 63 | djrcollectables | 1,518,709
 64 | evilninjarobot | 1,504,772
-65 | CMDRGlamdring | 1,469,897
+65 | CMDRGlamdring | 1,499,190
 66 | isthistomorrow_ | 1,381,135
 67 | Mundane-Farm-4117 | 1,359,176
 68 | ultra_terrestrial | 1,344,737
@@ -448,8 +448,8 @@ Rank | Username | Totals Tips
 445 | cryotosensei | 34,240
 446 | BelowAveIntelligence | 34,132
 447 | Obvious-Ask-5747 | 33,806
-448 | PoDunkYuppie | 33,513
-449 | Atorcran | 33,478
+448 | Atorcran | 33,547
+449 | PoDunkYuppie | 33,513
 450 | Gerboogler | 33,314
 451 | foreignGER | 33,278
 452 | See0tter | 33,242
@@ -554,10 +554,10 @@ Rank | Username | Totals Tips
 551 | OutrageousStudy6752 | 17,087
 552 | Sebanimation | 17,004
 553 | leviathynx | 16,901
-554 | MantisToboggan66 | 16,437
-555 | ipsole | 16,425
-556 | deeeznotes | 16,235
-557 | ASingleGuitarString | 16,116
+554 | ASingleGuitarString | 16,893
+555 | MantisToboggan66 | 16,437
+556 | ipsole | 16,425
+557 | deeeznotes | 16,235
 558 | Conflict63 | 16,063
 559 | giooo_tdm | 15,964
 560 | Zwott | 15,441
@@ -860,12 +860,12 @@ Rank | Username | Totals Tips
 857 | PuzzleheadedDream830 | 1,650
 858 | Zues6921 | 1,627
 859 | MalicCarnage | 1,607
-860 | Traditional-Figure99 | 1,569
-861 | Interesting-Chip-500 | 1,559
-862 | Ask_Ari | 1,544
-863 | KantoRegionChampRed | 1,536
-864 | XenonXTR | 1,517
-865 | happily_unlawful | 1,507
+860 | happily_unlawful | 1,576
+861 | Traditional-Figure99 | 1,569
+862 | Interesting-Chip-500 | 1,559
+863 | Ask_Ari | 1,544
+864 | KantoRegionChampRed | 1,536
+865 | XenonXTR | 1,517
 866 | Pataphak377 | 1,490
 867 | adamdmn | 1,490
 868 | WhiteMoss_ | 1,488
