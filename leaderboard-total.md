@@ -1,14 +1,14 @@
-Last updated: 23-09-06 18:01:10 UTC  
+Last updated: 23-09-06 18:23:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
 2 | Wonderful_Bad6531 | 36,151,664
-3 | nakamo-toe | 34,515,979
+3 | nakamo-toe | 34,516,587
 4 | rickribera93 | 28,283,728
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 14,005,985
+8 | cutsickass | 14,215,985
 9 | crypto_grandma | 13,495,273
 10 | HODL-THE-LINE | 12,469,181
 11 | _ships | 12,399,221
@@ -21,14 +21,14 @@ Rank | Username | Totals Tips
 18 | Homeslicekilla | 7,995,797
 19 | SpookySYN | 7,822,405
 20 | avyun | 7,804,620
-21 | Puddin-Luv | 7,016,170
+21 | Puddin-Luv | 7,018,833
 22 | Geniuskills | 6,877,544
 23 | ashinamune | 6,663,040
 24 | Real_Player_0 | 6,571,993
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,853,595
-28 | IveDoneItAtLast | 4,849,004
+27 | IveDoneItAtLast | 4,855,012
+28 | thelonliestcrowd | 4,853,595
 29 | Ginomania | 4,615,262
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | LuminousViper | 3,478,754
 39 | ZukoBih | 3,405,778
 40 | Dry_Badger_2403 | 3,193,857
-41 | LordBobTheWhale | 3,115,443
+41 | LordBobTheWhale | 3,116,051
 42 | bray_martin03 | 2,999,425
 43 | Mean_Bandicoot_7481 | 2,752,108
 44 | Fenrir-1919 | 2,641,300
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | Autom4tic_Soze | 2,176,448
 53 | 002_timmy | 2,033,164
 54 | Affectionate_Hand_76 | 1,949,263
-55 | swampyswede | 1,934,235
+55 | swampyswede | 1,936,898
 56 | catlover-100 | 1,914,664
 57 | 0-Give-a-fucks | 1,914,169
 58 | dealkhabari | 1,763,283
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | investigator100 | 1,646,646
 61 | GooderZBK | 1,617,267
 62 | KONGXIANG | 1,534,448
-63 | djrcollectables | 1,513,383
+63 | djrcollectables | 1,516,046
 64 | evilninjarobot | 1,504,772
 65 | CMDRGlamdring | 1,453,571
 66 | isthistomorrow_ | 1,381,135
@@ -82,8 +82,8 @@ Rank | Username | Totals Tips
 79 | beastlybaker | 1,138,701
 80 | freechickens | 1,028,386
 81 | avatarbot | 1,027,000
-82 | WarmBiertje | 1,000,000
-83 | UniversalNoobMaster | 983,712
+82 | UniversalNoobMaster | 1,013,712
+83 | WarmBiertje | 1,000,000
 84 | EvanIsBacon | 970,416
 85 | CHEROKEEJ4CK | 940,286
 86 | Forward_Today2849 | 932,405
