@@ -1,4 +1,4 @@
-Last updated: 23-09-06 15:50:49 UTC  
+Last updated: 23-09-06 16:01:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | Cravensworth_redux | 790,803
 96 | Westy3000 | 782,487
 97 | ziggybri | 782,435
-98 | Lillica_Golden_SHIB | 759,882
+98 | Lillica_Golden_SHIB | 760,158
 99 | RegalReptile_ | 754,485
 100 | billywright4 | 729,374
 101 | starterpack420694 | 710,420
@@ -132,7 +132,7 @@ Rank | Username | Totals Tips
 129 | junkwatch | 525,107
 130 | doktastonks | 521,325
 131 | Allions1 | 514,492
-132 | DogSpark84 | 512,428
+132 | DogSpark84 | 512,848
 133 | f0n1xr131ng | 509,681
 134 | AcceptableLeg8751 | 500,000
 135 | Successful-Walk-3902 | 498,794
@@ -463,7 +463,7 @@ Rank | Username | Totals Tips
 460 | Originalibb | 32,157
 461 | mbashs | 31,747
 462 | Motor-breath8 | 31,279
-463 | Big-Researcher-3855 | 31,132
+463 | Big-Researcher-3855 | 31,201
 464 | OutTop | 31,069
 465 | riceboi3789 | 31,000
 466 | ClubbyTheCub | 30,885
