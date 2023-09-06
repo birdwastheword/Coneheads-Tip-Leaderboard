@@ -1,4 +1,4 @@
-Last updated: 23-09-06 15:40:50 UTC  
+Last updated: 23-09-06 15:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -284,7 +284,7 @@ Rank | Username | Totals Tips
 281 | AD_VICTORIAM_x | 106,876
 282 | i_wake_up_at_12 | 106,333
 283 | Chanyuui1 | 104,940
-284 | ItailianStallion101 | 102,984
+284 | ItailianStallion101 | 103,085
 285 | deathtr0 | 102,961
 286 | redditinchina | 102,781
 287 | beanwiggin420 | 101,095
