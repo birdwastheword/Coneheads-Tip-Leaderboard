@@ -1,4 +1,4 @@
-Last updated: 23-09-07 13:43:14 UTC  
+Last updated: 23-09-07 13:51:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -36,8 +36,8 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,412,560
 34 | rustyybikes | 4,265,768
 35 | VIVOffical | 4,000,284
-36 | clean_cut89 | 3,594,835
-37 | thom_orrow | 3,588,881
+36 | thom_orrow | 3,601,544
+37 | clean_cut89 | 3,594,835
 38 | LuminousViper | 3,478,754
 39 | ZukoBih | 3,405,778
 40 | Dry_Badger_2403 | 3,193,857
@@ -67,11 +67,11 @@ Rank | Username | Totals Tips
 64 | evilninjarobot | 1,504,772
 65 | CMDRGlamdring | 1,501,853
 66 | isthistomorrow_ | 1,381,135
-67 | Mundane-Farm-4117 | 1,359,176
-68 | ultra_terrestrial | 1,344,737
-69 | YarOldeOrchard | 1,340,375
-70 | ValiantJudge29500 | 1,332,984
-71 | LongCauliflower6791 | 1,300,429
+67 | LongCauliflower6791 | 1,367,095
+68 | Mundane-Farm-4117 | 1,359,176
+69 | ultra_terrestrial | 1,344,737
+70 | YarOldeOrchard | 1,340,375
+71 | ValiantJudge29500 | 1,332,984
 72 | saintajoras | 1,239,236
 73 | revdrgonzo | 1,235,635
 74 | jimfird | 1,213,842
@@ -445,19 +445,19 @@ Rank | Username | Totals Tips
 442 | Imalittlestitious86 | 37,090
 443 | degree-01 | 36,486
 444 | genesis_crazy_one | 36,237
-445 | FalloutAssasin | 35,070
-446 | TRANZHUMANIST | 35,069
-447 | cryotosensei | 34,240
-448 | BelowAveIntelligence | 34,132
-449 | Obvious-Ask-5747 | 33,806
-450 | Atorcran | 33,547
-451 | PoDunkYuppie | 33,513
-452 | Gerboogler | 33,314
-453 | foreignGER | 33,279
-454 | See0tter | 33,242
-455 | kanem87 | 33,226
-456 | xxapplej4ckx | 33,181
-457 | ASingleGuitarString | 32,939
+445 | ASingleGuitarString | 35,602
+446 | FalloutAssasin | 35,070
+447 | TRANZHUMANIST | 35,069
+448 | cryotosensei | 34,240
+449 | BelowAveIntelligence | 34,132
+450 | Obvious-Ask-5747 | 33,806
+451 | Atorcran | 33,547
+452 | PoDunkYuppie | 33,513
+453 | Gerboogler | 33,314
+454 | foreignGER | 33,279
+455 | See0tter | 33,242
+456 | kanem87 | 33,226
+457 | xxapplej4ckx | 33,181
 458 | redditavatar555 | 32,875
 459 | himthecool21 | 32,647
 460 | Truffle_Shuffle_85 | 32,475
