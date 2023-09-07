@@ -1,4 +1,4 @@
-Last updated: 23-09-07 21:32:56 UTC  
+Last updated: 23-09-07 21:41:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -387,14 +387,14 @@ Rank | Username | Totals Tips
 384 | ky0984 | 52,257
 385 | mofayew | 52,166
 386 | ConeHead710 | 52,012
-387 | SandersIncBV | 51,614
-388 | lucivaryas | 51,420
-389 | d0ntmess87 | 51,278
-390 | CryptoScamee42069 | 50,794
-391 | Yogi_Kat | 49,785
-392 | hey_barry | 49,698
-393 | eatthebagels | 49,692
-394 | d_Shazam_b | 49,328
+387 | d_Shazam_b | 51,991
+388 | SandersIncBV | 51,614
+389 | lucivaryas | 51,420
+390 | d0ntmess87 | 51,278
+391 | CryptoScamee42069 | 50,794
+392 | Yogi_Kat | 49,785
+393 | hey_barry | 49,698
+394 | eatthebagels | 49,692
 395 | Levl1Critter | 49,152
 396 | Dolce_00 | 48,683
 397 | Outside-Wolf5928 | 47,433
@@ -448,7 +448,7 @@ Rank | Username | Totals Tips
 445 | ASingleGuitarString | 35,602
 446 | FalloutAssasin | 35,070
 447 | TRANZHUMANIST | 35,069
-448 | Complete-Tadpole-728 | 34,310
+448 | Complete-Tadpole-728 | 34,730
 449 | cryotosensei | 34,240
 450 | BelowAveIntelligence | 34,132
 451 | Obvious-Ask-5747 | 33,806
