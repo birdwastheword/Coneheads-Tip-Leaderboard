@@ -1,4 +1,4 @@
-Last updated: 23-09-07 09:01:11 UTC  
+Last updated: 23-09-07 09:18:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,868,418
-28 | IveDoneItAtLast | 4,855,620
+28 | IveDoneItAtLast | 4,857,301
 29 | Ginomania | 4,617,925
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | ultra_terrestrial | 1,344,737
 69 | YarOldeOrchard | 1,340,375
 70 | ValiantJudge29500 | 1,332,984
-71 | LongCauliflower6791 | 1,297,766
+71 | LongCauliflower6791 | 1,300,429
 72 | saintajoras | 1,239,236
 73 | revdrgonzo | 1,235,635
 74 | jimfird | 1,213,842
@@ -528,10 +528,10 @@ Rank | Username | Totals Tips
 525 | DrD_D | 21,509
 526 | Flamingo777 | 21,497
 527 | Tasty_Bag | 21,384
-528 | RamboBalboa21 | 21,083
-529 | mihii12 | 20,958
-530 | shootingeagleyt | 20,611
-531 | SaberTurret | 20,518
+528 | SaberTurret | 21,126
+529 | RamboBalboa21 | 21,083
+530 | mihii12 | 20,958
+531 | shootingeagleyt | 20,611
 532 | Flat_Opportunity_340 | 20,420
 533 | DLPD-Camko | 20,377
 534 | ipad_daps | 20,375
