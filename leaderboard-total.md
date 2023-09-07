@@ -1,7 +1,7 @@
-Last updated: 23-09-07 04:40:35 UTC  
+Last updated: 23-09-07 04:50:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 39,911,950
+1 | Bitdream200K | 39,914,613
 2 | Wonderful_Bad6531 | 36,151,664
 3 | nakamo-toe | 34,561,389
 4 | rickribera93 | 28,283,728
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,581,993
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,856,258
+27 | thelonliestcrowd | 4,862,338
 28 | IveDoneItAtLast | 4,855,620
 29 | Ginomania | 4,615,262
 30 | rikbona | 4,540,773
@@ -147,8 +147,8 @@ Rank | Username | Totals Tips
 144 | unhingedbigfoot | 439,874
 145 | Mopeiooo | 437,268
 146 | RazPie | 429,317
-147 | dronegeeks1 | 414,406
-148 | Lion-Hermit | 412,547
+147 | Lion-Hermit | 415,210
+148 | dronegeeks1 | 414,406
 149 | LrnFaroeseWthBergur | 409,488
 150 | Dripbot8 | 405,384
 151 | PortCity_MadMan | 394,221
@@ -445,7 +445,7 @@ Rank | Username | Totals Tips
 442 | degree-01 | 36,486
 443 | genesis_crazy_one | 36,237
 444 | TRANZHUMANIST | 35,069
-445 | FalloutAssasin | 34,932
+445 | FalloutAssasin | 35,001
 446 | cryotosensei | 34,240
 447 | BelowAveIntelligence | 34,132
 448 | Obvious-Ask-5747 | 33,806
@@ -516,14 +516,14 @@ Rank | Username | Totals Tips
 513 | liberovento | 24,307
 514 | Qptimised | 23,642
 515 | africanasshat | 23,062
-516 | AntonioTT05 | 22,876
-517 | Bundess | 22,746
-518 | Ryaol | 22,663
-519 | aereyy | 22,364
-520 | Particular_Equal_490 | 22,256
-521 | deezirae | 22,203
-522 | beejbum | 22,200
-523 | Complete-Tadpole-728 | 22,061
+516 | Complete-Tadpole-728 | 22,901
+517 | AntonioTT05 | 22,876
+518 | Bundess | 22,746
+519 | Ryaol | 22,663
+520 | aereyy | 22,364
+521 | Particular_Equal_490 | 22,256
+522 | deezirae | 22,203
+523 | beejbum | 22,200
 524 | Matth3w_95 | 21,820
 525 | DrD_D | 21,509
 526 | Flamingo777 | 21,497
