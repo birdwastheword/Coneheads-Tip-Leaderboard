@@ -1,4 +1,4 @@
-Last updated: 23-09-07 14:01:01 UTC  
+Last updated: 23-09-07 14:24:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,248,622
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 14,613,648
+8 | cutsickass | 14,643,648
 9 | crypto_grandma | 13,497,936
 10 | _ships | 12,577,917
 11 | HODL-THE-LINE | 12,469,181
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,868,418
-28 | IveDoneItAtLast | 4,860,572
+28 | IveDoneItAtLast | 4,860,848
 29 | Ginomania | 4,617,925
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -491,14 +491,14 @@ Rank | Username | Totals Tips
 488 | 2620lukas | 27,837
 489 | ikiyen | 27,500
 490 | Sparrow | 27,214
-491 | deltamoney | 26,987
-492 | BottleNcanClapUrHand | 26,658
-493 | DOGETHEEGOD | 26,580
-494 | Trelucatre | 26,469
-495 | Practical-Store9603 | 26,000
-496 | puzzled__panther | 26,000
-497 | Primary_Technical | 26,000
-498 | Complete-Tadpole-728 | 25,841
+491 | Complete-Tadpole-728 | 27,101
+492 | deltamoney | 26,987
+493 | BottleNcanClapUrHand | 26,658
+494 | DOGETHEEGOD | 26,580
+495 | Trelucatre | 26,469
+496 | Practical-Store9603 | 26,000
+497 | puzzled__panther | 26,000
+498 | Primary_Technical | 26,000
 499 | iamannonymous27 | 25,840
 500 | Glitzxc | 25,779
 501 | AnxiousQuestioner | 25,684
