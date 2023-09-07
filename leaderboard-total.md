@@ -1,9 +1,9 @@
-Last updated: 23-09-07 07:16:38 UTC  
+Last updated: 23-09-07 07:24:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
 2 | Wonderful_Bad6531 | 36,151,664
-3 | nakamo-toe | 34,603,458
+3 | nakamo-toe | 34,606,121
 4 | rickribera93 | 28,283,728
 5 | waterhasnocalories | 28,248,622
 6 | Jeff5704 | 28,116,281
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Puddin-Luv | 7,021,496
 22 | Geniuskills | 6,877,544
 23 | ashinamune | 6,671,637
-24 | Real_Player_0 | 6,581,993
+24 | Real_Player_0 | 6,582,601
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,868,418
