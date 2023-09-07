@@ -1,4 +1,4 @@
-Last updated: 23-09-07 06:23:44 UTC  
+Last updated: 23-09-07 06:33:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,615,262
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,451,354
+32 | redzrex | 4,454,017
 33 | birdwastheword | 4,412,560
 34 | rustyybikes | 4,265,768
 35 | VIVOffical | 4,000,284
@@ -352,7 +352,7 @@ Rank | Username | Totals Tips
 349 | zuzieey7719 | 64,618
 350 | guokaidi | 63,245
 351 | slug_tamer | 63,175
-352 | Emeritux | 62,813
+352 | Emeritux | 62,882
 353 | netnemirepxE | 62,645
 354 | meth43 | 62,596
 355 | KrunchyKushKing | 61,532
