@@ -1,4 +1,4 @@
-Last updated: 23-09-07 21:16:03 UTC  
+Last updated: 23-09-07 21:24:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | __PDS__ | 595,709
 120 | El_Gordone | 592,784
 121 | superlonelyboy | 591,419
-122 | Burzzzt88 | 589,969
+122 | Burzzzt88 | 590,389
 123 | Independent_Heart_15 | 578,825
 124 | formidable-opponent | 574,402
 125 | Korean_Street_Pizza | 557,277
