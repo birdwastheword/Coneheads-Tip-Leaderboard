@@ -1,4 +1,4 @@
-Last updated: 23-09-07 07:24:54 UTC  
+Last updated: 23-09-07 07:33:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | billywright4 | 794,661
 95 | ashketchup422 | 794,067
 96 | Cravensworth_redux | 790,803
-97 | Westy3000 | 782,487
+97 | Westy3000 | 783,598
 98 | ziggybri | 782,435
 99 | Lillica_Golden_SHIB | 760,365
 100 | RegalReptile_ | 754,485
