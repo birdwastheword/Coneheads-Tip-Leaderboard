@@ -1,4 +1,4 @@
-Last updated: 23-09-07 22:00:58 UTC  
+Last updated: 23-09-07 22:18:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,9 +8,9 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,255,591
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 14,813,648
+8 | cutsickass | 14,843,648
 9 | crypto_grandma | 13,497,936
-10 | _ships | 12,852,313
+10 | _ships | 13,158,978
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,075,558
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,873,744
 28 | IveDoneItAtLast | 4,864,386
-29 | Ginomania | 4,717,926
+29 | Ginomania | 4,767,926
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,454,017
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | _Royal_Insylum | 2,603,787
 47 | DontLaughArt | 2,597,682
 48 | ImAlekBan | 2,484,366
-49 | zdubs | 2,483,461
+49 | zdubs | 2,484,309
 50 | possibili-teas | 2,399,515
 51 | GuyOne | 2,371,309
 52 | Autom4tic_Soze | 2,176,448
@@ -328,7 +328,7 @@ Rank | Username | Totals Tips
 325 | youtooleyesing | 77,229
 326 | Admirito | 77,027
 327 | Derefringence | 76,675
-328 | XeroGrave | 76,579
+328 | XeroGrave | 76,648
 329 | MedicineMaterial3501 | 74,654
 330 | pwan7505 | 73,893
 331 | Diamond_PnutBrain | 73,619
@@ -445,14 +445,14 @@ Rank | Username | Totals Tips
 442 | Imalittlestitious86 | 37,090
 443 | degree-01 | 36,486
 444 | genesis_crazy_one | 36,237
-445 | ASingleGuitarString | 35,602
-446 | FalloutAssasin | 35,070
-447 | TRANZHUMANIST | 35,069
-448 | Complete-Tadpole-728 | 34,730
-449 | cryotosensei | 34,240
-450 | BelowAveIntelligence | 34,132
-451 | Obvious-Ask-5747 | 33,806
-452 | Atorcran | 33,547
+445 | Atorcran | 36,216
+446 | ASingleGuitarString | 35,602
+447 | FalloutAssasin | 35,070
+448 | TRANZHUMANIST | 35,069
+449 | Complete-Tadpole-728 | 34,730
+450 | cryotosensei | 34,240
+451 | BelowAveIntelligence | 34,132
+452 | Obvious-Ask-5747 | 33,806
 453 | PoDunkYuppie | 33,513
 454 | Gerboogler | 33,314
 455 | foreignGER | 33,279
@@ -881,8 +881,8 @@ Rank | Username | Totals Tips
 878 | Lazy_Staff4893 | 1,337
 879 | VGarK | 1,337
 880 | _swnt_ | 1,337
-881 | onemansquest | 1,303
-882 | pizza-chit | 1,254
+881 | pizza-chit | 1,323
+882 | onemansquest | 1,303
 883 | CWB2208 | 1,251
 884 | Tekbepimpin | 1,239
 885 | Mooraell | 1,239
