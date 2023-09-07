@@ -1,4 +1,4 @@
-Last updated: 23-09-07 13:35:03 UTC  
+Last updated: 23-09-07 13:43:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -132,7 +132,7 @@ Rank | Username | Totals Tips
 129 | junkwatch | 534,074
 130 | doktastonks | 521,325
 131 | DogSpark84 | 519,434
-132 | Allions1 | 514,492
+132 | Allions1 | 514,561
 133 | f0n1xr131ng | 509,681
 134 | crodbtc | 502,963
 135 | AcceptableLeg8751 | 500,000
