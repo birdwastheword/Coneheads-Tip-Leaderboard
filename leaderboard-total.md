@@ -1,4 +1,4 @@
-Last updated: 23-09-07 21:50:36 UTC  
+Last updated: 23-09-07 22:00:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,255,591
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 14,733,648
+8 | cutsickass | 14,813,648
 9 | crypto_grandma | 13,497,936
 10 | _ships | 12,852,313
 11 | HODL-THE-LINE | 12,469,181
@@ -40,7 +40,7 @@ Rank | Username | Totals Tips
 37 | clean_cut89 | 3,594,835
 38 | LuminousViper | 3,478,754
 39 | ZukoBih | 3,405,778
-40 | send420nudes | 3,266,959
+40 | send420nudes | 3,271,228
 41 | Dry_Badger_2403 | 3,193,857
 42 | LordBobTheWhale | 3,116,051
 43 | bray_martin03 | 2,999,425
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | KONGXIANG | 1,578,180
 63 | CMDRGlamdring | 1,549,462
 64 | djrcollectables | 1,533,848
-65 | evilninjarobot | 1,504,772
+65 | evilninjarobot | 1,507,435
 66 | isthistomorrow_ | 1,381,135
 67 | LongCauliflower6791 | 1,367,095
 68 | Mundane-Farm-4117 | 1,359,176
