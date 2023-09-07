@@ -1,4 +1,4 @@
-Last updated: 23-09-07 06:01:07 UTC  
+Last updated: 23-09-07 06:23:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 14,575,985
 9 | crypto_grandma | 13,497,936
-10 | _ships | 12,566,510
+10 | _ships | 12,577,917
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 10,975,558
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,451,354
-33 | birdwastheword | 4,409,897
+33 | birdwastheword | 4,412,560
 34 | rustyybikes | 4,265,768
 35 | VIVOffical | 4,000,284
 36 | clean_cut89 | 3,594,835
@@ -134,10 +134,10 @@ Rank | Username | Totals Tips
 131 | DogSpark84 | 519,434
 132 | Allions1 | 514,492
 133 | f0n1xr131ng | 509,681
-134 | AcceptableLeg8751 | 500,000
-135 | Successful-Walk-3902 | 498,794
-136 | Crypto-4-Freedom | 497,827
-137 | crodbtc | 497,637
+134 | crodbtc | 502,963
+135 | AcceptableLeg8751 | 500,000
+136 | Successful-Walk-3902 | 498,794
+137 | Crypto-4-Freedom | 497,827
 138 | sinlesco | 462,490
 139 | WarmlyWacky | 462,118
 140 | MediaPrestigious8342 | 453,839
@@ -438,17 +438,17 @@ Rank | Username | Totals Tips
 435 | sM0k3dR4Gn | 38,045
 436 | ysnmingle | 38,038
 437 | samer109 | 37,973
-438 | onetrueSage | 37,633
-439 | shitwhenismycakeday | 37,409
-440 | redditisalt | 37,307
-441 | Imalittlestitious86 | 37,090
-442 | degree-01 | 36,486
-443 | genesis_crazy_one | 36,237
-444 | TRANZHUMANIST | 35,069
-445 | FalloutAssasin | 35,001
-446 | cryotosensei | 34,240
-447 | BelowAveIntelligence | 34,132
-448 | Significant-Bet5762 | 33,953
+438 | Significant-Bet5762 | 37,832
+439 | onetrueSage | 37,633
+440 | shitwhenismycakeday | 37,409
+441 | redditisalt | 37,307
+442 | Imalittlestitious86 | 37,090
+443 | degree-01 | 36,486
+444 | genesis_crazy_one | 36,237
+445 | FalloutAssasin | 35,070
+446 | TRANZHUMANIST | 35,069
+447 | cryotosensei | 34,240
+448 | BelowAveIntelligence | 34,132
 449 | Obvious-Ask-5747 | 33,806
 450 | Atorcran | 33,547
 451 | PoDunkYuppie | 33,513
