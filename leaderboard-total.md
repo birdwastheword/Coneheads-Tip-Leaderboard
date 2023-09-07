@@ -1,4 +1,4 @@
-Last updated: 23-09-07 02:04:26 UTC  
+Last updated: 23-09-07 02:24:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -19,9 +19,9 @@ Rank | Username | Totals Tips
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
 18 | Homeslicekilla | 7,995,797
-19 | SpookySYN | 7,931,220
+19 | SpookySYN | 7,957,850
 20 | avyun | 7,804,620
-21 | Puddin-Luv | 7,018,833
+21 | Puddin-Luv | 7,021,496
 22 | Geniuskills | 6,877,544
 23 | ashinamune | 6,665,703
 24 | Real_Player_0 | 6,581,993
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | Fenrir-1919 | 2,641,300
 46 | _Royal_Insylum | 2,603,787
 47 | DontLaughArt | 2,595,019
-48 | zdubs | 2,447,458
+48 | zdubs | 2,477,458
 49 | possibili-teas | 2,399,515
 50 | ImAlekBan | 2,376,377
 51 | GuyOne | 2,318,049
@@ -473,21 +473,21 @@ Rank | Username | Totals Tips
 470 | masedogg98 | 30,547
 471 | -Boxen | 30,420
 472 | LoudlySoupy | 30,408
-473 | MaestroMustache | 30,152
-474 | Potential_Fix_5007 | 29,897
-475 | Gilbertll | 29,585
-476 | Rbmui13 | 29,245
-477 | FoleyKali | 28,843
-478 | Locid | 28,518
-479 | bentolman | 28,291
-480 | Fictional_Blook | 28,143
-481 | slasula | 28,131
-482 | Fomo- | 28,020
-483 | hvefe | 28,005
-484 | madisonfm | 27,934
-485 | Jo2Bax | 27,889
-486 | 2620lukas | 27,837
-487 | ASingleGuitarString | 27,613
+473 | ASingleGuitarString | 30,276
+474 | MaestroMustache | 30,152
+475 | Potential_Fix_5007 | 29,897
+476 | Gilbertll | 29,585
+477 | Rbmui13 | 29,245
+478 | FoleyKali | 28,843
+479 | Locid | 28,518
+480 | bentolman | 28,291
+481 | Fictional_Blook | 28,143
+482 | slasula | 28,131
+483 | Fomo- | 28,020
+484 | hvefe | 28,005
+485 | madisonfm | 27,934
+486 | Jo2Bax | 27,889
+487 | 2620lukas | 27,837
 488 | ikiyen | 27,500
 489 | Sparrow | 27,214
 490 | deltamoney | 26,987
