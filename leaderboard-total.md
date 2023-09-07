@@ -1,4 +1,4 @@
-Last updated: 23-09-07 13:51:31 UTC  
+Last updated: 23-09-07 14:01:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -458,9 +458,9 @@ Rank | Username | Totals Tips
 455 | See0tter | 33,242
 456 | kanem87 | 33,226
 457 | xxapplej4ckx | 33,181
-458 | redditavatar555 | 32,875
-459 | himthecool21 | 32,647
-460 | Truffle_Shuffle_85 | 32,475
+458 | Truffle_Shuffle_85 | 32,895
+459 | redditavatar555 | 32,875
+460 | himthecool21 | 32,647
 461 | Steadfast_Apparition | 32,437
 462 | n00b1shm4n | 32,159
 463 | Originalibb | 32,157
