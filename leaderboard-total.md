@@ -1,4 +1,4 @@
-Last updated: 23-09-07 07:50:46 UTC  
+Last updated: 23-09-07 08:00:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -129,7 +129,7 @@ Rank | Username | Totals Tips
 126 | StepAsideSuckers | 540,695
 127 | scientifichistorian | 539,560
 128 | shreyaskg | 538,211
-129 | junkwatch | 533,585
+129 | junkwatch | 533,654
 130 | doktastonks | 521,325
 131 | DogSpark84 | 519,434
 132 | Allions1 | 514,492
