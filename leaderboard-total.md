@@ -1,4 +1,4 @@
-Last updated: 23-09-07 20:40:30 UTC  
+Last updated: 23-09-07 20:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,994,503
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,873,744
 28 | IveDoneItAtLast | 4,864,386
-29 | Ginomania | 4,617,926
+29 | Ginomania | 4,667,926
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,454,017
@@ -62,8 +62,8 @@ Rank | Username | Totals Tips
 59 | Ten-Mins-Late | 1,706,533
 60 | investigator100 | 1,646,646
 61 | GooderZBK | 1,617,267
-62 | CMDRGlamdring | 1,549,462
-63 | KONGXIANG | 1,534,448
+62 | KONGXIANG | 1,573,009
+63 | CMDRGlamdring | 1,549,462
 64 | djrcollectables | 1,530,577
 65 | evilninjarobot | 1,504,772
 66 | isthistomorrow_ | 1,381,135
