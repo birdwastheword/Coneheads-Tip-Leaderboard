@@ -1,4 +1,4 @@
-Last updated: 23-09-07 05:40:31 UTC  
+Last updated: 23-09-07 05:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 14,575,985
 9 | crypto_grandma | 13,497,936
-10 | _ships | 12,566,505
+10 | _ships | 12,566,510
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 10,975,558
@@ -104,9 +104,9 @@ Rank | Username | Totals Tips
 101 | starterpack420694 | 710,420
 102 | WarmIyWacky | 703,049
 103 | Starterpack69420 | 696,969
-104 | abracadabra087 | 694,465
-105 | frickdom | 691,937
-106 | Alanski22 | 690,306
+104 | Alanski22 | 696,240
+105 | abracadabra087 | 694,465
+106 | frickdom | 691,937
 107 | firstmatedotxyz | 688,743
 108 | Duskopia | 680,133
 109 | Obi1eyeKenobi | 679,585
