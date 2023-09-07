@@ -1,14 +1,14 @@
-Last updated: 23-09-07 21:00:45 UTC  
+Last updated: 23-09-07 21:16:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 39,994,503
+1 | Bitdream200K | 39,997,166
 2 | Wonderful_Bad6531 | 36,151,664
 3 | nakamo-toe | 34,621,621
 4 | rickribera93 | 28,283,728
 5 | waterhasnocalories | 28,255,591
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 14,703,648
+8 | cutsickass | 14,733,648
 9 | crypto_grandma | 13,497,936
 10 | _ships | 12,768,313
 11 | HODL-THE-LINE | 12,469,181
@@ -29,18 +29,18 @@ Rank | Username | Totals Tips
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,873,744
 28 | IveDoneItAtLast | 4,864,386
-29 | Ginomania | 4,667,926
+29 | Ginomania | 4,717,926
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,454,017
 33 | birdwastheword | 4,412,560
 34 | rustyybikes | 4,265,768
 35 | VIVOffical | 4,011,427
-36 | thom_orrow | 3,601,544
+36 | thom_orrow | 3,680,544
 37 | clean_cut89 | 3,594,835
 38 | LuminousViper | 3,478,754
 39 | ZukoBih | 3,405,778
-40 | send420nudes | 3,224,890
+40 | send420nudes | 3,266,959
 41 | Dry_Badger_2403 | 3,193,857
 42 | LordBobTheWhale | 3,116,051
 43 | bray_martin03 | 2,999,425
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | Ten-Mins-Late | 1,706,533
 60 | investigator100 | 1,646,646
 61 | GooderZBK | 1,617,267
-62 | KONGXIANG | 1,577,881
+62 | KONGXIANG | 1,578,180
 63 | CMDRGlamdring | 1,549,462
 64 | djrcollectables | 1,530,577
 65 | evilninjarobot | 1,504,772
@@ -99,7 +99,7 @@ Rank | Username | Totals Tips
 96 | Cravensworth_redux | 790,803
 97 | Westy3000 | 783,598
 98 | ziggybri | 782,435
-99 | Lillica_Golden_SHIB | 761,406
+99 | Lillica_Golden_SHIB | 761,682
 100 | RegalReptile_ | 754,485
 101 | starterpack420694 | 710,420
 102 | WarmIyWacky | 703,049
@@ -114,7 +114,7 @@ Rank | Username | Totals Tips
 111 | SKITZ_ZA | 673,394
 112 | piebagz | 661,815
 113 | MartynDr | 652,260
-114 | MorrisBrett514 | 650,850
+114 | MorrisBrett514 | 651,270
 115 | femacampcouncilor | 642,812
 116 | nichnotnick | 635,444
 117 | slirpo | 631,180
@@ -185,7 +185,7 @@ Rank | Username | Totals Tips
 182 | _Mitchee_ | 269,156
 183 | SetoXlll | 266,136
 184 | shiesto | 266,111
-185 | fettskull | 259,971
+185 | fettskull | 265,297
 186 | cannainform2 | 257,773
 187 | tmanfromEarth | 257,392
 188 | Hactar_42 | 256,832
