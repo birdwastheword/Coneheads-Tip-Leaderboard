@@ -1,4 +1,4 @@
-Last updated: 23-09-07 20:30:36 UTC  
+Last updated: 23-09-07 20:40:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,994,503
@@ -545,8 +545,8 @@ Rank | Username | Totals Tips
 542 | Iiwip | 19,533
 543 | MalarkyD | 19,527
 544 | lookwhatumademedoo | 19,510
-545 | ___MOM___ | 18,853
-546 | CatastrophicSpecter | 18,492
+545 | CatastrophicSpecter | 18,912
+546 | ___MOM___ | 18,853
 547 | subredditlurker69 | 18,263
 548 | Collectibl3 | 18,024
 549 | augustsIippedaway | 17,739
