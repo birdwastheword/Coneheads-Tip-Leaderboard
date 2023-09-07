@@ -1,4 +1,4 @@
-Last updated: 23-09-07 12:08:39 UTC  
+Last updated: 23-09-07 12:42:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -8,13 +8,13 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,248,622
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 14,608,648
+8 | cutsickass | 14,613,648
 9 | crypto_grandma | 13,497,936
 10 | _ships | 12,577,917
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 10,975,558
-14 | SammyCraigar | 10,381,586
+14 | SammyCraigar | 10,384,249
 15 | 8inchConer | 8,947,481
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | investigator100 | 1,646,646
 61 | GooderZBK | 1,617,267
 62 | KONGXIANG | 1,534,448
-63 | djrcollectables | 1,527,914
+63 | djrcollectables | 1,530,577
 64 | evilninjarobot | 1,504,772
 65 | CMDRGlamdring | 1,501,853
 66 | isthistomorrow_ | 1,381,135
