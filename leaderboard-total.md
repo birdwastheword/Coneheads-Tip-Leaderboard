@@ -1,4 +1,4 @@
-Last updated: 23-09-07 11:50:49 UTC  
+Last updated: 23-09-07 12:08:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,868,418
-28 | IveDoneItAtLast | 4,857,909
+28 | IveDoneItAtLast | 4,860,572
 29 | Ginomania | 4,617,925
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,116,051
 42 | bray_martin03 | 2,999,425
-43 | send420nudes | 2,770,045
+43 | send420nudes | 2,812,414
 44 | Mean_Bandicoot_7481 | 2,752,108
 45 | Fenrir-1919 | 2,641,300
 46 | _Royal_Insylum | 2,603,787
