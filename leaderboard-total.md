@@ -1,4 +1,4 @@
-Last updated: 23-09-07 23:18:04 UTC  
+Last updated: 23-09-07 23:30:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | SpookySYN | 8,093,663
 19 | Homeslicekilla | 7,995,797
 20 | avyun | 7,992,498
-21 | Puddin-Luv | 7,026,822
+21 | Puddin-Luv | 7,029,485
 22 | Geniuskills | 6,877,544
 23 | ashinamune | 6,677,571
 24 | Real_Player_0 | 6,582,601
@@ -147,7 +147,7 @@ Rank | Username | Totals Tips
 144 | unhingedbigfoot | 439,874
 145 | Mopeiooo | 437,268
 146 | RazPie | 429,317
-147 | Lion-Hermit | 415,210
+147 | Lion-Hermit | 416,210
 148 | dronegeeks1 | 414,406
 149 | LrnFaroeseWthBergur | 409,488
 150 | Dripbot8 | 405,384
@@ -337,7 +337,7 @@ Rank | Username | Totals Tips
 334 | adi_00_ | 71,759
 335 | sparanaghcoar | 71,118
 336 | drche35 | 70,397
-337 | Creative_Ad7831 | 69,909
+337 | Creative_Ad7831 | 69,978
 338 | Rush4Time | 69,659
 339 | Yoda975 | 69,055
 340 | Tapiz3land | 68,942
