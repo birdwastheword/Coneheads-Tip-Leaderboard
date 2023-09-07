@@ -1,4 +1,4 @@
-Last updated: 23-09-07 11:00:51 UTC  
+Last updated: 23-09-07 11:15:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -99,7 +99,7 @@ Rank | Username | Totals Tips
 96 | Cravensworth_redux | 790,803
 97 | Westy3000 | 783,598
 98 | ziggybri | 782,435
-99 | Lillica_Golden_SHIB | 760,365
+99 | Lillica_Golden_SHIB | 760,641
 100 | RegalReptile_ | 754,485
 101 | starterpack420694 | 710,420
 102 | WarmIyWacky | 703,049
