@@ -1,20 +1,20 @@
-Last updated: 23-09-07 23:30:57 UTC  
+Last updated: 23-09-07 23:40:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
 2 | Wonderful_Bad6531 | 36,151,664
-3 | nakamo-toe | 34,683,626
+3 | nakamo-toe | 34,683,664
 4 | waterhasnocalories | 30,755,591
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | _ships | 15,702,991
+8 | _ships | 15,723,141
 9 | cutsickass | 14,876,311
 10 | crypto_grandma | 13,497,936
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,075,558
-14 | SammyCraigar | 10,424,194
+14 | SammyCraigar | 10,426,857
 15 | 8inchConer | 8,947,481
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -201,11 +201,11 @@ Rank | Username | Totals Tips
 198 | tjex666 | 240,801
 199 | joeviani | 240,028
 200 | Zalkwalker | 235,069
-201 | MuhSound | 233,900
-202 | the_judge_168 | 225,881
-203 | Conetent | 221,843
-204 | SourBeefHoop | 217,512
-205 | alexthemay | 214,131
+201 | alexthemay | 234,131
+202 | MuhSound | 233,900
+203 | the_judge_168 | 225,881
+204 | Conetent | 221,843
+205 | SourBeefHoop | 217,512
 206 | Ashamed_Raccoon9918 | 214,124
 207 | yahuurdme | 213,714
 208 | Significant_Talk4943 | 213,279
