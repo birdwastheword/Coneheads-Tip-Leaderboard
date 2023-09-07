@@ -1,4 +1,4 @@
-Last updated: 23-09-07 02:32:58 UTC  
+Last updated: 23-09-07 02:41:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 14,405,985
-9 | crypto_grandma | 13,495,273
+9 | crypto_grandma | 13,497,936
 10 | _ships | 12,536,353
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -145,8 +145,8 @@ Rank | Username | Totals Tips
 142 | virmamies | 447,108
 143 | adrifing | 443,831
 144 | unhingedbigfoot | 439,874
-145 | RazPie | 429,317
-146 | Mopeiooo | 427,268
+145 | Mopeiooo | 437,268
+146 | RazPie | 429,317
 147 | dronegeeks1 | 414,406
 148 | Lion-Hermit | 412,547
 149 | LrnFaroeseWthBergur | 409,488
