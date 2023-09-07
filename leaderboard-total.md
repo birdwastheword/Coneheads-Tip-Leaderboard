@@ -1,4 +1,4 @@
-Last updated: 23-09-07 02:41:07 UTC  
+Last updated: 23-09-07 02:50:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,911,950
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 10,975,558
-14 | SammyCraigar | 10,378,923
+14 | SammyCraigar | 10,381,586
 15 | 8inchConer | 8,947,481
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | Fenrir-1919 | 2,641,300
 46 | _Royal_Insylum | 2,603,787
 47 | DontLaughArt | 2,595,019
-48 | zdubs | 2,477,458
+48 | zdubs | 2,480,121
 49 | possibili-teas | 2,399,515
 50 | ImAlekBan | 2,376,377
 51 | GuyOne | 2,318,049
