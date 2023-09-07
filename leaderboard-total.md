@@ -1,4 +1,4 @@
-Last updated: 23-09-07 22:40:43 UTC  
+Last updated: 23-09-07 22:50:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,582,601
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,873,744
+27 | thelonliestcrowd | 4,876,407
 28 | IveDoneItAtLast | 4,864,386
 29 | Ginomania | 4,767,926
 30 | rikbona | 4,540,773
@@ -134,7 +134,7 @@ Rank | Username | Totals Tips
 131 | doktastonks | 521,325
 132 | Allions1 | 514,561
 133 | f0n1xr131ng | 509,681
-134 | crodbtc | 502,963
+134 | crodbtc | 505,626
 135 | AcceptableLeg8751 | 500,000
 136 | Crypto-4-Freedom | 498,805
 137 | Successful-Walk-3902 | 498,794
@@ -299,7 +299,7 @@ Rank | Username | Totals Tips
 296 | wolfman333 | 93,986
 297 | IHodlStill | 93,358
 298 | H3adshotfox77 | 92,575
-299 | CrossPuffs | 92,061
+299 | CrossPuffs | 92,481
 300 | urlz | 91,281
 301 | Backwood20 | 90,298
 302 | DramaticProtogen | 90,274
@@ -447,18 +447,18 @@ Rank | Username | Totals Tips
 444 | genesis_crazy_one | 36,237
 445 | Atorcran | 36,216
 446 | ASingleGuitarString | 35,602
-447 | FalloutAssasin | 35,070
-448 | TRANZHUMANIST | 35,069
-449 | Complete-Tadpole-728 | 34,730
-450 | cryotosensei | 34,240
-451 | BelowAveIntelligence | 34,132
-452 | Obvious-Ask-5747 | 33,806
-453 | SaberTurret | 33,790
-454 | PoDunkYuppie | 33,513
-455 | Gerboogler | 33,314
-456 | foreignGER | 33,279
-457 | See0tter | 33,242
-458 | kanem87 | 33,226
+447 | kanem87 | 35,213
+448 | Complete-Tadpole-728 | 35,150
+449 | FalloutAssasin | 35,070
+450 | TRANZHUMANIST | 35,069
+451 | cryotosensei | 34,240
+452 | BelowAveIntelligence | 34,132
+453 | Obvious-Ask-5747 | 33,806
+454 | SaberTurret | 33,790
+455 | PoDunkYuppie | 33,513
+456 | Gerboogler | 33,314
+457 | foreignGER | 33,279
+458 | See0tter | 33,242
 459 | xxapplej4ckx | 33,181
 460 | Truffle_Shuffle_85 | 32,895
 461 | redditavatar555 | 32,875
