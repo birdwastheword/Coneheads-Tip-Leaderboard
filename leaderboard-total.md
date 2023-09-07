@@ -1,4 +1,4 @@
-Last updated: 23-09-07 12:58:25 UTC  
+Last updated: 23-09-07 13:26:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | Dry_Badger_2403 | 3,193,857
 41 | LordBobTheWhale | 3,116,051
 42 | bray_martin03 | 2,999,425
-43 | send420nudes | 2,812,414
+43 | send420nudes | 2,813,152
 44 | Mean_Bandicoot_7481 | 2,752,108
 45 | Fenrir-1919 | 2,641,300
 46 | _Royal_Insylum | 2,603,787
@@ -99,7 +99,7 @@ Rank | Username | Totals Tips
 96 | Cravensworth_redux | 790,803
 97 | Westy3000 | 783,598
 98 | ziggybri | 782,435
-99 | Lillica_Golden_SHIB | 760,641
+99 | Lillica_Golden_SHIB | 760,848
 100 | RegalReptile_ | 754,485
 101 | starterpack420694 | 710,420
 102 | WarmIyWacky | 703,049
@@ -137,7 +137,7 @@ Rank | Username | Totals Tips
 134 | crodbtc | 502,963
 135 | AcceptableLeg8751 | 500,000
 136 | Successful-Walk-3902 | 498,794
-137 | Crypto-4-Freedom | 497,827
+137 | Crypto-4-Freedom | 498,247
 138 | sinlesco | 462,490
 139 | WarmlyWacky | 462,118
 140 | MediaPrestigious8342 | 453,839
@@ -185,9 +185,9 @@ Rank | Username | Totals Tips
 182 | _Mitchee_ | 269,156
 183 | SetoXlll | 266,136
 184 | shiesto | 266,111
-185 | cannainform2 | 257,773
-186 | tmanfromEarth | 257,392
-187 | fettskull | 257,308
+185 | fettskull | 259,971
+186 | cannainform2 | 257,773
+187 | tmanfromEarth | 257,392
 188 | Hactar_42 | 256,832
 189 | thecrabdad | 256,177
 190 | SnooMacarons9203 | 254,882
