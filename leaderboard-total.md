@@ -1,4 +1,4 @@
-Last updated: 23-09-07 06:41:18 UTC  
+Last updated: 23-09-07 06:50:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | DontLaughArt | 2,597,682
 48 | zdubs | 2,483,461
 49 | possibili-teas | 2,399,515
-50 | ImAlekBan | 2,376,377
+50 | ImAlekBan | 2,379,040
 51 | GuyOne | 2,318,049
 52 | Autom4tic_Soze | 2,176,448
 53 | 002_timmy | 2,033,164
