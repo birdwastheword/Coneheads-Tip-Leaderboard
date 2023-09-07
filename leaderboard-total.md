@@ -1,4 +1,4 @@
-Last updated: 23-09-07 05:18:39 UTC  
+Last updated: 23-09-07 05:30:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 28,248,202
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 14,545,985
+8 | cutsickass | 14,575,985
 9 | crypto_grandma | 13,497,936
 10 | _ships | 12,566,505
 11 | HODL-THE-LINE | 12,469,181
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | send420nudes | 2,666,027
 45 | Fenrir-1919 | 2,641,300
 46 | _Royal_Insylum | 2,603,787
-47 | DontLaughArt | 2,595,019
+47 | DontLaughArt | 2,597,682
 48 | zdubs | 2,483,461
 49 | possibili-teas | 2,399,515
 50 | ImAlekBan | 2,376,377
@@ -513,8 +513,8 @@ Rank | Username | Totals Tips
 510 | Mysterious-Bar-4721 | 25,000
 511 | CowDapper7867 | 25,000
 512 | 4ucklehead | 24,684
-513 | liberovento | 24,307
-514 | Complete-Tadpole-728 | 24,161
+513 | Complete-Tadpole-728 | 24,581
+514 | liberovento | 24,307
 515 | Qptimised | 23,642
 516 | africanasshat | 23,062
 517 | AntonioTT05 | 22,876
@@ -1124,9 +1124,9 @@ Rank | Username | Totals Tips
 1121 | XoooX24 | 20
 1122 | TamSchnow | 15
 1123 | breathe345 | 13
-1124 | KEDW | 10
-1125 | jellodoses69 | 10
-1126 | Waste_Actuary_3290 | 8
+1124 | Waste_Actuary_3290 | 12
+1125 | KEDW | 10
+1126 | jellodoses69 | 10
 1127 | mercredimedia | 6
 1128 | 18-35 | 5
 1129 | PixelllPunk | 3
