@@ -1,4 +1,4 @@
-Last updated: 23-09-07 21:24:27 UTC  
+Last updated: 23-09-07 21:32:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,075,558
-14 | SammyCraigar | 10,418,868
+14 | SammyCraigar | 10,421,531
 15 | 8inchConer | 8,947,481
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | GooderZBK | 1,617,267
 62 | KONGXIANG | 1,578,180
 63 | CMDRGlamdring | 1,549,462
-64 | djrcollectables | 1,530,577
+64 | djrcollectables | 1,533,240
 65 | evilninjarobot | 1,504,772
 66 | isthistomorrow_ | 1,381,135
 67 | LongCauliflower6791 | 1,367,095
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | __PDS__ | 595,709
 120 | El_Gordone | 592,784
 121 | superlonelyboy | 591,419
-122 | Burzzzt88 | 590,389
+122 | Burzzzt88 | 590,809
 123 | Independent_Heart_15 | 578,825
 124 | formidable-opponent | 574,402
 125 | Korean_Street_Pizza | 557,277
@@ -448,12 +448,12 @@ Rank | Username | Totals Tips
 445 | ASingleGuitarString | 35,602
 446 | FalloutAssasin | 35,070
 447 | TRANZHUMANIST | 35,069
-448 | cryotosensei | 34,240
-449 | BelowAveIntelligence | 34,132
-450 | Obvious-Ask-5747 | 33,806
-451 | Atorcran | 33,547
-452 | PoDunkYuppie | 33,513
-453 | Complete-Tadpole-728 | 33,470
+448 | Complete-Tadpole-728 | 34,310
+449 | cryotosensei | 34,240
+450 | BelowAveIntelligence | 34,132
+451 | Obvious-Ask-5747 | 33,806
+452 | Atorcran | 33,547
+453 | PoDunkYuppie | 33,513
 454 | Gerboogler | 33,314
 455 | foreignGER | 33,279
 456 | See0tter | 33,242
