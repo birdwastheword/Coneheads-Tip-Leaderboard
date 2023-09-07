@@ -1,4 +1,4 @@
-Last updated: 23-09-07 23:40:26 UTC  
+Last updated: 23-09-07 23:51:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,13 +8,13 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | _ships | 15,723,141
+8 | _ships | 15,824,080
 9 | cutsickass | 14,876,311
 10 | crypto_grandma | 13,497,936
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,075,558
-14 | SammyCraigar | 10,426,857
+14 | SammyCraigar | 10,453,487
 15 | 8inchConer | 8,947,481
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,770,589
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,454,017
+32 | redzrex | 4,456,680
 33 | birdwastheword | 4,412,560
 34 | rustyybikes | 4,265,768
 35 | VIVOffical | 4,011,427
@@ -422,15 +422,15 @@ Rank | Username | Totals Tips
 419 | Expensive_Being_4038 | 40,627
 420 | Yirii | 40,605
 421 | Significant-Bet5762 | 40,495
-422 | Lucabba | 40,118
-423 | matdabom | 40,068
-424 | YourLocalDuskFox | 40,000
-425 | babuba1234321 | 40,000
-426 | alex_si_davies | 39,965
-427 | Zap1324 | 39,938
-428 | GuronT | 39,830
-429 | AMAxyz | 39,775
-430 | Complete-Tadpole-728 | 39,770
+422 | Complete-Tadpole-728 | 40,190
+423 | Lucabba | 40,118
+424 | matdabom | 40,068
+425 | YourLocalDuskFox | 40,000
+426 | babuba1234321 | 40,000
+427 | alex_si_davies | 39,965
+428 | Zap1324 | 39,938
+429 | GuronT | 39,830
+430 | AMAxyz | 39,775
 431 | Mortifer6 | 39,738
 432 | waterincorporated | 39,428
 433 | mutinomonem | 38,823
