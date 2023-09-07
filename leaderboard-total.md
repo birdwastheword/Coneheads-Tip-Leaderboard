@@ -1,11 +1,11 @@
-Last updated: 23-09-07 06:50:46 UTC  
+Last updated: 23-09-07 07:01:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
 2 | Wonderful_Bad6531 | 36,151,664
 3 | nakamo-toe | 34,603,458
 4 | rickribera93 | 28,283,728
-5 | waterhasnocalories | 28,248,202
+5 | waterhasnocalories | 28,248,622
 6 | Jeff5704 | 28,116,281
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 14,575,985
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,868,418
 28 | IveDoneItAtLast | 4,855,620
-29 | Ginomania | 4,615,262
+29 | Ginomania | 4,617,925
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,454,017
@@ -161,9 +161,9 @@ Rank | Username | Totals Tips
 158 | noface_reddit | 372,851
 159 | AustinTX1985 | 368,863
 160 | farmertypoerror | 359,212
-161 | Outrageous-Skill-464 | 344,174
-162 | Tinman_ApE | 342,447
-163 | DAMG808 | 342,349
+161 | DAMG808 | 352,349
+162 | Outrageous-Skill-464 | 344,174
+163 | Tinman_ApE | 342,447
 164 | anony666mous | 341,008
 165 | tsudrat | 340,707
 166 | EffinDrongoC | 312,738
