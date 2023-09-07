@@ -1,4 +1,4 @@
-Last updated: 23-09-07 06:33:09 UTC  
+Last updated: 23-09-07 06:41:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,914,613
@@ -869,11 +869,11 @@ Rank | Username | Totals Tips
 866 | Pataphak377 | 1,490
 867 | adamdmn | 1,490
 868 | WhiteMoss_ | 1,488
-869 | SinTron99 | 1,448
-870 | Prodigyyyyyy | 1,432
-871 | mkultrahigh | 1,415
-872 | Silence-Samurai8357 | 1,385
-873 | Elgato_TJ | 1,380
+869 | Elgato_TJ | 1,449
+870 | SinTron99 | 1,448
+871 | Prodigyyyyyy | 1,432
+872 | mkultrahigh | 1,415
+873 | Silence-Samurai8357 | 1,385
 874 | Lazy_Staff4893 | 1,337
 875 | VGarK | 1,337
 876 | _swnt_ | 1,337
