@@ -1,4 +1,4 @@
-Last updated: 23-09-08 07:24:57 UTC  
+Last updated: 23-09-08 07:33:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | _ships | 16,020,969
+8 | _ships | 16,021,389
 9 | cutsickass | 15,056,311
 10 | crypto_grandma | 13,500,599
 11 | HODL-THE-LINE | 12,469,181
@@ -129,7 +129,7 @@ Rank | Username | Totals Tips
 126 | StepAsideSuckers | 540,695
 127 | scientifichistorian | 539,560
 128 | shreyaskg | 538,211
-129 | junkwatch | 534,074
+129 | junkwatch | 534,494
 130 | DogSpark84 | 532,097
 131 | doktastonks | 521,325
 132 | Allions1 | 514,630
@@ -372,13 +372,13 @@ Rank | Username | Totals Tips
 369 | Outrageous_Storm6537 | 56,938
 370 | Virtual-Wrangler5955 | 56,680
 371 | Bobocod | 56,680
-372 | ProfessionalIcy6456 | 56,380
-373 | Bandit_005 | 56,303
-374 | chuloreddit | 55,878
-375 | imbarrydylan | 55,689
-376 | orangesandonions | 55,238
-377 | Brandillio | 54,271
-378 | LX1070 | 53,924
+372 | LX1070 | 56,587
+373 | ProfessionalIcy6456 | 56,380
+374 | Bandit_005 | 56,303
+375 | chuloreddit | 55,878
+376 | imbarrydylan | 55,689
+377 | orangesandonions | 55,238
+378 | Brandillio | 54,271
 379 | WarningKey6517 | 53,910
 380 | Astrochrono | 53,398
 381 | Jefe0457 | 53,368
