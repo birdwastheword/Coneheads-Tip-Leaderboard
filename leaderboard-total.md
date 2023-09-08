@@ -1,4 +1,4 @@
-Last updated: 23-09-08 14:30:40 UTC  
+Last updated: 23-09-08 14:40:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -182,8 +182,8 @@ Rank | Username | Totals Tips
 179 | astro_nut_ | 280,463
 180 | maxfra | 280,067
 181 | Flimsy_Brilliant_239 | 272,455
-182 | _Mitchee_ | 269,156
-183 | fettskull | 267,960
+182 | fettskull | 270,623
+183 | _Mitchee_ | 269,156
 184 | SetoXlll | 266,136
 185 | shiesto | 266,111
 186 | cannainform2 | 258,774
