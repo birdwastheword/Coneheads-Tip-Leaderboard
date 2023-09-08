@@ -1,4 +1,4 @@
-Last updated: 23-09-08 08:31:12 UTC  
+Last updated: 23-09-08 08:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | _ships | 16,106,632
+8 | _ships | 16,140,573
 9 | cutsickass | 15,086,311
 10 | crypto_grandma | 13,500,599
 11 | HODL-THE-LINE | 12,469,181
@@ -225,7 +225,7 @@ Rank | Username | Totals Tips
 222 | RiightYouKnow | 193,329
 223 | bakerdawg555 | 192,028
 224 | Iulian_TechNewb | 190,179
-225 | Most_Being_4002 | 186,254
+225 | Most_Being_4002 | 186,674
 226 | TubeNerd92 | 184,746
 227 | nooobmaester69 | 183,460
 228 | skollywag92 | 183,279
