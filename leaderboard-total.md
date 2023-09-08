@@ -1,4 +1,4 @@
-Last updated: 23-09-08 23:30:43 UTC  
+Last updated: 23-09-08 23:40:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
-18 | SpookySYN | 8,200,183
+18 | SpookySYN | 8,300,183
 19 | Homeslicekilla | 7,995,797
 20 | avyun | 7,992,498
 21 | Puddin-Luv | 7,045,883
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | ziggybri | 782,435
 99 | Lillica_Golden_SHIB | 764,184
 100 | RegalReptile_ | 757,148
-101 | Alanski22 | 726,498
+101 | Alanski22 | 732,432
 102 | virmamies | 718,771
 103 | starterpack420694 | 710,420
 104 | WarmIyWacky | 703,049
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | crodbtc | 516,278
 134 | Allions1 | 514,630
 135 | f0n1xr131ng | 509,681
-136 | Crypto-4-Freedom | 502,027
+136 | Crypto-4-Freedom | 502,867
 137 | AcceptableLeg8751 | 500,000
 138 | Successful-Walk-3902 | 498,794
 139 | Lady_Lucks_Man | 467,235
