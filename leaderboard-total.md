@@ -1,4 +1,4 @@
-Last updated: 23-09-08 17:50:33 UTC  
+Last updated: 23-09-08 18:01:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | VIVOffical | 4,011,427
 36 | send420nudes | 3,725,086
 37 | thom_orrow | 3,683,207
-38 | clean_cut89 | 3,594,835
+38 | clean_cut89 | 3,597,498
 39 | LuminousViper | 3,478,754
 40 | ZukoBih | 3,411,104
 41 | Dry_Badger_2403 | 3,193,857
