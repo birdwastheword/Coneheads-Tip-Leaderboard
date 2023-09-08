@@ -1,4 +1,4 @@
-Last updated: 23-09-08 05:40:33 UTC  
+Last updated: 23-09-08 05:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -59,10 +59,10 @@ Rank | Username | Totals Tips
 56 | catlover-100 | 1,924,664
 57 | 0-Give-a-fucks | 1,914,169
 58 | dealkhabari | 1,763,283
-59 | Ten-Mins-Late | 1,706,533
+59 | Ten-Mins-Late | 1,706,953
 60 | investigator100 | 1,646,646
 61 | GooderZBK | 1,617,267
-62 | CMDRGlamdring | 1,581,418
+62 | CMDRGlamdring | 1,584,081
 63 | KONGXIANG | 1,578,180
 64 | djrcollectables | 1,560,478
 65 | evilninjarobot | 1,510,098
