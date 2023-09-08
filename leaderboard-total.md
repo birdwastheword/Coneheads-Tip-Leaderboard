@@ -1,4 +1,4 @@
-Last updated: 23-09-08 07:16:45 UTC  
+Last updated: 23-09-08 07:24:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | Mean_Bandicoot_7481 | 2,752,108
 45 | Fenrir-1919 | 2,643,963
 46 | _Royal_Insylum | 2,603,787
-47 | DontLaughArt | 2,597,682
+47 | DontLaughArt | 2,600,345
 48 | ImAlekBan | 2,504,223
 49 | zdubs | 2,485,959
 50 | possibili-teas | 2,399,515
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | Ten-Mins-Late | 1,707,373
 60 | investigator100 | 1,646,646
 61 | GooderZBK | 1,617,267
-62 | CMDRGlamdring | 1,589,295
+62 | CMDRGlamdring | 1,591,958
 63 | KONGXIANG | 1,581,513
 64 | djrcollectables | 1,560,478
 65 | evilninjarobot | 1,510,098
