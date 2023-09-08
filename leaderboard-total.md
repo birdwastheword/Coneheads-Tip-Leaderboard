@@ -1,4 +1,4 @@
-Last updated: 23-09-08 11:15:30 UTC  
+Last updated: 23-09-08 11:23:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -78,7 +78,7 @@ Rank | Username | Totals Tips
 75 | HestiaIsTheBestia | 1,188,046
 76 | Richicash | 1,181,855
 77 | Feetfailmenot | 1,160,705
-78 | Hot_Potato_Salad | 1,147,026
+78 | Hot_Potato_Salad | 1,147,226
 79 | beastlybaker | 1,138,701
 80 | freechickens | 1,028,386
 81 | avatarbot | 1,027,000
@@ -99,7 +99,7 @@ Rank | Username | Totals Tips
 96 | Cravensworth_redux | 790,803
 97 | Westy3000 | 783,598
 98 | ziggybri | 782,435
-99 | Lillica_Golden_SHIB | 762,591
+99 | Lillica_Golden_SHIB | 762,867
 100 | RegalReptile_ | 754,485
 101 | starterpack420694 | 710,420
 102 | Alanski22 | 709,680
