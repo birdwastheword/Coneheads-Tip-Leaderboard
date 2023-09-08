@@ -1,4 +1,4 @@
-Last updated: 23-09-08 15:25:08 UTC  
+Last updated: 23-09-08 15:34:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,189,142
-9 | cutsickass | 15,176,311
+9 | cutsickass | 15,281,473
 10 | crypto_grandma | 13,504,799
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | isthistomorrow_ | 1,381,135
 69 | LongCauliflower6791 | 1,367,095
 70 | Mundane-Farm-4117 | 1,359,176
-71 | ValiantJudge29500 | 1,335,200
+71 | ValiantJudge29500 | 1,345,200
 72 | saintajoras | 1,239,236
 73 | revdrgonzo | 1,235,635
 74 | jimfird | 1,214,350
@@ -225,8 +225,8 @@ Rank | Username | Totals Tips
 222 | RiightYouKnow | 193,329
 223 | bakerdawg555 | 192,028
 224 | Iulian_TechNewb | 190,179
-225 | LX1070 | 186,787
-226 | Most_Being_4002 | 186,674
+225 | Most_Being_4002 | 189,337
+226 | LX1070 | 186,787
 227 | TubeNerd92 | 184,746
 228 | nooobmaester69 | 183,460
 229 | skollywag92 | 183,279
