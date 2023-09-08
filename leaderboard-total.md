@@ -1,4 +1,4 @@
-Last updated: 23-09-08 19:50:58 UTC  
+Last updated: 23-09-08 20:01:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -116,8 +116,8 @@ Rank | Username | Totals Tips
 113 | piebagz | 661,815
 114 | MartynDr | 652,260
 115 | MorrisBrett514 | 651,270
-116 | femacampcouncilor | 642,812
-117 | dopelifer09 | 638,404
+116 | dopelifer09 | 648,404
+117 | femacampcouncilor | 642,812
 118 | nichnotnick | 635,444
 119 | slirpo | 631,180
 120 | superlonelyboy | 611,419
@@ -182,9 +182,9 @@ Rank | Username | Totals Tips
 179 | astro_nut_ | 280,463
 180 | maxfra | 280,067
 181 | Flimsy_Brilliant_239 | 272,455
-182 | fettskull | 270,623
-183 | _Mitchee_ | 269,156
-184 | Final-Scar-941 | 268,607
+182 | Final-Scar-941 | 271,039
+183 | fettskull | 270,623
+184 | _Mitchee_ | 269,156
 185 | SetoXlll | 266,136
 186 | shiesto | 266,111
 187 | cannainform2 | 258,774
