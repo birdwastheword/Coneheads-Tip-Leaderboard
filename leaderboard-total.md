@@ -1,4 +1,4 @@
-Last updated: 23-09-08 23:40:35 UTC  
+Last updated: 23-09-08 23:50:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | Homeslicekilla | 7,995,797
 20 | avyun | 7,992,498
 21 | Puddin-Luv | 7,045,883
-22 | Geniuskills | 6,877,544
+22 | Geniuskills | 6,880,207
 23 | ashinamune | 6,678,179
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,412,560
 34 | rustyybikes | 4,266,376
 35 | send420nudes | 4,145,455
-36 | VIVOffical | 4,014,090
+36 | VIVOffical | 4,022,570
 37 | clean_cut89 | 3,710,813
 38 | thom_orrow | 3,683,207
 39 | LuminousViper | 3,478,754
@@ -121,7 +121,7 @@ Rank | Username | Totals Tips
 118 | nichnotnick | 635,444
 119 | slirpo | 631,180
 120 | superlonelyboy | 611,419
-121 | formidable-opponent | 600,064
+121 | formidable-opponent | 600,841
 122 | __PDS__ | 595,709
 123 | El_Gordone | 592,784
 124 | Burzzzt88 | 590,809
