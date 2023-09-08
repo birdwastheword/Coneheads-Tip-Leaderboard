@@ -1,4 +1,4 @@
-Last updated: 23-09-08 21:32:54 UTC  
+Last updated: 23-09-08 21:41:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -139,11 +139,11 @@ Rank | Username | Totals Tips
 136 | Crypto-4-Freedom | 502,027
 137 | AcceptableLeg8751 | 500,000
 138 | Successful-Walk-3902 | 498,794
-139 | sinlesco | 462,490
-140 | WarmlyWacky | 462,118
-141 | WhateverAlready | 455,301
-142 | MediaPrestigious8342 | 453,839
-143 | Lady_Lucks_Man | 451,219
+139 | Lady_Lucks_Man | 467,235
+140 | sinlesco | 462,490
+141 | WarmlyWacky | 462,118
+142 | WhateverAlready | 455,301
+143 | MediaPrestigious8342 | 453,839
 144 | adrifing | 443,831
 145 | unhingedbigfoot | 439,874
 146 | Mopeiooo | 437,268
@@ -519,15 +519,15 @@ Rank | Username | Totals Tips
 516 | 4ucklehead | 24,684
 517 | Qptimised | 24,642
 518 | liberovento | 24,307
-519 | africanasshat | 23,062
-520 | AntonioTT05 | 22,876
-521 | Bundess | 22,746
-522 | Ryaol | 22,663
-523 | Particular_Equal_490 | 22,256
-524 | deezirae | 22,203
-525 | beejbum | 22,200
-526 | Matth3w_95 | 21,820
-527 | CatastrophicSpecter | 21,575
+519 | CatastrophicSpecter | 24,238
+520 | africanasshat | 23,062
+521 | AntonioTT05 | 22,876
+522 | Bundess | 22,746
+523 | Ryaol | 22,663
+524 | Particular_Equal_490 | 22,256
+525 | deezirae | 22,203
+526 | beejbum | 22,200
+527 | Matth3w_95 | 21,820
 528 | DrD_D | 21,509
 529 | Flamingo777 | 21,497
 530 | Tasty_Bag | 21,384
