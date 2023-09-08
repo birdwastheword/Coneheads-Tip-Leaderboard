@@ -1,8 +1,8 @@
-Last updated: 23-09-08 20:30:39 UTC  
+Last updated: 23-09-08 20:40:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
-2 | Wonderful_Bad6531 | 36,180,990
+2 | Wonderful_Bad6531 | 36,207,653
 3 | nakamo-toe | 34,683,664
 4 | waterhasnocalories | 30,825,011
 5 | rickribera93 | 28,283,728
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,895,048
+27 | thelonliestcrowd | 4,898,131
 28 | IveDoneItAtLast | 4,865,800
 29 | Ginomania | 4,781,379
 30 | rikbona | 4,540,773
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | RegalReptile_ | 754,485
 101 | virmamies | 718,771
 102 | starterpack420694 | 710,420
-103 | Alanski22 | 709,680
+103 | Alanski22 | 710,100
 104 | WarmIyWacky | 703,049
 105 | frickdom | 697,263
 106 | Starterpack69420 | 696,969
@@ -187,13 +187,13 @@ Rank | Username | Totals Tips
 184 | _Mitchee_ | 269,156
 185 | SetoXlll | 266,136
 186 | shiesto | 266,111
-187 | cannainform2 | 258,774
+187 | cannainform2 | 259,775
 188 | tmanfromEarth | 257,392
 189 | Hactar_42 | 256,832
 190 | thecrabdad | 256,177
 191 | SnooMacarons9203 | 254,882
-192 | Ambitious-Minimum-80 | 252,035
-193 | coolpattakers | 251,688
+192 | coolpattakers | 254,351
+193 | Ambitious-Minimum-80 | 252,035
 194 | Sattack4000 | 250,837
 195 | Gregoryonetulum | 249,309
 196 | BeardedBro_ | 248,627
