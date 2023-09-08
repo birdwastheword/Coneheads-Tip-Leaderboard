@@ -1,4 +1,4 @@
-Last updated: 23-09-08 09:50:37 UTC  
+Last updated: 23-09-08 10:00:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,075,558
-14 | SammyCraigar | 10,456,150
+14 | SammyCraigar | 10,458,813
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,881,733
-28 | IveDoneItAtLast | 4,864,386
+28 | IveDoneItAtLast | 4,864,994
 29 | Ginomania | 4,770,589
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | thom_orrow | 3,683,207
 37 | clean_cut89 | 3,594,835
 38 | LuminousViper | 3,478,754
-39 | ZukoBih | 3,408,441
+39 | ZukoBih | 3,411,104
 40 | send420nudes | 3,271,228
 41 | Dry_Badger_2403 | 3,193,857
 42 | LordBobTheWhale | 3,116,051
@@ -449,10 +449,10 @@ Rank | Username | Totals Tips
 446 | degree-01 | 36,486
 447 | genesis_crazy_one | 36,237
 448 | Atorcran | 36,216
-449 | ASingleGuitarString | 35,602
-450 | FalloutAssasin | 35,139
-451 | TRANZHUMANIST | 35,069
-452 | cryotosensei | 34,240
+449 | cryotosensei | 35,620
+450 | ASingleGuitarString | 35,602
+451 | FalloutAssasin | 35,139
+452 | TRANZHUMANIST | 35,069
 453 | BelowAveIntelligence | 34,132
 454 | Obvious-Ask-5747 | 33,806
 455 | SaberTurret | 33,790
