@@ -1,4 +1,4 @@
-Last updated: 23-09-08 02:25:06 UTC  
+Last updated: 23-09-08 02:33:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | LongCauliflower6791 | 1,367,095
 69 | Mundane-Farm-4117 | 1,359,176
 70 | YarOldeOrchard | 1,340,375
-71 | ValiantJudge29500 | 1,332,984
+71 | ValiantJudge29500 | 1,333,984
 72 | saintajoras | 1,239,236
 73 | revdrgonzo | 1,235,635
 74 | jimfird | 1,214,350
