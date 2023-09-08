@@ -1,4 +1,4 @@
-Last updated: 23-09-08 03:00:49 UTC  
+Last updated: 23-09-08 03:18:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | SpookySYN | 8,146,923
 19 | Homeslicekilla | 7,995,797
 20 | avyun | 7,992,498
-21 | Puddin-Luv | 7,029,485
+21 | Puddin-Luv | 7,032,568
 22 | Geniuskills | 6,877,544
 23 | ashinamune | 6,677,571
 24 | Real_Player_0 | 6,582,601
