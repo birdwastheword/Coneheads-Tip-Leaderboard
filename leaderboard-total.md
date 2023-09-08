@@ -1,4 +1,4 @@
-Last updated: 23-09-08 12:08:27 UTC  
+Last updated: 23-09-08 12:41:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,189,142
-9 | cutsickass | 15,086,311
+9 | cutsickass | 15,146,311
 10 | crypto_grandma | 13,504,799
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -99,7 +99,7 @@ Rank | Username | Totals Tips
 96 | Cravensworth_redux | 790,803
 97 | Westy3000 | 783,598
 98 | ziggybri | 782,435
-99 | Lillica_Golden_SHIB | 762,867
+99 | Lillica_Golden_SHIB | 763,005
 100 | RegalReptile_ | 754,485
 101 | starterpack420694 | 710,420
 102 | Alanski22 | 709,680
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | Burzzzt88 | 590,809
 123 | Independent_Heart_15 | 578,825
 124 | formidable-opponent | 574,402
-125 | Korean_Street_Pizza | 557,277
+125 | Korean_Street_Pizza | 557,346
 126 | StepAsideSuckers | 540,695
 127 | scientifichistorian | 539,560
 128 | shreyaskg | 538,211
@@ -192,9 +192,9 @@ Rank | Username | Totals Tips
 189 | thecrabdad | 256,177
 190 | SnooMacarons9203 | 254,882
 191 | Ambitious-Minimum-80 | 252,035
-192 | Sattack4000 | 250,837
-193 | Gregoryonetulum | 249,309
-194 | coolpattakers | 249,025
+192 | coolpattakers | 251,688
+193 | Sattack4000 | 250,837
+194 | Gregoryonetulum | 249,309
 195 | BeardedBro_ | 248,627
 196 | thestonkinator | 246,260
 197 | Adrewmc | 241,177
