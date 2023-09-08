@@ -1,4 +1,4 @@
-Last updated: 23-09-08 05:00:53 UTC  
+Last updated: 23-09-08 05:18:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,9 +8,9 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | _ships | 15,982,598
-9 | cutsickass | 14,876,311
-10 | crypto_grandma | 13,497,936
+8 | _ships | 15,983,018
+9 | cutsickass | 15,026,311
+10 | crypto_grandma | 13,500,599
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,075,558
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Puddin-Luv | 7,032,568
 22 | Geniuskills | 6,877,544
 23 | ashinamune | 6,677,571
-24 | Real_Player_0 | 6,583,209
+24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,879,070
@@ -62,9 +62,9 @@ Rank | Username | Totals Tips
 59 | Ten-Mins-Late | 1,706,533
 60 | investigator100 | 1,646,646
 61 | GooderZBK | 1,617,267
-62 | KONGXIANG | 1,578,180
-63 | djrcollectables | 1,560,478
-64 | CMDRGlamdring | 1,549,462
+62 | CMDRGlamdring | 1,578,755
+63 | KONGXIANG | 1,578,180
+64 | djrcollectables | 1,560,478
 65 | evilninjarobot | 1,510,098
 66 | ultra_terrestrial | 1,386,806
 67 | isthistomorrow_ | 1,381,135
