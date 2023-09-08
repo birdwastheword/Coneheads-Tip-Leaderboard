@@ -1,4 +1,4 @@
-Last updated: 23-09-08 22:30:58 UTC  
+Last updated: 23-09-08 22:40:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,295,673
-9 | cutsickass | 15,671,561
+9 | cutsickass | 15,701,561
 10 | crypto_grandma | 13,519,651
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -27,9 +27,9 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,898,131
+27 | thelonliestcrowd | 4,900,794
 28 | IveDoneItAtLast | 4,880,129
-29 | Ginomania | 4,792,031
+29 | Ginomania | 4,798,111
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,456,680
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | CMDRGlamdring | 1,650,367
 62 | GooderZBK | 1,617,267
 63 | djrcollectables | 1,603,694
-64 | KONGXIANG | 1,581,513
+64 | KONGXIANG | 1,584,177
 65 | evilninjarobot | 1,523,413
 66 | YarOldeOrchard | 1,424,513
 67 | ultra_terrestrial | 1,386,806
