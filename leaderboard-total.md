@@ -1,4 +1,4 @@
-Last updated: 23-09-08 10:40:39 UTC  
+Last updated: 23-09-08 10:50:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | LordBobTheWhale | 3,116,051
 43 | bray_martin03 | 2,999,425
 44 | Mean_Bandicoot_7481 | 2,752,108
-45 | DontLaughArt | 2,687,625
+45 | DontLaughArt | 2,690,288
 46 | Fenrir-1919 | 2,643,963
 47 | _Royal_Insylum | 2,603,787
 48 | ImAlekBan | 2,504,223
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | femacampcouncilor | 642,812
 116 | nichnotnick | 635,444
 117 | slirpo | 631,180
-118 | dopelifer09 | 608,404
+118 | dopelifer09 | 618,404
 119 | __PDS__ | 595,709
 120 | El_Gordone | 592,784
 121 | superlonelyboy | 591,419
