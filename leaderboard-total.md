@@ -1,4 +1,4 @@
-Last updated: 23-09-08 06:00:55 UTC  
+Last updated: 23-09-08 06:23:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,002,601
-9 | cutsickass | 15,026,311
+9 | cutsickass | 15,056,311
 10 | crypto_grandma | 13,500,599
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,879,070
+27 | thelonliestcrowd | 4,881,733
 28 | IveDoneItAtLast | 4,864,386
 29 | Ginomania | 4,770,589
 30 | rikbona | 4,540,773
@@ -48,8 +48,8 @@ Rank | Username | Totals Tips
 45 | Fenrir-1919 | 2,643,963
 46 | _Royal_Insylum | 2,603,787
 47 | DontLaughArt | 2,597,682
-48 | zdubs | 2,485,959
-49 | ImAlekBan | 2,484,366
+48 | ImAlekBan | 2,500,952
+49 | zdubs | 2,485,959
 50 | possibili-teas | 2,399,515
 51 | GuyOne | 2,371,309
 52 | Autom4tic_Soze | 2,176,448
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | Ten-Mins-Late | 1,707,373
 60 | investigator100 | 1,646,646
 61 | GooderZBK | 1,617,267
-62 | CMDRGlamdring | 1,584,081
+62 | CMDRGlamdring | 1,589,295
 63 | KONGXIANG | 1,578,180
 64 | djrcollectables | 1,560,478
 65 | evilninjarobot | 1,510,098
@@ -378,8 +378,8 @@ Rank | Username | Totals Tips
 375 | imbarrydylan | 55,689
 376 | orangesandonions | 55,238
 377 | Brandillio | 54,271
-378 | WarningKey6517 | 53,910
-379 | LX1070 | 53,855
+378 | LX1070 | 53,924
+379 | WarningKey6517 | 53,910
 380 | Astrochrono | 53,398
 381 | Jefe0457 | 53,368
 382 | Zezano | 52,679
