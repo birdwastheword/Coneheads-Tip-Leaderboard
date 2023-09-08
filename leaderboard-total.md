@@ -1,4 +1,4 @@
-Last updated: 23-09-08 02:04:44 UTC  
+Last updated: 23-09-08 02:25:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -48,8 +48,8 @@ Rank | Username | Totals Tips
 45 | Fenrir-1919 | 2,643,963
 46 | _Royal_Insylum | 2,603,787
 47 | DontLaughArt | 2,597,682
-48 | ImAlekBan | 2,484,366
-49 | zdubs | 2,484,309
+48 | zdubs | 2,484,531
+49 | ImAlekBan | 2,484,366
 50 | possibili-teas | 2,399,515
 51 | GuyOne | 2,371,309
 52 | Autom4tic_Soze | 2,176,448
@@ -307,9 +307,9 @@ Rank | Username | Totals Tips
 304 | MedicalJockey | 89,083
 305 | HokkaidoNights | 88,108
 306 | ShopALF | 87,942
-307 | kwickle | 87,805
-308 | qwertywich | 87,473
-309 | jurgensdapimp | 87,237
+307 | jurgensdapimp | 87,846
+308 | kwickle | 87,805
+309 | qwertywich | 87,473
 310 | AhhhUhmmm | 86,289
 311 | Mother-Werewolf185 | 85,579
 312 | BeefaloSlim | 84,382
