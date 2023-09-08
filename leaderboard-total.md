@@ -1,4 +1,4 @@
-Last updated: 23-09-08 22:00:37 UTC  
+Last updated: 23-09-08 22:18:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -28,8 +28,8 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,898,131
-28 | IveDoneItAtLast | 4,865,800
-29 | Ginomania | 4,781,379
+28 | IveDoneItAtLast | 4,871,126
+29 | Ginomania | 4,784,042
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,456,680
@@ -37,8 +37,8 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 4,266,376
 35 | send420nudes | 4,145,455
 36 | VIVOffical | 4,011,427
-37 | thom_orrow | 3,683,207
-38 | clean_cut89 | 3,610,813
+37 | clean_cut89 | 3,710,813
+38 | thom_orrow | 3,683,207
 39 | LuminousViper | 3,478,754
 40 | ZukoBih | 3,411,104
 41 | Dry_Badger_2403 | 3,193,857
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | Affectionate_Hand_76 | 1,954,263
 55 | swampyswede | 1,942,224
 56 | catlover-100 | 1,924,664
-57 | 0-Give-a-fucks | 1,914,169
+57 | 0-Give-a-fucks | 1,916,832
 58 | dealkhabari | 1,763,283
 59 | Ten-Mins-Late | 1,707,373
 60 | investigator100 | 1,656,646
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | GooderZBK | 1,617,267
 63 | djrcollectables | 1,603,694
 64 | KONGXIANG | 1,581,513
-65 | evilninjarobot | 1,518,087
+65 | evilninjarobot | 1,520,750
 66 | YarOldeOrchard | 1,424,513
 67 | ultra_terrestrial | 1,386,806
 68 | LongCauliflower6791 | 1,382,103
@@ -134,7 +134,7 @@ Rank | Username | Totals Tips
 131 | DogSpark84 | 532,097
 132 | doktastonks | 521,325
 133 | Allions1 | 514,630
-134 | crodbtc | 510,952
+134 | crodbtc | 513,615
 135 | f0n1xr131ng | 509,681
 136 | Crypto-4-Freedom | 502,027
 137 | AcceptableLeg8751 | 500,000
@@ -414,18 +414,18 @@ Rank | Username | Totals Tips
 411 | 4gsboofd | 43,377
 412 | halfABsinC | 43,285
 413 | Atorcran | 43,216
-414 | dead-spiral | 42,069
-415 | ACE415_ | 42,000
-416 | Cyber-Cafe | 41,921
-417 | PushyDevoIution | 41,695
-418 | ZoomLong | 41,251
-419 | madridgalactico | 41,231
-420 | HodLMania | 41,111
-421 | ARoyaleWithCheese | 41,000
-422 | halfavocadoemoji | 40,688
-423 | Expensive_Being_4038 | 40,627
-424 | Yirii | 40,605
-425 | Significant-Bet5762 | 40,495
+414 | Significant-Bet5762 | 43,158
+415 | dead-spiral | 42,069
+416 | ACE415_ | 42,000
+417 | Cyber-Cafe | 41,921
+418 | PushyDevoIution | 41,695
+419 | ZoomLong | 41,251
+420 | madridgalactico | 41,231
+421 | HodLMania | 41,111
+422 | ARoyaleWithCheese | 41,000
+423 | halfavocadoemoji | 40,688
+424 | Expensive_Being_4038 | 40,627
+425 | Yirii | 40,605
 426 | Lucabba | 40,118
 427 | matdabom | 40,068
 428 | YourLocalDuskFox | 40,000
