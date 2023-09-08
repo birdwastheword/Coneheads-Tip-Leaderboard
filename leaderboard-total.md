@@ -1,4 +1,4 @@
-Last updated: 23-09-08 12:57:58 UTC  
+Last updated: 23-09-08 13:21:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -29,18 +29,18 @@ Rank | Username | Totals Tips
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,881,733
 28 | IveDoneItAtLast | 4,864,994
-29 | Ginomania | 4,770,589
+29 | Ginomania | 4,777,589
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,456,680
 33 | birdwastheword | 4,412,560
-34 | rustyybikes | 4,265,768
+34 | rustyybikes | 4,266,376
 35 | VIVOffical | 4,011,427
 36 | thom_orrow | 3,683,207
 37 | clean_cut89 | 3,594,835
 38 | LuminousViper | 3,478,754
 39 | ZukoBih | 3,411,104
-40 | send420nudes | 3,271,228
+40 | send420nudes | 3,313,597
 41 | Dry_Badger_2403 | 3,193,857
 42 | LordBobTheWhale | 3,116,051
 43 | bray_martin03 | 2,999,425
@@ -99,7 +99,7 @@ Rank | Username | Totals Tips
 96 | Cravensworth_redux | 790,803
 97 | Westy3000 | 783,598
 98 | ziggybri | 782,435
-99 | Lillica_Golden_SHIB | 763,005
+99 | Lillica_Golden_SHIB | 763,563
 100 | RegalReptile_ | 754,485
 101 | starterpack420694 | 710,420
 102 | Alanski22 | 709,680
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | Burzzzt88 | 590,809
 123 | Independent_Heart_15 | 578,825
 124 | formidable-opponent | 574,402
-125 | Korean_Street_Pizza | 557,346
+125 | Korean_Street_Pizza | 560,009
 126 | StepAsideSuckers | 540,695
 127 | scientifichistorian | 539,560
 128 | shreyaskg | 538,211
@@ -177,10 +177,10 @@ Rank | Username | Totals Tips
 174 | deedopete | 285,361
 175 | monkeybombed | 284,214
 176 | dinoyeti | 283,881
-177 | MadScientistTheFirst | 280,469
-178 | astro_nut_ | 280,463
-179 | maxfra | 280,067
-180 | FluffyAspie | 279,863
+177 | FluffyAspie | 280,553
+178 | MadScientistTheFirst | 280,469
+179 | astro_nut_ | 280,463
+180 | maxfra | 280,067
 181 | Flimsy_Brilliant_239 | 272,455
 182 | _Mitchee_ | 269,156
 183 | fettskull | 267,960
