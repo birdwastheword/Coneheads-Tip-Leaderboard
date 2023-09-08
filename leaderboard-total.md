@@ -1,4 +1,4 @@
-Last updated: 23-09-08 02:33:29 UTC  
+Last updated: 23-09-08 02:41:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | 8inchConer | 8,947,481
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
-18 | SpookySYN | 8,120,293
+18 | SpookySYN | 8,146,923
 19 | Homeslicekilla | 7,995,797
 20 | avyun | 7,992,498
 21 | Puddin-Luv | 7,029,485
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | LongCauliflower6791 | 1,367,095
 69 | Mundane-Farm-4117 | 1,359,176
 70 | YarOldeOrchard | 1,340,375
-71 | ValiantJudge29500 | 1,333,984
+71 | ValiantJudge29500 | 1,334,592
 72 | saintajoras | 1,239,236
 73 | revdrgonzo | 1,235,635
 74 | jimfird | 1,214,350
@@ -658,19 +658,19 @@ Rank | Username | Totals Tips
 655 | LaPantheRose | 8,647
 656 | BreadfruitIll4265 | 8,608
 657 | J-_Mad | 8,540
-658 | TNJCrypto | 8,468
-659 | ElegantShelter7947 | 8,461
-660 | Most_Border_3917 | 8,421
-661 | 1-760-706-7425 | 8,272
-662 | shityougrin | 8,265
-663 | akemicariocaer | 8,264
-664 | Handsome_Gourd | 8,242
-665 | JAK0M0VIN0 | 8,097
-666 | TheConeHodler | 8,090
-667 | Nyarlatotep781 | 8,078
-668 | gacu-gacu | 8,065
-669 | PalpitationSecure660 | 8,055
-670 | ad5xlh | 8,050
+658 | ad5xlh | 8,470
+659 | TNJCrypto | 8,468
+660 | ElegantShelter7947 | 8,461
+661 | Most_Border_3917 | 8,421
+662 | 1-760-706-7425 | 8,272
+663 | shityougrin | 8,265
+664 | akemicariocaer | 8,264
+665 | Handsome_Gourd | 8,242
+666 | JAK0M0VIN0 | 8,097
+667 | TheConeHodler | 8,090
+668 | Nyarlatotep781 | 8,078
+669 | gacu-gacu | 8,065
+670 | PalpitationSecure660 | 8,055
 671 | Erikiller06 | 8,039
 672 | crypto-indian | 8,013
 673 | ryker_69 | 8,005
