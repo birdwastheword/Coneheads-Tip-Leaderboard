@@ -1,4 +1,4 @@
-Last updated: 23-09-08 18:23:05 UTC  
+Last updated: 23-09-08 18:31:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,189,142
-9 | cutsickass | 15,347,029
+9 | cutsickass | 15,349,692
 10 | crypto_grandma | 13,519,651
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,892,385
+27 | thelonliestcrowd | 4,895,048
 28 | IveDoneItAtLast | 4,865,800
 29 | Ginomania | 4,777,589
 30 | rikbona | 4,540,773
@@ -252,12 +252,12 @@ Rank | Username | Totals Tips
 249 | luisantonio197 | 139,511
 250 | jamjam794 | 138,664
 251 | Clonkerz | 138,006
-252 | GrowinStuffAndThings | 137,461
-253 | Outrageous-Ad8481 | 137,001
-254 | MorrisWayne | 133,416
-255 | wato4000 | 132,537
-256 | GoodMornEveGoodNight | 131,088
-257 | Legal-Appointment655 | 131,030
+252 | Legal-Appointment655 | 137,972
+253 | GrowinStuffAndThings | 137,461
+254 | Outrageous-Ad8481 | 137,001
+255 | MorrisWayne | 133,416
+256 | wato4000 | 132,537
+257 | GoodMornEveGoodNight | 131,088
 258 | Kevin3683 | 130,622
 259 | ZeMadMan1 | 130,588
 260 | Mj_6o4 | 129,568
@@ -384,13 +384,13 @@ Rank | Username | Totals Tips
 381 | CryptoScamee42069 | 53,457
 382 | Astrochrono | 53,398
 383 | Jefe0457 | 53,368
-384 | Zezano | 52,679
-385 | abbasabba2 | 52,647
-386 | ky0984 | 52,257
-387 | mofayew | 52,166
-388 | ConeHead710 | 52,012
-389 | d_Shazam_b | 51,991
-390 | SandersIncBV | 51,614
+384 | SandersIncBV | 52,951
+385 | Zezano | 52,679
+386 | abbasabba2 | 52,647
+387 | ky0984 | 52,257
+388 | mofayew | 52,166
+389 | ConeHead710 | 52,012
+390 | d_Shazam_b | 51,991
 391 | d0ntmess87 | 51,278
 392 | Yogi_Kat | 49,785
 393 | hey_barry | 49,698
