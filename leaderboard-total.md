@@ -1,4 +1,4 @@
-Last updated: 23-09-08 04:50:37 UTC  
+Last updated: 23-09-08 05:00:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -24,10 +24,10 @@ Rank | Username | Totals Tips
 21 | Puddin-Luv | 7,032,568
 22 | Geniuskills | 6,877,544
 23 | ashinamune | 6,677,571
-24 | Real_Player_0 | 6,582,601
+24 | Real_Player_0 | 6,583,209
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,876,407
+27 | thelonliestcrowd | 4,879,070
 28 | IveDoneItAtLast | 4,864,386
 29 | Ginomania | 4,770,589
 30 | rikbona | 4,540,773
