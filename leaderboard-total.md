@@ -1,4 +1,4 @@
-Last updated: 23-09-08 11:40:55 UTC  
+Last updated: 23-09-08 11:50:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -116,9 +116,9 @@ Rank | Username | Totals Tips
 113 | MartynDr | 652,260
 114 | MorrisBrett514 | 651,270
 115 | femacampcouncilor | 642,812
-116 | nichnotnick | 635,444
-117 | slirpo | 631,180
-118 | dopelifer09 | 618,404
+116 | dopelifer09 | 638,404
+117 | nichnotnick | 635,444
+118 | slirpo | 631,180
 119 | __PDS__ | 595,709
 120 | El_Gordone | 592,784
 121 | superlonelyboy | 591,419
