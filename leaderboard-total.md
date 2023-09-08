@@ -1,4 +1,4 @@
-Last updated: 23-09-08 19:40:46 UTC  
+Last updated: 23-09-08 19:50:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | VIVOffical | 4,011,427
 36 | send420nudes | 3,725,086
 37 | thom_orrow | 3,683,207
-38 | clean_cut89 | 3,600,161
+38 | clean_cut89 | 3,602,824
 39 | LuminousViper | 3,478,754
 40 | ZukoBih | 3,411,104
 41 | Dry_Badger_2403 | 3,193,857
@@ -136,8 +136,8 @@ Rank | Username | Totals Tips
 133 | Allions1 | 514,630
 134 | crodbtc | 510,952
 135 | f0n1xr131ng | 509,681
-136 | AcceptableLeg8751 | 500,000
-137 | Crypto-4-Freedom | 499,363
+136 | Crypto-4-Freedom | 500,607
+137 | AcceptableLeg8751 | 500,000
 138 | Successful-Walk-3902 | 498,794
 139 | sinlesco | 462,490
 140 | WarmlyWacky | 462,118
@@ -531,8 +531,8 @@ Rank | Username | Totals Tips
 528 | DrD_D | 21,509
 529 | Flamingo777 | 21,497
 530 | Tasty_Bag | 21,384
-531 | RamboBalboa21 | 21,083
-532 | mihii12 | 20,958
+531 | mihii12 | 21,378
+532 | RamboBalboa21 | 21,083
 533 | shootingeagleyt | 20,611
 534 | Flat_Opportunity_340 | 20,420
 535 | DLPD-Camko | 20,377
