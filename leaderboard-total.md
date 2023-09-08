@@ -1,4 +1,4 @@
-Last updated: 23-09-08 09:40:52 UTC  
+Last updated: 23-09-08 09:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -151,7 +151,7 @@ Rank | Username | Totals Tips
 148 | dronegeeks1 | 414,406
 149 | LrnFaroeseWthBergur | 409,488
 150 | Dripbot8 | 405,384
-151 | PortCity_MadMan | 396,884
+151 | PortCity_MadMan | 399,547
 152 | Creepy-Nectarine-225 | 389,511
 153 | WhateverAlready | 385,881
 154 | SHIFTY-T3RROR | 380,120
