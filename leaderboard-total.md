@@ -1,4 +1,4 @@
-Last updated: 23-09-08 10:21:08 UTC  
+Last updated: 23-09-08 10:31:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | LordBobTheWhale | 3,116,051
 43 | bray_martin03 | 2,999,425
 44 | Mean_Bandicoot_7481 | 2,752,108
-45 | DontLaughArt | 2,647,625
+45 | DontLaughArt | 2,687,625
 46 | Fenrir-1919 | 2,643,963
 47 | _Royal_Insylum | 2,603,787
 48 | ImAlekBan | 2,504,223
