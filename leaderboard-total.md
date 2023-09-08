@@ -1,4 +1,4 @@
-Last updated: 23-09-08 16:35:51 UTC  
+Last updated: 23-09-08 16:44:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -50,12 +50,12 @@ Rank | Username | Totals Tips
 47 | _Royal_Insylum | 2,603,787
 48 | ImAlekBan | 2,504,223
 49 | zdubs | 2,485,959
-50 | GuyOne | 2,411,309
+50 | GuyOne | 2,437,939
 51 | possibili-teas | 2,399,515
 52 | Autom4tic_Soze | 2,181,774
 53 | 002_timmy | 2,033,164
 54 | Affectionate_Hand_76 | 1,954,263
-55 | swampyswede | 1,939,561
+55 | swampyswede | 1,942,224
 56 | catlover-100 | 1,924,664
 57 | 0-Give-a-fucks | 1,914,169
 58 | dealkhabari | 1,763,283
@@ -104,8 +104,8 @@ Rank | Username | Totals Tips
 101 | starterpack420694 | 710,420
 102 | Alanski22 | 709,680
 103 | WarmIyWacky | 703,049
-104 | Starterpack69420 | 696,969
-105 | frickdom | 694,600
+104 | frickdom | 697,263
+105 | Starterpack69420 | 696,969
 106 | abracadabra087 | 694,465
 107 | firstmatedotxyz | 688,743
 108 | Duskopia | 680,133
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | Burzzzt88 | 590,809
 123 | Independent_Heart_15 | 578,825
 124 | formidable-opponent | 574,402
-125 | Korean_Street_Pizza | 560,009
+125 | Korean_Street_Pizza | 562,672
 126 | virmamies | 549,771
 127 | StepAsideSuckers | 540,695
 128 | scientifichistorian | 539,560
@@ -177,7 +177,7 @@ Rank | Username | Totals Tips
 174 | deedopete | 285,361
 175 | monkeybombed | 284,214
 176 | dinoyeti | 283,881
-177 | FluffyAspie | 282,623
+177 | FluffyAspie | 283,313
 178 | MadScientistTheFirst | 280,469
 179 | astro_nut_ | 280,463
 180 | maxfra | 280,067
@@ -351,7 +351,7 @@ Rank | Username | Totals Tips
 348 | ElmerBlack | 65,230
 349 | damnusernamegotcutof | 65,004
 350 | zuzieey7719 | 64,618
-351 | guokaidi | 63,245
+351 | guokaidi | 63,413
 352 | slug_tamer | 63,175
 353 | DrThunderHandz | 62,969
 354 | Emeritux | 62,951
@@ -447,8 +447,8 @@ Rank | Username | Totals Tips
 444 | redditisalt | 37,307
 445 | kanem87 | 37,200
 446 | Imalittlestitious86 | 37,090
-447 | degree-01 | 36,486
-448 | cryotosensei | 36,310
+447 | cryotosensei | 37,000
+448 | degree-01 | 36,486
 449 | genesis_crazy_one | 36,237
 450 | ASingleGuitarString | 35,602
 451 | FalloutAssasin | 35,139
