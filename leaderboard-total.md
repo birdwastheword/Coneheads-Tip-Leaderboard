@@ -1,4 +1,4 @@
-Last updated: 23-09-08 13:40:51 UTC  
+Last updated: 23-09-08 13:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,189,142
-9 | cutsickass | 15,146,311
+9 | cutsickass | 15,176,311
 10 | crypto_grandma | 13,504,799
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | send420nudes | 3,313,597
 41 | Dry_Badger_2403 | 3,193,857
 42 | LordBobTheWhale | 3,116,051
-43 | bray_martin03 | 3,099,425
+43 | bray_martin03 | 3,102,088
 44 | Mean_Bandicoot_7481 | 2,752,108
 45 | DontLaughArt | 2,690,288
 46 | Fenrir-1919 | 2,643,963
@@ -134,7 +134,7 @@ Rank | Username | Totals Tips
 131 | doktastonks | 521,325
 132 | Allions1 | 514,630
 133 | f0n1xr131ng | 509,681
-134 | crodbtc | 505,626
+134 | crodbtc | 508,289
 135 | AcceptableLeg8751 | 500,000
 136 | Crypto-4-Freedom | 499,363
 137 | Successful-Walk-3902 | 498,794
@@ -205,14 +205,14 @@ Rank | Username | Totals Tips
 202 | MuhSound | 233,900
 203 | the_judge_168 | 225,881
 204 | Conetent | 222,451
-205 | SourBeefHoop | 217,512
-206 | Ashamed_Raccoon9918 | 214,124
-207 | Significant_Talk4943 | 214,119
-208 | yahuurdme | 213,714
-209 | Beenthorny | 212,362
-210 | SigSalvadore | 212,358
-211 | UWphoto | 210,892
-212 | Final-Scar-941 | 208,792
+205 | Final-Scar-941 | 220,575
+206 | SourBeefHoop | 217,512
+207 | Ashamed_Raccoon9918 | 214,124
+208 | Significant_Talk4943 | 214,119
+209 | yahuurdme | 213,714
+210 | Beenthorny | 212,362
+211 | SigSalvadore | 212,358
+212 | UWphoto | 210,892
 213 | Esco1980 | 204,434
 214 | ziggyback | 203,369
 215 | TummyLice | 199,851
@@ -296,9 +296,9 @@ Rank | Username | Totals Tips
 293 | Knaeggebrott | 97,076
 294 | IOTA_Tesla | 96,607
 295 | 192000Hertz | 96,457
-296 | BrendanTFirefly | 95,347
-297 | wolfman333 | 93,986
-298 | IHodlStill | 93,358
+296 | IHodlStill | 96,021
+297 | BrendanTFirefly | 95,347
+298 | wolfman333 | 93,986
 299 | CrossPuffs | 92,901
 300 | H3adshotfox77 | 92,575
 301 | urlz | 91,281
@@ -544,9 +544,9 @@ Rank | Username | Totals Tips
 541 | PassiveRoadRage | 20,000
 542 | Yeh_nah_yeh_ | 20,000
 543 | PsLJdogg | 19,975
-544 | Iiwip | 19,533
-545 | MalarkyD | 19,527
-546 | lookwhatumademedoo | 19,510
+544 | lookwhatumademedoo | 19,930
+545 | Iiwip | 19,533
+546 | MalarkyD | 19,527
 547 | ___MOM___ | 18,853
 548 | subredditlurker69 | 18,263
 549 | Collectibl3 | 18,024
