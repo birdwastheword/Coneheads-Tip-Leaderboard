@@ -1,4 +1,4 @@
-Last updated: 23-09-08 11:32:33 UTC  
+Last updated: 23-09-08 11:40:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | zdubs | 2,485,959
 50 | possibili-teas | 2,399,515
 51 | GuyOne | 2,371,309
-52 | Autom4tic_Soze | 2,176,448
+52 | Autom4tic_Soze | 2,179,111
 53 | 002_timmy | 2,033,164
 54 | Affectionate_Hand_76 | 1,949,263
 55 | swampyswede | 1,939,561
