@@ -1,4 +1,4 @@
-Last updated: 23-09-08 14:00:45 UTC  
+Last updated: 23-09-08 14:18:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,881,733
+27 | thelonliestcrowd | 4,887,059
 28 | IveDoneItAtLast | 4,864,994
 29 | Ginomania | 4,777,589
 30 | rikbona | 4,540,773
@@ -129,12 +129,12 @@ Rank | Username | Totals Tips
 126 | StepAsideSuckers | 540,695
 127 | scientifichistorian | 539,560
 128 | shreyaskg | 538,211
-129 | junkwatch | 534,563
+129 | junkwatch | 534,983
 130 | DogSpark84 | 532,097
 131 | doktastonks | 521,325
 132 | Allions1 | 514,630
-133 | f0n1xr131ng | 509,681
-134 | crodbtc | 508,289
+133 | crodbtc | 510,952
+134 | f0n1xr131ng | 509,681
 135 | AcceptableLeg8751 | 500,000
 136 | Crypto-4-Freedom | 499,363
 137 | Successful-Walk-3902 | 498,794
@@ -177,7 +177,7 @@ Rank | Username | Totals Tips
 174 | deedopete | 285,361
 175 | monkeybombed | 284,214
 176 | dinoyeti | 283,881
-177 | FluffyAspie | 280,553
+177 | FluffyAspie | 281,243
 178 | MadScientistTheFirst | 280,469
 179 | astro_nut_ | 280,463
 180 | maxfra | 280,067
@@ -380,18 +380,18 @@ Rank | Username | Totals Tips
 377 | orangesandonions | 55,238
 378 | Brandillio | 54,271
 379 | WarningKey6517 | 53,910
-380 | Astrochrono | 53,398
-381 | Jefe0457 | 53,368
-382 | Zezano | 52,679
-383 | abbasabba2 | 52,647
-384 | ky0984 | 52,257
-385 | mofayew | 52,166
-386 | ConeHead710 | 52,012
-387 | d_Shazam_b | 51,991
-388 | SandersIncBV | 51,614
-389 | lucivaryas | 51,420
-390 | d0ntmess87 | 51,278
-391 | CryptoScamee42069 | 50,794
+380 | CryptoScamee42069 | 53,457
+381 | Astrochrono | 53,398
+382 | Jefe0457 | 53,368
+383 | Zezano | 52,679
+384 | abbasabba2 | 52,647
+385 | ky0984 | 52,257
+386 | mofayew | 52,166
+387 | ConeHead710 | 52,012
+388 | d_Shazam_b | 51,991
+389 | SandersIncBV | 51,614
+390 | lucivaryas | 51,420
+391 | d0ntmess87 | 51,278
 392 | Yogi_Kat | 49,785
 393 | hey_barry | 49,698
 394 | eatthebagels | 49,692
