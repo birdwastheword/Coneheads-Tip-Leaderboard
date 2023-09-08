@@ -1,4 +1,4 @@
-Last updated: 23-09-08 16:52:54 UTC  
+Last updated: 23-09-08 17:02:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -86,8 +86,8 @@ Rank | Username | Totals Tips
 83 | WarmBiertje | 1,000,000
 84 | EvanIsBacon | 970,416
 85 | CHEROKEEJ4CK | 940,286
-86 | Forward_Today2849 | 932,405
-87 | ID404_Not_Found_8964 | 912,742
+86 | ID404_Not_Found_8964 | 934,942
+87 | Forward_Today2849 | 932,405
 88 | Modestexcuse | 903,684
 89 | CluelessSurvivor | 902,466
 90 | thee_monster | 896,765
@@ -198,8 +198,8 @@ Rank | Username | Totals Tips
 195 | BeardedBro_ | 248,627
 196 | thestonkinator | 246,260
 197 | Adrewmc | 241,177
-198 | tjex666 | 240,801
-199 | joeviani | 240,028
+198 | joeviani | 241,028
+199 | tjex666 | 240,801
 200 | Zalkwalker | 235,069
 201 | alexthemay | 234,131
 202 | MuhSound | 233,900
@@ -286,10 +286,10 @@ Rank | Username | Totals Tips
 283 | AD_VICTORIAM_x | 106,876
 284 | i_wake_up_at_12 | 106,333
 285 | Chanyuui1 | 104,940
-286 | deathtr0 | 103,381
-287 | ItailianStallion101 | 103,186
-288 | redditinchina | 102,781
-289 | beanwiggin420 | 101,935
+286 | beanwiggin420 | 103,935
+287 | deathtr0 | 103,381
+288 | ItailianStallion101 | 103,186
+289 | redditinchina | 102,781
 290 | ACorDC | 100,420
 291 | customsolitaires | 99,383
 292 | IHodlStill | 98,684
@@ -607,11 +607,11 @@ Rank | Username | Totals Tips
 604 | gnarlypoop | 11,924
 605 | Arvalll | 11,840
 606 | charlythesecond | 11,794
-607 | Hofmaurerad | 11,711
-608 | reddit_saltyaf | 11,603
-609 | IndependenceHungry69 | 11,561
-610 | masstransience | 11,485
-611 | ShadowKnight324 | 11,309
+607 | ShadowKnight324 | 11,729
+608 | Hofmaurerad | 11,711
+609 | reddit_saltyaf | 11,603
+610 | IndependenceHungry69 | 11,561
+611 | masstransience | 11,485
 612 | TheChillDyl | 11,298
 613 | SquatAngry | 11,285
 614 | This_Red_Apple | 11,260
