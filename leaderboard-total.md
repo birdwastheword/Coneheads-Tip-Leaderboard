@@ -1,4 +1,4 @@
-Last updated: 23-09-08 16:44:20 UTC  
+Last updated: 23-09-08 16:52:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -36,11 +36,11 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,412,560
 34 | rustyybikes | 4,266,376
 35 | VIVOffical | 4,011,427
-36 | thom_orrow | 3,683,207
-37 | clean_cut89 | 3,594,835
-38 | LuminousViper | 3,478,754
-39 | ZukoBih | 3,411,104
-40 | send420nudes | 3,355,666
+36 | send420nudes | 3,725,086
+37 | thom_orrow | 3,683,207
+38 | clean_cut89 | 3,594,835
+39 | LuminousViper | 3,478,754
+40 | ZukoBih | 3,411,104
 41 | Dry_Badger_2403 | 3,193,857
 42 | LordBobTheWhale | 3,116,120
 43 | bray_martin03 | 3,102,088
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | ultra_terrestrial | 1,386,806
 67 | YarOldeOrchard | 1,382,444
 68 | isthistomorrow_ | 1,381,135
-69 | LongCauliflower6791 | 1,367,095
+69 | LongCauliflower6791 | 1,369,758
 70 | Mundane-Farm-4117 | 1,359,176
 71 | ValiantJudge29500 | 1,345,200
 72 | saintajoras | 1,239,236
