@@ -1,4 +1,4 @@
-Last updated: 23-09-08 15:16:49 UTC  
+Last updated: 23-09-08 15:25:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -289,7 +289,7 @@ Rank | Username | Totals Tips
 286 | deathtr0 | 103,381
 287 | ItailianStallion101 | 103,186
 288 | redditinchina | 102,781
-289 | beanwiggin420 | 101,515
+289 | beanwiggin420 | 101,935
 290 | ACorDC | 100,420
 291 | customsolitaires | 99,383
 292 | IHodlStill | 98,684
@@ -456,21 +456,21 @@ Rank | Username | Totals Tips
 453 | BelowAveIntelligence | 34,132
 454 | Obvious-Ask-5747 | 33,806
 455 | SaberTurret | 33,790
-456 | PoDunkYuppie | 33,513
-457 | Gerboogler | 33,314
-458 | foreignGER | 33,279
-459 | See0tter | 33,242
-460 | xxapplej4ckx | 33,181
-461 | Truffle_Shuffle_85 | 32,895
-462 | redditavatar555 | 32,875
-463 | himthecool21 | 32,647
-464 | Steadfast_Apparition | 32,437
-465 | n00b1shm4n | 32,159
-466 | Originalibb | 32,157
-467 | SirPesoOtaku | 32,061
-468 | mbashs | 31,747
-469 | Motor-breath8 | 31,279
-470 | Big-Researcher-3855 | 31,201
+456 | Big-Researcher-3855 | 33,621
+457 | PoDunkYuppie | 33,513
+458 | Gerboogler | 33,314
+459 | foreignGER | 33,279
+460 | See0tter | 33,242
+461 | xxapplej4ckx | 33,181
+462 | Truffle_Shuffle_85 | 32,895
+463 | redditavatar555 | 32,875
+464 | himthecool21 | 32,647
+465 | Steadfast_Apparition | 32,437
+466 | n00b1shm4n | 32,159
+467 | Originalibb | 32,157
+468 | SirPesoOtaku | 32,061
+469 | mbashs | 31,747
+470 | Motor-breath8 | 31,279
 471 | OutTop | 31,069
 472 | riceboi3789 | 31,000
 473 | ClubbyTheCub | 30,885
