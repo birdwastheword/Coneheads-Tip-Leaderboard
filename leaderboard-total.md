@@ -1,4 +1,4 @@
-Last updated: 23-09-08 21:15:39 UTC  
+Last updated: 23-09-08 21:23:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,295,673
-9 | cutsickass | 15,631,561
+9 | cutsickass | 15,641,561
 10 | crypto_grandma | 13,519,651
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
-18 | SpookySYN | 8,146,923
+18 | SpookySYN | 8,173,553
 19 | Homeslicekilla | 7,995,797
 20 | avyun | 7,992,498
 21 | Puddin-Luv | 7,040,557
@@ -61,11 +61,11 @@ Rank | Username | Totals Tips
 58 | dealkhabari | 1,763,283
 59 | Ten-Mins-Late | 1,707,373
 60 | investigator100 | 1,656,646
-61 | CMDRGlamdring | 1,649,947
+61 | CMDRGlamdring | 1,650,367
 62 | GooderZBK | 1,617,267
-63 | djrcollectables | 1,601,031
+63 | djrcollectables | 1,603,694
 64 | KONGXIANG | 1,581,513
-65 | evilninjarobot | 1,515,424
+65 | evilninjarobot | 1,518,087
 66 | YarOldeOrchard | 1,424,513
 67 | ultra_terrestrial | 1,386,806
 68 | LongCauliflower6791 | 1,382,103
@@ -100,7 +100,7 @@ Rank | Username | Totals Tips
 97 | Westy3000 | 783,598
 98 | ziggybri | 782,435
 99 | Lillica_Golden_SHIB | 764,184
-100 | RegalReptile_ | 754,485
+100 | RegalReptile_ | 757,148
 101 | Alanski22 | 726,498
 102 | virmamies | 718,771
 103 | starterpack420694 | 710,420
@@ -187,7 +187,7 @@ Rank | Username | Totals Tips
 184 | _Mitchee_ | 269,156
 185 | SetoXlll | 266,136
 186 | shiesto | 266,111
-187 | cannainform2 | 263,198
+187 | cannainform2 | 264,200
 188 | tmanfromEarth | 257,392
 189 | Hactar_42 | 256,832
 190 | thecrabdad | 256,177
@@ -691,19 +691,19 @@ Rank | Username | Totals Tips
 688 | quaker-goats | 7,414
 689 | Weirdclerk_ | 7,392
 690 | Swoopscooter | 7,284
-691 | Ok-Profile-1744 | 7,046
-692 | CryptoriumOfficial | 6,969
-693 | tbobs04 | 6,969
-694 | Alternative-Radish13 | 6,969
-695 | physiops | 6,962
-696 | TeflonThaDonn | 6,936
-697 | dozebull | 6,849
-698 | Kindly-Strawberry637 | 6,800
-699 | NEO_R1CH | 6,718
-700 | Knackebrodd | 6,683
-701 | No-Emu-5060 | 6,663
-702 | thespygorillas | 6,662
-703 | Bobby_Juk | 6,650
+691 | Bobby_Juk | 7,070
+692 | Ok-Profile-1744 | 7,046
+693 | CryptoriumOfficial | 6,969
+694 | tbobs04 | 6,969
+695 | Alternative-Radish13 | 6,969
+696 | physiops | 6,962
+697 | TeflonThaDonn | 6,936
+698 | dozebull | 6,849
+699 | Kindly-Strawberry637 | 6,800
+700 | NEO_R1CH | 6,718
+701 | Knackebrodd | 6,683
+702 | No-Emu-5060 | 6,663
+703 | thespygorillas | 6,662
 704 | GoldMaster15 | 6,618
 705 | Fourplyer80 | 6,587
 706 | strworld | 6,544
