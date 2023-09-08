@@ -1,4 +1,4 @@
-Last updated: 23-09-08 23:00:53 UTC  
+Last updated: 23-09-08 23:17:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,900,794
+27 | thelonliestcrowd | 4,901,214
 28 | IveDoneItAtLast | 4,880,935
 29 | Ginomania | 4,798,111
 30 | rikbona | 4,540,773
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | djrcollectables | 1,603,694
 64 | KONGXIANG | 1,584,177
 65 | evilninjarobot | 1,523,413
-66 | YarOldeOrchard | 1,424,513
+66 | YarOldeOrchard | 1,427,176
 67 | ultra_terrestrial | 1,386,806
 68 | LongCauliflower6791 | 1,382,103
 69 | ValiantJudge29500 | 1,381,830
@@ -558,7 +558,7 @@ Rank | Username | Totals Tips
 555 | Styl_Ianos_ | 17,328
 556 | Steves1982 | 17,284
 557 | OutrageousStudy6752 | 17,087
-558 | Sebanimation | 17,004
+558 | Sebanimation | 17,073
 559 | leviathynx | 16,901
 560 | MantisToboggan66 | 16,437
 561 | ipsole | 16,425
@@ -685,9 +685,9 @@ Rank | Username | Totals Tips
 682 | isthisanavatar | 7,709
 683 | Chichakitty | 7,677
 684 | gold_digger333 | 7,577
-685 | king0ftheroad | 7,500
-686 | RiceRare | 7,491
-687 | Bobby_Juk | 7,490
+685 | Bobby_Juk | 7,559
+686 | king0ftheroad | 7,500
+687 | RiceRare | 7,491
 688 | Pengpangolin | 7,488
 689 | FlippiShh | 7,440
 690 | quaker-goats | 7,414
