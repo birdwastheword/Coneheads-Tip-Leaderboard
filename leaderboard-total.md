@@ -1,4 +1,4 @@
-Last updated: 23-09-08 21:41:24 UTC  
+Last updated: 23-09-08 21:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,295,673
-9 | cutsickass | 15,641,561
+9 | cutsickass | 15,671,561
 10 | crypto_grandma | 13,519,651
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | SpookySYN | 8,200,183
 19 | Homeslicekilla | 7,995,797
 20 | avyun | 7,992,498
-21 | Puddin-Luv | 7,040,557
+21 | Puddin-Luv | 7,045,883
 22 | Geniuskills | 6,877,544
 23 | ashinamune | 6,678,179
 24 | Real_Player_0 | 6,585,872
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | send420nudes | 4,145,455
 36 | VIVOffical | 4,011,427
 37 | thom_orrow | 3,683,207
-38 | clean_cut89 | 3,602,824
+38 | clean_cut89 | 3,610,813
 39 | LuminousViper | 3,478,754
 40 | ZukoBih | 3,411,104
 41 | Dry_Badger_2403 | 3,193,857
