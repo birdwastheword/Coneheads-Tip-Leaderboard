@@ -1,4 +1,4 @@
-Last updated: 23-09-08 22:50:44 UTC  
+Last updated: 23-09-08 23:00:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,412,560
 34 | rustyybikes | 4,266,376
 35 | send420nudes | 4,145,455
-36 | VIVOffical | 4,011,427
+36 | VIVOffical | 4,014,090
 37 | clean_cut89 | 3,710,813
 38 | thom_orrow | 3,683,207
 39 | LuminousViper | 3,478,754
@@ -54,10 +54,10 @@ Rank | Username | Totals Tips
 51 | possibili-teas | 2,399,515
 52 | Autom4tic_Soze | 2,181,774
 53 | 002_timmy | 2,033,164
-54 | Affectionate_Hand_76 | 1,954,263
-55 | swampyswede | 1,942,224
-56 | catlover-100 | 1,924,664
-57 | 0-Give-a-fucks | 1,919,495
+54 | 0-Give-a-fucks | 1,988,915
+55 | Affectionate_Hand_76 | 1,954,263
+56 | swampyswede | 1,942,224
+57 | catlover-100 | 1,924,664
 58 | dealkhabari | 1,763,283
 59 | Ten-Mins-Late | 1,707,373
 60 | investigator100 | 1,656,646
