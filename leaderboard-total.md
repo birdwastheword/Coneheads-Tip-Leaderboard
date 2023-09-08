@@ -1,4 +1,4 @@
-Last updated: 23-09-08 15:42:17 UTC  
+Last updated: 23-09-08 15:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -40,9 +40,9 @@ Rank | Username | Totals Tips
 37 | clean_cut89 | 3,594,835
 38 | LuminousViper | 3,478,754
 39 | ZukoBih | 3,411,104
-40 | send420nudes | 3,313,597
+40 | send420nudes | 3,355,666
 41 | Dry_Badger_2403 | 3,193,857
-42 | LordBobTheWhale | 3,116,051
+42 | LordBobTheWhale | 3,116,120
 43 | bray_martin03 | 3,102,088
 44 | Mean_Bandicoot_7481 | 2,752,108
 45 | DontLaughArt | 2,690,288
@@ -167,10 +167,10 @@ Rank | Username | Totals Tips
 164 | anony666mous | 341,008
 165 | tsudrat | 340,707
 166 | EffinDrongoC | 312,738
-167 | x52x | 304,860
-168 | liwipe | 304,467
-169 | VincentVanGTFO | 300,598
-170 | Lastkidpicked94 | 299,122
+167 | Lastkidpicked94 | 306,122
+168 | x52x | 304,860
+169 | liwipe | 304,467
+170 | VincentVanGTFO | 300,598
 171 | legionticket | 296,054
 172 | Extreme_Issue7325 | 295,201
 173 | send_tacoz | 293,576
