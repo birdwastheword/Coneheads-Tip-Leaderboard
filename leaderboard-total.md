@@ -1,4 +1,4 @@
-Last updated: 23-09-08 11:50:34 UTC  
+Last updated: 23-09-08 12:08:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | f0n1xr131ng | 509,681
 134 | crodbtc | 505,626
 135 | AcceptableLeg8751 | 500,000
-136 | Crypto-4-Freedom | 499,294
+136 | Crypto-4-Freedom | 499,363
 137 | Successful-Walk-3902 | 498,794
 138 | sinlesco | 462,490
 139 | WarmlyWacky | 462,118
@@ -194,8 +194,8 @@ Rank | Username | Totals Tips
 191 | Ambitious-Minimum-80 | 252,035
 192 | Sattack4000 | 250,837
 193 | Gregoryonetulum | 249,309
-194 | BeardedBro_ | 248,627
-195 | coolpattakers | 246,362
+194 | coolpattakers | 249,025
+195 | BeardedBro_ | 248,627
 196 | thestonkinator | 246,260
 197 | Adrewmc | 241,177
 198 | tjex666 | 240,801
@@ -794,22 +794,22 @@ Rank | Username | Totals Tips
 791 | redditagain91 | 3,163
 792 | Positive-Gazelle2603 | 3,152
 793 | PopLegion | 3,152
-794 | Xrim- | 3,142
-795 | Jenn2895 | 3,139
-796 | obaming16 | 3,007
-797 | KingPaladin | 3,000
-798 | ben4445 | 2,967
-799 | KlemenKisi | 2,808
-800 | general_452 | 2,801
-801 | basbcn824 | 2,795
-802 | Painfulblisteronmyb | 2,783
-803 | I_am_not_doing_this | 2,763
-804 | bilbofraginz | 2,760
-805 | FrankieTheYoung | 2,737
-806 | l0l_random | 2,732
-807 | unacceptable_name25 | 2,732
-808 | Medfried | 2,732
-809 | Bobby_Juk | 2,727
+794 | Bobby_Juk | 3,147
+795 | Xrim- | 3,142
+796 | Jenn2895 | 3,139
+797 | obaming16 | 3,007
+798 | KingPaladin | 3,000
+799 | ben4445 | 2,967
+800 | KlemenKisi | 2,808
+801 | general_452 | 2,801
+802 | basbcn824 | 2,795
+803 | Painfulblisteronmyb | 2,783
+804 | I_am_not_doing_this | 2,763
+805 | bilbofraginz | 2,760
+806 | FrankieTheYoung | 2,737
+807 | l0l_random | 2,732
+808 | unacceptable_name25 | 2,732
+809 | Medfried | 2,732
 810 | funkymyname | 2,700
 811 | Niksa2007 | 2,688
 812 | m00nLyt23 | 2,663
