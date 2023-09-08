@@ -1,4 +1,4 @@
-Last updated: 23-09-08 23:17:26 UTC  
+Last updated: 23-09-08 23:30:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,901,214
-28 | IveDoneItAtLast | 4,880,935
+28 | IveDoneItAtLast | 4,883,598
 29 | Ginomania | 4,798,111
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -48,9 +48,9 @@ Rank | Username | Totals Tips
 45 | DontLaughArt | 2,690,288
 46 | Fenrir-1919 | 2,643,963
 47 | _Royal_Insylum | 2,603,787
-48 | ImAlekBan | 2,504,223
-49 | GuyOne | 2,487,939
-50 | zdubs | 2,485,959
+48 | zdubs | 2,585,959
+49 | ImAlekBan | 2,504,223
+50 | GuyOne | 2,487,939
 51 | possibili-teas | 2,399,515
 52 | Autom4tic_Soze | 2,181,774
 53 | 002_timmy | 2,033,164
