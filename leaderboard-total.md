@@ -1,4 +1,4 @@
-Last updated: 23-09-08 06:50:30 UTC  
+Last updated: 23-09-08 07:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | _ships | 16,016,525
+8 | _ships | 16,020,969
 9 | cutsickass | 15,056,311
 10 | crypto_grandma | 13,500,599
 11 | HODL-THE-LINE | 12,469,181
@@ -180,7 +180,7 @@ Rank | Username | Totals Tips
 177 | MadScientistTheFirst | 280,469
 178 | astro_nut_ | 280,463
 179 | maxfra | 280,067
-180 | FluffyAspie | 277,200
+180 | FluffyAspie | 279,863
 181 | Flimsy_Brilliant_239 | 272,455
 182 | _Mitchee_ | 269,156
 183 | fettskull | 267,960
