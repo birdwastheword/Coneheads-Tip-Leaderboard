@@ -1,4 +1,4 @@
-Last updated: 23-09-08 21:00:50 UTC  
+Last updated: 23-09-08 21:15:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,295,673
-9 | cutsickass | 15,622,355
+9 | cutsickass | 15,631,561
 10 | crypto_grandma | 13,519,651
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | SpookySYN | 8,146,923
 19 | Homeslicekilla | 7,995,797
 20 | avyun | 7,992,498
-21 | Puddin-Luv | 7,037,894
+21 | Puddin-Luv | 7,040,557
 22 | Geniuskills | 6,877,544
 23 | ashinamune | 6,678,179
 24 | Real_Player_0 | 6,585,872
@@ -60,8 +60,8 @@ Rank | Username | Totals Tips
 57 | 0-Give-a-fucks | 1,914,169
 58 | dealkhabari | 1,763,283
 59 | Ten-Mins-Late | 1,707,373
-60 | CMDRGlamdring | 1,649,947
-61 | investigator100 | 1,646,646
+60 | investigator100 | 1,656,646
+61 | CMDRGlamdring | 1,649,947
 62 | GooderZBK | 1,617,267
 63 | djrcollectables | 1,601,031
 64 | KONGXIANG | 1,581,513
@@ -101,8 +101,8 @@ Rank | Username | Totals Tips
 98 | ziggybri | 782,435
 99 | Lillica_Golden_SHIB | 764,184
 100 | RegalReptile_ | 754,485
-101 | virmamies | 718,771
-102 | Alanski22 | 713,183
+101 | Alanski22 | 726,498
+102 | virmamies | 718,771
 103 | starterpack420694 | 710,420
 104 | WarmIyWacky | 703,049
 105 | frickdom | 697,263
@@ -123,8 +123,8 @@ Rank | Username | Totals Tips
 120 | superlonelyboy | 611,419
 121 | __PDS__ | 595,709
 122 | El_Gordone | 592,784
-123 | Burzzzt88 | 590,809
-124 | formidable-opponent | 583,733
+123 | formidable-opponent | 592,287
+124 | Burzzzt88 | 590,809
 125 | Independent_Heart_15 | 578,825
 126 | Korean_Street_Pizza | 562,672
 127 | StepAsideSuckers | 543,358
@@ -187,7 +187,7 @@ Rank | Username | Totals Tips
 184 | _Mitchee_ | 269,156
 185 | SetoXlll | 266,136
 186 | shiesto | 266,111
-187 | cannainform2 | 262,197
+187 | cannainform2 | 263,198
 188 | tmanfromEarth | 257,392
 189 | Hactar_42 | 256,832
 190 | thecrabdad | 256,177
@@ -345,8 +345,8 @@ Rank | Username | Totals Tips
 342 | Yoda975 | 69,055
 343 | Tapiz3land | 68,942
 344 | Dazzling_Marzipan474 | 68,613
-345 | AnduriII | 68,313
-346 | shellystarzz | 68,128
+345 | shellystarzz | 68,548
+346 | AnduriII | 68,313
 347 | Bobocod | 66,680
 348 | Friendly-Airline2426 | 66,547
 349 | 1ndy1 | 65,766
@@ -413,7 +413,7 @@ Rank | Username | Totals Tips
 410 | 4gsboofd | 43,377
 411 | halfABsinC | 43,285
 412 | Atorcran | 43,216
-413 | Complete-Tadpole-728 | 42,359
+413 | Complete-Tadpole-728 | 42,779
 414 | dead-spiral | 42,069
 415 | ACE415_ | 42,000
 416 | Cyber-Cafe | 41,921
