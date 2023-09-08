@@ -1,4 +1,4 @@
-Last updated: 23-09-08 14:50:47 UTC  
+Last updated: 23-09-08 15:01:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | avyun | 7,992,498
 21 | Puddin-Luv | 7,037,894
 22 | Geniuskills | 6,877,544
-23 | ashinamune | 6,677,571
+23 | ashinamune | 6,678,179
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
@@ -448,8 +448,8 @@ Rank | Username | Totals Tips
 445 | kanem87 | 37,200
 446 | Imalittlestitious86 | 37,090
 447 | degree-01 | 36,486
-448 | genesis_crazy_one | 36,237
-449 | cryotosensei | 35,620
+448 | cryotosensei | 36,310
+449 | genesis_crazy_one | 36,237
 450 | ASingleGuitarString | 35,602
 451 | FalloutAssasin | 35,139
 452 | TRANZHUMANIST | 35,069
