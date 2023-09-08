@@ -1,4 +1,4 @@
-Last updated: 23-09-08 05:50:36 UTC  
+Last updated: 23-09-08 06:00:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | catlover-100 | 1,924,664
 57 | 0-Give-a-fucks | 1,914,169
 58 | dealkhabari | 1,763,283
-59 | Ten-Mins-Late | 1,706,953
+59 | Ten-Mins-Late | 1,707,373
 60 | investigator100 | 1,646,646
 61 | GooderZBK | 1,617,267
 62 | CMDRGlamdring | 1,584,081
@@ -181,7 +181,7 @@ Rank | Username | Totals Tips
 178 | astro_nut_ | 280,463
 179 | maxfra | 280,067
 180 | FluffyAspie | 277,200
-181 | Flimsy_Brilliant_239 | 269,792
+181 | Flimsy_Brilliant_239 | 272,455
 182 | _Mitchee_ | 269,156
 183 | fettskull | 267,960
 184 | SetoXlll | 266,136
