@@ -1,4 +1,4 @@
-Last updated: 23-09-08 19:31:24 UTC  
+Last updated: 23-09-08 19:40:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | 0-Give-a-fucks | 1,914,169
 58 | dealkhabari | 1,763,283
 59 | Ten-Mins-Late | 1,707,373
-60 | CMDRGlamdring | 1,647,284
+60 | CMDRGlamdring | 1,649,947
 61 | investigator100 | 1,646,646
 62 | GooderZBK | 1,617,267
 63 | djrcollectables | 1,601,031
@@ -99,23 +99,23 @@ Rank | Username | Totals Tips
 96 | Cravensworth_redux | 790,803
 97 | Westy3000 | 783,598
 98 | ziggybri | 782,435
-99 | Lillica_Golden_SHIB | 763,977
+99 | Lillica_Golden_SHIB | 764,184
 100 | RegalReptile_ | 754,485
-101 | starterpack420694 | 710,420
-102 | Alanski22 | 709,680
-103 | WarmIyWacky | 703,049
-104 | frickdom | 697,263
-105 | Starterpack69420 | 696,969
-106 | abracadabra087 | 694,465
-107 | firstmatedotxyz | 688,743
-108 | Obi1eyeKenobi | 684,911
-109 | Duskopia | 680,133
-110 | Due_Insurance8159 | 678,620
-111 | SKITZ_ZA | 673,394
-112 | piebagz | 661,815
-113 | MartynDr | 652,260
-114 | MorrisBrett514 | 651,270
-115 | virmamies | 649,771
+101 | virmamies | 718,771
+102 | starterpack420694 | 710,420
+103 | Alanski22 | 709,680
+104 | WarmIyWacky | 703,049
+105 | frickdom | 697,263
+106 | Starterpack69420 | 696,969
+107 | abracadabra087 | 694,465
+108 | firstmatedotxyz | 688,743
+109 | Obi1eyeKenobi | 684,911
+110 | Duskopia | 680,133
+111 | Due_Insurance8159 | 678,620
+112 | SKITZ_ZA | 673,394
+113 | piebagz | 661,815
+114 | MartynDr | 652,260
+115 | MorrisBrett514 | 651,270
 116 | femacampcouncilor | 642,812
 117 | dopelifer09 | 638,404
 118 | nichnotnick | 635,444
@@ -127,7 +127,7 @@ Rank | Username | Totals Tips
 124 | Independent_Heart_15 | 578,825
 125 | formidable-opponent | 575,956
 126 | Korean_Street_Pizza | 562,672
-127 | StepAsideSuckers | 540,695
+127 | StepAsideSuckers | 543,358
 128 | scientifichistorian | 539,560
 129 | shreyaskg | 538,211
 130 | junkwatch | 534,983
