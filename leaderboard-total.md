@@ -1,4 +1,4 @@
-Last updated: 23-09-08 07:33:48 UTC  
+Last updated: 23-09-08 07:42:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | _ships | 16,021,389
+8 | _ships | 16,027,469
 9 | cutsickass | 15,056,311
 10 | crypto_grandma | 13,500,599
 11 | HODL-THE-LINE | 12,469,181
@@ -450,7 +450,7 @@ Rank | Username | Totals Tips
 447 | Atorcran | 36,216
 448 | ASingleGuitarString | 35,602
 449 | kanem87 | 35,213
-450 | FalloutAssasin | 35,070
+450 | FalloutAssasin | 35,139
 451 | TRANZHUMANIST | 35,069
 452 | cryotosensei | 34,240
 453 | BelowAveIntelligence | 34,132
