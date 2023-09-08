@@ -1,4 +1,4 @@
-Last updated: 23-09-08 19:00:56 UTC  
+Last updated: 23-09-08 19:14:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | _ships | 16,249,942
+8 | _ships | 16,260,550
 9 | cutsickass | 15,419,692
 10 | crypto_grandma | 13,519,651
 11 | HODL-THE-LINE | 12,469,181
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | investigator100 | 1,646,646
 61 | CMDRGlamdring | 1,644,621
 62 | GooderZBK | 1,617,267
-63 | djrcollectables | 1,598,368
+63 | djrcollectables | 1,601,031
 64 | KONGXIANG | 1,581,513
 65 | evilninjarobot | 1,515,424
 66 | YarOldeOrchard | 1,424,513
@@ -108,8 +108,8 @@ Rank | Username | Totals Tips
 105 | Starterpack69420 | 696,969
 106 | abracadabra087 | 694,465
 107 | firstmatedotxyz | 688,743
-108 | Duskopia | 680,133
-109 | Obi1eyeKenobi | 679,585
+108 | Obi1eyeKenobi | 682,248
+109 | Duskopia | 680,133
 110 | Due_Insurance8159 | 678,620
 111 | SKITZ_ZA | 673,394
 112 | piebagz | 661,815
@@ -197,15 +197,15 @@ Rank | Username | Totals Tips
 194 | Gregoryonetulum | 249,309
 195 | BeardedBro_ | 248,627
 196 | thestonkinator | 246,260
-197 | Adrewmc | 241,177
-198 | joeviani | 241,028
-199 | tjex666 | 240,801
-200 | Zalkwalker | 235,069
-201 | MuhSound | 234,508
-202 | alexthemay | 234,131
-203 | the_judge_168 | 225,881
-204 | Conetent | 222,451
-205 | Final-Scar-941 | 220,575
+197 | Final-Scar-941 | 243,679
+198 | Adrewmc | 241,177
+199 | joeviani | 241,028
+200 | tjex666 | 240,801
+201 | Zalkwalker | 235,069
+202 | MuhSound | 234,508
+203 | alexthemay | 234,131
+204 | the_judge_168 | 225,881
+205 | Conetent | 222,451
 206 | SourBeefHoop | 217,512
 207 | Ashamed_Raccoon9918 | 214,124
 208 | Significant_Talk4943 | 214,119
@@ -332,10 +332,10 @@ Rank | Username | Totals Tips
 329 | Derefringence | 77,095
 330 | Admirito | 77,027
 331 | XeroGrave | 76,648
-332 | MedicineMaterial3501 | 74,654
-333 | pwan7505 | 73,893
-334 | Diamond_PnutBrain | 73,619
-335 | Heycheckthisout20 | 72,945
+332 | Heycheckthisout20 | 75,608
+333 | MedicineMaterial3501 | 74,654
+334 | pwan7505 | 73,893
+335 | Diamond_PnutBrain | 73,619
 336 | I_AM_MORE_BADASS | 72,432
 337 | adi_00_ | 71,759
 338 | sparanaghcoar | 71,118
