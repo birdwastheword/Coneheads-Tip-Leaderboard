@@ -1,4 +1,4 @@
-Last updated: 23-09-08 20:18:47 UTC  
+Last updated: 23-09-08 20:30:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,8 +8,8 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | _ships | 16,269,043
-9 | cutsickass | 15,542,355
+8 | _ships | 16,295,673
+9 | cutsickass | 15,592,355
 10 | crypto_grandma | 13,519,651
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -703,16 +703,16 @@ Rank | Username | Totals Tips
 700 | Knackebrodd | 6,683
 701 | No-Emu-5060 | 6,663
 702 | thespygorillas | 6,662
-703 | GoldMaster15 | 6,618
-704 | Fourplyer80 | 6,587
-705 | strworld | 6,544
-706 | dexabonk | 6,541
-707 | _pondering_insomniac | 6,500
-708 | SeniorThiccBoi | 6,405
-709 | theindoshow | 6,388
-710 | rpgruli | 6,364
-711 | ReasonReasonable7168 | 6,357
-712 | Bobby_Juk | 6,230
+703 | Bobby_Juk | 6,650
+704 | GoldMaster15 | 6,618
+705 | Fourplyer80 | 6,587
+706 | strworld | 6,544
+707 | dexabonk | 6,541
+708 | _pondering_insomniac | 6,500
+709 | SeniorThiccBoi | 6,405
+710 | theindoshow | 6,388
+711 | rpgruli | 6,364
+712 | ReasonReasonable7168 | 6,357
 713 | Schwoanz | 6,219
 714 | solarssun | 6,111
 715 | DrunkDoge420 | 6,000
