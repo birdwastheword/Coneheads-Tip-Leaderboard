@@ -1,4 +1,4 @@
-Last updated: 23-09-08 05:18:26 UTC  
+Last updated: 23-09-08 05:30:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -132,7 +132,7 @@ Rank | Username | Totals Tips
 129 | junkwatch | 534,074
 130 | DogSpark84 | 532,097
 131 | doktastonks | 521,325
-132 | Allions1 | 514,561
+132 | Allions1 | 514,630
 133 | f0n1xr131ng | 509,681
 134 | crodbtc | 505,626
 135 | AcceptableLeg8751 | 500,000
@@ -310,7 +310,7 @@ Rank | Username | Totals Tips
 307 | jurgensdapimp | 87,846
 308 | kwickle | 87,805
 309 | qwertywich | 87,473
-310 | AhhhUhmmm | 86,289
+310 | AhhhUhmmm | 86,358
 311 | Mother-Werewolf185 | 85,579
 312 | BeefaloSlim | 84,382
 313 | Puzzleheaded_Gift738 | 84,020
