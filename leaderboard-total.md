@@ -1,4 +1,4 @@
-Last updated: 23-09-08 18:31:34 UTC  
+Last updated: 23-09-08 18:40:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,895,048
 28 | IveDoneItAtLast | 4,865,800
-29 | Ginomania | 4,777,589
+29 | Ginomania | 4,781,379
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,456,680
@@ -115,18 +115,18 @@ Rank | Username | Totals Tips
 112 | piebagz | 661,815
 113 | MartynDr | 652,260
 114 | MorrisBrett514 | 651,270
-115 | femacampcouncilor | 642,812
-116 | dopelifer09 | 638,404
-117 | nichnotnick | 635,444
-118 | slirpo | 631,180
-119 | superlonelyboy | 611,419
-120 | __PDS__ | 595,709
-121 | El_Gordone | 592,784
-122 | Burzzzt88 | 590,809
-123 | Independent_Heart_15 | 578,825
-124 | formidable-opponent | 575,956
-125 | Korean_Street_Pizza | 562,672
-126 | virmamies | 549,771
+115 | virmamies | 649,771
+116 | femacampcouncilor | 642,812
+117 | dopelifer09 | 638,404
+118 | nichnotnick | 635,444
+119 | slirpo | 631,180
+120 | superlonelyboy | 611,419
+121 | __PDS__ | 595,709
+122 | El_Gordone | 592,784
+123 | Burzzzt88 | 590,809
+124 | Independent_Heart_15 | 578,825
+125 | formidable-opponent | 575,956
+126 | Korean_Street_Pizza | 562,672
 127 | StepAsideSuckers | 540,695
 128 | scientifichistorian | 539,560
 129 | shreyaskg | 538,211
