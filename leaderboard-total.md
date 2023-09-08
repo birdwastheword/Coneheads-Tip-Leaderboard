@@ -1,4 +1,4 @@
-Last updated: 23-09-08 04:00:59 UTC  
+Last updated: 23-09-08 04:21:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | _ships | 15,975,028
+8 | _ships | 15,982,598
 9 | cutsickass | 14,876,311
 10 | crypto_grandma | 13,497,936
 11 | HODL-THE-LINE | 12,469,181
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | Fenrir-1919 | 2,643,963
 46 | _Royal_Insylum | 2,603,787
 47 | DontLaughArt | 2,597,682
-48 | zdubs | 2,485,747
+48 | zdubs | 2,485,959
 49 | ImAlekBan | 2,484,366
 50 | possibili-teas | 2,399,515
 51 | GuyOne | 2,371,309
@@ -102,8 +102,8 @@ Rank | Username | Totals Tips
 99 | Lillica_Golden_SHIB | 762,102
 100 | RegalReptile_ | 754,485
 101 | starterpack420694 | 710,420
-102 | WarmIyWacky | 703,049
-103 | Alanski22 | 697,268
+102 | Alanski22 | 707,017
+103 | WarmIyWacky | 703,049
 104 | Starterpack69420 | 696,969
 105 | abracadabra087 | 694,465
 106 | frickdom | 691,937
@@ -414,14 +414,14 @@ Rank | Username | Totals Tips
 411 | dead-spiral | 42,069
 412 | ACE415_ | 42,000
 413 | Cyber-Cafe | 41,921
-414 | PushyDevoIution | 41,695
-415 | ZoomLong | 41,251
-416 | madridgalactico | 41,231
-417 | HodLMania | 41,111
-418 | ARoyaleWithCheese | 41,000
-419 | halfavocadoemoji | 40,688
-420 | Expensive_Being_4038 | 40,627
-421 | Complete-Tadpole-728 | 40,610
+414 | Complete-Tadpole-728 | 41,870
+415 | PushyDevoIution | 41,695
+416 | ZoomLong | 41,251
+417 | madridgalactico | 41,231
+418 | HodLMania | 41,111
+419 | ARoyaleWithCheese | 41,000
+420 | halfavocadoemoji | 40,688
+421 | Expensive_Being_4038 | 40,627
 422 | Yirii | 40,605
 423 | Significant-Bet5762 | 40,495
 424 | Lucabba | 40,118
