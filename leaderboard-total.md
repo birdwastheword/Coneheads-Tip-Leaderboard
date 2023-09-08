@@ -1,4 +1,4 @@
-Last updated: 23-09-08 17:30:40 UTC  
+Last updated: 23-09-08 17:40:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | djrcollectables | 1,595,705
 63 | CMDRGlamdring | 1,594,621
 64 | KONGXIANG | 1,581,513
-65 | evilninjarobot | 1,512,761
+65 | evilninjarobot | 1,515,424
 66 | YarOldeOrchard | 1,424,513
 67 | ultra_terrestrial | 1,386,806
 68 | LongCauliflower6791 | 1,382,103
