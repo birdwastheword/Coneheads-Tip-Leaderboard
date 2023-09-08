@@ -1,4 +1,4 @@
-Last updated: 23-09-08 21:50:39 UTC  
+Last updated: 23-09-08 22:00:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -112,8 +112,8 @@ Rank | Username | Totals Tips
 109 | Obi1eyeKenobi | 684,911
 110 | Duskopia | 680,133
 111 | Due_Insurance8159 | 678,620
-112 | SKITZ_ZA | 673,394
-113 | dopelifer09 | 668,404
+112 | dopelifer09 | 678,404
+113 | SKITZ_ZA | 673,394
 114 | piebagz | 661,815
 115 | MartynDr | 652,260
 116 | MorrisBrett514 | 651,270
@@ -365,15 +365,15 @@ Rank | Username | Totals Tips
 362 | lucrica | 59,987
 363 | Dboythegreat | 59,726
 364 | Big-Ticket1506 | 59,666
-365 | -geek | 59,318
-366 | RepublicRude6350 | 58,754
-367 | preemcuz | 58,734
-368 | Wildspliffosis | 58,703
-369 | meme_used | 58,516
-370 | Trink333 | 58,338
-371 | phrodreky | 58,053
-372 | Outrageous_Storm6537 | 56,938
-373 | Virtual-Wrangler5955 | 56,680
+365 | Virtual-Wrangler5955 | 59,343
+366 | -geek | 59,318
+367 | RepublicRude6350 | 58,754
+368 | preemcuz | 58,734
+369 | Wildspliffosis | 58,703
+370 | meme_used | 58,516
+371 | Trink333 | 58,338
+372 | phrodreky | 58,053
+373 | Outrageous_Storm6537 | 56,938
 374 | ProfessionalIcy6456 | 56,380
 375 | Bandit_005 | 56,303
 376 | chuloreddit | 55,878
@@ -408,12 +408,12 @@ Rank | Username | Totals Tips
 405 | SaberTurret | 45,050
 406 | Name_Trikolon | 45,002
 407 | acfranks | 44,663
-408 | Kilv3r | 44,021
-409 | Coneboy2663 | 43,852
-410 | 4gsboofd | 43,377
-411 | halfABsinC | 43,285
-412 | Atorcran | 43,216
-413 | Complete-Tadpole-728 | 42,779
+408 | Complete-Tadpole-728 | 44,459
+409 | Kilv3r | 44,021
+410 | Coneboy2663 | 43,852
+411 | 4gsboofd | 43,377
+412 | halfABsinC | 43,285
+413 | Atorcran | 43,216
 414 | dead-spiral | 42,069
 415 | ACE415_ | 42,000
 416 | Cyber-Cafe | 41,921
