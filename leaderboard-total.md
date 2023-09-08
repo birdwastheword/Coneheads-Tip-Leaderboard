@@ -1,4 +1,4 @@
-Last updated: 23-09-08 22:18:19 UTC  
+Last updated: 23-09-08 22:30:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -28,8 +28,8 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,898,131
-28 | IveDoneItAtLast | 4,871,126
-29 | Ginomania | 4,784,042
+28 | IveDoneItAtLast | 4,880,129
+29 | Ginomania | 4,792,031
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,456,680
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | Affectionate_Hand_76 | 1,954,263
 55 | swampyswede | 1,942,224
 56 | catlover-100 | 1,924,664
-57 | 0-Give-a-fucks | 1,916,832
+57 | 0-Give-a-fucks | 1,919,495
 58 | dealkhabari | 1,763,283
 59 | Ten-Mins-Late | 1,707,373
 60 | investigator100 | 1,656,646
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | GooderZBK | 1,617,267
 63 | djrcollectables | 1,603,694
 64 | KONGXIANG | 1,581,513
-65 | evilninjarobot | 1,520,750
+65 | evilninjarobot | 1,523,413
 66 | YarOldeOrchard | 1,424,513
 67 | ultra_terrestrial | 1,386,806
 68 | LongCauliflower6791 | 1,382,103
@@ -133,8 +133,8 @@ Rank | Username | Totals Tips
 130 | junkwatch | 534,983
 131 | DogSpark84 | 532,097
 132 | doktastonks | 521,325
-133 | Allions1 | 514,630
-134 | crodbtc | 513,615
+133 | crodbtc | 516,278
+134 | Allions1 | 514,630
 135 | f0n1xr131ng | 509,681
 136 | Crypto-4-Freedom | 502,027
 137 | AcceptableLeg8751 | 500,000
@@ -686,12 +686,12 @@ Rank | Username | Totals Tips
 683 | gold_digger333 | 7,577
 684 | king0ftheroad | 7,500
 685 | RiceRare | 7,491
-686 | Pengpangolin | 7,488
-687 | FlippiShh | 7,440
-688 | quaker-goats | 7,414
-689 | Weirdclerk_ | 7,392
-690 | Swoopscooter | 7,284
-691 | Bobby_Juk | 7,070
+686 | Bobby_Juk | 7,490
+687 | Pengpangolin | 7,488
+688 | FlippiShh | 7,440
+689 | quaker-goats | 7,414
+690 | Weirdclerk_ | 7,392
+691 | Swoopscooter | 7,284
 692 | Ok-Profile-1744 | 7,046
 693 | CryptoriumOfficial | 6,969
 694 | tbobs04 | 6,969
