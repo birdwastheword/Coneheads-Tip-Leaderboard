@@ -1,4 +1,4 @@
-Last updated: 23-09-08 21:23:53 UTC  
+Last updated: 23-09-08 21:32:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
-18 | SpookySYN | 8,173,553
+18 | SpookySYN | 8,200,183
 19 | Homeslicekilla | 7,995,797
 20 | avyun | 7,992,498
 21 | Puddin-Luv | 7,040,557
@@ -121,9 +121,9 @@ Rank | Username | Totals Tips
 118 | nichnotnick | 635,444
 119 | slirpo | 631,180
 120 | superlonelyboy | 611,419
-121 | __PDS__ | 595,709
-122 | El_Gordone | 592,784
-123 | formidable-opponent | 592,287
+121 | formidable-opponent | 600,064
+122 | __PDS__ | 595,709
+123 | El_Gordone | 592,784
 124 | Burzzzt88 | 590,809
 125 | Independent_Heart_15 | 578,825
 126 | Korean_Street_Pizza | 562,672
@@ -456,10 +456,10 @@ Rank | Username | Totals Tips
 453 | TRANZHUMANIST | 35,069
 454 | BelowAveIntelligence | 34,132
 455 | Obvious-Ask-5747 | 33,806
-456 | Big-Researcher-3855 | 33,621
-457 | PoDunkYuppie | 33,513
-458 | Gerboogler | 33,314
-459 | foreignGER | 33,279
+456 | foreignGER | 33,699
+457 | Big-Researcher-3855 | 33,621
+458 | PoDunkYuppie | 33,513
+459 | Gerboogler | 33,314
 460 | See0tter | 33,242
 461 | xxapplej4ckx | 33,181
 462 | Truffle_Shuffle_85 | 32,895
