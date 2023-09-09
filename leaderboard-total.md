@@ -1,4 +1,4 @@
-Last updated: 23-09-09 22:50:47 UTC  
+Last updated: 23-09-09 23:00:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,467,162
-27 | IveDoneItAtLast | 5,138,912
+27 | IveDoneItAtLast | 5,144,920
 28 | thelonliestcrowd | 4,931,261
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -303,21 +303,21 @@ Rank | Username | Totals Tips
 300 | BrendanTFirefly | 95,347
 301 | Chill_Edoeard | 94,820
 302 | wolfman333 | 93,986
-303 | CrossPuffs | 92,901
+303 | CrossPuffs | 93,321
 304 | H3adshotfox77 | 92,575
 305 | urlz | 91,281
 306 | RollingSkull0 | 90,875
 307 | Backwood20 | 90,298
 308 | DramaticProtogen | 90,274
 309 | Award-Bot | 90,000
-310 | MedicalJockey | 89,083
-311 | jurgensdapimp | 88,535
-312 | HokkaidoNights | 88,108
-313 | ShopALF | 88,011
-314 | Hoppy_Doodle | 88,000
-315 | kwickle | 87,805
-316 | qwertywich | 87,473
-317 | AhhhUhmmm | 86,496
+310 | AhhhUhmmm | 89,159
+311 | MedicalJockey | 89,083
+312 | jurgensdapimp | 88,535
+313 | HokkaidoNights | 88,108
+314 | ShopALF | 88,011
+315 | Hoppy_Doodle | 88,000
+316 | kwickle | 87,805
+317 | qwertywich | 87,473
 318 | Mother-Werewolf185 | 85,579
 319 | BeefaloSlim | 84,382
 320 | Puzzleheaded_Gift738 | 84,020
@@ -401,12 +401,12 @@ Rank | Username | Totals Tips
 398 | hey_barry | 49,698
 399 | eatthebagels | 49,692
 400 | sicilian2124 | 49,529
-401 | Levl1Critter | 49,152
-402 | Dolce_00 | 48,683
-403 | Atorcran | 48,623
-404 | Complete-Tadpole-728 | 47,957
-405 | shredslanding | 46,650
-406 | Significant-Bet5762 | 46,510
+401 | Significant-Bet5762 | 49,173
+402 | Levl1Critter | 49,152
+403 | Dolce_00 | 48,683
+404 | Atorcran | 48,623
+405 | Complete-Tadpole-728 | 47,957
+406 | shredslanding | 46,650
 407 | Oue | 46,352
 408 | skatistic | 46,287
 409 | Drlitez | 45,436
