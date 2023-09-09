@@ -1,4 +1,4 @@
-Last updated: 23-09-09 08:30:43 UTC  
+Last updated: 23-09-09 08:40:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -113,7 +113,7 @@ Rank | Username | Totals Tips
 110 | Duskopia | 680,133
 111 | Due_Insurance8159 | 678,620
 112 | dopelifer09 | 678,404
-113 | SKITZ_ZA | 673,394
+113 | SKITZ_ZA | 676,057
 114 | piebagz | 661,815
 115 | MartynDr | 652,260
 116 | MorrisBrett514 | 651,270
@@ -126,7 +126,7 @@ Rank | Username | Totals Tips
 123 | El_Gordone | 592,784
 124 | Burzzzt88 | 590,809
 125 | Independent_Heart_15 | 578,825
-126 | Korean_Street_Pizza | 572,810
+126 | Korean_Street_Pizza | 575,473
 127 | StepAsideSuckers | 543,358
 128 | junkwatch | 541,569
 129 | scientifichistorian | 539,560
@@ -1141,7 +1141,7 @@ Rank | Username | Totals Tips
 1138 | KEDW | 10
 1139 | jellodoses69 | 10
 1140 | mercredimedia | 6
-1141 | 18-35 | 5
+1141 | 18-35 | 6
 1142 | PixelllPunk | 3
 1143 | GroovyIntruder | 3
 1144 | crawleyfinance | 2
