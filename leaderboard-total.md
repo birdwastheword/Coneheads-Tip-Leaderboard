@@ -1,4 +1,4 @@
-Last updated: 23-09-09 03:40:34 UTC  
+Last updated: 23-09-09 03:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,301,754
 9 | cutsickass | 15,701,561
-10 | crypto_grandma | 13,557,166
+10 | crypto_grandma | 13,565,155
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,341,858
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,202,088
 42 | Dry_Badger_2403 | 3,193,857
 43 | LordBobTheWhale | 3,116,797
-44 | GuyOne | 2,853,909
+44 | GuyOne | 2,983,799
 45 | Mean_Bandicoot_7481 | 2,752,108
 46 | DontLaughArt | 2,710,288
 47 | Fenrir-1919 | 2,643,963
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | evilninjarobot | 1,528,739
 66 | YarOldeOrchard | 1,427,176
 67 | ultra_terrestrial | 1,386,806
-68 | ValiantJudge29500 | 1,382,830
+68 | ValiantJudge29500 | 1,385,493
 69 | LongCauliflower6791 | 1,382,103
 70 | isthistomorrow_ | 1,381,135
 71 | Mundane-Farm-4117 | 1,359,176
