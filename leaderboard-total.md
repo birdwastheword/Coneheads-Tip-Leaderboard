@@ -1,4 +1,4 @@
-Last updated: 23-09-09 04:00:55 UTC  
+Last updated: 23-09-09 04:21:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | crypto_grandma | 13,565,155
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
-13 | transfermymoons | 11,341,858
+13 | transfermymoons | 11,391,858
 14 | SammyCraigar | 10,470,681
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,532,379
@@ -681,12 +681,12 @@ Rank | Username | Totals Tips
 678 | ryker_69 | 8,005
 679 | Primetimemongrel | 8,001
 680 | asmuth | 8,000
-681 | mronki | 7,737
-682 | Squirrel_McNutz | 7,720
-683 | isthisanavatar | 7,709
-684 | Chichakitty | 7,677
-685 | gold_digger333 | 7,577
-686 | Bobby_Juk | 7,559
+681 | Bobby_Juk | 7,979
+682 | mronki | 7,737
+683 | Squirrel_McNutz | 7,720
+684 | isthisanavatar | 7,709
+685 | Chichakitty | 7,677
+686 | gold_digger333 | 7,577
 687 | king0ftheroad | 7,500
 688 | RiceRare | 7,491
 689 | Pengpangolin | 7,488
