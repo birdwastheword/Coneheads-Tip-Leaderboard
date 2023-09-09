@@ -1,4 +1,4 @@
-Last updated: 23-09-09 23:33:44 UTC  
+Last updated: 23-09-09 23:41:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,456,680
+32 | redzrex | 4,459,343
 33 | birdwastheword | 4,413,049
 34 | rustyybikes | 4,266,984
 35 | send420nudes | 4,187,824
@@ -143,9 +143,9 @@ Rank | Username | Totals Tips
 140 | Lady_Lucks_Man | 470,704
 141 | sinlesco | 462,490
 142 | WarmlyWacky | 462,118
-143 | WhateverAlready | 455,301
-144 | MediaPrestigious8342 | 453,839
-145 | PortCity_MadMan | 453,646
+143 | PortCity_MadMan | 456,309
+144 | WhateverAlready | 455,301
+145 | MediaPrestigious8342 | 453,839
 146 | adrifing | 443,831
 147 | unhingedbigfoot | 439,874
 148 | Mopeiooo | 437,268
