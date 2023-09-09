@@ -1,4 +1,4 @@
-Last updated: 23-09-09 17:16:33 UTC  
+Last updated: 23-09-09 17:26:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -43,8 +43,8 @@ Rank | Username | Totals Tips
 40 | ZukoBih | 3,413,767
 41 | bray_martin03 | 3,207,088
 42 | Dry_Badger_2403 | 3,193,857
-43 | LordBobTheWhale | 3,118,621
-44 | zdubs | 3,110,534
+43 | zdubs | 3,163,197
+44 | LordBobTheWhale | 3,118,621
 45 | GuyOne | 2,983,799
 46 | Mean_Bandicoot_7481 | 2,752,108
 47 | DontLaughArt | 2,743,453
@@ -237,9 +237,9 @@ Rank | Username | Totals Tips
 234 | Street_Addd | 171,939
 235 | MymannosaurusRex | 171,317
 236 | high5s_inureye | 168,388
-237 | DamnWhySoLow | 166,675
-238 | MelonFarmer420 | 165,456
-239 | sjakkpila | 164,883
+237 | sjakkpila | 167,546
+238 | DamnWhySoLow | 166,675
+239 | MelonFarmer420 | 165,456
 240 | DrThunderHandz | 163,658
 241 | 6reficul | 153,884
 242 | martymartinator | 152,560
@@ -331,9 +331,9 @@ Rank | Username | Totals Tips
 328 | TheOneWhoCared | 78,239
 329 | mokkingjay | 77,914
 330 | HelicopterDear6064 | 77,619
-331 | Derefringence | 77,095
-332 | Admirito | 77,027
-333 | XeroGrave | 76,648
+331 | XeroGrave | 77,337
+332 | Derefringence | 77,095
+333 | Admirito | 77,027
 334 | Heycheckthisout20 | 75,608
 335 | MedicineMaterial3501 | 74,654
 336 | Steadfast_Apparition | 74,506
@@ -351,7 +351,7 @@ Rank | Username | Totals Tips
 348 | Dazzling_Marzipan474 | 68,613
 349 | shellystarzz | 68,548
 350 | AnduriII | 68,313
-351 | Bobocod | 66,680
+351 | Bobocod | 67,914
 352 | Friendly-Airline2426 | 66,547
 353 | 1ndy1 | 65,766
 354 | imp3order | 65,546
@@ -395,7 +395,7 @@ Rank | Username | Totals Tips
 392 | ConeHead710 | 52,012
 393 | d_Shazam_b | 51,991
 394 | d0ntmess87 | 51,278
-395 | SaberTurret | 50,376
+395 | SaberTurret | 50,984
 396 | Outside-Wolf5928 | 50,096
 397 | Yogi_Kat | 49,785
 398 | hey_barry | 49,698
@@ -456,20 +456,20 @@ Rank | Username | Totals Tips
 453 | genesis_crazy_one | 36,237
 454 | ASingleGuitarString | 35,602
 455 | TRANZHUMANIST | 35,069
-456 | BelowAveIntelligence | 34,132
-457 | foreignGER | 34,119
-458 | Obvious-Ask-5747 | 33,806
-459 | Big-Researcher-3855 | 33,621
-460 | PoDunkYuppie | 33,513
-461 | Gerboogler | 33,314
-462 | See0tter | 33,242
-463 | xxapplej4ckx | 33,181
-464 | Truffle_Shuffle_85 | 32,895
-465 | redditavatar555 | 32,875
-466 | himthecool21 | 32,647
-467 | n00b1shm4n | 32,159
-468 | Originalibb | 32,157
-469 | SirPesoOtaku | 32,061
+456 | SirPesoOtaku | 34,724
+457 | BelowAveIntelligence | 34,132
+458 | foreignGER | 34,119
+459 | Obvious-Ask-5747 | 33,806
+460 | Big-Researcher-3855 | 33,621
+461 | PoDunkYuppie | 33,513
+462 | Gerboogler | 33,314
+463 | See0tter | 33,242
+464 | xxapplej4ckx | 33,181
+465 | Truffle_Shuffle_85 | 32,895
+466 | redditavatar555 | 32,875
+467 | himthecool21 | 32,647
+468 | n00b1shm4n | 32,159
+469 | Originalibb | 32,157
 470 | mbashs | 31,747
 471 | Motor-breath8 | 31,279
 472 | OutTop | 31,069
