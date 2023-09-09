@@ -1,4 +1,4 @@
-Last updated: 23-09-09 23:41:54 UTC  
+Last updated: 23-09-09 23:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -100,21 +100,21 @@ Rank | Username | Totals Tips
 97 | Cravensworth_redux | 790,803
 98 | Westy3000 | 785,820
 99 | ziggybri | 783,043
-100 | Lillica_Golden_SHIB | 765,618
-101 | RegalReptile_ | 757,249
-102 | Alanski22 | 738,178
-103 | virmamies | 718,771
-104 | starterpack420694 | 710,420
-105 | WarmIyWacky | 703,049
-106 | frickdom | 697,263
-107 | Starterpack69420 | 696,969
-108 | abracadabra087 | 694,465
-109 | Obi1eyeKenobi | 690,237
-110 | firstmatedotxyz | 688,743
-111 | Duskopia | 680,133
-112 | Due_Insurance8159 | 678,620
-113 | dopelifer09 | 678,404
-114 | Korean_Street_Pizza | 678,158
+100 | Korean_Street_Pizza | 778,158
+101 | Lillica_Golden_SHIB | 765,618
+102 | RegalReptile_ | 757,249
+103 | Alanski22 | 738,178
+104 | virmamies | 718,771
+105 | starterpack420694 | 710,420
+106 | WarmIyWacky | 703,049
+107 | frickdom | 697,263
+108 | Starterpack69420 | 696,969
+109 | abracadabra087 | 694,465
+110 | Obi1eyeKenobi | 690,237
+111 | firstmatedotxyz | 688,743
+112 | Duskopia | 680,133
+113 | Due_Insurance8159 | 678,620
+114 | dopelifer09 | 678,404
 115 | SKITZ_ZA | 676,057
 116 | piebagz | 661,815
 117 | MartynDr | 652,270
@@ -141,9 +141,9 @@ Rank | Username | Totals Tips
 138 | AcceptableLeg8751 | 500,000
 139 | Successful-Walk-3902 | 498,794
 140 | Lady_Lucks_Man | 470,704
-141 | sinlesco | 462,490
-142 | WarmlyWacky | 462,118
-143 | PortCity_MadMan | 456,309
+141 | PortCity_MadMan | 466,961
+142 | sinlesco | 462,490
+143 | WarmlyWacky | 462,118
 144 | WhateverAlready | 455,301
 145 | MediaPrestigious8342 | 453,839
 146 | adrifing | 443,831
