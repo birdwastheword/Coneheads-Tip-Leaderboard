@@ -1,4 +1,4 @@
-Last updated: 23-09-09 15:00:56 UTC  
+Last updated: 23-09-09 15:16:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | IveDoneItAtLast | 4,912,744
+27 | IveDoneItAtLast | 4,913,550
 28 | thelonliestcrowd | 4,906,540
 29 | Ginomania | 4,828,012
 30 | rikbona | 4,540,773
@@ -181,9 +181,9 @@ Rank | Username | Totals Tips
 178 | MadScientistTheFirst | 280,469
 179 | astro_nut_ | 280,463
 180 | maxfra | 280,067
-181 | Flimsy_Brilliant_239 | 272,455
-182 | Final-Scar-941 | 271,039
-183 | fettskull | 270,623
+181 | fettskull | 273,286
+182 | Flimsy_Brilliant_239 | 272,455
+183 | Final-Scar-941 | 271,039
 184 | _Mitchee_ | 269,156
 185 | SetoXlll | 266,136
 186 | shiesto | 266,111
