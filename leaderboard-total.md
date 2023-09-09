@@ -1,4 +1,4 @@
-Last updated: 23-09-09 18:30:44 UTC  
+Last updated: 23-09-09 18:40:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,374,113
-9 | cutsickass | 16,073,279
+9 | cutsickass | 16,193,279
 10 | crypto_grandma | 13,632,565
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -56,7 +56,7 @@ Rank | Username | Totals Tips
 53 | Autom4tic_Soze | 2,181,774
 54 | 002_timmy | 2,033,164
 55 | 0-Give-a-fucks | 1,989,335
-56 | Affectionate_Hand_76 | 1,954,263
+56 | Affectionate_Hand_76 | 1,959,263
 57 | swampyswede | 1,944,887
 58 | catlover-100 | 1,924,664
 59 | djrcollectables | 1,764,943
@@ -149,7 +149,7 @@ Rank | Username | Totals Tips
 146 | unhingedbigfoot | 439,874
 147 | Mopeiooo | 437,268
 148 | RazPie | 431,980
-149 | PortCity_MadMan | 426,597
+149 | PortCity_MadMan | 431,923
 150 | Lion-Hermit | 416,210
 151 | dronegeeks1 | 414,406
 152 | LrnFaroeseWthBergur | 409,488
@@ -199,7 +199,7 @@ Rank | Username | Totals Tips
 196 | Sattack4000 | 250,837
 197 | Gregoryonetulum | 249,309
 198 | BeardedBro_ | 248,627
-199 | thestonkinator | 246,260
+199 | thestonkinator | 246,949
 200 | joeviani | 241,717
 201 | Adrewmc | 241,177
 202 | tjex666 | 240,801
@@ -1154,10 +1154,10 @@ Rank | Username | Totals Tips
 1151 | hdkcbxv | 1
 1152 | Prestigious-Expert15 | 1
 1153 | mango9574 | 1
-1154 | SlowpokesEmporium | 1
-1155 | Ok_Instruction_4717 | 1
-1156 | SuperbCantaloupe1929 | 1
-1157 | Skull0 | 1
-1158 | Skywalker_047 | 1
-1159 | Park_With_No_S | 1
-1160 | final_lionel | 0
+1154 | final_lionel | 1
+1155 | SlowpokesEmporium | 1
+1156 | Ok_Instruction_4717 | 1
+1157 | SuperbCantaloupe1929 | 1
+1158 | Skull0 | 1
+1159 | Skywalker_047 | 1
+1160 | Park_With_No_S | 1
