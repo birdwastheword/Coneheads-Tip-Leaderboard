@@ -1,4 +1,4 @@
-Last updated: 23-09-09 19:50:48 UTC  
+Last updated: 23-09-09 20:00:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -148,8 +148,8 @@ Rank | Username | Totals Tips
 145 | adrifing | 443,831
 146 | unhingedbigfoot | 439,874
 147 | Mopeiooo | 437,268
-148 | RazPie | 431,980
-149 | PortCity_MadMan | 431,923
+148 | PortCity_MadMan | 437,249
+149 | RazPie | 431,980
 150 | Lion-Hermit | 416,210
 151 | dronegeeks1 | 414,406
 152 | LrnFaroeseWthBergur | 409,488
@@ -210,7 +210,7 @@ Rank | Username | Totals Tips
 207 | Conetent | 222,451
 208 | SourBeefHoop | 217,512
 209 | Significant_Talk4943 | 215,539
-210 | Ashamed_Raccoon9918 | 214,544
+210 | Ashamed_Raccoon9918 | 214,964
 211 | yahuurdme | 213,714
 212 | Beenthorny | 212,362
 213 | SigSalvadore | 212,358
