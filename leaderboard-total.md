@@ -1,4 +1,4 @@
-Last updated: 23-09-09 08:01:09 UTC  
+Last updated: 23-09-09 08:21:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -404,9 +404,9 @@ Rank | Username | Totals Tips
 401 | shredslanding | 46,650
 402 | Oue | 46,352
 403 | skatistic | 46,287
-404 | Drlitez | 45,436
-405 | NickkyDC | 45,379
-406 | Complete-Tadpole-728 | 45,368
+404 | Complete-Tadpole-728 | 46,208
+405 | Drlitez | 45,436
+406 | NickkyDC | 45,379
 407 | tentazoc | 45,078
 408 | Name_Trikolon | 45,002
 409 | acfranks | 44,663
