@@ -1,4 +1,4 @@
-Last updated: 23-09-08 23:50:29 UTC  
+Last updated: 23-09-09 00:22:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,341,858
-14 | SammyCraigar | 10,465,355
+14 | SammyCraigar | 10,470,681
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,901,214
-28 | IveDoneItAtLast | 4,883,598
+28 | IveDoneItAtLast | 4,886,261
 29 | Ginomania | 4,798,111
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | GooderZBK | 1,617,267
 63 | djrcollectables | 1,603,694
 64 | KONGXIANG | 1,584,177
-65 | evilninjarobot | 1,523,413
+65 | evilninjarobot | 1,528,739
 66 | YarOldeOrchard | 1,427,176
 67 | ultra_terrestrial | 1,386,806
 68 | LongCauliflower6791 | 1,382,103
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | junkwatch | 534,983
 131 | DogSpark84 | 532,097
 132 | doktastonks | 521,325
-133 | crodbtc | 516,278
+133 | crodbtc | 518,941
 134 | Allions1 | 514,630
 135 | f0n1xr131ng | 509,681
 136 | Crypto-4-Freedom | 502,867
@@ -147,7 +147,7 @@ Rank | Username | Totals Tips
 144 | adrifing | 443,831
 145 | unhingedbigfoot | 439,874
 146 | Mopeiooo | 437,268
-147 | RazPie | 429,317
+147 | RazPie | 431,980
 148 | Lion-Hermit | 416,210
 149 | dronegeeks1 | 414,406
 150 | LrnFaroeseWthBergur | 409,488
@@ -408,8 +408,8 @@ Rank | Username | Totals Tips
 405 | tentazoc | 45,078
 406 | SaberTurret | 45,050
 407 | Name_Trikolon | 45,002
-408 | acfranks | 44,663
-409 | Complete-Tadpole-728 | 44,459
+408 | Complete-Tadpole-728 | 44,879
+409 | acfranks | 44,663
 410 | Kilv3r | 44,021
 411 | Coneboy2663 | 43,852
 412 | 4gsboofd | 43,377
