@@ -1,4 +1,4 @@
-Last updated: 23-09-09 09:32:56 UTC  
+Last updated: 23-09-09 09:41:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,371,450
-9 | cutsickass | 15,978,279
+9 | cutsickass | 16,008,279
 10 | crypto_grandma | 13,625,702
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -62,8 +62,8 @@ Rank | Username | Totals Tips
 59 | Ten-Mins-Late | 1,707,373
 60 | investigator100 | 1,659,246
 61 | CMDRGlamdring | 1,650,367
-62 | GooderZBK | 1,617,267
-63 | djrcollectables | 1,603,694
+62 | djrcollectables | 1,630,324
+63 | GooderZBK | 1,617,267
 64 | KONGXIANG | 1,584,177
 65 | evilninjarobot | 1,528,739
 66 | YarOldeOrchard | 1,427,176
@@ -74,9 +74,9 @@ Rank | Username | Totals Tips
 71 | Mundane-Farm-4117 | 1,359,176
 72 | saintajoras | 1,239,236
 73 | revdrgonzo | 1,235,635
-74 | jimfird | 1,214,350
-75 | HestiaIsTheBestia | 1,188,046
-76 | Richicash | 1,181,855
+74 | Richicash | 1,231,855
+75 | jimfird | 1,214,350
+76 | HestiaIsTheBestia | 1,188,046
 77 | Feetfailmenot | 1,170,705
 78 | Hot_Potato_Salad | 1,147,226
 79 | beastlybaker | 1,138,701
