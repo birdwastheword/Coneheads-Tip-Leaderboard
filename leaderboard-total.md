@@ -1,4 +1,4 @@
-Last updated: 23-09-09 21:00:49 UTC  
+Last updated: 23-09-09 21:14:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -79,7 +79,7 @@ Rank | Username | Totals Tips
 76 | jimfird | 1,215,366
 77 | HestiaIsTheBestia | 1,188,046
 78 | Feetfailmenot | 1,170,705
-79 | Hot_Potato_Salad | 1,147,226
+79 | Hot_Potato_Salad | 1,147,489
 80 | beastlybaker | 1,138,701
 81 | freechickens | 1,028,386
 82 | avatarbot | 1,027,000
@@ -145,8 +145,8 @@ Rank | Username | Totals Tips
 142 | WarmlyWacky | 462,118
 143 | WhateverAlready | 455,301
 144 | MediaPrestigious8342 | 453,839
-145 | adrifing | 443,831
-146 | PortCity_MadMan | 439,912
+145 | PortCity_MadMan | 445,237
+146 | adrifing | 443,831
 147 | unhingedbigfoot | 439,874
 148 | Mopeiooo | 437,268
 149 | RazPie | 431,980
@@ -176,10 +176,10 @@ Rank | Username | Totals Tips
 173 | Extreme_Issue7325 | 295,890
 174 | send_tacoz | 293,576
 175 | FluffyAspie | 289,016
-176 | deedopete | 285,361
-177 | monkeybombed | 284,315
-178 | dinoyeti | 283,881
-179 | fettskull | 283,328
+176 | fettskull | 288,654
+177 | deedopete | 285,361
+178 | monkeybombed | 284,315
+179 | dinoyeti | 283,881
 180 | MadScientistTheFirst | 280,469
 181 | astro_nut_ | 280,463
 182 | maxfra | 280,067
@@ -404,7 +404,7 @@ Rank | Username | Totals Tips
 401 | Levl1Critter | 49,152
 402 | Dolce_00 | 48,683
 403 | Atorcran | 48,623
-404 | Complete-Tadpole-728 | 47,117
+404 | Complete-Tadpole-728 | 47,537
 405 | shredslanding | 46,650
 406 | Oue | 46,352
 407 | skatistic | 46,287
