@@ -1,4 +1,4 @@
-Last updated: 23-09-09 09:41:26 UTC  
+Last updated: 23-09-09 09:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -128,7 +128,7 @@ Rank | Username | Totals Tips
 125 | Independent_Heart_15 | 578,825
 126 | Korean_Street_Pizza | 575,473
 127 | StepAsideSuckers | 543,358
-128 | junkwatch | 541,569
+128 | junkwatch | 542,409
 129 | scientifichistorian | 539,560
 130 | shreyaskg | 538,211
 131 | DogSpark84 | 532,097
@@ -175,9 +175,9 @@ Rank | Username | Totals Tips
 172 | Extreme_Issue7325 | 295,201
 173 | send_tacoz | 293,576
 174 | deedopete | 285,361
-175 | monkeybombed | 284,214
-176 | dinoyeti | 283,881
-177 | FluffyAspie | 283,733
+175 | FluffyAspie | 284,423
+176 | monkeybombed | 284,214
+177 | dinoyeti | 283,881
 178 | MadScientistTheFirst | 280,469
 179 | astro_nut_ | 280,463
 180 | maxfra | 280,067
@@ -224,8 +224,8 @@ Rank | Username | Totals Tips
 221 | AverageLiberalJoe | 195,007
 222 | ShortBusCult | 193,533
 223 | RiightYouKnow | 193,329
-224 | bakerdawg555 | 192,028
-225 | Most_Being_4002 | 192,000
+224 | Most_Being_4002 | 192,420
+225 | bakerdawg555 | 192,028
 226 | Iulian_TechNewb | 190,179
 227 | TubeNerd92 | 184,746
 228 | nooobmaester69 | 183,460
@@ -450,7 +450,7 @@ Rank | Username | Totals Tips
 447 | redditisalt | 37,307
 448 | Imalittlestitious86 | 37,090
 449 | cryotosensei | 37,000
-450 | FalloutAssasin | 36,594
+450 | FalloutAssasin | 36,663
 451 | degree-01 | 36,486
 452 | genesis_crazy_one | 36,237
 453 | ASingleGuitarString | 35,602
