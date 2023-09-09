@@ -1,4 +1,4 @@
-Last updated: 23-09-09 05:50:36 UTC  
+Last updated: 23-09-09 06:00:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -19,8 +19,8 @@ Rank | Username | Totals Tips
 16 | ArtConsitent | 8,532,379
 17 | Permanent_WSB_Bull | 8,522,155
 18 | SpookySYN | 8,305,509
-19 | Homeslicekilla | 7,995,797
-20 | avyun | 7,992,498
+19 | avyun | 7,999,467
+20 | Homeslicekilla | 7,995,797
 21 | Puddin-Luv | 7,048,546
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,678,248
@@ -120,8 +120,8 @@ Rank | Username | Totals Tips
 117 | femacampcouncilor | 642,812
 118 | nichnotnick | 635,444
 119 | slirpo | 631,180
-120 | superlonelyboy | 611,419
-121 | formidable-opponent | 610,172
+120 | formidable-opponent | 625,726
+121 | superlonelyboy | 611,419
 122 | __PDS__ | 595,709
 123 | El_Gordone | 592,784
 124 | Burzzzt88 | 590,809
