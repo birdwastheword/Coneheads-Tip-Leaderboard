@@ -1,4 +1,4 @@
-Last updated: 23-09-09 11:30:46 UTC  
+Last updated: 23-09-09 11:40:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,903,877
 28 | IveDoneItAtLast | 4,896,913
-29 | Ginomania | 4,801,382
+29 | Ginomania | 4,828,012
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,456,680
@@ -46,11 +46,11 @@ Rank | Username | Totals Tips
 43 | LordBobTheWhale | 3,116,797
 44 | GuyOne | 2,983,799
 45 | Mean_Bandicoot_7481 | 2,752,108
-46 | DontLaughArt | 2,738,885
+46 | DontLaughArt | 2,739,493
 47 | Fenrir-1919 | 2,643,963
 48 | _Royal_Insylum | 2,603,787
 49 | zdubs | 2,586,567
-50 | ImAlekBan | 2,504,223
+50 | ImAlekBan | 2,514,223
 51 | possibili-teas | 2,399,515
 52 | Autom4tic_Soze | 2,181,774
 53 | 002_timmy | 2,033,164
@@ -163,7 +163,7 @@ Rank | Username | Totals Tips
 160 | farmertypoerror | 359,212
 161 | DAMG808 | 355,432
 162 | Outrageous-Skill-464 | 344,174
-163 | Tinman_ApE | 342,447
+163 | Tinman_ApE | 343,055
 164 | anony666mous | 341,008
 165 | tsudrat | 340,707
 166 | EffinDrongoC | 312,738
