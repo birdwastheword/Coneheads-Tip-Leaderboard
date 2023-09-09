@@ -1,4 +1,4 @@
-Last updated: 23-09-09 05:30:45 UTC  
+Last updated: 23-09-09 05:40:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -126,7 +126,7 @@ Rank | Username | Totals Tips
 123 | El_Gordone | 592,784
 124 | Burzzzt88 | 590,809
 125 | Independent_Heart_15 | 578,825
-126 | Korean_Street_Pizza | 562,810
+126 | Korean_Street_Pizza | 572,810
 127 | StepAsideSuckers | 543,358
 128 | junkwatch | 540,729
 129 | scientifichistorian | 539,560
