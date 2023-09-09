@@ -1,4 +1,4 @@
-Last updated: 23-09-09 20:40:32 UTC  
+Last updated: 23-09-09 20:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,467,162
 27 | IveDoneItAtLast | 5,083,121
-28 | thelonliestcrowd | 4,919,855
+28 | thelonliestcrowd | 4,922,518
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -273,10 +273,10 @@ Rank | Username | Totals Tips
 270 | stupidcupid112 | 121,421
 271 | lucivaryas | 121,420
 272 | Schl0tz | 120,000
-273 | CaptainCheeseCake | 118,644
-274 | street_shark_puppet | 116,891
-275 | lordciders | 116,706
-276 | ItailianStallion101 | 116,501
+273 | ItailianStallion101 | 119,164
+274 | CaptainCheeseCake | 118,644
+275 | street_shark_puppet | 116,891
+276 | lordciders | 116,706
 277 | mvea | 115,748
 278 | xSkyFa11x | 114,768
 279 | AlternativeBag2619 | 114,483
@@ -446,7 +446,7 @@ Rank | Username | Totals Tips
 443 | sM0k3dR4Gn | 38,045
 444 | ysnmingle | 38,038
 445 | samer109 | 37,973
-446 | FalloutAssasin | 37,772
+446 | FalloutAssasin | 37,841
 447 | onetrueSage | 37,633
 448 | shitwhenismycakeday | 37,409
 449 | redditisalt | 37,307
@@ -754,13 +754,13 @@ Rank | Username | Totals Tips
 751 | Buzzalu | 4,824
 752 | Fcbp | 4,800
 753 | billw1zz | 4,791
-754 | Strict_Berry366 | 4,680
-755 | AnimeFlamingo | 4,620
-756 | Photo_Shop_Beast | 4,585
-757 | Sledheadjack | 4,528
-758 | JAlbert653 | 4,515
-759 | FoLKOM | 4,422
-760 | RedditReader825 | 4,400
+754 | RedditReader825 | 4,769
+755 | Strict_Berry366 | 4,680
+756 | AnimeFlamingo | 4,620
+757 | Photo_Shop_Beast | 4,585
+758 | Sledheadjack | 4,528
+759 | JAlbert653 | 4,515
+760 | FoLKOM | 4,422
 761 | Defeat-the-Kraken | 4,379
 762 | _dual1ty | 4,333
 763 | DepressedVegabond | 4,300
