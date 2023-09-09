@@ -1,4 +1,4 @@
-Last updated: 23-09-09 08:40:58 UTC  
+Last updated: 23-09-09 08:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | ziggybri | 782,435
 99 | Lillica_Golden_SHIB | 764,604
 100 | RegalReptile_ | 757,148
-101 | Alanski22 | 732,432
+101 | Alanski22 | 735,095
 102 | virmamies | 718,771
 103 | starterpack420694 | 710,420
 104 | WarmIyWacky | 703,049
