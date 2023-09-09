@@ -1,4 +1,4 @@
-Last updated: 23-09-09 19:30:41 UTC  
+Last updated: 23-09-09 19:40:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -20,7 +20,7 @@ Rank | Username | Totals Tips
 17 | Permanent_WSB_Bull | 8,522,155
 18 | SpookySYN | 8,358,769
 19 | avyun | 8,006,436
-20 | Homeslicekilla | 7,995,797
+20 | Homeslicekilla | 7,998,462
 21 | Puddin-Luv | 7,051,629
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,678,668
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | djrcollectables | 1,764,943
 60 | dealkhabari | 1,763,283
 61 | Ten-Mins-Late | 1,707,793
-62 | investigator100 | 1,669,898
+62 | investigator100 | 1,687,887
 63 | CMDRGlamdring | 1,653,030
 64 | GooderZBK | 1,617,267
 65 | KONGXIANG | 1,584,177
@@ -222,10 +222,10 @@ Rank | Username | Totals Tips
 219 | CedricDiccory | 197,932
 220 | sudrats | 197,124
 221 | redditavanft | 195,122
-222 | AverageLiberalJoe | 195,007
-223 | ShortBusCult | 193,533
-224 | RiightYouKnow | 193,329
-225 | Most_Being_4002 | 192,420
+222 | Most_Being_4002 | 195,083
+223 | AverageLiberalJoe | 195,007
+224 | ShortBusCult | 193,533
+225 | RiightYouKnow | 193,329
 226 | bakerdawg555 | 192,028
 227 | Iulian_TechNewb | 190,179
 228 | skollywag92 | 185,501
@@ -283,8 +283,8 @@ Rank | Username | Totals Tips
 280 | flying_bacon | 111,929
 281 | adrefofadre | 111,817
 282 | lucivaryas | 111,420
-283 | PushyDevolution | 110,216
-284 | Strong_Constant_1190 | 109,921
+283 | Strong_Constant_1190 | 110,325
+284 | PushyDevolution | 110,216
 285 | Jadenindubai | 107,206
 286 | Jlt42000 | 107,091
 287 | AD_VICTORIAM_x | 106,876
@@ -500,7 +500,7 @@ Rank | Username | Totals Tips
 497 | BottleNcanClapUrHand | 26,658
 498 | DOGETHEEGOD | 26,580
 499 | Trelucatre | 26,469
-500 | Practical-Store9603 | 26,000
+500 | Practical-Store9603 | 26,420
 501 | puzzled__panther | 26,000
 502 | Primary_Technical | 26,000
 503 | iamannonymous27 | 25,840
