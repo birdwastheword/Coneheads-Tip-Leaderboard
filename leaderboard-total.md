@@ -1,4 +1,4 @@
-Last updated: 23-09-09 22:30:49 UTC  
+Last updated: 23-09-09 22:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,467,162
-27 | IveDoneItAtLast | 5,117,805
+27 | IveDoneItAtLast | 5,123,813
 28 | thelonliestcrowd | 4,931,261
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | bray_martin03 | 3,207,089
 43 | Dry_Badger_2403 | 3,193,857
 44 | LordBobTheWhale | 3,118,621
-45 | GuyOne | 2,983,799
+45 | GuyOne | 3,008,799
 46 | Mean_Bandicoot_7481 | 2,752,108
 47 | DontLaughArt | 2,743,453
 48 | Fenrir-1919 | 2,646,626
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | billywright4 | 794,661
 96 | ashketchup422 | 794,067
 97 | Cravensworth_redux | 790,803
-98 | Westy3000 | 783,598
+98 | Westy3000 | 785,820
 99 | ziggybri | 783,043
 100 | Lillica_Golden_SHIB | 765,618
 101 | RegalReptile_ | 757,249
@@ -145,7 +145,7 @@ Rank | Username | Totals Tips
 142 | WarmlyWacky | 462,118
 143 | WhateverAlready | 455,301
 144 | MediaPrestigious8342 | 453,839
-145 | PortCity_MadMan | 450,983
+145 | PortCity_MadMan | 453,646
 146 | adrifing | 443,831
 147 | unhingedbigfoot | 439,874
 148 | Mopeiooo | 437,268
@@ -257,8 +257,8 @@ Rank | Username | Totals Tips
 254 | GrowinStuffAndThings | 137,461
 255 | Outrageous-Ad8481 | 137,001
 256 | pythonskynet | 135,301
-257 | MorrisWayne | 133,416
-258 | wato4000 | 132,537
+257 | wato4000 | 134,526
+258 | MorrisWayne | 133,416
 259 | GoodMornEveGoodNight | 131,088
 260 | Kevin3683 | 130,622
 261 | ZeMadMan1 | 130,588
@@ -301,10 +301,10 @@ Rank | Username | Totals Tips
 298 | IOTA_Tesla | 96,607
 299 | 192000Hertz | 96,457
 300 | BrendanTFirefly | 95,347
-301 | wolfman333 | 93,986
-302 | CrossPuffs | 92,901
-303 | H3adshotfox77 | 92,575
-304 | Chill_Edoeard | 91,487
+301 | Chill_Edoeard | 94,820
+302 | wolfman333 | 93,986
+303 | CrossPuffs | 92,901
+304 | H3adshotfox77 | 92,575
 305 | urlz | 91,281
 306 | RollingSkull0 | 90,875
 307 | Backwood20 | 90,298
