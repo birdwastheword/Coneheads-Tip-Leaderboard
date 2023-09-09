@@ -1,4 +1,4 @@
-Last updated: 23-09-09 06:22:00 UTC  
+Last updated: 23-09-09 06:30:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -452,8 +452,8 @@ Rank | Username | Totals Tips
 449 | cryotosensei | 37,000
 450 | degree-01 | 36,486
 451 | genesis_crazy_one | 36,237
-452 | ASingleGuitarString | 35,602
-453 | FalloutAssasin | 35,484
+452 | FalloutAssasin | 35,691
+453 | ASingleGuitarString | 35,602
 454 | TRANZHUMANIST | 35,069
 455 | BelowAveIntelligence | 34,132
 456 | foreignGER | 34,119
