@@ -1,4 +1,4 @@
-Last updated: 23-09-09 13:40:44 UTC  
+Last updated: 23-09-09 13:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -38,12 +38,12 @@ Rank | Username | Totals Tips
 35 | send420nudes | 4,187,824
 36 | VIVOffical | 4,022,570
 37 | clean_cut89 | 3,710,813
-38 | thom_orrow | 3,683,207
+38 | thom_orrow | 3,683,276
 39 | LuminousViper | 3,478,754
 40 | ZukoBih | 3,411,104
 41 | bray_martin03 | 3,202,088
 42 | Dry_Badger_2403 | 3,193,857
-43 | LordBobTheWhale | 3,116,797
+43 | LordBobTheWhale | 3,117,405
 44 | GuyOne | 2,983,799
 45 | Mean_Bandicoot_7481 | 2,752,108
 46 | DontLaughArt | 2,742,764
@@ -148,7 +148,7 @@ Rank | Username | Totals Tips
 145 | unhingedbigfoot | 439,874
 146 | Mopeiooo | 437,268
 147 | RazPie | 431,980
-148 | PortCity_MadMan | 423,934
+148 | PortCity_MadMan | 426,597
 149 | Lion-Hermit | 416,210
 150 | dronegeeks1 | 414,406
 151 | LrnFaroeseWthBergur | 409,488
