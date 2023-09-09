@@ -1,4 +1,4 @@
-Last updated: 23-09-09 23:16:33 UTC  
+Last updated: 23-09-09 23:25:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Puddin-Luv | 7,051,629
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,679,696
-24 | Real_Player_0 | 6,585,872
+24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,467,162
 27 | IveDoneItAtLast | 5,145,666
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,207,089
 43 | Dry_Badger_2403 | 3,193,857
-44 | LordBobTheWhale | 3,118,621
+44 | LordBobTheWhale | 3,121,892
 45 | GuyOne | 3,008,799
 46 | Mean_Bandicoot_7481 | 2,752,108
 47 | DontLaughArt | 2,743,453
@@ -262,11 +262,11 @@ Rank | Username | Totals Tips
 259 | GoodMornEveGoodNight | 131,088
 260 | Kevin3683 | 130,622
 261 | ZeMadMan1 | 130,588
-262 | Mj_6o4 | 129,568
-263 | Awake-- | 128,173
-264 | robnectar | 127,974
-265 | CalligrapherEnough83 | 127,227
-266 | ItailianStallion101 | 127,153
+262 | ItailianStallion101 | 129,816
+263 | Mj_6o4 | 129,568
+264 | Awake-- | 128,173
+265 | robnectar | 127,974
+266 | CalligrapherEnough83 | 127,227
 267 | BitCone_CONE | 127,073
 268 | Trakorr | 125,110
 269 | DeanDeanington | 124,604
@@ -726,17 +726,17 @@ Rank | Username | Totals Tips
 723 | theBarefootedBastard | 5,896
 724 | Sir_Mobius_Mook | 5,840
 725 | stspts | 5,822
-726 | aPandox | 5,695
-727 | Makaveli4Sheez | 5,569
-728 | DioDilemma | 5,545
-729 | LATech99 | 5,463
-730 | dorinosss | 5,420
-731 | unacceptable_name25 | 5,395
-732 | Independent_Safe1351 | 5,352
-733 | froi203 | 5,326
-734 | moonmanuk | 5,326
-735 | Photo_Shop_Beast | 5,274
-736 | Nxnng | 5,264
+726 | Nxnng | 5,764
+727 | aPandox | 5,695
+728 | Makaveli4Sheez | 5,569
+729 | DioDilemma | 5,545
+730 | LATech99 | 5,463
+731 | dorinosss | 5,420
+732 | unacceptable_name25 | 5,395
+733 | Independent_Safe1351 | 5,352
+734 | froi203 | 5,326
+735 | moonmanuk | 5,326
+736 | Photo_Shop_Beast | 5,274
 737 | ineedmoney2024 | 5,243
 738 | --hermit | 5,219
 739 | gonzOkook | 5,169
