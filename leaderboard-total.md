@@ -1,4 +1,4 @@
-Last updated: 23-09-09 14:25:32 UTC  
+Last updated: 23-09-09 14:33:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -393,12 +393,12 @@ Rank | Username | Totals Tips
 390 | ConeHead710 | 52,012
 391 | d_Shazam_b | 51,991
 392 | d0ntmess87 | 51,278
-393 | Yogi_Kat | 49,785
-394 | hey_barry | 49,698
-395 | eatthebagels | 49,692
-396 | Levl1Critter | 49,152
-397 | Dolce_00 | 48,683
-398 | SaberTurret | 47,713
+393 | SaberTurret | 50,376
+394 | Yogi_Kat | 49,785
+395 | hey_barry | 49,698
+396 | eatthebagels | 49,692
+397 | Levl1Critter | 49,152
+398 | Dolce_00 | 48,683
 399 | Outside-Wolf5928 | 47,433
 400 | sicilian2124 | 46,866
 401 | shredslanding | 46,650
