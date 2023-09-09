@@ -1,4 +1,4 @@
-Last updated: 23-09-09 14:50:32 UTC  
+Last updated: 23-09-09 15:00:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,374,113
 9 | cutsickass | 16,068,279
-10 | crypto_grandma | 13,629,902
+10 | crypto_grandma | 13,632,565
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,491,858
@@ -59,10 +59,10 @@ Rank | Username | Totals Tips
 56 | swampyswede | 1,942,224
 57 | catlover-100 | 1,924,664
 58 | dealkhabari | 1,763,283
-59 | Ten-Mins-Late | 1,707,373
-60 | investigator100 | 1,659,246
-61 | CMDRGlamdring | 1,650,367
-62 | djrcollectables | 1,638,313
+59 | djrcollectables | 1,738,313
+60 | Ten-Mins-Late | 1,707,373
+61 | investigator100 | 1,659,246
+62 | CMDRGlamdring | 1,650,367
 63 | GooderZBK | 1,617,267
 64 | KONGXIANG | 1,584,177
 65 | evilninjarobot | 1,528,739
