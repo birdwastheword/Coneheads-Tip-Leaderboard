@@ -1,4 +1,4 @@
-Last updated: 23-09-09 22:17:18 UTC  
+Last updated: 23-09-09 22:30:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,491,858
-14 | SammyCraigar | 10,477,831
+14 | SammyCraigar | 10,483,157
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,533,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,467,162
-27 | IveDoneItAtLast | 5,109,816
+27 | IveDoneItAtLast | 5,117,805
 28 | thelonliestcrowd | 4,931,261
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -154,7 +154,7 @@ Rank | Username | Totals Tips
 151 | dronegeeks1 | 414,406
 152 | LrnFaroeseWthBergur | 409,488
 153 | Dripbot8 | 405,384
-154 | Creepy-Nectarine-225 | 389,511
+154 | Creepy-Nectarine-225 | 390,356
 155 | noface_reddit | 386,997
 156 | SHIFTY-T3RROR | 380,120
 157 | MisterM0H0 | 379,338
@@ -241,8 +241,8 @@ Rank | Username | Totals Tips
 238 | DamnWhySoLow | 166,675
 239 | MelonFarmer420 | 165,456
 240 | DrThunderHandz | 163,658
-241 | 6reficul | 153,884
-242 | martymartinator | 152,560
+241 | martymartinator | 155,223
+242 | 6reficul | 153,884
 243 | CoverYourMaskHoles | 151,719
 244 | NotFullyTerrestrial | 151,302
 245 | satoshi_oscar_wilde | 150,072
@@ -269,7 +269,7 @@ Rank | Username | Totals Tips
 266 | BitCone_CONE | 127,073
 267 | Trakorr | 125,110
 268 | DeanDeanington | 124,604
-269 | ItailianStallion101 | 121,827
+269 | ItailianStallion101 | 124,490
 270 | Sativa55555 | 121,550
 271 | stupidcupid112 | 121,421
 272 | lucivaryas | 121,420
@@ -406,9 +406,9 @@ Rank | Username | Totals Tips
 403 | Atorcran | 48,623
 404 | Complete-Tadpole-728 | 47,957
 405 | shredslanding | 46,650
-406 | Oue | 46,352
-407 | skatistic | 46,287
-408 | Significant-Bet5762 | 45,821
+406 | Significant-Bet5762 | 46,510
+407 | Oue | 46,352
+408 | skatistic | 46,287
 409 | Drlitez | 45,436
 410 | NickkyDC | 45,379
 411 | tentazoc | 45,078
@@ -625,11 +625,11 @@ Rank | Username | Totals Tips
 622 | Zealousideal-War6206 | 10,905
 623 | maurinet79 | 10,844
 624 | j9101a | 10,804
-625 | ancheli | 10,588
-626 | Straton_Conemont_Inc | 10,550
-627 | Background-Ad-2102 | 10,450
-628 | 73i1 | 10,412
-629 | Bobby_Juk | 10,348
+625 | Bobby_Juk | 10,768
+626 | ancheli | 10,588
+627 | Straton_Conemont_Inc | 10,550
+628 | Background-Ad-2102 | 10,450
+629 | 73i1 | 10,412
 630 | Gamestopisthe1 | 10,227
 631 | CM19901 | 10,138
 632 | Alexploded | 10,070
