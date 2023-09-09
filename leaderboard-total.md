@@ -1,4 +1,4 @@
-Last updated: 23-09-09 14:00:59 UTC  
+Last updated: 23-09-09 14:16:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | ZukoBih | 3,411,104
 41 | bray_martin03 | 3,202,088
 42 | Dry_Badger_2403 | 3,193,857
-43 | LordBobTheWhale | 3,117,405
+43 | LordBobTheWhale | 3,118,621
 44 | GuyOne | 2,983,799
 45 | Mean_Bandicoot_7481 | 2,752,108
 46 | DontLaughArt | 2,742,764
@@ -114,19 +114,19 @@ Rank | Username | Totals Tips
 111 | Due_Insurance8159 | 678,620
 112 | dopelifer09 | 678,404
 113 | SKITZ_ZA | 676,057
-114 | piebagz | 661,815
-115 | MartynDr | 652,260
-116 | MorrisBrett514 | 651,270
-117 | femacampcouncilor | 642,812
-118 | nichnotnick | 635,444
-119 | slirpo | 631,180
-120 | formidable-opponent | 627,280
-121 | superlonelyboy | 611,488
-122 | __PDS__ | 595,709
-123 | El_Gordone | 592,784
-124 | Burzzzt88 | 590,809
-125 | Independent_Heart_15 | 578,825
-126 | Korean_Street_Pizza | 575,473
+114 | Korean_Street_Pizza | 675,473
+115 | piebagz | 661,815
+116 | MartynDr | 652,260
+117 | MorrisBrett514 | 651,270
+118 | femacampcouncilor | 642,812
+119 | nichnotnick | 635,444
+120 | slirpo | 631,180
+121 | formidable-opponent | 627,280
+122 | superlonelyboy | 611,488
+123 | __PDS__ | 595,709
+124 | El_Gordone | 592,784
+125 | Burzzzt88 | 590,809
+126 | Independent_Heart_15 | 578,825
 127 | StepAsideSuckers | 543,358
 128 | junkwatch | 542,409
 129 | scientifichistorian | 539,560
@@ -174,8 +174,8 @@ Rank | Username | Totals Tips
 171 | legionticket | 296,054
 172 | Extreme_Issue7325 | 295,201
 173 | send_tacoz | 293,576
-174 | deedopete | 285,361
-175 | FluffyAspie | 284,423
+174 | FluffyAspie | 287,086
+175 | deedopete | 285,361
 176 | monkeybombed | 284,214
 177 | dinoyeti | 283,881
 178 | MadScientistTheFirst | 280,469
@@ -970,7 +970,7 @@ Rank | Username | Totals Tips
 967 | glouglas | 558
 968 | Professer__ | 558
 969 | makastrombini | 558
-970 | LimpPeanut5633 | 552
+970 | LimpPeanut5633 | 553
 971 | Dare2gamer | 544
 972 | Swordfish-Select | 543
 973 | justthebelton | 540
