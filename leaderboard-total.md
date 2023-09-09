@@ -1,4 +1,4 @@
-Last updated: 23-09-09 09:24:30 UTC  
+Last updated: 23-09-09 09:32:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -154,7 +154,7 @@ Rank | Username | Totals Tips
 151 | LrnFaroeseWthBergur | 409,488
 152 | Dripbot8 | 405,384
 153 | Creepy-Nectarine-225 | 389,511
-154 | noface_reddit | 380,134
+154 | noface_reddit | 384,334
 155 | SHIFTY-T3RROR | 380,120
 156 | MisterM0H0 | 379,338
 157 | zenhodl | 374,566
