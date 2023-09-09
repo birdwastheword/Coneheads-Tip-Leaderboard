@@ -1,4 +1,4 @@
-Last updated: 23-09-09 02:21:24 UTC  
+Last updated: 23-09-09 02:30:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | avyun | 7,992,498
 21 | Puddin-Luv | 7,045,883
 22 | Geniuskills | 6,882,870
-23 | ashinamune | 6,678,179
+23 | ashinamune | 6,678,248
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
@@ -68,8 +68,8 @@ Rank | Username | Totals Tips
 65 | evilninjarobot | 1,528,739
 66 | YarOldeOrchard | 1,427,176
 67 | ultra_terrestrial | 1,386,806
-68 | LongCauliflower6791 | 1,382,103
-69 | ValiantJudge29500 | 1,381,830
+68 | ValiantJudge29500 | 1,382,830
+69 | LongCauliflower6791 | 1,382,103
 70 | isthistomorrow_ | 1,381,135
 71 | Mundane-Farm-4117 | 1,359,176
 72 | saintajoras | 1,239,236
@@ -121,7 +121,7 @@ Rank | Username | Totals Tips
 118 | nichnotnick | 635,444
 119 | slirpo | 631,180
 120 | superlonelyboy | 611,419
-121 | formidable-opponent | 600,841
+121 | formidable-opponent | 609,395
 122 | __PDS__ | 595,709
 123 | El_Gordone | 592,784
 124 | Burzzzt88 | 590,809
