@@ -1,4 +1,4 @@
-Last updated: 23-09-09 01:58:45 UTC  
+Last updated: 23-09-09 02:21:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -128,7 +128,7 @@ Rank | Username | Totals Tips
 125 | Independent_Heart_15 | 578,825
 126 | Korean_Street_Pizza | 562,672
 127 | StepAsideSuckers | 543,358
-128 | junkwatch | 540,309
+128 | junkwatch | 540,729
 129 | scientifichistorian | 539,560
 130 | shreyaskg | 538,211
 131 | DogSpark84 | 532,097
