@@ -1,4 +1,4 @@
-Last updated: 23-09-09 08:21:20 UTC  
+Last updated: 23-09-09 08:30:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | KONGXIANG | 1,584,177
 65 | evilninjarobot | 1,528,739
 66 | YarOldeOrchard | 1,427,176
-67 | LongCauliflower6791 | 1,404,766
+67 | LongCauliflower6791 | 1,407,429
 68 | ultra_terrestrial | 1,386,806
 69 | ValiantJudge29500 | 1,385,493
 70 | isthistomorrow_ | 1,381,135
@@ -287,10 +287,10 @@ Rank | Username | Totals Tips
 284 | Jlt42000 | 107,091
 285 | AD_VICTORIAM_x | 106,876
 286 | i_wake_up_at_12 | 106,333
-287 | Chanyuui1 | 104,940
-288 | beanwiggin420 | 103,935
-289 | deathtr0 | 103,381
-290 | ItailianStallion101 | 103,186
+287 | ItailianStallion101 | 105,849
+288 | Chanyuui1 | 104,940
+289 | beanwiggin420 | 103,935
+290 | deathtr0 | 103,381
 291 | redditinchina | 102,781
 292 | ACorDC | 100,420
 293 | customsolitaires | 99,383
