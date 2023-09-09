@@ -1,4 +1,4 @@
-Last updated: 23-09-09 06:30:44 UTC  
+Last updated: 23-09-09 06:40:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,371,450
 9 | cutsickass | 15,946,561
-10 | crypto_grandma | 13,593,713
+10 | crypto_grandma | 13,596,376
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,391,858
@@ -23,13 +23,13 @@ Rank | Username | Totals Tips
 20 | Homeslicekilla | 7,995,797
 21 | Puddin-Luv | 7,048,546
 22 | Geniuskills | 6,882,870
-23 | ashinamune | 6,678,248
+23 | ashinamune | 6,678,668
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,903,877
 28 | IveDoneItAtLast | 4,896,913
-29 | Ginomania | 4,798,111
+29 | Ginomania | 4,798,719
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,456,680
@@ -406,7 +406,7 @@ Rank | Username | Totals Tips
 403 | skatistic | 46,287
 404 | Drlitez | 45,436
 405 | NickkyDC | 45,379
-406 | Complete-Tadpole-728 | 45,299
+406 | Complete-Tadpole-728 | 45,368
 407 | tentazoc | 45,078
 408 | Name_Trikolon | 45,002
 409 | acfranks | 44,663
@@ -450,9 +450,9 @@ Rank | Username | Totals Tips
 447 | redditisalt | 37,307
 448 | Imalittlestitious86 | 37,090
 449 | cryotosensei | 37,000
-450 | degree-01 | 36,486
-451 | genesis_crazy_one | 36,237
-452 | FalloutAssasin | 35,691
+450 | FalloutAssasin | 36,594
+451 | degree-01 | 36,486
+452 | genesis_crazy_one | 36,237
 453 | ASingleGuitarString | 35,602
 454 | TRANZHUMANIST | 35,069
 455 | BelowAveIntelligence | 34,132
