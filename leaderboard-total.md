@@ -1,4 +1,4 @@
-Last updated: 23-09-09 02:50:51 UTC  
+Last updated: 23-09-09 03:00:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -41,9 +41,9 @@ Rank | Username | Totals Tips
 38 | thom_orrow | 3,683,207
 39 | LuminousViper | 3,478,754
 40 | ZukoBih | 3,411,104
-41 | Dry_Badger_2403 | 3,193,857
-42 | LordBobTheWhale | 3,116,797
-43 | bray_martin03 | 3,102,088
+41 | bray_martin03 | 3,202,088
+42 | Dry_Badger_2403 | 3,193,857
+43 | LordBobTheWhale | 3,116,797
 44 | GuyOne | 2,853,909
 45 | Mean_Bandicoot_7481 | 2,752,108
 46 | DontLaughArt | 2,710,288
@@ -126,7 +126,7 @@ Rank | Username | Totals Tips
 123 | El_Gordone | 592,784
 124 | Burzzzt88 | 590,809
 125 | Independent_Heart_15 | 578,825
-126 | Korean_Street_Pizza | 562,672
+126 | Korean_Street_Pizza | 562,741
 127 | StepAsideSuckers | 543,358
 128 | junkwatch | 540,729
 129 | scientifichistorian | 539,560
@@ -149,7 +149,7 @@ Rank | Username | Totals Tips
 146 | Mopeiooo | 437,268
 147 | RazPie | 431,980
 148 | Lion-Hermit | 416,210
-149 | PortCity_MadMan | 415,525
+149 | PortCity_MadMan | 415,945
 150 | dronegeeks1 | 414,406
 151 | LrnFaroeseWthBergur | 409,488
 152 | Dripbot8 | 405,384
