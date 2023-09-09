@@ -1,4 +1,4 @@
-Last updated: 23-09-09 05:40:51 UTC  
+Last updated: 23-09-09 05:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -67,9 +67,9 @@ Rank | Username | Totals Tips
 64 | KONGXIANG | 1,584,177
 65 | evilninjarobot | 1,528,739
 66 | YarOldeOrchard | 1,427,176
-67 | ultra_terrestrial | 1,386,806
-68 | ValiantJudge29500 | 1,385,493
-69 | LongCauliflower6791 | 1,382,103
+67 | LongCauliflower6791 | 1,392,103
+68 | ultra_terrestrial | 1,386,806
+69 | ValiantJudge29500 | 1,385,493
 70 | isthistomorrow_ | 1,381,135
 71 | Mundane-Farm-4117 | 1,359,176
 72 | saintajoras | 1,239,236
@@ -77,7 +77,7 @@ Rank | Username | Totals Tips
 74 | jimfird | 1,214,350
 75 | HestiaIsTheBestia | 1,188,046
 76 | Richicash | 1,181,855
-77 | Feetfailmenot | 1,160,705
+77 | Feetfailmenot | 1,170,705
 78 | Hot_Potato_Salad | 1,147,226
 79 | beastlybaker | 1,138,701
 80 | freechickens | 1,028,386
@@ -406,9 +406,9 @@ Rank | Username | Totals Tips
 403 | skatistic | 46,287
 404 | Drlitez | 45,436
 405 | NickkyDC | 45,379
-406 | tentazoc | 45,078
-407 | Name_Trikolon | 45,002
-408 | Complete-Tadpole-728 | 44,879
+406 | Complete-Tadpole-728 | 45,299
+407 | tentazoc | 45,078
+408 | Name_Trikolon | 45,002
 409 | acfranks | 44,663
 410 | Kilv3r | 44,021
 411 | Coneboy2663 | 43,852
