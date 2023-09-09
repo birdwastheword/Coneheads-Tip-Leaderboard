@@ -109,5 +109,7 @@ Rank | Date | Username | Tip size | to User
 106 | 2023-09-03 20:59:59 | SpookySYN | 1,000,000| cutsickass
 107 | 2023-09-03 21:26:21 | jimfird | 1,000,000| transfermymoons
 108 | 2023-09-03 22:10:36 | Puddin-Luv | 1,000,000| cutsickass
+109 | 2023-09-09 16:43:25 | ZoomLong | 1,000,000| Korean_Street_Pizza
+110 | 2023-09-09 16:45:57 | ZoomLong | 1,000,000| zdubs
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
