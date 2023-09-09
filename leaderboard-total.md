@@ -1,4 +1,4 @@
-Last updated: 23-09-09 19:22:03 UTC  
+Last updated: 23-09-09 19:30:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Skank_cunt_42 | 5,467,162
 27 | IveDoneItAtLast | 4,933,121
 28 | thelonliestcrowd | 4,917,192
-29 | Ginomania | 4,836,001
+29 | Ginomania | 4,838,664
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,456,680
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | thom_orrow | 3,693,739
 39 | LuminousViper | 3,478,754
 40 | ZukoBih | 3,413,767
-41 | zdubs | 3,300,624
+41 | zdubs | 3,303,287
 42 | bray_martin03 | 3,207,088
 43 | Dry_Badger_2403 | 3,193,857
 44 | LordBobTheWhale | 3,118,621
@@ -182,8 +182,8 @@ Rank | Username | Totals Tips
 179 | MadScientistTheFirst | 280,469
 180 | astro_nut_ | 280,463
 181 | maxfra | 280,067
-182 | fettskull | 273,286
-183 | Flimsy_Brilliant_239 | 272,455
+182 | Flimsy_Brilliant_239 | 275,118
+183 | fettskull | 273,286
 184 | Final-Scar-941 | 271,039
 185 | _Mitchee_ | 269,156
 186 | SetoXlll | 266,136
