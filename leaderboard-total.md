@@ -1,4 +1,4 @@
-Last updated: 23-09-09 15:34:04 UTC  
+Last updated: 23-09-09 15:42:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | IveDoneItAtLast | 4,916,213
+27 | IveDoneItAtLast | 4,918,876
 28 | thelonliestcrowd | 4,906,540
 29 | Ginomania | 4,830,675
 30 | rikbona | 4,540,773
@@ -44,12 +44,12 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,202,088
 42 | Dry_Badger_2403 | 3,193,857
 43 | LordBobTheWhale | 3,118,621
-44 | GuyOne | 2,983,799
-45 | Mean_Bandicoot_7481 | 2,752,108
-46 | DontLaughArt | 2,742,764
-47 | Fenrir-1919 | 2,643,963
-48 | _Royal_Insylum | 2,603,787
-49 | zdubs | 2,589,230
+44 | zdubs | 3,089,230
+45 | GuyOne | 2,983,799
+46 | Mean_Bandicoot_7481 | 2,752,108
+47 | DontLaughArt | 2,742,764
+48 | Fenrir-1919 | 2,643,963
+49 | _Royal_Insylum | 2,603,787
 50 | ImAlekBan | 2,514,223
 51 | possibili-teas | 2,399,515
 52 | Autom4tic_Soze | 2,181,774
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | CMDRGlamdring | 1,650,367
 63 | GooderZBK | 1,617,267
 64 | KONGXIANG | 1,584,177
-65 | evilninjarobot | 1,528,739
+65 | evilninjarobot | 1,531,402
 66 | ultra_terrestrial | 1,428,875
 67 | YarOldeOrchard | 1,427,176
 68 | LongCauliflower6791 | 1,410,092
