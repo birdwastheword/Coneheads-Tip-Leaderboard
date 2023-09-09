@@ -1,4 +1,4 @@
-Last updated: 23-09-09 06:00:49 UTC  
+Last updated: 23-09-09 06:22:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,8 +9,8 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
 8 | _ships | 16,371,450
-9 | cutsickass | 15,916,561
-10 | crypto_grandma | 13,570,481
+9 | cutsickass | 15,946,561
+10 | crypto_grandma | 13,593,713
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,391,858
@@ -120,15 +120,15 @@ Rank | Username | Totals Tips
 117 | femacampcouncilor | 642,812
 118 | nichnotnick | 635,444
 119 | slirpo | 631,180
-120 | formidable-opponent | 625,726
-121 | superlonelyboy | 611,419
+120 | formidable-opponent | 626,503
+121 | superlonelyboy | 611,488
 122 | __PDS__ | 595,709
 123 | El_Gordone | 592,784
 124 | Burzzzt88 | 590,809
 125 | Independent_Heart_15 | 578,825
 126 | Korean_Street_Pizza | 572,810
 127 | StepAsideSuckers | 543,358
-128 | junkwatch | 540,729
+128 | junkwatch | 541,149
 129 | scientifichistorian | 539,560
 130 | shreyaskg | 538,211
 131 | DogSpark84 | 532,097
@@ -453,7 +453,7 @@ Rank | Username | Totals Tips
 450 | degree-01 | 36,486
 451 | genesis_crazy_one | 36,237
 452 | ASingleGuitarString | 35,602
-453 | FalloutAssasin | 35,139
+453 | FalloutAssasin | 35,484
 454 | TRANZHUMANIST | 35,069
 455 | BelowAveIntelligence | 34,132
 456 | foreignGER | 34,119
