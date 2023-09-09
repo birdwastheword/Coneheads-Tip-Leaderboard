@@ -1,4 +1,4 @@
-Last updated: 23-09-09 13:01:36 UTC  
+Last updated: 23-09-09 13:18:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,903,877
-28 | IveDoneItAtLast | 4,897,719
+28 | IveDoneItAtLast | 4,903,045
 29 | Ginomania | 4,828,012
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -132,7 +132,7 @@ Rank | Username | Totals Tips
 129 | scientifichistorian | 539,560
 130 | shreyaskg | 538,211
 131 | DogSpark84 | 532,097
-132 | crodbtc | 523,941
+132 | crodbtc | 526,604
 133 | doktastonks | 521,325
 134 | Allions1 | 514,630
 135 | f0n1xr131ng | 509,681
@@ -148,7 +148,7 @@ Rank | Username | Totals Tips
 145 | unhingedbigfoot | 439,874
 146 | Mopeiooo | 437,268
 147 | RazPie | 431,980
-148 | PortCity_MadMan | 421,271
+148 | PortCity_MadMan | 423,934
 149 | Lion-Hermit | 416,210
 150 | dronegeeks1 | 414,406
 151 | LrnFaroeseWthBergur | 409,488
@@ -449,8 +449,8 @@ Rank | Username | Totals Tips
 446 | shitwhenismycakeday | 37,409
 447 | redditisalt | 37,307
 448 | Imalittlestitious86 | 37,090
-449 | cryotosensei | 37,000
-450 | FalloutAssasin | 36,663
+449 | FalloutAssasin | 37,083
+450 | cryotosensei | 37,000
 451 | degree-01 | 36,486
 452 | genesis_crazy_one | 36,237
 453 | ASingleGuitarString | 35,602
