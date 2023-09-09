@@ -1,4 +1,4 @@
-Last updated: 23-09-09 20:30:36 UTC  
+Last updated: 23-09-09 20:40:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | VIVOffical | 4,022,570
 37 | clean_cut89 | 3,713,476
 38 | thom_orrow | 3,693,739
-39 | zdubs | 3,605,950
+39 | zdubs | 3,606,558
 40 | LuminousViper | 3,478,754
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,207,088
@@ -126,7 +126,7 @@ Rank | Username | Totals Tips
 123 | superlonelyboy | 611,488
 124 | __PDS__ | 595,709
 125 | El_Gordone | 592,784
-126 | Burzzzt88 | 590,809
+126 | Burzzzt88 | 591,229
 127 | Independent_Heart_15 | 578,825
 128 | StepAsideSuckers | 543,358
 129 | junkwatch | 542,409
@@ -304,8 +304,8 @@ Rank | Username | Totals Tips
 301 | wolfman333 | 93,986
 302 | CrossPuffs | 92,901
 303 | H3adshotfox77 | 92,575
-304 | urlz | 91,281
-305 | Chill_Edoeard | 91,067
+304 | Chill_Edoeard | 91,487
+305 | urlz | 91,281
 306 | RollingSkull0 | 90,875
 307 | Backwood20 | 90,298
 308 | DramaticProtogen | 90,274
