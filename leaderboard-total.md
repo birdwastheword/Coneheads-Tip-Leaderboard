@@ -1,4 +1,4 @@
-Last updated: 23-09-09 14:42:08 UTC  
+Last updated: 23-09-09 14:50:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | crypto_grandma | 13,629,902
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
-13 | transfermymoons | 11,391,858
+13 | transfermymoons | 11,491,858
 14 | SammyCraigar | 10,471,289
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,532,379
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | IveDoneItAtLast | 4,906,736
+27 | IveDoneItAtLast | 4,912,744
 28 | thelonliestcrowd | 4,906,540
 29 | Ginomania | 4,828,012
 30 | rikbona | 4,540,773
