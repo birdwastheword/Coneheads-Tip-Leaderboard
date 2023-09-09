@@ -1,4 +1,4 @@
-Last updated: 23-09-09 18:50:39 UTC  
+Last updated: 23-09-09 19:01:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,491,858
-14 | SammyCraigar | 10,472,505
+14 | SammyCraigar | 10,475,168
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,533,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | thom_orrow | 3,693,739
 39 | LuminousViper | 3,478,754
 40 | ZukoBih | 3,413,767
-41 | zdubs | 3,273,994
+41 | zdubs | 3,300,624
 42 | bray_martin03 | 3,207,088
 43 | Dry_Badger_2403 | 3,193,857
 44 | LordBobTheWhale | 3,118,621
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | CMDRGlamdring | 1,653,030
 64 | GooderZBK | 1,617,267
 65 | KONGXIANG | 1,584,177
-66 | evilninjarobot | 1,539,999
+66 | evilninjarobot | 1,542,662
 67 | ultra_terrestrial | 1,428,875
 68 | YarOldeOrchard | 1,427,176
 69 | LongCauliflower6791 | 1,410,092
@@ -76,7 +76,7 @@ Rank | Username | Totals Tips
 73 | saintajoras | 1,239,236
 74 | revdrgonzo | 1,235,635
 75 | Richicash | 1,231,855
-76 | jimfird | 1,214,858
+76 | jimfird | 1,215,366
 77 | HestiaIsTheBestia | 1,188,046
 78 | Feetfailmenot | 1,170,705
 79 | Hot_Potato_Salad | 1,147,226
