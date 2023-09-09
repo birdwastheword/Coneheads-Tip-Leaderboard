@@ -1,4 +1,4 @@
-Last updated: 23-09-09 10:19:03 UTC  
+Last updated: 23-09-09 10:30:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | _ships | 16,371,450
+8 | _ships | 16,374,113
 9 | cutsickass | 16,038,279
 10 | crypto_grandma | 13,625,702
 11 | HODL-THE-LINE | 12,469,181
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | LordBobTheWhale | 3,116,797
 44 | GuyOne | 2,983,799
 45 | Mean_Bandicoot_7481 | 2,752,108
-46 | DontLaughArt | 2,725,288
+46 | DontLaughArt | 2,736,222
 47 | Fenrir-1919 | 2,643,963
 48 | _Royal_Insylum | 2,603,787
 49 | zdubs | 2,586,567
@@ -66,9 +66,9 @@ Rank | Username | Totals Tips
 63 | GooderZBK | 1,617,267
 64 | KONGXIANG | 1,584,177
 65 | evilninjarobot | 1,528,739
-66 | YarOldeOrchard | 1,427,176
-67 | LongCauliflower6791 | 1,407,429
-68 | ultra_terrestrial | 1,386,806
+66 | ultra_terrestrial | 1,428,875
+67 | YarOldeOrchard | 1,427,176
+68 | LongCauliflower6791 | 1,407,429
 69 | ValiantJudge29500 | 1,385,493
 70 | isthistomorrow_ | 1,381,135
 71 | Mundane-Farm-4117 | 1,359,176
@@ -255,9 +255,9 @@ Rank | Username | Totals Tips
 252 | Legal-Appointment655 | 137,972
 253 | GrowinStuffAndThings | 137,461
 254 | Outrageous-Ad8481 | 137,001
-255 | MorrisWayne | 133,416
-256 | wato4000 | 132,537
-257 | pythonskynet | 131,949
+255 | pythonskynet | 134,612
+256 | MorrisWayne | 133,416
+257 | wato4000 | 132,537
 258 | GoodMornEveGoodNight | 131,088
 259 | Kevin3683 | 130,622
 260 | ZeMadMan1 | 130,588
