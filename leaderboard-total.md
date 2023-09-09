@@ -1,4 +1,4 @@
-Last updated: 23-09-09 10:50:41 UTC  
+Last updated: 23-09-09 11:00:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | doktastonks | 521,325
 134 | Allions1 | 514,630
 135 | f0n1xr131ng | 509,681
-136 | Crypto-4-Freedom | 502,867
+136 | Crypto-4-Freedom | 503,707
 137 | AcceptableLeg8751 | 500,000
 138 | Successful-Walk-3902 | 498,794
 139 | Lady_Lucks_Man | 467,235
