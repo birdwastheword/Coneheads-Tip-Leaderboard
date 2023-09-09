@@ -1,9 +1,9 @@
-Last updated: 23-09-09 19:13:32 UTC  
+Last updated: 23-09-09 19:22:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
 2 | Wonderful_Bad6531 | 36,209,109
-3 | nakamo-toe | 34,683,664
+3 | nakamo-toe | 34,693,664
 4 | waterhasnocalories | 30,825,011
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,145,581
@@ -27,9 +27,9 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,467,162
-27 | IveDoneItAtLast | 4,927,113
-28 | thelonliestcrowd | 4,914,529
-29 | Ginomania | 4,833,338
+27 | IveDoneItAtLast | 4,933,121
+28 | thelonliestcrowd | 4,917,192
+29 | Ginomania | 4,836,001
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,456,680
@@ -100,7 +100,7 @@ Rank | Username | Totals Tips
 97 | Cravensworth_redux | 790,803
 98 | Westy3000 | 783,598
 99 | ziggybri | 783,043
-100 | Lillica_Golden_SHIB | 765,549
+100 | Lillica_Golden_SHIB | 765,618
 101 | RegalReptile_ | 757,249
 102 | Alanski22 | 738,178
 103 | virmamies | 718,771
@@ -353,7 +353,7 @@ Rank | Username | Totals Tips
 350 | AnduriII | 68,313
 351 | Bobocod | 67,914
 352 | Friendly-Airline2426 | 66,547
-353 | 1ndy1 | 65,766
+353 | 1ndy1 | 66,455
 354 | imp3order | 65,546
 355 | damnusernamegotcutof | 65,004
 356 | zuzieey7719 | 64,618
@@ -613,14 +613,14 @@ Rank | Username | Totals Tips
 610 | reddit_saltyaf | 11,603
 611 | IndependenceHungry69 | 11,561
 612 | masstransience | 11,485
-613 | TheChillDyl | 11,298
-614 | SquatAngry | 11,285
-615 | This_Red_Apple | 11,260
-616 | Bramberken05 | 11,110
-617 | GaryJulesMCOC | 11,110
-618 | Arj_123 | 11,032
-619 | xllw | 11,000
-620 | ZeusDubstep | 10,934
+613 | ZeusDubstep | 11,442
+614 | TheChillDyl | 11,298
+615 | SquatAngry | 11,285
+616 | This_Red_Apple | 11,260
+617 | Bramberken05 | 11,110
+618 | GaryJulesMCOC | 11,110
+619 | Arj_123 | 11,032
+620 | xllw | 11,000
 621 | PurpleCoveredSnow | 10,915
 622 | Zealousideal-War6206 | 10,905
 623 | maurinet79 | 10,844
