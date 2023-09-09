@@ -1,4 +1,4 @@
-Last updated: 23-09-09 21:31:26 UTC  
+Last updated: 23-09-09 21:40:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,491,858
-14 | SammyCraigar | 10,475,168
+14 | SammyCraigar | 10,477,831
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,533,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -23,12 +23,12 @@ Rank | Username | Totals Tips
 20 | Homeslicekilla | 7,998,462
 21 | Puddin-Luv | 7,051,629
 22 | Geniuskills | 6,882,870
-23 | ashinamune | 6,679,276
+23 | ashinamune | 6,679,696
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,467,162
 27 | IveDoneItAtLast | 5,083,121
-28 | thelonliestcrowd | 4,922,518
+28 | thelonliestcrowd | 4,931,261
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -145,7 +145,7 @@ Rank | Username | Totals Tips
 142 | WarmlyWacky | 462,118
 143 | WhateverAlready | 455,301
 144 | MediaPrestigious8342 | 453,839
-145 | PortCity_MadMan | 445,237
+145 | PortCity_MadMan | 450,563
 146 | adrifing | 443,831
 147 | unhingedbigfoot | 439,874
 148 | Mopeiooo | 437,268
