@@ -1,4 +1,4 @@
-Last updated: 23-09-09 14:16:36 UTC  
+Last updated: 23-09-09 14:25:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,8 +27,8 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,903,877
-28 | IveDoneItAtLast | 4,903,045
+27 | IveDoneItAtLast | 4,906,316
+28 | thelonliestcrowd | 4,903,877
 29 | Ginomania | 4,828,012
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | evilninjarobot | 1,528,739
 66 | ultra_terrestrial | 1,428,875
 67 | YarOldeOrchard | 1,427,176
-68 | LongCauliflower6791 | 1,407,429
+68 | LongCauliflower6791 | 1,410,092
 69 | ValiantJudge29500 | 1,385,493
 70 | isthistomorrow_ | 1,381,135
 71 | Mundane-Farm-4117 | 1,359,176
@@ -283,11 +283,11 @@ Rank | Username | Totals Tips
 280 | lucivaryas | 111,420
 281 | PushyDevolution | 110,216
 282 | Strong_Constant_1190 | 109,921
-283 | Jadenindubai | 107,206
-284 | Jlt42000 | 107,091
-285 | AD_VICTORIAM_x | 106,876
-286 | i_wake_up_at_12 | 106,333
-287 | ItailianStallion101 | 105,849
+283 | ItailianStallion101 | 108,512
+284 | Jadenindubai | 107,206
+285 | Jlt42000 | 107,091
+286 | AD_VICTORIAM_x | 106,876
+287 | i_wake_up_at_12 | 106,333
 288 | Chanyuui1 | 104,940
 289 | beanwiggin420 | 103,935
 290 | deathtr0 | 103,381
@@ -322,14 +322,14 @@ Rank | Username | Totals Tips
 319 | standArtpluto | 82,100
 320 | Chill_Edoeard | 81,435
 321 | mastermarvs | 80,384
-322 | diamondbored | 79,886
-323 | Pwny_b0y | 79,447
-324 | GodOfWarGuy737 | 79,069
-325 | fleshlyLoath | 78,366
-326 | TheOneWhoCared | 78,239
-327 | mokkingjay | 77,914
-328 | HelicopterDear6064 | 77,619
-329 | youtooleyesing | 77,229
+322 | youtooleyesing | 79,892
+323 | diamondbored | 79,886
+324 | Pwny_b0y | 79,447
+325 | GodOfWarGuy737 | 79,069
+326 | fleshlyLoath | 78,366
+327 | TheOneWhoCared | 78,239
+328 | mokkingjay | 77,914
+329 | HelicopterDear6064 | 77,619
 330 | Derefringence | 77,095
 331 | Admirito | 77,027
 332 | XeroGrave | 76,648
