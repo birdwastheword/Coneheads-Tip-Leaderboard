@@ -1,4 +1,4 @@
-Last updated: 23-09-09 14:33:51 UTC  
+Last updated: 23-09-09 14:42:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,8 +27,8 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | IveDoneItAtLast | 4,906,316
-28 | thelonliestcrowd | 4,903,877
+27 | IveDoneItAtLast | 4,906,736
+28 | thelonliestcrowd | 4,906,540
 29 | Ginomania | 4,828,012
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -114,7 +114,7 @@ Rank | Username | Totals Tips
 111 | Due_Insurance8159 | 678,620
 112 | dopelifer09 | 678,404
 113 | SKITZ_ZA | 676,057
-114 | Korean_Street_Pizza | 675,473
+114 | Korean_Street_Pizza | 675,495
 115 | piebagz | 661,815
 116 | MartynDr | 652,260
 117 | MorrisBrett514 | 651,270
