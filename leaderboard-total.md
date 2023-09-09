@@ -1,4 +1,4 @@
-Last updated: 23-09-09 04:21:27 UTC  
+Last updated: 23-09-09 04:30:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,118,944
 7 | ConeDesk | 17,947,653
-8 | _ships | 16,301,754
+8 | _ships | 16,371,450
 9 | cutsickass | 15,701,561
 10 | crypto_grandma | 13,565,155
 11 | HODL-THE-LINE | 12,469,181
@@ -121,7 +121,7 @@ Rank | Username | Totals Tips
 118 | nichnotnick | 635,444
 119 | slirpo | 631,180
 120 | superlonelyboy | 611,419
-121 | formidable-opponent | 609,395
+121 | formidable-opponent | 610,172
 122 | __PDS__ | 595,709
 123 | El_Gordone | 592,784
 124 | Burzzzt88 | 590,809
