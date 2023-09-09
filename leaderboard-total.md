@@ -1,4 +1,4 @@
-Last updated: 23-09-09 13:18:53 UTC  
+Last updated: 23-09-09 13:30:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | Ten-Mins-Late | 1,707,373
 60 | investigator100 | 1,659,246
 61 | CMDRGlamdring | 1,650,367
-62 | djrcollectables | 1,635,650
+62 | djrcollectables | 1,638,313
 63 | GooderZBK | 1,617,267
 64 | KONGXIANG | 1,584,177
 65 | evilninjarobot | 1,528,739
@@ -320,7 +320,7 @@ Rank | Username | Totals Tips
 317 | Puzzleheaded_Gift738 | 84,020
 318 | RollingSkull0 | 83,098
 319 | standArtpluto | 82,100
-320 | Chill_Edoeard | 81,015
+320 | Chill_Edoeard | 81,435
 321 | mastermarvs | 80,384
 322 | diamondbored | 79,886
 323 | Pwny_b0y | 79,447
