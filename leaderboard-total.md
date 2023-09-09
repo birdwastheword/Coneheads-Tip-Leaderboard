@@ -1,4 +1,4 @@
-Last updated: 23-09-09 02:40:44 UTC  
+Last updated: 23-09-09 02:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | DontLaughArt | 2,710,288
 47 | Fenrir-1919 | 2,643,963
 48 | _Royal_Insylum | 2,603,787
-49 | zdubs | 2,585,959
+49 | zdubs | 2,586,567
 50 | ImAlekBan | 2,504,223
 51 | possibili-teas | 2,399,515
 52 | Autom4tic_Soze | 2,181,774
@@ -149,8 +149,8 @@ Rank | Username | Totals Tips
 146 | Mopeiooo | 437,268
 147 | RazPie | 431,980
 148 | Lion-Hermit | 416,210
-149 | dronegeeks1 | 414,406
-150 | PortCity_MadMan | 410,199
+149 | PortCity_MadMan | 415,525
+150 | dronegeeks1 | 414,406
 151 | LrnFaroeseWthBergur | 409,488
 152 | Dripbot8 | 405,384
 153 | Creepy-Nectarine-225 | 389,511
