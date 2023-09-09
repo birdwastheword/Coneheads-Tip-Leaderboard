@@ -1,4 +1,4 @@
-Last updated: 23-09-09 22:40:40 UTC  
+Last updated: 23-09-09 22:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -14,12 +14,12 @@ Rank | Username | Totals Tips
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,491,858
-14 | SammyCraigar | 10,483,157
+14 | SammyCraigar | 10,485,820
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,533,379
 17 | Permanent_WSB_Bull | 8,522,155
 18 | SpookySYN | 8,358,769
-19 | avyun | 8,006,436
+19 | avyun | 8,075,856
 20 | Homeslicekilla | 7,998,462
 21 | Puddin-Luv | 7,051,629
 22 | Geniuskills | 6,882,870
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,467,162
-27 | IveDoneItAtLast | 5,123,813
+27 | IveDoneItAtLast | 5,138,912
 28 | thelonliestcrowd | 4,931,261
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -317,7 +317,7 @@ Rank | Username | Totals Tips
 314 | Hoppy_Doodle | 88,000
 315 | kwickle | 87,805
 316 | qwertywich | 87,473
-317 | AhhhUhmmm | 86,427
+317 | AhhhUhmmm | 86,496
 318 | Mother-Werewolf185 | 85,579
 319 | BeefaloSlim | 84,382
 320 | Puzzleheaded_Gift738 | 84,020
@@ -376,13 +376,13 @@ Rank | Username | Totals Tips
 373 | meme_used | 58,516
 374 | Trink333 | 58,338
 375 | phrodreky | 58,122
-376 | Outrageous_Storm6537 | 56,938
-377 | ProfessionalIcy6456 | 56,380
-378 | Bandit_005 | 56,303
-379 | chuloreddit | 55,878
-380 | imbarrydylan | 55,689
-381 | orangesandonions | 55,238
-382 | SaberTurret | 54,863
+376 | SaberTurret | 57,526
+377 | Outrageous_Storm6537 | 56,938
+378 | ProfessionalIcy6456 | 56,380
+379 | Bandit_005 | 56,303
+380 | chuloreddit | 55,878
+381 | imbarrydylan | 55,689
+382 | orangesandonions | 55,238
 383 | Brandillio | 54,271
 384 | WarningKey6517 | 53,910
 385 | CryptoScamee42069 | 53,457
@@ -457,9 +457,9 @@ Rank | Username | Totals Tips
 454 | ASingleGuitarString | 35,602
 455 | TRANZHUMANIST | 35,069
 456 | SirPesoOtaku | 34,724
-457 | BelowAveIntelligence | 34,132
-458 | foreignGER | 34,119
-459 | Big-Researcher-3855 | 34,041
+457 | Big-Researcher-3855 | 34,461
+458 | BelowAveIntelligence | 34,132
+459 | foreignGER | 34,119
 460 | Obvious-Ask-5747 | 33,806
 461 | PoDunkYuppie | 33,513
 462 | Gerboogler | 33,314
