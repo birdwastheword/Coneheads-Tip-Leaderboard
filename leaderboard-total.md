@@ -1,4 +1,4 @@
-Last updated: 23-09-09 17:01:06 UTC  
+Last updated: 23-09-09 17:16:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -21,13 +21,13 @@ Rank | Username | Totals Tips
 18 | SpookySYN | 8,332,139
 19 | avyun | 8,006,436
 20 | Homeslicekilla | 7,995,797
-21 | Puddin-Luv | 7,048,546
+21 | Puddin-Luv | 7,051,629
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,678,668
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | IveDoneItAtLast | 4,921,036
+27 | IveDoneItAtLast | 4,921,105
 28 | thelonliestcrowd | 4,911,866
 29 | Ginomania | 4,830,675
 30 | rikbona | 4,540,773
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,207,088
 42 | Dry_Badger_2403 | 3,193,857
 43 | LordBobTheWhale | 3,118,621
-44 | zdubs | 3,107,871
+44 | zdubs | 3,110,534
 45 | GuyOne | 2,983,799
 46 | Mean_Bandicoot_7481 | 2,752,108
 47 | DontLaughArt | 2,743,453
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | djrcollectables | 1,764,943
 60 | dealkhabari | 1,763,283
 61 | Ten-Mins-Late | 1,707,373
-62 | investigator100 | 1,667,235
+62 | investigator100 | 1,669,898
 63 | CMDRGlamdring | 1,653,030
 64 | GooderZBK | 1,617,267
 65 | KONGXIANG | 1,584,177
@@ -342,7 +342,7 @@ Rank | Username | Totals Tips
 339 | I_AM_MORE_BADASS | 73,121
 340 | adi_00_ | 71,759
 341 | sparanaghcoar | 71,118
-342 | drche35 | 70,397
+342 | drche35 | 70,466
 343 | ElmerBlack | 70,230
 344 | Rush4Time | 70,079
 345 | Creative_Ad7831 | 70,047
@@ -403,8 +403,8 @@ Rank | Username | Totals Tips
 400 | Levl1Critter | 49,152
 401 | Dolce_00 | 48,683
 402 | Atorcran | 48,623
-403 | sicilian2124 | 46,866
-404 | Complete-Tadpole-728 | 46,697
+403 | Complete-Tadpole-728 | 47,117
+404 | sicilian2124 | 46,866
 405 | shredslanding | 46,650
 406 | Oue | 46,352
 407 | skatistic | 46,287
@@ -418,8 +418,8 @@ Rank | Username | Totals Tips
 415 | 4gsboofd | 43,377
 416 | halfABsinC | 43,285
 417 | Significant-Bet5762 | 43,158
-418 | dead-spiral | 42,069
-419 | ACE415_ | 42,000
+418 | ACE415_ | 42,069
+419 | dead-spiral | 42,069
 420 | Cyber-Cafe | 41,921
 421 | PushyDevoIution | 41,695
 422 | madridgalactico | 41,231
@@ -639,13 +639,13 @@ Rank | Username | Totals Tips
 636 | LordCitrus69 | 10,000
 637 | No-Confusion7414 | 9,959
 638 | boopcorgi | 9,923
-639 | supatard44 | 9,891
-640 | Ok-Profile-1744 | 9,709
-641 | Zeratrem | 9,683
-642 | Cauzzai | 9,672
-643 | kekzilla59 | 9,655
-644 | Elegant_Tale_3929 | 9,600
-645 | Mrmakanakai | 9,598
+639 | Mrmakanakai | 9,909
+640 | supatard44 | 9,891
+641 | Ok-Profile-1744 | 9,709
+642 | Zeratrem | 9,683
+643 | Cauzzai | 9,672
+644 | kekzilla59 | 9,655
+645 | Elegant_Tale_3929 | 9,600
 646 | Mavis80 | 9,482
 647 | xSeekTruthx | 9,459
 648 | mmmohm | 9,363
@@ -887,12 +887,12 @@ Rank | Username | Totals Tips
 884 | SinTron99 | 1,448
 885 | Prodigyyyyyy | 1,432
 886 | mkultrahigh | 1,415
-887 | Silence-Samurai8357 | 1,385
-888 | Lazy_Staff4893 | 1,337
-889 | VGarK | 1,337
-890 | _swnt_ | 1,337
-891 | mimsoo777 | 1,329
-892 | pizza-chit | 1,323
+887 | pizza-chit | 1,392
+888 | Silence-Samurai8357 | 1,385
+889 | Lazy_Staff4893 | 1,337
+890 | VGarK | 1,337
+891 | _swnt_ | 1,337
+892 | mimsoo777 | 1,329
 893 | onemansquest | 1,303
 894 | CWB2208 | 1,251
 895 | Tekbepimpin | 1,239
@@ -1156,3 +1156,4 @@ Rank | Username | Totals Tips
 1153 | Skull0 | 1
 1154 | Skywalker_047 | 1
 1155 | Park_With_No_S | 1
+1156 | final_lionel | 0
