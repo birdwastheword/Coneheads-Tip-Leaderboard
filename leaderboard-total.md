@@ -1,4 +1,4 @@
-Last updated: 23-09-09 03:17:47 UTC  
+Last updated: 23-09-09 03:30:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,585,872
 25 | HippieStarTraveler | 6,256,321
 26 | Skank_cunt_42 | 5,467,162
-27 | thelonliestcrowd | 4,901,214
+27 | thelonliestcrowd | 4,903,877
 28 | IveDoneItAtLast | 4,896,913
 29 | Ginomania | 4,798,111
 30 | rikbona | 4,540,773
@@ -697,11 +697,11 @@ Rank | Username | Totals Tips
 694 | CryptoriumOfficial | 6,969
 695 | tbobs04 | 6,969
 696 | Alternative-Radish13 | 6,969
-697 | physiops | 6,962
-698 | TeflonThaDonn | 6,936
-699 | dozebull | 6,849
-700 | Kindly-Strawberry637 | 6,800
-701 | NEO_R1CH | 6,718
+697 | NEO_R1CH | 6,964
+698 | physiops | 6,962
+699 | TeflonThaDonn | 6,936
+700 | dozebull | 6,849
+701 | Kindly-Strawberry637 | 6,800
 702 | Knackebrodd | 6,683
 703 | No-Emu-5060 | 6,663
 704 | thespygorillas | 6,662
