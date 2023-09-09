@@ -1,4 +1,4 @@
-Last updated: 23-09-09 09:50:41 UTC  
+Last updated: 23-09-09 10:00:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | Skank_cunt_42 | 5,467,162
 27 | thelonliestcrowd | 4,903,877
 28 | IveDoneItAtLast | 4,896,913
-29 | Ginomania | 4,798,719
+29 | Ginomania | 4,801,382
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,456,680
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | Ten-Mins-Late | 1,707,373
 60 | investigator100 | 1,659,246
 61 | CMDRGlamdring | 1,650,367
-62 | djrcollectables | 1,630,324
+62 | djrcollectables | 1,632,987
 63 | GooderZBK | 1,617,267
 64 | KONGXIANG | 1,584,177
 65 | evilninjarobot | 1,528,739
@@ -154,7 +154,7 @@ Rank | Username | Totals Tips
 151 | LrnFaroeseWthBergur | 409,488
 152 | Dripbot8 | 405,384
 153 | Creepy-Nectarine-225 | 389,511
-154 | noface_reddit | 384,334
+154 | noface_reddit | 386,997
 155 | SHIFTY-T3RROR | 380,120
 156 | MisterM0H0 | 379,338
 157 | zenhodl | 374,566
