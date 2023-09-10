@@ -1,4 +1,4 @@
-Last updated: 23-09-10 20:00:44 UTC  
+Last updated: 23-09-10 20:17:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 16,953,787
+8 | cutsickass | 16,983,787
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
 11 | transfermymoons | 12,491,858
@@ -28,8 +28,8 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
 27 | IveDoneItAtLast | 5,215,211
-28 | thelonliestcrowd | 5,009,902
-29 | Ginomania | 4,841,935
+28 | thelonliestcrowd | 5,012,565
+29 | Ginomania | 4,851,455
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,462,695
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | VIVOffical | 4,046,376
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
-39 | zdubs | 3,616,748
+39 | zdubs | 3,616,817
 40 | LuminousViper | 3,478,754
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,316,272
@@ -469,10 +469,10 @@ Rank | Username | Totals Tips
 466 | Truffle_Shuffle_85 | 32,895
 467 | redditavatar555 | 32,875
 468 | himthecool21 | 32,647
-469 | mbashs | 32,167
-470 | n00b1shm4n | 32,159
-471 | Originalibb | 32,157
-472 | Bobby_Juk | 32,068
+469 | Bobby_Juk | 32,488
+470 | mbashs | 32,167
+471 | n00b1shm4n | 32,159
+472 | Originalibb | 32,157
 473 | Motor-breath8 | 31,279
 474 | OutTop | 31,069
 475 | riceboi3789 | 31,000
