@@ -1,4 +1,4 @@
-Last updated: 23-09-10 11:50:46 UTC  
+Last updated: 23-09-10 12:07:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 16,613,279
+8 | cutsickass | 16,643,279
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
 11 | HODL-THE-LINE | 12,469,181
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,162,395
+27 | IveDoneItAtLast | 5,190,439
 28 | thelonliestcrowd | 4,936,587
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -51,7 +51,7 @@ Rank | Username | Totals Tips
 48 | Fenrir-1919 | 2,646,626
 49 | ZoomLong | 2,641,251
 50 | _Royal_Insylum | 2,603,787
-51 | ImAlekBan | 2,514,223
+51 | ImAlekBan | 2,516,886
 52 | possibili-teas | 2,399,515
 53 | Autom4tic_Soze | 2,181,774
 54 | 002_timmy | 2,033,164
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | Westy3000 | 785,820
 99 | ziggybri | 783,043
 100 | Korean_Street_Pizza | 780,821
-101 | Lillica_Golden_SHIB | 765,618
+101 | Lillica_Golden_SHIB | 765,825
 102 | RegalReptile_ | 757,249
 103 | Alanski22 | 738,178
 104 | virmamies | 718,771
