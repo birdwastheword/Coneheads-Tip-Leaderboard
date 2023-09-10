@@ -1,4 +1,4 @@
-Last updated: 23-09-10 02:52:51 UTC  
+Last updated: 23-09-10 03:04:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | Bobisdeadrun | 868,946
 93 | goldyluckinblokchain | 809,537
 94 | vbutarin | 802,000
-95 | billywright4 | 794,661
+95 | billywright4 | 795,269
 96 | ashketchup422 | 794,067
 97 | Cravensworth_redux | 790,803
 98 | Westy3000 | 785,820
@@ -128,7 +128,7 @@ Rank | Username | Totals Tips
 125 | El_Gordone | 592,784
 126 | Burzzzt88 | 591,229
 127 | Independent_Heart_15 | 578,825
-128 | junkwatch | 545,561
+128 | junkwatch | 545,630
 129 | StepAsideSuckers | 543,358
 130 | scientifichistorian | 539,560
 131 | shreyaskg | 538,211
@@ -606,18 +606,18 @@ Rank | Username | Totals Tips
 603 | wesleylyan | 12,257
 604 | ShadowKnight324 | 12,149
 605 | bageren | 12,038
-606 | Weezthajuice | 12,007
-607 | gnarlypoop | 11,924
-608 | charlythesecond | 11,794
-609 | Hofmaurerad | 11,711
-610 | reddit_saltyaf | 11,603
-611 | IndependenceHungry69 | 11,561
-612 | masstransience | 11,485
-613 | ZeusDubstep | 11,442
-614 | TheChillDyl | 11,298
-615 | SquatAngry | 11,285
-616 | This_Red_Apple | 11,260
-617 | Bobby_Juk | 11,188
+606 | Bobby_Juk | 12,028
+607 | Weezthajuice | 12,007
+608 | gnarlypoop | 11,924
+609 | charlythesecond | 11,794
+610 | Hofmaurerad | 11,711
+611 | masstransience | 11,623
+612 | reddit_saltyaf | 11,603
+613 | IndependenceHungry69 | 11,561
+614 | ZeusDubstep | 11,442
+615 | TheChillDyl | 11,298
+616 | SquatAngry | 11,285
+617 | This_Red_Apple | 11,260
 618 | Bramberken05 | 11,110
 619 | GaryJulesMCOC | 11,110
 620 | Arj_123 | 11,032
