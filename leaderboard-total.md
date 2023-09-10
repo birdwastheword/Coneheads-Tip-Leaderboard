@@ -1,4 +1,4 @@
-Last updated: 23-09-10 06:30:44 UTC  
+Last updated: 23-09-10 06:40:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | KONGXIANG | 1,584,177
 66 | evilninjarobot | 1,542,662
 67 | ultra_terrestrial | 1,431,607
-68 | YarOldeOrchard | 1,427,176
+68 | YarOldeOrchard | 1,428,410
 69 | LongCauliflower6791 | 1,410,092
 70 | ValiantJudge29500 | 1,395,493
 71 | isthistomorrow_ | 1,381,135
