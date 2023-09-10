@@ -1,4 +1,4 @@
-Last updated: 23-09-10 19:22:09 UTC  
+Last updated: 23-09-10 19:30:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 16,863,787
+8 | cutsickass | 16,923,787
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
 11 | transfermymoons | 12,491,858
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | SpookySYN | 8,412,029
 19 | avyun | 8,145,276
 20 | Homeslicekilla | 7,998,462
-21 | Puddin-Luv | 7,081,181
+21 | Puddin-Luv | 7,083,844
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,679,696
 24 | Real_Player_0 | 6,588,535
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | VIVOffical | 4,046,376
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
-39 | zdubs | 3,615,532
+39 | zdubs | 3,616,140
 40 | LuminousViper | 3,478,754
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,316,272
@@ -318,8 +318,8 @@ Rank | Username | Totals Tips
 315 | Hoppy_Doodle | 88,000
 316 | kwickle | 87,805
 317 | qwertywich | 87,473
-318 | Mother-Werewolf185 | 85,579
-319 | BeefaloSlim | 84,802
+318 | BeefaloSlim | 87,465
+319 | Mother-Werewolf185 | 85,579
 320 | Puzzleheaded_Gift738 | 84,020
 321 | Admirito | 82,353
 322 | standArtpluto | 82,100
