@@ -1,4 +1,4 @@
-Last updated: 23-09-10 03:19:17 UTC  
+Last updated: 23-09-10 03:30:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,459,343
+32 | redzrex | 4,460,032
 33 | birdwastheword | 4,413,049
 34 | rustyybikes | 4,267,673
 35 | send420nudes | 4,187,824
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | catlover-100 | 1,924,664
 59 | djrcollectables | 1,794,236
 60 | dealkhabari | 1,763,283
-61 | investigator100 | 1,724,862
+61 | investigator100 | 1,747,525
 62 | Ten-Mins-Late | 1,707,793
 63 | CMDRGlamdring | 1,653,030
 64 | GooderZBK | 1,617,267
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | ValiantJudge29500 | 1,385,493
 71 | isthistomorrow_ | 1,381,135
 72 | Mundane-Farm-4117 | 1,359,176
-73 | saintajoras | 1,239,236
+73 | saintajoras | 1,239,656
 74 | revdrgonzo | 1,235,635
 75 | Richicash | 1,231,855
 76 | jimfird | 1,215,366
