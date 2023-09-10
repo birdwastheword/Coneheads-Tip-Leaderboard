@@ -1,4 +1,4 @@
-Last updated: 23-09-10 13:40:41 UTC  
+Last updated: 23-09-10 13:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,460,032
+32 | redzrex | 4,462,695
 33 | birdwastheword | 4,413,049
 34 | rustyybikes | 4,267,673
 35 | send420nudes | 4,187,824
@@ -577,10 +577,10 @@ Rank | Username | Totals Tips
 574 | mixmasterpayne | 14,547
 575 | Fivebag | 14,290
 576 | cole-badger | 14,269
-577 | theycallmekimpembe | 14,037
-578 | TamilPunk | 13,754
-579 | SenseiRaheem | 13,716
-580 | Bobby_Juk | 13,708
+577 | Bobby_Juk | 14,128
+578 | theycallmekimpembe | 14,037
+579 | TamilPunk | 13,754
+580 | SenseiRaheem | 13,716
 581 | osoese | 13,680
 582 | mantrakid | 13,644
 583 | couchguitar | 13,330
