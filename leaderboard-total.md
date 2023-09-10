@@ -1,4 +1,4 @@
-Last updated: 23-09-10 20:30:31 UTC  
+Last updated: 23-09-10 20:40:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -40,7 +40,7 @@ Rank | Username | Totals Tips
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
 39 | zdubs | 3,616,817
-40 | LuminousViper | 3,478,754
+40 | LuminousViper | 3,481,417
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,316,272
 43 | Dry_Badger_2403 | 3,193,857
@@ -447,14 +447,14 @@ Rank | Username | Totals Tips
 444 | sM0k3dR4Gn | 38,045
 445 | ysnmingle | 38,038
 446 | samer109 | 37,973
-447 | onetrueSage | 37,633
-448 | shitwhenismycakeday | 37,409
-449 | redditisalt | 37,307
-450 | Imalittlestitious86 | 37,090
-451 | cryotosensei | 37,000
-452 | degree-01 | 36,486
-453 | genesis_crazy_one | 36,237
-454 | ASingleGuitarString | 35,603
+447 | ASingleGuitarString | 37,939
+448 | onetrueSage | 37,633
+449 | shitwhenismycakeday | 37,409
+450 | redditisalt | 37,307
+451 | Imalittlestitious86 | 37,090
+452 | cryotosensei | 37,000
+453 | degree-01 | 36,486
+454 | genesis_crazy_one | 36,237
 455 | TRANZHUMANIST | 35,069
 456 | SirPesoOtaku | 34,724
 457 | foreignGER | 34,719
