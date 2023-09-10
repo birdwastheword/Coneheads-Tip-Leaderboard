@@ -1,4 +1,4 @@
-Last updated: 23-09-10 13:01:36 UTC  
+Last updated: 23-09-10 13:18:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,200,524
+27 | IveDoneItAtLast | 5,200,944
 28 | thelonliestcrowd | 4,936,587
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -580,11 +580,11 @@ Rank | Username | Totals Tips
 577 | theycallmekimpembe | 14,037
 578 | TamilPunk | 13,754
 579 | SenseiRaheem | 13,716
-580 | osoese | 13,680
-581 | mantrakid | 13,644
-582 | couchguitar | 13,330
-583 | zahrawins | 13,329
-584 | Bobby_Juk | 13,288
+580 | Bobby_Juk | 13,708
+581 | osoese | 13,680
+582 | mantrakid | 13,644
+583 | couchguitar | 13,330
+584 | zahrawins | 13,329
 585 | Diamond_Hands420 | 13,277
 586 | WiseDude69 | 13,230
 587 | rare1994 | 13,069
