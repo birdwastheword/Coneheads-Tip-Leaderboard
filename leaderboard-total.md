@@ -1,4 +1,4 @@
-Last updated: 23-09-10 09:41:36 UTC  
+Last updated: 23-09-10 09:50:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -601,12 +601,12 @@ Rank | Username | Totals Tips
 598 | Potstar1 | 12,552
 599 | FixFull | 12,501
 600 | Dapper_Bloke88 | 12,451
-601 | noah1754 | 12,435
-602 | Arvalll | 12,260
-603 | wesleylyan | 12,257
-604 | ShadowKnight324 | 12,149
-605 | bageren | 12,038
-606 | Bobby_Juk | 12,028
+601 | Bobby_Juk | 12,448
+602 | noah1754 | 12,435
+603 | Arvalll | 12,260
+604 | wesleylyan | 12,257
+605 | ShadowKnight324 | 12,149
+606 | bageren | 12,038
 607 | Weezthajuice | 12,007
 608 | gnarlypoop | 11,924
 609 | charlythesecond | 11,794
@@ -1152,10 +1152,10 @@ Rank | Username | Totals Tips
 1149 | Quick_Silver_Wolf | 20
 1150 | Sufficient_Ad_4708 | 20
 1151 | XoooX24 | 20
-1152 | TamSchnow | 15
-1153 | breathe345 | 13
-1154 | Waste_Actuary_3290 | 12
-1155 | KEDW | 10
+1152 | KEDW | 20
+1153 | TamSchnow | 15
+1154 | breathe345 | 13
+1155 | Waste_Actuary_3290 | 12
 1156 | jellodoses69 | 10
 1157 | 18-35 | 8
 1158 | paracord-bracelets | 7
