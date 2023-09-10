@@ -1,4 +1,4 @@
-Last updated: 23-09-10 19:00:49 UTC  
+Last updated: 23-09-10 19:13:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | swampyswede | 1,944,887
 58 | catlover-100 | 1,924,664
 59 | djrcollectables | 1,797,507
-60 | investigator100 | 1,795,514
+60 | investigator100 | 1,795,714
 61 | CMDRGlamdring | 1,779,660
 62 | dealkhabari | 1,763,283
 63 | Ten-Mins-Late | 1,707,793
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | Westy3000 | 785,820
 99 | ziggybri | 783,043
 100 | Korean_Street_Pizza | 780,821
-101 | Lillica_Golden_SHIB | 766,032
+101 | Lillica_Golden_SHIB | 766,170
 102 | RegalReptile_ | 759,912
 103 | Alanski22 | 740,841
 104 | virmamies | 718,771
