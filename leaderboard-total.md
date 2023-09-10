@@ -1,4 +1,4 @@
-Last updated: 23-09-10 18:50:35 UTC  
+Last updated: 23-09-10 19:00:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 16,773,787
+8 | cutsickass | 16,833,787
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
 11 | transfermymoons | 12,491,858
@@ -140,13 +140,13 @@ Rank | Username | Totals Tips
 137 | Crypto-4-Freedom | 504,396
 138 | AcceptableLeg8751 | 500,000
 139 | Successful-Walk-3902 | 498,794
-140 | PortCity_MadMan | 482,939
-141 | Lady_Lucks_Man | 470,704
-142 | sinlesco | 465,153
-143 | WarmlyWacky | 462,118
-144 | WhateverAlready | 455,301
-145 | MediaPrestigious8342 | 453,839
-146 | adrifing | 443,831
+140 | adrifing | 493,831
+141 | PortCity_MadMan | 482,939
+142 | Lady_Lucks_Man | 470,704
+143 | sinlesco | 465,153
+144 | WarmlyWacky | 462,118
+145 | WhateverAlready | 455,301
+146 | MediaPrestigious8342 | 453,839
 147 | unhingedbigfoot | 439,874
 148 | Mopeiooo | 437,268
 149 | RazPie | 432,669
