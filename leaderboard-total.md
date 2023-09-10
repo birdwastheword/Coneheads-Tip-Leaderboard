@@ -1,4 +1,4 @@
-Last updated: 23-09-10 20:50:51 UTC  
+Last updated: 23-09-10 21:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 16,983,787
+8 | cutsickass | 17,013,787
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
 11 | transfermymoons | 12,741,858
@@ -397,15 +397,15 @@ Rank | Username | Totals Tips
 394 | mofayew | 52,166
 395 | ConeHead710 | 52,012
 396 | d_Shazam_b | 51,991
-397 | d0ntmess87 | 51,278
-398 | Outside-Wolf5928 | 50,096
-399 | Yogi_Kat | 49,785
-400 | hey_barry | 49,698
-401 | eatthebagels | 49,692
-402 | sicilian2124 | 49,529
-403 | Levl1Critter | 49,152
-404 | Dolce_00 | 48,683
-405 | Atorcran | 48,623
+397 | Atorcran | 51,292
+398 | d0ntmess87 | 51,278
+399 | Outside-Wolf5928 | 50,096
+400 | Yogi_Kat | 49,785
+401 | hey_barry | 49,698
+402 | eatthebagels | 49,692
+403 | sicilian2124 | 49,529
+404 | Levl1Critter | 49,152
+405 | Dolce_00 | 48,683
 406 | shredslanding | 46,650
 407 | Oue | 46,352
 408 | skatistic | 46,287
