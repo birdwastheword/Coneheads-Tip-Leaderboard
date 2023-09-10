@@ -1,4 +1,4 @@
-Last updated: 23-09-10 14:25:34 UTC  
+Last updated: 23-09-10 14:34:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -44,8 +44,8 @@ Rank | Username | Totals Tips
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,316,272
 43 | Dry_Badger_2403 | 3,193,857
-44 | LordBobTheWhale | 3,121,892
-45 | GuyOne | 3,112,059
+44 | GuyOne | 3,138,689
+45 | LordBobTheWhale | 3,121,892
 46 | Mean_Bandicoot_7481 | 2,752,108
 47 | DontLaughArt | 2,743,453
 48 | Fenrir-1919 | 2,646,626
@@ -128,7 +128,7 @@ Rank | Username | Totals Tips
 125 | El_Gordone | 592,784
 126 | Burzzzt88 | 591,229
 127 | Independent_Heart_15 | 578,825
-128 | junkwatch | 545,630
+128 | junkwatch | 545,699
 129 | StepAsideSuckers | 543,358
 130 | scientifichistorian | 539,560
 131 | shreyaskg | 538,211
@@ -398,10 +398,10 @@ Rank | Username | Totals Tips
 395 | Significant-Bet5762 | 51,836
 396 | d0ntmess87 | 51,278
 397 | Outside-Wolf5928 | 50,096
-398 | Yogi_Kat | 49,785
-399 | hey_barry | 49,698
-400 | eatthebagels | 49,692
-401 | Complete-Tadpole-728 | 49,637
+398 | Complete-Tadpole-728 | 50,057
+399 | Yogi_Kat | 49,785
+400 | hey_barry | 49,698
+401 | eatthebagels | 49,692
 402 | sicilian2124 | 49,529
 403 | Levl1Critter | 49,152
 404 | Dolce_00 | 48,683
@@ -446,7 +446,7 @@ Rank | Username | Totals Tips
 443 | sM0k3dR4Gn | 38,045
 444 | ysnmingle | 38,038
 445 | samer109 | 37,973
-446 | FalloutAssasin | 37,841
+446 | FalloutAssasin | 37,910
 447 | onetrueSage | 37,633
 448 | shitwhenismycakeday | 37,409
 449 | redditisalt | 37,307
@@ -669,21 +669,21 @@ Rank | Username | Totals Tips
 666 | Swoopscooter | 8,500
 667 | ad5xlh | 8,470
 668 | TNJCrypto | 8,468
-669 | 1-760-706-7425 | 8,272
-670 | shityougrin | 8,265
-671 | akemicariocaer | 8,264
-672 | Handsome_Gourd | 8,242
-673 | Nyarlatotep781 | 8,147
-674 | JAK0M0VIN0 | 8,097
-675 | TheConeHodler | 8,090
-676 | gacu-gacu | 8,065
-677 | PalpitationSecure660 | 8,055
-678 | Erikiller06 | 8,039
-679 | crypto-indian | 8,013
-680 | ryker_69 | 8,005
-681 | Primetimemongrel | 8,001
-682 | asmuth | 8,000
-683 | Nxnng | 7,762
+669 | Nxnng | 8,428
+670 | 1-760-706-7425 | 8,272
+671 | shityougrin | 8,265
+672 | akemicariocaer | 8,264
+673 | Handsome_Gourd | 8,242
+674 | Nyarlatotep781 | 8,147
+675 | JAK0M0VIN0 | 8,097
+676 | TheConeHodler | 8,090
+677 | gacu-gacu | 8,065
+678 | PalpitationSecure660 | 8,055
+679 | Erikiller06 | 8,039
+680 | crypto-indian | 8,013
+681 | ryker_69 | 8,005
+682 | Primetimemongrel | 8,001
+683 | asmuth | 8,000
 684 | mronki | 7,737
 685 | Squirrel_McNutz | 7,720
 686 | isthisanavatar | 7,709
