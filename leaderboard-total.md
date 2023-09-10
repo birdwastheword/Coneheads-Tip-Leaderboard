@@ -1,4 +1,4 @@
-Last updated: 23-09-10 12:50:50 UTC  
+Last updated: 23-09-10 13:01:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,491,858
-14 | SammyCraigar | 10,486,428
+14 | SammyCraigar | 10,489,091
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,533,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,194,516
+27 | IveDoneItAtLast | 5,200,524
 28 | thelonliestcrowd | 4,936,587
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | Westy3000 | 785,820
 99 | ziggybri | 783,043
 100 | Korean_Street_Pizza | 780,821
-101 | Lillica_Golden_SHIB | 765,894
+101 | Lillica_Golden_SHIB | 765,963
 102 | RegalReptile_ | 757,249
 103 | Alanski22 | 738,178
 104 | virmamies | 718,771
@@ -584,12 +584,12 @@ Rank | Username | Totals Tips
 581 | mantrakid | 13,644
 582 | couchguitar | 13,330
 583 | zahrawins | 13,329
-584 | Diamond_Hands420 | 13,277
-585 | WiseDude69 | 13,230
-586 | rare1994 | 13,069
-587 | AdinaEspada | 12,997
-588 | seamonkey420 | 12,906
-589 | Bobby_Juk | 12,868
+584 | Bobby_Juk | 13,288
+585 | Diamond_Hands420 | 13,277
+586 | WiseDude69 | 13,230
+587 | rare1994 | 13,069
+588 | AdinaEspada | 12,997
+589 | seamonkey420 | 12,906
 590 | Artistic-Quit-3311 | 12,851
 591 | Boggess | 12,784
 592 | Conefollower | 12,774
@@ -1103,7 +1103,7 @@ Rank | Username | Totals Tips
 1100 | MayorAnthonyWeiner | 74
 1101 | PixelllPunk | 72
 1102 | BackwardsMonday | 72
-1103 | Snoo_92843 | 70
+1103 | Snoo_92843 | 71
 1104 | Murky-Setting-4643 | 70
 1105 | Skywalker_047 | 70
 1106 | pourkey | 69
@@ -1162,8 +1162,8 @@ Rank | Username | Totals Tips
 1159 | 01Deepu10 | 7
 1160 | mercredimedia | 6
 1161 | Chase17O | 5
-1162 | GroovyIntruder | 3
-1163 | crawleyfinance | 2
+1162 | crawleyfinance | 3
+1163 | GroovyIntruder | 3
 1164 | hdkcbxv | 1
 1165 | Prestigious-Expert15 | 1
 1166 | mango9574 | 1
