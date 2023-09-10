@@ -1,4 +1,4 @@
-Last updated: 23-09-10 18:41:04 UTC  
+Last updated: 23-09-10 18:50:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 16,713,787
+8 | cutsickass | 16,773,787
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
 11 | transfermymoons | 12,491,858
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | VIVOffical | 4,035,233
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
-39 | zdubs | 3,614,316
+39 | zdubs | 3,614,924
 40 | LuminousViper | 3,478,754
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,316,272
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | swampyswede | 1,944,887
 58 | catlover-100 | 1,924,664
 59 | djrcollectables | 1,797,507
-60 | investigator100 | 1,792,851
+60 | investigator100 | 1,795,514
 61 | CMDRGlamdring | 1,779,660
 62 | dealkhabari | 1,763,283
 63 | Ten-Mins-Late | 1,707,793
@@ -472,7 +472,7 @@ Rank | Username | Totals Tips
 469 | mbashs | 32,167
 470 | n00b1shm4n | 32,159
 471 | Originalibb | 32,157
-472 | Bobby_Juk | 31,648
+472 | Bobby_Juk | 32,068
 473 | Motor-breath8 | 31,279
 474 | OutTop | 31,069
 475 | riceboi3789 | 31,000
