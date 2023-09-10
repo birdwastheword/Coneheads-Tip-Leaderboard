@@ -1,4 +1,4 @@
-Last updated: 23-09-10 17:01:04 UTC  
+Last updated: 23-09-10 17:17:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 16,653,279
+8 | cutsickass | 16,653,787
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
 11 | transfermymoons | 12,491,858
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,533,379
 17 | Permanent_WSB_Bull | 8,522,155
-18 | SpookySYN | 8,385,399
+18 | SpookySYN | 8,412,029
 19 | avyun | 8,145,276
 20 | Homeslicekilla | 7,998,462
 21 | Puddin-Luv | 7,081,181
@@ -27,15 +27,15 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,210,955
-28 | thelonliestcrowd | 4,941,913
+27 | IveDoneItAtLast | 5,211,563
+28 | thelonliestcrowd | 5,004,576
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,462,695
 33 | birdwastheword | 4,415,712
 34 | rustyybikes | 4,267,673
-35 | send420nudes | 4,187,824
+35 | send420nudes | 4,197,824
 36 | VIVOffical | 4,035,233
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
@@ -56,11 +56,11 @@ Rank | Username | Totals Tips
 53 | Autom4tic_Soze | 2,181,774
 54 | 002_timmy | 2,059,494
 55 | 0-Give-a-fucks | 1,992,418
-56 | Affectionate_Hand_76 | 1,964,589
+56 | Affectionate_Hand_76 | 1,967,252
 57 | swampyswede | 1,944,887
 58 | catlover-100 | 1,924,664
 59 | djrcollectables | 1,797,507
-60 | investigator100 | 1,790,188
+60 | investigator100 | 1,792,851
 61 | dealkhabari | 1,763,283
 62 | Ten-Mins-Late | 1,707,793
 63 | CMDRGlamdring | 1,679,660
@@ -454,7 +454,7 @@ Rank | Username | Totals Tips
 451 | cryotosensei | 37,000
 452 | degree-01 | 36,486
 453 | genesis_crazy_one | 36,237
-454 | ASingleGuitarString | 35,602
+454 | ASingleGuitarString | 35,603
 455 | TRANZHUMANIST | 35,069
 456 | SirPesoOtaku | 34,724
 457 | Big-Researcher-3855 | 34,461
@@ -563,9 +563,9 @@ Rank | Username | Totals Tips
 560 | MantisToboggan66 | 16,437
 561 | ipsole | 16,425
 562 | deeeznotes | 16,235
-563 | Conflict63 | 16,063
-564 | giooo_tdm | 15,964
-565 | Bobby_Juk | 15,808
+563 | Bobby_Juk | 16,228
+564 | Conflict63 | 16,063
+565 | giooo_tdm | 15,964
 566 | Zwott | 15,441
 567 | Fr3sh-Ch3mical | 15,393
 568 | D6P6 | 15,364
