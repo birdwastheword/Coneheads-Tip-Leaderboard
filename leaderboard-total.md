@@ -1,4 +1,4 @@
-Last updated: 23-09-10 07:50:33 UTC  
+Last updated: 23-09-10 08:00:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -673,9 +673,9 @@ Rank | Username | Totals Tips
 670 | shityougrin | 8,265
 671 | akemicariocaer | 8,264
 672 | Handsome_Gourd | 8,242
-673 | JAK0M0VIN0 | 8,097
-674 | TheConeHodler | 8,090
-675 | Nyarlatotep781 | 8,078
+673 | Nyarlatotep781 | 8,147
+674 | JAK0M0VIN0 | 8,097
+675 | TheConeHodler | 8,090
 676 | gacu-gacu | 8,065
 677 | PalpitationSecure660 | 8,055
 678 | Erikiller06 | 8,039
