@@ -1,4 +1,4 @@
-Last updated: 23-09-10 13:50:47 UTC  
+Last updated: 23-09-10 14:01:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -54,7 +54,7 @@ Rank | Username | Totals Tips
 51 | ImAlekBan | 2,516,886
 52 | possibili-teas | 2,399,515
 53 | Autom4tic_Soze | 2,181,774
-54 | 002_timmy | 2,033,164
+54 | 002_timmy | 2,059,494
 55 | 0-Give-a-fucks | 1,992,418
 56 | Affectionate_Hand_76 | 1,961,926
 57 | swampyswede | 1,944,887
