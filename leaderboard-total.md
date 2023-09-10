@@ -1,4 +1,4 @@
-Last updated: 23-09-10 04:30:29 UTC  
+Last updated: 23-09-10 04:40:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 16,493,279
-9 | _ships | 16,441,234
+9 | _ships | 16,444,317
 10 | crypto_grandma | 13,632,565
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | GooderZBK | 1,617,267
 65 | KONGXIANG | 1,584,177
 66 | evilninjarobot | 1,542,662
-67 | ultra_terrestrial | 1,428,875
+67 | ultra_terrestrial | 1,431,607
 68 | YarOldeOrchard | 1,427,176
 69 | LongCauliflower6791 | 1,410,092
 70 | ValiantJudge29500 | 1,385,493
