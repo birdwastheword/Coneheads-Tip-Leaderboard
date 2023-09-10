@@ -1,4 +1,4 @@
-Last updated: 23-09-10 16:50:56 UTC  
+Last updated: 23-09-10 17:01:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 16,643,279
+8 | cutsickass | 16,653,279
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
 11 | transfermymoons | 12,491,858
@@ -565,9 +565,9 @@ Rank | Username | Totals Tips
 562 | deeeznotes | 16,235
 563 | Conflict63 | 16,063
 564 | giooo_tdm | 15,964
-565 | Zwott | 15,441
-566 | Fr3sh-Ch3mical | 15,393
-567 | Bobby_Juk | 15,388
+565 | Bobby_Juk | 15,808
+566 | Zwott | 15,441
+567 | Fr3sh-Ch3mical | 15,393
 568 | D6P6 | 15,364
 569 | Rookslook | 15,359
 570 | Rake_wlkr | 15,330
@@ -606,15 +606,15 @@ Rank | Username | Totals Tips
 603 | Arvalll | 12,260
 604 | wesleylyan | 12,257
 605 | ShadowKnight324 | 12,149
-606 | bageren | 12,038
-607 | Weezthajuice | 12,007
-608 | gnarlypoop | 11,924
-609 | charlythesecond | 11,794
-610 | Hofmaurerad | 11,711
-611 | masstransience | 11,623
-612 | reddit_saltyaf | 11,603
-613 | IndependenceHungry69 | 11,561
-614 | ZeusDubstep | 11,442
+606 | ZeusDubstep | 12,050
+607 | bageren | 12,038
+608 | Weezthajuice | 12,007
+609 | gnarlypoop | 11,924
+610 | charlythesecond | 11,794
+611 | Hofmaurerad | 11,711
+612 | masstransience | 11,623
+613 | reddit_saltyaf | 11,603
+614 | IndependenceHungry69 | 11,561
 615 | TheChillDyl | 11,298
 616 | SquatAngry | 11,285
 617 | This_Red_Apple | 11,260
