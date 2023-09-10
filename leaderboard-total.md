@@ -1,4 +1,4 @@
-Last updated: 23-09-10 21:23:10 UTC  
+Last updated: 23-09-10 21:31:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -140,8 +140,8 @@ Rank | Username | Totals Tips
 137 | Crypto-4-Freedom | 504,396
 138 | AcceptableLeg8751 | 500,000
 139 | Successful-Walk-3902 | 498,794
-140 | adrifing | 493,831
-141 | PortCity_MadMan | 490,928
+140 | PortCity_MadMan | 496,254
+141 | adrifing | 493,831
 142 | Lady_Lucks_Man | 470,704
 143 | sinlesco | 465,153
 144 | WarmlyWacky | 462,118
@@ -367,7 +367,7 @@ Rank | Username | Totals Tips
 364 | meth43 | 62,596
 365 | KrunchyKushKing | 61,532
 366 | TheD1ceMan | 60,541
-367 | Complete-Tadpole-728 | 60,026
+367 | Complete-Tadpole-728 | 60,446
 368 | lucrica | 59,987
 369 | Dboythegreat | 59,726
 370 | Big-Ticket1506 | 59,666
