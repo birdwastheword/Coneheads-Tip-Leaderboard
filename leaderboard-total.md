@@ -1,4 +1,4 @@
-Last updated: 23-09-10 04:50:37 UTC  
+Last updated: 23-09-10 05:00:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | bray_martin03 | 3,286,979
 43 | Dry_Badger_2403 | 3,193,857
 44 | LordBobTheWhale | 3,121,892
-45 | GuyOne | 3,085,429
+45 | GuyOne | 3,112,059
 46 | Mean_Bandicoot_7481 | 2,752,108
 47 | DontLaughArt | 2,743,453
 48 | Fenrir-1919 | 2,646,626
@@ -119,8 +119,8 @@ Rank | Username | Totals Tips
 116 | piebagz | 661,815
 117 | MartynDr | 652,270
 118 | MorrisBrett514 | 651,270
-119 | nichnotnick | 644,736
-120 | femacampcouncilor | 642,812
+119 | femacampcouncilor | 645,475
+120 | nichnotnick | 644,736
 121 | slirpo | 631,180
 122 | formidable-opponent | 627,280
 123 | superlonelyboy | 611,557
@@ -462,21 +462,21 @@ Rank | Username | Totals Tips
 459 | BelowAveIntelligence | 34,132
 460 | Obvious-Ask-5747 | 33,806
 461 | PoDunkYuppie | 33,513
-462 | Gerboogler | 33,314
-463 | See0tter | 33,242
-464 | xxapplej4ckx | 33,181
-465 | Truffle_Shuffle_85 | 32,895
-466 | redditavatar555 | 32,875
-467 | himthecool21 | 32,647
-468 | n00b1shm4n | 32,159
-469 | Originalibb | 32,157
-470 | mbashs | 31,747
-471 | Motor-breath8 | 31,279
-472 | OutTop | 31,069
-473 | riceboi3789 | 31,000
-474 | ClubbyTheCub | 30,885
-475 | slasula | 30,794
-476 | keyoh321 | 30,734
+462 | keyoh321 | 33,397
+463 | Gerboogler | 33,314
+464 | See0tter | 33,242
+465 | xxapplej4ckx | 33,181
+466 | Truffle_Shuffle_85 | 32,895
+467 | redditavatar555 | 32,875
+468 | himthecool21 | 32,647
+469 | n00b1shm4n | 32,159
+470 | Originalibb | 32,157
+471 | mbashs | 31,747
+472 | Motor-breath8 | 31,279
+473 | OutTop | 31,069
+474 | riceboi3789 | 31,000
+475 | ClubbyTheCub | 30,885
+476 | slasula | 30,794
 477 | rOn3OW | 30,714
 478 | masedogg98 | 30,547
 479 | -Boxen | 30,420
