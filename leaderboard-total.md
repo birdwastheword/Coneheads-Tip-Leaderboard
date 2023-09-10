@@ -1,4 +1,4 @@
-Last updated: 23-09-10 03:50:50 UTC  
+Last updated: 23-09-10 04:01:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -319,7 +319,7 @@ Rank | Username | Totals Tips
 316 | kwickle | 87,805
 317 | qwertywich | 87,473
 318 | Mother-Werewolf185 | 85,579
-319 | BeefaloSlim | 84,382
+319 | BeefaloSlim | 84,802
 320 | Puzzleheaded_Gift738 | 84,020
 321 | standArtpluto | 82,100
 322 | mastermarvs | 80,384
