@@ -1,4 +1,4 @@
-Last updated: 23-09-10 13:18:57 UTC  
+Last updated: 23-09-10 13:30:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | zdubs | 3,613,100
 40 | LuminousViper | 3,478,754
 41 | ZukoBih | 3,413,767
-42 | bray_martin03 | 3,313,609
+42 | bray_martin03 | 3,316,272
 43 | Dry_Badger_2403 | 3,193,857
 44 | LordBobTheWhale | 3,121,892
 45 | GuyOne | 3,112,059
