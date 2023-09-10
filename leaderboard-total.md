@@ -1,4 +1,4 @@
-Last updated: 23-09-10 10:00:58 UTC  
+Last updated: 23-09-10 10:18:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -310,7 +310,7 @@ Rank | Username | Totals Tips
 307 | Backwood20 | 90,298
 308 | DramaticProtogen | 90,274
 309 | Award-Bot | 90,000
-310 | AhhhUhmmm | 89,159
+310 | AhhhUhmmm | 89,228
 311 | MedicalJockey | 89,083
 312 | jurgensdapimp | 88,535
 313 | HokkaidoNights | 88,108
@@ -362,9 +362,9 @@ Rank | Username | Totals Tips
 359 | slug_tamer | 63,595
 360 | guokaidi | 63,413
 361 | Emeritux | 63,020
-362 | netnemirepxE | 62,645
-363 | meth43 | 62,596
-364 | S2K08 | 61,539
+362 | S2K08 | 62,773
+363 | netnemirepxE | 62,645
+364 | meth43 | 62,596
 365 | KrunchyKushKing | 61,532
 366 | TheD1ceMan | 60,541
 367 | lucrica | 59,987
