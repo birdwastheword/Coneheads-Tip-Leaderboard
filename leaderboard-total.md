@@ -1,4 +1,4 @@
-Last updated: 23-09-10 17:42:34 UTC  
+Last updated: 23-09-10 17:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 16,653,787
+8 | cutsickass | 16,683,787
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
 11 | transfermymoons | 12,491,858
@@ -61,9 +61,9 @@ Rank | Username | Totals Tips
 58 | catlover-100 | 1,924,664
 59 | djrcollectables | 1,797,507
 60 | investigator100 | 1,792,851
-61 | dealkhabari | 1,763,283
-62 | Ten-Mins-Late | 1,707,793
-63 | CMDRGlamdring | 1,679,660
+61 | CMDRGlamdring | 1,779,660
+62 | dealkhabari | 1,763,283
+63 | Ten-Mins-Late | 1,707,793
 64 | GooderZBK | 1,617,267
 65 | KONGXIANG | 1,584,177
 66 | evilninjarobot | 1,542,662
