@@ -1,4 +1,4 @@
-Last updated: 23-09-10 17:26:00 UTC  
+Last updated: 23-09-10 17:34:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,212,779
+27 | IveDoneItAtLast | 5,213,995
 28 | thelonliestcrowd | 5,004,576
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -961,14 +961,14 @@ Rank | Username | Totals Tips
 958 | panjjang | 834
 959 | Yegpetphoto | 825
 960 | brymezHD | 769
-961 | Ge_n0 | 729
-962 | johnnyb0083 | 727
-963 | SufficientNet9227 | 711
-964 | o_LUCIFER_o | 709
-965 | Mysterious-Heart-459 | 696
-966 | TheNano100 | 696
-967 | daigsischt | 696
-968 | LimpPeanut5633 | 692
+961 | LimpPeanut5633 | 761
+962 | Ge_n0 | 729
+963 | johnnyb0083 | 727
+964 | SufficientNet9227 | 711
+965 | o_LUCIFER_o | 709
+966 | Mysterious-Heart-459 | 696
+967 | TheNano100 | 696
+968 | daigsischt | 696
 969 | Indisciplinato | 677
 970 | Troll_humper | 665
 971 | Big_Count_6042 | 633
