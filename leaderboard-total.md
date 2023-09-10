@@ -1,4 +1,4 @@
-Last updated: 23-09-10 21:14:49 UTC  
+Last updated: 23-09-10 21:23:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -160,7 +160,7 @@ Rank | Username | Totals Tips
 157 | MisterM0H0 | 379,338
 158 | zenhodl | 374,566
 159 | hellosamaira | 373,235
-160 | AustinTX1985 | 368,863
+160 | AustinTX1985 | 371,526
 161 | farmertypoerror | 359,212
 162 | Tinman_ApE | 355,718
 163 | DAMG808 | 355,432
