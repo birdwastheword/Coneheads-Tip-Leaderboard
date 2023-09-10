@@ -1,4 +1,4 @@
-Last updated: 23-09-10 15:42:05 UTC  
+Last updated: 23-09-10 15:50:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,203,607
+27 | IveDoneItAtLast | 5,206,270
 28 | thelonliestcrowd | 4,936,587
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -39,13 +39,13 @@ Rank | Username | Totals Tips
 36 | VIVOffical | 4,035,233
 37 | clean_cut89 | 3,713,476
 38 | thom_orrow | 3,693,739
-39 | zdubs | 3,613,708
+39 | zdubs | 3,614,316
 40 | LuminousViper | 3,478,754
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,316,272
 43 | Dry_Badger_2403 | 3,193,857
 44 | GuyOne | 3,183,352
-45 | LordBobTheWhale | 3,121,892
+45 | LordBobTheWhale | 3,122,500
 46 | Mean_Bandicoot_7481 | 2,752,108
 47 | DontLaughArt | 2,743,453
 48 | Fenrir-1919 | 2,646,626
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | GooderZBK | 1,617,267
 65 | KONGXIANG | 1,584,177
 66 | evilninjarobot | 1,542,662
-67 | ultra_terrestrial | 1,431,607
+67 | ultra_terrestrial | 1,473,676
 68 | YarOldeOrchard | 1,428,410
 69 | LongCauliflower6791 | 1,410,092
 70 | ValiantJudge29500 | 1,395,493
