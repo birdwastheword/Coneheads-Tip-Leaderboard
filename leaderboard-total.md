@@ -1,4 +1,4 @@
-Last updated: 23-09-10 16:01:04 UTC  
+Last updated: 23-09-10 16:22:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
 27 | IveDoneItAtLast | 5,207,486
-28 | thelonliestcrowd | 4,936,587
+28 | thelonliestcrowd | 4,941,913
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -56,11 +56,11 @@ Rank | Username | Totals Tips
 53 | Autom4tic_Soze | 2,181,774
 54 | 002_timmy | 2,059,494
 55 | 0-Give-a-fucks | 1,992,418
-56 | Affectionate_Hand_76 | 1,961,926
+56 | Affectionate_Hand_76 | 1,964,589
 57 | swampyswede | 1,944,887
 58 | catlover-100 | 1,924,664
 59 | djrcollectables | 1,797,507
-60 | investigator100 | 1,780,188
+60 | investigator100 | 1,790,188
 61 | dealkhabari | 1,763,283
 62 | Ten-Mins-Late | 1,707,793
 63 | CMDRGlamdring | 1,679,660
@@ -175,7 +175,7 @@ Rank | Username | Totals Tips
 172 | legionticket | 296,054
 173 | Extreme_Issue7325 | 295,890
 174 | send_tacoz | 293,576
-175 | FluffyAspie | 289,016
+175 | FluffyAspie | 291,679
 176 | fettskull | 288,654
 177 | deedopete | 285,361
 178 | monkeybombed | 284,315
