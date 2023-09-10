@@ -1,4 +1,4 @@
-Last updated: 23-09-10 14:16:31 UTC  
+Last updated: 23-09-10 14:25:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -401,9 +401,9 @@ Rank | Username | Totals Tips
 398 | Yogi_Kat | 49,785
 399 | hey_barry | 49,698
 400 | eatthebagels | 49,692
-401 | sicilian2124 | 49,529
-402 | Levl1Critter | 49,152
-403 | Complete-Tadpole-728 | 48,797
+401 | Complete-Tadpole-728 | 49,637
+402 | sicilian2124 | 49,529
+403 | Levl1Critter | 49,152
 404 | Dolce_00 | 48,683
 405 | Atorcran | 48,623
 406 | shredslanding | 46,650
@@ -574,10 +574,10 @@ Rank | Username | Totals Tips
 571 | imeme1969 | 15,070
 572 | Big_Bonus3617 | 14,763
 573 | redbasl | 14,643
-574 | mixmasterpayne | 14,547
-575 | Fivebag | 14,290
-576 | cole-badger | 14,269
-577 | Bobby_Juk | 14,128
+574 | Bobby_Juk | 14,548
+575 | mixmasterpayne | 14,547
+576 | Fivebag | 14,290
+577 | cole-badger | 14,269
 578 | theycallmekimpembe | 14,037
 579 | TamilPunk | 13,754
 580 | SenseiRaheem | 13,716
