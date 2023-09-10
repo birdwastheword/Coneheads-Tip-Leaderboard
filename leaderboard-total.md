@@ -1,4 +1,4 @@
-Last updated: 23-09-10 18:21:06 UTC  
+Last updated: 23-09-10 18:30:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -51,7 +51,7 @@ Rank | Username | Totals Tips
 48 | Fenrir-1919 | 2,647,842
 49 | ZoomLong | 2,641,251
 50 | _Royal_Insylum | 2,603,787
-51 | ImAlekBan | 2,516,886
+51 | ImAlekBan | 2,518,102
 52 | possibili-teas | 2,399,515
 53 | Autom4tic_Soze | 2,181,774
 54 | 002_timmy | 2,059,494
