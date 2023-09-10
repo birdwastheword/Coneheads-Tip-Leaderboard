@@ -1,4 +1,4 @@
-Last updated: 23-09-10 13:30:36 UTC  
+Last updated: 23-09-10 13:40:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,491,858
-14 | SammyCraigar | 10,489,091
+14 | SammyCraigar | 10,515,721
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,533,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -140,7 +140,7 @@ Rank | Username | Totals Tips
 137 | Crypto-4-Freedom | 504,396
 138 | AcceptableLeg8751 | 500,000
 139 | Successful-Walk-3902 | 498,794
-140 | PortCity_MadMan | 474,950
+140 | PortCity_MadMan | 482,939
 141 | Lady_Lucks_Man | 470,704
 142 | sinlesco | 465,153
 143 | WarmlyWacky | 462,118
