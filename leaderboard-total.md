@@ -1,4 +1,4 @@
-Last updated: 23-09-10 23:01:07 UTC  
+Last updated: 23-09-10 23:17:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 11,958,456
 14 | SammyCraigar | 10,521,655
-15 | 8inchConer | 8,947,550
+15 | 8inchConer | 8,947,619
 16 | ArtConsitent | 8,533,379
 17 | Permanent_WSB_Bull | 8,522,155
 18 | SpookySYN | 8,465,289
@@ -139,8 +139,8 @@ Rank | Username | Totals Tips
 136 | f0n1xr131ng | 509,681
 137 | Crypto-4-Freedom | 504,396
 138 | AcceptableLeg8751 | 500,000
-139 | Successful-Walk-3902 | 498,794
-140 | PortCity_MadMan | 496,254
+139 | PortCity_MadMan | 498,917
+140 | Successful-Walk-3902 | 498,794
 141 | adrifing | 493,831
 142 | Lady_Lucks_Man | 470,704
 143 | sinlesco | 465,153
@@ -959,9 +959,9 @@ Rank | Username | Totals Tips
 956 | Embarrassed-Egg-545 | 840
 957 | Xanthn | 840
 958 | panjjang | 834
-959 | Yegpetphoto | 825
-960 | brymezHD | 769
-961 | LimpPeanut5633 | 761
+959 | LimpPeanut5633 | 830
+960 | Yegpetphoto | 825
+961 | brymezHD | 769
 962 | Ge_n0 | 729
 963 | johnnyb0083 | 727
 964 | SufficientNet9227 | 711
