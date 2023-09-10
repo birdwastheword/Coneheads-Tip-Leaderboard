@@ -1,4 +1,4 @@
-Last updated: 23-09-10 22:00:56 UTC  
+Last updated: 23-09-10 22:17:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 17,043,787
+8 | cutsickass | 17,093,114
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
 11 | transfermymoons | 12,741,858
@@ -203,7 +203,7 @@ Rank | Username | Totals Tips
 200 | joeviani | 241,717
 201 | Adrewmc | 241,177
 202 | tjex666 | 240,801
-203 | MuhSound | 235,116
+203 | MuhSound | 235,724
 204 | Zalkwalker | 235,069
 205 | alexthemay | 234,131
 206 | the_judge_168 | 233,870
@@ -512,14 +512,14 @@ Rank | Username | Totals Tips
 509 | universal_language | 25,489
 510 | ThekinginYellow27 | 25,431
 511 | SnooRevelations6751 | 25,420
-512 | open-now | 25,247
-513 | worldofshiba | 25,069
-514 | Blossom_butterfly | 25,069
-515 | aereyy | 25,027
-516 | Mysterious-Bar-4721 | 25,000
-517 | CowDapper7867 | 25,000
-518 | CatastrophicSpecter | 24,927
-519 | Qptimised | 24,711
+512 | Qptimised | 25,377
+513 | open-now | 25,247
+514 | worldofshiba | 25,069
+515 | Blossom_butterfly | 25,069
+516 | aereyy | 25,027
+517 | Mysterious-Bar-4721 | 25,000
+518 | CowDapper7867 | 25,000
+519 | CatastrophicSpecter | 24,927
 520 | 4ucklehead | 24,684
 521 | liberovento | 24,307
 522 | africanasshat | 23,062
@@ -1162,7 +1162,7 @@ Rank | Username | Totals Tips
 1159 | 01Deepu10 | 7
 1160 | mercredimedia | 6
 1161 | Chase17O | 5
-1162 | crawleyfinance | 3
+1162 | crawleyfinance | 4
 1163 | GroovyIntruder | 3
 1164 | hdkcbxv | 1
 1165 | Prestigious-Expert15 | 1
