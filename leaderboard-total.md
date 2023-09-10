@@ -1,4 +1,4 @@
-Last updated: 23-09-10 16:42:20 UTC  
+Last updated: 23-09-10 16:50:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | ArtConsitent | 8,533,379
 17 | Permanent_WSB_Bull | 8,522,155
 18 | SpookySYN | 8,385,399
-19 | avyun | 8,075,856
+19 | avyun | 8,145,276
 20 | Homeslicekilla | 7,998,462
 21 | Puddin-Luv | 7,081,181
 22 | Geniuskills | 6,882,870
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,207,486
+27 | IveDoneItAtLast | 5,210,955
 28 | thelonliestcrowd | 4,941,913
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | Korean_Street_Pizza | 780,821
 101 | Lillica_Golden_SHIB | 766,032
 102 | RegalReptile_ | 759,912
-103 | Alanski22 | 738,178
+103 | Alanski22 | 740,841
 104 | virmamies | 718,771
 105 | starterpack420694 | 710,420
 106 | WarmIyWacky | 703,049
@@ -567,12 +567,12 @@ Rank | Username | Totals Tips
 564 | giooo_tdm | 15,964
 565 | Zwott | 15,441
 566 | Fr3sh-Ch3mical | 15,393
-567 | D6P6 | 15,364
-568 | Rookslook | 15,359
-569 | Rake_wlkr | 15,330
-570 | Doublix | 15,074
-571 | imeme1969 | 15,070
-572 | Bobby_Juk | 14,968
+567 | Bobby_Juk | 15,388
+568 | D6P6 | 15,364
+569 | Rookslook | 15,359
+570 | Rake_wlkr | 15,330
+571 | Doublix | 15,074
+572 | imeme1969 | 15,070
 573 | Big_Bonus3617 | 14,763
 574 | redbasl | 14,643
 575 | mixmasterpayne | 14,547
