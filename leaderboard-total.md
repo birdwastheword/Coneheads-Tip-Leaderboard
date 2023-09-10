@@ -1,4 +1,4 @@
-Last updated: 23-09-10 07:00:41 UTC  
+Last updated: 23-09-10 07:15:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -359,8 +359,8 @@ Rank | Username | Totals Tips
 356 | damnusernamegotcutof | 65,004
 357 | zuzieey7719 | 64,618
 358 | Virtual-Wrangler5955 | 64,343
-359 | guokaidi | 63,413
-360 | slug_tamer | 63,175
+359 | slug_tamer | 63,595
+360 | guokaidi | 63,413
 361 | Emeritux | 63,020
 362 | netnemirepxE | 62,645
 363 | meth43 | 62,596
