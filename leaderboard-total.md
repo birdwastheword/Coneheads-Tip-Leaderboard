@@ -1,4 +1,4 @@
-Last updated: 23-09-10 15:25:00 UTC  
+Last updated: 23-09-10 15:33:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 12,491,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 11,958,456
-14 | SammyCraigar | 10,515,721
+14 | SammyCraigar | 10,518,384
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,533,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,462,695
-33 | birdwastheword | 4,413,049
+33 | birdwastheword | 4,415,712
 34 | rustyybikes | 4,267,673
 35 | send420nudes | 4,187,824
 36 | VIVOffical | 4,025,233
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | investigator100 | 1,780,188
 61 | dealkhabari | 1,763,283
 62 | Ten-Mins-Late | 1,707,793
-63 | CMDRGlamdring | 1,653,030
+63 | CMDRGlamdring | 1,679,660
 64 | GooderZBK | 1,617,267
 65 | KONGXIANG | 1,584,177
 66 | evilninjarobot | 1,542,662
@@ -967,7 +967,7 @@ Rank | Username | Totals Tips
 964 | Mysterious-Heart-459 | 696
 965 | TheNano100 | 696
 966 | daigsischt | 696
-967 | LimpPeanut5633 | 691
+967 | LimpPeanut5633 | 692
 968 | Indisciplinato | 677
 969 | Troll_humper | 665
 970 | Big_Count_6042 | 633
