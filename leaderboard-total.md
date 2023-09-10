@@ -1,4 +1,4 @@
-Last updated: 23-09-10 14:01:03 UTC  
+Last updated: 23-09-10 14:16:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | VIVOffical | 4,025,233
 37 | clean_cut89 | 3,713,476
 38 | thom_orrow | 3,693,739
-39 | zdubs | 3,613,100
+39 | zdubs | 3,613,708
 40 | LuminousViper | 3,478,754
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,316,272
@@ -683,21 +683,21 @@ Rank | Username | Totals Tips
 680 | ryker_69 | 8,005
 681 | Primetimemongrel | 8,001
 682 | asmuth | 8,000
-683 | mronki | 7,737
-684 | Squirrel_McNutz | 7,720
-685 | isthisanavatar | 7,709
-686 | Chichakitty | 7,677
-687 | TeflonThaDonn | 7,625
-688 | gold_digger333 | 7,577
-689 | king0ftheroad | 7,500
-690 | RiceRare | 7,491
-691 | Pengpangolin | 7,488
-692 | FlippiShh | 7,440
-693 | quaker-goats | 7,414
-694 | Weirdclerk_ | 7,392
-695 | LightninHooker | 7,286
-696 | strworld | 7,233
-697 | Nxnng | 7,096
+683 | Nxnng | 7,762
+684 | mronki | 7,737
+685 | Squirrel_McNutz | 7,720
+686 | isthisanavatar | 7,709
+687 | Chichakitty | 7,677
+688 | TeflonThaDonn | 7,625
+689 | gold_digger333 | 7,577
+690 | king0ftheroad | 7,500
+691 | RiceRare | 7,491
+692 | Pengpangolin | 7,488
+693 | FlippiShh | 7,440
+694 | quaker-goats | 7,414
+695 | Weirdclerk_ | 7,392
+696 | LightninHooker | 7,286
+697 | strworld | 7,233
 698 | CryptoriumOfficial | 6,969
 699 | 0xboi | 6,969
 700 | tbobs04 | 6,969
