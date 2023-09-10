@@ -1,4 +1,4 @@
-Last updated: 23-09-10 19:40:31 UTC  
+Last updated: 23-09-10 19:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 16,923,787
+8 | cutsickass | 16,953,787
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
 11 | transfermymoons | 12,491,858
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | VIVOffical | 4,046,376
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
-39 | zdubs | 3,616,140
+39 | zdubs | 3,616,748
 40 | LuminousViper | 3,478,754
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,316,272
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | catlover-100 | 1,924,664
 59 | investigator100 | 1,798,377
 60 | djrcollectables | 1,797,507
-61 | CMDRGlamdring | 1,779,860
+61 | CMDRGlamdring | 1,782,523
 62 | dealkhabari | 1,763,283
 63 | Ten-Mins-Late | 1,707,793
 64 | GooderZBK | 1,617,267
@@ -440,12 +440,12 @@ Rank | Username | Totals Tips
 437 | waterincorporated | 39,428
 438 | kanem87 | 39,187
 439 | mutinomonem | 38,823
-440 | chaud3r | 38,290
-441 | lovenets_ | 38,182
-442 | rowdy1212 | 38,129
-443 | sM0k3dR4Gn | 38,045
-444 | ysnmingle | 38,038
-445 | FalloutAssasin | 37,979
+440 | FalloutAssasin | 38,399
+441 | chaud3r | 38,290
+442 | lovenets_ | 38,182
+443 | rowdy1212 | 38,129
+444 | sM0k3dR4Gn | 38,045
+445 | ysnmingle | 38,038
 446 | samer109 | 37,973
 447 | onetrueSage | 37,633
 448 | shitwhenismycakeday | 37,409
