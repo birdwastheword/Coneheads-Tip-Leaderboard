@@ -1,4 +1,4 @@
-Last updated: 23-09-10 22:40:30 UTC  
+Last updated: 23-09-10 22:50:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -751,13 +751,13 @@ Rank | Username | Totals Tips
 748 | Itwillmoon | 5,000
 749 | Crunchious1 | 5,000
 750 | My_Man_Tyrone | 5,000
-751 | Showwwy87 | 4,989
-752 | Kzis | 4,937
-753 | mcbifter | 4,834
-754 | Buzzalu | 4,824
-755 | Fcbp | 4,800
-756 | billw1zz | 4,791
-757 | RedditReader825 | 4,769
+751 | RedditReader825 | 4,989
+752 | Showwwy87 | 4,989
+753 | Kzis | 4,937
+754 | mcbifter | 4,834
+755 | Buzzalu | 4,824
+756 | Fcbp | 4,800
+757 | billw1zz | 4,791
 758 | Strict_Berry366 | 4,680
 759 | AnimeFlamingo | 4,620
 760 | trainspottedCSX7 | 4,597
