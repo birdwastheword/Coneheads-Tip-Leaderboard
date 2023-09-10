@@ -1,4 +1,4 @@
-Last updated: 23-09-10 09:50:29 UTC  
+Last updated: 23-09-10 10:00:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
 13 | transfermymoons | 11,491,858
-14 | SammyCraigar | 10,485,820
+14 | SammyCraigar | 10,486,428
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,533,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -589,19 +589,19 @@ Rank | Username | Totals Tips
 586 | rare1994 | 13,069
 587 | AdinaEspada | 12,997
 588 | seamonkey420 | 12,906
-589 | Artistic-Quit-3311 | 12,851
-590 | Boggess | 12,784
-591 | Conefollower | 12,774
-592 | Fcknsmn | 12,757
-593 | diarpiiiii | 12,743
-594 | MatrixObito8686 | 12,693
-595 | No-Success-8681 | 12,663
-596 | nullcomplex | 12,663
-597 | norjayy | 12,653
-598 | Potstar1 | 12,552
-599 | FixFull | 12,501
-600 | Dapper_Bloke88 | 12,451
-601 | Bobby_Juk | 12,448
+589 | Bobby_Juk | 12,868
+590 | Artistic-Quit-3311 | 12,851
+591 | Boggess | 12,784
+592 | Conefollower | 12,774
+593 | Fcknsmn | 12,757
+594 | diarpiiiii | 12,743
+595 | MatrixObito8686 | 12,693
+596 | No-Success-8681 | 12,663
+597 | nullcomplex | 12,663
+598 | norjayy | 12,653
+599 | Potstar1 | 12,552
+600 | FixFull | 12,501
+601 | Dapper_Bloke88 | 12,451
 602 | noah1754 | 12,435
 603 | Arvalll | 12,260
 604 | wesleylyan | 12,257
