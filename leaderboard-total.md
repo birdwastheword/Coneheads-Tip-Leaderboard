@@ -1,4 +1,4 @@
-Last updated: 23-09-10 23:17:25 UTC  
+Last updated: 23-09-10 23:25:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 17,123,114
+8 | cutsickass | 17,183,114
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
 11 | transfermymoons | 12,741,858
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,316,272
 43 | Dry_Badger_2403 | 3,193,857
-44 | GuyOne | 3,183,352
+44 | GuyOne | 3,193,352
 45 | LordBobTheWhale | 3,122,500
 46 | Korean_Street_Pizza | 2,780,821
 47 | Mean_Bandicoot_7481 | 2,752,108
@@ -346,10 +346,10 @@ Rank | Username | Totals Tips
 343 | ElmerBlack | 70,230
 344 | Rush4Time | 70,079
 345 | Creative_Ad7831 | 70,047
-346 | Yoda975 | 69,055
-347 | Dazzling_Marzipan474 | 69,033
-348 | Tapiz3land | 68,942
-349 | shellystarzz | 68,548
+346 | shellystarzz | 69,156
+347 | Yoda975 | 69,055
+348 | Dazzling_Marzipan474 | 69,033
+349 | Tapiz3land | 68,942
 350 | AnduriII | 68,313
 351 | Bobocod | 67,914
 352 | Friendly-Airline2426 | 66,547
