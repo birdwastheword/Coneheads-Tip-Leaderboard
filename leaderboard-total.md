@@ -1,4 +1,4 @@
-Last updated: 23-09-10 12:34:27 UTC  
+Last updated: 23-09-10 12:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,193,710
+27 | IveDoneItAtLast | 5,194,516
 28 | thelonliestcrowd | 4,936,587
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | Westy3000 | 785,820
 99 | ziggybri | 783,043
 100 | Korean_Street_Pizza | 780,821
-101 | Lillica_Golden_SHIB | 765,825
+101 | Lillica_Golden_SHIB | 765,894
 102 | RegalReptile_ | 757,249
 103 | Alanski22 | 738,178
 104 | virmamies | 718,771
@@ -321,11 +321,11 @@ Rank | Username | Totals Tips
 318 | Mother-Werewolf185 | 85,579
 319 | BeefaloSlim | 84,802
 320 | Puzzleheaded_Gift738 | 84,020
-321 | standArtpluto | 82,100
-322 | mastermarvs | 80,384
-323 | youtooleyesing | 79,892
-324 | diamondbored | 79,886
-325 | Admirito | 79,690
+321 | Admirito | 82,353
+322 | standArtpluto | 82,100
+323 | mastermarvs | 80,384
+324 | youtooleyesing | 79,892
+325 | diamondbored | 79,886
 326 | Pwny_b0y | 79,447
 327 | GodOfWarGuy737 | 79,069
 328 | fleshlyLoath | 78,366
@@ -415,21 +415,21 @@ Rank | Username | Totals Tips
 412 | Name_Trikolon | 45,002
 413 | acfranks | 44,663
 414 | 4gsboofd | 44,377
-415 | Kilv3r | 44,021
-416 | Coneboy2663 | 43,852
-417 | halfABsinC | 43,285
-418 | ACE415_ | 42,069
-419 | dead-spiral | 42,069
-420 | Cyber-Cafe | 41,921
-421 | PushyDevoIution | 41,695
-422 | madridgalactico | 41,231
-423 | HodLMania | 41,111
-424 | Expensive_Being_4038 | 41,047
-425 | ARoyaleWithCheese | 41,000
-426 | halfavocadoemoji | 40,688
-427 | Yirii | 40,605
-428 | Zap1324 | 40,271
-429 | Lucabba | 40,118
+415 | Lucabba | 44,318
+416 | Kilv3r | 44,021
+417 | Coneboy2663 | 43,852
+418 | halfABsinC | 43,285
+419 | ACE415_ | 42,069
+420 | dead-spiral | 42,069
+421 | Cyber-Cafe | 41,921
+422 | PushyDevoIution | 41,695
+423 | madridgalactico | 41,231
+424 | HodLMania | 41,111
+425 | Expensive_Being_4038 | 41,047
+426 | ARoyaleWithCheese | 41,000
+427 | halfavocadoemoji | 40,688
+428 | Yirii | 40,605
+429 | Zap1324 | 40,271
 430 | matdabom | 40,068
 431 | YourLocalDuskFox | 40,000
 432 | babuba1234321 | 40,000
