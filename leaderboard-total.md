@@ -1,4 +1,4 @@
-Last updated: 23-09-10 14:42:37 UTC  
+Last updated: 23-09-10 14:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | SpookySYN | 8,385,399
 19 | avyun | 8,075,856
 20 | Homeslicekilla | 7,998,462
-21 | Puddin-Luv | 7,080,761
+21 | Puddin-Luv | 7,081,181
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,679,696
 24 | Real_Player_0 | 6,588,535
@@ -383,19 +383,19 @@ Rank | Username | Totals Tips
 380 | chuloreddit | 55,878
 381 | imbarrydylan | 55,689
 382 | orangesandonions | 55,238
-383 | SandersIncBV | 54,288
-384 | Brandillio | 54,271
-385 | WarningKey6517 | 53,910
-386 | CryptoScamee42069 | 53,457
-387 | Astrochrono | 53,398
-388 | Jefe0457 | 53,368
-389 | Zezano | 52,679
-390 | abbasabba2 | 52,647
-391 | ky0984 | 52,257
-392 | mofayew | 52,166
-393 | ConeHead710 | 52,012
-394 | d_Shazam_b | 51,991
-395 | Significant-Bet5762 | 51,836
+383 | Significant-Bet5762 | 54,499
+384 | SandersIncBV | 54,288
+385 | Brandillio | 54,271
+386 | WarningKey6517 | 53,910
+387 | CryptoScamee42069 | 53,457
+388 | Astrochrono | 53,398
+389 | Jefe0457 | 53,368
+390 | Zezano | 52,679
+391 | abbasabba2 | 52,647
+392 | ky0984 | 52,257
+393 | mofayew | 52,166
+394 | ConeHead710 | 52,012
+395 | d_Shazam_b | 51,991
 396 | d0ntmess87 | 51,278
 397 | Complete-Tadpole-728 | 50,477
 398 | Outside-Wolf5928 | 50,096
