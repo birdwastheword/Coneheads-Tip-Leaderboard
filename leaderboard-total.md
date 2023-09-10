@@ -1,8 +1,8 @@
-Last updated: 23-09-10 16:22:45 UTC  
+Last updated: 23-09-10 16:34:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
-2 | Wonderful_Bad6531 | 36,211,772
+2 | Wonderful_Bad6531 | 36,219,780
 3 | nakamo-toe | 34,693,664
 4 | waterhasnocalories | 30,825,677
 5 | rickribera93 | 28,283,728
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 12,491,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 11,958,456
-14 | SammyCraigar | 10,518,384
+14 | SammyCraigar | 10,521,047
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,533,379
 17 | Permanent_WSB_Bull | 8,522,155
@@ -397,7 +397,7 @@ Rank | Username | Totals Tips
 394 | ConeHead710 | 52,012
 395 | d_Shazam_b | 51,991
 396 | d0ntmess87 | 51,278
-397 | Complete-Tadpole-728 | 50,477
+397 | Complete-Tadpole-728 | 50,897
 398 | Outside-Wolf5928 | 50,096
 399 | Yogi_Kat | 49,785
 400 | hey_barry | 49,698
