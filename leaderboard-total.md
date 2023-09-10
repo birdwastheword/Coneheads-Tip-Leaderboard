@@ -1,4 +1,4 @@
-Last updated: 23-09-10 22:50:55 UTC  
+Last updated: 23-09-10 23:01:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | nakamo-toe | 34,693,664
 4 | waterhasnocalories | 30,825,677
 5 | rickribera93 | 28,283,728
-6 | Jeff5704 | 28,145,581
+6 | Jeff5704 | 28,188,859
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 17,123,114
 9 | _ships | 16,444,925
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
 27 | IveDoneItAtLast | 5,215,819
-28 | thelonliestcrowd | 5,012,565
+28 | thelonliestcrowd | 5,015,228
 29 | Ginomania | 4,851,455
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | Affectionate_Hand_76 | 1,967,252
 58 | swampyswede | 1,944,887
 59 | catlover-100 | 1,924,664
-60 | investigator100 | 1,827,703
+60 | investigator100 | 1,833,711
 61 | djrcollectables | 1,797,507
 62 | CMDRGlamdring | 1,785,186
 63 | dealkhabari | 1,763,283
@@ -664,13 +664,13 @@ Rank | Username | Totals Tips
 661 | ElegantShelter7947 | 8,881
 662 | Duckeis | 8,873
 663 | Nugacity5 | 8,836
-664 | LaPantheRose | 8,647
-665 | BreadfruitIll4265 | 8,608
-666 | J-_Mad | 8,540
-667 | Swoopscooter | 8,500
-668 | ad5xlh | 8,470
-669 | TNJCrypto | 8,468
-670 | Nxnng | 8,428
+664 | Nxnng | 8,788
+665 | LaPantheRose | 8,647
+666 | BreadfruitIll4265 | 8,608
+667 | J-_Mad | 8,540
+668 | Swoopscooter | 8,500
+669 | ad5xlh | 8,470
+670 | TNJCrypto | 8,468
 671 | 1-760-706-7425 | 8,272
 672 | shityougrin | 8,265
 673 | akemicariocaer | 8,264
