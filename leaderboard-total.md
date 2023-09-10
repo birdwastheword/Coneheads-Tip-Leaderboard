@@ -1,4 +1,4 @@
-Last updated: 23-09-09 23:50:40 UTC  
+Last updated: 23-09-10 00:25:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,145,581
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 16,493,279
-9 | _ships | 16,378,190
+9 | _ships | 16,378,798
 10 | crypto_grandma | 13,632,565
 11 | HODL-THE-LINE | 12,469,181
 12 | Parush9 | 11,958,456
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,467,162
-27 | IveDoneItAtLast | 5,145,666
+27 | IveDoneItAtLast | 5,151,061
 28 | thelonliestcrowd | 4,931,261
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | femacampcouncilor | 642,812
 121 | slirpo | 631,180
 122 | formidable-opponent | 627,280
-123 | superlonelyboy | 611,488
+123 | superlonelyboy | 611,557
 124 | __PDS__ | 595,709
 125 | El_Gordone | 592,784
 126 | Burzzzt88 | 591,229
@@ -405,7 +405,7 @@ Rank | Username | Totals Tips
 402 | Levl1Critter | 49,152
 403 | Dolce_00 | 48,683
 404 | Atorcran | 48,623
-405 | Complete-Tadpole-728 | 47,957
+405 | Complete-Tadpole-728 | 48,377
 406 | shredslanding | 46,650
 407 | Oue | 46,352
 408 | skatistic | 46,287
@@ -617,15 +617,15 @@ Rank | Username | Totals Tips
 614 | TheChillDyl | 11,298
 615 | SquatAngry | 11,285
 616 | This_Red_Apple | 11,260
-617 | Bramberken05 | 11,110
-618 | GaryJulesMCOC | 11,110
-619 | Arj_123 | 11,032
-620 | xllw | 11,000
-621 | PurpleCoveredSnow | 10,915
-622 | Zealousideal-War6206 | 10,905
-623 | maurinet79 | 10,844
-624 | j9101a | 10,804
-625 | Bobby_Juk | 10,768
+617 | Bobby_Juk | 11,188
+618 | Bramberken05 | 11,110
+619 | GaryJulesMCOC | 11,110
+620 | Arj_123 | 11,032
+621 | xllw | 11,000
+622 | PurpleCoveredSnow | 10,915
+623 | Zealousideal-War6206 | 10,905
+624 | maurinet79 | 10,844
+625 | j9101a | 10,804
 626 | ancheli | 10,588
 627 | Straton_Conemont_Inc | 10,550
 628 | Background-Ad-2102 | 10,450
