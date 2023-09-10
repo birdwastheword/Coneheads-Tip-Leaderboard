@@ -1,4 +1,4 @@
-Last updated: 23-09-10 08:00:58 UTC  
+Last updated: 23-09-10 08:20:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -262,7 +262,7 @@ Rank | Username | Totals Tips
 259 | GoodMornEveGoodNight | 131,088
 260 | Kevin3683 | 130,622
 261 | ZeMadMan1 | 130,588
-262 | ItailianStallion101 | 129,816
+262 | ItailianStallion101 | 129,917
 263 | Mj_6o4 | 129,568
 264 | Awake-- | 128,173
 265 | robnectar | 127,974
