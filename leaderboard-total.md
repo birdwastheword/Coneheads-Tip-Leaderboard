@@ -1,4 +1,4 @@
-Last updated: 23-09-10 17:34:25 UTC  
+Last updated: 23-09-10 17:42:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,213,995
+27 | IveDoneItAtLast | 5,215,211
 28 | thelonliestcrowd | 5,004,576
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | DogSpark84 | 534,529
 133 | crodbtc | 529,267
 134 | doktastonks | 521,325
-135 | Allions1 | 517,362
+135 | Allions1 | 520,025
 136 | f0n1xr131ng | 509,681
 137 | Crypto-4-Freedom | 504,396
 138 | AcceptableLeg8751 | 500,000
@@ -396,7 +396,7 @@ Rank | Username | Totals Tips
 393 | mofayew | 52,166
 394 | ConeHead710 | 52,012
 395 | d_Shazam_b | 51,991
-396 | Complete-Tadpole-728 | 51,386
+396 | Complete-Tadpole-728 | 51,806
 397 | d0ntmess87 | 51,278
 398 | Outside-Wolf5928 | 50,096
 399 | Yogi_Kat | 49,785
