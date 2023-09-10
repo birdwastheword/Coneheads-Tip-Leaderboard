@@ -111,5 +111,6 @@ Rank | Date | Username | Tip size | to User
 108 | 2023-09-03 22:10:36 | Puddin-Luv | 1,000,000| cutsickass
 109 | 2023-09-09 16:43:25 | ZoomLong | 1,000,000| Korean_Street_Pizza
 110 | 2023-09-09 16:45:57 | ZoomLong | 1,000,000| zdubs
+111 | 2023-09-10 15:00:56 | transfermymoons | 1,000,000| ID404_Not_Found_8964
 
 Tips over 1,000,000 will be eligible for the Hall of Fame

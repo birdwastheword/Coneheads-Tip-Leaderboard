@@ -1,4 +1,4 @@
-Last updated: 23-09-10 15:01:02 UTC  
+Last updated: 23-09-10 15:16:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -11,9 +11,9 @@ Rank | Username | Totals Tips
 8 | cutsickass | 16,643,279
 9 | _ships | 16,444,925
 10 | crypto_grandma | 13,632,565
-11 | HODL-THE-LINE | 12,469,181
-12 | Parush9 | 11,958,456
-13 | transfermymoons | 11,491,858
+11 | transfermymoons | 12,491,858
+12 | HODL-THE-LINE | 12,469,181
+13 | Parush9 | 11,958,456
 14 | SammyCraigar | 10,515,721
 15 | 8inchConer | 8,947,550
 16 | ArtConsitent | 8,533,379
@@ -87,7 +87,7 @@ Rank | Username | Totals Tips
 84 | WarmBiertje | 1,000,000
 85 | EvanIsBacon | 970,416
 86 | CHEROKEEJ4CK | 940,286
-87 | ID404_Not_Found_8964 | 934,948
+87 | ID404_Not_Found_8964 | 934,973
 88 | Forward_Today2849 | 932,405
 89 | Modestexcuse | 903,684
 90 | CluelessSurvivor | 902,466
