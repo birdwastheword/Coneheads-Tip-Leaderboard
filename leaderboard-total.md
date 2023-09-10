@@ -1,4 +1,4 @@
-Last updated: 23-09-10 10:40:37 UTC  
+Last updated: 23-09-10 10:50:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -140,7 +140,7 @@ Rank | Username | Totals Tips
 137 | Crypto-4-Freedom | 504,396
 138 | AcceptableLeg8751 | 500,000
 139 | Successful-Walk-3902 | 498,794
-140 | PortCity_MadMan | 472,287
+140 | PortCity_MadMan | 474,950
 141 | Lady_Lucks_Man | 470,704
 142 | sinlesco | 465,153
 143 | WarmlyWacky | 462,118
