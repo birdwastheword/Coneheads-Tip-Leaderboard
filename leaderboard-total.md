@@ -1,4 +1,4 @@
-Last updated: 23-09-10 17:50:51 UTC  
+Last updated: 23-09-10 18:00:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | scientifichistorian | 539,560
 131 | shreyaskg | 538,211
 132 | DogSpark84 | 534,529
-133 | crodbtc | 529,267
+133 | crodbtc | 531,930
 134 | doktastonks | 521,325
 135 | Allions1 | 520,025
 136 | f0n1xr131ng | 509,681
