@@ -1,4 +1,4 @@
-Last updated: 23-09-10 05:30:46 UTC  
+Last updated: 23-09-10 05:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -491,8 +491,8 @@ Rank | Username | Totals Tips
 488 | Fictional_Blook | 28,143
 489 | Fomo- | 28,020
 490 | hvefe | 28,005
-491 | madisonfm | 27,934
-492 | Jo2Bax | 27,889
+491 | Jo2Bax | 27,958
+492 | madisonfm | 27,934
 493 | 2620lukas | 27,837
 494 | ikiyen | 27,500
 495 | Sparrow | 27,214
@@ -697,22 +697,22 @@ Rank | Username | Totals Tips
 694 | Weirdclerk_ | 7,392
 695 | LightninHooker | 7,286
 696 | strworld | 7,233
-697 | CryptoriumOfficial | 6,969
-698 | 0xboi | 6,969
-699 | tbobs04 | 6,969
-700 | Alternative-Radish13 | 6,969
-701 | NEO_R1CH | 6,964
-702 | physiops | 6,962
-703 | dozebull | 6,849
-704 | Kindly-Strawberry637 | 6,800
-705 | Knackebrodd | 6,683
-706 | No-Emu-5060 | 6,663
-707 | thespygorillas | 6,662
-708 | GoldMaster15 | 6,618
-709 | Fourplyer80 | 6,587
-710 | dexabonk | 6,541
-711 | _pondering_insomniac | 6,500
-712 | Nxnng | 6,430
+697 | Nxnng | 7,096
+698 | CryptoriumOfficial | 6,969
+699 | 0xboi | 6,969
+700 | tbobs04 | 6,969
+701 | Alternative-Radish13 | 6,969
+702 | NEO_R1CH | 6,964
+703 | physiops | 6,962
+704 | dozebull | 6,849
+705 | Kindly-Strawberry637 | 6,800
+706 | Knackebrodd | 6,683
+707 | No-Emu-5060 | 6,663
+708 | thespygorillas | 6,662
+709 | GoldMaster15 | 6,618
+710 | Fourplyer80 | 6,587
+711 | dexabonk | 6,541
+712 | _pondering_insomniac | 6,500
 713 | SeniorThiccBoi | 6,405
 714 | theindoshow | 6,388
 715 | rpgruli | 6,364
