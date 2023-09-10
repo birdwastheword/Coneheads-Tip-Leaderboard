@@ -1,4 +1,4 @@
-Last updated: 23-09-10 03:04:57 UTC  
+Last updated: 23-09-10 03:19:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,467,162
 27 | IveDoneItAtLast | 5,151,061
-28 | thelonliestcrowd | 4,931,261
+28 | thelonliestcrowd | 4,933,924
 29 | Ginomania | 4,839,272
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,413,049
 34 | rustyybikes | 4,267,673
 35 | send420nudes | 4,187,824
-36 | VIVOffical | 4,022,570
+36 | VIVOffical | 4,025,233
 37 | clean_cut89 | 3,713,476
 38 | thom_orrow | 3,693,739
 39 | zdubs | 3,613,100
@@ -458,8 +458,8 @@ Rank | Username | Totals Tips
 455 | TRANZHUMANIST | 35,069
 456 | SirPesoOtaku | 34,724
 457 | Big-Researcher-3855 | 34,461
-458 | BelowAveIntelligence | 34,132
-459 | foreignGER | 34,119
+458 | foreignGER | 34,319
+459 | BelowAveIntelligence | 34,132
 460 | Obvious-Ask-5747 | 33,806
 461 | PoDunkYuppie | 33,513
 462 | Gerboogler | 33,314
@@ -886,11 +886,11 @@ Rank | Username | Totals Tips
 883 | Interesting-Chip-500 | 1,559
 884 | Ask_Ari | 1,544
 885 | KantoRegionChampRed | 1,536
-886 | XenonXTR | 1,517
-887 | Pataphak377 | 1,490
-888 | adamdmn | 1,490
-889 | WhiteMoss_ | 1,488
-890 | Elgato_TJ | 1,449
+886 | Elgato_TJ | 1,518
+887 | XenonXTR | 1,517
+888 | Pataphak377 | 1,490
+889 | adamdmn | 1,490
+890 | WhiteMoss_ | 1,488
 891 | SinTron99 | 1,448
 892 | Prodigyyyyyy | 1,432
 893 | mkultrahigh | 1,415
