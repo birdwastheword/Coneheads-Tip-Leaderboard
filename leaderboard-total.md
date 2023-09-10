@@ -1,4 +1,4 @@
-Last updated: 23-09-10 14:34:08 UTC  
+Last updated: 23-09-10 14:42:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,316,272
 43 | Dry_Badger_2403 | 3,193,857
-44 | GuyOne | 3,138,689
+44 | GuyOne | 3,180,689
 45 | LordBobTheWhale | 3,121,892
 46 | Mean_Bandicoot_7481 | 2,752,108
 47 | DontLaughArt | 2,743,453
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | swampyswede | 1,944,887
 58 | catlover-100 | 1,924,664
 59 | djrcollectables | 1,797,507
-60 | investigator100 | 1,767,525
+60 | investigator100 | 1,780,188
 61 | dealkhabari | 1,763,283
 62 | Ten-Mins-Late | 1,707,793
 63 | CMDRGlamdring | 1,653,030
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | Westy3000 | 785,820
 99 | ziggybri | 783,043
 100 | Korean_Street_Pizza | 780,821
-101 | Lillica_Golden_SHIB | 765,963
+101 | Lillica_Golden_SHIB | 766,032
 102 | RegalReptile_ | 757,249
 103 | Alanski22 | 738,178
 104 | virmamies | 718,771
@@ -397,8 +397,8 @@ Rank | Username | Totals Tips
 394 | d_Shazam_b | 51,991
 395 | Significant-Bet5762 | 51,836
 396 | d0ntmess87 | 51,278
-397 | Outside-Wolf5928 | 50,096
-398 | Complete-Tadpole-728 | 50,057
+397 | Complete-Tadpole-728 | 50,477
+398 | Outside-Wolf5928 | 50,096
 399 | Yogi_Kat | 49,785
 400 | hey_barry | 49,698
 401 | eatthebagels | 49,692
@@ -445,8 +445,8 @@ Rank | Username | Totals Tips
 442 | rowdy1212 | 38,129
 443 | sM0k3dR4Gn | 38,045
 444 | ysnmingle | 38,038
-445 | samer109 | 37,973
-446 | FalloutAssasin | 37,910
+445 | FalloutAssasin | 37,979
+446 | samer109 | 37,973
 447 | onetrueSage | 37,633
 448 | shitwhenismycakeday | 37,409
 449 | redditisalt | 37,307
