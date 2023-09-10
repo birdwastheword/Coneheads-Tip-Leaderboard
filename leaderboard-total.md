@@ -1,4 +1,4 @@
-Last updated: 23-09-10 08:50:40 UTC  
+Last updated: 23-09-10 09:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -220,9 +220,9 @@ Rank | Username | Totals Tips
 217 | TummyLice | 199,851
 218 | rolonic | 198,866
 219 | CedricDiccory | 197,932
-220 | sudrats | 197,124
-221 | redditavanft | 195,122
-222 | Most_Being_4002 | 195,083
+220 | Most_Being_4002 | 197,746
+221 | sudrats | 197,124
+222 | redditavanft | 195,122
 223 | AverageLiberalJoe | 195,007
 224 | ShortBusCult | 193,533
 225 | RiightYouKnow | 193,329
