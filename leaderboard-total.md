@@ -1,4 +1,4 @@
-Last updated: 23-09-11 10:50:40 UTC  
+Last updated: 23-09-11 11:00:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | GooderZBK | 1,617,267
 67 | KONGXIANG | 1,584,177
 68 | evilninjarobot | 1,545,933
-69 | ultra_terrestrial | 1,481,379
+69 | ultra_terrestrial | 1,481,799
 70 | YarOldeOrchard | 1,428,410
 71 | LongCauliflower6791 | 1,410,092
 72 | ValiantJudge29500 | 1,395,493
@@ -479,7 +479,7 @@ Rank | Username | Totals Tips
 476 | OutTop | 31,069
 477 | riceboi3789 | 31,000
 478 | ClubbyTheCub | 30,885
-479 | slasula | 30,794
+479 | slasula | 30,800
 480 | rOn3OW | 30,714
 481 | masedogg98 | 30,547
 482 | -Boxen | 30,420
