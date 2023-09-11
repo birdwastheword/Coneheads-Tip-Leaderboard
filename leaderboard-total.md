@@ -1,4 +1,4 @@
-Last updated: 23-09-11 10:32:16 UTC  
+Last updated: 23-09-11 10:40:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -297,11 +297,11 @@ Rank | Username | Totals Tips
 294 | customsolitaires | 99,383
 295 | IHodlStill | 98,684
 296 | FeetAndHandFetish | 98,146
-297 | Knaeggebrott | 97,076
-298 | IOTA_Tesla | 96,607
-299 | 192000Hertz | 96,457
-300 | BrendanTFirefly | 95,347
-301 | Chill_Edoeard | 94,820
+297 | Chill_Edoeard | 97,483
+298 | Knaeggebrott | 97,076
+299 | IOTA_Tesla | 96,607
+300 | 192000Hertz | 96,457
+301 | BrendanTFirefly | 95,347
 302 | wolfman333 | 93,986
 303 | CrossPuffs | 93,741
 304 | RollingSkull0 | 93,538
