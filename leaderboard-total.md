@@ -1,4 +1,4 @@
-Last updated: 23-09-11 09:30:57 UTC  
+Last updated: 23-09-11 09:40:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | redzrex | 4,491,988
 33 | birdwastheword | 4,415,712
 34 | rustyybikes | 4,267,673
-35 | send420nudes | 4,202,093
+35 | send420nudes | 4,206,362
 36 | VIVOffical | 4,056,376
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
@@ -460,8 +460,8 @@ Rank | Username | Totals Tips
 457 | TRANZHUMANIST | 35,069
 458 | SirPesoOtaku | 34,724
 459 | foreignGER | 34,719
-460 | Big-Researcher-3855 | 34,461
-461 | Bobby_Juk | 34,168
+460 | Bobby_Juk | 34,588
+461 | Big-Researcher-3855 | 34,461
 462 | BelowAveIntelligence | 34,132
 463 | Obvious-Ask-5747 | 33,806
 464 | PoDunkYuppie | 33,513
