@@ -1,4 +1,4 @@
-Last updated: 23-09-11 11:32:44 UTC  
+Last updated: 23-09-11 11:41:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | Iulian_TechNewb | 1,690,179
 66 | GooderZBK | 1,617,267
 67 | KONGXIANG | 1,584,177
-68 | evilninjarobot | 1,545,933
+68 | evilninjarobot | 1,546,541
 69 | ultra_terrestrial | 1,486,419
 70 | YarOldeOrchard | 1,428,410
 71 | LongCauliflower6791 | 1,410,092
