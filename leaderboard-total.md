@@ -1,4 +1,4 @@
-Last updated: 23-09-11 12:42:58 UTC  
+Last updated: 23-09-11 12:59:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -304,9 +304,9 @@ Rank | Username | Totals Tips
 301 | BrendanTFirefly | 95,347
 302 | wolfman333 | 93,986
 303 | CrossPuffs | 93,741
-304 | RollingSkull0 | 93,538
-305 | H3adshotfox77 | 92,575
-306 | Own_Ad_4269 | 91,963
+304 | Own_Ad_4269 | 93,635
+305 | RollingSkull0 | 93,538
+306 | H3adshotfox77 | 92,575
 307 | urlz | 91,281
 308 | Backwood20 | 90,298
 309 | DramaticProtogen | 90,274
