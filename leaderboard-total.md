@@ -1,4 +1,4 @@
-Last updated: 23-09-11 22:00:53 UTC  
+Last updated: 23-09-11 22:18:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,188,859
 7 | cutsickass | 18,223,295
 8 | ConeDesk | 17,947,653
-9 | _ships | 16,471,555
+9 | _ships | 16,472,163
 10 | crypto_grandma | 13,729,451
 11 | transfermymoons | 12,741,858
 12 | HODL-THE-LINE | 12,469,181
@@ -144,7 +144,7 @@ Rank | Username | Totals Tips
 141 | AcceptableLeg8751 | 500,000
 142 | Successful-Walk-3902 | 498,794
 143 | adrifing | 493,831
-144 | Lady_Lucks_Man | 470,704
+144 | Lady_Lucks_Man | 471,124
 145 | sinlesco | 465,153
 146 | WarmlyWacky | 462,118
 147 | WhateverAlready | 455,301
@@ -422,7 +422,7 @@ Rank | Username | Totals Tips
 419 | Coneboy2663 | 43,852
 420 | halfavocadoemoji | 43,351
 421 | halfABsinC | 43,285
-422 | Bobby_Juk | 42,148
+422 | Bobby_Juk | 42,568
 423 | ACE415_ | 42,069
 424 | dead-spiral | 42,069
 425 | Cyber-Cafe | 41,921
