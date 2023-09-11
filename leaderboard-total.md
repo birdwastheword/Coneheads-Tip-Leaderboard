@@ -1,4 +1,4 @@
-Last updated: 23-09-11 18:33:13 UTC  
+Last updated: 23-09-11 18:41:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -16,20 +16,20 @@ Rank | Username | Totals Tips
 13 | Parush9 | 11,958,456
 14 | SammyCraigar | 10,628,175
 15 | 8inchConer | 8,947,619
-16 | SpookySYN | 8,555,831
+16 | SpookySYN | 8,582,461
 17 | ArtConsitent | 8,533,379
 18 | Permanent_WSB_Bull | 8,522,763
 19 | avyun | 8,152,245
 20 | Homeslicekilla | 7,998,462
-21 | Puddin-Luv | 7,156,900
+21 | Puddin-Luv | 7,157,320
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,682,359
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,231,044
+27 | IveDoneItAtLast | 5,232,656
 28 | thelonliestcrowd | 5,028,544
-29 | Ginomania | 4,851,455
+29 | Ginomania | 4,878,085
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,492,408
@@ -702,16 +702,16 @@ Rank | Username | Totals Tips
 699 | quaker-goats | 7,414
 700 | Weirdclerk_ | 7,392
 701 | strworld | 7,233
-702 | LimpPeanut5633 | 7,065
-703 | CryptoriumOfficial | 6,969
-704 | 0xboi | 6,969
-705 | tbobs04 | 6,969
-706 | Alternative-Radish13 | 6,969
-707 | NEO_R1CH | 6,964
-708 | physiops | 6,962
-709 | dozebull | 6,849
-710 | Kindly-Strawberry637 | 6,800
-711 | Overall-Extension608 | 6,736
+702 | Overall-Extension608 | 7,164
+703 | LimpPeanut5633 | 7,065
+704 | CryptoriumOfficial | 6,969
+705 | 0xboi | 6,969
+706 | tbobs04 | 6,969
+707 | Alternative-Radish13 | 6,969
+708 | NEO_R1CH | 6,964
+709 | physiops | 6,962
+710 | dozebull | 6,849
+711 | Kindly-Strawberry637 | 6,800
 712 | Knackebrodd | 6,683
 713 | No-Emu-5060 | 6,663
 714 | thespygorillas | 6,662
