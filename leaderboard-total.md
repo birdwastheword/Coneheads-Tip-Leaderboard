@@ -1,4 +1,4 @@
-Last updated: 23-09-11 22:18:44 UTC  
+Last updated: 23-09-11 22:30:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | Iulian_TechNewb | 1,690,179
 66 | GooderZBK | 1,617,267
 67 | KONGXIANG | 1,584,177
-68 | evilninjarobot | 1,546,541
+68 | evilninjarobot | 1,549,204
 69 | ultra_terrestrial | 1,487,679
 70 | LongCauliflower6791 | 1,430,092
 71 | YarOldeOrchard | 1,428,410
@@ -422,7 +422,7 @@ Rank | Username | Totals Tips
 419 | Coneboy2663 | 43,852
 420 | halfavocadoemoji | 43,351
 421 | halfABsinC | 43,285
-422 | Bobby_Juk | 42,568
+422 | Bobby_Juk | 42,988
 423 | ACE415_ | 42,069
 424 | dead-spiral | 42,069
 425 | Cyber-Cafe | 41,921
