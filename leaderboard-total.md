@@ -1,4 +1,4 @@
-Last updated: 23-09-11 13:40:50 UTC  
+Last updated: 23-09-11 13:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | GooderZBK | 1,617,267
 67 | KONGXIANG | 1,584,177
 68 | evilninjarobot | 1,546,541
-69 | ultra_terrestrial | 1,486,839
+69 | ultra_terrestrial | 1,487,259
 70 | YarOldeOrchard | 1,428,410
 71 | LongCauliflower6791 | 1,410,092
 72 | ValiantJudge29500 | 1,395,493
@@ -134,7 +134,7 @@ Rank | Username | Totals Tips
 131 | StepAsideSuckers | 543,358
 132 | scientifichistorian | 539,560
 133 | shreyaskg | 538,211
-134 | crodbtc | 534,593
+134 | crodbtc | 537,256
 135 | DogSpark84 | 534,529
 136 | PortCity_MadMan | 522,884
 137 | doktastonks | 521,325
@@ -175,9 +175,9 @@ Rank | Username | Totals Tips
 172 | liwipe | 304,467
 173 | VincentVanGTFO | 300,598
 174 | legionticket | 296,054
-175 | send_tacoz | 293,576
-176 | FluffyAspie | 291,679
-177 | fettskull | 291,317
+175 | fettskull | 293,980
+176 | send_tacoz | 293,576
+177 | FluffyAspie | 291,679
 178 | deedopete | 285,361
 179 | monkeybombed | 284,315
 180 | dinoyeti | 283,881
@@ -221,8 +221,8 @@ Rank | Username | Totals Tips
 218 | ziggyback | 203,369
 219 | TummyLice | 199,851
 220 | rolonic | 198,866
-221 | CedricDiccory | 197,932
-222 | Most_Being_4002 | 197,746
+221 | Most_Being_4002 | 198,166
+222 | CedricDiccory | 197,932
 223 | sudrats | 197,124
 224 | redditavanft | 195,122
 225 | AverageLiberalJoe | 195,007
@@ -352,11 +352,11 @@ Rank | Username | Totals Tips
 349 | Yoda975 | 69,055
 350 | Dazzling_Marzipan474 | 69,033
 351 | Tapiz3land | 68,942
-352 | AnduriII | 68,313
-353 | Bobocod | 67,914
-354 | Friendly-Airline2426 | 66,547
-355 | -geek | 66,318
-356 | Complete-Tadpole-728 | 66,053
+352 | Complete-Tadpole-728 | 68,642
+353 | AnduriII | 68,313
+354 | Bobocod | 67,914
+355 | Friendly-Airline2426 | 66,547
+356 | -geek | 66,318
 357 | imp3order | 65,546
 358 | damnusernamegotcutof | 65,004
 359 | zuzieey7719 | 64,618
