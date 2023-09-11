@@ -1,4 +1,4 @@
-Last updated: 23-09-11 10:40:48 UTC  
+Last updated: 23-09-11 10:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -457,7 +457,7 @@ Rank | Username | Totals Tips
 454 | cryotosensei | 37,000
 455 | degree-01 | 36,486
 456 | genesis_crazy_one | 36,237
-457 | Bobby_Juk | 35,428
+457 | Bobby_Juk | 35,848
 458 | TRANZHUMANIST | 35,069
 459 | SirPesoOtaku | 34,724
 460 | foreignGER | 34,719
