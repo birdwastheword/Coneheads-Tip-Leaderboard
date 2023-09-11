@@ -1,4 +1,4 @@
-Last updated: 23-09-11 09:50:43 UTC  
+Last updated: 23-09-11 10:00:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,491,988
 33 | birdwastheword | 4,415,712
-34 | rustyybikes | 4,268,404
+34 | rustyybikes | 4,269,012
 35 | send420nudes | 4,206,362
 36 | VIVOffical | 4,056,376
 37 | thom_orrow | 3,724,828
@@ -457,10 +457,10 @@ Rank | Username | Totals Tips
 454 | cryotosensei | 37,000
 455 | degree-01 | 36,486
 456 | genesis_crazy_one | 36,237
-457 | TRANZHUMANIST | 35,069
-458 | SirPesoOtaku | 34,724
-459 | foreignGER | 34,719
-460 | Bobby_Juk | 34,588
+457 | Bobby_Juk | 35,428
+458 | TRANZHUMANIST | 35,069
+459 | SirPesoOtaku | 34,724
+460 | foreignGER | 34,719
 461 | Big-Researcher-3855 | 34,461
 462 | BelowAveIntelligence | 34,132
 463 | Obvious-Ask-5747 | 33,806
