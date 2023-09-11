@@ -1,4 +1,4 @@
-Last updated: 23-09-11 12:09:02 UTC  
+Last updated: 23-09-11 12:42:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -45,8 +45,8 @@ Rank | Username | Totals Tips
 42 | bray_martin03 | 3,318,935
 43 | Dry_Badger_2403 | 3,193,857
 44 | GuyOne | 3,193,352
-45 | LordBobTheWhale | 3,123,108
-46 | DontLaughArt | 2,782,816
+45 | LordBobTheWhale | 3,123,716
+46 | DontLaughArt | 2,786,087
 47 | Korean_Street_Pizza | 2,780,823
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,647,842
@@ -164,7 +164,7 @@ Rank | Username | Totals Tips
 161 | hellosamaira | 373,235
 162 | AustinTX1985 | 371,526
 163 | farmertypoerror | 359,212
-164 | Tinman_ApE | 355,718
+164 | Tinman_ApE | 356,326
 165 | DAMG808 | 355,432
 166 | Outrageous-Skill-464 | 344,174
 167 | anony666mous | 341,008
@@ -358,16 +358,16 @@ Rank | Username | Totals Tips
 355 | -geek | 66,318
 356 | imp3order | 65,546
 357 | damnusernamegotcutof | 65,004
-358 | zuzieey7719 | 64,618
-359 | Virtual-Wrangler5955 | 64,343
-360 | slug_tamer | 63,595
-361 | Complete-Tadpole-728 | 63,455
-362 | guokaidi | 63,413
-363 | Emeritux | 63,020
-364 | S2K08 | 62,773
-365 | netnemirepxE | 62,645
-366 | meth43 | 62,596
-367 | KrunchyKushKing | 61,532
+358 | Complete-Tadpole-728 | 64,715
+359 | zuzieey7719 | 64,618
+360 | Virtual-Wrangler5955 | 64,343
+361 | KrunchyKushKing | 64,195
+362 | slug_tamer | 63,595
+363 | guokaidi | 63,413
+364 | Emeritux | 63,020
+365 | S2K08 | 62,773
+366 | netnemirepxE | 62,645
+367 | meth43 | 62,596
 368 | SaberTurret | 60,797
 369 | TheD1ceMan | 60,541
 370 | lucrica | 59,987
@@ -585,7 +585,7 @@ Rank | Username | Totals Tips
 582 | SenseiRaheem | 13,716
 583 | osoese | 13,680
 584 | mantrakid | 13,644
-585 | stspts | 13,612
+585 | stspts | 13,613
 586 | couchguitar | 13,330
 587 | zahrawins | 13,329
 588 | Diamond_Hands420 | 13,277
