@@ -1,4 +1,4 @@
-Last updated: 23-09-11 20:18:02 UTC  
+Last updated: 23-09-11 20:30:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -7,8 +7,8 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,825,677
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
-7 | ConeDesk | 17,947,653
-8 | cutsickass | 17,923,295
+7 | cutsickass | 17,983,295
+8 | ConeDesk | 17,947,653
 9 | _ships | 16,471,555
 10 | crypto_grandma | 13,729,451
 11 | transfermymoons | 12,741,858
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Fenrir-1919 | 2,647,842
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
-52 | ImAlekBan | 2,533,849
+52 | ImAlekBan | 2,536,512
 53 | possibili-teas | 2,399,515
 54 | Autom4tic_Soze | 2,184,437
 55 | 002_timmy | 2,059,494
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | catlover-100 | 1,924,664
 60 | investigator100 | 1,844,363
 61 | djrcollectables | 1,806,104
-62 | CMDRGlamdring | 1,787,849
+62 | CMDRGlamdring | 1,790,512
 63 | dealkhabari | 1,763,891
 64 | Ten-Mins-Late | 1,707,793
 65 | Iulian_TechNewb | 1,690,179
@@ -185,7 +185,7 @@ Rank | Username | Totals Tips
 182 | MadScientistTheFirst | 280,469
 183 | astro_nut_ | 280,463
 184 | maxfra | 280,067
-185 | Flimsy_Brilliant_239 | 275,118
+185 | Flimsy_Brilliant_239 | 277,781
 186 | Final-Scar-941 | 271,039
 187 | _Mitchee_ | 269,156
 188 | SetoXlll | 266,136
@@ -699,11 +699,11 @@ Rank | Username | Totals Tips
 696 | king0ftheroad | 7,500
 697 | RiceRare | 7,491
 698 | Pengpangolin | 7,488
-699 | FlippiShh | 7,440
-700 | quaker-goats | 7,414
-701 | Weirdclerk_ | 7,392
-702 | strworld | 7,233
-703 | LimpPeanut5633 | 7,065
+699 | LimpPeanut5633 | 7,485
+700 | FlippiShh | 7,440
+701 | quaker-goats | 7,414
+702 | Weirdclerk_ | 7,392
+703 | strworld | 7,233
 704 | CryptoriumOfficial | 6,969
 705 | 0xboi | 6,969
 706 | tbobs04 | 6,969
