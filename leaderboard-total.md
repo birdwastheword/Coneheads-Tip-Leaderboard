@@ -1,4 +1,4 @@
-Last updated: 23-09-11 23:40:32 UTC  
+Last updated: 23-09-11 23:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -260,14 +260,14 @@ Rank | Username | Totals Tips
 257 | Outrageous-Ad8481 | 137,001
 258 | pythonskynet | 135,301
 259 | MorrisWayne | 133,416
-260 | GoodMornEveGoodNight | 131,088
-261 | Kevin3683 | 130,622
+260 | Kevin3683 | 133,285
+261 | GoodMornEveGoodNight | 131,088
 262 | ItailianStallion101 | 129,921
 263 | Mj_6o4 | 129,568
 264 | Awake-- | 128,173
 265 | robnectar | 127,974
-266 | CalligrapherEnough83 | 127,227
-267 | BitCone_CONE | 127,073
+266 | BitCone_CONE | 127,681
+267 | CalligrapherEnough83 | 127,227
 268 | Trakorr | 125,110
 269 | DeanDeanington | 124,604
 270 | Sativa55555 | 121,550
@@ -355,13 +355,13 @@ Rank | Username | Totals Tips
 352 | Tapiz3land | 68,942
 353 | AnduriII | 68,313
 354 | Bobocod | 67,914
-355 | Virtual-Wrangler5955 | 67,006
-356 | Friendly-Airline2426 | 66,547
-357 | -geek | 66,318
-358 | imp3order | 65,546
-359 | damnusernamegotcutof | 65,004
-360 | zuzieey7719 | 64,618
-361 | SaberTurret | 64,308
+355 | SaberTurret | 67,819
+356 | Virtual-Wrangler5955 | 67,006
+357 | Friendly-Airline2426 | 66,547
+358 | -geek | 66,318
+359 | imp3order | 65,546
+360 | damnusernamegotcutof | 65,004
+361 | zuzieey7719 | 64,618
 362 | KrunchyKushKing | 64,195
 363 | slug_tamer | 63,595
 364 | guokaidi | 63,413
@@ -843,10 +843,10 @@ Rank | Username | Totals Tips
 840 | offgridgecko | 2,454
 841 | birdstream | 2,427
 842 | That_Youth2223 | 2,414
-843 | MrD_12 | 2,376
-844 | SpySeaRamen | 2,340
-845 | bonneatoutfaire | 2,303
-846 | TheyAskWho | 2,282
+843 | TheyAskWho | 2,393
+844 | MrD_12 | 2,376
+845 | SpySeaRamen | 2,340
+846 | bonneatoutfaire | 2,303
 847 | Far_Movie_6595 | 2,248
 848 | Hancock02 | 2,238
 849 | ODoyles_Banana | 2,226
