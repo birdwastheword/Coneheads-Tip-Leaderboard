@@ -1,4 +1,4 @@
-Last updated: 23-09-11 20:50:50 UTC  
+Last updated: 23-09-11 21:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,825,677
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
-7 | cutsickass | 18,013,295
+7 | cutsickass | 18,043,295
 8 | ConeDesk | 17,947,653
 9 | _ships | 16,471,555
 10 | crypto_grandma | 13,729,451
@@ -657,17 +657,17 @@ Rank | Username | Totals Tips
 654 | xSeekTruthx | 9,459
 655 | Most_Border_3917 | 9,449
 656 | mmmohm | 9,363
-657 | Big_Beyotch | 9,318
-658 | Donmari590 | 9,250
-659 | cptnkook | 9,241
-660 | Ddoublewhopper | 9,126
-661 | undefined-account | 9,126
-662 | Shraier | 9,103
-663 | Otherwise_Assist_34 | 9,083
-664 | LaPantheRose | 9,067
-665 | 69BoJack69 | 9,003
-666 | Coeruleus_ | 8,985
-667 | Overall-Extension608 | 8,886
+657 | Overall-Extension608 | 9,319
+658 | Big_Beyotch | 9,318
+659 | Donmari590 | 9,250
+660 | cptnkook | 9,241
+661 | Ddoublewhopper | 9,126
+662 | undefined-account | 9,126
+663 | Shraier | 9,103
+664 | Otherwise_Assist_34 | 9,083
+665 | LaPantheRose | 9,067
+666 | 69BoJack69 | 9,003
+667 | Coeruleus_ | 8,985
 668 | ElegantShelter7947 | 8,881
 669 | Duckeis | 8,873
 670 | Nugacity5 | 8,836
