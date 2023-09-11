@@ -1,4 +1,4 @@
-Last updated: 23-09-11 15:50:41 UTC  
+Last updated: 23-09-11 16:24:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
 27 | IveDoneItAtLast | 5,221,565
-28 | thelonliestcrowd | 5,025,881
+28 | thelonliestcrowd | 5,028,544
 29 | Ginomania | 4,851,455
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | clean_cut89 | 3,713,476
 39 | zdubs | 3,618,033
 40 | LuminousViper | 3,481,417
-41 | ZukoBih | 3,413,767
+41 | ZukoBih | 3,416,430
 42 | bray_martin03 | 3,318,935
 43 | GuyOne | 3,270,812
 44 | Dry_Badger_2403 | 3,193,857
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | ziggybri | 783,043
 103 | Lillica_Golden_SHIB | 766,653
 104 | RegalReptile_ | 765,339
-105 | Alanski22 | 759,831
+105 | Alanski22 | 762,494
 106 | virmamies | 718,771
 107 | starterpack420694 | 710,420
 108 | WarmIyWacky | 703,049
@@ -211,7 +211,7 @@ Rank | Username | Totals Tips
 208 | Conetent | 222,451
 209 | SourBeefHoop | 217,512
 210 | TubeNerd92 | 217,409
-211 | Significant_Talk4943 | 215,539
+211 | Significant_Talk4943 | 215,959
 212 | Ashamed_Raccoon9918 | 214,964
 213 | yahuurdme | 213,714
 214 | Beenthorny | 212,362
@@ -248,9 +248,9 @@ Rank | Username | Totals Tips
 245 | NotFullyTerrestrial | 151,302
 246 | satoshi_oscar_wilde | 150,072
 247 | BitcoinRefuge | 148,181
-248 | Doovs | 143,375
-249 | Sad_Entertainer9961 | 143,248
-250 | jamjam794 | 142,016
+248 | jamjam794 | 144,679
+249 | Doovs | 143,375
+250 | Sad_Entertainer9961 | 143,248
 251 | SalliIsAFem | 140,361
 252 | luisantonio197 | 139,511
 253 | Clonkerz | 138,006
@@ -341,7 +341,7 @@ Rank | Username | Totals Tips
 338 | pwan7505 | 73,893
 339 | Diamond_PnutBrain | 73,688
 340 | I_AM_MORE_BADASS | 73,121
-341 | Complete-Tadpole-728 | 72,002
+341 | Complete-Tadpole-728 | 72,842
 342 | adi_00_ | 71,759
 343 | sparanaghcoar | 71,118
 344 | drche35 | 70,466
@@ -443,14 +443,14 @@ Rank | Username | Totals Tips
 440 | waterincorporated | 39,428
 441 | kanem87 | 39,187
 442 | mutinomonem | 38,823
-443 | FalloutAssasin | 38,468
-444 | chaud3r | 38,290
-445 | lovenets_ | 38,182
-446 | rowdy1212 | 38,129
-447 | sM0k3dR4Gn | 38,045
-448 | ysnmingle | 38,038
-449 | samer109 | 37,973
-450 | Bobby_Juk | 37,948
+443 | FalloutAssasin | 38,606
+444 | Bobby_Juk | 38,368
+445 | chaud3r | 38,290
+446 | lovenets_ | 38,182
+447 | rowdy1212 | 38,129
+448 | sM0k3dR4Gn | 38,045
+449 | ysnmingle | 38,038
+450 | samer109 | 37,973
 451 | onetrueSage | 37,633
 452 | shitwhenismycakeday | 37,409
 453 | redditisalt | 37,307
@@ -791,7 +791,7 @@ Rank | Username | Totals Tips
 788 | Medfried | 3,421
 789 | Mrcoolguynumberone | 3,420
 790 | SoulUrgeDestiny | 3,409
-791 | Microgamers | 3,406
+791 | Microgamers | 3,407
 792 | n1ghsthade | 3,378
 793 | Riviera20 | 3,370
 794 | elksteaksdmt | 3,359
