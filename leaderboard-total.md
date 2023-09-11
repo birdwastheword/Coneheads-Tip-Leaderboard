@@ -1,4 +1,4 @@
-Last updated: 23-09-11 12:59:27 UTC  
+Last updated: 23-09-11 13:23:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -43,8 +43,8 @@ Rank | Username | Totals Tips
 40 | LuminousViper | 3,481,417
 41 | ZukoBih | 3,413,767
 42 | bray_martin03 | 3,318,935
-43 | Dry_Badger_2403 | 3,193,857
-44 | GuyOne | 3,193,352
+43 | GuyOne | 3,213,352
+44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,123,716
 46 | DontLaughArt | 2,786,087
 47 | Korean_Street_Pizza | 2,780,823
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | Affectionate_Hand_76 | 1,967,252
 58 | swampyswede | 1,944,887
 59 | catlover-100 | 1,924,664
-60 | investigator100 | 1,839,037
+60 | investigator100 | 1,841,700
 61 | djrcollectables | 1,802,833
 62 | CMDRGlamdring | 1,787,849
 63 | dealkhabari | 1,763,891
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | GooderZBK | 1,617,267
 67 | KONGXIANG | 1,584,177
 68 | evilninjarobot | 1,546,541
-69 | ultra_terrestrial | 1,486,419
+69 | ultra_terrestrial | 1,486,839
 70 | YarOldeOrchard | 1,428,410
 71 | LongCauliflower6791 | 1,410,092
 72 | ValiantJudge29500 | 1,395,493
@@ -134,8 +134,8 @@ Rank | Username | Totals Tips
 131 | StepAsideSuckers | 543,358
 132 | scientifichistorian | 539,560
 133 | shreyaskg | 538,211
-134 | DogSpark84 | 534,529
-135 | crodbtc | 531,930
+134 | crodbtc | 534,593
+135 | DogSpark84 | 534,529
 136 | PortCity_MadMan | 522,884
 137 | doktastonks | 521,325
 138 | Allions1 | 520,025
@@ -151,7 +151,7 @@ Rank | Username | Totals Tips
 148 | MediaPrestigious8342 | 453,839
 149 | unhingedbigfoot | 439,874
 150 | Mopeiooo | 437,268
-151 | RazPie | 432,669
+151 | RazPie | 432,677
 152 | Lion-Hermit | 416,210
 153 | dronegeeks1 | 414,406
 154 | LrnFaroeseWthBergur | 409,488
