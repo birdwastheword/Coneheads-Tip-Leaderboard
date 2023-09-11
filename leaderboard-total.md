@@ -1,4 +1,4 @@
-Last updated: 23-09-11 19:50:32 UTC  
+Last updated: 23-09-11 20:01:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 17,863,295
+8 | cutsickass | 17,893,295
 9 | _ships | 16,471,555
 10 | crypto_grandma | 13,729,451
 11 | transfermymoons | 12,741,858
@@ -667,14 +667,14 @@ Rank | Username | Totals Tips
 664 | LaPantheRose | 9,067
 665 | 69BoJack69 | 9,003
 666 | Coeruleus_ | 8,985
-667 | ElegantShelter7947 | 8,881
-668 | Duckeis | 8,873
-669 | Nugacity5 | 8,836
-670 | BreadfruitIll4265 | 8,608
-671 | Swoopscooter | 8,500
-672 | ad5xlh | 8,470
-673 | TNJCrypto | 8,468
-674 | Overall-Extension608 | 8,454
+667 | Overall-Extension608 | 8,886
+668 | ElegantShelter7947 | 8,881
+669 | Duckeis | 8,873
+670 | Nugacity5 | 8,836
+671 | BreadfruitIll4265 | 8,608
+672 | Swoopscooter | 8,500
+673 | ad5xlh | 8,470
+674 | TNJCrypto | 8,468
 675 | 1-760-706-7425 | 8,272
 676 | shityougrin | 8,265
 677 | akemicariocaer | 8,264
