@@ -1,4 +1,4 @@
-Last updated: 23-09-11 18:41:21 UTC  
+Last updated: 23-09-11 18:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -16,12 +16,12 @@ Rank | Username | Totals Tips
 13 | Parush9 | 11,958,456
 14 | SammyCraigar | 10,628,175
 15 | 8inchConer | 8,947,619
-16 | SpookySYN | 8,582,461
+16 | SpookySYN | 8,587,787
 17 | ArtConsitent | 8,533,379
 18 | Permanent_WSB_Bull | 8,522,763
 19 | avyun | 8,152,245
 20 | Homeslicekilla | 7,998,462
-21 | Puddin-Luv | 7,157,320
+21 | Puddin-Luv | 7,157,740
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,682,359
 24 | Real_Player_0 | 6,588,535
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,415,712
 34 | rustyybikes | 4,269,012
 35 | send420nudes | 4,206,362
-36 | VIVOffical | 4,057,182
+36 | VIVOffical | 4,065,242
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
 39 | zdubs | 3,618,033
@@ -140,7 +140,7 @@ Rank | Username | Totals Tips
 137 | doktastonks | 521,325
 138 | Allions1 | 520,025
 139 | f0n1xr131ng | 509,681
-140 | Crypto-4-Freedom | 504,816
+140 | Crypto-4-Freedom | 505,656
 141 | AcceptableLeg8751 | 500,000
 142 | Successful-Walk-3902 | 498,794
 143 | adrifing | 493,831
