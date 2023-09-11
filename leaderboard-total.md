@@ -1,4 +1,4 @@
-Last updated: 23-09-11 14:50:59 UTC  
+Last updated: 23-09-11 15:00:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | SpookySYN | 8,521,212
 19 | avyun | 8,152,245
 20 | Homeslicekilla | 7,998,462
-21 | Puddin-Luv | 7,089,968
+21 | Puddin-Luv | 7,092,631
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,682,359
 24 | Real_Player_0 | 6,588,535
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | GuyOne | 3,270,812
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,123,716
-46 | DontLaughArt | 2,786,087
+46 | DontLaughArt | 2,806,087
 47 | Korean_Street_Pizza | 2,780,823
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,647,842
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | Cravensworth_redux | 790,803
 101 | Westy3000 | 785,820
 102 | ziggybri | 783,043
-103 | Lillica_Golden_SHIB | 766,515
+103 | Lillica_Golden_SHIB | 766,653
 104 | RegalReptile_ | 762,575
 105 | Alanski22 | 759,831
 106 | virmamies | 718,771
@@ -302,9 +302,9 @@ Rank | Username | Totals Tips
 299 | IOTA_Tesla | 96,607
 300 | 192000Hertz | 96,457
 301 | BrendanTFirefly | 95,347
-302 | wolfman333 | 93,986
-303 | CrossPuffs | 93,741
-304 | Own_Ad_4269 | 93,635
+302 | Own_Ad_4269 | 94,634
+303 | wolfman333 | 93,986
+304 | CrossPuffs | 93,741
 305 | RollingSkull0 | 93,538
 306 | H3adshotfox77 | 92,575
 307 | urlz | 91,281
@@ -655,16 +655,16 @@ Rank | Username | Totals Tips
 652 | Elegant_Tale_3929 | 9,600
 653 | Mavis80 | 9,482
 654 | xSeekTruthx | 9,459
-655 | mmmohm | 9,363
-656 | Big_Beyotch | 9,318
-657 | Donmari590 | 9,250
-658 | cptnkook | 9,241
-659 | Ddoublewhopper | 9,126
-660 | undefined-account | 9,126
-661 | Shraier | 9,103
-662 | Otherwise_Assist_34 | 9,083
-663 | LaPantheRose | 9,067
-664 | Most_Border_3917 | 9,029
+655 | Most_Border_3917 | 9,449
+656 | mmmohm | 9,363
+657 | Big_Beyotch | 9,318
+658 | Donmari590 | 9,250
+659 | cptnkook | 9,241
+660 | Ddoublewhopper | 9,126
+661 | undefined-account | 9,126
+662 | Shraier | 9,103
+663 | Otherwise_Assist_34 | 9,083
+664 | LaPantheRose | 9,067
 665 | 69BoJack69 | 9,003
 666 | Coeruleus_ | 8,985
 667 | ElegantShelter7947 | 8,881
