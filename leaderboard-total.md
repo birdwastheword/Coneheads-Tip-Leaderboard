@@ -1,4 +1,4 @@
-Last updated: 23-09-11 02:05:18 UTC  
+Last updated: 23-09-11 02:25:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -135,9 +135,9 @@ Rank | Username | Totals Tips
 132 | shreyaskg | 538,211
 133 | DogSpark84 | 534,529
 134 | crodbtc | 531,930
-135 | doktastonks | 521,325
-136 | Allions1 | 520,025
-137 | PortCity_MadMan | 517,558
+135 | PortCity_MadMan | 522,884
+136 | doktastonks | 521,325
+137 | Allions1 | 520,025
 138 | f0n1xr131ng | 509,681
 139 | Crypto-4-Freedom | 504,396
 140 | AcceptableLeg8751 | 500,000
@@ -303,10 +303,10 @@ Rank | Username | Totals Tips
 300 | BrendanTFirefly | 95,347
 301 | Chill_Edoeard | 94,820
 302 | wolfman333 | 93,986
-303 | CrossPuffs | 93,321
-304 | H3adshotfox77 | 92,575
-305 | urlz | 91,281
-306 | RollingSkull0 | 90,875
+303 | RollingSkull0 | 93,538
+304 | CrossPuffs | 93,321
+305 | H3adshotfox77 | 92,575
+306 | urlz | 91,281
 307 | Backwood20 | 90,298
 308 | DramaticProtogen | 90,274
 309 | Award-Bot | 90,000
