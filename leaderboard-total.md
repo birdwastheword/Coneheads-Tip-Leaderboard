@@ -1,4 +1,4 @@
-Last updated: 23-09-11 02:42:48 UTC  
+Last updated: 23-09-11 02:50:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | isthistomorrow_ | 1,381,135
 73 | Mundane-Farm-4117 | 1,359,176
 74 | Extreme_Issue7325 | 1,295,890
-75 | saintajoras | 1,239,656
+75 | saintajoras | 1,242,319
 76 | revdrgonzo | 1,235,635
 77 | Richicash | 1,231,855
 78 | jimfird | 1,215,366
