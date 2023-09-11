@@ -1,4 +1,4 @@
-Last updated: 23-09-11 14:31:10 UTC  
+Last updated: 23-09-11 14:41:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | SpookySYN | 8,521,212
 19 | avyun | 8,152,245
 20 | Homeslicekilla | 7,998,462
-21 | Puddin-Luv | 7,086,928
+21 | Puddin-Luv | 7,088,752
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,682,359
 24 | Real_Player_0 | 6,588,535
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | GooderZBK | 1,617,267
 67 | KONGXIANG | 1,584,177
 68 | evilninjarobot | 1,546,541
-69 | ultra_terrestrial | 1,487,259
+69 | ultra_terrestrial | 1,487,679
 70 | LongCauliflower6791 | 1,430,092
 71 | YarOldeOrchard | 1,428,410
 72 | ValiantJudge29500 | 1,395,493
