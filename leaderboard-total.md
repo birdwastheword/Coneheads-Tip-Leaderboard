@@ -1,4 +1,4 @@
-Last updated: 23-09-11 04:30:46 UTC  
+Last updated: 23-09-11 04:40:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Homeslicekilla | 7,998,462
 21 | Puddin-Luv | 7,084,264
 22 | Geniuskills | 6,882,870
-23 | ashinamune | 6,679,696
+23 | ashinamune | 6,682,359
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | zdubs | 3,618,033
 40 | LuminousViper | 3,481,417
 41 | ZukoBih | 3,413,767
-42 | bray_martin03 | 3,316,272
+42 | bray_martin03 | 3,318,935
 43 | Dry_Badger_2403 | 3,193,857
 44 | GuyOne | 3,193,352
 45 | LordBobTheWhale | 3,123,108
@@ -780,13 +780,13 @@ Rank | Username | Totals Tips
 777 | Badit_01 | 3,992
 778 | Soil_Electronic | 3,975
 779 | Dreadaussie | 3,920
-780 | carsonthecarsinogen | 3,769
-781 | salt_yaf | 3,706
-782 | abbasabba260 | 3,663
-783 | Gelato_33 | 3,628
-784 | _echnaton | 3,504
-785 | raulcras5 | 3,502
-786 | LimpPeanut5633 | 3,493
+780 | LimpPeanut5633 | 3,913
+781 | carsonthecarsinogen | 3,769
+782 | salt_yaf | 3,706
+783 | abbasabba260 | 3,663
+784 | Gelato_33 | 3,628
+785 | _echnaton | 3,504
+786 | raulcras5 | 3,502
 787 | WeaselJCD | 3,434
 788 | Medfried | 3,421
 789 | Mrcoolguynumberone | 3,420
