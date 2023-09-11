@@ -1,4 +1,4 @@
-Last updated: 23-09-11 22:50:42 UTC  
+Last updated: 23-09-11 23:00:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Permanent_WSB_Bull | 8,522,763
 19 | avyun | 8,152,245
 20 | Homeslicekilla | 7,998,462
-21 | Puddin-Luv | 7,160,403
+21 | Puddin-Luv | 7,163,066
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,682,359
 24 | Real_Player_0 | 6,588,535
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | scientifichistorian | 539,560
 134 | shreyaskg | 538,211
 135 | DogSpark84 | 537,005
-136 | PortCity_MadMan | 522,884
+136 | PortCity_MadMan | 525,547
 137 | doktastonks | 521,325
 138 | Allions1 | 520,025
 139 | f0n1xr131ng | 509,681
@@ -363,12 +363,12 @@ Rank | Username | Totals Tips
 360 | zuzieey7719 | 64,618
 361 | KrunchyKushKing | 64,195
 362 | slug_tamer | 63,595
-363 | guokaidi | 63,413
-364 | Emeritux | 63,020
-365 | S2K08 | 62,773
-366 | netnemirepxE | 62,645
-367 | meth43 | 62,596
-368 | SaberTurret | 60,797
+363 | SaberTurret | 63,460
+364 | guokaidi | 63,413
+365 | Emeritux | 63,020
+366 | S2K08 | 62,773
+367 | netnemirepxE | 62,645
+368 | meth43 | 62,596
 369 | TheD1ceMan | 60,541
 370 | lucrica | 59,987
 371 | Dboythegreat | 59,726
