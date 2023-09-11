@@ -1,4 +1,4 @@
-Last updated: 23-09-11 21:41:22 UTC  
+Last updated: 23-09-11 21:50:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -422,11 +422,11 @@ Rank | Username | Totals Tips
 419 | Coneboy2663 | 43,852
 420 | halfavocadoemoji | 43,351
 421 | halfABsinC | 43,285
-422 | ACE415_ | 42,069
-423 | dead-spiral | 42,069
-424 | Cyber-Cafe | 41,921
-425 | PushyDevoIution | 41,695
-426 | Bobby_Juk | 41,308
+422 | Bobby_Juk | 42,148
+423 | ACE415_ | 42,069
+424 | dead-spiral | 42,069
+425 | Cyber-Cafe | 41,921
+426 | PushyDevoIution | 41,695
 427 | madridgalactico | 41,231
 428 | HodLMania | 41,111
 429 | Expensive_Being_4038 | 41,047
