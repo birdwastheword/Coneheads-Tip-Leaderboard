@@ -1,4 +1,4 @@
-Last updated: 23-09-11 16:24:47 UTC  
+Last updated: 23-09-11 16:37:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | LuminousViper | 3,481,417
 41 | ZukoBih | 3,416,430
 42 | bray_martin03 | 3,318,935
-43 | GuyOne | 3,270,812
+43 | GuyOne | 3,297,442
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,123,716
 46 | DontLaughArt | 2,806,087
@@ -76,7 +76,7 @@ Rank | Username | Totals Tips
 73 | isthistomorrow_ | 1,381,135
 74 | Mundane-Farm-4117 | 1,359,176
 75 | Extreme_Issue7325 | 1,295,890
-76 | saintajoras | 1,244,319
+76 | saintajoras | 1,246,819
 77 | revdrgonzo | 1,235,635
 78 | Richicash | 1,231,855
 79 | jimfird | 1,215,366
@@ -443,8 +443,8 @@ Rank | Username | Totals Tips
 440 | waterincorporated | 39,428
 441 | kanem87 | 39,187
 442 | mutinomonem | 38,823
-443 | FalloutAssasin | 38,606
-444 | Bobby_Juk | 38,368
+443 | Bobby_Juk | 38,788
+444 | FalloutAssasin | 38,606
 445 | chaud3r | 38,290
 446 | lovenets_ | 38,182
 447 | rowdy1212 | 38,129
