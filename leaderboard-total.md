@@ -1,4 +1,4 @@
-Last updated: 23-09-11 09:00:59 UTC  
+Last updated: 23-09-11 09:19:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,218,482
+27 | IveDoneItAtLast | 5,218,902
 28 | thelonliestcrowd | 5,025,881
 29 | Ginomania | 4,851,455
 30 | rikbona | 4,540,773
@@ -114,9 +114,9 @@ Rank | Username | Totals Tips
 111 | abracadabra087 | 694,465
 112 | Obi1eyeKenobi | 690,237
 113 | firstmatedotxyz | 688,743
-114 | Duskopia | 680,133
-115 | Due_Insurance8159 | 678,620
-116 | dopelifer09 | 678,404
+114 | dopelifer09 | 681,067
+115 | Duskopia | 680,133
+116 | Due_Insurance8159 | 678,620
 117 | SKITZ_ZA | 676,057
 118 | piebagz | 661,815
 119 | MartynDr | 652,270
@@ -443,7 +443,7 @@ Rank | Username | Totals Tips
 440 | waterincorporated | 39,428
 441 | kanem87 | 39,187
 442 | mutinomonem | 38,823
-443 | FalloutAssasin | 38,399
+443 | FalloutAssasin | 38,468
 444 | chaud3r | 38,290
 445 | lovenets_ | 38,182
 446 | rowdy1212 | 38,129
