@@ -1,4 +1,4 @@
-Last updated: 23-09-11 17:50:39 UTC  
+Last updated: 23-09-11 18:01:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,029,122
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,227,573
+27 | IveDoneItAtLast | 5,227,711
 28 | thelonliestcrowd | 5,028,544
 29 | Ginomania | 4,851,455
 30 | rikbona | 4,540,773
@@ -164,7 +164,7 @@ Rank | Username | Totals Tips
 161 | hellosamaira | 373,235
 162 | AustinTX1985 | 371,526
 163 | farmertypoerror | 359,212
-164 | Tinman_ApE | 356,326
+164 | Tinman_ApE | 356,934
 165 | DAMG808 | 355,432
 166 | Outrageous-Skill-464 | 344,174
 167 | anony666mous | 341,008
@@ -338,9 +338,9 @@ Rank | Username | Totals Tips
 335 | Heycheckthisout20 | 75,608
 336 | MedicineMaterial3501 | 74,654
 337 | Steadfast_Apparition | 74,506
-338 | pwan7505 | 73,893
-339 | Diamond_PnutBrain | 73,688
-340 | Complete-Tadpole-728 | 73,682
+338 | Complete-Tadpole-728 | 74,102
+339 | pwan7505 | 73,893
+340 | Diamond_PnutBrain | 73,688
 341 | I_AM_MORE_BADASS | 73,121
 342 | adi_00_ | 71,759
 343 | sparanaghcoar | 71,118
@@ -736,20 +736,20 @@ Rank | Username | Totals Tips
 733 | Makaveli4Sheez | 5,569
 734 | DioDilemma | 5,545
 735 | LATech99 | 5,463
-736 | unacceptable_name25 | 5,395
-737 | Independent_Safe1351 | 5,352
-738 | froi203 | 5,326
-739 | moonmanuk | 5,326
-740 | Photo_Shop_Beast | 5,274
-741 | ineedmoney2024 | 5,243
-742 | --hermit | 5,219
-743 | gonzOkook | 5,169
-744 | NoNumbersNumber | 5,138
-745 | just_half_baked710 | 5,133
-746 | Prize-Reference9329 | 5,090
-747 | Hour_Sleep_9544 | 5,080
-748 | Happy-Cheeseface | 5,061
-749 | Overall-Extension608 | 5,031
+736 | Overall-Extension608 | 5,456
+737 | unacceptable_name25 | 5,395
+738 | Independent_Safe1351 | 5,352
+739 | froi203 | 5,326
+740 | moonmanuk | 5,326
+741 | Photo_Shop_Beast | 5,274
+742 | ineedmoney2024 | 5,243
+743 | --hermit | 5,219
+744 | gonzOkook | 5,169
+745 | NoNumbersNumber | 5,138
+746 | just_half_baked710 | 5,133
+747 | Prize-Reference9329 | 5,090
+748 | Hour_Sleep_9544 | 5,080
+749 | Happy-Cheeseface | 5,061
 750 | Zaxoosh | 5,010
 751 | Itwillmoon | 5,000
 752 | Crunchious1 | 5,000
