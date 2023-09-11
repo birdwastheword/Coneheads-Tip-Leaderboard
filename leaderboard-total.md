@@ -1,4 +1,4 @@
-Last updated: 23-09-11 10:00:40 UTC  
+Last updated: 23-09-11 10:22:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -8,9 +8,9 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 17,419,751
+8 | cutsickass | 17,479,751
 9 | _ships | 16,471,555
-10 | crypto_grandma | 13,715,513
+10 | crypto_grandma | 13,722,482
 11 | transfermymoons | 12,741,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 11,958,456
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Fenrir-1919 | 2,647,842
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
-52 | ImAlekBan | 2,518,102
+52 | ImAlekBan | 2,529,362
 53 | possibili-teas | 2,399,515
 54 | Autom4tic_Soze | 2,184,437
 55 | 002_timmy | 2,059,494
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | Cravensworth_redux | 790,803
 101 | Westy3000 | 785,820
 102 | ziggybri | 783,043
-103 | Lillica_Golden_SHIB | 766,170
+103 | Lillica_Golden_SHIB | 766,239
 104 | RegalReptile_ | 762,575
 105 | Alanski22 | 759,831
 106 | virmamies | 718,771
