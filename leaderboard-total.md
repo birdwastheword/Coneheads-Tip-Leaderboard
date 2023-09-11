@@ -1,4 +1,4 @@
-Last updated: 23-09-11 17:22:35 UTC  
+Last updated: 23-09-11 17:31:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,029,122
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 17,575,077
+8 | cutsickass | 17,580,632
 9 | _ships | 16,471,555
 10 | crypto_grandma | 13,729,451
 11 | transfermymoons | 12,741,858
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | ziggybri | 783,043
 103 | Lillica_Golden_SHIB | 766,653
 104 | RegalReptile_ | 765,339
-105 | Alanski22 | 762,494
+105 | Alanski22 | 765,157
 106 | virmamies | 718,771
 107 | starterpack420694 | 710,420
 108 | WarmIyWacky | 703,049
@@ -345,10 +345,10 @@ Rank | Username | Totals Tips
 342 | adi_00_ | 71,759
 343 | sparanaghcoar | 71,118
 344 | drche35 | 70,466
-345 | ElmerBlack | 70,230
-346 | Rush4Time | 70,079
-347 | Creative_Ad7831 | 70,047
-348 | shellystarzz | 69,764
+345 | shellystarzz | 70,372
+346 | ElmerBlack | 70,230
+347 | Rush4Time | 70,079
+348 | Creative_Ad7831 | 70,047
 349 | 1ndy1 | 69,485
 350 | Yoda975 | 69,055
 351 | Dazzling_Marzipan474 | 69,033
@@ -440,8 +440,8 @@ Rank | Username | Totals Tips
 437 | GuronT | 39,830
 438 | AMAxyz | 39,775
 439 | Mortifer6 | 39,738
-440 | waterincorporated | 39,428
-441 | Bobby_Juk | 39,208
+440 | Bobby_Juk | 39,628
+441 | waterincorporated | 39,428
 442 | kanem87 | 39,187
 443 | mutinomonem | 38,823
 444 | FalloutAssasin | 38,606
@@ -846,12 +846,12 @@ Rank | Username | Totals Tips
 843 | MrD_12 | 2,376
 844 | SpySeaRamen | 2,340
 845 | bonneatoutfaire | 2,303
-846 | Far_Movie_6595 | 2,248
-847 | Hancock02 | 2,238
-848 | ODoyles_Banana | 2,226
-849 | Digdaga | 2,216
-850 | A_Dancing_Coder | 2,207
-851 | TheyAskWho | 2,171
+846 | TheyAskWho | 2,282
+847 | Far_Movie_6595 | 2,248
+848 | Hancock02 | 2,238
+849 | ODoyles_Banana | 2,226
+850 | Digdaga | 2,216
+851 | A_Dancing_Coder | 2,207
 852 | Kazu4ya | 2,147
 853 | VeryStone | 2,116
 854 | chwick | 2,111
