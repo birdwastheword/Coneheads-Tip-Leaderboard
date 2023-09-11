@@ -1,4 +1,4 @@
-Last updated: 23-09-11 23:00:53 UTC  
+Last updated: 23-09-11 23:18:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -39,11 +39,11 @@ Rank | Username | Totals Tips
 36 | VIVOffical | 4,122,678
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
-39 | zdubs | 3,618,033
+39 | zdubs | 3,618,641
 40 | LuminousViper | 3,481,417
 41 | ZukoBih | 3,416,430
-42 | bray_martin03 | 3,318,935
-43 | GuyOne | 3,297,442
+42 | GuyOne | 3,324,072
+43 | bray_martin03 | 3,318,935
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,124,324
 46 | DontLaughArt | 2,806,087
@@ -411,16 +411,16 @@ Rank | Username | Totals Tips
 408 | Oue | 46,352
 409 | skatistic | 46,287
 410 | LightninHooker | 46,286
-411 | Drlitez | 45,436
-412 | NickkyDC | 45,379
-413 | tentazoc | 45,078
-414 | Name_Trikolon | 45,002
-415 | Lucabba | 44,738
-416 | acfranks | 44,663
-417 | 4gsboofd | 44,377
-418 | Kilv3r | 44,021
-419 | Coneboy2663 | 43,852
-420 | Bobby_Juk | 43,408
+411 | Bobby_Juk | 46,071
+412 | Drlitez | 45,436
+413 | NickkyDC | 45,379
+414 | tentazoc | 45,078
+415 | Name_Trikolon | 45,002
+416 | Lucabba | 44,738
+417 | acfranks | 44,663
+418 | 4gsboofd | 44,377
+419 | Kilv3r | 44,021
+420 | Coneboy2663 | 43,852
 421 | halfavocadoemoji | 43,351
 422 | halfABsinC | 43,285
 423 | ACE415_ | 42,069
