@@ -1,14 +1,14 @@
-Last updated: 23-09-11 18:01:14 UTC  
+Last updated: 23-09-11 18:23:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 40,029,122
+1 | Bitdream200K | 40,055,752
 2 | Wonderful_Bad6531 | 36,219,780
 3 | nakamo-toe | 34,693,664
 4 | waterhasnocalories | 30,825,677
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 17,580,632
+8 | cutsickass | 17,583,295
 9 | _ships | 16,471,555
 10 | crypto_grandma | 13,729,451
 11 | transfermymoons | 12,741,858
@@ -17,8 +17,8 @@ Rank | Username | Totals Tips
 14 | SammyCraigar | 10,628,175
 15 | 8inchConer | 8,947,619
 16 | ArtConsitent | 8,533,379
-17 | Permanent_WSB_Bull | 8,522,155
-18 | SpookySYN | 8,521,212
+17 | SpookySYN | 8,526,538
+18 | Permanent_WSB_Bull | 8,522,155
 19 | avyun | 8,152,245
 20 | Homeslicekilla | 7,998,462
 21 | Puddin-Luv | 7,156,900
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,227,711
+27 | IveDoneItAtLast | 5,231,044
 28 | thelonliestcrowd | 5,028,544
 29 | Ginomania | 4,851,455
 30 | rikbona | 4,540,773
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,415,712
 34 | rustyybikes | 4,269,012
 35 | send420nudes | 4,206,362
-36 | VIVOffical | 4,056,376
+36 | VIVOffical | 4,057,182
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
 39 | zdubs | 3,618,033
@@ -211,7 +211,7 @@ Rank | Username | Totals Tips
 208 | Conetent | 222,451
 209 | SourBeefHoop | 217,512
 210 | TubeNerd92 | 217,409
-211 | Significant_Talk4943 | 215,959
+211 | Significant_Talk4943 | 216,379
 212 | Ashamed_Raccoon9918 | 214,964
 213 | yahuurdme | 213,714
 214 | Beenthorny | 212,362
@@ -337,16 +337,16 @@ Rank | Username | Totals Tips
 334 | Derefringence | 77,095
 335 | Heycheckthisout20 | 75,608
 336 | MedicineMaterial3501 | 74,654
-337 | Steadfast_Apparition | 74,506
-338 | Complete-Tadpole-728 | 74,102
+337 | Complete-Tadpole-728 | 74,522
+338 | Steadfast_Apparition | 74,506
 339 | pwan7505 | 73,893
 340 | Diamond_PnutBrain | 73,688
 341 | I_AM_MORE_BADASS | 73,121
 342 | adi_00_ | 71,759
 343 | sparanaghcoar | 71,118
-344 | drche35 | 70,466
-345 | shellystarzz | 70,372
-346 | ElmerBlack | 70,230
+344 | ElmerBlack | 70,850
+345 | drche35 | 70,466
+346 | shellystarzz | 70,372
 347 | Rush4Time | 70,079
 348 | Creative_Ad7831 | 70,047
 349 | 1ndy1 | 69,485
@@ -731,12 +731,12 @@ Rank | Username | Totals Tips
 728 | st3alth247 | 5,975
 729 | OddNebula2844 | 5,938
 730 | theBarefootedBastard | 5,896
-731 | Sir_Mobius_Mook | 5,840
-732 | aPandox | 5,695
-733 | Makaveli4Sheez | 5,569
-734 | DioDilemma | 5,545
-735 | LATech99 | 5,463
-736 | Overall-Extension608 | 5,456
+731 | Overall-Extension608 | 5,882
+732 | Sir_Mobius_Mook | 5,840
+733 | aPandox | 5,695
+734 | Makaveli4Sheez | 5,569
+735 | DioDilemma | 5,545
+736 | LATech99 | 5,463
 737 | unacceptable_name25 | 5,395
 738 | Independent_Safe1351 | 5,352
 739 | froi203 | 5,326
