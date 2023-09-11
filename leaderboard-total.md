@@ -1,4 +1,4 @@
-Last updated: 23-09-11 13:23:18 UTC  
+Last updated: 23-09-11 13:31:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 17,479,751
+8 | cutsickass | 17,509,751
 9 | _ships | 16,471,555
 10 | crypto_grandma | 13,722,482
 11 | transfermymoons | 12,741,858
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | SpookySYN | 8,521,212
 19 | avyun | 8,152,245
 20 | Homeslicekilla | 7,998,462
-21 | Puddin-Luv | 7,084,264
+21 | Puddin-Luv | 7,085,292
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,682,359
 24 | Real_Player_0 | 6,588,535
@@ -358,7 +358,7 @@ Rank | Username | Totals Tips
 355 | -geek | 66,318
 356 | imp3order | 65,546
 357 | damnusernamegotcutof | 65,004
-358 | Complete-Tadpole-728 | 64,715
+358 | Complete-Tadpole-728 | 64,724
 359 | zuzieey7719 | 64,618
 360 | Virtual-Wrangler5955 | 64,343
 361 | KrunchyKushKing | 64,195
@@ -662,13 +662,13 @@ Rank | Username | Totals Tips
 659 | undefined-account | 9,126
 660 | Shraier | 9,103
 661 | Otherwise_Assist_34 | 9,083
-662 | Most_Border_3917 | 9,029
-663 | 69BoJack69 | 9,003
-664 | Coeruleus_ | 8,985
-665 | ElegantShelter7947 | 8,881
-666 | Duckeis | 8,873
-667 | Nugacity5 | 8,836
-668 | LaPantheRose | 8,647
+662 | LaPantheRose | 9,067
+663 | Most_Border_3917 | 9,029
+664 | 69BoJack69 | 9,003
+665 | Coeruleus_ | 8,985
+666 | ElegantShelter7947 | 8,881
+667 | Duckeis | 8,873
+668 | Nugacity5 | 8,836
 669 | BreadfruitIll4265 | 8,608
 670 | J-_Mad | 8,540
 671 | Swoopscooter | 8,500
