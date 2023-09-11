@@ -1,4 +1,4 @@
-Last updated: 23-09-11 23:18:56 UTC  
+Last updated: 23-09-11 23:30:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | Permanent_WSB_Bull | 8,522,763
 19 | avyun | 8,152,245
 20 | Homeslicekilla | 7,998,462
-21 | Puddin-Luv | 7,163,066
+21 | Puddin-Luv | 7,163,674
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,682,359
 24 | Real_Player_0 | 6,588,535
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | Iulian_TechNewb | 1,690,179
 66 | GooderZBK | 1,617,267
 67 | KONGXIANG | 1,584,177
-68 | evilninjarobot | 1,549,204
+68 | evilninjarobot | 1,549,812
 69 | ultra_terrestrial | 1,487,679
 70 | LongCauliflower6791 | 1,430,092
 71 | YarOldeOrchard | 1,428,410
@@ -325,15 +325,15 @@ Rank | Username | Totals Tips
 322 | Admirito | 82,353
 323 | standArtpluto | 82,100
 324 | mastermarvs | 80,384
-325 | youtooleyesing | 79,892
-326 | diamondbored | 79,886
-327 | Pwny_b0y | 79,447
-328 | GodOfWarGuy737 | 79,069
-329 | fleshlyLoath | 78,366
-330 | TheOneWhoCared | 78,239
-331 | mokkingjay | 77,914
-332 | HelicopterDear6064 | 77,619
-333 | Complete-Tadpole-728 | 77,531
+325 | Complete-Tadpole-728 | 80,194
+326 | youtooleyesing | 79,892
+327 | diamondbored | 79,886
+328 | Pwny_b0y | 79,447
+329 | GodOfWarGuy737 | 79,069
+330 | fleshlyLoath | 78,366
+331 | TheOneWhoCared | 78,239
+332 | mokkingjay | 77,914
+333 | HelicopterDear6064 | 77,619
 334 | XeroGrave | 77,337
 335 | Derefringence | 77,095
 336 | Heycheckthisout20 | 75,608
@@ -361,9 +361,9 @@ Rank | Username | Totals Tips
 358 | imp3order | 65,546
 359 | damnusernamegotcutof | 65,004
 360 | zuzieey7719 | 64,618
-361 | KrunchyKushKing | 64,195
-362 | slug_tamer | 63,595
-363 | SaberTurret | 63,460
+361 | SaberTurret | 64,308
+362 | KrunchyKushKing | 64,195
+363 | slug_tamer | 63,595
 364 | guokaidi | 63,413
 365 | Emeritux | 63,020
 366 | S2K08 | 62,773
@@ -408,10 +408,10 @@ Rank | Username | Totals Tips
 405 | Levl1Critter | 49,152
 406 | Dolce_00 | 48,683
 407 | shredslanding | 46,650
-408 | Oue | 46,352
-409 | skatistic | 46,287
-410 | LightninHooker | 46,286
-411 | Bobby_Juk | 46,071
+408 | Bobby_Juk | 46,491
+409 | Oue | 46,352
+410 | skatistic | 46,287
+411 | LightninHooker | 46,286
 412 | Drlitez | 45,436
 413 | NickkyDC | 45,379
 414 | tentazoc | 45,078
