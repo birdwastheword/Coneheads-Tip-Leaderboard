@@ -1,4 +1,4 @@
-Last updated: 23-09-11 05:30:45 UTC  
+Last updated: 23-09-11 05:40:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | Dry_Badger_2403 | 3,193,857
 44 | GuyOne | 3,193,352
 45 | LordBobTheWhale | 3,123,108
-46 | Korean_Street_Pizza | 2,780,821
+46 | Korean_Street_Pizza | 2,780,823
 47 | DontLaughArt | 2,777,490
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,647,842
@@ -348,13 +348,13 @@ Rank | Username | Totals Tips
 345 | Rush4Time | 70,079
 346 | Creative_Ad7831 | 70,047
 347 | shellystarzz | 69,764
-348 | Yoda975 | 69,055
-349 | Dazzling_Marzipan474 | 69,033
-350 | Tapiz3land | 68,942
-351 | AnduriII | 68,313
-352 | Bobocod | 67,914
-353 | Friendly-Airline2426 | 66,547
-354 | 1ndy1 | 66,455
+348 | 1ndy1 | 69,485
+349 | Yoda975 | 69,055
+350 | Dazzling_Marzipan474 | 69,033
+351 | Tapiz3land | 68,942
+352 | AnduriII | 68,313
+353 | Bobocod | 67,914
+354 | Friendly-Airline2426 | 66,547
 355 | -geek | 66,318
 356 | imp3order | 65,546
 357 | damnusernamegotcutof | 65,004
