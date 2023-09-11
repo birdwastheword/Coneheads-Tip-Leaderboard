@@ -1,4 +1,4 @@
-Last updated: 23-09-11 21:50:55 UTC  
+Last updated: 23-09-11 22:00:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -333,8 +333,8 @@ Rank | Username | Totals Tips
 330 | TheOneWhoCared | 78,239
 331 | mokkingjay | 77,914
 332 | HelicopterDear6064 | 77,619
-333 | XeroGrave | 77,337
-334 | Complete-Tadpole-728 | 77,111
+333 | Complete-Tadpole-728 | 77,531
+334 | XeroGrave | 77,337
 335 | Derefringence | 77,095
 336 | Heycheckthisout20 | 75,608
 337 | MedicineMaterial3501 | 74,654
