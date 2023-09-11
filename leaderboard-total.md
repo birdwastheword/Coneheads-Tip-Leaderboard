@@ -1,4 +1,4 @@
-Last updated: 23-09-11 14:41:12 UTC  
+Last updated: 23-09-11 14:50:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | SpookySYN | 8,521,212
 19 | avyun | 8,152,245
 20 | Homeslicekilla | 7,998,462
-21 | Puddin-Luv | 7,088,752
+21 | Puddin-Luv | 7,089,968
 22 | Geniuskills | 6,882,870
 23 | ashinamune | 6,682,359
 24 | Real_Player_0 | 6,588,535
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,851,455
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,491,988
+32 | redzrex | 4,492,408
 33 | birdwastheword | 4,415,712
 34 | rustyybikes | 4,269,012
 35 | send420nudes | 4,206,362
@@ -647,7 +647,7 @@ Rank | Username | Totals Tips
 644 | boopcorgi | 9,923
 645 | Mrmakanakai | 9,909
 646 | supatard44 | 9,891
-647 | J-_Mad | 9,774
+647 | J-_Mad | 9,785
 648 | Ok-Profile-1744 | 9,709
 649 | Zeratrem | 9,683
 650 | Cauzzai | 9,672
@@ -947,12 +947,12 @@ Rank | Username | Totals Tips
 944 | makastrombini | 978
 945 | 3utt5lut | 978
 946 | Illicitterror | 966
-947 | ItsYaBoySharkz | 940
-948 | DeffNotTom | 940
-949 | BatsaBaji | 924
-950 | TriggerHappyEwok | 909
-951 | Porescu | 909
-952 | 83nno | 881
+947 | 83nno | 950
+948 | ItsYaBoySharkz | 940
+949 | DeffNotTom | 940
+950 | BatsaBaji | 924
+951 | TriggerHappyEwok | 909
+952 | Porescu | 909
 953 | True_Sigma_1 | 853
 954 | Geesle | 840
 955 | Machete521 | 840
