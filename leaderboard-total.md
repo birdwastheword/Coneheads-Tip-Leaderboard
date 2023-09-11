@@ -1,4 +1,4 @@
-Last updated: 23-09-11 03:50:39 UTC  
+Last updated: 23-09-11 04:01:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 17,369,751
 9 | _ships | 16,444,925
-10 | crypto_grandma | 13,632,565
+10 | crypto_grandma | 13,636,765
 11 | transfermymoons | 12,741,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 11,958,456
@@ -129,7 +129,7 @@ Rank | Username | Totals Tips
 126 | El_Gordone | 592,784
 127 | Burzzzt88 | 591,229
 128 | Independent_Heart_15 | 578,825
-129 | junkwatch | 545,699
+129 | junkwatch | 546,119
 130 | StepAsideSuckers | 543,358
 131 | scientifichistorian | 539,560
 132 | shreyaskg | 538,211
