@@ -1,4 +1,4 @@
-Last updated: 23-09-11 21:16:06 UTC  
+Last updated: 23-09-11 21:24:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | Affectionate_Hand_76 | 1,967,252
 58 | swampyswede | 1,944,887
 59 | catlover-100 | 1,924,664
-60 | investigator100 | 1,844,363
+60 | investigator100 | 1,854,363
 61 | djrcollectables | 1,806,104
 62 | CMDRGlamdring | 1,790,512
 63 | dealkhabari | 1,763,891
@@ -112,7 +112,7 @@ Rank | Username | Totals Tips
 109 | frickdom | 697,263
 110 | Starterpack69420 | 696,969
 111 | abracadabra087 | 694,465
-112 | Obi1eyeKenobi | 690,237
+112 | Obi1eyeKenobi | 692,900
 113 | firstmatedotxyz | 688,743
 114 | dopelifer09 | 683,730
 115 | Duskopia | 680,133
@@ -335,9 +335,9 @@ Rank | Username | Totals Tips
 332 | HelicopterDear6064 | 77,619
 333 | XeroGrave | 77,337
 334 | Derefringence | 77,095
-335 | Heycheckthisout20 | 75,608
-336 | MedicineMaterial3501 | 74,654
-337 | Complete-Tadpole-728 | 74,522
+335 | Complete-Tadpole-728 | 76,271
+336 | Heycheckthisout20 | 75,608
+337 | MedicineMaterial3501 | 74,654
 338 | Steadfast_Apparition | 74,506
 339 | pwan7505 | 73,893
 340 | Diamond_PnutBrain | 73,688
