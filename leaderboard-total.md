@@ -1,7 +1,7 @@
-Last updated: 23-09-11 08:33:57 UTC  
+Last updated: 23-09-11 08:42:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 39,997,166
+1 | Bitdream200K | 39,999,829
 2 | Wonderful_Bad6531 | 36,219,780
 3 | nakamo-toe | 34,693,664
 4 | waterhasnocalories | 30,825,677
@@ -972,9 +972,9 @@ Rank | Username | Totals Tips
 969 | Indisciplinato | 677
 970 | Troll_humper | 665
 971 | Big_Count_6042 | 633
-972 | pelaguras | 627
-973 | Avatar_Degen | 627
-974 | stockyewok | 627
+972 | stockyewok | 632
+973 | pelaguras | 627
+974 | Avatar_Degen | 627
 975 | QualcunoCF | 620
 976 | barbiescorvette | 608
 977 | liquidlesspaper | 608
