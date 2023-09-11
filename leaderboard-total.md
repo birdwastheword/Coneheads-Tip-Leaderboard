@@ -1,4 +1,4 @@
-Last updated: 23-09-11 22:40:41 UTC  
+Last updated: 23-09-11 22:50:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
 27 | IveDoneItAtLast | 5,232,656
-28 | thelonliestcrowd | 5,028,544
+28 | thelonliestcrowd | 5,031,207
 29 | Ginomania | 4,878,085
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -130,7 +130,7 @@ Rank | Username | Totals Tips
 127 | El_Gordone | 592,784
 128 | Burzzzt88 | 591,229
 129 | Independent_Heart_15 | 578,825
-130 | junkwatch | 546,119
+130 | junkwatch | 546,188
 131 | StepAsideSuckers | 543,358
 132 | crodbtc | 542,256
 133 | scientifichistorian | 539,560
@@ -420,9 +420,9 @@ Rank | Username | Totals Tips
 417 | 4gsboofd | 44,377
 418 | Kilv3r | 44,021
 419 | Coneboy2663 | 43,852
-420 | halfavocadoemoji | 43,351
-421 | halfABsinC | 43,285
-422 | Bobby_Juk | 42,988
+420 | Bobby_Juk | 43,408
+421 | halfavocadoemoji | 43,351
+422 | halfABsinC | 43,285
 423 | ACE415_ | 42,069
 424 | dead-spiral | 42,069
 425 | Cyber-Cafe | 41,921
