@@ -1,4 +1,4 @@
-Last updated: 23-09-11 15:40:42 UTC  
+Last updated: 23-09-11 15:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 17,542,414
+8 | cutsickass | 17,575,077
 9 | _ships | 16,471,555
 10 | crypto_grandma | 13,729,451
 11 | transfermymoons | 12,741,858
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | Affectionate_Hand_76 | 1,967,252
 58 | swampyswede | 1,944,887
 59 | catlover-100 | 1,924,664
-60 | investigator100 | 1,841,700
+60 | investigator100 | 1,844,363
 61 | djrcollectables | 1,803,441
 62 | CMDRGlamdring | 1,787,849
 63 | dealkhabari | 1,763,891
@@ -104,7 +104,7 @@ Rank | Username | Totals Tips
 101 | Westy3000 | 785,820
 102 | ziggybri | 783,043
 103 | Lillica_Golden_SHIB | 766,653
-104 | RegalReptile_ | 765,238
+104 | RegalReptile_ | 765,339
 105 | Alanski22 | 759,831
 106 | virmamies | 718,771
 107 | starterpack420694 | 710,420
@@ -132,9 +132,9 @@ Rank | Username | Totals Tips
 129 | Independent_Heart_15 | 578,825
 130 | junkwatch | 546,119
 131 | StepAsideSuckers | 543,358
-132 | scientifichistorian | 539,560
-133 | shreyaskg | 538,211
-134 | crodbtc | 537,256
+132 | crodbtc | 542,256
+133 | scientifichistorian | 539,560
+134 | shreyaskg | 538,211
 135 | DogSpark84 | 534,529
 136 | PortCity_MadMan | 522,884
 137 | doktastonks | 521,325
@@ -221,7 +221,7 @@ Rank | Username | Totals Tips
 218 | ziggyback | 203,369
 219 | TummyLice | 199,851
 220 | rolonic | 198,866
-221 | Most_Being_4002 | 198,166
+221 | Most_Being_4002 | 198,586
 222 | CedricDiccory | 197,932
 223 | sudrats | 197,124
 224 | redditavanft | 195,122
@@ -450,8 +450,8 @@ Rank | Username | Totals Tips
 447 | sM0k3dR4Gn | 38,045
 448 | ysnmingle | 38,038
 449 | samer109 | 37,973
-450 | onetrueSage | 37,633
-451 | Bobby_Juk | 37,528
+450 | Bobby_Juk | 37,948
+451 | onetrueSage | 37,633
 452 | shitwhenismycakeday | 37,409
 453 | redditisalt | 37,307
 454 | Imalittlestitious86 | 37,090
@@ -460,8 +460,8 @@ Rank | Username | Totals Tips
 457 | genesis_crazy_one | 36,237
 458 | foreignGER | 35,139
 459 | TRANZHUMANIST | 35,069
-460 | SirPesoOtaku | 34,724
-461 | Big-Researcher-3855 | 34,461
+460 | Big-Researcher-3855 | 34,881
+461 | SirPesoOtaku | 34,724
 462 | BelowAveIntelligence | 34,132
 463 | Obvious-Ask-5747 | 33,806
 464 | PoDunkYuppie | 33,513
