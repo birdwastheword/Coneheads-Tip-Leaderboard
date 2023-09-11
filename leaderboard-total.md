@@ -1,4 +1,4 @@
-Last updated: 23-09-11 06:34:23 UTC  
+Last updated: 23-09-11 06:42:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | GuyOne | 3,193,352
 45 | LordBobTheWhale | 3,123,108
 46 | Korean_Street_Pizza | 2,780,823
-47 | DontLaughArt | 2,777,490
+47 | DontLaughArt | 2,780,153
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,647,842
 50 | ZoomLong | 2,641,251
