@@ -1,4 +1,4 @@
-Last updated: 23-09-11 19:14:46 UTC  
+Last updated: 23-09-11 19:23:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -432,9 +432,9 @@ Rank | Username | Totals Tips
 429 | ARoyaleWithCheese | 41,000
 430 | Yirii | 40,605
 431 | ASingleGuitarString | 40,602
-432 | Zap1324 | 40,271
-433 | matdabom | 40,068
-434 | Bobby_Juk | 40,048
+432 | Bobby_Juk | 40,468
+433 | Zap1324 | 40,271
+434 | matdabom | 40,068
 435 | YourLocalDuskFox | 40,000
 436 | babuba1234321 | 40,000
 437 | alex_si_davies | 39,965
