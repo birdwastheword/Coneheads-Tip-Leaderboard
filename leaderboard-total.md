@@ -1,4 +1,4 @@
-Last updated: 23-09-11 18:50:37 UTC  
+Last updated: 23-09-11 19:00:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
 7 | ConeDesk | 17,947,653
-8 | cutsickass | 17,583,295
+8 | cutsickass | 17,643,295
 9 | _ships | 16,471,555
 10 | crypto_grandma | 13,729,451
 11 | transfermymoons | 12,741,858
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,415,712
 34 | rustyybikes | 4,269,012
 35 | send420nudes | 4,206,362
-36 | VIVOffical | 4,065,242
+36 | VIVOffical | 4,091,872
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
 39 | zdubs | 3,618,033
