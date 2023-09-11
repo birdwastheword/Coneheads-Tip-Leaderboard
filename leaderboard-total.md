@@ -1,4 +1,4 @@
-Last updated: 23-09-11 02:50:58 UTC  
+Last updated: 23-09-11 03:01:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -104,7 +104,7 @@ Rank | Username | Totals Tips
 101 | ziggybri | 783,043
 102 | Lillica_Golden_SHIB | 766,170
 103 | RegalReptile_ | 762,575
-104 | Alanski22 | 740,841
+104 | Alanski22 | 750,841
 105 | virmamies | 718,771
 106 | starterpack420694 | 710,420
 107 | WarmIyWacky | 703,049
@@ -822,17 +822,17 @@ Rank | Username | Totals Tips
 819 | bilbofraginz | 2,760
 820 | FrankieTheYoung | 2,737
 821 | l0l_random | 2,732
-822 | Niksa2007 | 2,688
-823 | m00nLyt23 | 2,663
-824 | getterdough | 2,663
-825 | SaltyBanana4711 | 2,663
-826 | 0ysterhead | 2,663
-827 | zuu8 | 2,663
-828 | BlockChad | 2,663
-829 | Deeyennay | 2,663
-830 | inevitable_username | 2,663
-831 | vexylopin | 2,589
-832 | NSFWCryptoPosting | 2,583
+822 | NSFWCryptoPosting | 2,721
+823 | Niksa2007 | 2,688
+824 | m00nLyt23 | 2,663
+825 | getterdough | 2,663
+826 | SaltyBanana4711 | 2,663
+827 | 0ysterhead | 2,663
+828 | zuu8 | 2,663
+829 | BlockChad | 2,663
+830 | Deeyennay | 2,663
+831 | inevitable_username | 2,663
+832 | vexylopin | 2,589
 833 | beerdrinker_mavech | 2,558
 834 | Tha_Watcha | 2,506
 835 | RabidLabradoodle | 2,500
