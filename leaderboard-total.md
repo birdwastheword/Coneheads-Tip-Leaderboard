@@ -1,4 +1,4 @@
-Last updated: 23-09-11 17:40:35 UTC  
+Last updated: 23-09-11 17:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,029,122
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | Real_Player_0 | 6,588,535
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
-27 | IveDoneItAtLast | 5,221,565
+27 | IveDoneItAtLast | 5,227,573
 28 | thelonliestcrowd | 5,028,544
 29 | Ginomania | 4,851,455
 30 | rikbona | 4,540,773
@@ -340,7 +340,7 @@ Rank | Username | Totals Tips
 337 | Steadfast_Apparition | 74,506
 338 | pwan7505 | 73,893
 339 | Diamond_PnutBrain | 73,688
-340 | Complete-Tadpole-728 | 73,262
+340 | Complete-Tadpole-728 | 73,682
 341 | I_AM_MORE_BADASS | 73,121
 342 | adi_00_ | 71,759
 343 | sparanaghcoar | 71,118
