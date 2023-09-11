@@ -1,4 +1,4 @@
-Last updated: 23-09-11 15:00:56 UTC  
+Last updated: 23-09-11 15:20:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -104,7 +104,7 @@ Rank | Username | Totals Tips
 101 | Westy3000 | 785,820
 102 | ziggybri | 783,043
 103 | Lillica_Golden_SHIB | 766,653
-104 | RegalReptile_ | 762,575
+104 | RegalReptile_ | 765,238
 105 | Alanski22 | 759,831
 106 | virmamies | 718,771
 107 | starterpack420694 | 710,420
@@ -301,8 +301,8 @@ Rank | Username | Totals Tips
 298 | Knaeggebrott | 97,076
 299 | IOTA_Tesla | 96,607
 300 | 192000Hertz | 96,457
-301 | BrendanTFirefly | 95,347
-302 | Own_Ad_4269 | 94,634
+301 | Own_Ad_4269 | 95,584
+302 | BrendanTFirefly | 95,347
 303 | wolfman333 | 93,986
 304 | CrossPuffs | 93,741
 305 | RollingSkull0 | 93,538
@@ -451,16 +451,16 @@ Rank | Username | Totals Tips
 448 | ysnmingle | 38,038
 449 | samer109 | 37,973
 450 | onetrueSage | 37,633
-451 | shitwhenismycakeday | 37,409
-452 | redditisalt | 37,307
-453 | Bobby_Juk | 37,108
+451 | Bobby_Juk | 37,528
+452 | shitwhenismycakeday | 37,409
+453 | redditisalt | 37,307
 454 | Imalittlestitious86 | 37,090
 455 | cryotosensei | 37,000
 456 | degree-01 | 36,486
 457 | genesis_crazy_one | 36,237
-458 | TRANZHUMANIST | 35,069
-459 | SirPesoOtaku | 34,724
-460 | foreignGER | 34,719
+458 | foreignGER | 35,139
+459 | TRANZHUMANIST | 35,069
+460 | SirPesoOtaku | 34,724
 461 | Big-Researcher-3855 | 34,461
 462 | BelowAveIntelligence | 34,132
 463 | Obvious-Ask-5747 | 33,806
