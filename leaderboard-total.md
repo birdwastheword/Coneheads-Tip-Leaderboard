@@ -1,4 +1,4 @@
-Last updated: 23-09-10 23:50:40 UTC  
+Last updated: 23-09-11 00:24:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
 27 | IveDoneItAtLast | 5,215,819
-28 | thelonliestcrowd | 5,015,228
+28 | thelonliestcrowd | 5,017,891
 29 | Ginomania | 4,851,455
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,415,712
 34 | rustyybikes | 4,267,673
 35 | send420nudes | 4,197,824
-36 | VIVOffical | 4,046,376
+36 | VIVOffical | 4,056,376
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
 39 | zdubs | 3,616,817
@@ -984,18 +984,18 @@ Rank | Username | Totals Tips
 981 | Full-Art-Weeb | 595
 982 | glouglas | 558
 983 | Professer__ | 558
-984 | Dare2gamer | 544
-985 | Swordfish-Select | 543
-986 | justthebelton | 540
-987 | Gabba- | 520
-988 | CraigyFakeFake | 500
-989 | Right-Shopping9589 | 500
-990 | I_forgot_my_opinion | 500
-991 | TreacleBeneficial678 | 489
-992 | Blackskulllll | 489
-993 | Ninja_Vagabond | 489
-994 | mrblazed23 | 489
-995 | pulse2017 | 483
+984 | pulse2017 | 552
+985 | Dare2gamer | 544
+986 | Swordfish-Select | 543
+987 | justthebelton | 540
+988 | Gabba- | 520
+989 | CraigyFakeFake | 500
+990 | Right-Shopping9589 | 500
+991 | I_forgot_my_opinion | 500
+992 | TreacleBeneficial678 | 489
+993 | Blackskulllll | 489
+994 | Ninja_Vagabond | 489
+995 | mrblazed23 | 489
 996 | mochi_ball223 | 445
 997 | Calm_Lemonade | 445
 998 | Poyal_Rines | 443
