@@ -1,4 +1,4 @@
-Last updated: 23-09-11 09:40:48 UTC  
+Last updated: 23-09-11 09:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,491,988
 33 | birdwastheword | 4,415,712
-34 | rustyybikes | 4,267,673
+34 | rustyybikes | 4,268,404
 35 | send420nudes | 4,206,362
 36 | VIVOffical | 4,056,376
 37 | thom_orrow | 3,724,828
@@ -54,7 +54,7 @@ Rank | Username | Totals Tips
 51 | _Royal_Insylum | 2,603,787
 52 | ImAlekBan | 2,518,102
 53 | possibili-teas | 2,399,515
-54 | Autom4tic_Soze | 2,181,774
+54 | Autom4tic_Soze | 2,184,437
 55 | 002_timmy | 2,059,494
 56 | 0-Give-a-fucks | 1,995,501
 57 | Affectionate_Hand_76 | 1,967,252
