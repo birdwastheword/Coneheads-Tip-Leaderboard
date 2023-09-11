@@ -1,4 +1,4 @@
-Last updated: 23-09-11 11:15:40 UTC  
+Last updated: 23-09-11 11:24:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | GooderZBK | 1,617,267
 67 | KONGXIANG | 1,584,177
 68 | evilninjarobot | 1,545,933
-69 | ultra_terrestrial | 1,481,799
+69 | ultra_terrestrial | 1,485,999
 70 | YarOldeOrchard | 1,428,410
 71 | LongCauliflower6791 | 1,410,092
 72 | ValiantJudge29500 | 1,395,493
@@ -903,7 +903,7 @@ Rank | Username | Totals Tips
 900 | VGarK | 1,337
 901 | _swnt_ | 1,337
 902 | onemansquest | 1,303
-903 | bvandepol | 1,251
+903 | bvandepol | 1,258
 904 | CWB2208 | 1,251
 905 | Tekbepimpin | 1,239
 906 | Mooraell | 1,239
