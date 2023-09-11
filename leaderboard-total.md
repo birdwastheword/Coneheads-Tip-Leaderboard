@@ -1,4 +1,4 @@
-Last updated: 23-09-11 14:19:32 UTC  
+Last updated: 23-09-11 14:31:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Fenrir-1919 | 2,647,842
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
-52 | ImAlekBan | 2,532,633
+52 | ImAlekBan | 2,533,241
 53 | possibili-teas | 2,399,515
 54 | Autom4tic_Soze | 2,184,437
 55 | 002_timmy | 2,059,494
@@ -453,11 +453,11 @@ Rank | Username | Totals Tips
 450 | onetrueSage | 37,633
 451 | shitwhenismycakeday | 37,409
 452 | redditisalt | 37,307
-453 | Imalittlestitious86 | 37,090
-454 | cryotosensei | 37,000
-455 | degree-01 | 36,486
-456 | genesis_crazy_one | 36,237
-457 | Bobby_Juk | 35,848
+453 | Bobby_Juk | 37,108
+454 | Imalittlestitious86 | 37,090
+455 | cryotosensei | 37,000
+456 | degree-01 | 36,486
+457 | genesis_crazy_one | 36,237
 458 | TRANZHUMANIST | 35,069
 459 | SirPesoOtaku | 34,724
 460 | foreignGER | 34,719
@@ -606,9 +606,9 @@ Rank | Username | Totals Tips
 603 | FixFull | 12,501
 604 | Dapper_Bloke88 | 12,451
 605 | noah1754 | 12,435
-606 | Arvalll | 12,260
-607 | wesleylyan | 12,257
-608 | ShadowKnight324 | 12,218
+606 | ShadowKnight324 | 12,287
+607 | Arvalll | 12,260
+608 | wesleylyan | 12,257
 609 | ZeusDubstep | 12,050
 610 | bageren | 12,038
 611 | Weezthajuice | 12,007
