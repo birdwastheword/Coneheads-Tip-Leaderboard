@@ -1,4 +1,4 @@
-Last updated: 23-09-11 05:40:48 UTC  
+Last updated: 23-09-11 05:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -9,8 +9,8 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,188,859
 7 | ConeDesk | 17,947,653
 8 | cutsickass | 17,369,751
-9 | _ships | 16,444,925
-10 | crypto_grandma | 13,643,665
+9 | _ships | 16,471,555
+10 | crypto_grandma | 13,651,673
 11 | transfermymoons | 12,741,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 11,958,456
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | isthistomorrow_ | 1,381,135
 73 | Mundane-Farm-4117 | 1,359,176
 74 | Extreme_Issue7325 | 1,295,890
-75 | saintajoras | 1,242,319
+75 | saintajoras | 1,244,319
 76 | revdrgonzo | 1,235,635
 77 | Richicash | 1,231,855
 78 | jimfird | 1,215,366
@@ -1101,14 +1101,14 @@ Rank | Username | Totals Tips
 1098 | Mxteej | 89
 1099 | boerenbrok | 79
 1100 | MayorAnthonyWeiner | 74
-1101 | PixelllPunk | 72
-1102 | BackwardsMonday | 72
-1103 | Snoo_92843 | 71
-1104 | Murky-Setting-4643 | 70
-1105 | Skywalker_047 | 70
-1106 | pourkey | 69
-1107 | ordnael_reverse | 69
-1108 | HRHChonkyChonkerson | 69
+1101 | HRHChonkyChonkerson | 72
+1102 | PixelllPunk | 72
+1103 | BackwardsMonday | 72
+1104 | Snoo_92843 | 71
+1105 | Murky-Setting-4643 | 70
+1106 | Skywalker_047 | 70
+1107 | pourkey | 69
+1108 | ordnael_reverse | 69
 1109 | LowFile1101 | 69
 1110 | Incredibly_Based | 69
 1111 | withspaces | 69
