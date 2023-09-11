@@ -1,4 +1,4 @@
-Last updated: 23-09-11 11:41:18 UTC  
+Last updated: 23-09-11 11:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,026,459
@@ -243,8 +243,8 @@ Rank | Username | Totals Tips
 240 | MelonFarmer420 | 165,456
 241 | DrThunderHandz | 163,658
 242 | martymartinator | 155,223
-243 | 6reficul | 153,884
-244 | CoverYourMaskHoles | 151,719
+243 | CoverYourMaskHoles | 154,382
+244 | 6reficul | 153,884
 245 | NotFullyTerrestrial | 151,302
 246 | satoshi_oscar_wilde | 150,072
 247 | BitcoinRefuge | 148,181
@@ -369,16 +369,16 @@ Rank | Username | Totals Tips
 366 | meth43 | 62,596
 367 | KrunchyKushKing | 61,532
 368 | TheD1ceMan | 60,541
-369 | lucrica | 59,987
-370 | Dboythegreat | 59,726
-371 | Big-Ticket1506 | 59,666
-372 | preemcuz | 59,154
-373 | RepublicRude6350 | 58,754
-374 | Wildspliffosis | 58,703
-375 | meme_used | 58,516
-376 | Trink333 | 58,338
-377 | phrodreky | 58,122
-378 | SaberTurret | 57,526
+369 | SaberTurret | 60,189
+370 | lucrica | 59,987
+371 | Dboythegreat | 59,726
+372 | Big-Ticket1506 | 59,666
+373 | preemcuz | 59,154
+374 | RepublicRude6350 | 58,754
+375 | Wildspliffosis | 58,703
+376 | meme_used | 58,516
+377 | Trink333 | 58,338
+378 | phrodreky | 58,122
 379 | Outrageous_Storm6537 | 56,938
 380 | ProfessionalIcy6456 | 56,380
 381 | Bandit_005 | 56,303
