@@ -1,4 +1,4 @@
-Last updated: 23-09-11 05:19:12 UTC  
+Last updated: 23-09-11 05:30:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 39,997,166
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | HippieStarTraveler | 6,256,390
 26 | Skank_cunt_42 | 5,469,825
 27 | IveDoneItAtLast | 5,215,819
-28 | thelonliestcrowd | 5,020,555
+28 | thelonliestcrowd | 5,025,881
 29 | Ginomania | 4,851,455
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | catlover-100 | 1,924,664
 60 | investigator100 | 1,839,037
 61 | djrcollectables | 1,797,507
-62 | CMDRGlamdring | 1,785,186
+62 | CMDRGlamdring | 1,787,849
 63 | dealkhabari | 1,763,891
 64 | Ten-Mins-Late | 1,707,793
 65 | GooderZBK | 1,617,267
@@ -607,7 +607,7 @@ Rank | Username | Totals Tips
 604 | noah1754 | 12,435
 605 | Arvalll | 12,260
 606 | wesleylyan | 12,257
-607 | ShadowKnight324 | 12,149
+607 | ShadowKnight324 | 12,218
 608 | ZeusDubstep | 12,050
 609 | bageren | 12,038
 610 | Weezthajuice | 12,007
