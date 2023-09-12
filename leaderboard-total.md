@@ -1,4 +1,4 @@
-Last updated: 23-09-12 22:19:25 UTC  
+Last updated: 23-09-12 22:30:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,087,708
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 12,816,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,715,850
+14 | SammyCraigar | 11,716,458
 15 | Permanent_WSB_Bull | 11,022,763
 16 | 8inchConer | 8,947,619
 17 | SpookySYN | 8,625,069
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,705,022
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,810
-27 | IveDoneItAtLast | 5,278,222
+27 | IveDoneItAtLast | 5,278,830
 28 | thelonliestcrowd | 5,245,785
 29 | Ginomania | 4,878,085
 30 | rikbona | 4,540,773
@@ -90,7 +90,7 @@ Rank | Username | Totals Tips
 87 | WarmBiertje | 1,000,000
 88 | CluelessSurvivor | 997,184
 89 | EvanIsBacon | 970,416
-90 | ID404_Not_Found_8964 | 954,978
+90 | ID404_Not_Found_8964 | 954,980
 91 | CHEROKEEJ4CK | 940,286
 92 | Forward_Today2849 | 932,405
 93 | Modestexcuse | 903,684
@@ -302,11 +302,11 @@ Rank | Username | Totals Tips
 299 | customsolitaires | 99,383
 300 | IHodlStill | 98,684
 301 | FeetAndHandFetish | 98,146
-302 | Knaeggebrott | 97,076
-303 | IOTA_Tesla | 96,607
-304 | BrendanTFirefly | 95,347
-305 | CrossPuffs | 94,581
-306 | Complete-Tadpole-728 | 94,063
+302 | Complete-Tadpole-728 | 97,146
+303 | Knaeggebrott | 97,076
+304 | IOTA_Tesla | 96,607
+305 | BrendanTFirefly | 95,347
+306 | CrossPuffs | 94,581
 307 | wolfman333 | 93,986
 308 | RollingSkull0 | 93,538
 309 | kwickle | 92,805
@@ -346,9 +346,9 @@ Rank | Username | Totals Tips
 343 | Diamond_PnutBrain | 73,688
 344 | I_AM_MORE_BADASS | 73,121
 345 | adi_00_ | 71,759
-346 | ASingleGuitarString | 71,129
-347 | sparanaghcoar | 71,118
-348 | shellystarzz | 70,980
+346 | shellystarzz | 71,588
+347 | ASingleGuitarString | 71,129
+348 | sparanaghcoar | 71,118
 349 | ElmerBlack | 70,850
 350 | drche35 | 70,466
 351 | Rush4Time | 70,079
@@ -372,7 +372,7 @@ Rank | Username | Totals Tips
 369 | Emeritux | 63,020
 370 | netnemirepxE | 62,645
 371 | meth43 | 62,596
-372 | Bobby_Juk | 60,914
+372 | Bobby_Juk | 61,334
 373 | TheD1ceMan | 60,541
 374 | lucrica | 59,987
 375 | Dboythegreat | 59,726
