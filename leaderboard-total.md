@@ -1,4 +1,4 @@
-Last updated: 23-09-12 14:50:47 UTC  
+Last updated: 23-09-12 15:00:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -28,14 +28,14 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,390
 27 | IveDoneItAtLast | 5,250,123
-28 | thelonliestcrowd | 5,060,507
+28 | thelonliestcrowd | 5,063,170
 29 | Ginomania | 4,878,085
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,494,088
 33 | birdwastheword | 4,418,375
 34 | rustyybikes | 4,269,432
-35 | send420nudes | 4,229,496
+35 | send420nudes | 4,238,034
 36 | VIVOffical | 4,128,004
 37 | thom_orrow | 3,727,432
 38 | clean_cut89 | 3,713,476
@@ -110,7 +110,7 @@ Rank | Username | Totals Tips
 107 | starterpack420694 | 710,420
 108 | WarmIyWacky | 703,049
 109 | formidable-opponent | 700,388
-110 | frickdom | 697,263
+110 | frickdom | 699,926
 111 | Starterpack69420 | 696,969
 112 | abracadabra087 | 694,465
 113 | Obi1eyeKenobi | 692,900
@@ -398,9 +398,9 @@ Rank | Username | Totals Tips
 395 | mofayew | 52,166
 396 | ConeHead710 | 52,012
 397 | d_Shazam_b | 51,991
-398 | Atorcran | 51,361
-399 | d0ntmess87 | 51,278
-400 | Bobby_Juk | 51,111
+398 | Bobby_Juk | 51,531
+399 | Atorcran | 51,361
+400 | d0ntmess87 | 51,278
 401 | Outside-Wolf5928 | 50,096
 402 | Yogi_Kat | 49,785
 403 | hey_barry | 49,698
@@ -681,18 +681,18 @@ Rank | Username | Totals Tips
 678 | shityougrin | 8,265
 679 | akemicariocaer | 8,264
 680 | Handsome_Gourd | 8,242
-681 | Nyarlatotep781 | 8,147
-682 | JAK0M0VIN0 | 8,097
-683 | TheConeHodler | 8,090
-684 | gacu-gacu | 8,065
-685 | PalpitationSecure660 | 8,055
-686 | Erikiller06 | 8,039
-687 | crypto-indian | 8,013
-688 | ryker_69 | 8,005
-689 | Primetimemongrel | 8,001
-690 | asmuth | 8,000
-691 | froi203 | 7,989
-692 | NEO_R1CH | 7,961
+681 | NEO_R1CH | 8,207
+682 | Nyarlatotep781 | 8,147
+683 | JAK0M0VIN0 | 8,097
+684 | TheConeHodler | 8,090
+685 | gacu-gacu | 8,065
+686 | PalpitationSecure660 | 8,055
+687 | Erikiller06 | 8,039
+688 | crypto-indian | 8,013
+689 | ryker_69 | 8,005
+690 | Primetimemongrel | 8,001
+691 | asmuth | 8,000
+692 | froi203 | 7,989
 693 | mronki | 7,737
 694 | Squirrel_McNutz | 7,720
 695 | isthisanavatar | 7,709
