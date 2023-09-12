@@ -1,4 +1,4 @@
-Last updated: 23-09-12 09:50:27 UTC  
+Last updated: 23-09-12 10:01:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 12,741,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 11,958,456
-14 | SammyCraigar | 11,356,345
+14 | SammyCraigar | 11,622,645
 15 | 8inchConer | 8,947,619
 16 | SpookySYN | 8,622,406
 17 | ArtConsitent | 8,533,379
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | bray_martin03 | 3,318,935
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,126,987
-46 | DontLaughArt | 2,812,021
+46 | DontLaughArt | 2,814,726
 47 | Korean_Street_Pizza | 2,783,486
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,649,058
@@ -220,7 +220,7 @@ Rank | Username | Totals Tips
 217 | UWphoto | 210,892
 218 | Esco1980 | 204,434
 219 | ziggyback | 203,369
-220 | Most_Being_4002 | 201,249
+220 | Most_Being_4002 | 201,669
 221 | TummyLice | 199,851
 222 | rolonic | 198,866
 223 | CedricDiccory | 197,932
