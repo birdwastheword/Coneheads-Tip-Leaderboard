@@ -1,4 +1,4 @@
-Last updated: 23-09-12 19:21:59 UTC  
+Last updated: 23-09-12 19:30:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,085,045
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 19,013,295
 8 | ConeDesk | 17,947,653
-9 | _ships | 16,730,185
+9 | _ships | 16,730,991
 10 | crypto_grandma | 13,735,006
 11 | transfermymoons | 12,816,858
 12 | HODL-THE-LINE | 12,469,181
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Skank_cunt_42 | 7,269,825
 22 | Puddin-Luv | 7,220,236
 23 | Geniuskills | 6,882,870
-24 | ashinamune | 6,685,022
+24 | ashinamune | 6,705,022
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,810
 27 | IveDoneItAtLast | 5,278,222
@@ -180,8 +180,8 @@ Rank | Username | Totals Tips
 177 | legionticket | 296,054
 178 | send_tacoz | 293,576
 179 | FluffyAspie | 291,679
-180 | deedopete | 285,361
-181 | monkeybombed | 285,325
+180 | monkeybombed | 285,426
+181 | deedopete | 285,361
 182 | dinoyeti | 283,881
 183 | tjex666 | 282,801
 184 | MadScientistTheFirst | 280,469
@@ -262,8 +262,8 @@ Rank | Username | Totals Tips
 259 | Outrageous-Ad8481 | 137,001
 260 | Kevin3683 | 134,519
 261 | MorrisWayne | 133,416
-262 | GoodMornEveGoodNight | 131,088
-263 | ItailianStallion101 | 129,921
+262 | ItailianStallion101 | 132,584
+263 | GoodMornEveGoodNight | 131,088
 264 | Mj_6o4 | 129,568
 265 | Awake-- | 128,173
 266 | robnectar | 127,974
@@ -348,9 +348,9 @@ Rank | Username | Totals Tips
 345 | adi_00_ | 71,759
 346 | ASingleGuitarString | 71,129
 347 | sparanaghcoar | 71,118
-348 | ElmerBlack | 70,850
-349 | drche35 | 70,466
-350 | shellystarzz | 70,372
+348 | shellystarzz | 70,980
+349 | ElmerBlack | 70,850
+350 | drche35 | 70,466
 351 | Rush4Time | 70,079
 352 | hey_barry | 69,698
 353 | Yoda975 | 69,124
@@ -372,7 +372,7 @@ Rank | Username | Totals Tips
 369 | netnemirepxE | 62,645
 370 | meth43 | 62,596
 371 | TheD1ceMan | 60,541
-372 | Bobby_Juk | 60,074
+372 | Bobby_Juk | 60,494
 373 | lucrica | 59,987
 374 | Dboythegreat | 59,726
 375 | Big-Ticket1506 | 59,666
