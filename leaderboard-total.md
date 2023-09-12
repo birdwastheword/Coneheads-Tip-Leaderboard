@@ -1,4 +1,4 @@
-Last updated: 23-09-12 20:00:41 UTC  
+Last updated: 23-09-12 20:19:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,085,045
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,867,746
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 19,103,295
+7 | cutsickass | 19,219,932
 8 | ConeDesk | 17,947,653
 9 | _ships | 16,731,599
 10 | crypto_grandma | 13,735,006
@@ -262,7 +262,7 @@ Rank | Username | Totals Tips
 259 | Outrageous-Ad8481 | 137,001
 260 | Kevin3683 | 134,519
 261 | MorrisWayne | 133,416
-262 | ItailianStallion101 | 132,584
+262 | ItailianStallion101 | 132,685
 263 | GoodMornEveGoodNight | 131,088
 264 | Mj_6o4 | 129,568
 265 | Awake-- | 128,173
@@ -622,14 +622,14 @@ Rank | Username | Totals Tips
 619 | masstransience | 11,623
 620 | reddit_saltyaf | 11,603
 621 | IndependenceHungry69 | 11,561
-622 | TheChillDyl | 11,298
-623 | SquatAngry | 11,285
-624 | This_Red_Apple | 11,260
-625 | allisonovo | 11,121
-626 | Bramberken05 | 11,110
-627 | GaryJulesMCOC | 11,110
-628 | Arj_123 | 11,032
-629 | Overall-Extension608 | 11,013
+622 | Overall-Extension608 | 11,433
+623 | TheChillDyl | 11,298
+624 | SquatAngry | 11,285
+625 | This_Red_Apple | 11,260
+626 | allisonovo | 11,121
+627 | Bramberken05 | 11,110
+628 | GaryJulesMCOC | 11,110
+629 | Arj_123 | 11,032
 630 | xllw | 11,000
 631 | PurpleCoveredSnow | 10,915
 632 | Zealousideal-War6206 | 10,905
