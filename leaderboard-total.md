@@ -1,4 +1,4 @@
-Last updated: 23-09-12 02:24:18 UTC  
+Last updated: 23-09-12 02:32:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 12,741,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 11,958,456
-14 | SammyCraigar | 11,326,489
+14 | SammyCraigar | 11,353,119
 15 | 8inchConer | 8,947,619
 16 | SpookySYN | 8,622,406
 17 | ArtConsitent | 8,533,379
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 4,878,085
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
-32 | redzrex | 4,492,408
+32 | redzrex | 4,492,828
 33 | birdwastheword | 4,415,712
 34 | rustyybikes | 4,269,012
 35 | send420nudes | 4,206,362
@@ -79,7 +79,7 @@ Rank | Username | Totals Tips
 76 | saintajoras | 1,251,819
 77 | revdrgonzo | 1,235,635
 78 | Richicash | 1,231,855
-79 | jimfird | 1,222,986
+79 | jimfird | 1,223,494
 80 | HestiaIsTheBestia | 1,188,046
 81 | Feetfailmenot | 1,170,705
 82 | Hot_Potato_Salad | 1,147,489
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | virmamies | 718,771
 107 | starterpack420694 | 710,420
 108 | WarmIyWacky | 703,049
-109 | formidable-opponent | 699,611
+109 | formidable-opponent | 700,388
 110 | frickdom | 697,263
 111 | Starterpack69420 | 696,969
 112 | abracadabra087 | 694,465
@@ -237,7 +237,7 @@ Rank | Username | Totals Tips
 234 | YourThighsWarmMyEars | 172,697
 235 | Street_Addd | 171,939
 236 | MymannosaurusRex | 171,317
-237 | high5s_inureye | 168,388
+237 | high5s_inureye | 171,051
 238 | sjakkpila | 167,546
 239 | DamnWhySoLow | 166,675
 240 | MelonFarmer420 | 165,456
