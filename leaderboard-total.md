@@ -1,4 +1,4 @@
-Last updated: 23-09-12 14:31:01 UTC  
+Last updated: 23-09-12 14:40:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -28,13 +28,13 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,390
 27 | IveDoneItAtLast | 5,250,123
-28 | thelonliestcrowd | 5,033,870
+28 | thelonliestcrowd | 5,060,507
 29 | Ginomania | 4,878,085
 30 | rikbona | 4,540,773
 31 | bigbilly1234567899 | 4,496,042
 32 | redzrex | 4,494,088
 33 | birdwastheword | 4,418,375
-34 | rustyybikes | 4,269,012
+34 | rustyybikes | 4,269,432
 35 | send420nudes | 4,229,496
 36 | VIVOffical | 4,128,004
 37 | thom_orrow | 3,727,432
@@ -305,10 +305,10 @@ Rank | Username | Totals Tips
 302 | BrendanTFirefly | 95,347
 303 | CrossPuffs | 94,581
 304 | wolfman333 | 93,986
-305 | RollingSkull0 | 93,538
-306 | kwickle | 92,805
-307 | H3adshotfox77 | 92,575
-308 | Complete-Tadpole-728 | 92,383
+305 | Complete-Tadpole-728 | 93,643
+306 | RollingSkull0 | 93,538
+307 | kwickle | 92,805
+308 | H3adshotfox77 | 92,575
 309 | AhhhUhmmm | 91,891
 310 | urlz | 91,281
 311 | Backwood20 | 90,298
