@@ -1,4 +1,4 @@
-Last updated: 23-09-12 20:40:31 UTC  
+Last updated: 23-09-12 20:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,085,045
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 19,309,932
 8 | ConeDesk | 17,947,653
-9 | _ships | 16,731,599
+9 | _ships | 16,732,936
 10 | crypto_grandma | 13,735,006
 11 | transfermymoons | 12,816,858
 12 | HODL-THE-LINE | 12,469,181
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | thom_orrow | 3,727,432
 39 | clean_cut89 | 3,713,476
 40 | LuminousViper | 3,481,417
-41 | ZukoBih | 3,424,419
+41 | ZukoBih | 3,427,082
 42 | GuyOne | 3,377,332
 43 | bray_martin03 | 3,368,935
 44 | Dry_Badger_2403 | 3,193,857
@@ -102,8 +102,8 @@ Rank | Username | Totals Tips
 99 | billywright4 | 795,269
 100 | ashketchup422 | 794,067
 101 | Cravensworth_redux | 790,803
-102 | Westy3000 | 785,931
-103 | RegalReptile_ | 785,339
+102 | RegalReptile_ | 788,002
+103 | Westy3000 | 785,931
 104 | ziggybri | 783,463
 105 | Alanski22 | 765,157
 106 | virmamies | 718,771
