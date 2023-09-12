@@ -1,4 +1,4 @@
-Last updated: 23-09-12 22:30:49 UTC  
+Last updated: 23-09-12 22:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,087,708
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,867,746
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 19,494,932
+7 | cutsickass | 19,524,932
 8 | ConeDesk | 17,947,653
 9 | _ships | 16,760,594
 10 | crypto_grandma | 13,735,006
@@ -262,12 +262,12 @@ Rank | Username | Totals Tips
 259 | Outrageous-Ad8481 | 137,001
 260 | Kevin3683 | 134,519
 261 | MorrisWayne | 133,416
-262 | ItailianStallion101 | 132,685
-263 | GoodMornEveGoodNight | 131,088
-264 | Mj_6o4 | 129,568
-265 | Awake-- | 128,173
-266 | robnectar | 127,974
-267 | BitCone_CONE | 127,681
+262 | BitCone_CONE | 133,007
+263 | ItailianStallion101 | 132,685
+264 | GoodMornEveGoodNight | 131,088
+265 | Mj_6o4 | 129,568
+266 | Awake-- | 128,173
+267 | robnectar | 127,974
 268 | DeanDeanington | 127,267
 269 | CalligrapherEnough83 | 127,227
 270 | Trakorr | 125,110
@@ -345,8 +345,8 @@ Rank | Username | Totals Tips
 342 | pwan7505 | 73,893
 343 | Diamond_PnutBrain | 73,688
 344 | I_AM_MORE_BADASS | 73,121
-345 | adi_00_ | 71,759
-346 | shellystarzz | 71,588
+345 | shellystarzz | 72,196
+346 | adi_00_ | 71,759
 347 | ASingleGuitarString | 71,129
 348 | sparanaghcoar | 71,118
 349 | ElmerBlack | 70,850
