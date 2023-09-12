@@ -1,4 +1,4 @@
-Last updated: 23-09-12 04:30:47 UTC  
+Last updated: 23-09-12 04:40:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,825,677
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
-7 | cutsickass | 18,223,295
+7 | cutsickass | 18,343,295
 8 | ConeDesk | 17,947,653
 9 | _ships | 16,599,507
 10 | crypto_grandma | 13,735,006
@@ -60,10 +60,10 @@ Rank | Username | Totals Tips
 57 | Affectionate_Hand_76 | 1,967,252
 58 | swampyswede | 1,944,887
 59 | catlover-100 | 1,924,664
-60 | investigator100 | 1,857,026
+60 | investigator100 | 1,859,689
 61 | djrcollectables | 1,806,104
 62 | CMDRGlamdring | 1,790,512
-63 | dealkhabari | 1,763,891
+63 | dealkhabari | 1,767,162
 64 | Ten-Mins-Late | 1,707,793
 65 | Iulian_TechNewb | 1,690,179
 66 | GooderZBK | 1,617,267
@@ -749,13 +749,13 @@ Rank | Username | Totals Tips
 746 | NoNumbersNumber | 5,138
 747 | just_half_baked710 | 5,133
 748 | Prize-Reference9329 | 5,090
-749 | Hour_Sleep_9544 | 5,080
-750 | Happy-Cheeseface | 5,061
-751 | Zaxoosh | 5,010
-752 | Itwillmoon | 5,000
-753 | Crunchious1 | 5,000
-754 | My_Man_Tyrone | 5,000
-755 | RedditReader825 | 4,989
+749 | RedditReader825 | 5,090
+750 | Hour_Sleep_9544 | 5,080
+751 | Happy-Cheeseface | 5,061
+752 | Zaxoosh | 5,010
+753 | Itwillmoon | 5,000
+754 | Crunchious1 | 5,000
+755 | My_Man_Tyrone | 5,000
 756 | Showwwy87 | 4,989
 757 | Kzis | 4,937
 758 | mcbifter | 4,834
