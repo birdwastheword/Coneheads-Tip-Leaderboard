@@ -1,4 +1,4 @@
-Last updated: 23-09-12 04:21:37 UTC  
+Last updated: 23-09-12 04:30:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | Affectionate_Hand_76 | 1,967,252
 58 | swampyswede | 1,944,887
 59 | catlover-100 | 1,924,664
-60 | investigator100 | 1,854,363
+60 | investigator100 | 1,857,026
 61 | djrcollectables | 1,806,104
 62 | CMDRGlamdring | 1,790,512
 63 | dealkhabari | 1,763,891
@@ -328,14 +328,14 @@ Rank | Username | Totals Tips
 325 | diamondbored | 80,886
 326 | mastermarvs | 80,384
 327 | Creative_Ad7831 | 80,047
-328 | youtooleyesing | 79,892
-329 | Pwny_b0y | 79,447
-330 | GodOfWarGuy737 | 79,069
-331 | fleshlyLoath | 78,366
-332 | TheOneWhoCared | 78,239
-333 | mokkingjay | 77,914
-334 | HelicopterDear6064 | 77,619
-335 | XeroGrave | 77,337
+328 | XeroGrave | 80,000
+329 | youtooleyesing | 79,892
+330 | Pwny_b0y | 79,447
+331 | GodOfWarGuy737 | 79,069
+332 | fleshlyLoath | 78,366
+333 | TheOneWhoCared | 78,239
+334 | mokkingjay | 77,914
+335 | HelicopterDear6064 | 77,619
 336 | Derefringence | 77,095
 337 | Heycheckthisout20 | 75,608
 338 | MedicineMaterial3501 | 74,654
