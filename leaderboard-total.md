@@ -1,4 +1,4 @@
-Last updated: 23-09-12 21:00:50 UTC  
+Last updated: 23-09-12 21:16:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,085,045
@@ -96,7 +96,7 @@ Rank | Username | Totals Tips
 93 | Modestexcuse | 903,684
 94 | thee_monster | 896,765
 95 | Bobisdeadrun | 868,946
-96 | Lillica_Golden_SHIB | 827,247
+96 | Lillica_Golden_SHIB | 827,316
 97 | goldyluckinblokchain | 809,537
 98 | vbutarin | 802,000
 99 | billywright4 | 795,269
@@ -441,10 +441,10 @@ Rank | Username | Totals Tips
 438 | YourLocalDuskFox | 40,000
 439 | babuba1234321 | 40,000
 440 | alex_si_davies | 39,965
-441 | GuronT | 39,830
-442 | AMAxyz | 39,775
-443 | Mortifer6 | 39,738
-444 | FalloutAssasin | 39,446
+441 | FalloutAssasin | 39,866
+442 | GuronT | 39,830
+443 | AMAxyz | 39,775
+444 | Mortifer6 | 39,738
 445 | waterincorporated | 39,428
 446 | sM0k3dR4Gn | 39,279
 447 | kanem87 | 39,187
