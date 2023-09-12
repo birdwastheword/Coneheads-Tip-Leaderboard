@@ -1,4 +1,4 @@
-Last updated: 23-09-12 10:50:31 UTC  
+Last updated: 23-09-12 11:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | redzrex | 4,494,088
 33 | birdwastheword | 4,418,375
 34 | rustyybikes | 4,269,012
-35 | send420nudes | 4,215,269
+35 | send420nudes | 4,219,538
 36 | VIVOffical | 4,128,004
 37 | thom_orrow | 3,727,432
 38 | clean_cut89 | 3,713,476
@@ -79,7 +79,7 @@ Rank | Username | Totals Tips
 76 | saintajoras | 1,251,819
 77 | revdrgonzo | 1,235,635
 78 | Richicash | 1,231,855
-79 | jimfird | 1,224,002
+79 | jimfird | 1,225,018
 80 | HestiaIsTheBestia | 1,188,046
 81 | Feetfailmenot | 1,170,705
 82 | Hot_Potato_Salad | 1,147,489
@@ -130,7 +130,7 @@ Rank | Username | Totals Tips
 127 | El_Gordone | 592,784
 128 | Burzzzt88 | 591,229
 129 | Independent_Heart_15 | 578,825
-130 | junkwatch | 546,608
+130 | junkwatch | 546,677
 131 | crodbtc | 544,919
 132 | StepAsideSuckers | 543,358
 133 | scientifichistorian | 539,560
@@ -219,8 +219,8 @@ Rank | Username | Totals Tips
 216 | SigSalvadore | 212,358
 217 | UWphoto | 210,892
 218 | Esco1980 | 204,434
-219 | ziggyback | 203,369
-220 | Most_Being_4002 | 201,669
+219 | Most_Being_4002 | 204,332
+220 | ziggyback | 203,369
 221 | TummyLice | 199,851
 222 | rolonic | 198,866
 223 | CedricDiccory | 197,932
@@ -693,15 +693,15 @@ Rank | Username | Totals Tips
 690 | asmuth | 8,000
 691 | mronki | 7,737
 692 | Squirrel_McNutz | 7,720
-693 | isthisanavatar | 7,709
-694 | Chichakitty | 7,677
-695 | TeflonThaDonn | 7,625
-696 | gold_digger333 | 7,577
-697 | king0ftheroad | 7,500
-698 | RiceRare | 7,491
-699 | Pengpangolin | 7,488
-700 | LimpPeanut5633 | 7,485
-701 | NEO_R1CH | 7,469
+693 | NEO_R1CH | 7,715
+694 | isthisanavatar | 7,709
+695 | Chichakitty | 7,677
+696 | TeflonThaDonn | 7,625
+697 | gold_digger333 | 7,577
+698 | king0ftheroad | 7,500
+699 | RiceRare | 7,491
+700 | Pengpangolin | 7,488
+701 | LimpPeanut5633 | 7,485
 702 | FlippiShh | 7,440
 703 | quaker-goats | 7,414
 704 | Weirdclerk_ | 7,392
