@@ -1,4 +1,4 @@
-Last updated: 23-09-12 23:18:08 UTC  
+Last updated: 23-09-12 23:30:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,087,708
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,710,348
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,810
-27 | IveDoneItAtLast | 5,284,156
+27 | IveDoneItAtLast | 5,296,172
 28 | thelonliestcrowd | 5,245,785
 29 | Ginomania | 4,878,085
 30 | rikbona | 4,540,773
@@ -345,7 +345,7 @@ Rank | Username | Totals Tips
 342 | pwan7505 | 73,893
 343 | Diamond_PnutBrain | 73,688
 344 | I_AM_MORE_BADASS | 73,121
-345 | shellystarzz | 72,196
+345 | shellystarzz | 72,804
 346 | adi_00_ | 71,759
 347 | ASingleGuitarString | 71,129
 348 | sparanaghcoar | 71,118
@@ -372,7 +372,7 @@ Rank | Username | Totals Tips
 369 | Emeritux | 63,020
 370 | netnemirepxE | 62,645
 371 | meth43 | 62,596
-372 | Bobby_Juk | 61,334
+372 | Bobby_Juk | 61,754
 373 | TheD1ceMan | 60,541
 374 | lucrica | 59,987
 375 | Dboythegreat | 59,726
@@ -404,7 +404,7 @@ Rank | Username | Totals Tips
 401 | ConeHead710 | 52,012
 402 | d_Shazam_b | 51,991
 403 | slasula | 51,466
-404 | Atorcran | 51,361
+404 | Atorcran | 51,430
 405 | d0ntmess87 | 51,278
 406 | Outside-Wolf5928 | 50,096
 407 | Yogi_Kat | 49,785
