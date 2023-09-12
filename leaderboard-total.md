@@ -1,4 +1,4 @@
-Last updated: 23-09-12 14:19:36 UTC  
+Last updated: 23-09-12 14:31:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | redzrex | 4,494,088
 33 | birdwastheword | 4,418,375
 34 | rustyybikes | 4,269,012
-35 | send420nudes | 4,225,227
+35 | send420nudes | 4,229,496
 36 | VIVOffical | 4,128,004
 37 | thom_orrow | 3,727,432
 38 | clean_cut89 | 3,713,476
@@ -205,7 +205,7 @@ Rank | Username | Totals Tips
 202 | Own_Ad_4269 | 247,166
 203 | joeviani | 241,717
 204 | tjex666 | 240,801
-205 | the_judge_168 | 237,141
+205 | the_judge_168 | 237,749
 206 | MuhSound | 235,724
 207 | Zalkwalker | 235,069
 208 | alexthemay | 234,131
@@ -308,12 +308,12 @@ Rank | Username | Totals Tips
 305 | RollingSkull0 | 93,538
 306 | kwickle | 92,805
 307 | H3adshotfox77 | 92,575
-308 | AhhhUhmmm | 91,891
-309 | urlz | 91,281
-310 | Backwood20 | 90,298
-311 | DramaticProtogen | 90,274
-312 | Award-Bot | 90,000
-313 | Complete-Tadpole-728 | 89,863
+308 | Complete-Tadpole-728 | 92,383
+309 | AhhhUhmmm | 91,891
+310 | urlz | 91,281
+311 | Backwood20 | 90,298
+312 | DramaticProtogen | 90,274
+313 | Award-Bot | 90,000
 314 | MedicalJockey | 89,083
 315 | jurgensdapimp | 88,535
 316 | HokkaidoNights | 88,108
@@ -451,11 +451,11 @@ Rank | Username | Totals Tips
 448 | rowdy1212 | 38,129
 449 | ysnmingle | 38,038
 450 | samer109 | 37,973
-451 | onetrueSage | 37,633
-452 | shitwhenismycakeday | 37,409
-453 | redditisalt | 37,307
-454 | Imalittlestitious86 | 37,090
-455 | cryotosensei | 37,000
+451 | cryotosensei | 37,690
+452 | onetrueSage | 37,633
+453 | shitwhenismycakeday | 37,409
+454 | redditisalt | 37,307
+455 | Imalittlestitious86 | 37,090
 456 | degree-01 | 36,486
 457 | genesis_crazy_one | 36,237
 458 | foreignGER | 35,208
