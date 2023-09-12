@@ -1,4 +1,4 @@
-Last updated: 23-09-12 12:58:34 UTC  
+Last updated: 23-09-12 13:23:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -257,9 +257,9 @@ Rank | Username | Totals Tips
 254 | luisantonio197 | 139,511
 255 | Clonkerz | 138,006
 256 | Legal-Appointment655 | 137,972
-257 | GrowinStuffAndThings | 137,461
-258 | Outrageous-Ad8481 | 137,001
-259 | pythonskynet | 135,301
+257 | pythonskynet | 137,964
+258 | GrowinStuffAndThings | 137,461
+259 | Outrageous-Ad8481 | 137,001
 260 | MorrisWayne | 133,416
 261 | Kevin3683 | 133,285
 262 | GoodMornEveGoodNight | 131,088
@@ -401,12 +401,12 @@ Rank | Username | Totals Tips
 398 | Atorcran | 51,361
 399 | d0ntmess87 | 51,278
 400 | Outside-Wolf5928 | 50,096
-401 | Yogi_Kat | 49,785
-402 | hey_barry | 49,698
-403 | eatthebagels | 49,692
-404 | sicilian2124 | 49,529
-405 | Dolce_00 | 49,523
-406 | Bobby_Juk | 49,431
+401 | Bobby_Juk | 49,851
+402 | Yogi_Kat | 49,785
+403 | hey_barry | 49,698
+404 | eatthebagels | 49,692
+405 | sicilian2124 | 49,529
+406 | Dolce_00 | 49,523
 407 | Levl1Critter | 49,152
 408 | shredslanding | 46,650
 409 | Oue | 46,352
@@ -820,12 +820,12 @@ Rank | Username | Totals Tips
 817 | KlemenKisi | 2,808
 818 | general_452 | 2,801
 819 | basbcn824 | 2,795
-820 | Painfulblisteronmyb | 2,783
-821 | I_am_not_doing_this | 2,763
-822 | bilbofraginz | 2,760
-823 | FrankieTheYoung | 2,737
-824 | l0l_random | 2,732
-825 | NSFWCryptoPosting | 2,721
+820 | NSFWCryptoPosting | 2,790
+821 | Painfulblisteronmyb | 2,783
+822 | I_am_not_doing_this | 2,763
+823 | bilbofraginz | 2,760
+824 | FrankieTheYoung | 2,737
+825 | l0l_random | 2,732
 826 | Niksa2007 | 2,688
 827 | m00nLyt23 | 2,663
 828 | getterdough | 2,663
