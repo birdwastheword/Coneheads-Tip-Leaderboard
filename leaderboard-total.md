@@ -1,4 +1,4 @@
-Last updated: 23-09-12 07:17:07 UTC  
+Last updated: 23-09-12 07:25:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -234,15 +234,15 @@ Rank | Username | Totals Tips
 231 | Heclalava | 181,538
 232 | ZeMadMan1 | 180,588
 233 | ruccarucca | 180,270
-234 | YourThighsWarmMyEars | 172,697
-235 | Street_Addd | 171,939
-236 | MymannosaurusRex | 171,317
-237 | high5s_inureye | 171,051
-238 | sjakkpila | 167,546
-239 | DamnWhySoLow | 166,675
-240 | MelonFarmer420 | 165,456
-241 | DrThunderHandz | 163,658
-242 | Own_Ad_4269 | 162,226
+234 | Own_Ad_4269 | 179,457
+235 | YourThighsWarmMyEars | 172,697
+236 | Street_Addd | 171,939
+237 | MymannosaurusRex | 171,317
+238 | high5s_inureye | 171,051
+239 | sjakkpila | 167,546
+240 | DamnWhySoLow | 166,675
+241 | MelonFarmer420 | 165,456
+242 | DrThunderHandz | 163,658
 243 | CoverYourMaskHoles | 157,045
 244 | martymartinator | 155,223
 245 | 6reficul | 153,884
@@ -312,7 +312,7 @@ Rank | Username | Totals Tips
 309 | Backwood20 | 90,298
 310 | DramaticProtogen | 90,274
 311 | Award-Bot | 90,000
-312 | Complete-Tadpole-728 | 89,443
+312 | Complete-Tadpole-728 | 89,863
 313 | MedicalJockey | 89,083
 314 | jurgensdapimp | 88,535
 315 | HokkaidoNights | 88,108
@@ -407,7 +407,7 @@ Rank | Username | Totals Tips
 404 | sicilian2124 | 49,529
 405 | Levl1Critter | 49,152
 406 | Dolce_00 | 48,683
-407 | Bobby_Juk | 47,331
+407 | Bobby_Juk | 47,751
 408 | shredslanding | 46,650
 409 | Oue | 46,352
 410 | skatistic | 46,287
