@@ -1,4 +1,4 @@
-Last updated: 23-09-12 09:01:04 UTC  
+Last updated: 23-09-12 09:18:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,685,022
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,390
-27 | IveDoneItAtLast | 5,237,982
+27 | IveDoneItAtLast | 5,240,004
 28 | thelonliestcrowd | 5,033,870
 29 | Ginomania | 4,878,085
 30 | rikbona | 4,540,773
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Fenrir-1919 | 2,648,450
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
-52 | ImAlekBan | 2,537,120
+52 | ImAlekBan | 2,539,783
 53 | possibili-teas | 2,399,515
 54 | Autom4tic_Soze | 2,184,437
 55 | 002_timmy | 2,059,494
@@ -88,7 +88,7 @@ Rank | Username | Totals Tips
 85 | avatarbot | 1,027,000
 86 | UniversalNoobMaster | 1,014,402
 87 | WarmBiertje | 1,000,000
-88 | CluelessSurvivor | 970,554
+88 | CluelessSurvivor | 997,184
 89 | EvanIsBacon | 970,416
 90 | CHEROKEEJ4CK | 940,286
 91 | ID404_Not_Found_8964 | 934,978
@@ -364,9 +364,9 @@ Rank | Username | Totals Tips
 361 | zuzieey7719 | 64,618
 362 | KrunchyKushKing | 64,195
 363 | slug_tamer | 63,595
-364 | guokaidi | 63,413
-365 | Emeritux | 63,020
-366 | S2K08 | 62,773
+364 | S2K08 | 63,439
+365 | guokaidi | 63,413
+366 | Emeritux | 63,020
 367 | netnemirepxE | 62,645
 368 | meth43 | 62,596
 369 | TheD1ceMan | 60,541
@@ -398,7 +398,7 @@ Rank | Username | Totals Tips
 395 | mofayew | 52,166
 396 | ConeHead710 | 52,012
 397 | d_Shazam_b | 51,991
-398 | Atorcran | 51,292
+398 | Atorcran | 51,361
 399 | d0ntmess87 | 51,278
 400 | Outside-Wolf5928 | 50,096
 401 | Yogi_Kat | 49,785
