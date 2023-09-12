@@ -1,4 +1,4 @@
-Last updated: 23-09-12 05:30:49 UTC  
+Last updated: 23-09-12 05:40:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -138,7 +138,7 @@ Rank | Username | Totals Tips
 135 | DogSpark84 | 537,005
 136 | PortCity_MadMan | 525,547
 137 | doktastonks | 521,325
-138 | Allions1 | 520,025
+138 | Allions1 | 520,094
 139 | f0n1xr131ng | 509,681
 140 | Crypto-4-Freedom | 505,656
 141 | AcceptableLeg8751 | 500,000
