@@ -1,4 +1,4 @@
-Last updated: 23-09-12 11:40:47 UTC  
+Last updated: 23-09-12 11:50:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | VIVOffical | 4,128,004
 37 | thom_orrow | 3,727,432
 38 | clean_cut89 | 3,713,476
-39 | zdubs | 3,622,582
+39 | zdubs | 3,623,190
 40 | LuminousViper | 3,481,417
 41 | ZukoBih | 3,421,756
 42 | GuyOne | 3,377,332
@@ -364,8 +364,8 @@ Rank | Username | Totals Tips
 361 | zuzieey7719 | 64,618
 362 | KrunchyKushKing | 64,195
 363 | slug_tamer | 63,595
-364 | S2K08 | 63,439
-365 | guokaidi | 63,413
+364 | guokaidi | 63,581
+365 | S2K08 | 63,439
 366 | Emeritux | 63,020
 367 | netnemirepxE | 62,645
 368 | meth43 | 62,596
@@ -406,8 +406,8 @@ Rank | Username | Totals Tips
 403 | eatthebagels | 49,692
 404 | sicilian2124 | 49,529
 405 | Dolce_00 | 49,523
-406 | Levl1Critter | 49,152
-407 | Bobby_Juk | 49,011
+406 | Bobby_Juk | 49,431
+407 | Levl1Critter | 49,152
 408 | shredslanding | 46,650
 409 | Oue | 46,352
 410 | skatistic | 46,287
@@ -835,10 +835,10 @@ Rank | Username | Totals Tips
 832 | BlockChad | 2,663
 833 | Deeyennay | 2,663
 834 | inevitable_username | 2,663
-835 | vexylopin | 2,589
-836 | beerdrinker_mavech | 2,558
-837 | Tha_Watcha | 2,506
-838 | TheyAskWho | 2,504
+835 | TheyAskWho | 2,615
+836 | vexylopin | 2,589
+837 | beerdrinker_mavech | 2,558
+838 | Tha_Watcha | 2,506
 839 | RabidLabradoodle | 2,500
 840 | Poutcheki | 2,489
 841 | Lalit-K | 2,489
