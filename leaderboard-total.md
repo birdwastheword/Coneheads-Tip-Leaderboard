@@ -1,4 +1,4 @@
-Last updated: 23-09-12 08:23:26 UTC  
+Last updated: 23-09-12 08:32:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | SpookySYN | 8,622,406
 17 | ArtConsitent | 8,533,379
 18 | Permanent_WSB_Bull | 8,522,763
-19 | avyun | 8,152,245
+19 | avyun | 8,221,735
 20 | Homeslicekilla | 7,998,462
 21 | Skank_cunt_42 | 7,269,825
 22 | Puddin-Luv | 7,177,671
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | redzrex | 4,494,088
 33 | birdwastheword | 4,418,375
 34 | rustyybikes | 4,269,012
-35 | send420nudes | 4,206,362
+35 | send420nudes | 4,206,731
 36 | VIVOffical | 4,128,004
 37 | thom_orrow | 3,727,432
 38 | clean_cut89 | 3,713,476
@@ -837,14 +837,14 @@ Rank | Username | Totals Tips
 834 | vexylopin | 2,589
 835 | beerdrinker_mavech | 2,558
 836 | Tha_Watcha | 2,506
-837 | RabidLabradoodle | 2,500
-838 | Poutcheki | 2,489
-839 | Lalit-K | 2,489
-840 | ConemanNFT | 2,482
-841 | offgridgecko | 2,454
-842 | birdstream | 2,427
-843 | That_Youth2223 | 2,414
-844 | TheyAskWho | 2,393
+837 | TheyAskWho | 2,504
+838 | RabidLabradoodle | 2,500
+839 | Poutcheki | 2,489
+840 | Lalit-K | 2,489
+841 | ConemanNFT | 2,482
+842 | offgridgecko | 2,454
+843 | birdstream | 2,427
+844 | That_Youth2223 | 2,414
 845 | MrD_12 | 2,376
 846 | SpySeaRamen | 2,340
 847 | bonneatoutfaire | 2,303
