@@ -1,4 +1,4 @@
-Last updated: 23-09-12 18:50:51 UTC  
+Last updated: 23-09-12 19:00:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,085,045
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,825,677
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 18,833,295
+7 | cutsickass | 18,953,295
 8 | ConeDesk | 17,947,653
 9 | _ships | 16,700,892
 10 | crypto_grandma | 13,735,006
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | avyun | 8,221,735
 20 | Homeslicekilla | 7,998,462
 21 | Skank_cunt_42 | 7,269,825
-22 | Puddin-Luv | 7,219,816
+22 | Puddin-Luv | 7,220,236
 23 | Geniuskills | 6,882,870
 24 | ashinamune | 6,685,022
 25 | Real_Player_0 | 6,588,535
