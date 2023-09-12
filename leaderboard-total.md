@@ -1,4 +1,4 @@
-Last updated: 23-09-12 13:50:28 UTC  
+Last updated: 23-09-12 14:00:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | Cravensworth_redux | 790,803
 101 | Westy3000 | 785,931
 102 | ziggybri | 783,043
-103 | Lillica_Golden_SHIB | 767,109
+103 | Lillica_Golden_SHIB | 767,178
 104 | RegalReptile_ | 765,339
 105 | Alanski22 | 765,157
 106 | virmamies | 718,771
@@ -400,8 +400,8 @@ Rank | Username | Totals Tips
 397 | d_Shazam_b | 51,991
 398 | Atorcran | 51,361
 399 | d0ntmess87 | 51,278
-400 | Outside-Wolf5928 | 50,096
-401 | Bobby_Juk | 49,851
+400 | Bobby_Juk | 50,691
+401 | Outside-Wolf5928 | 50,096
 402 | Yogi_Kat | 49,785
 403 | hey_barry | 49,698
 404 | eatthebagels | 49,692
@@ -649,14 +649,14 @@ Rank | Username | Totals Tips
 646 | No-Confusion7414 | 9,959
 647 | boopcorgi | 9,923
 648 | Mrmakanakai | 9,909
-649 | supatard44 | 9,891
-650 | J-_Mad | 9,785
-651 | Ok-Profile-1744 | 9,709
-652 | Zeratrem | 9,683
-653 | Cauzzai | 9,672
-654 | kekzilla59 | 9,655
-655 | Elegant_Tale_3929 | 9,600
-656 | LaPantheRose | 9,487
+649 | LaPantheRose | 9,907
+650 | supatard44 | 9,891
+651 | J-_Mad | 9,785
+652 | Ok-Profile-1744 | 9,709
+653 | Zeratrem | 9,683
+654 | Cauzzai | 9,672
+655 | kekzilla59 | 9,655
+656 | Elegant_Tale_3929 | 9,600
 657 | Mavis80 | 9,482
 658 | xSeekTruthx | 9,459
 659 | Most_Border_3917 | 9,449
