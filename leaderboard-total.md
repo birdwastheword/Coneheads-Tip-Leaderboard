@@ -1,4 +1,4 @@
-Last updated: 23-09-12 08:40:38 UTC  
+Last updated: 23-09-12 08:50:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | swampyswede | 1,944,887
 59 | catlover-100 | 1,924,664
 60 | investigator100 | 1,859,689
-61 | djrcollectables | 1,806,104
+61 | djrcollectables | 1,806,712
 62 | CMDRGlamdring | 1,790,932
 63 | dealkhabari | 1,767,162
 64 | Ten-Mins-Late | 1,707,793
