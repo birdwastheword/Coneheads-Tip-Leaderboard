@@ -1,4 +1,4 @@
-Last updated: 23-09-12 13:32:00 UTC  
+Last updated: 23-09-12 13:40:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -54,7 +54,7 @@ Rank | Username | Totals Tips
 51 | _Royal_Insylum | 2,603,787
 52 | ImAlekBan | 2,539,783
 53 | possibili-teas | 2,399,515
-54 | Autom4tic_Soze | 2,184,437
+54 | Autom4tic_Soze | 2,185,057
 55 | 002_timmy | 2,059,494
 56 | 0-Give-a-fucks | 1,995,501
 57 | Affectionate_Hand_76 | 1,967,252
@@ -773,22 +773,22 @@ Rank | Username | Totals Tips
 770 | _dual1ty | 4,333
 771 | DepressedVegabond | 4,300
 772 | ADT06 | 4,260
-773 | Werd2jaH | 4,205
-774 | OG_Bobcat32 | 4,200
-775 | officialzodiacbeats | 4,194
-776 | Fit_Win_541 | 4,169
-777 | DrAgaricus | 4,111
-778 | Ronkad | 4,003
-779 | Ancient_Summer_1833 | 4,001
-780 | Puzzleheaded_Popup | 4,000
-781 | Lazy_Staff4893 | 4,000
-782 | nathanroberts14 | 4,000
-783 | Soil_Electronic | 3,975
-784 | Dreadaussie | 3,920
-785 | carsonthecarsinogen | 3,769
-786 | salt_yaf | 3,706
-787 | Gelato_33 | 3,628
-788 | NSFWCryptoPosting | 3,549
+773 | NSFWCryptoPosting | 4,239
+774 | Werd2jaH | 4,205
+775 | OG_Bobcat32 | 4,200
+776 | officialzodiacbeats | 4,194
+777 | Fit_Win_541 | 4,169
+778 | DrAgaricus | 4,111
+779 | Ronkad | 4,003
+780 | Ancient_Summer_1833 | 4,001
+781 | Puzzleheaded_Popup | 4,000
+782 | Lazy_Staff4893 | 4,000
+783 | nathanroberts14 | 4,000
+784 | Soil_Electronic | 3,975
+785 | Dreadaussie | 3,920
+786 | carsonthecarsinogen | 3,769
+787 | salt_yaf | 3,706
+788 | Gelato_33 | 3,628
 789 | _echnaton | 3,504
 790 | raulcras5 | 3,502
 791 | WeaselJCD | 3,434
