@@ -1,4 +1,4 @@
-Last updated: 23-09-12 19:40:34 UTC  
+Last updated: 23-09-12 19:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,085,045
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 19,073,295
 8 | ConeDesk | 17,947,653
-9 | _ships | 16,730,991
+9 | _ships | 16,731,599
 10 | crypto_grandma | 13,735,006
 11 | transfermymoons | 12,816,858
 12 | HODL-THE-LINE | 12,469,181
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 4,269,432
 35 | send420nudes | 4,255,110
 36 | VIVOffical | 4,128,004
-37 | zdubs | 3,750,853
+37 | zdubs | 3,750,861
 38 | thom_orrow | 3,727,432
 39 | clean_cut89 | 3,713,476
 40 | LuminousViper | 3,481,417
@@ -170,9 +170,9 @@ Rank | Username | Totals Tips
 167 | Outrageous-Skill-464 | 344,174
 168 | anony666mous | 341,008
 169 | tsudrat | 340,707
-170 | EffinDrongoC | 312,738
-171 | Lastkidpicked94 | 306,122
-172 | x52x | 304,929
+170 | x52x | 324,929
+171 | EffinDrongoC | 312,738
+172 | Lastkidpicked94 | 306,122
 173 | liwipe | 304,467
 174 | Adrewmc | 301,178
 175 | fettskull | 300,964
