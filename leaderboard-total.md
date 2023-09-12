@@ -1,4 +1,4 @@
-Last updated: 23-09-12 05:50:43 UTC  
+Last updated: 23-09-12 06:00:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 4,269,012
 35 | send420nudes | 4,206,362
 36 | VIVOffical | 4,128,004
-37 | thom_orrow | 3,724,828
+37 | thom_orrow | 3,725,828
 38 | clean_cut89 | 3,713,476
 39 | zdubs | 3,619,249
 40 | LuminousViper | 3,481,417
@@ -283,9 +283,9 @@ Rank | Username | Totals Tips
 280 | xSkyFa11x | 114,768
 281 | AlternativeBag2619 | 114,483
 282 | Fox1931 | 114,000
-283 | flying_bacon | 111,929
-284 | adrefofadre | 111,817
-285 | beanwiggin420 | 111,262
+283 | beanwiggin420 | 113,262
+284 | flying_bacon | 111,929
+285 | adrefofadre | 111,817
 286 | Strong_Constant_1190 | 110,325
 287 | PushyDevolution | 110,216
 288 | Jadenindubai | 107,206
