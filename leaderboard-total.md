@@ -1,4 +1,4 @@
-Last updated: 23-09-12 14:00:49 UTC  
+Last updated: 23-09-12 14:19:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,825,677
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
-7 | cutsickass | 18,643,295
+7 | cutsickass | 18,673,295
 8 | ConeDesk | 17,947,653
 9 | _ships | 16,700,892
 10 | crypto_grandma | 13,735,006
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,685,022
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,390
-27 | IveDoneItAtLast | 5,249,095
+27 | IveDoneItAtLast | 5,250,123
 28 | thelonliestcrowd | 5,033,870
 29 | Ginomania | 4,878,085
 30 | rikbona | 4,540,773
@@ -205,10 +205,10 @@ Rank | Username | Totals Tips
 202 | Own_Ad_4269 | 247,166
 203 | joeviani | 241,717
 204 | tjex666 | 240,801
-205 | MuhSound | 235,724
-206 | Zalkwalker | 235,069
-207 | alexthemay | 234,131
-208 | the_judge_168 | 233,870
+205 | the_judge_168 | 237,141
+206 | MuhSound | 235,724
+207 | Zalkwalker | 235,069
+208 | alexthemay | 234,131
 209 | Conetent | 222,451
 210 | Ashamed_Raccoon9918 | 218,467
 211 | TubeNerd92 | 217,829
@@ -350,7 +350,7 @@ Rank | Username | Totals Tips
 347 | shellystarzz | 70,372
 348 | Rush4Time | 70,079
 349 | 1ndy1 | 69,485
-350 | Yoda975 | 69,055
+350 | Yoda975 | 69,124
 351 | Dazzling_Marzipan474 | 69,033
 352 | Tapiz3land | 68,942
 353 | AnduriII | 68,313
@@ -459,9 +459,9 @@ Rank | Username | Totals Tips
 456 | degree-01 | 36,486
 457 | genesis_crazy_one | 36,237
 458 | foreignGER | 35,208
-459 | TRANZHUMANIST | 35,069
-460 | Big-Researcher-3855 | 34,881
-461 | SirPesoOtaku | 34,724
+459 | SirPesoOtaku | 35,144
+460 | TRANZHUMANIST | 35,069
+461 | Big-Researcher-3855 | 34,881
 462 | BelowAveIntelligence | 34,132
 463 | Obvious-Ask-5747 | 33,806
 464 | PoDunkYuppie | 33,513
@@ -692,9 +692,9 @@ Rank | Username | Totals Tips
 689 | Primetimemongrel | 8,001
 690 | asmuth | 8,000
 691 | froi203 | 7,989
-692 | mronki | 7,737
-693 | Squirrel_McNutz | 7,720
-694 | NEO_R1CH | 7,715
+692 | NEO_R1CH | 7,961
+693 | mronki | 7,737
+694 | Squirrel_McNutz | 7,720
 695 | isthisanavatar | 7,709
 696 | Chichakitty | 7,677
 697 | TeflonThaDonn | 7,625
