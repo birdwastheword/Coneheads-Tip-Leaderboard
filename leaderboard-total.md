@@ -1,4 +1,4 @@
-Last updated: 23-09-12 12:42:13 UTC  
+Last updated: 23-09-12 12:58:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -902,20 +902,20 @@ Rank | Username | Totals Tips
 899 | pizza-chit | 1,392
 900 | Silence-Samurai8357 | 1,385
 901 | 83nno | 1,370
-902 | VGarK | 1,337
-903 | _swnt_ | 1,337
-904 | onemansquest | 1,303
-905 | bvandepol | 1,258
-906 | CWB2208 | 1,251
-907 | Tekbepimpin | 1,239
-908 | Mooraell | 1,239
-909 | miserybuy | 1,234
-910 | MichaelAischmann | 1,229
-911 | Ambitious_Pirate_584 | 1,207
-912 | AssociateTime9542 | 1,200
-913 | Patrickcscott66 | 1,185
-914 | Malixshak | 1,152
-915 | ElderberryOk469 | 1,138
+902 | ElderberryOk469 | 1,338
+903 | VGarK | 1,337
+904 | _swnt_ | 1,337
+905 | onemansquest | 1,303
+906 | bvandepol | 1,258
+907 | CWB2208 | 1,251
+908 | Tekbepimpin | 1,239
+909 | Mooraell | 1,239
+910 | miserybuy | 1,234
+911 | MichaelAischmann | 1,229
+912 | Ambitious_Pirate_584 | 1,207
+913 | AssociateTime9542 | 1,200
+914 | Patrickcscott66 | 1,185
+915 | Malixshak | 1,152
 916 | CatBoy191114 | 1,138
 917 | redditavies | 1,138
 918 | jwz9904 | 1,111
