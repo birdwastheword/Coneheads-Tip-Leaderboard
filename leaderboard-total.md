@@ -1,4 +1,4 @@
-Last updated: 23-09-12 07:50:44 UTC  
+Last updated: 23-09-12 08:01:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -131,8 +131,8 @@ Rank | Username | Totals Tips
 128 | Burzzzt88 | 591,229
 129 | Independent_Heart_15 | 578,825
 130 | junkwatch | 546,608
-131 | StepAsideSuckers | 543,358
-132 | crodbtc | 542,256
+131 | crodbtc | 544,919
+132 | StepAsideSuckers | 543,358
 133 | scientifichistorian | 539,560
 134 | shreyaskg | 538,211
 135 | DogSpark84 | 537,005
@@ -916,18 +916,18 @@ Rank | Username | Totals Tips
 913 | ElderberryOk469 | 1,138
 914 | CatBoy191114 | 1,138
 915 | redditavies | 1,138
-916 | jwz9904 | 1,111
-917 | TSC4 | 1,100
-918 | SkuniMasterMind | 1,094
-919 | lostfootdoctor | 1,070
-920 | LowFile1101 | 1,069
-921 | contrary_advice | 1,069
-922 | CloverKittyPie | 1,069
-923 | SMaur0 | 1,069
-924 | FateAvernus | 1,069
-925 | PhantomOpera888 | 1,062
-926 | F7o | 1,061
-927 | stockyewok | 1,052
+916 | stockyewok | 1,121
+917 | jwz9904 | 1,111
+918 | TSC4 | 1,100
+919 | SkuniMasterMind | 1,094
+920 | lostfootdoctor | 1,070
+921 | LowFile1101 | 1,069
+922 | contrary_advice | 1,069
+923 | CloverKittyPie | 1,069
+924 | SMaur0 | 1,069
+925 | FateAvernus | 1,069
+926 | PhantomOpera888 | 1,062
+927 | F7o | 1,061
 928 | Chanceadams10 | 1,041
 929 | HunttiOriginal | 1,020
 930 | learnunlearnlearn | 1,012
