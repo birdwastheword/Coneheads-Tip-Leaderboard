@@ -1,4 +1,4 @@
-Last updated: 23-09-12 14:40:58 UTC  
+Last updated: 23-09-12 14:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -400,7 +400,7 @@ Rank | Username | Totals Tips
 397 | d_Shazam_b | 51,991
 398 | Atorcran | 51,361
 399 | d0ntmess87 | 51,278
-400 | Bobby_Juk | 50,691
+400 | Bobby_Juk | 51,111
 401 | Outside-Wolf5928 | 50,096
 402 | Yogi_Kat | 49,785
 403 | hey_barry | 49,698
@@ -633,12 +633,12 @@ Rank | Username | Totals Tips
 630 | maurinet79 | 10,844
 631 | j9101a | 10,804
 632 | Historical-Lychee-34 | 10,652
-633 | ancheli | 10,588
-634 | Straton_Conemont_Inc | 10,550
-635 | Background-Ad-2102 | 10,450
-636 | 73i1 | 10,412
-637 | Gamestopisthe1 | 10,227
-638 | Overall-Extension608 | 10,173
+633 | Overall-Extension608 | 10,593
+634 | ancheli | 10,588
+635 | Straton_Conemont_Inc | 10,550
+636 | Background-Ad-2102 | 10,450
+637 | 73i1 | 10,412
+638 | Gamestopisthe1 | 10,227
 639 | mimsoo777 | 10,149
 640 | CM19901 | 10,138
 641 | Alexploded | 10,070
