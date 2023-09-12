@@ -1,4 +1,4 @@
-Last updated: 23-09-12 12:08:44 UTC  
+Last updated: 23-09-12 12:42:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | KONGXIANG | 1,584,177
 68 | evilninjarobot | 1,553,691
 69 | ultra_terrestrial | 1,487,679
-70 | LongCauliflower6791 | 1,432,755
+70 | LongCauliflower6791 | 1,459,388
 71 | YarOldeOrchard | 1,428,410
 72 | ValiantJudge29500 | 1,395,493
 73 | isthistomorrow_ | 1,381,135
@@ -140,7 +140,7 @@ Rank | Username | Totals Tips
 137 | doktastonks | 521,325
 138 | Allions1 | 520,094
 139 | f0n1xr131ng | 509,681
-140 | Crypto-4-Freedom | 506,076
+140 | Crypto-4-Freedom | 506,496
 141 | AcceptableLeg8751 | 500,000
 142 | Successful-Walk-3902 | 498,794
 143 | adrifing | 493,831
@@ -153,8 +153,8 @@ Rank | Username | Totals Tips
 150 | Mopeiooo | 437,268
 151 | RazPie | 432,677
 152 | LX1070 | 430,602
-153 | Lion-Hermit | 416,210
-154 | noface_reddit | 414,458
+153 | noface_reddit | 417,121
+154 | Lion-Hermit | 416,210
 155 | dronegeeks1 | 414,406
 156 | LrnFaroeseWthBergur | 409,488
 157 | Dripbot8 | 405,384
