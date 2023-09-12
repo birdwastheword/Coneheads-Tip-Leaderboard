@@ -1,4 +1,4 @@
-Last updated: 23-09-12 15:40:28 UTC  
+Last updated: 23-09-12 15:50:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,085,045
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | Geniuskills | 6,882,870
 24 | ashinamune | 6,685,022
 25 | Real_Player_0 | 6,588,535
-26 | HippieStarTraveler | 6,256,390
+26 | HippieStarTraveler | 6,256,810
 27 | IveDoneItAtLast | 5,250,123
 28 | thelonliestcrowd | 5,200,459
 29 | Ginomania | 4,878,085
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,126,987
 46 | DontLaughArt | 2,817,389
-47 | Korean_Street_Pizza | 2,783,486
+47 | Korean_Street_Pizza | 2,803,486
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,649,058
 50 | ZoomLong | 2,641,251
@@ -130,8 +130,8 @@ Rank | Username | Totals Tips
 127 | El_Gordone | 592,784
 128 | Burzzzt88 | 591,229
 129 | Independent_Heart_15 | 578,825
-130 | junkwatch | 546,677
-131 | crodbtc | 544,919
+130 | crodbtc | 547,582
+131 | junkwatch | 546,677
 132 | StepAsideSuckers | 543,358
 133 | scientifichistorian | 539,560
 134 | shreyaskg | 538,211
@@ -139,11 +139,11 @@ Rank | Username | Totals Tips
 136 | PortCity_MadMan | 528,210
 137 | doktastonks | 521,325
 138 | Allions1 | 520,094
-139 | adrifing | 513,831
-140 | f0n1xr131ng | 509,681
-141 | Crypto-4-Freedom | 506,496
-142 | AcceptableLeg8751 | 500,000
-143 | Successful-Walk-3902 | 498,794
+139 | Successful-Walk-3902 | 518,794
+140 | adrifing | 513,831
+141 | f0n1xr131ng | 509,681
+142 | Crypto-4-Freedom | 506,496
+143 | AcceptableLeg8751 | 500,000
 144 | Lady_Lucks_Man | 471,124
 145 | sinlesco | 465,153
 146 | WarmlyWacky | 462,118
