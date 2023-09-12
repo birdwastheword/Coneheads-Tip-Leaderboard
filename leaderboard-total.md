@@ -1,4 +1,4 @@
-Last updated: 23-09-12 03:50:45 UTC  
+Last updated: 23-09-12 04:01:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -42,7 +42,7 @@ Rank | Username | Totals Tips
 39 | zdubs | 3,618,641
 40 | LuminousViper | 3,481,417
 41 | ZukoBih | 3,421,756
-42 | GuyOne | 3,350,702
+42 | GuyOne | 3,377,332
 43 | bray_martin03 | 3,318,935
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,126,987
@@ -325,10 +325,10 @@ Rank | Username | Totals Tips
 322 | Puzzleheaded_Gift738 | 84,020
 323 | Admirito | 82,353
 324 | standArtpluto | 82,100
-325 | mastermarvs | 80,384
-326 | Creative_Ad7831 | 80,047
-327 | youtooleyesing | 79,892
-328 | diamondbored | 79,886
+325 | diamondbored | 80,886
+326 | mastermarvs | 80,384
+327 | Creative_Ad7831 | 80,047
+328 | youtooleyesing | 79,892
 329 | Pwny_b0y | 79,447
 330 | GodOfWarGuy737 | 79,069
 331 | fleshlyLoath | 78,366
