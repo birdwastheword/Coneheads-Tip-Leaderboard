@@ -1,4 +1,4 @@
-Last updated: 23-09-12 18:22:08 UTC  
+Last updated: 23-09-12 18:30:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,085,045
@@ -295,13 +295,13 @@ Rank | Username | Totals Tips
 292 | i_wake_up_at_12 | 106,333
 293 | Chanyuui1 | 104,940
 294 | deathtr0 | 103,801
-295 | redditinchina | 102,781
-296 | diamondbored | 100,886
-297 | ACorDC | 100,420
-298 | customsolitaires | 99,383
-299 | IHodlStill | 98,684
-300 | FeetAndHandFetish | 98,146
-301 | Chill_Edoeard | 97,483
+295 | Chill_Edoeard | 102,923
+296 | redditinchina | 102,781
+297 | diamondbored | 100,886
+298 | ACorDC | 100,420
+299 | customsolitaires | 99,383
+300 | IHodlStill | 98,684
+301 | FeetAndHandFetish | 98,146
 302 | Knaeggebrott | 97,076
 303 | IOTA_Tesla | 96,607
 304 | BrendanTFirefly | 95,347
