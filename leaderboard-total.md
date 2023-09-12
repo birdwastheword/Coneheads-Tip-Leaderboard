@@ -1,4 +1,4 @@
-Last updated: 23-09-12 20:50:40 UTC  
+Last updated: 23-09-12 21:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,085,045
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,867,746
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 19,309,932
+7 | cutsickass | 19,399,932
 8 | ConeDesk | 17,947,653
 9 | _ships | 16,732,936
 10 | crypto_grandma | 13,735,006
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | SammyCraigar | 11,713,187
 15 | Permanent_WSB_Bull | 11,022,763
 16 | 8inchConer | 8,947,619
-17 | SpookySYN | 8,622,406
+17 | SpookySYN | 8,625,069
 18 | ArtConsitent | 8,533,379
 19 | avyun | 8,221,735
 20 | Homeslicekilla | 7,998,462
