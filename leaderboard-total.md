@@ -1,4 +1,4 @@
-Last updated: 23-09-12 18:30:34 UTC  
+Last updated: 23-09-12 18:40:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,085,045
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,825,677
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 18,773,295
+7 | cutsickass | 18,833,295
 8 | ConeDesk | 17,947,653
 9 | _ships | 16,700,892
 10 | crypto_grandma | 13,735,006
@@ -372,16 +372,16 @@ Rank | Username | Totals Tips
 369 | netnemirepxE | 62,645
 370 | meth43 | 62,596
 371 | TheD1ceMan | 60,541
-372 | lucrica | 59,987
-373 | Dboythegreat | 59,726
-374 | Big-Ticket1506 | 59,666
-375 | preemcuz | 59,154
-376 | RepublicRude6350 | 58,754
-377 | Wildspliffosis | 58,703
-378 | meme_used | 58,516
-379 | Trink333 | 58,338
-380 | phrodreky | 58,122
-381 | Bobby_Juk | 57,411
+372 | Bobby_Juk | 60,074
+373 | lucrica | 59,987
+374 | Dboythegreat | 59,726
+375 | Big-Ticket1506 | 59,666
+376 | preemcuz | 59,154
+377 | RepublicRude6350 | 58,754
+378 | Wildspliffosis | 58,703
+379 | meme_used | 58,516
+380 | Trink333 | 58,338
+381 | phrodreky | 58,122
 382 | Outrageous_Storm6537 | 56,938
 383 | ProfessionalIcy6456 | 56,380
 384 | Bandit_005 | 56,303
