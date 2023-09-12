@@ -1,4 +1,4 @@
-Last updated: 23-09-12 10:22:14 UTC  
+Last updated: 23-09-12 10:33:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 12,741,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 11,958,456
-14 | SammyCraigar | 11,675,905
+14 | SammyCraigar | 11,702,535
 15 | 8inchConer | 8,947,619
 16 | SpookySYN | 8,622,406
 17 | ArtConsitent | 8,533,379
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | KONGXIANG | 1,584,177
 68 | evilninjarobot | 1,553,691
 69 | ultra_terrestrial | 1,487,679
-70 | LongCauliflower6791 | 1,430,092
+70 | LongCauliflower6791 | 1,432,755
 71 | YarOldeOrchard | 1,428,410
 72 | ValiantJudge29500 | 1,395,493
 73 | isthistomorrow_ | 1,381,135
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | Cravensworth_redux | 790,803
 101 | Westy3000 | 785,931
 102 | ziggybri | 783,043
-103 | Lillica_Golden_SHIB | 766,653
+103 | Lillica_Golden_SHIB | 766,971
 104 | RegalReptile_ | 765,339
 105 | Alanski22 | 765,157
 106 | virmamies | 718,771
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | dronegeeks1 | 414,406
 155 | LrnFaroeseWthBergur | 409,488
 156 | Dripbot8 | 405,384
-157 | noface_reddit | 399,186
+157 | noface_reddit | 402,269
 158 | Creepy-Nectarine-225 | 390,864
 159 | SHIFTY-T3RROR | 380,120
 160 | MisterM0H0 | 379,338
@@ -701,11 +701,11 @@ Rank | Username | Totals Tips
 698 | RiceRare | 7,491
 699 | Pengpangolin | 7,488
 700 | LimpPeanut5633 | 7,485
-701 | FlippiShh | 7,440
-702 | quaker-goats | 7,414
-703 | Weirdclerk_ | 7,392
-704 | strworld | 7,233
-705 | NEO_R1CH | 7,223
+701 | NEO_R1CH | 7,469
+702 | FlippiShh | 7,440
+703 | quaker-goats | 7,414
+704 | Weirdclerk_ | 7,392
+705 | strworld | 7,233
 706 | CryptoriumOfficial | 6,969
 707 | 0xboi | 6,969
 708 | tbobs04 | 6,969
