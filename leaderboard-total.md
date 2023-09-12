@@ -1,4 +1,4 @@
-Last updated: 23-09-12 17:05:54 UTC  
+Last updated: 23-09-12 17:21:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,085,045
@@ -174,15 +174,15 @@ Rank | Username | Totals Tips
 171 | Lastkidpicked94 | 306,122
 172 | x52x | 304,929
 173 | liwipe | 304,467
-174 | fettskull | 300,964
-175 | VincentVanGTFO | 300,598
-176 | legionticket | 296,054
-177 | send_tacoz | 293,576
-178 | FluffyAspie | 291,679
-179 | deedopete | 285,361
-180 | monkeybombed | 285,325
-181 | dinoyeti | 283,881
-182 | Adrewmc | 281,177
+174 | Adrewmc | 301,178
+175 | fettskull | 300,964
+176 | VincentVanGTFO | 300,598
+177 | legionticket | 296,054
+178 | send_tacoz | 293,576
+179 | FluffyAspie | 291,679
+180 | deedopete | 285,361
+181 | monkeybombed | 285,325
+182 | dinoyeti | 283,881
 183 | MadScientistTheFirst | 280,469
 184 | astro_nut_ | 280,463
 185 | maxfra | 280,067
