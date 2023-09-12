@@ -1,4 +1,4 @@
-Last updated: 23-09-12 04:40:45 UTC  
+Last updated: 23-09-12 04:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,825,677
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
-7 | cutsickass | 18,343,295
+7 | cutsickass | 18,553,295
 8 | ConeDesk | 17,947,653
 9 | _ships | 16,599,507
 10 | crypto_grandma | 13,735,006
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | VIVOffical | 4,128,004
 37 | thom_orrow | 3,724,828
 38 | clean_cut89 | 3,713,476
-39 | zdubs | 3,618,641
+39 | zdubs | 3,619,249
 40 | LuminousViper | 3,481,417
 41 | ZukoBih | 3,421,756
 42 | GuyOne | 3,377,332
@@ -224,9 +224,9 @@ Rank | Username | Totals Tips
 221 | rolonic | 198,866
 222 | CedricDiccory | 197,932
 223 | sudrats | 197,124
-224 | redditavanft | 195,122
-225 | AverageLiberalJoe | 195,007
-226 | ShortBusCult | 193,533
+224 | ShortBusCult | 196,196
+225 | redditavanft | 195,122
+226 | AverageLiberalJoe | 195,007
 227 | RiightYouKnow | 193,329
 228 | bakerdawg555 | 192,028
 229 | skollywag92 | 185,501
