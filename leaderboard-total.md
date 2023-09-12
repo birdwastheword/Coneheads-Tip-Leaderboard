@@ -1,4 +1,4 @@
-Last updated: 23-09-12 09:40:25 UTC  
+Last updated: 23-09-12 09:50:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -157,8 +157,8 @@ Rank | Username | Totals Tips
 154 | dronegeeks1 | 414,406
 155 | LrnFaroeseWthBergur | 409,488
 156 | Dripbot8 | 405,384
-157 | Creepy-Nectarine-225 | 390,864
-158 | noface_reddit | 389,660
+157 | noface_reddit | 392,323
+158 | Creepy-Nectarine-225 | 390,864
 159 | SHIFTY-T3RROR | 380,120
 160 | MisterM0H0 | 379,338
 161 | zenhodl | 374,566
@@ -407,7 +407,7 @@ Rank | Username | Totals Tips
 404 | sicilian2124 | 49,529
 405 | Levl1Critter | 49,152
 406 | Dolce_00 | 48,683
-407 | Bobby_Juk | 48,171
+407 | Bobby_Juk | 48,591
 408 | shredslanding | 46,650
 409 | Oue | 46,352
 410 | skatistic | 46,287
