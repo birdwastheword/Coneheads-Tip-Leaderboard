@@ -1,4 +1,4 @@
-Last updated: 23-09-12 09:18:40 UTC  
+Last updated: 23-09-12 09:30:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,825,677
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,188,859
-7 | cutsickass | 18,613,295
+7 | cutsickass | 18,643,295
 8 | ConeDesk | 17,947,653
 9 | _ships | 16,700,892
 10 | crypto_grandma | 13,735,006
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | DontLaughArt | 2,812,021
 47 | Korean_Street_Pizza | 2,783,486
 48 | Mean_Bandicoot_7481 | 2,752,108
-49 | Fenrir-1919 | 2,648,450
+49 | Fenrir-1919 | 2,649,058
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
 52 | ImAlekBan | 2,539,783
@@ -140,7 +140,7 @@ Rank | Username | Totals Tips
 137 | doktastonks | 521,325
 138 | Allions1 | 520,094
 139 | f0n1xr131ng | 509,681
-140 | Crypto-4-Freedom | 505,656
+140 | Crypto-4-Freedom | 506,076
 141 | AcceptableLeg8751 | 500,000
 142 | Successful-Walk-3902 | 498,794
 143 | adrifing | 493,831
@@ -407,7 +407,7 @@ Rank | Username | Totals Tips
 404 | sicilian2124 | 49,529
 405 | Levl1Critter | 49,152
 406 | Dolce_00 | 48,683
-407 | Bobby_Juk | 47,751
+407 | Bobby_Juk | 48,171
 408 | shredslanding | 46,650
 409 | Oue | 46,352
 410 | skatistic | 46,287
