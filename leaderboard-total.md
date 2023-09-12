@@ -1,4 +1,4 @@
-Last updated: 23-09-12 07:42:04 UTC  
+Last updated: 23-09-12 07:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -202,18 +202,18 @@ Rank | Username | Totals Tips
 199 | thestonkinator | 249,330
 200 | Gregoryonetulum | 249,309
 201 | BeardedBro_ | 248,627
-202 | joeviani | 241,717
-203 | tjex666 | 240,801
-204 | MuhSound | 235,724
-205 | Zalkwalker | 235,069
-206 | Own_Ad_4269 | 234,291
+202 | Own_Ad_4269 | 247,166
+203 | joeviani | 241,717
+204 | tjex666 | 240,801
+205 | MuhSound | 235,724
+206 | Zalkwalker | 235,069
 207 | alexthemay | 234,131
 208 | the_judge_168 | 233,870
 209 | Conetent | 222,451
-210 | TubeNerd92 | 217,829
-211 | SourBeefHoop | 217,512
-212 | Significant_Talk4943 | 216,379
-213 | Ashamed_Raccoon9918 | 214,964
+210 | Ashamed_Raccoon9918 | 218,047
+211 | TubeNerd92 | 217,829
+212 | SourBeefHoop | 217,512
+213 | Significant_Talk4943 | 216,379
 214 | yahuurdme | 213,714
 215 | Beenthorny | 212,362
 216 | SigSalvadore | 212,358
