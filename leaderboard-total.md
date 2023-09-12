@@ -1,4 +1,4 @@
-Last updated: 23-09-12 08:01:04 UTC  
+Last updated: 23-09-12 08:23:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,055,752
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,188,859
 7 | cutsickass | 18,613,295
 8 | ConeDesk | 17,947,653
-9 | _ships | 16,699,507
+9 | _ships | 16,700,284
 10 | crypto_grandma | 13,735,006
 11 | transfermymoons | 12,741,858
 12 | HODL-THE-LINE | 12,469,181
@@ -210,7 +210,7 @@ Rank | Username | Totals Tips
 207 | alexthemay | 234,131
 208 | the_judge_168 | 233,870
 209 | Conetent | 222,451
-210 | Ashamed_Raccoon9918 | 218,047
+210 | Ashamed_Raccoon9918 | 218,467
 211 | TubeNerd92 | 217,829
 212 | SourBeefHoop | 217,512
 213 | Significant_Talk4943 | 216,379
@@ -444,8 +444,8 @@ Rank | Username | Totals Tips
 441 | waterincorporated | 39,428
 442 | sM0k3dR4Gn | 39,279
 443 | kanem87 | 39,187
-444 | mutinomonem | 38,823
-445 | FalloutAssasin | 38,606
+444 | FalloutAssasin | 39,026
+445 | mutinomonem | 38,823
 446 | chaud3r | 38,290
 447 | lovenets_ | 38,182
 448 | rowdy1212 | 38,129
@@ -768,20 +768,20 @@ Rank | Username | Totals Tips
 765 | Sledheadjack | 4,528
 766 | JAlbert653 | 4,515
 767 | FoLKOM | 4,422
-768 | Defeat-the-Kraken | 4,379
-769 | _dual1ty | 4,333
-770 | DepressedVegabond | 4,300
-771 | ADT06 | 4,260
-772 | Werd2jaH | 4,205
-773 | OG_Bobcat32 | 4,200
-774 | officialzodiacbeats | 4,194
-775 | Fit_Win_541 | 4,169
-776 | DrAgaricus | 4,111
-777 | Ronkad | 4,003
-778 | Ancient_Summer_1833 | 4,001
-779 | Puzzleheaded_Popup | 4,000
-780 | nathanroberts14 | 4,000
-781 | Badit_01 | 3,992
+768 | Badit_01 | 4,412
+769 | Defeat-the-Kraken | 4,379
+770 | _dual1ty | 4,333
+771 | DepressedVegabond | 4,300
+772 | ADT06 | 4,260
+773 | Werd2jaH | 4,205
+774 | OG_Bobcat32 | 4,200
+775 | officialzodiacbeats | 4,194
+776 | Fit_Win_541 | 4,169
+777 | DrAgaricus | 4,111
+778 | Ronkad | 4,003
+779 | Ancient_Summer_1833 | 4,001
+780 | Puzzleheaded_Popup | 4,000
+781 | nathanroberts14 | 4,000
 782 | Soil_Electronic | 3,975
 783 | Dreadaussie | 3,920
 784 | carsonthecarsinogen | 3,769
