@@ -1,4 +1,4 @@
-Last updated: 23-09-13 21:21:36 UTC  
+Last updated: 23-09-13 21:30:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -344,8 +344,8 @@ Rank | Username | Totals Tips
 341 | Derefringence | 77,095
 342 | SaberTurret | 75,808
 343 | Heycheckthisout20 | 75,608
-344 | MedicineMaterial3501 | 74,654
-345 | shellystarzz | 74,628
+344 | shellystarzz | 75,236
+345 | MedicineMaterial3501 | 74,654
 346 | Steadfast_Apparition | 74,506
 347 | pwan7505 | 73,893
 348 | ASingleGuitarString | 73,792
