@@ -1,4 +1,4 @@
-Last updated: 23-09-13 11:01:05 UTC  
+Last updated: 23-09-13 11:15:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -382,15 +382,15 @@ Rank | Username | Totals Tips
 379 | Dboythegreat | 59,726
 380 | Big-Ticket1506 | 59,666
 381 | preemcuz | 59,154
-382 | RepublicRude6350 | 58,754
-383 | Wildspliffosis | 58,703
-384 | meme_used | 58,516
-385 | Trink333 | 58,338
-386 | phrodreky | 58,122
-387 | foreignGER | 57,277
-388 | Outrageous_Storm6537 | 56,938
-389 | ProfessionalIcy6456 | 56,380
-390 | Bandit_005 | 56,303
+382 | Bandit_005 | 58,966
+383 | RepublicRude6350 | 58,754
+384 | Wildspliffosis | 58,703
+385 | meme_used | 58,516
+386 | Trink333 | 58,338
+387 | phrodreky | 58,122
+388 | foreignGER | 57,277
+389 | Outrageous_Storm6537 | 56,938
+390 | ProfessionalIcy6456 | 56,380
 391 | CryptoScamee42069 | 56,189
 392 | chuloreddit | 55,878
 393 | imbarrydylan | 55,689
@@ -410,10 +410,10 @@ Rank | Username | Totals Tips
 407 | slasula | 51,466
 408 | d0ntmess87 | 51,278
 409 | Outside-Wolf5928 | 50,096
-410 | Yogi_Kat | 49,785
-411 | eatthebagels | 49,692
-412 | sicilian2124 | 49,529
-413 | Dolce_00 | 49,523
+410 | Dolce_00 | 49,943
+411 | Yogi_Kat | 49,785
+412 | eatthebagels | 49,692
+413 | sicilian2124 | 49,529
 414 | Rbmui13 | 49,245
 415 | Levl1Critter | 49,152
 416 | shredslanding | 46,650
@@ -454,12 +454,12 @@ Rank | Username | Totals Tips
 451 | sM0k3dR4Gn | 39,279
 452 | kanem87 | 39,187
 453 | mutinomonem | 38,823
-454 | chaud3r | 38,290
-455 | lovenets_ | 38,182
-456 | rowdy1212 | 38,129
-457 | ysnmingle | 38,038
-458 | samer109 | 37,973
-459 | cryotosensei | 37,690
+454 | cryotosensei | 38,380
+455 | chaud3r | 38,290
+456 | lovenets_ | 38,182
+457 | rowdy1212 | 38,129
+458 | ysnmingle | 38,038
+459 | samer109 | 37,973
 460 | onetrueSage | 37,633
 461 | shitwhenismycakeday | 37,409
 462 | redditisalt | 37,307
