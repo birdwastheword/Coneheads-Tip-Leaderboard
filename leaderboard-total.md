@@ -1,4 +1,4 @@
-Last updated: 23-09-13 21:13:23 UTC  
+Last updated: 23-09-13 21:21:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 20,719,095
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,132,908
+9 | _ships | 17,135,571
 10 | crypto_grandma | 13,804,426
 11 | transfermymoons | 13,386,858
 12 | HODL-THE-LINE | 12,469,181
@@ -279,12 +279,12 @@ Rank | Username | Totals Tips
 276 | CaptainCheeseCake | 118,644
 277 | street_shark_puppet | 116,891
 278 | lordciders | 116,706
-279 | mvea | 115,748
-280 | xSkyFa11x | 114,768
-281 | AlternativeBag2619 | 114,483
-282 | beanwiggin420 | 114,076
-283 | Fox1931 | 114,000
-284 | Complete-Tadpole-728 | 112,981
+279 | Complete-Tadpole-728 | 116,064
+280 | mvea | 115,748
+281 | xSkyFa11x | 114,768
+282 | AlternativeBag2619 | 114,483
+283 | beanwiggin420 | 114,076
+284 | Fox1931 | 114,000
 285 | flying_bacon | 111,929
 286 | adrefofadre | 111,817
 287 | Strong_Constant_1190 | 110,325
@@ -362,9 +362,9 @@ Rank | Username | Totals Tips
 359 | Dazzling_Marzipan474 | 69,033
 360 | Tapiz3land | 68,942
 361 | AnduriII | 68,313
-362 | LightninHooker | 67,126
-363 | Virtual-Wrangler5955 | 67,006
-364 | Bobby_Juk | 66,794
+362 | Bobby_Juk | 67,214
+363 | LightninHooker | 67,126
+364 | Virtual-Wrangler5955 | 67,006
 365 | Friendly-Airline2426 | 66,547
 366 | -geek | 66,318
 367 | imp3order | 65,546
