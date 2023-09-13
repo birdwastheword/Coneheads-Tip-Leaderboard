@@ -1,4 +1,4 @@
-Last updated: 23-09-12 23:50:51 UTC  
+Last updated: 23-09-13 00:24:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,087,708
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 19,524,932
 8 | ConeDesk | 17,947,653
-9 | _ships | 16,760,594
+9 | _ships | 16,788,030
 10 | crypto_grandma | 13,735,006
 11 | transfermymoons | 12,816,858
 12 | HODL-THE-LINE | 12,469,181
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | rustyybikes | 4,269,432
 35 | send420nudes | 4,259,799
 36 | VIVOffical | 4,138,004
-37 | zdubs | 3,750,861
+37 | zdubs | 3,751,469
 38 | thom_orrow | 3,727,432
 39 | clean_cut89 | 3,713,476
 40 | LuminousViper | 3,481,417
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | Iulian_TechNewb | 1,690,179
 67 | GooderZBK | 1,617,267
 68 | KONGXIANG | 1,584,177
-69 | evilninjarobot | 1,579,625
+69 | evilninjarobot | 1,582,896
 70 | ultra_terrestrial | 1,487,679
 71 | LongCauliflower6791 | 1,459,388
 72 | YarOldeOrchard | 1,428,410
@@ -192,7 +192,7 @@ Rank | Username | Totals Tips
 189 | _Mitchee_ | 269,156
 190 | SetoXlll | 266,136
 191 | shiesto | 266,111
-192 | cannainform2 | 264,889
+192 | cannainform2 | 265,309
 193 | tmanfromEarth | 258,392
 194 | Hactar_42 | 256,832
 195 | thecrabdad | 256,177
@@ -372,7 +372,7 @@ Rank | Username | Totals Tips
 369 | Emeritux | 63,020
 370 | netnemirepxE | 62,645
 371 | meth43 | 62,596
-372 | Bobby_Juk | 62,174
+372 | Bobby_Juk | 62,594
 373 | TheD1ceMan | 60,541
 374 | lucrica | 59,987
 375 | Dboythegreat | 59,726
