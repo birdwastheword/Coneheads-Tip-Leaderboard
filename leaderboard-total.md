@@ -1,4 +1,4 @@
-Last updated: 23-09-13 10:01:01 UTC  
+Last updated: 23-09-13 10:21:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -378,16 +378,16 @@ Rank | Username | Totals Tips
 375 | meth43 | 62,596
 376 | TheD1ceMan | 60,541
 377 | lucrica | 59,987
-378 | Dboythegreat | 59,726
-379 | Big-Ticket1506 | 59,666
-380 | preemcuz | 59,154
-381 | RepublicRude6350 | 58,754
-382 | Wildspliffosis | 58,703
-383 | meme_used | 58,516
-384 | Trink333 | 58,338
-385 | phrodreky | 58,122
-386 | foreignGER | 57,277
-387 | Significant-Bet5762 | 57,162
+378 | Significant-Bet5762 | 59,825
+379 | Dboythegreat | 59,726
+380 | Big-Ticket1506 | 59,666
+381 | preemcuz | 59,154
+382 | RepublicRude6350 | 58,754
+383 | Wildspliffosis | 58,703
+384 | meme_used | 58,516
+385 | Trink333 | 58,338
+386 | phrodreky | 58,122
+387 | foreignGER | 57,277
 388 | Outrageous_Storm6537 | 56,938
 389 | ProfessionalIcy6456 | 56,380
 390 | Bandit_005 | 56,303
