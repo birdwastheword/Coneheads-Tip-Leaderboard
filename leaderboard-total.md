@@ -1,4 +1,4 @@
-Last updated: 23-09-13 19:00:39 UTC  
+Last updated: 23-09-13 19:14:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -34,8 +34,8 @@ Rank | Username | Totals Tips
 31 | redzrex | 4,497,171
 32 | bigbilly1234567899 | 4,496,042
 33 | birdwastheword | 4,418,375
-34 | rustyybikes | 4,269,432
-35 | send420nudes | 4,269,177
+34 | send420nudes | 4,277,715
+35 | rustyybikes | 4,269,432
 36 | VIVOffical | 4,148,096
 37 | zdubs | 3,752,685
 38 | thom_orrow | 3,727,432
@@ -52,13 +52,13 @@ Rank | Username | Totals Tips
 49 | Fenrir-1919 | 2,653,545
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
-52 | ImAlekBan | 2,567,541
+52 | ImAlekBan | 2,570,204
 53 | possibili-teas | 2,399,515
 54 | Autom4tic_Soze | 2,185,057
 55 | 002_timmy | 2,059,494
 56 | 0-Give-a-fucks | 1,995,501
 57 | Affectionate_Hand_76 | 1,967,252
-58 | swampyswede | 1,945,727
+58 | swampyswede | 1,945,937
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,862,352
 61 | CMDRGlamdring | 1,840,225
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | Iulian_TechNewb | 1,717,148
 66 | Ten-Mins-Late | 1,707,793
 67 | GooderZBK | 1,617,267
-68 | KONGXIANG | 1,604,175
+68 | KONGXIANG | 1,614,174
 69 | evilninjarobot | 1,583,504
 70 | ultra_terrestrial | 1,487,679
 71 | LongCauliflower6791 | 1,462,051
@@ -96,7 +96,7 @@ Rank | Username | Totals Tips
 93 | Modestexcuse | 903,684
 94 | thee_monster | 896,765
 95 | Bobisdeadrun | 868,946
-96 | Lillica_Golden_SHIB | 827,454
+96 | Lillica_Golden_SHIB | 827,592
 97 | goldyluckinblokchain | 809,537
 98 | vbutarin | 802,000
 99 | billywright4 | 795,269
@@ -345,10 +345,10 @@ Rank | Username | Totals Tips
 342 | Heycheckthisout20 | 75,608
 343 | MedicineMaterial3501 | 74,654
 344 | Steadfast_Apparition | 74,506
-345 | pwan7505 | 73,893
-346 | ASingleGuitarString | 73,792
-347 | Diamond_PnutBrain | 73,688
-348 | shellystarzz | 73,412
+345 | shellystarzz | 74,020
+346 | pwan7505 | 73,893
+347 | ASingleGuitarString | 73,792
+348 | Diamond_PnutBrain | 73,688
 349 | SaberTurret | 73,145
 350 | I_AM_MORE_BADASS | 73,121
 351 | adi_00_ | 71,759
@@ -600,8 +600,8 @@ Rank | Username | Totals Tips
 597 | mantrakid | 13,644
 598 | couchguitar | 13,330
 599 | zahrawins | 13,329
-600 | Diamond_Hands420 | 13,277
-601 | WiseDude69 | 13,230
+600 | WiseDude69 | 13,299
+601 | Diamond_Hands420 | 13,277
 602 | rare1994 | 13,069
 603 | AdinaEspada | 12,997
 604 | ShadowKnight324 | 12,977
