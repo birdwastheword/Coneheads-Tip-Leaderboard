@@ -1,4 +1,4 @@
-Last updated: 23-09-13 16:35:28 UTC  
+Last updated: 23-09-13 16:43:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -706,10 +706,10 @@ Rank | Username | Totals Tips
 703 | Chichakitty | 7,677
 704 | TeflonThaDonn | 7,625
 705 | gold_digger333 | 7,577
-706 | king0ftheroad | 7,500
-707 | RiceRare | 7,491
-708 | Pengpangolin | 7,488
-709 | LimpPeanut5633 | 7,485
+706 | LimpPeanut5633 | 7,554
+707 | king0ftheroad | 7,500
+708 | RiceRare | 7,491
+709 | Pengpangolin | 7,488
 710 | FlippiShh | 7,440
 711 | quaker-goats | 7,414
 712 | Weirdclerk_ | 7,392
