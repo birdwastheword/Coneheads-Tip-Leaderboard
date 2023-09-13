@@ -1,4 +1,4 @@
-Last updated: 23-09-13 02:42:02 UTC  
+Last updated: 23-09-13 02:50:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,087,708
@@ -298,7 +298,7 @@ Rank | Username | Totals Tips
 295 | deathtr0 | 103,801
 296 | Chill_Edoeard | 102,923
 297 | redditinchina | 102,781
-298 | diamondbored | 100,886
+298 | diamondbored | 100,955
 299 | ACorDC | 100,420
 300 | Creative_Ad7831 | 100,047
 301 | customsolitaires | 99,383
@@ -680,11 +680,11 @@ Rank | Username | Totals Tips
 677 | BreadfruitIll4265 | 8,608
 678 | ad5xlh | 8,470
 679 | TNJCrypto | 8,468
-680 | 1-760-706-7425 | 8,272
-681 | shityougrin | 8,265
-682 | akemicariocaer | 8,264
-683 | Handsome_Gourd | 8,242
-684 | NEO_R1CH | 8,207
+680 | NEO_R1CH | 8,453
+681 | 1-760-706-7425 | 8,272
+682 | shityougrin | 8,265
+683 | akemicariocaer | 8,264
+684 | Handsome_Gourd | 8,242
 685 | Nyarlatotep781 | 8,147
 686 | JAK0M0VIN0 | 8,097
 687 | TheConeHodler | 8,090
