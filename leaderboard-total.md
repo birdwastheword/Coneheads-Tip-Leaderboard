@@ -1,4 +1,4 @@
-Last updated: 23-09-13 13:31:45 UTC  
+Last updated: 23-09-13 13:40:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -133,8 +133,8 @@ Rank | Username | Totals Tips
 130 | crodbtc | 550,245
 131 | junkwatch | 547,655
 132 | StepAsideSuckers | 543,358
-133 | Allions1 | 540,094
-134 | DogSpark84 | 539,668
+133 | DogSpark84 | 542,708
+134 | Allions1 | 540,094
 135 | scientifichistorian | 539,560
 136 | shreyaskg | 538,211
 137 | PortCity_MadMan | 533,536
@@ -995,13 +995,13 @@ Rank | Username | Totals Tips
 992 | liquidlesspaper | 608
 993 | iiCollinHD | 608
 994 | JaJaJaNVM | 608
-995 | eskimojerk | 606
-996 | glouglas | 558
-997 | Professer__ | 558
-998 | Dare2gamer | 544
-999 | Swordfish-Select | 543
-1000 | justthebelton | 540
-1001 | snek_oil_ | 538
+995 | snek_oil_ | 607
+996 | eskimojerk | 606
+997 | glouglas | 558
+998 | Professer__ | 558
+999 | Dare2gamer | 544
+1000 | Swordfish-Select | 543
+1001 | justthebelton | 540
 1002 | Gabba- | 520
 1003 | CraigyFakeFake | 500
 1004 | Right-Shopping9589 | 500
