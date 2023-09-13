@@ -1,4 +1,4 @@
-Last updated: 23-09-13 04:40:36 UTC  
+Last updated: 23-09-13 04:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,087,708
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,867,746
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 19,747,595
+7 | cutsickass | 19,777,595
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,083,643
 10 | crypto_grandma | 13,735,006
@@ -442,11 +442,11 @@ Rank | Username | Totals Tips
 439 | ARoyaleWithCheese | 41,000
 440 | Yirii | 40,605
 441 | Zap1324 | 40,271
-442 | matdabom | 40,068
-443 | YourLocalDuskFox | 40,000
-444 | babuba1234321 | 40,000
-445 | alex_si_davies | 39,965
-446 | FalloutAssasin | 39,866
+442 | FalloutAssasin | 40,211
+443 | matdabom | 40,068
+444 | YourLocalDuskFox | 40,000
+445 | babuba1234321 | 40,000
+446 | alex_si_davies | 39,965
 447 | GuronT | 39,830
 448 | AMAxyz | 39,775
 449 | Mortifer6 | 39,738
@@ -678,15 +678,15 @@ Rank | Username | Totals Tips
 675 | ElegantShelter7947 | 8,881
 676 | Duckeis | 8,873
 677 | Nugacity5 | 8,836
-678 | BreadfruitIll4265 | 8,608
-679 | ad5xlh | 8,470
-680 | TNJCrypto | 8,468
-681 | NEO_R1CH | 8,453
-682 | 1-760-706-7425 | 8,272
-683 | shityougrin | 8,265
-684 | akemicariocaer | 8,264
-685 | Handsome_Gourd | 8,242
-686 | stockyewok | 8,221
+678 | stockyewok | 8,641
+679 | BreadfruitIll4265 | 8,608
+680 | ad5xlh | 8,470
+681 | TNJCrypto | 8,468
+682 | NEO_R1CH | 8,453
+683 | 1-760-706-7425 | 8,272
+684 | shityougrin | 8,265
+685 | akemicariocaer | 8,264
+686 | Handsome_Gourd | 8,242
 687 | Nyarlatotep781 | 8,147
 688 | JAK0M0VIN0 | 8,097
 689 | TheConeHodler | 8,090
