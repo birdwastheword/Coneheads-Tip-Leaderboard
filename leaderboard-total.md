@@ -1,10 +1,10 @@
-Last updated: 23-09-13 14:40:48 UTC  
+Last updated: 23-09-13 14:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
 2 | Wonderful_Bad6531 | 36,219,780
 3 | nakamo-toe | 34,693,664
-4 | waterhasnocalories | 30,867,746
+4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 19,899,095
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | ultra_terrestrial | 1,487,679
 71 | LongCauliflower6791 | 1,462,051
 72 | YarOldeOrchard | 1,438,286
-73 | ValiantJudge29500 | 1,400,156
+73 | ValiantJudge29500 | 1,401,656
 74 | isthistomorrow_ | 1,381,135
 75 | Extreme_Issue7325 | 1,295,890
 76 | saintajoras | 1,251,819
@@ -348,9 +348,9 @@ Rank | Username | Totals Tips
 345 | pwan7505 | 73,893
 346 | ASingleGuitarString | 73,792
 347 | Diamond_PnutBrain | 73,688
-348 | SaberTurret | 73,145
-349 | I_AM_MORE_BADASS | 73,121
-350 | shellystarzz | 72,804
+348 | shellystarzz | 73,412
+349 | SaberTurret | 73,145
+350 | I_AM_MORE_BADASS | 73,121
 351 | adi_00_ | 71,759
 352 | sparanaghcoar | 71,118
 353 | ElmerBlack | 70,850
