@@ -1,4 +1,4 @@
-Last updated: 23-09-13 12:08:49 UTC  
+Last updated: 23-09-13 12:43:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,084,420
 10 | crypto_grandma | 13,735,006
-11 | transfermymoons | 12,916,858
+11 | transfermymoons | 13,166,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,769,718
@@ -142,7 +142,7 @@ Rank | Username | Totals Tips
 139 | Successful-Walk-3902 | 518,794
 140 | adrifing | 513,831
 141 | f0n1xr131ng | 509,681
-142 | Crypto-4-Freedom | 506,916
+142 | Crypto-4-Freedom | 507,336
 143 | AcceptableLeg8751 | 500,000
 144 | Lady_Lucks_Man | 471,124
 145 | sinlesco | 465,153
@@ -240,8 +240,8 @@ Rank | Username | Totals Tips
 237 | MymannosaurusRex | 171,317
 238 | high5s_inureye | 171,051
 239 | sjakkpila | 167,546
-240 | DamnWhySoLow | 166,675
-241 | MelonFarmer420 | 166,296
+240 | MelonFarmer420 | 166,716
+241 | DamnWhySoLow | 166,675
 242 | DrThunderHandz | 163,658
 243 | Clonkerz | 158,006
 244 | CoverYourMaskHoles | 157,045
@@ -348,13 +348,13 @@ Rank | Username | Totals Tips
 345 | pwan7505 | 73,893
 346 | ASingleGuitarString | 73,792
 347 | Diamond_PnutBrain | 73,688
-348 | I_AM_MORE_BADASS | 73,121
-349 | shellystarzz | 72,804
-350 | adi_00_ | 71,759
-351 | sparanaghcoar | 71,118
-352 | ElmerBlack | 70,850
-353 | Bobocod | 70,577
-354 | SaberTurret | 70,482
+348 | SaberTurret | 73,145
+349 | I_AM_MORE_BADASS | 73,121
+350 | shellystarzz | 72,804
+351 | adi_00_ | 71,759
+352 | sparanaghcoar | 71,118
+353 | ElmerBlack | 70,850
+354 | Bobocod | 70,577
 355 | drche35 | 70,466
 356 | Yoda975 | 70,123
 357 | Rush4Time | 70,079
@@ -431,8 +431,8 @@ Rank | Username | Totals Tips
 428 | Kilv3r | 44,021
 429 | Coneboy2663 | 43,852
 430 | halfavocadoemoji | 43,351
-431 | halfABsinC | 43,285
-432 | Truffle_Shuffle_85 | 42,895
+431 | Truffle_Shuffle_85 | 43,315
+432 | halfABsinC | 43,285
 433 | ACE415_ | 42,069
 434 | dead-spiral | 42,069
 435 | Cyber-Cafe | 41,921
@@ -509,11 +509,11 @@ Rank | Username | Totals Tips
 506 | ikiyen | 27,500
 507 | Flat_Opportunity_340 | 27,389
 508 | Sparrow | 27,214
-509 | deltamoney | 26,987
-510 | BottleNcanClapUrHand | 26,658
-511 | DOGETHEEGOD | 26,580
-512 | Trelucatre | 26,469
-513 | Practical-Store9603 | 26,420
+509 | Practical-Store9603 | 27,028
+510 | deltamoney | 26,987
+511 | BottleNcanClapUrHand | 26,658
+512 | DOGETHEEGOD | 26,580
+513 | Trelucatre | 26,469
 514 | puzzled__panther | 26,000
 515 | Primary_Technical | 26,000
 516 | iamannonymous27 | 25,840
@@ -571,9 +571,9 @@ Rank | Username | Totals Tips
 568 | OutrageousStudy6752 | 17,087
 569 | Sebanimation | 17,073
 570 | leviathynx | 16,901
-571 | MantisToboggan66 | 16,437
-572 | ipsole | 16,425
-573 | stspts | 16,282
+571 | stspts | 16,646
+572 | MantisToboggan66 | 16,437
+573 | ipsole | 16,425
 574 | deeeznotes | 16,235
 575 | Conflict63 | 16,063
 576 | giooo_tdm | 15,964
@@ -1015,7 +1015,7 @@ Rank | Username | Totals Tips
 1012 | Poyal_Rines | 443
 1013 | 0xKeith | 440
 1014 | Kryptomaus | 438
-1015 | final_lionel | 421
+1015 | final_lionel | 423
 1016 | experimentjon | 420
 1017 | Gatherun | 420
 1018 | FilypW | 420
