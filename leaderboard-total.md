@@ -1,4 +1,4 @@
-Last updated: 23-09-13 08:41:28 UTC  
+Last updated: 23-09-13 08:50:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -368,8 +368,8 @@ Rank | Username | Totals Tips
 365 | -geek | 66,318
 366 | imp3order | 65,546
 367 | damnusernamegotcutof | 65,004
-368 | zuzieey7719 | 64,618
-369 | KrunchyKushKing | 64,195
+368 | KrunchyKushKing | 64,803
+369 | zuzieey7719 | 64,618
 370 | slug_tamer | 63,595
 371 | guokaidi | 63,581
 372 | Emeritux | 63,020
@@ -406,8 +406,8 @@ Rank | Username | Totals Tips
 403 | mofayew | 52,166
 404 | ConeHead710 | 52,012
 405 | d_Shazam_b | 51,991
-406 | slasula | 51,466
-407 | Atorcran | 51,430
+406 | Atorcran | 51,499
+407 | slasula | 51,466
 408 | d0ntmess87 | 51,278
 409 | Outside-Wolf5928 | 50,096
 410 | Yogi_Kat | 49,785
