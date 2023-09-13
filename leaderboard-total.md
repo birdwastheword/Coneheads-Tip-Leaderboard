@@ -1,4 +1,4 @@
-Last updated: 23-09-13 19:14:55 UTC  
+Last updated: 23-09-13 19:23:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -7,14 +7,14 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 20,269,095
+7 | cutsickass | 20,329,095
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,131,187
+9 | _ships | 17,131,607
 10 | crypto_grandma | 13,804,426
 11 | transfermymoons | 13,386,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,770,326
+14 | SammyCraigar | 11,796,956
 15 | Permanent_WSB_Bull | 11,022,763
 16 | SpookySYN | 8,978,329
 17 | 8inchConer | 8,947,619
@@ -67,8 +67,8 @@ Rank | Username | Totals Tips
 64 | Mundane-Farm-4117 | 1,723,613
 65 | Iulian_TechNewb | 1,717,148
 66 | Ten-Mins-Late | 1,707,793
-67 | GooderZBK | 1,617,267
-68 | KONGXIANG | 1,614,174
+67 | KONGXIANG | 1,650,810
+68 | GooderZBK | 1,617,267
 69 | evilninjarobot | 1,583,504
 70 | ultra_terrestrial | 1,487,679
 71 | LongCauliflower6791 | 1,462,051
@@ -96,7 +96,7 @@ Rank | Username | Totals Tips
 93 | Modestexcuse | 903,684
 94 | thee_monster | 896,765
 95 | Bobisdeadrun | 868,946
-96 | Lillica_Golden_SHIB | 827,592
+96 | Lillica_Golden_SHIB | 827,868
 97 | goldyluckinblokchain | 809,537
 98 | vbutarin | 802,000
 99 | billywright4 | 795,269
@@ -179,8 +179,8 @@ Rank | Username | Totals Tips
 176 | Adrewmc | 301,178
 177 | VincentVanGTFO | 300,598
 178 | legionticket | 296,054
-179 | send_tacoz | 293,576
-180 | FluffyAspie | 291,679
+179 | FluffyAspie | 294,342
+180 | send_tacoz | 293,576
 181 | monkeybombed | 285,426
 182 | deedopete | 285,361
 183 | dinoyeti | 283,881
@@ -563,7 +563,7 @@ Rank | Username | Totals Tips
 560 | ___MOM___ | 18,853
 561 | masterassassin93 | 18,409
 562 | subredditlurker69 | 18,332
-563 | Styl_Ianos_ | 18,248
+563 | Styl_Ianos_ | 18,250
 564 | Overall-Extension608 | 18,186
 565 | Collectibl3 | 18,024
 566 | augustsIippedaway | 17,739
