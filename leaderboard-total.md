@@ -1,4 +1,4 @@
-Last updated: 23-09-13 19:50:50 UTC  
+Last updated: 23-09-13 20:00:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 20,359,095
+7 | cutsickass | 20,419,095
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,132,908
 10 | crypto_grandma | 13,804,426
@@ -345,8 +345,8 @@ Rank | Username | Totals Tips
 342 | SaberTurret | 75,808
 343 | Heycheckthisout20 | 75,608
 344 | MedicineMaterial3501 | 74,654
-345 | Steadfast_Apparition | 74,506
-346 | shellystarzz | 74,020
+345 | shellystarzz | 74,628
+346 | Steadfast_Apparition | 74,506
 347 | pwan7505 | 73,893
 348 | ASingleGuitarString | 73,792
 349 | Diamond_PnutBrain | 73,688
