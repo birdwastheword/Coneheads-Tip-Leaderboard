@@ -1,4 +1,4 @@
-Last updated: 23-09-13 19:40:54 UTC  
+Last updated: 23-09-13 19:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 20,359,095
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,131,610
+9 | _ships | 17,132,908
 10 | crypto_grandma | 13,804,426
 11 | transfermymoons | 13,386,858
 12 | HODL-THE-LINE | 12,469,181
@@ -342,14 +342,14 @@ Rank | Username | Totals Tips
 339 | mokkingjay | 77,914
 340 | HelicopterDear6064 | 77,619
 341 | Derefringence | 77,095
-342 | Heycheckthisout20 | 75,608
-343 | MedicineMaterial3501 | 74,654
-344 | Steadfast_Apparition | 74,506
-345 | shellystarzz | 74,020
-346 | pwan7505 | 73,893
-347 | ASingleGuitarString | 73,792
-348 | Diamond_PnutBrain | 73,688
-349 | SaberTurret | 73,145
+342 | SaberTurret | 75,808
+343 | Heycheckthisout20 | 75,608
+344 | MedicineMaterial3501 | 74,654
+345 | Steadfast_Apparition | 74,506
+346 | shellystarzz | 74,020
+347 | pwan7505 | 73,893
+348 | ASingleGuitarString | 73,792
+349 | Diamond_PnutBrain | 73,688
 350 | I_AM_MORE_BADASS | 73,121
 351 | adi_00_ | 71,759
 352 | sparanaghcoar | 71,118
