@@ -1,4 +1,4 @@
-Last updated: 23-09-13 13:40:38 UTC  
+Last updated: 23-09-13 13:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -132,8 +132,8 @@ Rank | Username | Totals Tips
 129 | Independent_Heart_15 | 578,825
 130 | crodbtc | 550,245
 131 | junkwatch | 547,655
-132 | StepAsideSuckers | 543,358
-133 | DogSpark84 | 542,708
+132 | DogSpark84 | 543,924
+133 | StepAsideSuckers | 543,358
 134 | Allions1 | 540,094
 135 | scientifichistorian | 539,560
 136 | shreyaskg | 538,211
