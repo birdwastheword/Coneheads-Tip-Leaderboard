@@ -1,4 +1,4 @@
-Last updated: 23-09-13 11:23:51 UTC  
+Last updated: 23-09-13 11:32:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -82,7 +82,7 @@ Rank | Username | Totals Tips
 79 | Richicash | 1,231,855
 80 | HestiaIsTheBestia | 1,188,046
 81 | Feetfailmenot | 1,170,705
-82 | Hot_Potato_Salad | 1,147,489
+82 | Hot_Potato_Salad | 1,147,558
 83 | beastlybaker | 1,138,701
 84 | freechickens | 1,028,455
 85 | avatarbot | 1,027,000
