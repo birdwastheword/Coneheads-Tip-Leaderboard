@@ -1,4 +1,4 @@
-Last updated: 23-09-13 07:17:09 UTC  
+Last updated: 23-09-13 07:25:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -62,11 +62,11 @@ Rank | Username | Totals Tips
 59 | catlover-100 | 1,924,664
 60 | investigator100 | 1,862,352
 61 | CMDRGlamdring | 1,840,225
-62 | djrcollectables | 1,814,701
+62 | djrcollectables | 1,815,309
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
-65 | Ten-Mins-Late | 1,707,793
-66 | Iulian_TechNewb | 1,697,148
+65 | Iulian_TechNewb | 1,717,148
+66 | Ten-Mins-Late | 1,707,793
 67 | GooderZBK | 1,617,267
 68 | KONGXIANG | 1,584,177
 69 | evilninjarobot | 1,583,504
