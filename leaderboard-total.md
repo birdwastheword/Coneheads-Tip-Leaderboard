@@ -1,4 +1,4 @@
-Last updated: 23-09-13 16:51:52 UTC  
+Last updated: 23-09-13 17:00:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,084,420
 10 | crypto_grandma | 13,804,426
-11 | transfermymoons | 13,316,858
+11 | transfermymoons | 13,386,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,770,326
