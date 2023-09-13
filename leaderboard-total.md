@@ -1,4 +1,4 @@
-Last updated: 23-09-13 18:50:30 UTC  
+Last updated: 23-09-13 19:00:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -7,9 +7,9 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 20,239,095
+7 | cutsickass | 20,269,095
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,128,524
+9 | _ships | 17,131,187
 10 | crypto_grandma | 13,804,426
 11 | transfermymoons | 13,386,858
 12 | HODL-THE-LINE | 12,469,181
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | 002_timmy | 2,059,494
 56 | 0-Give-a-fucks | 1,995,501
 57 | Affectionate_Hand_76 | 1,967,252
-58 | swampyswede | 1,945,517
+58 | swampyswede | 1,945,727
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,862,352
 61 | CMDRGlamdring | 1,840,225
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | Iulian_TechNewb | 1,717,148
 66 | Ten-Mins-Late | 1,707,793
 67 | GooderZBK | 1,617,267
-68 | KONGXIANG | 1,594,176
+68 | KONGXIANG | 1,604,175
 69 | evilninjarobot | 1,583,504
 70 | ultra_terrestrial | 1,487,679
 71 | LongCauliflower6791 | 1,462,051
@@ -270,8 +270,8 @@ Rank | Username | Totals Tips
 267 | robnectar | 127,974
 268 | DeanDeanington | 127,267
 269 | CalligrapherEnough83 | 127,227
-270 | Trakorr | 125,110
-271 | 192000Hertz | 123,120
+270 | 192000Hertz | 125,783
+271 | Trakorr | 125,110
 272 | Sativa55555 | 121,550
 273 | stupidcupid112 | 121,421
 274 | lucivaryas | 121,420
@@ -366,8 +366,8 @@ Rank | Username | Totals Tips
 363 | Virtual-Wrangler5955 | 67,006
 364 | Friendly-Airline2426 | 66,547
 365 | -geek | 66,318
-366 | imp3order | 65,546
-367 | Bobby_Juk | 65,534
+366 | Bobby_Juk | 65,954
+367 | imp3order | 65,546
 368 | damnusernamegotcutof | 65,004
 369 | KrunchyKushKing | 64,803
 370 | zuzieey7719 | 64,618
