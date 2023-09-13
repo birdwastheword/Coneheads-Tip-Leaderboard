@@ -1,4 +1,4 @@
-Last updated: 23-09-13 09:01:02 UTC  
+Last updated: 23-09-13 09:18:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,720,619
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,810
-27 | IveDoneItAtLast | 5,296,172
+27 | IveDoneItAtLast | 5,302,180
 28 | thelonliestcrowd | 5,256,437
 29 | Ginomania | 4,883,411
 30 | rikbona | 4,540,773
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,418,375
 34 | rustyybikes | 4,269,432
 35 | send420nudes | 4,260,219
-36 | VIVOffical | 4,147,290
+36 | VIVOffical | 4,148,096
 37 | zdubs | 3,752,685
 38 | thom_orrow | 3,727,432
 39 | clean_cut89 | 3,713,476
@@ -233,7 +233,7 @@ Rank | Username | Totals Tips
 230 | bakerdawg555 | 192,028
 231 | skollywag92 | 186,501
 232 | nooobmaester69 | 183,460
-233 | ZeMadMan1 | 180,588
+233 | ZeMadMan1 | 183,251
 234 | ruccarucca | 180,270
 235 | YourThighsWarmMyEars | 172,697
 236 | Street_Addd | 171,939
@@ -370,9 +370,9 @@ Rank | Username | Totals Tips
 367 | damnusernamegotcutof | 65,004
 368 | KrunchyKushKing | 64,803
 369 | zuzieey7719 | 64,618
-370 | slug_tamer | 63,595
-371 | guokaidi | 63,581
-372 | Bobby_Juk | 63,434
+370 | Bobby_Juk | 64,274
+371 | slug_tamer | 63,595
+372 | guokaidi | 63,581
 373 | Emeritux | 63,020
 374 | netnemirepxE | 62,645
 375 | meth43 | 62,596
