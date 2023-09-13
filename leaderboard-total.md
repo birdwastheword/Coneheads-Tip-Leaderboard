@@ -1,4 +1,4 @@
-Last updated: 23-09-13 22:00:44 UTC  
+Last updated: 23-09-13 22:17:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 20,759,095
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,135,571
+9 | _ships | 17,141,656
 10 | crypto_grandma | 13,804,426
 11 | transfermymoons | 13,386,858
 12 | HODL-THE-LINE | 12,469,181
@@ -27,20 +27,20 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,723,282
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
-27 | IveDoneItAtLast | 5,316,910
+27 | IveDoneItAtLast | 5,319,573
 28 | thelonliestcrowd | 5,256,437
 29 | Ginomania | 4,883,411
 30 | rikbona | 4,540,773
 31 | redzrex | 4,497,171
 32 | bigbilly1234567899 | 4,496,042
-33 | birdwastheword | 4,418,375
+33 | birdwastheword | 4,421,038
 34 | send420nudes | 4,277,715
 35 | rustyybikes | 4,269,432
 36 | VIVOffical | 4,148,096
 37 | zdubs | 3,752,685
 38 | thom_orrow | 3,727,432
 39 | clean_cut89 | 3,713,476
-40 | GuyOne | 3,565,965
+40 | GuyOne | 3,575,965
 41 | LuminousViper | 3,481,417
 42 | ZukoBih | 3,427,082
 43 | bray_martin03 | 3,371,598
