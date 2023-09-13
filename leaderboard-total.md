@@ -1,4 +1,4 @@
-Last updated: 23-09-13 13:23:09 UTC  
+Last updated: 23-09-13 13:31:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | cutsickass | 19,899,095
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,084,420
-10 | crypto_grandma | 13,735,006
+10 | crypto_grandma | 13,804,426
 11 | transfermymoons | 13,166,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | 0-Give-a-fucks | 1,995,501
 57 | Affectionate_Hand_76 | 1,967,252
 58 | swampyswede | 1,944,887
-59 | catlover-100 | 1,924,664
+59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,862,352
 61 | CMDRGlamdring | 1,840,225
 62 | djrcollectables | 1,817,972
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | ultra_terrestrial | 1,487,679
 71 | LongCauliflower6791 | 1,462,051
 72 | YarOldeOrchard | 1,438,286
-73 | ValiantJudge29500 | 1,396,493
+73 | ValiantJudge29500 | 1,399,156
 74 | isthistomorrow_ | 1,381,135
 75 | Extreme_Issue7325 | 1,295,890
 76 | saintajoras | 1,251,819
