@@ -1,4 +1,4 @@
-Last updated: 23-09-13 02:33:58 UTC  
+Last updated: 23-09-13 02:42:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,087,708
@@ -130,8 +130,8 @@ Rank | Username | Totals Tips
 127 | El_Gordone | 592,784
 128 | Burzzzt88 | 591,649
 129 | Independent_Heart_15 | 578,825
-130 | crodbtc | 547,582
-131 | junkwatch | 547,097
+130 | junkwatch | 547,586
+131 | crodbtc | 547,582
 132 | StepAsideSuckers | 543,358
 133 | Allions1 | 540,094
 134 | DogSpark84 | 539,668
@@ -241,7 +241,7 @@ Rank | Username | Totals Tips
 238 | high5s_inureye | 171,051
 239 | sjakkpila | 167,546
 240 | DamnWhySoLow | 166,675
-241 | MelonFarmer420 | 165,876
+241 | MelonFarmer420 | 166,296
 242 | DrThunderHandz | 163,658
 243 | Clonkerz | 158,006
 244 | CoverYourMaskHoles | 157,045
@@ -351,14 +351,14 @@ Rank | Username | Totals Tips
 348 | sparanaghcoar | 71,118
 349 | ElmerBlack | 70,850
 350 | Bobocod | 70,577
-351 | drche35 | 70,466
-352 | Rush4Time | 70,079
-353 | hey_barry | 69,698
-354 | Yoda975 | 69,124
-355 | Dazzling_Marzipan474 | 69,033
-356 | Tapiz3land | 68,942
-357 | AnduriII | 68,313
-358 | SaberTurret | 67,819
+351 | SaberTurret | 70,482
+352 | drche35 | 70,466
+353 | Rush4Time | 70,079
+354 | hey_barry | 69,698
+355 | Yoda975 | 69,124
+356 | Dazzling_Marzipan474 | 69,033
+357 | Tapiz3land | 68,942
+358 | AnduriII | 68,313
 359 | Virtual-Wrangler5955 | 67,006
 360 | LightninHooker | 66,706
 361 | Friendly-Airline2426 | 66,547
@@ -541,8 +541,8 @@ Rank | Username | Totals Tips
 538 | DrD_D | 21,509
 539 | Flamingo777 | 21,497
 540 | Tasty_Bag | 21,384
-541 | RamboBalboa21 | 21,083
-542 | Ninja_Vagabond | 21,047
+541 | Ninja_Vagabond | 21,116
+542 | RamboBalboa21 | 21,083
 543 | ipad_daps | 20,864
 544 | shootingeagleyt | 20,611
 545 | DLPD-Camko | 20,377
