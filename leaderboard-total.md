@@ -1,4 +1,4 @@
-Last updated: 23-09-13 14:19:28 UTC  
+Last updated: 23-09-13 14:30:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | bigbilly1234567899 | 4,496,042
 33 | birdwastheword | 4,418,375
 34 | rustyybikes | 4,269,432
-35 | send420nudes | 4,260,219
+35 | send420nudes | 4,260,639
 36 | VIVOffical | 4,148,096
 37 | zdubs | 3,752,685
 38 | thom_orrow | 3,727,432
@@ -779,11 +779,11 @@ Rank | Username | Totals Tips
 776 | FoLKOM | 4,422
 777 | Defeat-the-Kraken | 4,379
 778 | _dual1ty | 4,333
-779 | DepressedVegabond | 4,300
-780 | ADT06 | 4,260
-781 | Werd2jaH | 4,205
-782 | OG_Bobcat32 | 4,200
-783 | TheyAskWho | 4,199
+779 | TheyAskWho | 4,310
+780 | DepressedVegabond | 4,300
+781 | ADT06 | 4,260
+782 | Werd2jaH | 4,205
+783 | OG_Bobcat32 | 4,200
 784 | officialzodiacbeats | 4,194
 785 | Fit_Win_541 | 4,169
 786 | DrAgaricus | 4,111
