@@ -1,4 +1,4 @@
-Last updated: 23-09-13 11:32:48 UTC  
+Last updated: 23-09-13 11:40:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -425,22 +425,22 @@ Rank | Username | Totals Tips
 422 | tentazoc | 45,088
 423 | acfranks | 45,083
 424 | Name_Trikolon | 45,002
-425 | Lucabba | 44,738
-426 | 4gsboofd | 44,377
-427 | Kilv3r | 44,021
-428 | Coneboy2663 | 43,852
-429 | halfavocadoemoji | 43,351
-430 | halfABsinC | 43,285
-431 | Truffle_Shuffle_85 | 42,895
-432 | ACE415_ | 42,069
-433 | dead-spiral | 42,069
-434 | Cyber-Cafe | 41,921
-435 | PushyDevoIution | 41,695
-436 | madridgalactico | 41,231
-437 | Expensive_Being_4038 | 41,116
-438 | HodLMania | 41,111
-439 | ARoyaleWithCheese | 41,000
-440 | FalloutAssasin | 40,631
+425 | FalloutAssasin | 44,900
+426 | Lucabba | 44,738
+427 | 4gsboofd | 44,377
+428 | Kilv3r | 44,021
+429 | Coneboy2663 | 43,852
+430 | halfavocadoemoji | 43,351
+431 | halfABsinC | 43,285
+432 | Truffle_Shuffle_85 | 42,895
+433 | ACE415_ | 42,069
+434 | dead-spiral | 42,069
+435 | Cyber-Cafe | 41,921
+436 | PushyDevoIution | 41,695
+437 | madridgalactico | 41,231
+438 | Expensive_Being_4038 | 41,116
+439 | HodLMania | 41,111
+440 | ARoyaleWithCheese | 41,000
 441 | Yirii | 40,605
 442 | Zap1324 | 40,271
 443 | matdabom | 40,068
