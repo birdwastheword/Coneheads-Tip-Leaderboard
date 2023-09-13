@@ -1,4 +1,4 @@
-Last updated: 23-09-13 08:23:43 UTC  
+Last updated: 23-09-13 08:33:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -152,8 +152,8 @@ Rank | Username | Totals Tips
 149 | unhingedbigfoot | 439,874
 150 | Mopeiooo | 437,268
 151 | RazPie | 432,677
-152 | LX1070 | 430,602
-153 | noface_reddit | 429,721
+152 | noface_reddit | 432,384
+153 | LX1070 | 430,602
 154 | Lion-Hermit | 416,210
 155 | dronegeeks1 | 414,406
 156 | LrnFaroeseWthBergur | 409,488
@@ -500,10 +500,10 @@ Rank | Username | Totals Tips
 497 | Locid | 28,938
 498 | bentolman | 28,891
 499 | FoleyKali | 28,843
-500 | Fictional_Blook | 28,143
-501 | Fomo- | 28,020
-502 | hvefe | 28,005
-503 | Jo2Bax | 27,958
+500 | Jo2Bax | 28,378
+501 | Fictional_Blook | 28,143
+502 | Fomo- | 28,020
+503 | hvefe | 28,005
 504 | madisonfm | 27,934
 505 | 2620lukas | 27,837
 506 | ikiyen | 27,500
