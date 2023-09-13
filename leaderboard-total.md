@@ -1,4 +1,4 @@
-Last updated: 23-09-13 11:40:58 UTC  
+Last updated: 23-09-13 11:50:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -1043,13 +1043,13 @@ Rank | Username | Totals Tips
 1040 | DopelessHopefeand | 420
 1041 | Pupulikjan | 420
 1042 | Cravensworth_3dux | 420
-1043 | teyegurspoon | 345
-1044 | DrChuckWhite | 344
-1045 | Wise-Grapefruit-1443 | 311
-1046 | MimirHinnVitru | 307
-1047 | Formal-Way-4610 | 300
-1048 | Asleep_Ambassador_66 | 277
-1049 | Pacaloz | 276
+1043 | Pacaloz | 345
+1044 | teyegurspoon | 345
+1045 | DrChuckWhite | 344
+1046 | Wise-Grapefruit-1443 | 311
+1047 | MimirHinnVitru | 307
+1048 | Formal-Way-4610 | 300
+1049 | Asleep_Ambassador_66 | 277
 1050 | xqpcy | 276
 1051 | torontoglutton | 276
 1052 | j3llyf1sh3y | 276
