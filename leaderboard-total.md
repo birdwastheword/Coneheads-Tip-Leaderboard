@@ -1,4 +1,4 @@
-Last updated: 23-09-13 20:25:21 UTC  
+Last updated: 23-09-13 20:33:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 20,509,095
+7 | cutsickass | 20,569,095
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,132,908
 10 | crypto_grandma | 13,804,426
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,723,282
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
-27 | IveDoneItAtLast | 5,311,459
+27 | IveDoneItAtLast | 5,316,785
 28 | thelonliestcrowd | 5,256,437
 29 | Ginomania | 4,883,411
 30 | rikbona | 4,540,773
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | DontLaughArt | 2,938,647
 47 | Korean_Street_Pizza | 2,811,475
 48 | Mean_Bandicoot_7481 | 2,752,108
-49 | Fenrir-1919 | 2,653,545
+49 | Fenrir-1919 | 2,656,208
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
 52 | ImAlekBan | 2,570,204
@@ -332,9 +332,9 @@ Rank | Username | Totals Tips
 329 | Puzzleheaded_Gift738 | 84,020
 330 | Admirito | 82,353
 331 | standArtpluto | 82,100
-332 | mastermarvs | 80,384
-333 | XeroGrave | 80,000
-334 | youtooleyesing | 79,892
+332 | youtooleyesing | 80,500
+333 | mastermarvs | 80,384
+334 | XeroGrave | 80,000
 335 | Pwny_b0y | 79,447
 336 | GodOfWarGuy737 | 79,069
 337 | TheOneWhoCared | 78,659
