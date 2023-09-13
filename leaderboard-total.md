@@ -1,4 +1,4 @@
-Last updated: 23-09-13 08:50:57 UTC  
+Last updated: 23-09-13 09:01:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Skank_cunt_42 | 7,269,825
 22 | Puddin-Luv | 7,228,225
 23 | Geniuskills | 6,882,870
-24 | ashinamune | 6,713,619
+24 | ashinamune | 6,720,619
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,810
 27 | IveDoneItAtLast | 5,296,172
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,418,375
 34 | rustyybikes | 4,269,432
 35 | send420nudes | 4,260,219
-36 | VIVOffical | 4,146,484
+36 | VIVOffical | 4,147,290
 37 | zdubs | 3,752,685
 38 | thom_orrow | 3,727,432
 39 | clean_cut89 | 3,713,476
@@ -372,8 +372,8 @@ Rank | Username | Totals Tips
 369 | zuzieey7719 | 64,618
 370 | slug_tamer | 63,595
 371 | guokaidi | 63,581
-372 | Emeritux | 63,020
-373 | Bobby_Juk | 63,014
+372 | Bobby_Juk | 63,434
+373 | Emeritux | 63,020
 374 | netnemirepxE | 62,645
 375 | meth43 | 62,596
 376 | TheD1ceMan | 60,541
@@ -422,8 +422,8 @@ Rank | Username | Totals Tips
 419 | Drlitez | 45,436
 420 | SnooRevelations6751 | 45,420
 421 | NickkyDC | 45,379
-422 | acfranks | 45,083
-423 | tentazoc | 45,078
+422 | tentazoc | 45,088
+423 | acfranks | 45,083
 424 | Name_Trikolon | 45,002
 425 | Lucabba | 44,738
 426 | 4gsboofd | 44,377
@@ -561,8 +561,8 @@ Rank | Username | Totals Tips
 558 | MalarkyD | 19,527
 559 | ___MOM___ | 18,853
 560 | subredditlurker69 | 18,332
-561 | Collectibl3 | 18,024
-562 | Styl_Ianos_ | 17,828
+561 | Styl_Ianos_ | 18,248
+562 | Collectibl3 | 18,024
 563 | augustsIippedaway | 17,739
 564 | PRYCDaddy | 17,718
 565 | omfglauren | 17,676
@@ -602,23 +602,23 @@ Rank | Username | Totals Tips
 599 | WiseDude69 | 13,230
 600 | rare1994 | 13,069
 601 | AdinaEspada | 12,997
-602 | seamonkey420 | 12,906
-603 | Overall-Extension608 | 12,853
-604 | Artistic-Quit-3311 | 12,851
-605 | Boggess | 12,784
-606 | Conefollower | 12,774
-607 | Fcknsmn | 12,757
-608 | diarpiiiii | 12,743
-609 | Alexploded | 12,733
-610 | MatrixObito8686 | 12,693
-611 | No-Success-8681 | 12,663
-612 | nullcomplex | 12,663
-613 | norjayy | 12,653
-614 | Potstar1 | 12,552
-615 | FixFull | 12,501
-616 | Dapper_Bloke88 | 12,451
-617 | noah1754 | 12,435
-618 | ShadowKnight324 | 12,287
+602 | ShadowKnight324 | 12,977
+603 | seamonkey420 | 12,906
+604 | Overall-Extension608 | 12,853
+605 | Artistic-Quit-3311 | 12,851
+606 | Boggess | 12,784
+607 | Conefollower | 12,774
+608 | Fcknsmn | 12,757
+609 | diarpiiiii | 12,743
+610 | Alexploded | 12,733
+611 | MatrixObito8686 | 12,693
+612 | No-Success-8681 | 12,663
+613 | nullcomplex | 12,663
+614 | norjayy | 12,653
+615 | Potstar1 | 12,552
+616 | FixFull | 12,501
+617 | Dapper_Bloke88 | 12,451
+618 | noah1754 | 12,435
 619 | wesleylyan | 12,257
 620 | ZeusDubstep | 12,050
 621 | bageren | 12,038
