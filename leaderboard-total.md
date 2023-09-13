@@ -1,4 +1,4 @@
-Last updated: 23-09-13 23:30:41 UTC  
+Last updated: 23-09-13 23:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | birdwastheword | 4,421,038
 34 | send420nudes | 4,277,715
 35 | rustyybikes | 4,269,432
-36 | VIVOffical | 4,148,096
+36 | VIVOffical | 4,153,422
 37 | zdubs | 3,753,293
 38 | thom_orrow | 3,727,432
 39 | clean_cut89 | 3,713,476
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | Independent_Heart_15 | 578,825
 131 | crodbtc | 550,245
 132 | junkwatch | 547,724
-133 | DogSpark84 | 543,924
+133 | DogSpark84 | 545,140
 134 | StepAsideSuckers | 543,358
 135 | scientifichistorian | 539,560
 136 | shreyaskg | 538,211
@@ -362,7 +362,7 @@ Rank | Username | Totals Tips
 359 | Dazzling_Marzipan474 | 69,033
 360 | Tapiz3land | 68,942
 361 | AnduriII | 68,313
-362 | Bobby_Juk | 67,214
+362 | Bobby_Juk | 67,634
 363 | LightninHooker | 67,126
 364 | Virtual-Wrangler5955 | 67,006
 365 | Friendly-Airline2426 | 66,547
@@ -560,11 +560,11 @@ Rank | Username | Totals Tips
 557 | lookwhatumademedoo | 19,930
 558 | Iiwip | 19,533
 559 | MalarkyD | 19,527
-560 | ___MOM___ | 18,853
-561 | masterassassin93 | 18,409
-562 | subredditlurker69 | 18,332
-563 | Styl_Ianos_ | 18,250
-564 | Overall-Extension608 | 18,186
+560 | Overall-Extension608 | 19,455
+561 | ___MOM___ | 18,853
+562 | masterassassin93 | 18,409
+563 | subredditlurker69 | 18,332
+564 | Styl_Ianos_ | 18,256
 565 | Collectibl3 | 18,024
 566 | augustsIippedaway | 17,739
 567 | PRYCDaddy | 17,718
@@ -910,10 +910,10 @@ Rank | Username | Totals Tips
 907 | Pataphak377 | 1,490
 908 | adamdmn | 1,490
 909 | WhiteMoss_ | 1,488
-910 | SinTron99 | 1,448
-911 | Prodigyyyyyy | 1,432
-912 | mkultrahigh | 1,415
-913 | Carretje | 1,408
+910 | Carretje | 1,483
+911 | SinTron99 | 1,448
+912 | Prodigyyyyyy | 1,432
+913 | mkultrahigh | 1,415
 914 | Unlucky_Narwhal3983 | 1,396
 915 | pizza-chit | 1,392
 916 | Silence-Samurai8357 | 1,385
