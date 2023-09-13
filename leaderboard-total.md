@@ -1,4 +1,4 @@
-Last updated: 23-09-13 03:40:33 UTC  
+Last updated: 23-09-13 03:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,087,708
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 19,524,932
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,068,042
+9 | _ships | 17,070,706
 10 | crypto_grandma | 13,735,006
 11 | transfermymoons | 12,916,858
 12 | HODL-THE-LINE | 12,469,181
@@ -290,11 +290,11 @@ Rank | Username | Totals Tips
 287 | PushyDevolution | 110,216
 288 | Creative_Ad7831 | 110,047
 289 | jurgensdapimp | 108,535
-290 | Jadenindubai | 107,206
-291 | Jlt42000 | 107,091
-292 | AD_VICTORIAM_x | 106,876
-293 | i_wake_up_at_12 | 106,333
-294 | Complete-Tadpole-728 | 105,555
+290 | Complete-Tadpole-728 | 108,218
+291 | Jadenindubai | 107,206
+292 | Jlt42000 | 107,091
+293 | AD_VICTORIAM_x | 106,876
+294 | i_wake_up_at_12 | 106,333
 295 | Chanyuui1 | 104,940
 296 | deathtr0 | 103,801
 297 | Chill_Edoeard | 102,923
