@@ -1,4 +1,4 @@
-Last updated: 23-09-13 23:18:01 UTC  
+Last updated: 23-09-13 23:30:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | send420nudes | 4,277,715
 35 | rustyybikes | 4,269,432
 36 | VIVOffical | 4,148,096
-37 | zdubs | 3,752,685
+37 | zdubs | 3,753,293
 38 | thom_orrow | 3,727,432
 39 | clean_cut89 | 3,713,476
 40 | GuyOne | 3,575,965
@@ -381,16 +381,16 @@ Rank | Username | Totals Tips
 378 | Significant-Bet5762 | 59,825
 379 | Dboythegreat | 59,726
 380 | Big-Ticket1506 | 59,666
-381 | preemcuz | 59,154
-382 | Bandit_005 | 58,966
-383 | RepublicRude6350 | 58,754
-384 | Wildspliffosis | 58,703
-385 | meme_used | 58,516
-386 | Trink333 | 58,338
-387 | phrodreky | 58,122
-388 | foreignGER | 57,277
-389 | Outrageous_Storm6537 | 56,938
-390 | Atorcran | 56,837
+381 | Atorcran | 59,506
+382 | preemcuz | 59,154
+383 | Bandit_005 | 58,966
+384 | RepublicRude6350 | 58,754
+385 | Wildspliffosis | 58,703
+386 | meme_used | 58,516
+387 | Trink333 | 58,338
+388 | phrodreky | 58,122
+389 | foreignGER | 57,277
+390 | Outrageous_Storm6537 | 56,938
 391 | CryptoScamee42069 | 56,797
 392 | ProfessionalIcy6456 | 56,380
 393 | chuloreddit | 55,878
