@@ -1,4 +1,4 @@
-Last updated: 23-09-13 22:40:51 UTC  
+Last updated: 23-09-13 22:50:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Skank_cunt_42 | 7,269,825
 22 | Puddin-Luv | 7,230,888
 23 | Geniuskills | 6,882,870
-24 | ashinamune | 6,723,282
+24 | ashinamune | 6,723,890
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
 27 | IveDoneItAtLast | 5,319,573
@@ -444,17 +444,17 @@ Rank | Username | Totals Tips
 441 | Yirii | 40,605
 442 | Zap1324 | 40,271
 443 | matdabom | 40,068
-444 | YourLocalDuskFox | 40,000
-445 | babuba1234321 | 40,000
-446 | alex_si_davies | 39,965
-447 | GuronT | 39,830
-448 | AMAxyz | 39,775
-449 | Mortifer6 | 39,738
-450 | waterincorporated | 39,428
-451 | sM0k3dR4Gn | 39,279
-452 | kanem87 | 39,187
-453 | mutinomonem | 38,823
-454 | cryotosensei | 38,380
+444 | cryotosensei | 40,060
+445 | YourLocalDuskFox | 40,000
+446 | babuba1234321 | 40,000
+447 | alex_si_davies | 39,965
+448 | GuronT | 39,830
+449 | AMAxyz | 39,775
+450 | Mortifer6 | 39,738
+451 | waterincorporated | 39,428
+452 | sM0k3dR4Gn | 39,279
+453 | kanem87 | 39,187
+454 | mutinomonem | 38,823
 455 | chaud3r | 38,290
 456 | lovenets_ | 38,182
 457 | rowdy1212 | 38,129
@@ -778,9 +778,9 @@ Rank | Username | Totals Tips
 775 | JAlbert653 | 4,515
 776 | OniCowboy | 4,487
 777 | FoLKOM | 4,422
-778 | Defeat-the-Kraken | 4,379
-779 | _dual1ty | 4,333
-780 | TheyAskWho | 4,310
+778 | TheyAskWho | 4,421
+779 | Defeat-the-Kraken | 4,379
+780 | _dual1ty | 4,333
 781 | DepressedVegabond | 4,300
 782 | ADT06 | 4,260
 783 | Werd2jaH | 4,205
