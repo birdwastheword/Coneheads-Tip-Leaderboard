@@ -1,4 +1,4 @@
-Last updated: 23-09-13 14:00:59 UTC  
+Last updated: 23-09-13 14:19:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | DontLaughArt | 2,917,431
 47 | Korean_Street_Pizza | 2,808,812
 48 | Mean_Bandicoot_7481 | 2,752,108
-49 | Fenrir-1919 | 2,652,937
+49 | Fenrir-1919 | 2,653,545
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
 52 | ImAlekBan | 2,564,878
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | ultra_terrestrial | 1,487,679
 71 | LongCauliflower6791 | 1,462,051
 72 | YarOldeOrchard | 1,438,286
-73 | ValiantJudge29500 | 1,399,156
+73 | ValiantJudge29500 | 1,400,156
 74 | isthistomorrow_ | 1,381,135
 75 | Extreme_Issue7325 | 1,295,890
 76 | saintajoras | 1,251,819
@@ -96,7 +96,7 @@ Rank | Username | Totals Tips
 93 | Modestexcuse | 903,684
 94 | thee_monster | 896,765
 95 | Bobisdeadrun | 868,946
-96 | Lillica_Golden_SHIB | 827,316
+96 | Lillica_Golden_SHIB | 827,454
 97 | goldyluckinblokchain | 809,537
 98 | vbutarin | 802,000
 99 | billywright4 | 795,269
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | virmamies | 718,771
 107 | starterpack420694 | 710,420
 108 | WarmIyWacky | 703,049
-109 | formidable-opponent | 701,165
+109 | formidable-opponent | 701,942
 110 | frickdom | 699,926
 111 | Starterpack69420 | 696,969
 112 | abracadabra087 | 694,465
@@ -397,16 +397,16 @@ Rank | Username | Totals Tips
 394 | orangesandonions | 55,238
 395 | SandersIncBV | 54,288
 396 | Brandillio | 54,271
-397 | WarningKey6517 | 53,910
-398 | Astrochrono | 53,398
-399 | Jefe0457 | 53,368
-400 | Zezano | 52,679
-401 | abbasabba2 | 52,647
-402 | ky0984 | 52,257
-403 | mofayew | 52,166
-404 | ConeHead710 | 52,012
-405 | d_Shazam_b | 51,991
-406 | Atorcran | 51,499
+397 | Atorcran | 54,168
+398 | WarningKey6517 | 53,910
+399 | Astrochrono | 53,398
+400 | Jefe0457 | 53,368
+401 | Zezano | 52,679
+402 | abbasabba2 | 52,647
+403 | ky0984 | 52,257
+404 | mofayew | 52,166
+405 | ConeHead710 | 52,012
+406 | d_Shazam_b | 51,991
 407 | slasula | 51,466
 408 | d0ntmess87 | 51,278
 409 | Outside-Wolf5928 | 50,096
