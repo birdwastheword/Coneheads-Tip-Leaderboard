@@ -1,4 +1,4 @@
-Last updated: 23-09-13 20:00:52 UTC  
+Last updated: 23-09-13 20:17:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 20,419,095
+7 | cutsickass | 20,509,095
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,132,908
 10 | crypto_grandma | 13,804,426
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | swampyswede | 1,946,147
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,862,352
-61 | CMDRGlamdring | 1,840,225
+61 | CMDRGlamdring | 1,842,888
 62 | djrcollectables | 1,821,243
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
@@ -365,8 +365,8 @@ Rank | Username | Totals Tips
 362 | LightninHooker | 67,126
 363 | Virtual-Wrangler5955 | 67,006
 364 | Friendly-Airline2426 | 66,547
-365 | -geek | 66,318
-366 | Bobby_Juk | 65,954
+365 | Bobby_Juk | 66,374
+366 | -geek | 66,318
 367 | imp3order | 65,546
 368 | damnusernamegotcutof | 65,004
 369 | KrunchyKushKing | 64,803
@@ -541,10 +541,10 @@ Rank | Username | Totals Tips
 538 | deezirae | 22,203
 539 | beejbum | 22,200
 540 | Matth3w_95 | 21,820
-541 | DrD_D | 21,509
-542 | Flamingo777 | 21,497
-543 | Tasty_Bag | 21,384
-544 | Ninja_Vagabond | 21,116
+541 | Ninja_Vagabond | 21,605
+542 | DrD_D | 21,509
+543 | Flamingo777 | 21,497
+544 | Tasty_Bag | 21,384
 545 | RamboBalboa21 | 21,083
 546 | ipad_daps | 20,864
 547 | shootingeagleyt | 20,611
@@ -598,9 +598,9 @@ Rank | Username | Totals Tips
 595 | osoese | 13,680
 596 | abbasabba260 | 13,662
 597 | mantrakid | 13,644
-598 | couchguitar | 13,330
-599 | zahrawins | 13,329
-600 | WiseDude69 | 13,299
+598 | WiseDude69 | 13,368
+599 | couchguitar | 13,330
+600 | zahrawins | 13,329
 601 | Diamond_Hands420 | 13,277
 602 | rare1994 | 13,069
 603 | AdinaEspada | 12,997
