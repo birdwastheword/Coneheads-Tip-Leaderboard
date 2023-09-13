@@ -1,4 +1,4 @@
-Last updated: 23-09-13 21:40:49 UTC  
+Last updated: 23-09-13 21:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 20,719,095
+7 | cutsickass | 20,759,095
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,135,571
 10 | crypto_grandma | 13,804,426
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,862,352
 61 | CMDRGlamdring | 1,842,888
-62 | djrcollectables | 1,821,243
+62 | djrcollectables | 1,823,906
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
 65 | Iulian_TechNewb | 1,717,148
@@ -181,11 +181,11 @@ Rank | Username | Totals Tips
 178 | legionticket | 296,054
 179 | FluffyAspie | 294,342
 180 | send_tacoz | 293,576
-181 | monkeybombed | 285,426
-182 | deedopete | 285,361
-183 | dinoyeti | 283,881
-184 | tjex666 | 282,801
-185 | MadScientistTheFirst | 280,469
+181 | MadScientistTheFirst | 290,469
+182 | monkeybombed | 285,426
+183 | deedopete | 285,361
+184 | dinoyeti | 283,881
+185 | tjex666 | 282,801
 186 | astro_nut_ | 280,463
 187 | maxfra | 280,067
 188 | Flimsy_Brilliant_239 | 277,781
