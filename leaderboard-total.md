@@ -1,4 +1,4 @@
-Last updated: 23-09-13 06:43:49 UTC  
+Last updated: 23-09-13 06:52:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | DontLaughArt | 2,917,431
 47 | Korean_Street_Pizza | 2,808,812
 48 | Mean_Bandicoot_7481 | 2,752,108
-49 | Fenrir-1919 | 2,650,274
+49 | Fenrir-1919 | 2,652,937
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
 52 | ImAlekBan | 2,564,878
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | swampyswede | 1,944,887
 59 | catlover-100 | 1,924,664
 60 | investigator100 | 1,862,352
-61 | CMDRGlamdring | 1,837,562
+61 | CMDRGlamdring | 1,840,225
 62 | djrcollectables | 1,814,701
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
@@ -295,10 +295,10 @@ Rank | Username | Totals Tips
 292 | Jlt42000 | 107,091
 293 | AD_VICTORIAM_x | 106,876
 294 | i_wake_up_at_12 | 106,333
-295 | Chanyuui1 | 104,940
-296 | deathtr0 | 103,801
-297 | Chill_Edoeard | 102,923
-298 | redditinchina | 102,781
+295 | redditinchina | 105,444
+296 | Chanyuui1 | 104,940
+297 | deathtr0 | 103,801
+298 | Chill_Edoeard | 102,923
 299 | diamondbored | 100,955
 300 | ACorDC | 100,420
 301 | Nxnng | 100,284
