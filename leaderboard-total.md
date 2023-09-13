@@ -1,4 +1,4 @@
-Last updated: 23-09-13 20:33:59 UTC  
+Last updated: 23-09-13 20:42:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -364,8 +364,8 @@ Rank | Username | Totals Tips
 361 | AnduriII | 68,313
 362 | LightninHooker | 67,126
 363 | Virtual-Wrangler5955 | 67,006
-364 | Friendly-Airline2426 | 66,547
-365 | Bobby_Juk | 66,374
+364 | Bobby_Juk | 66,794
+365 | Friendly-Airline2426 | 66,547
 366 | -geek | 66,318
 367 | imp3order | 65,546
 368 | damnusernamegotcutof | 65,004
@@ -675,13 +675,13 @@ Rank | Username | Totals Tips
 672 | undefined-account | 9,126
 673 | Shraier | 9,103
 674 | Otherwise_Assist_34 | 9,083
-675 | 69BoJack69 | 9,003
-676 | froi203 | 8,989
-677 | Coeruleus_ | 8,985
-678 | ElegantShelter7947 | 8,881
-679 | Duckeis | 8,873
-680 | Nugacity5 | 8,836
-681 | stockyewok | 8,641
+675 | stockyewok | 9,061
+676 | 69BoJack69 | 9,003
+677 | froi203 | 8,989
+678 | Coeruleus_ | 8,985
+679 | ElegantShelter7947 | 8,881
+680 | Duckeis | 8,873
+681 | Nugacity5 | 8,836
 682 | BreadfruitIll4265 | 8,608
 683 | ad5xlh | 8,470
 684 | TNJCrypto | 8,468
