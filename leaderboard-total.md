@@ -1,4 +1,4 @@
-Last updated: 23-09-14 07:30:46 UTC  
+Last updated: 23-09-14 07:40:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -91,8 +91,8 @@ Rank | Username | Totals Tips
 88 | CluelessSurvivor | 997,184
 89 | EvanIsBacon | 970,416
 90 | ID404_Not_Found_8964 | 954,982
-91 | CHEROKEEJ4CK | 940,286
-92 | Allions1 | 937,660
+91 | Allions1 | 940,323
+92 | CHEROKEEJ4CK | 940,286
 93 | Forward_Today2849 | 932,405
 94 | Modestexcuse | 903,684
 95 | thee_monster | 896,765
