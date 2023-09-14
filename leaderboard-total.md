@@ -1,4 +1,4 @@
-Last updated: 23-09-14 23:40:34 UTC  
+Last updated: 23-09-14 23:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -253,7 +253,7 @@ Rank | Username | Totals Tips
 250 | jamjam794 | 144,679
 251 | Doovs | 143,375
 252 | Sad_Entertainer9961 | 143,248
-253 | ItailianStallion101 | 141,078
+253 | ItailianStallion101 | 141,179
 254 | pythonskynet | 140,627
 255 | SalliIsAFem | 140,361
 256 | wato4000 | 140,272
