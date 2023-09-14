@@ -1,4 +1,4 @@
-Last updated: 23-09-14 23:01:11 UTC  
+Last updated: 23-09-14 23:18:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -24,10 +24,10 @@ Rank | Username | Totals Tips
 21 | Geniuskills | 7,579,839
 22 | Skank_cunt_42 | 7,269,825
 23 | Puddin-Luv | 7,234,946
-24 | ashinamune | 6,727,161
+24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
-27 | IveDoneItAtLast | 5,329,013
+27 | IveDoneItAtLast | 5,335,021
 28 | thelonliestcrowd | 5,259,100
 29 | Ginomania | 4,886,044
 30 | rikbona | 4,540,773
@@ -138,8 +138,8 @@ Rank | Username | Totals Tips
 135 | junkwatch | 547,724
 136 | StepAsideSuckers | 543,358
 137 | scientifichistorian | 539,560
-138 | shreyaskg | 538,211
-139 | PortCity_MadMan | 536,199
+138 | PortCity_MadMan | 538,862
+139 | shreyaskg | 538,211
 140 | doktastonks | 523,988
 141 | Successful-Walk-3902 | 518,794
 142 | adrifing | 516,494
@@ -416,17 +416,17 @@ Rank | Username | Totals Tips
 413 | sicilian2124 | 49,529
 414 | Rbmui13 | 49,245
 415 | Levl1Critter | 49,152
-416 | shredslanding | 46,650
-417 | Oue | 46,352
-418 | skatistic | 46,287
-419 | Drlitez | 45,436
-420 | SnooRevelations6751 | 45,420
-421 | NickkyDC | 45,379
-422 | tentazoc | 45,088
-423 | acfranks | 45,083
-424 | Name_Trikolon | 45,002
-425 | FalloutAssasin | 44,969
-426 | cryotosensei | 44,818
+416 | cryotosensei | 47,481
+417 | shredslanding | 46,650
+418 | Oue | 46,352
+419 | skatistic | 46,287
+420 | Drlitez | 45,436
+421 | SnooRevelations6751 | 45,420
+422 | NickkyDC | 45,379
+423 | tentazoc | 45,088
+424 | acfranks | 45,083
+425 | Name_Trikolon | 45,002
+426 | FalloutAssasin | 44,969
 427 | Lucabba | 44,738
 428 | 4gsboofd | 44,377
 429 | Kilv3r | 44,021
