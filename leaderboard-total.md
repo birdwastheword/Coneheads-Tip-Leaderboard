@@ -1,4 +1,4 @@
-Last updated: 23-09-14 09:40:25 UTC  
+Last updated: 23-09-14 09:50:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -425,7 +425,7 @@ Rank | Username | Totals Tips
 422 | tentazoc | 45,088
 423 | acfranks | 45,083
 424 | Name_Trikolon | 45,002
-425 | FalloutAssasin | 44,900
+425 | FalloutAssasin | 44,969
 426 | cryotosensei | 44,818
 427 | Lucabba | 44,738
 428 | 4gsboofd | 44,377
