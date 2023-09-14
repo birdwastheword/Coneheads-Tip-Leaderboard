@@ -1,4 +1,4 @@
-Last updated: 23-09-14 22:50:53 UTC  
+Last updated: 23-09-14 23:01:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -139,7 +139,7 @@ Rank | Username | Totals Tips
 136 | StepAsideSuckers | 543,358
 137 | scientifichistorian | 539,560
 138 | shreyaskg | 538,211
-139 | PortCity_MadMan | 533,536
+139 | PortCity_MadMan | 536,199
 140 | doktastonks | 523,988
 141 | Successful-Walk-3902 | 518,794
 142 | adrifing | 516,494
