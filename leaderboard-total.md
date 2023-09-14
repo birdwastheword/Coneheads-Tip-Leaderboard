@@ -1,4 +1,4 @@
-Last updated: 23-09-14 08:07:06 UTC  
+Last updated: 23-09-14 08:24:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,872,352
 61 | CMDRGlamdring | 1,842,888
-62 | djrcollectables | 1,823,906
+62 | djrcollectables | 1,826,569
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
 65 | Iulian_TechNewb | 1,717,148
@@ -151,8 +151,8 @@ Rank | Username | Totals Tips
 148 | WhateverAlready | 455,301
 149 | MediaPrestigious8342 | 453,839
 150 | unhingedbigfoot | 439,874
-151 | Mopeiooo | 437,268
-152 | noface_reddit | 435,047
+151 | noface_reddit | 437,710
+152 | Mopeiooo | 437,268
 153 | RazPie | 432,677
 154 | LX1070 | 430,602
 155 | Lion-Hermit | 416,210
