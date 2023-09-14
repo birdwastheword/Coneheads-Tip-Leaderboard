@@ -1,4 +1,4 @@
-Last updated: 23-09-14 17:30:44 UTC  
+Last updated: 23-09-14 17:40:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | redzrex | 4,497,171
 32 | bigbilly1234567899 | 4,496,042
 33 | birdwastheword | 4,421,038
-34 | VIVOffical | 4,320,032
+34 | VIVOffical | 4,420,032
 35 | send420nudes | 4,277,715
 36 | rustyybikes | 4,269,432
 37 | zdubs | 3,753,293
@@ -171,7 +171,7 @@ Rank | Username | Totals Tips
 168 | Outrageous-Skill-464 | 344,174
 169 | anony666mous | 341,008
 170 | tsudrat | 340,707
-171 | fettskull | 327,594
+171 | fettskull | 330,257
 172 | x52x | 324,929
 173 | EffinDrongoC | 312,738
 174 | Lastkidpicked94 | 306,122
@@ -543,8 +543,8 @@ Rank | Username | Totals Tips
 540 | Particular_Equal_490 | 22,256
 541 | deezirae | 22,203
 542 | beejbum | 22,200
-543 | Matth3w_95 | 21,820
-544 | Ninja_Vagabond | 21,605
+543 | Ninja_Vagabond | 22,025
+544 | Matth3w_95 | 21,820
 545 | DrD_D | 21,509
 546 | Flamingo777 | 21,497
 547 | Tasty_Bag | 21,384
