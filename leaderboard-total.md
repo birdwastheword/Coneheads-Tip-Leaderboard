@@ -1,4 +1,4 @@
-Last updated: 23-09-14 18:23:25 UTC  
+Last updated: 23-09-14 18:31:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 21,322,869
+7 | cutsickass | 21,352,869
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,165,306
 10 | crypto_grandma | 14,055,323
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,161
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
-27 | IveDoneItAtLast | 5,325,134
+27 | IveDoneItAtLast | 5,325,742
 28 | thelonliestcrowd | 5,259,100
 29 | Ginomania | 4,886,044
 30 | rikbona | 4,540,773
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | Own_Ad_4269 | 899,446
 96 | thee_monster | 896,765
 97 | Bobisdeadrun | 868,946
-98 | Lillica_Golden_SHIB | 828,959
+98 | Lillica_Golden_SHIB | 829,028
 99 | goldyluckinblokchain | 809,537
 100 | vbutarin | 802,000
 101 | billywright4 | 795,269
