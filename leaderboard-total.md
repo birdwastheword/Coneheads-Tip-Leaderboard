@@ -1,4 +1,4 @@
-Last updated: 23-09-14 22:18:55 UTC  
+Last updated: 23-09-14 22:30:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,823,586
 15 | Permanent_WSB_Bull | 11,022,763
-16 | SpookySYN | 9,912,948
+16 | SpookySYN | 9,966,716
 17 | 8inchConer | 8,947,619
 18 | avyun | 8,610,265
 19 | ArtConsitent | 8,533,379
@@ -287,7 +287,7 @@ Rank | Username | Totals Tips
 284 | Fox1931 | 114,000
 285 | flying_bacon | 111,929
 286 | adrefofadre | 111,817
-287 | SaberTurret | 110,351
+287 | SaberTurret | 111,567
 288 | Strong_Constant_1190 | 110,325
 289 | PushyDevolution | 110,216
 290 | Creative_Ad7831 | 110,047
