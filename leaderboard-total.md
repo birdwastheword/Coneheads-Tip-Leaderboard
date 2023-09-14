@@ -1,4 +1,4 @@
-Last updated: 23-09-14 16:01:05 UTC  
+Last updated: 23-09-14 16:24:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
 27 | IveDoneItAtLast | 5,325,134
-28 | thelonliestcrowd | 5,256,437
+28 | thelonliestcrowd | 5,259,100
 29 | Ginomania | 4,886,044
 30 | rikbona | 4,540,773
 31 | redzrex | 4,497,171
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | bray_martin03 | 3,371,598
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,128,203
-46 | DontLaughArt | 2,947,679
+46 | DontLaughArt | 2,948,287
 47 | Korean_Street_Pizza | 2,814,138
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,658,871
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | Own_Ad_4269 | 899,446
 96 | thee_monster | 896,765
 97 | Bobisdeadrun | 868,946
-98 | Lillica_Golden_SHIB | 828,752
+98 | Lillica_Golden_SHIB | 828,821
 99 | goldyluckinblokchain | 809,537
 100 | vbutarin | 802,000
 101 | billywright4 | 795,269
@@ -342,9 +342,9 @@ Rank | Username | Totals Tips
 339 | mokkingjay | 77,914
 340 | HelicopterDear6064 | 77,619
 341 | Derefringence | 77,095
-342 | SaberTurret | 75,808
-343 | Heycheckthisout20 | 75,608
-344 | shellystarzz | 75,236
+342 | shellystarzz | 75,844
+343 | SaberTurret | 75,808
+344 | Heycheckthisout20 | 75,608
 345 | MedicineMaterial3501 | 74,654
 346 | Steadfast_Apparition | 74,506
 347 | pwan7505 | 73,893
