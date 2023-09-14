@@ -1,4 +1,4 @@
-Last updated: 23-09-14 04:31:00 UTC  
+Last updated: 23-09-14 04:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 20,820,206
+7 | cutsickass | 20,910,206
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,155,307
 10 | crypto_grandma | 14,049,263
@@ -643,12 +643,12 @@ Rank | Username | Totals Tips
 640 | maurinet79 | 10,844
 641 | j9101a | 10,804
 642 | ancheli | 10,588
-643 | Straton_Conemont_Inc | 10,550
-644 | Background-Ad-2102 | 10,450
-645 | 73i1 | 10,412
-646 | Most_Border_3917 | 10,289
-647 | Gamestopisthe1 | 10,227
-648 | mimsoo777 | 10,149
+643 | mimsoo777 | 10,569
+644 | Straton_Conemont_Inc | 10,550
+645 | Background-Ad-2102 | 10,450
+646 | 73i1 | 10,412
+647 | Most_Border_3917 | 10,289
+648 | Gamestopisthe1 | 10,227
 649 | CM19901 | 10,138
 650 | z6joker9 | 10,000
 651 | Consistent_Air_7646 | 10,000
