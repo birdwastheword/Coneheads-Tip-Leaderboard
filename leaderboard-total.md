@@ -1,4 +1,4 @@
-Last updated: 23-09-14 23:18:01 UTC  
+Last updated: 23-09-14 23:30:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -137,8 +137,8 @@ Rank | Username | Totals Tips
 134 | DogSpark84 | 550,695
 135 | junkwatch | 547,724
 136 | StepAsideSuckers | 543,358
-137 | scientifichistorian | 539,560
-138 | PortCity_MadMan | 538,862
+137 | PortCity_MadMan | 541,525
+138 | scientifichistorian | 539,560
 139 | shreyaskg | 538,211
 140 | doktastonks | 523,988
 141 | Successful-Walk-3902 | 518,794
