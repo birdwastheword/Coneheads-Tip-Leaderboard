@@ -1,4 +1,4 @@
-Last updated: 23-09-14 17:06:37 UTC  
+Last updated: 23-09-14 17:22:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -254,11 +254,11 @@ Rank | Username | Totals Tips
 251 | Doovs | 143,375
 252 | Sad_Entertainer9961 | 143,248
 253 | ItailianStallion101 | 141,078
-254 | SalliIsAFem | 140,361
-255 | wato4000 | 140,272
-256 | luisantonio197 | 139,511
-257 | Legal-Appointment655 | 137,972
-258 | pythonskynet | 137,964
+254 | pythonskynet | 140,627
+255 | SalliIsAFem | 140,361
+256 | wato4000 | 140,272
+257 | luisantonio197 | 139,511
+258 | Legal-Appointment655 | 137,972
 259 | GrowinStuffAndThings | 137,461
 260 | Outrageous-Ad8481 | 137,001
 261 | Kevin3683 | 134,519
