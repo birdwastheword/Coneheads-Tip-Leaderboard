@@ -1,4 +1,4 @@
-Last updated: 23-09-14 07:40:42 UTC  
+Last updated: 23-09-14 07:50:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | GooderZBK | 1,617,267
 69 | evilninjarobot | 1,583,504
 70 | ultra_terrestrial | 1,488,707
-71 | LongCauliflower6791 | 1,462,051
+71 | LongCauliflower6791 | 1,464,714
 72 | YarOldeOrchard | 1,438,286
 73 | ValiantJudge29500 | 1,401,656
 74 | isthistomorrow_ | 1,381,135
