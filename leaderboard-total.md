@@ -1,4 +1,4 @@
-Last updated: 23-09-14 14:31:05 UTC  
+Last updated: 23-09-14 14:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,161
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
-27 | IveDoneItAtLast | 5,324,714
+27 | IveDoneItAtLast | 5,325,134
 28 | thelonliestcrowd | 5,256,437
 29 | Ginomania | 4,886,044
 30 | rikbona | 4,540,773
@@ -265,8 +265,8 @@ Rank | Username | Totals Tips
 262 | MorrisWayne | 133,416
 263 | BitCone_CONE | 133,007
 264 | GoodMornEveGoodNight | 131,088
-265 | Mj_6o4 | 129,568
-266 | Complete-Tadpole-728 | 128,390
+265 | Complete-Tadpole-728 | 131,053
+266 | Mj_6o4 | 129,568
 267 | Awake-- | 128,173
 268 | robnectar | 127,974
 269 | DeanDeanington | 127,267
