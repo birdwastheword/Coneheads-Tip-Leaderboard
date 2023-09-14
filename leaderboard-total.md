@@ -1,4 +1,4 @@
-Last updated: 23-09-14 22:30:44 UTC  
+Last updated: 23-09-14 22:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,161
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
-27 | IveDoneItAtLast | 5,325,742
+27 | IveDoneItAtLast | 5,326,350
 28 | thelonliestcrowd | 5,259,100
 29 | Ginomania | 4,886,044
 30 | rikbona | 4,540,773
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,872,352
 61 | CMDRGlamdring | 1,842,888
-62 | djrcollectables | 1,829,840
+62 | djrcollectables | 1,832,503
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
 65 | Iulian_TechNewb | 1,717,148
@@ -134,8 +134,8 @@ Rank | Username | Totals Tips
 131 | Independent_Heart_15 | 578,825
 132 | AustinTX1985 | 571,526
 133 | crodbtc | 552,908
-134 | junkwatch | 547,724
-135 | DogSpark84 | 545,140
+134 | DogSpark84 | 550,695
+135 | junkwatch | 547,724
 136 | StepAsideSuckers | 543,358
 137 | scientifichistorian | 539,560
 138 | shreyaskg | 538,211
