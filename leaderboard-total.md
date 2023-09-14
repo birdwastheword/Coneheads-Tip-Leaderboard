@@ -1,4 +1,4 @@
-Last updated: 23-09-14 16:45:31 UTC  
+Last updated: 23-09-14 16:53:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -343,7 +343,7 @@ Rank | Username | Totals Tips
 340 | HelicopterDear6064 | 77,619
 341 | Derefringence | 77,095
 342 | ASingleGuitarString | 76,455
-343 | shellystarzz | 75,844
+343 | shellystarzz | 76,452
 344 | SaberTurret | 75,808
 345 | Heycheckthisout20 | 75,608
 346 | MedicineMaterial3501 | 74,654
