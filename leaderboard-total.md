@@ -1,4 +1,4 @@
-Last updated: 23-09-14 13:50:35 UTC  
+Last updated: 23-09-14 14:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Fenrir-1919 | 2,658,871
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
-52 | ImAlekBan | 2,577,867
+52 | ImAlekBan | 2,579,204
 53 | possibili-teas | 2,399,515
 54 | Autom4tic_Soze | 2,185,057
 55 | 002_timmy | 2,059,494
@@ -139,9 +139,9 @@ Rank | Username | Totals Tips
 136 | shreyaskg | 538,211
 137 | PortCity_MadMan | 533,536
 138 | doktastonks | 523,988
-139 | Successful-Walk-3902 | 518,794
-140 | adrifing | 516,494
-141 | Own_Ad_4269 | 512,410
+139 | Own_Ad_4269 | 522,409
+140 | Successful-Walk-3902 | 518,794
+141 | adrifing | 516,494
 142 | f0n1xr131ng | 509,681
 143 | Crypto-4-Freedom | 508,176
 144 | AcceptableLeg8751 | 500,000
