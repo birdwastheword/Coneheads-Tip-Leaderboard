@@ -1,4 +1,4 @@
-Last updated: 23-09-14 06:24:32 UTC  
+Last updated: 23-09-14 06:34:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -46,13 +46,13 @@ Rank | Username | Totals Tips
 43 | bray_martin03 | 3,371,598
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,128,203
-46 | DontLaughArt | 2,939,255
+46 | DontLaughArt | 2,940,471
 47 | Korean_Street_Pizza | 2,811,475
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,658,871
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
-52 | ImAlekBan | 2,570,204
+52 | ImAlekBan | 2,572,867
 53 | possibili-teas | 2,399,515
 54 | Autom4tic_Soze | 2,185,057
 55 | 002_timmy | 2,059,494
@@ -647,17 +647,17 @@ Rank | Username | Totals Tips
 644 | Straton_Conemont_Inc | 10,550
 645 | Background-Ad-2102 | 10,450
 646 | 73i1 | 10,412
-647 | Most_Border_3917 | 10,289
-648 | Gamestopisthe1 | 10,227
-649 | CM19901 | 10,138
-650 | Consistent_Air_7646 | 10,000
-651 | LordCitrus69 | 10,000
-652 | xMikaRikax | 10,000
-653 | z6joker9 | 10,000
-654 | No-Confusion7414 | 9,959
-655 | boopcorgi | 9,923
-656 | Mrmakanakai | 9,909
-657 | stockyewok | 9,901
+647 | stockyewok | 10,321
+648 | Most_Border_3917 | 10,289
+649 | Gamestopisthe1 | 10,227
+650 | CM19901 | 10,138
+651 | Consistent_Air_7646 | 10,000
+652 | LordCitrus69 | 10,000
+653 | xMikaRikax | 10,000
+654 | z6joker9 | 10,000
+655 | No-Confusion7414 | 9,959
+656 | boopcorgi | 9,923
+657 | Mrmakanakai | 9,909
 658 | supatard44 | 9,891
 659 | J-_Mad | 9,785
 660 | Badit_01 | 9,738
