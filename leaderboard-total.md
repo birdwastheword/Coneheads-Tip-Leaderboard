@@ -1,4 +1,4 @@
-Last updated: 23-09-14 13:27:48 UTC  
+Last updated: 23-09-14 13:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | bray_martin03 | 3,371,598
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,128,203
-46 | DontLaughArt | 2,942,353
+46 | DontLaughArt | 2,945,016
 47 | Korean_Street_Pizza | 2,814,138
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,658,871
