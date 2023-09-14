@@ -1,4 +1,4 @@
-Last updated: 23-09-14 14:19:33 UTC  
+Last updated: 23-09-14 14:31:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,579,839
 22 | Skank_cunt_42 | 7,269,825
-23 | Puddin-Luv | 7,230,888
+23 | Puddin-Luv | 7,231,443
 24 | ashinamune | 6,727,161
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,872,352
 61 | CMDRGlamdring | 1,842,888
-62 | djrcollectables | 1,827,177
+62 | djrcollectables | 1,829,840
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
 65 | Iulian_TechNewb | 1,717,148
@@ -266,11 +266,11 @@ Rank | Username | Totals Tips
 263 | BitCone_CONE | 133,007
 264 | GoodMornEveGoodNight | 131,088
 265 | Mj_6o4 | 129,568
-266 | Awake-- | 128,173
-267 | robnectar | 127,974
-268 | DeanDeanington | 127,267
-269 | CalligrapherEnough83 | 127,227
-270 | Complete-Tadpole-728 | 127,130
+266 | Complete-Tadpole-728 | 128,390
+267 | Awake-- | 128,173
+268 | robnectar | 127,974
+269 | DeanDeanington | 127,267
+270 | CalligrapherEnough83 | 127,227
 271 | 192000Hertz | 125,783
 272 | Trakorr | 125,110
 273 | Sativa55555 | 121,550
