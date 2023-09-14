@@ -1,4 +1,4 @@
-Last updated: 23-09-14 05:18:50 UTC  
+Last updated: 23-09-14 05:30:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -92,21 +92,21 @@ Rank | Username | Totals Tips
 89 | EvanIsBacon | 970,416
 90 | ID404_Not_Found_8964 | 954,982
 91 | CHEROKEEJ4CK | 940,286
-92 | Forward_Today2849 | 932,405
-93 | Modestexcuse | 903,684
-94 | thee_monster | 896,765
-95 | Bobisdeadrun | 868,946
-96 | Lillica_Golden_SHIB | 827,937
-97 | goldyluckinblokchain | 809,537
-98 | vbutarin | 802,000
-99 | billywright4 | 795,269
-100 | ashketchup422 | 794,067
-101 | Cravensworth_redux | 790,803
-102 | RegalReptile_ | 790,665
-103 | Westy3000 | 785,931
-104 | ziggybri | 783,463
-105 | Alanski22 | 768,428
-106 | Allions1 | 740,163
+92 | Allions1 | 937,660
+93 | Forward_Today2849 | 932,405
+94 | Modestexcuse | 903,684
+95 | thee_monster | 896,765
+96 | Bobisdeadrun | 868,946
+97 | Lillica_Golden_SHIB | 827,937
+98 | goldyluckinblokchain | 809,537
+99 | vbutarin | 802,000
+100 | billywright4 | 795,269
+101 | ashketchup422 | 794,067
+102 | Cravensworth_redux | 790,803
+103 | RegalReptile_ | 790,665
+104 | Westy3000 | 785,931
+105 | ziggybri | 783,463
+106 | Alanski22 | 768,428
 107 | dopelifer09 | 724,394
 108 | virmamies | 721,434
 109 | starterpack420694 | 710,420
