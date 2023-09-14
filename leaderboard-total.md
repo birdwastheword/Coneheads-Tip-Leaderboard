@@ -1,4 +1,4 @@
-Last updated: 23-09-14 11:50:36 UTC  
+Last updated: 23-09-14 12:08:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 21,140,206
+7 | cutsickass | 21,142,869
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,165,306
 10 | crypto_grandma | 14,049,263
@@ -212,7 +212,7 @@ Rank | Username | Totals Tips
 209 | alexthemay | 234,131
 210 | Conetent | 222,451
 211 | Ashamed_Raccoon9918 | 219,376
-212 | Significant_Talk4943 | 218,059
+212 | Significant_Talk4943 | 219,059
 213 | SourBeefHoop | 217,512
 214 | ShortBusCult | 216,196
 215 | yahuurdme | 213,714
@@ -1003,18 +1003,18 @@ Rank | Username | Totals Tips
 1000 | eskimojerk | 606
 1001 | Professer__ | 558
 1002 | glouglas | 558
-1003 | Dare2gamer | 544
-1004 | Swordfish-Select | 543
-1005 | justthebelton | 540
-1006 | Gabba- | 520
-1007 | Right-Shopping9589 | 500
-1008 | I_forgot_my_opinion | 500
-1009 | CraigyFakeFake | 500
-1010 | Snoo_92843 | 491
-1011 | Blackskulllll | 489
-1012 | mrblazed23 | 489
-1013 | TreacleBeneficial678 | 489
-1014 | Pacaloz | 483
+1003 | Pacaloz | 552
+1004 | Dare2gamer | 544
+1005 | Swordfish-Select | 543
+1006 | justthebelton | 540
+1007 | Gabba- | 520
+1008 | Right-Shopping9589 | 500
+1009 | I_forgot_my_opinion | 500
+1010 | CraigyFakeFake | 500
+1011 | Snoo_92843 | 491
+1012 | Blackskulllll | 489
+1013 | mrblazed23 | 489
+1014 | TreacleBeneficial678 | 489
 1015 | Calm_Lemonade | 445
 1016 | mochi_ball223 | 445
 1017 | Poyal_Rines | 443
