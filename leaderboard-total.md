@@ -1,4 +1,4 @@
-Last updated: 23-09-14 09:18:34 UTC  
+Last updated: 23-09-14 09:30:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -91,7 +91,7 @@ Rank | Username | Totals Tips
 88 | CluelessSurvivor | 997,184
 89 | EvanIsBacon | 970,416
 90 | ID404_Not_Found_8964 | 954,982
-91 | Allions1 | 940,323
+91 | Allions1 | 940,392
 92 | CHEROKEEJ4CK | 940,286
 93 | Forward_Today2849 | 932,405
 94 | Modestexcuse | 903,684
@@ -256,11 +256,11 @@ Rank | Username | Totals Tips
 253 | SalliIsAFem | 140,361
 254 | wato4000 | 140,272
 255 | luisantonio197 | 139,511
-256 | Legal-Appointment655 | 137,972
-257 | pythonskynet | 137,964
-258 | GrowinStuffAndThings | 137,461
-259 | Outrageous-Ad8481 | 137,001
-260 | ItailianStallion101 | 135,348
+256 | ItailianStallion101 | 138,011
+257 | Legal-Appointment655 | 137,972
+258 | pythonskynet | 137,964
+259 | GrowinStuffAndThings | 137,461
+260 | Outrageous-Ad8481 | 137,001
 261 | Kevin3683 | 134,519
 262 | MorrisWayne | 133,416
 263 | BitCone_CONE | 133,007
@@ -389,9 +389,9 @@ Rank | Username | Totals Tips
 386 | meme_used | 58,516
 387 | Trink333 | 58,338
 388 | phrodreky | 58,122
-389 | foreignGER | 57,277
-390 | Outrageous_Storm6537 | 56,938
-391 | CryptoScamee42069 | 56,797
+389 | CryptoScamee42069 | 57,405
+390 | foreignGER | 57,277
+391 | Outrageous_Storm6537 | 56,938
 392 | ProfessionalIcy6456 | 56,380
 393 | chuloreddit | 55,878
 394 | imbarrydylan | 55,689
