@@ -1,4 +1,4 @@
-Last updated: 23-09-14 08:33:27 UTC  
+Last updated: 23-09-14 08:41:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -602,9 +602,9 @@ Rank | Username | Totals Tips
 599 | couchguitar | 13,330
 600 | zahrawins | 13,329
 601 | Diamond_Hands420 | 13,277
-602 | rare1994 | 13,069
-603 | AdinaEspada | 12,997
-604 | ShadowKnight324 | 12,977
+602 | ShadowKnight324 | 13,077
+603 | rare1994 | 13,069
+604 | AdinaEspada | 12,997
 605 | seamonkey420 | 12,906
 606 | Artistic-Quit-3311 | 12,851
 607 | Boggess | 12,784
