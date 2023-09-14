@@ -1,4 +1,4 @@
-Last updated: 23-09-14 18:01:02 UTC  
+Last updated: 23-09-14 18:23:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 21,292,869
+7 | cutsickass | 21,322,869
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,165,306
 10 | crypto_grandma | 14,055,323
@@ -31,12 +31,12 @@ Rank | Username | Totals Tips
 28 | thelonliestcrowd | 5,259,100
 29 | Ginomania | 4,886,044
 30 | rikbona | 4,540,773
-31 | VIVOffical | 4,520,032
+31 | VIVOffical | 4,528,092
 32 | redzrex | 4,497,171
 33 | bigbilly1234567899 | 4,496,042
 34 | birdwastheword | 4,421,038
 35 | send420nudes | 4,277,715
-36 | rustyybikes | 4,269,432
+36 | rustyybikes | 4,269,852
 37 | zdubs | 3,753,293
 38 | thom_orrow | 3,727,432
 39 | clean_cut89 | 3,713,476
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | Mundane-Farm-4117 | 1,723,613
 65 | Iulian_TechNewb | 1,717,148
 66 | Ten-Mins-Late | 1,707,793
-67 | KONGXIANG | 1,694,738
+67 | KONGXIANG | 1,707,400
 68 | GooderZBK | 1,617,267
 69 | evilninjarobot | 1,583,504
 70 | ultra_terrestrial | 1,488,707
@@ -262,10 +262,10 @@ Rank | Username | Totals Tips
 259 | GrowinStuffAndThings | 137,461
 260 | Outrageous-Ad8481 | 137,001
 261 | Kevin3683 | 134,519
-262 | MorrisWayne | 133,416
-263 | BitCone_CONE | 133,007
-264 | GoodMornEveGoodNight | 131,088
-265 | Complete-Tadpole-728 | 131,053
+262 | Complete-Tadpole-728 | 133,716
+263 | MorrisWayne | 133,416
+264 | BitCone_CONE | 133,007
+265 | GoodMornEveGoodNight | 131,088
 266 | Mj_6o4 | 129,568
 267 | Awake-- | 128,173
 268 | robnectar | 127,974
