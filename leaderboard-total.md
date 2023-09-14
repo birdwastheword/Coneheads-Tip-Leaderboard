@@ -1,4 +1,4 @@
-Last updated: 23-09-14 10:50:33 UTC  
+Last updated: 23-09-14 11:00:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Fenrir-1919 | 2,658,871
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
-52 | ImAlekBan | 2,572,867
+52 | ImAlekBan | 2,577,867
 53 | possibili-teas | 2,399,515
 54 | Autom4tic_Soze | 2,185,057
 55 | 002_timmy | 2,059,494
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | GooderZBK | 1,617,267
 69 | evilninjarobot | 1,583,504
 70 | ultra_terrestrial | 1,488,707
-71 | LongCauliflower6791 | 1,477,059
+71 | LongCauliflower6791 | 1,479,722
 72 | YarOldeOrchard | 1,438,286
 73 | ValiantJudge29500 | 1,401,656
 74 | isthistomorrow_ | 1,381,135
