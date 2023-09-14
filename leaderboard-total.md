@@ -1,4 +1,4 @@
-Last updated: 23-09-14 02:33:37 UTC  
+Last updated: 23-09-14 02:42:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | cutsickass | 20,820,206
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,152,644
-10 | crypto_grandma | 13,816,940
+10 | crypto_grandma | 14,049,263
 11 | transfermymoons | 13,386,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
@@ -21,9 +21,9 @@ Rank | Username | Totals Tips
 18 | avyun | 8,540,845
 19 | ArtConsitent | 8,533,379
 20 | Homeslicekilla | 7,998,462
-21 | Skank_cunt_42 | 7,269,825
-22 | Puddin-Luv | 7,230,888
-23 | Geniuskills | 6,882,870
+21 | Geniuskills | 7,579,839
+22 | Skank_cunt_42 | 7,269,825
+23 | Puddin-Luv | 7,230,888
 24 | ashinamune | 6,727,161
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
@@ -270,9 +270,9 @@ Rank | Username | Totals Tips
 267 | robnectar | 127,974
 268 | DeanDeanington | 127,267
 269 | CalligrapherEnough83 | 127,227
-270 | 192000Hertz | 125,783
-271 | Trakorr | 125,110
-272 | Complete-Tadpole-728 | 123,207
+270 | Complete-Tadpole-728 | 125,870
+271 | 192000Hertz | 125,783
+272 | Trakorr | 125,110
 273 | Sativa55555 | 121,550
 274 | stupidcupid112 | 121,421
 275 | lucivaryas | 121,420
