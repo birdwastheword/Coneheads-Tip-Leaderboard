@@ -1,4 +1,4 @@
-Last updated: 23-09-14 11:32:24 UTC  
+Last updated: 23-09-14 11:40:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -97,13 +97,13 @@ Rank | Username | Totals Tips
 94 | Modestexcuse | 903,684
 95 | thee_monster | 896,765
 96 | Bobisdeadrun | 868,946
-97 | Lillica_Golden_SHIB | 828,683
+97 | Lillica_Golden_SHIB | 828,752
 98 | goldyluckinblokchain | 809,537
 99 | vbutarin | 802,000
 100 | billywright4 | 795,269
 101 | ashketchup422 | 794,067
 102 | Cravensworth_redux | 790,803
-103 | RegalReptile_ | 790,665
+103 | RegalReptile_ | 790,766
 104 | Westy3000 | 785,931
 105 | ziggybri | 783,463
 106 | Alanski22 | 768,428
