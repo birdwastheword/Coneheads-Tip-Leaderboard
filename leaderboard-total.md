@@ -1,4 +1,4 @@
-Last updated: 23-09-14 06:42:49 UTC  
+Last updated: 23-09-14 06:51:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -564,7 +564,7 @@ Rank | Username | Totals Tips
 561 | ___MOM___ | 18,853
 562 | masterassassin93 | 18,409
 563 | subredditlurker69 | 18,332
-564 | Styl_Ianos_ | 18,256
+564 | Styl_Ianos_ | 18,264
 565 | Collectibl3 | 18,024
 566 | augustsIippedaway | 17,739
 567 | PRYCDaddy | 17,718
