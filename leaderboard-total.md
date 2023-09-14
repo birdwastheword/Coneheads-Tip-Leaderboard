@@ -1,4 +1,4 @@
-Last updated: 23-09-14 15:40:38 UTC  
+Last updated: 23-09-14 15:50:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -205,8 +205,8 @@ Rank | Username | Totals Tips
 202 | Gregoryonetulum | 249,309
 203 | BeardedBro_ | 248,627
 204 | joeviani | 241,717
-205 | TubeNerd92 | 237,829
-206 | the_judge_168 | 237,749
+205 | the_judge_168 | 240,412
+206 | TubeNerd92 | 237,829
 207 | MuhSound | 235,724
 208 | Zalkwalker | 235,069
 209 | alexthemay | 234,131
