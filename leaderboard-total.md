@@ -1,4 +1,4 @@
-Last updated: 23-09-14 08:50:46 UTC  
+Last updated: 23-09-14 09:01:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,872,352
 61 | CMDRGlamdring | 1,842,888
-62 | djrcollectables | 1,826,569
+62 | djrcollectables | 1,827,177
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
 65 | Iulian_TechNewb | 1,717,148
@@ -642,12 +642,12 @@ Rank | Username | Totals Tips
 639 | Zealousideal-War6206 | 10,905
 640 | maurinet79 | 10,844
 641 | j9101a | 10,804
-642 | ancheli | 10,588
-643 | mimsoo777 | 10,569
-644 | Straton_Conemont_Inc | 10,550
-645 | Background-Ad-2102 | 10,450
-646 | 73i1 | 10,412
-647 | stockyewok | 10,321
+642 | stockyewok | 10,741
+643 | ancheli | 10,588
+644 | mimsoo777 | 10,569
+645 | Straton_Conemont_Inc | 10,550
+646 | Background-Ad-2102 | 10,450
+647 | 73i1 | 10,412
 648 | Most_Border_3917 | 10,289
 649 | Gamestopisthe1 | 10,227
 650 | CM19901 | 10,138
