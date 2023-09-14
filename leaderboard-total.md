@@ -1,4 +1,4 @@
-Last updated: 23-09-14 18:31:42 UTC  
+Last updated: 23-09-14 18:40:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,823,586
 15 | Permanent_WSB_Bull | 11,022,763
-16 | SpookySYN | 9,286,318
+16 | SpookySYN | 9,912,948
 17 | 8inchConer | 8,947,619
 18 | avyun | 8,610,265
 19 | ArtConsitent | 8,533,379
@@ -260,9 +260,9 @@ Rank | Username | Totals Tips
 257 | luisantonio197 | 139,511
 258 | Legal-Appointment655 | 137,972
 259 | GrowinStuffAndThings | 137,461
-260 | Outrageous-Ad8481 | 137,001
-261 | Kevin3683 | 134,519
-262 | Complete-Tadpole-728 | 133,716
+260 | Complete-Tadpole-728 | 137,219
+261 | Outrageous-Ad8481 | 137,001
+262 | Kevin3683 | 134,519
 263 | MorrisWayne | 133,416
 264 | BitCone_CONE | 133,007
 265 | GoodMornEveGoodNight | 131,088
@@ -287,19 +287,19 @@ Rank | Username | Totals Tips
 284 | Fox1931 | 114,000
 285 | flying_bacon | 111,929
 286 | adrefofadre | 111,817
-287 | Strong_Constant_1190 | 110,325
-288 | PushyDevolution | 110,216
-289 | Creative_Ad7831 | 110,047
-290 | jurgensdapimp | 108,535
-291 | Jadenindubai | 107,206
-292 | Jlt42000 | 107,091
-293 | AD_VICTORIAM_x | 106,876
-294 | i_wake_up_at_12 | 106,333
-295 | redditinchina | 105,444
-296 | Chanyuui1 | 104,940
-297 | deathtr0 | 103,801
-298 | Chill_Edoeard | 102,923
-299 | SaberTurret | 101,871
+287 | SaberTurret | 110,351
+288 | Strong_Constant_1190 | 110,325
+289 | PushyDevolution | 110,216
+290 | Creative_Ad7831 | 110,047
+291 | jurgensdapimp | 108,535
+292 | Jadenindubai | 107,206
+293 | Jlt42000 | 107,091
+294 | AD_VICTORIAM_x | 106,876
+295 | i_wake_up_at_12 | 106,333
+296 | redditinchina | 105,444
+297 | Chanyuui1 | 104,940
+298 | deathtr0 | 103,801
+299 | Chill_Edoeard | 102,923
 300 | diamondbored | 101,375
 301 | Nxnng | 101,195
 302 | ACorDC | 100,420
