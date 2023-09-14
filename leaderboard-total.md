@@ -1,4 +1,4 @@
-Last updated: 23-09-14 11:15:47 UTC  
+Last updated: 23-09-14 11:23:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,161
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
-27 | IveDoneItAtLast | 5,324,645
+27 | IveDoneItAtLast | 5,324,714
 28 | thelonliestcrowd | 5,256,437
 29 | Ginomania | 4,883,411
 30 | rikbona | 4,540,773
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | 002_timmy | 2,059,494
 56 | 0-Give-a-fucks | 1,995,501
 57 | Affectionate_Hand_76 | 1,967,252
-58 | swampyswede | 1,947,407
+58 | swampyswede | 1,948,037
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,872,352
 61 | CMDRGlamdring | 1,842,888
@@ -253,10 +253,10 @@ Rank | Username | Totals Tips
 250 | jamjam794 | 144,679
 251 | Doovs | 143,375
 252 | Sad_Entertainer9961 | 143,248
-253 | SalliIsAFem | 140,361
-254 | wato4000 | 140,272
-255 | luisantonio197 | 139,511
-256 | ItailianStallion101 | 138,011
+253 | ItailianStallion101 | 140,674
+254 | SalliIsAFem | 140,361
+255 | wato4000 | 140,272
+256 | luisantonio197 | 139,511
 257 | Legal-Appointment655 | 137,972
 258 | pythonskynet | 137,964
 259 | GrowinStuffAndThings | 137,461
@@ -797,22 +797,22 @@ Rank | Username | Totals Tips
 794 | Puzzleheaded_Popup | 4,000
 795 | Soil_Electronic | 3,975
 796 | Dreadaussie | 3,920
-797 | carsonthecarsinogen | 3,769
-798 | salt_yaf | 3,706
-799 | Torporific1 | 3,663
-800 | Gelato_33 | 3,628
-801 | TSC4 | 3,600
-802 | _echnaton | 3,504
-803 | raulcras5 | 3,502
-804 | WeaselJCD | 3,434
-805 | Medfried | 3,421
-806 | Mrcoolguynumberone | 3,420
-807 | SoulUrgeDestiny | 3,409
-808 | Microgamers | 3,408
-809 | n1ghsthade | 3,378
-810 | Riviera20 | 3,370
-811 | elksteaksdmt | 3,359
-812 | OisinT | 3,359
+797 | OisinT | 3,779
+798 | carsonthecarsinogen | 3,769
+799 | salt_yaf | 3,706
+800 | Torporific1 | 3,663
+801 | Gelato_33 | 3,628
+802 | TSC4 | 3,600
+803 | _echnaton | 3,504
+804 | raulcras5 | 3,502
+805 | WeaselJCD | 3,434
+806 | Medfried | 3,421
+807 | Mrcoolguynumberone | 3,420
+808 | SoulUrgeDestiny | 3,409
+809 | Microgamers | 3,408
+810 | n1ghsthade | 3,378
+811 | Riviera20 | 3,370
+812 | elksteaksdmt | 3,359
 813 | superficialization | 3,326
 814 | JJJaxMax | 3,325
 815 | ineedmoney2023 | 3,307
