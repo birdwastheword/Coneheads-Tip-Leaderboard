@@ -1,4 +1,4 @@
-Last updated: 23-09-14 09:01:03 UTC  
+Last updated: 23-09-14 09:18:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 21,080,206
+7 | cutsickass | 21,110,206
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,165,306
 10 | crypto_grandma | 14,049,263
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,161
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
-27 | IveDoneItAtLast | 5,321,817
+27 | IveDoneItAtLast | 5,324,645
 28 | thelonliestcrowd | 5,256,437
 29 | Ginomania | 4,883,411
 30 | rikbona | 4,540,773
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | GooderZBK | 1,617,267
 69 | evilninjarobot | 1,583,504
 70 | ultra_terrestrial | 1,488,707
-71 | LongCauliflower6791 | 1,464,714
+71 | LongCauliflower6791 | 1,477,059
 72 | YarOldeOrchard | 1,438,286
 73 | ValiantJudge29500 | 1,401,656
 74 | isthistomorrow_ | 1,381,135
@@ -211,7 +211,7 @@ Rank | Username | Totals Tips
 208 | Zalkwalker | 235,069
 209 | alexthemay | 234,131
 210 | Conetent | 222,451
-211 | Ashamed_Raccoon9918 | 219,307
+211 | Ashamed_Raccoon9918 | 219,376
 212 | Significant_Talk4943 | 217,639
 213 | SourBeefHoop | 217,512
 214 | ShortBusCult | 216,196
@@ -260,10 +260,10 @@ Rank | Username | Totals Tips
 257 | pythonskynet | 137,964
 258 | GrowinStuffAndThings | 137,461
 259 | Outrageous-Ad8481 | 137,001
-260 | Kevin3683 | 134,519
-261 | MorrisWayne | 133,416
-262 | BitCone_CONE | 133,007
-263 | ItailianStallion101 | 132,685
+260 | ItailianStallion101 | 135,348
+261 | Kevin3683 | 134,519
+262 | MorrisWayne | 133,416
+263 | BitCone_CONE | 133,007
 264 | GoodMornEveGoodNight | 131,088
 265 | Mj_6o4 | 129,568
 266 | Awake-- | 128,173
