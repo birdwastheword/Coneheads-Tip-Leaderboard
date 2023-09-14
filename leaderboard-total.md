@@ -1,4 +1,4 @@
-Last updated: 23-09-14 02:50:35 UTC  
+Last updated: 23-09-14 03:01:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,090,371
@@ -376,9 +376,9 @@ Rank | Username | Totals Tips
 373 | Emeritux | 63,020
 374 | netnemirepxE | 62,645
 375 | meth43 | 62,596
-376 | TheD1ceMan | 60,541
-377 | lucrica | 59,987
-378 | Significant-Bet5762 | 59,825
+376 | Significant-Bet5762 | 62,488
+377 | TheD1ceMan | 60,541
+378 | lucrica | 59,987
 379 | Dboythegreat | 59,726
 380 | Big-Ticket1506 | 59,666
 381 | Atorcran | 59,506
