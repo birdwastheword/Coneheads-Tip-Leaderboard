@@ -1,4 +1,4 @@
-Last updated: 23-09-15 02:27:00 UTC  
+Last updated: 23-09-15 02:35:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,826,857
 15 | Permanent_WSB_Bull | 11,022,763
-16 | SpookySYN | 9,966,716
+16 | SpookySYN | 9,993,346
 17 | 8inchConer | 8,947,619
 18 | avyun | 8,610,265
 19 | ArtConsitent | 8,533,379
@@ -113,7 +113,7 @@ Rank | Username | Totals Tips
 110 | starterpack420694 | 710,420
 111 | WarmIyWacky | 703,049
 112 | formidable-opponent | 702,719
-113 | frickdom | 699,926
+113 | frickdom | 702,589
 114 | Obi1eyeKenobi | 698,842
 115 | Starterpack69420 | 696,969
 116 | abracadabra087 | 694,465
@@ -256,8 +256,8 @@ Rank | Username | Totals Tips
 253 | ItailianStallion101 | 141,179
 254 | pythonskynet | 140,627
 255 | SalliIsAFem | 140,361
-256 | wato4000 | 140,272
-257 | Complete-Tadpole-728 | 139,882
+256 | Complete-Tadpole-728 | 140,302
+257 | wato4000 | 140,272
 258 | luisantonio197 | 139,511
 259 | Legal-Appointment655 | 137,972
 260 | GrowinStuffAndThings | 137,461
