@@ -1,4 +1,4 @@
-Last updated: 23-09-15 06:24:18 UTC  
+Last updated: 23-09-15 06:34:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -88,11 +88,11 @@ Rank | Username | Totals Tips
 85 | freechickens | 1,028,455
 86 | avatarbot | 1,027,000
 87 | UniversalNoobMaster | 1,014,402
-88 | WarmBiertje | 1,000,000
-89 | CluelessSurvivor | 997,184
-90 | EvanIsBacon | 970,416
-91 | ID404_Not_Found_8964 | 954,982
-92 | Allions1 | 940,392
+88 | Allions1 | 1,000,461
+89 | WarmBiertje | 1,000,000
+90 | CluelessSurvivor | 997,184
+91 | EvanIsBacon | 970,416
+92 | ID404_Not_Found_8964 | 954,982
 93 | CHEROKEEJ4CK | 940,286
 94 | Forward_Today2849 | 932,405
 95 | Modestexcuse | 903,684
