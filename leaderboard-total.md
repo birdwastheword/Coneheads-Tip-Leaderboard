@@ -1,4 +1,4 @@
-Last updated: 23-09-15 05:30:52 UTC  
+Last updated: 23-09-15 05:40:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 21,862,869
+7 | cutsickass | 21,892,869
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,182,199
 10 | crypto_grandma | 14,057,986
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,128,203
 46 | DontLaughArt | 3,064,305
-47 | Korean_Street_Pizza | 2,814,207
+47 | Korean_Street_Pizza | 2,816,870
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,658,871
 50 | ZoomLong | 2,641,251
@@ -82,20 +82,20 @@ Rank | Username | Totals Tips
 79 | Richicash | 1,231,855
 80 | HestiaIsTheBestia | 1,188,046
 81 | Feetfailmenot | 1,170,705
-82 | Hot_Potato_Salad | 1,147,558
-83 | beastlybaker | 1,138,701
-84 | freechickens | 1,028,455
-85 | avatarbot | 1,027,000
-86 | UniversalNoobMaster | 1,014,402
-87 | WarmBiertje | 1,000,000
-88 | CluelessSurvivor | 997,184
-89 | EvanIsBacon | 970,416
-90 | ID404_Not_Found_8964 | 954,982
-91 | Allions1 | 940,392
-92 | CHEROKEEJ4CK | 940,286
-93 | Forward_Today2849 | 932,405
-94 | Modestexcuse | 903,684
-95 | Own_Ad_4269 | 899,449
+82 | Own_Ad_4269 | 1,150,448
+83 | Hot_Potato_Salad | 1,147,558
+84 | beastlybaker | 1,138,701
+85 | freechickens | 1,028,455
+86 | avatarbot | 1,027,000
+87 | UniversalNoobMaster | 1,014,402
+88 | WarmBiertje | 1,000,000
+89 | CluelessSurvivor | 997,184
+90 | EvanIsBacon | 970,416
+91 | ID404_Not_Found_8964 | 954,982
+92 | Allions1 | 940,392
+93 | CHEROKEEJ4CK | 940,286
+94 | Forward_Today2849 | 932,405
+95 | Modestexcuse | 903,684
 96 | thee_monster | 896,765
 97 | Bobisdeadrun | 868,946
 98 | Lillica_Golden_SHIB | 829,028
