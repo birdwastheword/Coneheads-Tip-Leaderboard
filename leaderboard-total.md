@@ -1,4 +1,4 @@
-Last updated: 23-09-15 05:00:55 UTC  
+Last updated: 23-09-15 05:18:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -134,7 +134,7 @@ Rank | Username | Totals Tips
 131 | Independent_Heart_15 | 578,825
 132 | AustinTX1985 | 571,526
 133 | crodbtc | 562,908
-134 | DogSpark84 | 550,695
+134 | DogSpark84 | 551,303
 135 | junkwatch | 547,724
 136 | PortCity_MadMan | 546,851
 137 | StepAsideSuckers | 543,358
@@ -155,7 +155,7 @@ Rank | Username | Totals Tips
 152 | Dripbot8 | 439,035
 153 | noface_reddit | 437,710
 154 | Mopeiooo | 437,268
-155 | RazPie | 432,677
+155 | RazPie | 435,340
 156 | LX1070 | 430,602
 157 | Lion-Hermit | 416,210
 158 | dronegeeks1 | 414,406
@@ -283,7 +283,7 @@ Rank | Username | Totals Tips
 280 | mvea | 115,748
 281 | xSkyFa11x | 114,768
 282 | AlternativeBag2619 | 114,483
-283 | beanwiggin420 | 114,076
+283 | beanwiggin420 | 114,145
 284 | Fox1931 | 114,000
 285 | flying_bacon | 111,929
 286 | adrefofadre | 111,817
