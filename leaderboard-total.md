@@ -1,4 +1,4 @@
-Last updated: 23-09-15 13:50:37 UTC  
+Last updated: 23-09-15 14:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | redzrex | 4,497,171
 33 | bigbilly1234567899 | 4,496,042
 34 | birdwastheword | 4,421,038
-35 | send420nudes | 4,294,791
+35 | send420nudes | 4,299,060
 36 | rustyybikes | 4,270,272
 37 | zdubs | 3,756,891
 38 | thom_orrow | 3,734,341
@@ -426,13 +426,13 @@ Rank | Username | Totals Tips
 423 | Oue | 46,352
 424 | skatistic | 46,287
 425 | Truffle_Shuffle_85 | 45,978
-426 | Drlitez | 45,436
-427 | SnooRevelations6751 | 45,420
-428 | NickkyDC | 45,379
-429 | tentazoc | 45,088
-430 | acfranks | 45,083
-431 | Name_Trikolon | 45,002
-432 | FalloutAssasin | 44,969
+426 | FalloutAssasin | 45,458
+427 | Drlitez | 45,436
+428 | SnooRevelations6751 | 45,420
+429 | NickkyDC | 45,379
+430 | tentazoc | 45,088
+431 | acfranks | 45,083
+432 | Name_Trikolon | 45,002
 433 | Lucabba | 44,738
 434 | Kilv3r | 44,021
 435 | Coneboy2663 | 43,852
