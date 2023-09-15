@@ -1,4 +1,4 @@
-Last updated: 23-09-15 08:23:25 UTC  
+Last updated: 23-09-15 08:32:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -220,8 +220,8 @@ Rank | Username | Totals Tips
 217 | Beenthorny | 212,362
 218 | SigSalvadore | 212,358
 219 | UWphoto | 210,892
-220 | Esco1980 | 204,434
-221 | Most_Being_4002 | 204,332
+220 | Most_Being_4002 | 204,752
+221 | Esco1980 | 204,434
 222 | Heclalava | 203,538
 223 | ziggyback | 203,369
 224 | rolonic | 198,866
@@ -252,10 +252,10 @@ Rank | Username | Totals Tips
 249 | satoshi_oscar_wilde | 150,072
 250 | BitcoinRefuge | 148,181
 251 | jamjam794 | 144,679
-252 | Doovs | 143,375
-253 | pythonskynet | 143,290
-254 | Sad_Entertainer9961 | 143,248
-255 | Complete-Tadpole-728 | 141,562
+252 | Complete-Tadpole-728 | 144,225
+253 | Doovs | 143,375
+254 | pythonskynet | 143,290
+255 | Sad_Entertainer9961 | 143,248
 256 | ItailianStallion101 | 141,179
 257 | SalliIsAFem | 140,361
 258 | wato4000 | 140,272
