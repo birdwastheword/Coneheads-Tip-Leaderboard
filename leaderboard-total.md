@@ -1,4 +1,4 @@
-Last updated: 23-09-15 05:18:44 UTC  
+Last updated: 23-09-15 05:30:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 21,862,869
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,181,591
+9 | _ships | 17,182,199
 10 | crypto_grandma | 14,057,986
 11 | transfermymoons | 13,386,858
 12 | HODL-THE-LINE | 12,469,181
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | CHEROKEEJ4CK | 940,286
 93 | Forward_Today2849 | 932,405
 94 | Modestexcuse | 903,684
-95 | Own_Ad_4269 | 899,446
+95 | Own_Ad_4269 | 899,449
 96 | thee_monster | 896,765
 97 | Bobisdeadrun | 868,946
 98 | Lillica_Golden_SHIB | 829,028
@@ -211,7 +211,7 @@ Rank | Username | Totals Tips
 208 | Zalkwalker | 235,069
 209 | alexthemay | 234,131
 210 | Conetent | 222,451
-211 | Ashamed_Raccoon9918 | 219,376
+211 | Ashamed_Raccoon9918 | 219,445
 212 | Significant_Talk4943 | 219,059
 213 | SourBeefHoop | 217,512
 214 | ShortBusCult | 216,196
