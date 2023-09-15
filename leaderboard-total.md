@@ -1,4 +1,4 @@
-Last updated: 23-09-15 14:40:31 UTC  
+Last updated: 23-09-15 14:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -128,7 +128,7 @@ Rank | Username | Totals Tips
 125 | femacampcouncilor | 645,475
 126 | nichnotnick | 644,759
 127 | slirpo | 631,180
-128 | Successful-Walk-3902 | 618,794
+128 | Successful-Walk-3902 | 620,010
 129 | superlonelyboy | 611,557
 130 | __PDS__ | 595,709
 131 | El_Gordone | 592,784
@@ -252,7 +252,7 @@ Rank | Username | Totals Tips
 249 | martymartinator | 155,223
 250 | ItailianStallion101 | 154,595
 251 | 6reficul | 153,884
-252 | Complete-Tadpole-728 | 153,148
+252 | Complete-Tadpole-728 | 153,568
 253 | NotFullyTerrestrial | 151,302
 254 | satoshi_oscar_wilde | 150,072
 255 | BitcoinRefuge | 148,181
@@ -983,14 +983,14 @@ Rank | Username | Totals Tips
 980 | Yegpetphoto | 825
 981 | brymezHD | 769
 982 | pulse2017 | 759
-983 | Ge_n0 | 729
-984 | johnnyb0083 | 727
-985 | SufficientNet9227 | 711
-986 | o_LUCIFER_o | 709
-987 | daigsischt | 696
-988 | TheNano100 | 696
-989 | Mysterious-Heart-459 | 696
-990 | WriterMcWriterly | 690
+983 | WriterMcWriterly | 759
+984 | Ge_n0 | 729
+985 | johnnyb0083 | 727
+986 | SufficientNet9227 | 711
+987 | o_LUCIFER_o | 709
+988 | daigsischt | 696
+989 | TheNano100 | 696
+990 | Mysterious-Heart-459 | 696
 991 | Indisciplinato | 677
 992 | Troll_humper | 665
 993 | Big_Count_6042 | 633
