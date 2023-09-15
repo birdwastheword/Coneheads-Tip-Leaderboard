@@ -1,4 +1,4 @@
-Last updated: 23-09-15 14:18:42 UTC  
+Last updated: 23-09-15 14:30:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -61,8 +61,8 @@ Rank | Username | Totals Tips
 58 | swampyswede | 1,948,457
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,872,352
-61 | CMDRGlamdring | 1,845,551
-62 | djrcollectables | 1,840,492
+61 | CMDRGlamdring | 1,872,181
+62 | djrcollectables | 1,843,155
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
 65 | Iulian_TechNewb | 1,717,148
@@ -990,12 +990,12 @@ Rank | Username | Totals Tips
 987 | daigsischt | 696
 988 | TheNano100 | 696
 989 | Mysterious-Heart-459 | 696
-990 | Indisciplinato | 677
-991 | Troll_humper | 665
-992 | Big_Count_6042 | 633
-993 | Avatar_Degen | 627
-994 | pelaguras | 627
-995 | WriterMcWriterly | 621
+990 | WriterMcWriterly | 690
+991 | Indisciplinato | 677
+992 | Troll_humper | 665
+993 | Big_Count_6042 | 633
+994 | Avatar_Degen | 627
+995 | pelaguras | 627
 996 | QualcunoCF | 620
 997 | JaJaJaNVM | 608
 998 | barbiescorvette | 608
