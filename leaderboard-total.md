@@ -1,4 +1,4 @@
-Last updated: 23-09-15 03:50:37 UTC  
+Last updated: 23-09-15 04:01:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 21,352,869
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,178,928
+9 | _ships | 17,181,591
 10 | crypto_grandma | 14,057,986
 11 | transfermymoons | 13,386,858
 12 | HODL-THE-LINE | 12,469,181
@@ -99,15 +99,15 @@ Rank | Username | Totals Tips
 96 | thee_monster | 896,765
 97 | Bobisdeadrun | 868,946
 98 | Lillica_Golden_SHIB | 829,028
-99 | goldyluckinblokchain | 809,537
-100 | vbutarin | 802,000
-101 | billywright4 | 795,269
-102 | ashketchup422 | 794,067
-103 | Cravensworth_redux | 790,803
-104 | RegalReptile_ | 790,766
-105 | Westy3000 | 785,931
-106 | ziggybri | 783,463
-107 | Alanski22 | 773,754
+99 | Alanski22 | 823,754
+100 | goldyluckinblokchain | 809,537
+101 | vbutarin | 802,000
+102 | billywright4 | 795,269
+103 | ashketchup422 | 794,067
+104 | Cravensworth_redux | 790,803
+105 | RegalReptile_ | 790,766
+106 | Westy3000 | 785,931
+107 | ziggybri | 783,463
 108 | dopelifer09 | 727,057
 109 | virmamies | 721,434
 110 | starterpack420694 | 710,420
