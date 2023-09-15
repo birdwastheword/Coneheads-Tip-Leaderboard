@@ -1,4 +1,4 @@
-Last updated: 23-09-15 10:50:40 UTC  
+Last updated: 23-09-15 11:01:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | redzrex | 4,497,171
 33 | bigbilly1234567899 | 4,496,042
 34 | birdwastheword | 4,421,038
-35 | send420nudes | 4,290,522
+35 | send420nudes | 4,294,791
 36 | rustyybikes | 4,270,272
 37 | zdubs | 3,756,891
 38 | thom_orrow | 3,727,432
@@ -288,11 +288,11 @@ Rank | Username | Totals Tips
 285 | mvea | 115,748
 286 | xSkyFa11x | 114,768
 287 | AlternativeBag2619 | 114,483
-288 | beanwiggin420 | 114,145
-289 | Fox1931 | 114,000
-290 | flying_bacon | 111,929
-291 | adrefofadre | 111,817
-292 | SaberTurret | 111,567
+288 | SaberTurret | 114,230
+289 | beanwiggin420 | 114,145
+290 | Fox1931 | 114,000
+291 | flying_bacon | 111,929
+292 | adrefofadre | 111,817
 293 | Strong_Constant_1190 | 110,325
 294 | PushyDevolution | 110,216
 295 | Creative_Ad7831 | 110,047
@@ -994,17 +994,17 @@ Rank | Username | Totals Tips
 991 | Big_Count_6042 | 633
 992 | Avatar_Degen | 627
 993 | pelaguras | 627
-994 | QualcunoCF | 620
-995 | JaJaJaNVM | 608
-996 | barbiescorvette | 608
-997 | iiCollinHD | 608
-998 | liquidlesspaper | 608
-999 | snek_oil_ | 607
-1000 | eskimojerk | 606
-1001 | Professer__ | 558
-1002 | glouglas | 558
-1003 | Pacaloz | 552
-1004 | WriterMcWriterly | 552
+994 | WriterMcWriterly | 621
+995 | QualcunoCF | 620
+996 | JaJaJaNVM | 608
+997 | barbiescorvette | 608
+998 | iiCollinHD | 608
+999 | liquidlesspaper | 608
+1000 | snek_oil_ | 607
+1001 | eskimojerk | 606
+1002 | Professer__ | 558
+1003 | glouglas | 558
+1004 | Pacaloz | 552
 1005 | Dare2gamer | 544
 1006 | Swordfish-Select | 543
 1007 | justthebelton | 540
