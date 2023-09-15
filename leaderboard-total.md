@@ -1,4 +1,4 @@
-Last updated: 23-09-15 12:08:43 UTC  
+Last updated: 23-09-15 12:41:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,579,839
 22 | Skank_cunt_42 | 7,269,825
-23 | Puddin-Luv | 7,240,272
+23 | Puddin-Luv | 7,240,692
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
@@ -95,10 +95,10 @@ Rank | Username | Totals Tips
 92 | ID404_Not_Found_8964 | 954,982
 93 | CHEROKEEJ4CK | 940,286
 94 | Forward_Today2849 | 932,405
-95 | Modestexcuse | 903,684
-96 | thee_monster | 896,765
-97 | Bobisdeadrun | 868,946
-98 | Lillica_Golden_SHIB | 829,373
+95 | Lillica_Golden_SHIB | 929,373
+96 | Modestexcuse | 903,684
+97 | thee_monster | 896,765
+98 | Bobisdeadrun | 868,946
 99 | Alanski22 | 823,754
 100 | goldyluckinblokchain | 809,537
 101 | vbutarin | 802,000
@@ -137,7 +137,7 @@ Rank | Username | Totals Tips
 134 | AustinTX1985 | 571,526
 135 | crodbtc | 562,908
 136 | DogSpark84 | 551,303
-137 | PortCity_MadMan | 546,851
+137 | PortCity_MadMan | 549,520
 138 | StepAsideSuckers | 543,358
 139 | scientifichistorian | 539,560
 140 | shreyaskg | 538,211
@@ -251,7 +251,7 @@ Rank | Username | Totals Tips
 248 | Clonkerz | 158,006
 249 | martymartinator | 155,223
 250 | 6reficul | 153,884
-251 | Complete-Tadpole-728 | 151,888
+251 | Complete-Tadpole-728 | 153,148
 252 | ItailianStallion101 | 151,831
 253 | NotFullyTerrestrial | 151,302
 254 | satoshi_oscar_wilde | 150,072
