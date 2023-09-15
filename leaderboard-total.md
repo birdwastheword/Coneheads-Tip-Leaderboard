@@ -1,4 +1,4 @@
-Last updated: 23-09-15 05:40:48 UTC  
+Last updated: 23-09-15 05:50:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 21,892,869
+7 | cutsickass | 21,895,532
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,182,199
 10 | crypto_grandma | 14,057,986
@@ -625,13 +625,13 @@ Rank | Username | Totals Tips
 622 | ZeusDubstep | 12,050
 623 | bageren | 12,038
 624 | Weezthajuice | 12,007
-625 | gnarlypoop | 11,924
-626 | charlythesecond | 11,794
-627 | Hofmaurerad | 11,711
-628 | froi203 | 11,652
-629 | masstransience | 11,623
-630 | reddit_saltyaf | 11,603
-631 | stockyewok | 11,581
+625 | stockyewok | 12,001
+626 | gnarlypoop | 11,924
+627 | charlythesecond | 11,794
+628 | Hofmaurerad | 11,711
+629 | froi203 | 11,652
+630 | masstransience | 11,623
+631 | reddit_saltyaf | 11,603
 632 | IndependenceHungry69 | 11,561
 633 | allisonovo | 11,343
 634 | TheChillDyl | 11,298
