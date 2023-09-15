@@ -1,4 +1,4 @@
-Last updated: 23-09-15 02:52:30 UTC  
+Last updated: 23-09-15 03:01:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -630,11 +630,11 @@ Rank | Username | Totals Tips
 627 | froi203 | 11,652
 628 | masstransience | 11,623
 629 | reddit_saltyaf | 11,603
-630 | IndependenceHungry69 | 11,561
-631 | allisonovo | 11,343
-632 | TheChillDyl | 11,298
-633 | This_Red_Apple | 11,260
-634 | stockyewok | 11,161
+630 | stockyewok | 11,581
+631 | IndependenceHungry69 | 11,561
+632 | allisonovo | 11,343
+633 | TheChillDyl | 11,298
+634 | This_Red_Apple | 11,260
 635 | Bramberken05 | 11,110
 636 | GaryJulesMCOC | 11,110
 637 | Arj_123 | 11,032
