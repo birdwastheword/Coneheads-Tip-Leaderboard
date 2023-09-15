@@ -1,4 +1,4 @@
-Last updated: 23-09-15 11:15:40 UTC  
+Last updated: 23-09-15 11:24:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | Modestexcuse | 903,684
 96 | thee_monster | 896,765
 97 | Bobisdeadrun | 868,946
-98 | Lillica_Golden_SHIB | 829,166
+98 | Lillica_Golden_SHIB | 829,304
 99 | Alanski22 | 823,754
 100 | goldyluckinblokchain | 809,537
 101 | vbutarin | 802,000
@@ -251,11 +251,11 @@ Rank | Username | Totals Tips
 248 | Clonkerz | 158,006
 249 | martymartinator | 155,223
 250 | 6reficul | 153,884
-251 | ItailianStallion101 | 151,831
-252 | NotFullyTerrestrial | 151,302
-253 | satoshi_oscar_wilde | 150,072
-254 | BitcoinRefuge | 148,181
-255 | Complete-Tadpole-728 | 146,888
+251 | Complete-Tadpole-728 | 151,888
+252 | ItailianStallion101 | 151,831
+253 | NotFullyTerrestrial | 151,302
+254 | satoshi_oscar_wilde | 150,072
+255 | BitcoinRefuge | 148,181
 256 | jamjam794 | 144,679
 257 | Doovs | 143,375
 258 | pythonskynet | 143,290
