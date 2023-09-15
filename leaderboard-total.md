@@ -1,4 +1,4 @@
-Last updated: 23-09-15 16:36:31 UTC  
+Last updated: 23-09-15 16:44:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -28,9 +28,9 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
 27 | IveDoneItAtLast | 5,342,637
-28 | thelonliestcrowd | 5,317,089
+28 | thelonliestcrowd | 5,317,509
 29 | Ginomania | 4,886,044
-30 | send420nudes | 4,719,429
+30 | send420nudes | 4,723,698
 31 | rikbona | 4,540,773
 32 | VIVOffical | 4,532,292
 33 | redzrex | 4,497,171
@@ -40,7 +40,7 @@ Rank | Username | Totals Tips
 37 | zdubs | 3,756,891
 38 | thom_orrow | 3,734,341
 39 | clean_cut89 | 3,713,476
-40 | GuyOne | 3,575,965
+40 | GuyOne | 3,578,628
 41 | LuminousViper | 3,481,417
 42 | bray_martin03 | 3,431,598
 43 | ZukoBih | 3,427,082
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | KONGXIANG | 1,707,400
 68 | GooderZBK | 1,617,267
 69 | evilninjarobot | 1,584,112
-70 | ultra_terrestrial | 1,491,790
+70 | ultra_terrestrial | 1,492,210
 71 | LongCauliflower6791 | 1,479,722
 72 | YarOldeOrchard | 1,438,286
 73 | ValiantJudge29500 | 1,401,656
@@ -479,9 +479,9 @@ Rank | Username | Totals Tips
 476 | Big-Researcher-3855 | 34,881
 477 | BelowAveIntelligence | 34,132
 478 | Overall-Extension608 | 34,113
-479 | Obvious-Ask-5747 | 33,806
-480 | PoDunkYuppie | 33,513
-481 | Historical-Lychee-34 | 33,435
+479 | Historical-Lychee-34 | 33,855
+480 | Obvious-Ask-5747 | 33,806
+481 | PoDunkYuppie | 33,513
 482 | keyoh321 | 33,397
 483 | Gerboogler | 33,314
 484 | See0tter | 33,242
@@ -916,19 +916,19 @@ Rank | Username | Totals Tips
 913 | Pataphak377 | 1,490
 914 | adamdmn | 1,490
 915 | WhiteMoss_ | 1,488
-916 | SinTron99 | 1,448
-917 | Prodigyyyyyy | 1,432
-918 | mkultrahigh | 1,415
-919 | Unlucky_Narwhal3983 | 1,396
-920 | pizza-chit | 1,392
-921 | Silence-Samurai8357 | 1,385
-922 | ElderberryOk469 | 1,338
-923 | _swnt_ | 1,337
-924 | VGarK | 1,337
-925 | onemansquest | 1,303
-926 | Snek-Life | 1,260
-927 | CWB2208 | 1,251
-928 | lovegreencandles | 1,246
+916 | lovegreencandles | 1,454
+917 | SinTron99 | 1,448
+918 | Prodigyyyyyy | 1,432
+919 | mkultrahigh | 1,415
+920 | Unlucky_Narwhal3983 | 1,396
+921 | pizza-chit | 1,392
+922 | Silence-Samurai8357 | 1,385
+923 | ElderberryOk469 | 1,338
+924 | _swnt_ | 1,337
+925 | VGarK | 1,337
+926 | onemansquest | 1,303
+927 | Snek-Life | 1,260
+928 | CWB2208 | 1,251
 929 | Tekbepimpin | 1,239
 930 | Mooraell | 1,239
 931 | miserybuy | 1,234
