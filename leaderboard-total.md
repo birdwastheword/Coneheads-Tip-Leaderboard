@@ -1,4 +1,4 @@
-Last updated: 23-09-15 04:01:03 UTC  
+Last updated: 23-09-15 04:22:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -43,10 +43,10 @@ Rank | Username | Totals Tips
 40 | GuyOne | 3,575,965
 41 | LuminousViper | 3,481,417
 42 | ZukoBih | 3,427,082
-43 | bray_martin03 | 3,371,598
+43 | bray_martin03 | 3,381,598
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,128,203
-46 | DontLaughArt | 2,948,287
+46 | DontLaughArt | 3,044,263
 47 | Korean_Street_Pizza | 2,814,207
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,658,871
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | Burzzzt88 | 591,649
 131 | Independent_Heart_15 | 578,825
 132 | AustinTX1985 | 571,526
-133 | crodbtc | 552,908
+133 | crodbtc | 562,908
 134 | DogSpark84 | 550,695
 135 | junkwatch | 547,724
 136 | PortCity_MadMan | 546,851
@@ -252,10 +252,10 @@ Rank | Username | Totals Tips
 249 | BitcoinRefuge | 148,181
 250 | jamjam794 | 144,679
 251 | Doovs | 143,375
-252 | Sad_Entertainer9961 | 143,248
-253 | ItailianStallion101 | 141,179
-254 | Complete-Tadpole-728 | 140,722
-255 | pythonskynet | 140,627
+252 | pythonskynet | 143,290
+253 | Sad_Entertainer9961 | 143,248
+254 | ItailianStallion101 | 141,179
+255 | Complete-Tadpole-728 | 140,722
 256 | SalliIsAFem | 140,361
 257 | wato4000 | 140,272
 258 | luisantonio197 | 139,511
