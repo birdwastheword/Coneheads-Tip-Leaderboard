@@ -1,4 +1,4 @@
-Last updated: 23-09-15 09:30:39 UTC  
+Last updated: 23-09-15 09:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -251,13 +251,13 @@ Rank | Username | Totals Tips
 248 | 6reficul | 153,884
 249 | NotFullyTerrestrial | 151,302
 250 | satoshi_oscar_wilde | 150,072
-251 | BitcoinRefuge | 148,181
-252 | jamjam794 | 144,679
-253 | Complete-Tadpole-728 | 144,225
-254 | Doovs | 143,375
-255 | pythonskynet | 143,290
-256 | Sad_Entertainer9961 | 143,248
-257 | ItailianStallion101 | 141,179
+251 | ItailianStallion101 | 149,168
+252 | BitcoinRefuge | 148,181
+253 | Complete-Tadpole-728 | 146,888
+254 | jamjam794 | 144,679
+255 | Doovs | 143,375
+256 | pythonskynet | 143,290
+257 | Sad_Entertainer9961 | 143,248
 258 | SalliIsAFem | 140,361
 259 | wato4000 | 140,272
 260 | luisantonio197 | 139,511
@@ -312,12 +312,12 @@ Rank | Username | Totals Tips
 309 | IOTA_Tesla | 96,607
 310 | CrossPuffs | 95,421
 311 | BrendanTFirefly | 95,347
-312 | Arvalll | 94,923
-313 | wolfman333 | 93,986
-314 | RollingSkull0 | 93,538
-315 | kwickle | 92,805
-316 | H3adshotfox77 | 92,575
-317 | AhhhUhmmm | 92,380
+312 | AhhhUhmmm | 95,043
+313 | Arvalll | 94,923
+314 | wolfman333 | 93,986
+315 | RollingSkull0 | 93,538
+316 | kwickle | 92,805
+317 | H3adshotfox77 | 92,575
 318 | urlz | 91,281
 319 | Backwood20 | 90,298
 320 | DramaticProtogen | 90,274
