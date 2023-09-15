@@ -1,4 +1,4 @@
-Last updated: 23-09-15 10:21:38 UTC  
+Last updated: 23-09-15 10:31:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | Modestexcuse | 903,684
 96 | thee_monster | 896,765
 97 | Bobisdeadrun | 868,946
-98 | Lillica_Golden_SHIB | 829,028
+98 | Lillica_Golden_SHIB | 829,097
 99 | Alanski22 | 823,754
 100 | goldyluckinblokchain | 809,537
 101 | vbutarin | 802,000
@@ -691,9 +691,9 @@ Rank | Username | Totals Tips
 688 | ad5xlh | 8,470
 689 | TNJCrypto | 8,468
 690 | NEO_R1CH | 8,453
-691 | 1-760-706-7425 | 8,272
-692 | shityougrin | 8,265
-693 | akemicariocaer | 8,264
+691 | akemicariocaer | 8,333
+692 | 1-760-706-7425 | 8,272
+693 | shityougrin | 8,265
 694 | Handsome_Gourd | 8,242
 695 | Nyarlatotep781 | 8,147
 696 | JAK0M0VIN0 | 8,097
