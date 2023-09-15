@@ -1,4 +1,4 @@
-Last updated: 23-09-15 14:00:47 UTC  
+Last updated: 23-09-15 14:18:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -42,8 +42,8 @@ Rank | Username | Totals Tips
 39 | clean_cut89 | 3,713,476
 40 | GuyOne | 3,575,965
 41 | LuminousViper | 3,481,417
-42 | ZukoBih | 3,427,082
-43 | bray_martin03 | 3,381,598
+42 | bray_martin03 | 3,431,598
+43 | ZukoBih | 3,427,082
 44 | LordBobTheWhale | 3,228,203
 45 | Dry_Badger_2403 | 3,193,857
 46 | DontLaughArt | 3,090,847
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | swampyswede | 1,948,457
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,872,352
-61 | CMDRGlamdring | 1,842,888
+61 | CMDRGlamdring | 1,845,551
 62 | djrcollectables | 1,840,492
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
@@ -250,9 +250,9 @@ Rank | Username | Totals Tips
 247 | CoverYourMaskHoles | 159,708
 248 | Clonkerz | 158,006
 249 | martymartinator | 155,223
-250 | 6reficul | 153,884
-251 | Complete-Tadpole-728 | 153,148
-252 | ItailianStallion101 | 151,831
+250 | ItailianStallion101 | 154,595
+251 | 6reficul | 153,884
+252 | Complete-Tadpole-728 | 153,148
 253 | NotFullyTerrestrial | 151,302
 254 | satoshi_oscar_wilde | 150,072
 255 | BitcoinRefuge | 148,181
@@ -426,7 +426,7 @@ Rank | Username | Totals Tips
 423 | Oue | 46,352
 424 | skatistic | 46,287
 425 | Truffle_Shuffle_85 | 45,978
-426 | FalloutAssasin | 45,458
+426 | FalloutAssasin | 45,527
 427 | Drlitez | 45,436
 428 | SnooRevelations6751 | 45,420
 429 | NickkyDC | 45,379
