@@ -1,4 +1,4 @@
-Last updated: 23-09-15 03:40:33 UTC  
+Last updated: 23-09-15 03:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -56,7 +56,7 @@ Rank | Username | Totals Tips
 53 | possibili-teas | 2,399,515
 54 | Autom4tic_Soze | 2,185,057
 55 | 002_timmy | 2,059,494
-56 | 0-Give-a-fucks | 1,995,501
+56 | 0-Give-a-fucks | 1,998,164
 57 | Affectionate_Hand_76 | 1,967,252
 58 | swampyswede | 1,948,457
 59 | catlover-100 | 1,931,330
@@ -254,9 +254,9 @@ Rank | Username | Totals Tips
 251 | Doovs | 143,375
 252 | Sad_Entertainer9961 | 143,248
 253 | ItailianStallion101 | 141,179
-254 | pythonskynet | 140,627
-255 | SalliIsAFem | 140,361
-256 | Complete-Tadpole-728 | 140,302
+254 | Complete-Tadpole-728 | 140,722
+255 | pythonskynet | 140,627
+256 | SalliIsAFem | 140,361
 257 | wato4000 | 140,272
 258 | luisantonio197 | 139,511
 259 | Legal-Appointment655 | 137,972
