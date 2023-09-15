@@ -1,4 +1,4 @@
-Last updated: 23-09-15 14:30:56 UTC  
+Last updated: 23-09-15 14:40:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | DontLaughArt | 3,090,847
 47 | Korean_Street_Pizza | 2,819,602
 48 | Mean_Bandicoot_7481 | 2,752,108
-49 | Fenrir-1919 | 2,659,479
+49 | Fenrir-1919 | 2,662,142
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
 52 | ImAlekBan | 2,580,420
@@ -694,20 +694,20 @@ Rank | Username | Totals Tips
 691 | ad5xlh | 8,470
 692 | TNJCrypto | 8,468
 693 | NEO_R1CH | 8,453
-694 | 1-760-706-7425 | 8,272
-695 | shityougrin | 8,265
-696 | Handsome_Gourd | 8,242
-697 | Nyarlatotep781 | 8,147
-698 | JAK0M0VIN0 | 8,097
-699 | TheConeHodler | 8,090
-700 | gacu-gacu | 8,065
-701 | PalpitationSecure660 | 8,055
-702 | Erikiller06 | 8,039
-703 | crypto-indian | 8,013
-704 | ryker_69 | 8,005
-705 | Primetimemongrel | 8,001
-706 | asmuth | 8,000
-707 | LimpPeanut5633 | 7,974
+694 | LimpPeanut5633 | 8,394
+695 | 1-760-706-7425 | 8,272
+696 | shityougrin | 8,265
+697 | Handsome_Gourd | 8,242
+698 | Nyarlatotep781 | 8,147
+699 | JAK0M0VIN0 | 8,097
+700 | TheConeHodler | 8,090
+701 | gacu-gacu | 8,065
+702 | PalpitationSecure660 | 8,055
+703 | Erikiller06 | 8,039
+704 | crypto-indian | 8,013
+705 | ryker_69 | 8,005
+706 | Primetimemongrel | 8,001
+707 | asmuth | 8,000
 708 | mronki | 7,737
 709 | Squirrel_McNutz | 7,720
 710 | isthisanavatar | 7,709
