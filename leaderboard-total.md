@@ -1,4 +1,4 @@
-Last updated: 23-09-15 07:25:24 UTC  
+Last updated: 23-09-15 07:33:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | redzrex | 4,497,171
 33 | bigbilly1234567899 | 4,496,042
 34 | birdwastheword | 4,421,038
-35 | send420nudes | 4,277,715
+35 | send420nudes | 4,286,253
 36 | rustyybikes | 4,269,852
 37 | zdubs | 3,756,891
 38 | thom_orrow | 3,727,432
@@ -222,8 +222,8 @@ Rank | Username | Totals Tips
 219 | UWphoto | 210,892
 220 | Esco1980 | 204,434
 221 | Most_Being_4002 | 204,332
-222 | ziggyback | 203,369
-223 | Heclalava | 201,538
+222 | Heclalava | 203,538
+223 | ziggyback | 203,369
 224 | rolonic | 198,866
 225 | CedricDiccory | 197,932
 226 | sudrats | 197,124
