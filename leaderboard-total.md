@@ -1,4 +1,4 @@
-Last updated: 23-09-15 02:35:57 UTC  
+Last updated: 23-09-15 02:44:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | birdwastheword | 4,421,038
 35 | send420nudes | 4,277,715
 36 | rustyybikes | 4,269,852
-37 | zdubs | 3,753,970
+37 | zdubs | 3,755,186
 38 | thom_orrow | 3,727,432
 39 | clean_cut89 | 3,713,476
 40 | GuyOne | 3,575,965
