@@ -1,4 +1,4 @@
-Last updated: 23-09-15 11:50:46 UTC  
+Last updated: 23-09-15 12:08:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -46,10 +46,10 @@ Rank | Username | Totals Tips
 43 | bray_martin03 | 3,381,598
 44 | LordBobTheWhale | 3,228,203
 45 | Dry_Badger_2403 | 3,193,857
-46 | DontLaughArt | 3,089,631
+46 | DontLaughArt | 3,090,847
 47 | Korean_Street_Pizza | 2,819,602
 48 | Mean_Bandicoot_7481 | 2,752,108
-49 | Fenrir-1919 | 2,658,871
+49 | Fenrir-1919 | 2,659,479
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
 52 | ImAlekBan | 2,580,420
@@ -110,9 +110,9 @@ Rank | Username | Totals Tips
 107 | ziggybri | 783,463
 108 | dopelifer09 | 727,057
 109 | virmamies | 721,434
-110 | starterpack420694 | 710,420
-111 | WarmIyWacky | 703,049
-112 | formidable-opponent | 702,719
+110 | formidable-opponent | 710,496
+111 | starterpack420694 | 710,420
+112 | WarmIyWacky | 703,049
 113 | frickdom | 702,589
 114 | Obi1eyeKenobi | 698,842
 115 | Starterpack69420 | 696,969
@@ -144,7 +144,7 @@ Rank | Username | Totals Tips
 141 | doktastonks | 523,988
 142 | adrifing | 516,494
 143 | f0n1xr131ng | 509,681
-144 | Crypto-4-Freedom | 508,176
+144 | Crypto-4-Freedom | 508,596
 145 | AcceptableLeg8751 | 500,000
 146 | Lady_Lucks_Man | 471,124
 147 | sinlesco | 465,153
@@ -424,18 +424,18 @@ Rank | Username | Totals Tips
 421 | shredslanding | 46,650
 422 | Oue | 46,352
 423 | skatistic | 46,287
-424 | Drlitez | 45,436
-425 | SnooRevelations6751 | 45,420
-426 | NickkyDC | 45,379
-427 | tentazoc | 45,088
-428 | acfranks | 45,083
-429 | Name_Trikolon | 45,002
-430 | FalloutAssasin | 44,969
-431 | Lucabba | 44,738
-432 | Kilv3r | 44,021
-433 | Coneboy2663 | 43,852
-434 | halfavocadoemoji | 43,351
-435 | Truffle_Shuffle_85 | 43,315
+424 | Truffle_Shuffle_85 | 45,978
+425 | Drlitez | 45,436
+426 | SnooRevelations6751 | 45,420
+427 | NickkyDC | 45,379
+428 | tentazoc | 45,088
+429 | acfranks | 45,083
+430 | Name_Trikolon | 45,002
+431 | FalloutAssasin | 44,969
+432 | Lucabba | 44,738
+433 | Kilv3r | 44,021
+434 | Coneboy2663 | 43,852
+435 | halfavocadoemoji | 43,351
 436 | halfABsinC | 43,285
 437 | dead-spiral | 42,069
 438 | ACE415_ | 42,069
