@@ -1,4 +1,4 @@
-Last updated: 23-09-15 09:50:43 UTC  
+Last updated: 23-09-15 10:00:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 21,895,532
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,322,838
+9 | _ships | 17,323,446
 10 | crypto_grandma | 14,063,312
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -54,7 +54,7 @@ Rank | Username | Totals Tips
 51 | _Royal_Insylum | 2,603,787
 52 | ImAlekBan | 2,580,420
 53 | possibili-teas | 2,399,515
-54 | Autom4tic_Soze | 2,185,057
+54 | Autom4tic_Soze | 2,186,291
 55 | 002_timmy | 2,059,494
 56 | 0-Give-a-fucks | 1,998,164
 57 | Affectionate_Hand_76 | 1,967,252
@@ -1004,18 +1004,18 @@ Rank | Username | Totals Tips
 1001 | Professer__ | 558
 1002 | glouglas | 558
 1003 | Pacaloz | 552
-1004 | Dare2gamer | 544
-1005 | Swordfish-Select | 543
-1006 | justthebelton | 540
-1007 | Gabba- | 520
-1008 | Right-Shopping9589 | 500
-1009 | I_forgot_my_opinion | 500
-1010 | CraigyFakeFake | 500
-1011 | Snoo_92843 | 491
-1012 | Blackskulllll | 489
-1013 | mrblazed23 | 489
-1014 | TreacleBeneficial678 | 489
-1015 | WriterMcWriterly | 483
+1004 | WriterMcWriterly | 552
+1005 | Dare2gamer | 544
+1006 | Swordfish-Select | 543
+1007 | justthebelton | 540
+1008 | Gabba- | 520
+1009 | Right-Shopping9589 | 500
+1010 | I_forgot_my_opinion | 500
+1011 | CraigyFakeFake | 500
+1012 | Snoo_92843 | 491
+1013 | Blackskulllll | 489
+1014 | mrblazed23 | 489
+1015 | TreacleBeneficial678 | 489
 1016 | Calm_Lemonade | 445
 1017 | mochi_ball223 | 445
 1018 | Poyal_Rines | 443
