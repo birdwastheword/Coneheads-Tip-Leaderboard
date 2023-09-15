@@ -1,4 +1,4 @@
-Last updated: 23-09-15 06:34:12 UTC  
+Last updated: 23-09-15 06:42:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | cutsickass | 21,895,532
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,182,199
-10 | crypto_grandma | 14,057,986
+10 | crypto_grandma | 14,060,649
 11 | transfermymoons | 13,386,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | birdwastheword | 4,421,038
 35 | send420nudes | 4,277,715
 36 | rustyybikes | 4,269,852
-37 | zdubs | 3,756,283
+37 | zdubs | 3,756,891
 38 | thom_orrow | 3,727,432
 39 | clean_cut89 | 3,713,476
 40 | GuyOne | 3,575,965
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | bray_martin03 | 3,381,598
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,128,203
-46 | DontLaughArt | 3,064,305
+46 | DontLaughArt | 3,066,968
 47 | Korean_Street_Pizza | 2,819,602
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,658,871
