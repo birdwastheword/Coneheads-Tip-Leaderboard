@@ -1,4 +1,4 @@
-Last updated: 23-09-15 09:40:40 UTC  
+Last updated: 23-09-15 09:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 21,895,532
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,320,838
+9 | _ships | 17,322,838
 10 | crypto_grandma | 14,063,312
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -249,9 +249,9 @@ Rank | Username | Totals Tips
 246 | Clonkerz | 158,006
 247 | martymartinator | 155,223
 248 | 6reficul | 153,884
-249 | NotFullyTerrestrial | 151,302
-250 | satoshi_oscar_wilde | 150,072
-251 | ItailianStallion101 | 149,168
+249 | ItailianStallion101 | 151,831
+250 | NotFullyTerrestrial | 151,302
+251 | satoshi_oscar_wilde | 150,072
 252 | BitcoinRefuge | 148,181
 253 | Complete-Tadpole-728 | 146,888
 254 | jamjam794 | 144,679
