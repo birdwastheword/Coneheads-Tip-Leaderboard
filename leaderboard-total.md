@@ -1,4 +1,4 @@
-Last updated: 23-09-15 04:22:27 UTC  
+Last updated: 23-09-15 04:31:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | bray_martin03 | 3,381,598
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,128,203
-46 | DontLaughArt | 3,044,263
+46 | DontLaughArt | 3,044,305
 47 | Korean_Street_Pizza | 2,814,207
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,658,871
@@ -645,21 +645,21 @@ Rank | Username | Totals Tips
 642 | Zealousideal-War6206 | 10,905
 643 | maurinet79 | 10,844
 644 | j9101a | 10,804
-645 | mimsoo777 | 10,638
-646 | ancheli | 10,588
-647 | Straton_Conemont_Inc | 10,550
-648 | Background-Ad-2102 | 10,450
-649 | 73i1 | 10,412
-650 | Most_Border_3917 | 10,289
-651 | Gamestopisthe1 | 10,227
-652 | CM19901 | 10,138
-653 | Consistent_Air_7646 | 10,000
-654 | LordCitrus69 | 10,000
-655 | xMikaRikax | 10,000
-656 | z6joker9 | 10,000
-657 | No-Confusion7414 | 9,959
-658 | boopcorgi | 9,923
-659 | Mrmakanakai | 9,909
+645 | Mrmakanakai | 10,717
+646 | mimsoo777 | 10,638
+647 | ancheli | 10,588
+648 | Straton_Conemont_Inc | 10,550
+649 | Background-Ad-2102 | 10,450
+650 | 73i1 | 10,412
+651 | Most_Border_3917 | 10,289
+652 | Gamestopisthe1 | 10,227
+653 | CM19901 | 10,138
+654 | Consistent_Air_7646 | 10,000
+655 | LordCitrus69 | 10,000
+656 | xMikaRikax | 10,000
+657 | z6joker9 | 10,000
+658 | No-Confusion7414 | 9,959
+659 | boopcorgi | 9,923
 660 | supatard44 | 9,891
 661 | Badit_01 | 9,738
 662 | Ok-Profile-1744 | 9,709
