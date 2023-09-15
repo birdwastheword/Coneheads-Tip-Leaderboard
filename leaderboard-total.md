@@ -1,4 +1,4 @@
-Last updated: 23-09-15 11:40:42 UTC  
+Last updated: 23-09-15 11:50:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 21,895,532
+7 | cutsickass | 21,925,532
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,323,446
 10 | crypto_grandma | 14,063,312
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
-27 | IveDoneItAtLast | 5,336,237
+27 | IveDoneItAtLast | 5,336,845
 28 | thelonliestcrowd | 5,314,426
 29 | Ginomania | 4,886,044
 30 | rikbona | 4,540,773
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | Modestexcuse | 903,684
 96 | thee_monster | 896,765
 97 | Bobisdeadrun | 868,946
-98 | Lillica_Golden_SHIB | 829,304
+98 | Lillica_Golden_SHIB | 829,373
 99 | Alanski22 | 823,754
 100 | goldyluckinblokchain | 809,537
 101 | vbutarin | 802,000
@@ -366,20 +366,20 @@ Rank | Username | Totals Tips
 363 | Bobby_Juk | 67,634
 364 | LightninHooker | 67,126
 365 | Virtual-Wrangler5955 | 67,006
-366 | Friendly-Airline2426 | 66,547
-367 | -geek | 66,318
-368 | imp3order | 65,546
-369 | damnusernamegotcutof | 65,004
-370 | KrunchyKushKing | 64,803
-371 | zuzieey7719 | 64,618
-372 | slug_tamer | 63,595
-373 | guokaidi | 63,581
-374 | Emeritux | 63,020
-375 | netnemirepxE | 62,645
-376 | meth43 | 62,596
-377 | Significant-Bet5762 | 62,488
-378 | Atorcran | 62,175
-379 | stockyewok | 62,001
+366 | stockyewok | 67,001
+367 | Friendly-Airline2426 | 66,547
+368 | -geek | 66,318
+369 | imp3order | 65,546
+370 | damnusernamegotcutof | 65,004
+371 | KrunchyKushKing | 64,803
+372 | zuzieey7719 | 64,618
+373 | slug_tamer | 63,595
+374 | guokaidi | 63,581
+375 | Emeritux | 63,020
+376 | netnemirepxE | 62,645
+377 | meth43 | 62,596
+378 | Significant-Bet5762 | 62,488
+379 | Atorcran | 62,175
 380 | TheD1ceMan | 60,541
 381 | lucrica | 59,987
 382 | Dboythegreat | 59,726
