@@ -1,4 +1,4 @@
-Last updated: 23-09-15 08:40:50 UTC  
+Last updated: 23-09-15 08:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,220,838
 10 | crypto_grandma | 14,063,312
-11 | transfermymoons | 13,386,858
+11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,826,857
@@ -185,7 +185,7 @@ Rank | Username | Totals Tips
 182 | monkeybombed | 285,426
 183 | deedopete | 285,361
 184 | dinoyeti | 283,881
-185 | tjex666 | 282,801
+185 | tjex666 | 283,221
 186 | astro_nut_ | 280,463
 187 | maxfra | 280,067
 188 | Flimsy_Brilliant_239 | 277,781
@@ -412,14 +412,14 @@ Rank | Username | Totals Tips
 409 | d_Shazam_b | 51,991
 410 | slasula | 51,466
 411 | d0ntmess87 | 51,278
-412 | Outside-Wolf5928 | 50,096
-413 | Dolce_00 | 49,943
-414 | Yogi_Kat | 49,785
-415 | eatthebagels | 49,692
-416 | sicilian2124 | 49,529
-417 | Rbmui13 | 49,245
-418 | Levl1Critter | 49,152
-419 | cryotosensei | 47,481
+412 | cryotosensei | 50,144
+413 | Outside-Wolf5928 | 50,096
+414 | Dolce_00 | 49,943
+415 | Yogi_Kat | 49,785
+416 | eatthebagels | 49,692
+417 | sicilian2124 | 49,529
+418 | Rbmui13 | 49,245
+419 | Levl1Critter | 49,152
 420 | shredslanding | 46,650
 421 | Oue | 46,352
 422 | skatistic | 46,287
