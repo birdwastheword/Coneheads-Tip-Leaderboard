@@ -1,4 +1,4 @@
-Last updated: 23-09-15 02:05:45 UTC  
+Last updated: 23-09-15 02:27:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,117,001
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,242,133
 7 | cutsickass | 21,352,869
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,167,522
+9 | _ships | 17,170,185
 10 | crypto_grandma | 14,055,323
 11 | transfermymoons | 13,386,858
 12 | HODL-THE-LINE | 12,469,181
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,579,839
 22 | Skank_cunt_42 | 7,269,825
-23 | Puddin-Luv | 7,234,946
+23 | Puddin-Luv | 7,237,609
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | Dry_Badger_2403 | 3,193,857
 45 | LordBobTheWhale | 3,128,203
 46 | DontLaughArt | 2,948,287
-47 | Korean_Street_Pizza | 2,814,138
+47 | Korean_Street_Pizza | 2,814,207
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,658,871
 50 | ZoomLong | 2,641,251
@@ -257,12 +257,12 @@ Rank | Username | Totals Tips
 254 | pythonskynet | 140,627
 255 | SalliIsAFem | 140,361
 256 | wato4000 | 140,272
-257 | luisantonio197 | 139,511
-258 | Legal-Appointment655 | 137,972
-259 | GrowinStuffAndThings | 137,461
-260 | Complete-Tadpole-728 | 137,219
+257 | Complete-Tadpole-728 | 139,882
+258 | luisantonio197 | 139,511
+259 | Legal-Appointment655 | 137,972
+260 | GrowinStuffAndThings | 137,461
 261 | Outrageous-Ad8481 | 137,001
-262 | Kevin3683 | 134,519
+262 | Kevin3683 | 136,988
 263 | MorrisWayne | 133,416
 264 | BitCone_CONE | 133,007
 265 | GoodMornEveGoodNight | 131,088
