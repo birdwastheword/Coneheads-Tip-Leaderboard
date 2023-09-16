@@ -1,4 +1,4 @@
-Last updated: 23-09-16 15:25:01 UTC  
+Last updated: 23-09-16 15:33:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -85,7 +85,7 @@ Rank | Username | Totals Tips
 82 | Own_Ad_4269 | 1,150,547
 83 | Hot_Potato_Salad | 1,147,558
 84 | beastlybaker | 1,138,701
-85 | Lillica_Golden_SHIB | 1,129,649
+85 | Lillica_Golden_SHIB | 1,129,718
 86 | freechickens | 1,028,455
 87 | avatarbot | 1,027,000
 88 | UniversalNoobMaster | 1,014,402
