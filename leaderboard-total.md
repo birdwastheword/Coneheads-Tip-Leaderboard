@@ -1,4 +1,4 @@
-Last updated: 23-09-16 17:33:22 UTC  
+Last updated: 23-09-16 17:41:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -170,7 +170,7 @@ Rank | Username | Totals Tips
 167 | MisterM0H0 | 379,338
 168 | zenhodl | 374,566
 169 | hellosamaira | 373,235
-170 | fettskull | 359,550
+170 | fettskull | 362,213
 171 | farmertypoerror | 359,212
 172 | Tinman_ApE | 357,542
 173 | DAMG808 | 355,432
@@ -330,19 +330,19 @@ Rank | Username | Totals Tips
 327 | kwickle | 92,805
 328 | H3adshotfox77 | 92,575
 329 | urlz | 91,281
-330 | Backwood20 | 90,298
-331 | DramaticProtogen | 90,274
-332 | Award-Bot | 90,000
-333 | Marauder2 | 89,421
-334 | MedicalJockey | 89,084
-335 | S2K08 | 88,258
-336 | HokkaidoNights | 88,108
-337 | ShopALF | 88,011
-338 | Hoppy_Doodle | 88,000
-339 | qwertywich | 87,473
-340 | BeefaloSlim | 87,465
-341 | bvandepol | 86,258
-342 | youtooleyesing | 85,826
+330 | youtooleyesing | 91,152
+331 | Backwood20 | 90,298
+332 | DramaticProtogen | 90,274
+333 | Award-Bot | 90,000
+334 | Marauder2 | 89,421
+335 | MedicalJockey | 89,084
+336 | S2K08 | 88,258
+337 | HokkaidoNights | 88,108
+338 | ShopALF | 88,011
+339 | Hoppy_Doodle | 88,000
+340 | qwertywich | 87,473
+341 | BeefaloSlim | 87,465
+342 | bvandepol | 86,258
 343 | Mother-Werewolf185 | 85,579
 344 | Puzzleheaded_Gift738 | 84,020
 345 | Admirito | 82,353
