@@ -1,4 +1,4 @@
-Last updated: 23-09-16 10:19:18 UTC  
+Last updated: 23-09-16 10:30:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -78,7 +78,7 @@ Rank | Username | Totals Tips
 75 | Extreme_Issue7325 | 1,295,890
 76 | saintajoras | 1,251,819
 77 | jimfird | 1,248,574
-78 | revdrgonzo | 1,235,635
+78 | revdrgonzo | 1,245,635
 79 | Richicash | 1,231,855
 80 | HestiaIsTheBestia | 1,188,046
 81 | Feetfailmenot | 1,170,705
