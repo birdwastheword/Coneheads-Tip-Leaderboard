@@ -1,4 +1,4 @@
-Last updated: 23-09-16 21:00:53 UTC  
+Last updated: 23-09-16 21:14:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 23,291,969
+7 | cutsickass | 23,321,969
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,370,405
 10 | crypto_grandma | 14,063,312
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | Affectionate_Hand_76 | 1,967,252
 59 | swampyswede | 1,948,877
 60 | catlover-100 | 1,931,330
-61 | CMDRGlamdring | 1,883,147
+61 | CMDRGlamdring | 1,885,810
 62 | investigator100 | 1,882,352
 63 | djrcollectables | 1,851,821
 64 | jimfird | 1,848,643
@@ -199,7 +199,7 @@ Rank | Username | Totals Tips
 196 | Final-Scar-941 | 271,039
 197 | hey_barry | 269,698
 198 | _Mitchee_ | 269,156
-199 | stockyewok | 267,001
+199 | stockyewok | 267,421
 200 | SetoXlll | 266,136
 201 | shiesto | 266,111
 202 | SnooMacarons9203 | 260,208
@@ -292,9 +292,9 @@ Rank | Username | Totals Tips
 289 | Sativa55555 | 121,550
 290 | stupidcupid112 | 121,421
 291 | lucivaryas | 121,420
-292 | Schl0tz | 120,000
-293 | CaptainCheeseCake | 118,644
-294 | youtooleyesing | 117,782
+292 | youtooleyesing | 120,445
+293 | Schl0tz | 120,000
+294 | CaptainCheeseCake | 118,644
 295 | street_shark_puppet | 116,891
 296 | lordciders | 116,706
 297 | mvea | 115,748
