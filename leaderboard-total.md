@@ -1,13 +1,13 @@
-Last updated: 23-09-16 22:01:03 UTC  
+Last updated: 23-09-16 22:19:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
 2 | Wonderful_Bad6531 | 36,220,628
 3 | nakamo-toe | 34,693,664
-4 | waterhasnocalories | 30,868,166
+4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 23,321,969
+7 | cutsickass | 23,381,969
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,391,308
 10 | crypto_grandma | 14,063,312
@@ -702,9 +702,9 @@ Rank | Username | Totals Tips
 699 | shityougrin | 8,265
 700 | Handsome_Gourd | 8,242
 701 | Nyarlatotep781 | 8,147
-702 | JAK0M0VIN0 | 8,097
-703 | TheConeHodler | 8,090
-704 | gacu-gacu | 8,065
+702 | gacu-gacu | 8,105
+703 | JAK0M0VIN0 | 8,097
+704 | TheConeHodler | 8,090
 705 | PalpitationSecure660 | 8,055
 706 | Erikiller06 | 8,039
 707 | crypto-indian | 8,013
