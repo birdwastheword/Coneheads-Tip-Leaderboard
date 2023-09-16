@@ -1,4 +1,4 @@
-Last updated: 23-09-16 22:19:11 UTC  
+Last updated: 23-09-16 22:30:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -9,12 +9,12 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,244,686
 7 | cutsickass | 23,381,969
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,391,308
+9 | _ships | 17,396,634
 10 | crypto_grandma | 14,063,312
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,845,951
+14 | SammyCraigar | 11,846,559
 15 | Permanent_WSB_Bull | 11,134,183
 16 | SpookySYN | 10,638,939
 17 | 8inchConer | 8,947,619
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | send420nudes | 4,727,967
 31 | rikbona | 4,540,773
 32 | VIVOffical | 4,534,955
-33 | redzrex | 4,500,254
+33 | redzrex | 4,500,674
 34 | bigbilly1234567899 | 4,496,042
 35 | birdwastheword | 4,421,038
 36 | rustyybikes | 4,270,734
@@ -98,7 +98,7 @@ Rank | Username | Totals Tips
 95 | Forward_Today2849 | 932,405
 96 | Modestexcuse | 903,684
 97 | thee_monster | 896,765
-98 | Bobisdeadrun | 868,946
+98 | Bobisdeadrun | 869,015
 99 | orangesandonions | 855,238
 100 | Alanski22 | 823,754
 101 | adrifing | 816,494
@@ -256,7 +256,7 @@ Rank | Username | Totals Tips
 253 | DrThunderHandz | 163,658
 254 | ItailianStallion101 | 160,224
 255 | CoverYourMaskHoles | 159,708
-256 | Complete-Tadpole-728 | 158,608
+256 | Complete-Tadpole-728 | 159,028
 257 | Clonkerz | 158,006
 258 | martymartinator | 155,223
 259 | 6reficul | 153,884
@@ -315,7 +315,7 @@ Rank | Username | Totals Tips
 312 | Chanyuui1 | 104,940
 313 | deathtr0 | 104,221
 314 | Chill_Edoeard | 102,923
-315 | diamondbored | 101,375
+315 | diamondbored | 101,795
 316 | ACorDC | 100,420
 317 | customsolitaires | 99,383
 318 | IHodlStill | 98,684
@@ -324,7 +324,7 @@ Rank | Username | Totals Tips
 321 | IOTA_Tesla | 96,607
 322 | CrossPuffs | 95,421
 323 | BrendanTFirefly | 95,347
-324 | AhhhUhmmm | 95,043
+324 | AhhhUhmmm | 95,112
 325 | Arvalll | 94,992
 326 | wolfman333 | 93,986
 327 | RollingSkull0 | 93,538
@@ -407,7 +407,7 @@ Rank | Username | Totals Tips
 404 | foreignGER | 57,346
 405 | Outrageous_Storm6537 | 56,938
 406 | ProfessionalIcy6456 | 56,380
-407 | chuloreddit | 55,878
+407 | chuloreddit | 55,947
 408 | imbarrydylan | 55,689
 409 | SandersIncBV | 54,288
 410 | Brandillio | 54,271
@@ -449,8 +449,8 @@ Rank | Username | Totals Tips
 446 | ACE415_ | 42,069
 447 | Cyber-Cafe | 41,921
 448 | PushyDevoIution | 41,695
-449 | madridgalactico | 41,231
-450 | Expensive_Being_4038 | 41,185
+449 | Expensive_Being_4038 | 41,254
+450 | madridgalactico | 41,231
 451 | HodLMania | 41,111
 452 | ARoyaleWithCheese | 41,000
 453 | Yirii | 40,605
@@ -797,22 +797,22 @@ Rank | Username | Totals Tips
 794 | officialzodiacbeats | 4,194
 795 | Fit_Win_541 | 4,169
 796 | DrAgaricus | 4,111
-797 | Ronkad | 4,003
-798 | Ancient_Summer_1833 | 4,001
-799 | Lazy_Staff4893 | 4,000
-800 | nathanroberts14 | 4,000
-801 | Puzzleheaded_Popup | 4,000
-802 | Soil_Electronic | 3,975
-803 | Dreadaussie | 3,920
-804 | OisinT | 3,779
-805 | carsonthecarsinogen | 3,769
-806 | salt_yaf | 3,706
-807 | Torporific1 | 3,663
+797 | Torporific1 | 4,083
+798 | Ronkad | 4,003
+799 | Ancient_Summer_1833 | 4,001
+800 | Lazy_Staff4893 | 4,000
+801 | nathanroberts14 | 4,000
+802 | Puzzleheaded_Popup | 4,000
+803 | Soil_Electronic | 3,975
+804 | Dreadaussie | 3,920
+805 | OisinT | 3,779
+806 | carsonthecarsinogen | 3,769
+807 | salt_yaf | 3,706
 808 | Gelato_33 | 3,628
 809 | _echnaton | 3,504
 810 | raulcras5 | 3,502
 811 | WeaselJCD | 3,434
-812 | Medfried | 3,421
+812 | Medfried | 3,423
 813 | Mrcoolguynumberone | 3,420
 814 | SoulUrgeDestiny | 3,409
 815 | Microgamers | 3,408
@@ -1199,9 +1199,10 @@ Rank | Username | Totals Tips
 1196 | GroovyIntruder | 3
 1197 | SuperbCantaloupe1929 | 2
 1198 | BusinessBreakfast3 | 1
-1199 | Skull0 | 1
-1200 | hdkcbxv | 1
-1201 | Ok_Instruction_4717 | 1
-1202 | Park_With_No_S | 1
-1203 | Prestigious-Expert15 | 1
-1204 | mango9574 | 1
+1199 | akshar_premnath | 1
+1200 | Skull0 | 1
+1201 | hdkcbxv | 1
+1202 | Ok_Instruction_4717 | 1
+1203 | Park_With_No_S | 1
+1204 | Prestigious-Expert15 | 1
+1205 | mango9574 | 1
