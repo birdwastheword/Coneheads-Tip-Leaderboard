@@ -1,4 +1,4 @@
-Last updated: 23-09-16 17:00:43 UTC  
+Last updated: 23-09-16 17:16:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | Fenrir-1919 | 2,664,805
 51 | ZoomLong | 2,641,251
 52 | _Royal_Insylum | 2,603,787
-53 | ImAlekBan | 2,580,420
+53 | ImAlekBan | 2,583,083
 54 | possibili-teas | 2,399,515
 55 | Autom4tic_Soze | 2,236,291
 56 | 002_timmy | 2,059,494
@@ -220,8 +220,8 @@ Rank | Username | Totals Tips
 217 | Zalkwalker | 235,069
 218 | alexthemay | 234,131
 219 | Conetent | 222,451
-220 | Ashamed_Raccoon9918 | 219,445
-221 | Significant_Talk4943 | 219,059
+220 | Significant_Talk4943 | 219,479
+221 | Ashamed_Raccoon9918 | 219,445
 222 | ShortBusCult | 218,859
 223 | SourBeefHoop | 217,512
 224 | yahuurdme | 213,714
