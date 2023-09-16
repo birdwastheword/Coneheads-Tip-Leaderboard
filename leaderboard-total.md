@@ -1,4 +1,4 @@
-Last updated: 23-09-16 19:50:45 UTC  
+Last updated: 23-09-16 20:01:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,842,780
+14 | SammyCraigar | 11,843,288
 15 | Permanent_WSB_Bull | 11,134,183
 16 | SpookySYN | 10,585,679
 17 | 8inchConer | 8,947,619
@@ -325,7 +325,7 @@ Rank | Username | Totals Tips
 322 | CrossPuffs | 95,421
 323 | BrendanTFirefly | 95,347
 324 | AhhhUhmmm | 95,043
-325 | Arvalll | 94,923
+325 | Arvalll | 94,992
 326 | wolfman333 | 93,986
 327 | RollingSkull0 | 93,538
 328 | kwickle | 92,805
@@ -525,17 +525,17 @@ Rank | Username | Totals Tips
 522 | Sparrow | 27,214
 523 | Practical-Store9603 | 27,028
 524 | deltamoney | 26,987
-525 | DOGETHEEGOD | 26,580
-526 | Trelucatre | 26,469
-527 | Primary_Technical | 26,000
-528 | puzzled__panther | 26,000
-529 | iamannonymous27 | 25,840
-530 | Glitzxc | 25,779
-531 | AnxiousQuestioner | 25,684
-532 | tmztmz2 | 25,490
-533 | universal_language | 25,489
-534 | ThekinginYellow27 | 25,431
-535 | Qptimised | 25,377
+525 | Qptimised | 26,611
+526 | DOGETHEEGOD | 26,580
+527 | Trelucatre | 26,469
+528 | Primary_Technical | 26,000
+529 | puzzled__panther | 26,000
+530 | iamannonymous27 | 25,840
+531 | Glitzxc | 25,779
+532 | AnxiousQuestioner | 25,684
+533 | tmztmz2 | 25,490
+534 | universal_language | 25,489
+535 | ThekinginYellow27 | 25,431
 536 | open-now | 25,247
 537 | worldofshiba | 25,069
 538 | Blossom_butterfly | 25,069
