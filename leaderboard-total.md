@@ -1,4 +1,4 @@
-Last updated: 23-09-16 22:50:26 UTC  
+Last updated: 23-09-16 23:00:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,846,559
+14 | SammyCraigar | 11,847,167
 15 | Permanent_WSB_Bull | 11,134,183
 16 | SpookySYN | 10,638,939
 17 | 8inchConer | 8,947,619
@@ -979,17 +979,17 @@ Rank | Username | Totals Tips
 976 | BatsaBaji | 924
 977 | TriggerHappyEwok | 909
 978 | Porescu | 909
-979 | True_Sigma_1 | 853
-980 | Geesle | 840
-981 | Xanthn | 840
-982 | experimentjon | 840
-983 | Machete521 | 840
-984 | tommyque | 840
-985 | Embarrassed-Egg-545 | 840
-986 | panjjang | 834
-987 | pulse2017 | 828
-988 | Yegpetphoto | 825
-989 | imonsterdao | 814
+979 | imonsterdao | 883
+980 | True_Sigma_1 | 853
+981 | Geesle | 840
+982 | Xanthn | 840
+983 | experimentjon | 840
+984 | Machete521 | 840
+985 | tommyque | 840
+986 | Embarrassed-Egg-545 | 840
+987 | panjjang | 834
+988 | pulse2017 | 828
+989 | Yegpetphoto | 825
 990 | brymezHD | 769
 991 | Ge_n0 | 729
 992 | johnnyb0083 | 727
