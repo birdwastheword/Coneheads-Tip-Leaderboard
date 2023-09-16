@@ -1,4 +1,4 @@
-Last updated: 23-09-16 13:30:50 UTC  
+Last updated: 23-09-16 13:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -114,7 +114,7 @@ Rank | Username | Totals Tips
 111 | cannainform2 | 768,393
 112 | virmamies | 731,434
 113 | dopelifer09 | 727,057
-114 | Successful-Walk-3902 | 720,850
+114 | Successful-Walk-3902 | 723,790
 115 | formidable-opponent | 710,496
 116 | starterpack420694 | 710,420
 117 | WarmIyWacky | 703,049
@@ -276,8 +276,8 @@ Rank | Username | Totals Tips
 273 | Outrageous-Ad8481 | 137,001
 274 | Kevin3683 | 136,988
 275 | MorrisWayne | 133,416
-276 | BitCone_CONE | 133,007
-277 | Bobby_Juk | 132,960
+276 | Bobby_Juk | 133,380
+277 | BitCone_CONE | 133,007
 278 | ASingleGuitarString | 131,781
 279 | GoodMornEveGoodNight | 131,088
 280 | Mj_6o4 | 129,568
@@ -400,7 +400,7 @@ Rank | Username | Totals Tips
 397 | RepublicRude6350 | 58,754
 398 | Wildspliffosis | 58,703
 399 | Trink333 | 58,338
-400 | phrodreky | 58,122
+400 | phrodreky | 58,191
 401 | CryptoScamee42069 | 57,405
 402 | foreignGER | 57,277
 403 | Outrageous_Storm6537 | 56,938
@@ -432,7 +432,7 @@ Rank | Username | Totals Tips
 429 | shredslanding | 46,650
 430 | Oue | 46,352
 431 | skatistic | 46,287
-432 | FalloutAssasin | 45,527
+432 | FalloutAssasin | 45,596
 433 | Drlitez | 45,436
 434 | SnooRevelations6751 | 45,420
 435 | NickkyDC | 45,379
