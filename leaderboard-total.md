@@ -1,4 +1,4 @@
-Last updated: 23-09-16 22:40:38 UTC  
+Last updated: 23-09-16 22:50:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -433,17 +433,17 @@ Rank | Username | Totals Tips
 430 | shredslanding | 46,650
 431 | Oue | 46,352
 432 | skatistic | 46,287
-433 | FalloutAssasin | 45,665
-434 | Drlitez | 45,436
-435 | SnooRevelations6751 | 45,420
-436 | NickkyDC | 45,379
-437 | tentazoc | 45,088
-438 | acfranks | 45,083
-439 | Name_Trikolon | 45,002
-440 | Lucabba | 44,738
-441 | Kilv3r | 44,021
-442 | Coneboy2663 | 43,852
-443 | halfavocadoemoji | 43,351
+433 | halfavocadoemoji | 46,014
+434 | FalloutAssasin | 45,665
+435 | Drlitez | 45,436
+436 | SnooRevelations6751 | 45,420
+437 | NickkyDC | 45,379
+438 | tentazoc | 45,088
+439 | acfranks | 45,083
+440 | Name_Trikolon | 45,002
+441 | Lucabba | 44,738
+442 | Kilv3r | 44,021
+443 | Coneboy2663 | 43,852
 444 | halfABsinC | 43,285
 445 | dead-spiral | 42,069
 446 | ACE415_ | 42,069
