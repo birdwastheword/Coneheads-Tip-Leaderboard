@@ -1,4 +1,4 @@
-Last updated: 23-09-16 09:50:52 UTC  
+Last updated: 23-09-16 10:00:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,882,352
 61 | CMDRGlamdring | 1,872,188
-62 | djrcollectables | 1,846,426
+62 | djrcollectables | 1,849,089
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
 65 | Iulian_TechNewb | 1,717,148
@@ -82,7 +82,7 @@ Rank | Username | Totals Tips
 79 | Richicash | 1,231,855
 80 | HestiaIsTheBestia | 1,188,046
 81 | Feetfailmenot | 1,170,705
-82 | Own_Ad_4269 | 1,150,448
+82 | Own_Ad_4269 | 1,150,547
 83 | Hot_Potato_Salad | 1,147,558
 84 | beastlybaker | 1,138,701
 85 | freechickens | 1,028,455
