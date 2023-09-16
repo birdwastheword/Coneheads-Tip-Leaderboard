@@ -1,4 +1,4 @@
-Last updated: 23-09-16 04:40:51 UTC  
+Last updated: 23-09-16 04:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | nakamo-toe | 34,693,664
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
-6 | Jeff5704 | 28,242,133
+6 | Jeff5704 | 28,244,686
 7 | cutsickass | 22,478,195
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,342,964
