@@ -1,4 +1,4 @@
-Last updated: 23-09-16 05:00:52 UTC  
+Last updated: 23-09-16 05:18:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 22,478,195
+7 | cutsickass | 22,508,195
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,342,964
 10 | crypto_grandma | 14,063,312
@@ -365,13 +365,13 @@ Rank | Username | Totals Tips
 362 | hey_barry | 69,698
 363 | Dazzling_Marzipan474 | 69,033
 364 | Tapiz3land | 68,942
-365 | Bobby_Juk | 67,634
-366 | LightninHooker | 67,126
-367 | Virtual-Wrangler5955 | 67,006
-368 | stockyewok | 67,001
-369 | Friendly-Airline2426 | 66,547
-370 | -geek | 66,318
-371 | cryotosensei | 66,122
+365 | cryotosensei | 68,785
+366 | Bobby_Juk | 67,634
+367 | LightninHooker | 67,126
+368 | Virtual-Wrangler5955 | 67,006
+369 | stockyewok | 67,001
+370 | Friendly-Airline2426 | 66,547
+371 | -geek | 66,318
 372 | imp3order | 65,546
 373 | damnusernamegotcutof | 65,004
 374 | KrunchyKushKing | 64,803
