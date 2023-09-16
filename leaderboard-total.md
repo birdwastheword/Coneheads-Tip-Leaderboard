@@ -1,4 +1,4 @@
-Last updated: 23-09-16 20:50:33 UTC  
+Last updated: 23-09-16 21:00:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -81,7 +81,7 @@ Rank | Username | Totals Tips
 78 | revdrgonzo | 1,245,635
 79 | Richicash | 1,231,855
 80 | HestiaIsTheBestia | 1,188,046
-81 | Own_Ad_4269 | 1,180,617
+81 | Own_Ad_4269 | 1,182,621
 82 | Feetfailmenot | 1,170,705
 83 | Hot_Potato_Salad | 1,147,558
 84 | beastlybaker | 1,138,701
@@ -89,7 +89,7 @@ Rank | Username | Totals Tips
 86 | freechickens | 1,028,455
 87 | avatarbot | 1,027,000
 88 | UniversalNoobMaster | 1,014,402
-89 | Allions1 | 1,000,461
+89 | Allions1 | 1,000,530
 90 | WarmBiertje | 1,000,000
 91 | CluelessSurvivor | 997,184
 92 | EvanIsBacon | 970,416
@@ -111,8 +111,8 @@ Rank | Username | Totals Tips
 108 | Cravensworth_redux | 790,803
 109 | Westy3000 | 785,931
 110 | ziggybri | 783,463
-111 | cannainform2 | 768,393
-112 | nichnotnick | 744,759
+111 | nichnotnick | 771,390
+112 | cannainform2 | 768,393
 113 | virmamies | 731,434
 114 | dopelifer09 | 727,057
 115 | Successful-Walk-3902 | 723,859
@@ -191,7 +191,7 @@ Rank | Username | Totals Tips
 188 | send_tacoz | 293,576
 189 | MadScientistTheFirst | 290,469
 190 | deedopete | 285,361
-191 | dinoyeti | 283,881
+191 | dinoyeti | 284,881
 192 | tjex666 | 283,221
 193 | astro_nut_ | 280,463
 194 | Flimsy_Brilliant_239 | 280,444
@@ -646,13 +646,13 @@ Rank | Username | Totals Tips
 643 | This_Red_Apple | 11,260
 644 | Bramberken05 | 11,110
 645 | GaryJulesMCOC | 11,110
-646 | Arj_123 | 11,032
-647 | xllw | 11,000
-648 | PurpleCoveredSnow | 10,915
-649 | Zealousideal-War6206 | 10,905
-650 | maurinet79 | 10,844
-651 | j9101a | 10,804
-652 | Mrmakanakai | 10,717
+646 | Mrmakanakai | 11,097
+647 | Arj_123 | 11,032
+648 | xllw | 11,000
+649 | PurpleCoveredSnow | 10,915
+650 | Zealousideal-War6206 | 10,905
+651 | maurinet79 | 10,844
+652 | j9101a | 10,804
 653 | mimsoo777 | 10,638
 654 | ancheli | 10,588
 655 | Straton_Conemont_Inc | 10,550
