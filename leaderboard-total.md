@@ -1,4 +1,4 @@
-Last updated: 23-09-16 07:32:06 UTC  
+Last updated: 23-09-16 07:40:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -587,18 +587,18 @@ Rank | Username | Totals Tips
 584 | deeeznotes | 16,235
 585 | Conflict63 | 16,063
 586 | giooo_tdm | 15,964
-587 | Zwott | 15,441
-588 | Fr3sh-Ch3mical | 15,393
-589 | D6P6 | 15,364
-590 | Rookslook | 15,359
-591 | Rake_wlkr | 15,330
-592 | Doublix | 15,074
-593 | imeme1969 | 15,070
-594 | abbasabba260 | 14,773
-595 | Big_Bonus3617 | 14,763
-596 | redbasl | 14,643
-597 | mixmasterpayne | 14,547
-598 | Fivebag | 14,290
+587 | Fivebag | 15,841
+588 | Zwott | 15,441
+589 | Fr3sh-Ch3mical | 15,393
+590 | D6P6 | 15,364
+591 | Rookslook | 15,359
+592 | Rake_wlkr | 15,330
+593 | Doublix | 15,074
+594 | imeme1969 | 15,070
+595 | abbasabba260 | 14,773
+596 | Big_Bonus3617 | 14,763
+597 | redbasl | 14,643
+598 | mixmasterpayne | 14,547
 599 | cole-badger | 14,269
 600 | theycallmekimpembe | 14,037
 601 | TamilPunk | 13,754
