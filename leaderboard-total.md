@@ -1,4 +1,4 @@
-Last updated: 23-09-16 10:30:49 UTC  
+Last updated: 23-09-16 10:40:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
-27 | IveDoneItAtLast | 5,343,477
+27 | IveDoneItAtLast | 5,349,485
 28 | thelonliestcrowd | 5,317,509
 29 | Ginomania | 4,904,022
 30 | send420nudes | 4,723,698
@@ -85,17 +85,17 @@ Rank | Username | Totals Tips
 82 | Own_Ad_4269 | 1,150,547
 83 | Hot_Potato_Salad | 1,147,558
 84 | beastlybaker | 1,138,701
-85 | freechickens | 1,028,455
-86 | avatarbot | 1,027,000
-87 | UniversalNoobMaster | 1,014,402
-88 | Allions1 | 1,000,461
-89 | WarmBiertje | 1,000,000
-90 | CluelessSurvivor | 997,184
-91 | EvanIsBacon | 970,416
-92 | ID404_Not_Found_8964 | 954,982
-93 | CHEROKEEJ4CK | 940,286
-94 | Forward_Today2849 | 932,405
-95 | Lillica_Golden_SHIB | 929,580
+85 | Lillica_Golden_SHIB | 1,129,580
+86 | freechickens | 1,028,455
+87 | avatarbot | 1,027,000
+88 | UniversalNoobMaster | 1,014,402
+89 | Allions1 | 1,000,461
+90 | WarmBiertje | 1,000,000
+91 | CluelessSurvivor | 997,184
+92 | EvanIsBacon | 970,416
+93 | ID404_Not_Found_8964 | 954,982
+94 | CHEROKEEJ4CK | 940,286
+95 | Forward_Today2849 | 932,405
 96 | Modestexcuse | 903,684
 97 | thee_monster | 896,765
 98 | Bobisdeadrun | 868,946
@@ -690,9 +690,9 @@ Rank | Username | Totals Tips
 687 | Duckeis | 8,873
 688 | Nugacity5 | 8,836
 689 | LimpPeanut5633 | 8,814
-690 | BreadfruitIll4265 | 8,608
-691 | TSC4 | 8,600
-692 | TheyAskWho | 8,568
+690 | TheyAskWho | 8,679
+691 | BreadfruitIll4265 | 8,608
+692 | TSC4 | 8,600
 693 | ad5xlh | 8,470
 694 | TNJCrypto | 8,468
 695 | NEO_R1CH | 8,453
