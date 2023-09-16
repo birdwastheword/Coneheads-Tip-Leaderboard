@@ -1,4 +1,4 @@
-Last updated: 23-09-16 08:30:41 UTC  
+Last updated: 23-09-16 08:40:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | DontLaughArt | 3,090,847
 47 | Korean_Street_Pizza | 2,820,229
 48 | Mean_Bandicoot_7481 | 2,752,108
-49 | Fenrir-1919 | 2,662,142
+49 | Fenrir-1919 | 2,664,805
 50 | ZoomLong | 2,641,251
 51 | _Royal_Insylum | 2,603,787
 52 | ImAlekBan | 2,580,420
