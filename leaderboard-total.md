@@ -1,4 +1,4 @@
-Last updated: 23-09-16 23:17:30 UTC  
+Last updated: 23-09-16 23:30:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -955,23 +955,23 @@ Rank | Username | Totals Tips
 952 | FateAvernus | 1,069
 953 | PhantomOpera888 | 1,062
 954 | F7o | 1,061
-955 | Chanceadams10 | 1,041
-956 | Pacaloz | 1,041
-957 | HunttiOriginal | 1,020
-958 | learnunlearnlearn | 1,012
-959 | Firm-Breakfast-9834 | 1,000
-960 | arc4angel100 | 1,000
-961 | freddym0j0123 | 1,000
-962 | SHADOWFIEND7 | 1,000
-963 | degree--01 | 1,000
-964 | milehigh89 | 1,000
-965 | RarelyReads47 | 1,000
-966 | Slippytoe | 1,000
-967 | CertainDebt15 | 1,000
-968 | daltadka911 | 1,000
-969 | Lenny2belts | 1,000
-970 | despicav | 999
-971 | final_lionel | 981
+955 | final_lionel | 1,050
+956 | Chanceadams10 | 1,041
+957 | Pacaloz | 1,041
+958 | HunttiOriginal | 1,020
+959 | learnunlearnlearn | 1,012
+960 | Firm-Breakfast-9834 | 1,000
+961 | arc4angel100 | 1,000
+962 | freddym0j0123 | 1,000
+963 | SHADOWFIEND7 | 1,000
+964 | degree--01 | 1,000
+965 | milehigh89 | 1,000
+966 | RarelyReads47 | 1,000
+967 | Slippytoe | 1,000
+968 | CertainDebt15 | 1,000
+969 | daltadka911 | 1,000
+970 | Lenny2belts | 1,000
+971 | despicav | 999
 972 | Thelegend_48 | 979
 973 | 3utt5lut | 978
 974 | Illicitterror | 966
