@@ -1,4 +1,4 @@
-Last updated: 23-09-16 15:50:40 UTC  
+Last updated: 23-09-16 16:00:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -256,7 +256,7 @@ Rank | Username | Totals Tips
 253 | DrThunderHandz | 163,658
 254 | CoverYourMaskHoles | 159,708
 255 | Clonkerz | 158,006
-256 | Complete-Tadpole-728 | 156,508
+256 | Complete-Tadpole-728 | 156,928
 257 | martymartinator | 155,223
 258 | ItailianStallion101 | 154,797
 259 | 6reficul | 153,884
@@ -403,7 +403,7 @@ Rank | Username | Totals Tips
 400 | Trink333 | 58,338
 401 | phrodreky | 58,192
 402 | CryptoScamee42069 | 57,405
-403 | foreignGER | 57,277
+403 | foreignGER | 57,346
 404 | Outrageous_Storm6537 | 56,938
 405 | ProfessionalIcy6456 | 56,380
 406 | chuloreddit | 55,878
