@@ -1,4 +1,4 @@
-Last updated: 23-09-16 12:32:04 UTC  
+Last updated: 23-09-16 12:49:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,831,156
+14 | SammyCraigar | 11,841,156
 15 | Permanent_WSB_Bull | 11,134,183
 16 | SpookySYN | 10,355,789
 17 | 8inchConer | 8,947,619
@@ -149,7 +149,7 @@ Rank | Username | Totals Tips
 146 | f0n1xr131ng | 509,681
 147 | Crypto-4-Freedom | 508,596
 148 | AcceptableLeg8751 | 500,000
-149 | Lady_Lucks_Man | 471,124
+149 | Lady_Lucks_Man | 479,132
 150 | sinlesco | 465,153
 151 | WarmlyWacky | 462,118
 152 | RazPie | 462,003
@@ -291,12 +291,12 @@ Rank | Username | Totals Tips
 288 | lucivaryas | 121,420
 289 | Schl0tz | 120,000
 290 | CaptainCheeseCake | 118,644
-291 | street_shark_puppet | 116,891
-292 | lordciders | 116,706
-293 | mvea | 115,748
-294 | xSkyFa11x | 114,768
-295 | AlternativeBag2619 | 114,483
-296 | SaberTurret | 114,230
+291 | SaberTurret | 116,893
+292 | street_shark_puppet | 116,891
+293 | lordciders | 116,706
+294 | mvea | 115,748
+295 | xSkyFa11x | 114,768
+296 | AlternativeBag2619 | 114,483
 297 | beanwiggin420 | 114,145
 298 | Fox1931 | 114,000
 299 | flying_bacon | 111,929
