@@ -1,4 +1,4 @@
-Last updated: 23-09-16 20:17:38 UTC  
+Last updated: 23-09-16 20:30:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -81,8 +81,8 @@ Rank | Username | Totals Tips
 78 | revdrgonzo | 1,245,635
 79 | Richicash | 1,231,855
 80 | HestiaIsTheBestia | 1,188,046
-81 | Feetfailmenot | 1,170,705
-82 | Own_Ad_4269 | 1,150,547
+81 | Own_Ad_4269 | 1,175,547
+82 | Feetfailmenot | 1,170,705
 83 | Hot_Potato_Salad | 1,147,558
 84 | beastlybaker | 1,138,701
 85 | Lillica_Golden_SHIB | 1,129,787
@@ -146,7 +146,7 @@ Rank | Username | Totals Tips
 143 | scientifichistorian | 539,560
 144 | shreyaskg | 538,211
 145 | TubeNerd92 | 537,829
-146 | doktastonks | 523,988
+146 | doktastonks | 533,988
 147 | f0n1xr131ng | 509,681
 148 | Crypto-4-Freedom | 509,436
 149 | AcceptableLeg8751 | 500,000
@@ -256,8 +256,8 @@ Rank | Username | Totals Tips
 253 | DrThunderHandz | 163,658
 254 | ItailianStallion101 | 160,224
 255 | CoverYourMaskHoles | 159,708
-256 | Clonkerz | 158,006
-257 | Complete-Tadpole-728 | 157,768
+256 | Complete-Tadpole-728 | 158,608
+257 | Clonkerz | 158,006
 258 | martymartinator | 155,223
 259 | 6reficul | 153,884
 260 | Chapo_1992 | 151,999
@@ -591,9 +591,9 @@ Rank | Username | Totals Tips
 588 | Conflict63 | 16,063
 589 | giooo_tdm | 15,964
 590 | Fivebag | 15,841
-591 | Zwott | 15,441
-592 | Fr3sh-Ch3mical | 15,393
-593 | D6P6 | 15,364
+591 | D6P6 | 15,784
+592 | Zwott | 15,441
+593 | Fr3sh-Ch3mical | 15,393
 594 | Rookslook | 15,359
 595 | Rake_wlkr | 15,330
 596 | Doublix | 15,074
@@ -693,11 +693,11 @@ Rank | Username | Totals Tips
 690 | ElegantShelter7947 | 8,881
 691 | Duckeis | 8,873
 692 | Nugacity5 | 8,836
-693 | BreadfruitIll4265 | 8,608
-694 | TSC4 | 8,600
-695 | ad5xlh | 8,470
-696 | TNJCrypto | 8,468
-697 | NEO_R1CH | 8,453
+693 | NEO_R1CH | 8,699
+694 | BreadfruitIll4265 | 8,608
+695 | TSC4 | 8,600
+696 | ad5xlh | 8,470
+697 | TNJCrypto | 8,468
 698 | 1-760-706-7425 | 8,272
 699 | shityougrin | 8,265
 700 | Handsome_Gourd | 8,242
@@ -986,9 +986,9 @@ Rank | Username | Totals Tips
 983 | tommyque | 840
 984 | Embarrassed-Egg-545 | 840
 985 | panjjang | 834
-986 | Yegpetphoto | 825
-987 | brymezHD | 769
-988 | pulse2017 | 759
+986 | pulse2017 | 828
+987 | Yegpetphoto | 825
+988 | brymezHD | 769
 989 | imonsterdao | 745
 990 | Ge_n0 | 729
 991 | johnnyb0083 | 727
