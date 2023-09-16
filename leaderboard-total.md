@@ -1,4 +1,4 @@
-Last updated: 23-09-16 19:00:55 UTC  
+Last updated: 23-09-16 19:14:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | catlover-100 | 1,931,330
 61 | CMDRGlamdring | 1,883,147
 62 | investigator100 | 1,882,352
-63 | djrcollectables | 1,851,752
+63 | djrcollectables | 1,851,821
 64 | jimfird | 1,848,643
 65 | dealkhabari | 1,767,162
 66 | Mundane-Farm-4117 | 1,723,613
@@ -140,8 +140,8 @@ Rank | Username | Totals Tips
 137 | Independent_Heart_15 | 578,825
 138 | crodbtc | 572,908
 139 | AustinTX1985 | 571,526
-140 | DogSpark84 | 553,966
-141 | PortCity_MadMan | 552,183
+140 | PortCity_MadMan | 554,846
+141 | DogSpark84 | 553,966
 142 | StepAsideSuckers | 543,358
 143 | scientifichistorian | 539,560
 144 | shreyaskg | 538,211
@@ -156,7 +156,7 @@ Rank | Username | Totals Tips
 153 | RazPie | 462,003
 154 | WhateverAlready | 455,301
 155 | MediaPrestigious8342 | 453,839
-156 | noface_reddit | 440,373
+156 | noface_reddit | 443,036
 157 | unhingedbigfoot | 439,874
 158 | Dripbot8 | 439,035
 159 | Mopeiooo | 437,268
@@ -202,8 +202,8 @@ Rank | Username | Totals Tips
 199 | stockyewok | 267,001
 200 | SetoXlll | 266,136
 201 | shiesto | 266,111
-202 | tmanfromEarth | 258,392
-203 | SnooMacarons9203 | 257,545
+202 | SnooMacarons9203 | 260,208
+203 | tmanfromEarth | 258,392
 204 | Hactar_42 | 256,832
 205 | thecrabdad | 256,177
 206 | coolpattakers | 254,351
@@ -220,7 +220,7 @@ Rank | Username | Totals Tips
 217 | Zalkwalker | 235,069
 218 | alexthemay | 234,131
 219 | Conetent | 222,451
-220 | Significant_Talk4943 | 219,479
+220 | Significant_Talk4943 | 219,899
 221 | Ashamed_Raccoon9918 | 219,445
 222 | ShortBusCult | 218,859
 223 | SourBeefHoop | 217,512
@@ -635,14 +635,14 @@ Rank | Username | Totals Tips
 632 | Weezthajuice | 12,007
 633 | gnarlypoop | 11,924
 634 | charlythesecond | 11,794
-635 | Hofmaurerad | 11,711
-636 | froi203 | 11,652
-637 | masstransience | 11,623
-638 | reddit_saltyaf | 11,603
-639 | IndependenceHungry69 | 11,561
-640 | J-_Mad | 11,439
-641 | allisonovo | 11,346
-642 | TheChillDyl | 11,298
+635 | TheChillDyl | 11,718
+636 | Hofmaurerad | 11,711
+637 | froi203 | 11,652
+638 | masstransience | 11,623
+639 | reddit_saltyaf | 11,603
+640 | IndependenceHungry69 | 11,561
+641 | J-_Mad | 11,439
+642 | allisonovo | 11,346
 643 | This_Red_Apple | 11,260
 644 | Bramberken05 | 11,110
 645 | GaryJulesMCOC | 11,110
@@ -689,10 +689,10 @@ Rank | Username | Totals Tips
 686 | Otherwise_Assist_34 | 9,083
 687 | 69BoJack69 | 9,003
 688 | Coeruleus_ | 8,985
-689 | ElegantShelter7947 | 8,881
-690 | Duckeis | 8,873
-691 | Nugacity5 | 8,836
-692 | TheyAskWho | 8,790
+689 | TheyAskWho | 8,901
+690 | ElegantShelter7947 | 8,881
+691 | Duckeis | 8,873
+692 | Nugacity5 | 8,836
 693 | BreadfruitIll4265 | 8,608
 694 | TSC4 | 8,600
 695 | ad5xlh | 8,470
