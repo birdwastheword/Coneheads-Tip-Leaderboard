@@ -1,4 +1,4 @@
-Last updated: 23-09-16 08:50:26 UTC  
+Last updated: 23-09-16 09:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -134,7 +134,7 @@ Rank | Username | Totals Tips
 131 | superlonelyboy | 611,557
 132 | __PDS__ | 595,709
 133 | El_Gordone | 592,784
-134 | Burzzzt88 | 591,649
+134 | Burzzzt88 | 592,069
 135 | Independent_Heart_15 | 578,825
 136 | AustinTX1985 | 571,526
 137 | crodbtc | 562,908
