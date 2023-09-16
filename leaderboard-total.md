@@ -1,4 +1,4 @@
-Last updated: 23-09-16 07:00:41 UTC  
+Last updated: 23-09-16 07:15:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | swampyswede | 1,948,457
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,882,352
-61 | CMDRGlamdring | 1,872,181
+61 | CMDRGlamdring | 1,872,188
 62 | djrcollectables | 1,843,155
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
@@ -256,7 +256,7 @@ Rank | Username | Totals Tips
 253 | 6reficul | 153,884
 254 | Complete-Tadpole-728 | 153,568
 255 | NotFullyTerrestrial | 151,302
-256 | satoshi_oscar_wilde | 150,072
+256 | satoshi_oscar_wilde | 150,078
 257 | BitcoinRefuge | 148,181
 258 | jamjam794 | 144,679
 259 | Doovs | 143,375
@@ -387,20 +387,20 @@ Rank | Username | Totals Tips
 384 | lucrica | 59,987
 385 | Dboythegreat | 59,726
 386 | Big-Ticket1506 | 59,666
-387 | preemcuz | 59,154
-388 | Bandit_005 | 58,966
-389 | RepublicRude6350 | 58,754
-390 | Wildspliffosis | 58,703
-391 | meme_used | 58,516
-392 | Trink333 | 58,338
-393 | phrodreky | 58,122
-394 | CryptoScamee42069 | 57,405
-395 | foreignGER | 57,277
-396 | Outrageous_Storm6537 | 56,938
-397 | ProfessionalIcy6456 | 56,380
-398 | chuloreddit | 55,878
-399 | imbarrydylan | 55,689
-400 | OniCowboy | 54,487
+387 | OniCowboy | 59,487
+388 | preemcuz | 59,154
+389 | Bandit_005 | 58,966
+390 | RepublicRude6350 | 58,754
+391 | Wildspliffosis | 58,703
+392 | meme_used | 58,516
+393 | Trink333 | 58,338
+394 | phrodreky | 58,122
+395 | CryptoScamee42069 | 57,405
+396 | foreignGER | 57,277
+397 | Outrageous_Storm6537 | 56,938
+398 | ProfessionalIcy6456 | 56,380
+399 | chuloreddit | 55,878
+400 | imbarrydylan | 55,689
 401 | SandersIncBV | 54,288
 402 | Brandillio | 54,271
 403 | WarningKey6517 | 53,910
