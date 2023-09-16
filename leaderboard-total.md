@@ -1,4 +1,4 @@
-Last updated: 23-09-16 18:01:15 UTC  
+Last updated: 23-09-16 18:21:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 23,088,195
+7 | cutsickass | 23,130,858
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,342,969
 10 | crypto_grandma | 14,063,312
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,579,839
 22 | Skank_cunt_42 | 7,269,825
-23 | Puddin-Luv | 7,246,018
+23 | Puddin-Luv | 7,246,438
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
@@ -46,14 +46,14 @@ Rank | Username | Totals Tips
 43 | ZukoBih | 3,427,082
 44 | LordBobTheWhale | 3,328,203
 45 | Dry_Badger_2403 | 3,193,857
-46 | evilninjarobot | 3,187,383
+46 | evilninjarobot | 3,187,991
 47 | DontLaughArt | 3,090,847
 48 | Korean_Street_Pizza | 2,920,298
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,664,805
 51 | ZoomLong | 2,641,251
 52 | _Royal_Insylum | 2,603,787
-53 | ImAlekBan | 2,583,083
+53 | ImAlekBan | 2,588,083
 54 | possibili-teas | 2,399,515
 55 | Autom4tic_Soze | 2,236,291
 56 | 002_timmy | 2,059,494
@@ -138,8 +138,8 @@ Rank | Username | Totals Tips
 135 | El_Gordone | 592,784
 136 | Burzzzt88 | 592,138
 137 | Independent_Heart_15 | 578,825
-138 | AustinTX1985 | 571,526
-139 | crodbtc | 562,908
+138 | crodbtc | 572,908
+139 | AustinTX1985 | 571,526
 140 | DogSpark84 | 553,966
 141 | PortCity_MadMan | 552,183
 142 | StepAsideSuckers | 543,358
@@ -314,19 +314,19 @@ Rank | Username | Totals Tips
 311 | Chanyuui1 | 104,940
 312 | deathtr0 | 103,801
 313 | Chill_Edoeard | 102,923
-314 | diamondbored | 101,375
-315 | ACorDC | 100,420
-316 | customsolitaires | 99,383
-317 | IHodlStill | 98,684
-318 | FeetAndHandFetish | 98,146
-319 | Knaeggebrott | 97,076
-320 | IOTA_Tesla | 96,607
-321 | CrossPuffs | 95,421
-322 | BrendanTFirefly | 95,347
-323 | AhhhUhmmm | 95,043
-324 | Arvalll | 94,923
-325 | wolfman333 | 93,986
-326 | youtooleyesing | 93,815
+314 | youtooleyesing | 101,804
+315 | diamondbored | 101,375
+316 | ACorDC | 100,420
+317 | customsolitaires | 99,383
+318 | IHodlStill | 98,684
+319 | FeetAndHandFetish | 98,146
+320 | Knaeggebrott | 97,076
+321 | IOTA_Tesla | 96,607
+322 | CrossPuffs | 95,421
+323 | BrendanTFirefly | 95,347
+324 | AhhhUhmmm | 95,043
+325 | Arvalll | 94,923
+326 | wolfman333 | 93,986
 327 | RollingSkull0 | 93,538
 328 | kwickle | 92,805
 329 | H3adshotfox77 | 92,575
@@ -365,7 +365,7 @@ Rank | Username | Totals Tips
 362 | I_AM_MORE_BADASS | 73,121
 363 | 83nno | 72,673
 364 | adi_00_ | 71,759
-365 | CM19901 | 71,138
+365 | CM19901 | 71,207
 366 | sparanaghcoar | 71,118
 367 | ElmerBlack | 70,850
 368 | Bobocod | 70,577
