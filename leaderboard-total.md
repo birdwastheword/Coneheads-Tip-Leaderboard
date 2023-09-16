@@ -1,4 +1,4 @@
-Last updated: 23-09-16 13:40:37 UTC  
+Last updated: 23-09-16 13:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -172,8 +172,8 @@ Rank | Username | Totals Tips
 169 | farmertypoerror | 359,212
 170 | Tinman_ApE | 357,542
 171 | DAMG808 | 355,432
-172 | Outrageous-Skill-464 | 344,174
-173 | fettskull | 343,572
+172 | fettskull | 346,235
+173 | Outrageous-Skill-464 | 344,174
 174 | anony666mous | 341,008
 175 | tsudrat | 340,707
 176 | x52x | 324,929
