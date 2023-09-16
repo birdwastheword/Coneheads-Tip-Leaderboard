@@ -1,4 +1,4 @@
-Last updated: 23-09-16 04:21:29 UTC  
+Last updated: 23-09-16 04:31:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,242,133
-7 | cutsickass | 21,958,195
+7 | cutsickass | 22,438,195
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,342,964
 10 | crypto_grandma | 14,063,312
@@ -475,20 +475,20 @@ Rank | Username | Totals Tips
 472 | degree-01 | 36,486
 473 | genesis_crazy_one | 36,237
 474 | SirPesoOtaku | 35,144
-475 | TRANZHUMANIST | 35,069
-476 | Big-Researcher-3855 | 34,881
-477 | BelowAveIntelligence | 34,132
-478 | Overall-Extension608 | 34,113
-479 | Historical-Lychee-34 | 33,855
-480 | Obvious-Ask-5747 | 33,806
-481 | PoDunkYuppie | 33,513
-482 | keyoh321 | 33,397
-483 | Gerboogler | 33,314
-484 | See0tter | 33,242
-485 | xxapplej4ckx | 33,181
-486 | redditavatar555 | 32,875
-487 | himthecool21 | 32,647
-488 | Ninja_Vagabond | 32,441
+475 | Ninja_Vagabond | 35,104
+476 | TRANZHUMANIST | 35,069
+477 | Big-Researcher-3855 | 34,881
+478 | BelowAveIntelligence | 34,132
+479 | Overall-Extension608 | 34,113
+480 | Historical-Lychee-34 | 33,855
+481 | Obvious-Ask-5747 | 33,806
+482 | PoDunkYuppie | 33,513
+483 | keyoh321 | 33,397
+484 | Gerboogler | 33,314
+485 | See0tter | 33,242
+486 | xxapplej4ckx | 33,181
+487 | redditavatar555 | 32,875
+488 | himthecool21 | 32,647
 489 | mbashs | 32,167
 490 | n00b1shm4n | 32,159
 491 | Originalibb | 32,157
