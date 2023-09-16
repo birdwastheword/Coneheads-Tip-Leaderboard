@@ -1,4 +1,4 @@
-Last updated: 23-09-16 20:30:59 UTC  
+Last updated: 23-09-16 20:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,244,686
 7 | cutsickass | 23,291,969
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,342,969
+9 | _ships | 17,369,599
 10 | crypto_grandma | 14,063,312
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,484,261
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,427,082
-44 | LordBobTheWhale | 3,328,203
+44 | LordBobTheWhale | 3,328,811
 45 | Dry_Badger_2403 | 3,193,857
 46 | evilninjarobot | 3,187,991
 47 | DontLaughArt | 3,090,847
@@ -81,7 +81,7 @@ Rank | Username | Totals Tips
 78 | revdrgonzo | 1,245,635
 79 | Richicash | 1,231,855
 80 | HestiaIsTheBestia | 1,188,046
-81 | Own_Ad_4269 | 1,175,547
+81 | Own_Ad_4269 | 1,179,609
 82 | Feetfailmenot | 1,170,705
 83 | Hot_Potato_Salad | 1,147,558
 84 | beastlybaker | 1,138,701
@@ -422,9 +422,9 @@ Rank | Username | Totals Tips
 419 | d_Shazam_b | 51,991
 420 | slasula | 51,466
 421 | d0ntmess87 | 51,278
-422 | Outside-Wolf5928 | 50,096
-423 | Dolce_00 | 49,943
-424 | LaPantheRose | 49,934
+422 | LaPantheRose | 50,354
+423 | Outside-Wolf5928 | 50,096
+424 | Dolce_00 | 49,943
 425 | Yogi_Kat | 49,785
 426 | eatthebagels | 49,692
 427 | Rbmui13 | 49,605
@@ -553,8 +553,8 @@ Rank | Username | Totals Tips
 550 | deezirae | 22,203
 551 | beejbum | 22,200
 552 | Matth3w_95 | 21,820
-553 | DrD_D | 21,509
-554 | Flamingo777 | 21,497
+553 | Flamingo777 | 21,608
+554 | DrD_D | 21,509
 555 | Tasty_Bag | 21,384
 556 | tiger1647 | 21,339
 557 | RamboBalboa21 | 21,083
