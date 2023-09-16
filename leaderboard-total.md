@@ -1,4 +1,4 @@
-Last updated: 23-09-16 21:14:54 UTC  
+Last updated: 23-09-16 21:22:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,244,686
 7 | cutsickass | 23,321,969
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,370,405
+9 | _ships | 17,376,485
 10 | crypto_grandma | 14,063,312
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -116,11 +116,11 @@ Rank | Username | Totals Tips
 113 | virmamies | 731,434
 114 | dopelifer09 | 727,057
 115 | Successful-Walk-3902 | 723,859
-116 | formidable-opponent | 711,273
-117 | starterpack420694 | 710,420
-118 | WarmIyWacky | 703,049
-119 | frickdom | 702,589
-120 | Obi1eyeKenobi | 698,842
+116 | Obi1eyeKenobi | 718,842
+117 | formidable-opponent | 711,273
+118 | starterpack420694 | 710,420
+119 | WarmIyWacky | 703,049
+120 | frickdom | 702,589
 121 | Starterpack69420 | 696,969
 122 | abracadabra087 | 694,465
 123 | firstmatedotxyz | 688,743
@@ -625,19 +625,19 @@ Rank | Username | Totals Tips
 622 | nullcomplex | 12,663
 623 | No-Success-8681 | 12,663
 624 | norjayy | 12,653
-625 | Potstar1 | 12,552
-626 | FixFull | 12,501
-627 | Dapper_Bloke88 | 12,451
-628 | noah1754 | 12,435
-629 | wesleylyan | 12,257
-630 | ZeusDubstep | 12,050
-631 | bageren | 12,038
-632 | Weezthajuice | 12,007
-633 | gnarlypoop | 11,924
-634 | charlythesecond | 11,794
-635 | TheChillDyl | 11,718
-636 | Hofmaurerad | 11,711
-637 | froi203 | 11,652
+625 | froi203 | 12,652
+626 | Potstar1 | 12,552
+627 | FixFull | 12,501
+628 | Dapper_Bloke88 | 12,451
+629 | noah1754 | 12,435
+630 | wesleylyan | 12,257
+631 | ZeusDubstep | 12,050
+632 | bageren | 12,038
+633 | Weezthajuice | 12,007
+634 | gnarlypoop | 11,924
+635 | charlythesecond | 11,794
+636 | TheChillDyl | 11,718
+637 | Hofmaurerad | 11,711
 638 | masstransience | 11,623
 639 | reddit_saltyaf | 11,603
 640 | IndependenceHungry69 | 11,561
