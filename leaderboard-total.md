@@ -1,4 +1,4 @@
-Last updated: 23-09-16 19:40:53 UTC  
+Last updated: 23-09-16 19:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -27,12 +27,12 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,948
-27 | IveDoneItAtLast | 5,368,208
+27 | IveDoneItAtLast | 5,368,277
 28 | thelonliestcrowd | 5,320,172
 29 | Ginomania | 4,913,011
 30 | send420nudes | 4,727,967
 31 | rikbona | 4,540,773
-32 | VIVOffical | 4,532,292
+32 | VIVOffical | 4,534,955
 33 | redzrex | 4,500,254
 34 | bigbilly1234567899 | 4,496,042
 35 | birdwastheword | 4,421,038
@@ -107,8 +107,8 @@ Rank | Username | Totals Tips
 104 | na7oul | 800,000
 105 | billywright4 | 795,269
 106 | ashketchup422 | 794,067
-107 | Cravensworth_redux | 790,803
-108 | RegalReptile_ | 790,766
+107 | RegalReptile_ | 790,866
+108 | Cravensworth_redux | 790,803
 109 | Westy3000 | 785,931
 110 | ziggybri | 783,463
 111 | cannainform2 | 768,393
@@ -257,7 +257,7 @@ Rank | Username | Totals Tips
 254 | ItailianStallion101 | 160,224
 255 | CoverYourMaskHoles | 159,708
 256 | Clonkerz | 158,006
-257 | Complete-Tadpole-728 | 157,348
+257 | Complete-Tadpole-728 | 157,768
 258 | martymartinator | 155,223
 259 | 6reficul | 153,884
 260 | Chapo_1992 | 151,999
@@ -266,8 +266,8 @@ Rank | Username | Totals Tips
 263 | satoshi_oscar_wilde | 150,078
 264 | BitcoinRefuge | 148,181
 265 | jamjam794 | 144,679
-266 | Doovs | 143,375
-267 | pythonskynet | 143,290
+266 | pythonskynet | 143,710
+267 | Doovs | 143,375
 268 | Sad_Entertainer9961 | 143,248
 269 | Legal-Appointment655 | 142,592
 270 | SalliIsAFem | 140,361
