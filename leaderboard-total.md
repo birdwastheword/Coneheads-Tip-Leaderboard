@@ -1,4 +1,4 @@
-Last updated: 23-09-16 21:50:29 UTC  
+Last updated: 23-09-16 22:01:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,244,686
 7 | cutsickass | 23,321,969
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,388,645
+9 | _ships | 17,391,308
 10 | crypto_grandma | 14,063,312
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -220,12 +220,12 @@ Rank | Username | Totals Tips
 217 | Zalkwalker | 235,069
 218 | alexthemay | 234,131
 219 | Conetent | 222,451
-220 | Significant_Talk4943 | 219,899
-221 | Ashamed_Raccoon9918 | 219,445
-222 | ShortBusCult | 218,859
-223 | SourBeefHoop | 217,512
-224 | yahuurdme | 214,134
-225 | TummyLice | 213,189
+220 | TummyLice | 220,158
+221 | Significant_Talk4943 | 219,899
+222 | Ashamed_Raccoon9918 | 219,445
+223 | ShortBusCult | 218,859
+224 | SourBeefHoop | 217,512
+225 | yahuurdme | 214,134
 226 | Beenthorny | 212,362
 227 | SigSalvadore | 212,358
 228 | UWphoto | 210,892
@@ -471,8 +471,8 @@ Rank | Username | Totals Tips
 468 | Styl_Ianos_ | 38,262
 469 | lovenets_ | 38,182
 470 | rowdy1212 | 38,129
-471 | ysnmingle | 38,038
-472 | samer109 | 37,973
+471 | samer109 | 38,042
+472 | ysnmingle | 38,038
 473 | onetrueSage | 37,633
 474 | shitwhenismycakeday | 37,409
 475 | redditisalt | 37,307
