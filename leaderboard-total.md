@@ -1,4 +1,4 @@
-Last updated: 23-09-16 09:17:13 UTC  
+Last updated: 23-09-16 09:25:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
-27 | IveDoneItAtLast | 5,343,057
+27 | IveDoneItAtLast | 5,343,477
 28 | thelonliestcrowd | 5,317,509
 29 | Ginomania | 4,904,022
 30 | send420nudes | 4,723,698
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | LordBobTheWhale | 3,228,203
 45 | Dry_Badger_2403 | 3,193,857
 46 | DontLaughArt | 3,090,847
-47 | Korean_Street_Pizza | 2,820,229
+47 | Korean_Street_Pizza | 2,920,229
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,664,805
 50 | ZoomLong | 2,641,251
@@ -134,7 +134,7 @@ Rank | Username | Totals Tips
 131 | superlonelyboy | 611,557
 132 | __PDS__ | 595,709
 133 | El_Gordone | 592,784
-134 | Burzzzt88 | 592,069
+134 | Burzzzt88 | 592,138
 135 | Independent_Heart_15 | 578,825
 136 | AustinTX1985 | 571,526
 137 | crodbtc | 562,908
@@ -252,7 +252,7 @@ Rank | Username | Totals Tips
 249 | CoverYourMaskHoles | 159,708
 250 | Clonkerz | 158,006
 251 | martymartinator | 155,223
-252 | ItailianStallion101 | 154,595
+252 | ItailianStallion101 | 154,797
 253 | 6reficul | 153,884
 254 | Complete-Tadpole-728 | 153,568
 255 | NotFullyTerrestrial | 151,302
