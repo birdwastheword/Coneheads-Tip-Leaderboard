@@ -1,4 +1,4 @@
-Last updated: 23-09-16 11:00:58 UTC  
+Last updated: 23-09-16 11:13:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -63,21 +63,21 @@ Rank | Username | Totals Tips
 60 | investigator100 | 1,882,352
 61 | CMDRGlamdring | 1,872,188
 62 | djrcollectables | 1,849,089
-63 | dealkhabari | 1,767,162
-64 | Mundane-Farm-4117 | 1,723,613
-65 | Iulian_TechNewb | 1,717,148
-66 | Ten-Mins-Late | 1,707,793
-67 | KONGXIANG | 1,707,400
-68 | GooderZBK | 1,617,267
-69 | evilninjarobot | 1,584,112
-70 | ultra_terrestrial | 1,492,210
-71 | LongCauliflower6791 | 1,479,722
-72 | YarOldeOrchard | 1,438,286
-73 | ValiantJudge29500 | 1,401,656
-74 | isthistomorrow_ | 1,381,135
-75 | Extreme_Issue7325 | 1,295,890
-76 | saintajoras | 1,251,819
-77 | jimfird | 1,248,574
+63 | jimfird | 1,848,574
+64 | dealkhabari | 1,767,162
+65 | Mundane-Farm-4117 | 1,723,613
+66 | Iulian_TechNewb | 1,717,148
+67 | Ten-Mins-Late | 1,707,793
+68 | KONGXIANG | 1,707,400
+69 | GooderZBK | 1,617,267
+70 | evilninjarobot | 1,584,112
+71 | ultra_terrestrial | 1,492,210
+72 | LongCauliflower6791 | 1,479,722
+73 | YarOldeOrchard | 1,438,286
+74 | ValiantJudge29500 | 1,401,656
+75 | isthistomorrow_ | 1,381,135
+76 | Extreme_Issue7325 | 1,295,890
+77 | saintajoras | 1,251,819
 78 | revdrgonzo | 1,245,635
 79 | Richicash | 1,231,855
 80 | HestiaIsTheBestia | 1,188,046
