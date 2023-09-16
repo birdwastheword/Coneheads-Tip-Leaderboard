@@ -1,4 +1,4 @@
-Last updated: 23-09-16 15:33:38 UTC  
+Last updated: 23-09-16 15:42:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | 002_timmy | 2,059,494
 56 | 0-Give-a-fucks | 1,998,164
 57 | Affectionate_Hand_76 | 1,967,252
-58 | swampyswede | 1,948,457
+58 | swampyswede | 1,948,667
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,882,352
 61 | CMDRGlamdring | 1,872,188
