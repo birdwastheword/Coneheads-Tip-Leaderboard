@@ -1,4 +1,4 @@
-Last updated: 23-09-16 06:22:26 UTC  
+Last updated: 23-09-16 06:30:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | LordBobTheWhale | 3,228,203
 45 | Dry_Badger_2403 | 3,193,857
 46 | DontLaughArt | 3,090,847
-47 | Korean_Street_Pizza | 2,820,160
+47 | Korean_Street_Pizza | 2,820,229
 48 | Mean_Bandicoot_7481 | 2,752,108
 49 | Fenrir-1919 | 2,662,142
 50 | ZoomLong | 2,641,251
@@ -474,8 +474,8 @@ Rank | Username | Totals Tips
 471 | Imalittlestitious86 | 37,090
 472 | degree-01 | 36,486
 473 | genesis_crazy_one | 36,237
-474 | SirPesoOtaku | 35,144
-475 | Ninja_Vagabond | 35,104
+474 | Ninja_Vagabond | 35,173
+475 | SirPesoOtaku | 35,144
 476 | TRANZHUMANIST | 35,069
 477 | Big-Researcher-3855 | 34,881
 478 | BelowAveIntelligence | 34,132
@@ -638,7 +638,7 @@ Rank | Username | Totals Tips
 635 | masstransience | 11,623
 636 | reddit_saltyaf | 11,603
 637 | IndependenceHungry69 | 11,561
-638 | allisonovo | 11,343
+638 | allisonovo | 11,346
 639 | TheChillDyl | 11,298
 640 | This_Red_Apple | 11,260
 641 | Bramberken05 | 11,110
