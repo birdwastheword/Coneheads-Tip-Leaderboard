@@ -1,4 +1,4 @@
-Last updated: 23-09-16 08:00:56 UTC  
+Last updated: 23-09-16 08:20:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -472,15 +472,15 @@ Rank | Username | Totals Tips
 469 | shitwhenismycakeday | 37,409
 470 | redditisalt | 37,307
 471 | Imalittlestitious86 | 37,090
-472 | degree-01 | 36,486
-473 | genesis_crazy_one | 36,237
-474 | Ninja_Vagabond | 35,173
-475 | SirPesoOtaku | 35,144
-476 | TRANZHUMANIST | 35,069
-477 | Big-Researcher-3855 | 34,881
-478 | BelowAveIntelligence | 34,132
-479 | Overall-Extension608 | 34,113
-480 | Historical-Lychee-34 | 33,855
+472 | Historical-Lychee-34 | 36,518
+473 | degree-01 | 36,486
+474 | genesis_crazy_one | 36,237
+475 | Ninja_Vagabond | 35,173
+476 | SirPesoOtaku | 35,144
+477 | TRANZHUMANIST | 35,069
+478 | Big-Researcher-3855 | 34,881
+479 | BelowAveIntelligence | 34,132
+480 | Overall-Extension608 | 34,113
 481 | Obvious-Ask-5747 | 33,806
 482 | PoDunkYuppie | 33,513
 483 | keyoh321 | 33,397
