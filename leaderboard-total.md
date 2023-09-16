@@ -1,4 +1,4 @@
-Last updated: 23-09-16 16:32:18 UTC  
+Last updated: 23-09-16 16:40:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,868,166
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 22,908,195
+7 | cutsickass | 22,938,195
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,342,969
 10 | crypto_grandma | 14,063,312
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | farmertypoerror | 359,212
 171 | Tinman_ApE | 357,542
 172 | DAMG808 | 355,432
-173 | fettskull | 346,235
+173 | fettskull | 351,561
 174 | Outrageous-Skill-464 | 344,174
 175 | anony666mous | 341,008
 176 | tsudrat | 340,707
@@ -342,9 +342,9 @@ Rank | Username | Totals Tips
 339 | qwertywich | 87,473
 340 | BeefaloSlim | 87,465
 341 | bvandepol | 86,258
-342 | Mother-Werewolf185 | 85,579
-343 | Puzzleheaded_Gift738 | 84,020
-344 | youtooleyesing | 83,163
+342 | youtooleyesing | 85,826
+343 | Mother-Werewolf185 | 85,579
+344 | Puzzleheaded_Gift738 | 84,020
 345 | Admirito | 82,353
 346 | standArtpluto | 82,100
 347 | mastermarvs | 80,384
