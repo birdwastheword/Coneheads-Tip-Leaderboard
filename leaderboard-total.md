@@ -1,4 +1,4 @@
-Last updated: 23-09-16 20:40:40 UTC  
+Last updated: 23-09-16 20:50:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,244,686
 7 | cutsickass | 23,291,969
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,369,599
+9 | _ships | 17,370,405
 10 | crypto_grandma | 14,063,312
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -81,7 +81,7 @@ Rank | Username | Totals Tips
 78 | revdrgonzo | 1,245,635
 79 | Richicash | 1,231,855
 80 | HestiaIsTheBestia | 1,188,046
-81 | Own_Ad_4269 | 1,179,609
+81 | Own_Ad_4269 | 1,180,617
 82 | Feetfailmenot | 1,170,705
 83 | Hot_Potato_Salad | 1,147,558
 84 | beastlybaker | 1,138,701
@@ -988,8 +988,8 @@ Rank | Username | Totals Tips
 985 | panjjang | 834
 986 | pulse2017 | 828
 987 | Yegpetphoto | 825
-988 | brymezHD | 769
-989 | imonsterdao | 745
+988 | imonsterdao | 814
+989 | brymezHD | 769
 990 | Ge_n0 | 729
 991 | johnnyb0083 | 727
 992 | SufficientNet9227 | 711
