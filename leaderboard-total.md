@@ -1,4 +1,4 @@
-Last updated: 23-09-16 09:00:47 UTC  
+Last updated: 23-09-16 09:17:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,119,664
@@ -27,9 +27,9 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,879
-27 | IveDoneItAtLast | 5,342,637
+27 | IveDoneItAtLast | 5,343,057
 28 | thelonliestcrowd | 5,317,509
-29 | Ginomania | 4,886,044
+29 | Ginomania | 4,904,022
 30 | send420nudes | 4,723,698
 31 | rikbona | 4,540,773
 32 | VIVOffical | 4,532,292
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | catlover-100 | 1,931,330
 60 | investigator100 | 1,882,352
 61 | CMDRGlamdring | 1,872,188
-62 | djrcollectables | 1,843,763
+62 | djrcollectables | 1,846,426
 63 | dealkhabari | 1,767,162
 64 | Mundane-Farm-4117 | 1,723,613
 65 | Iulian_TechNewb | 1,717,148
