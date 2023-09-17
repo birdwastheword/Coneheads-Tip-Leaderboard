@@ -1,4 +1,4 @@
-Last updated: 23-09-17 20:40:35 UTC  
+Last updated: 23-09-17 20:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 24,117,295
+7 | cutsickass | 24,207,295
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,417,009
 10 | crypto_grandma | 14,063,312
@@ -29,8 +29,8 @@ Rank | Username | Totals Tips
 26 | HippieStarTraveler | 6,257,086
 27 | IveDoneItAtLast | 5,407,711
 28 | thelonliestcrowd | 5,338,813
-29 | Ginomania | 4,913,011
-30 | GuyOne | 4,895,178
+29 | GuyOne | 4,925,178
+30 | Ginomania | 4,913,011
 31 | send420nudes | 4,727,967
 32 | rikbona | 4,540,773
 33 | VIVOffical | 4,534,955
@@ -141,7 +141,7 @@ Rank | Username | Totals Tips
 138 | Independent_Heart_15 | 578,825
 139 | crodbtc | 572,908
 140 | AustinTX1985 | 571,526
-141 | PortCity_MadMan | 557,509
+141 | PortCity_MadMan | 560,172
 142 | StepAsideSuckers | 543,358
 143 | scientifichistorian | 539,560
 144 | shreyaskg | 538,211
@@ -219,7 +219,7 @@ Rank | Username | Totals Tips
 216 | MuhSound | 235,724
 217 | Zalkwalker | 235,069
 218 | alexthemay | 234,131
-219 | Conetent | 222,451
+219 | Conetent | 223,059
 220 | Significant_Talk4943 | 220,319
 221 | TummyLice | 220,158
 222 | Ashamed_Raccoon9918 | 219,865
@@ -747,17 +747,17 @@ Rank | Username | Totals Tips
 744 | SeniorThiccBoi | 6,405
 745 | theindoshow | 6,388
 746 | NSFWCryptoPosting | 6,378
-747 | rpgruli | 6,364
-748 | ReasonReasonable7168 | 6,357
-749 | Schwoanz | 6,219
-750 | solarssun | 6,111
-751 | dorinosss | 6,109
-752 | Ancient_Summer_1833 | 6,001
-753 | DrunkDoge420 | 6,000
-754 | forceworks | 5,998
-755 | SecretSuch420 | 5,981
-756 | RedditReader825 | 5,961
-757 | paracord-bracelets | 5,956
+747 | paracord-bracelets | 6,377
+748 | rpgruli | 6,364
+749 | ReasonReasonable7168 | 6,357
+750 | Schwoanz | 6,219
+751 | solarssun | 6,111
+752 | dorinosss | 6,109
+753 | Ancient_Summer_1833 | 6,001
+754 | DrunkDoge420 | 6,000
+755 | forceworks | 5,998
+756 | SecretSuch420 | 5,981
+757 | RedditReader825 | 5,961
 758 | OddNebula2844 | 5,938
 759 | theBarefootedBastard | 5,896
 760 | Sir_Mobius_Mook | 5,840
