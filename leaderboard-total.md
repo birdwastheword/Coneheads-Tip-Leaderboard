@@ -1,4 +1,4 @@
-Last updated: 23-09-17 19:00:55 UTC  
+Last updated: 23-09-17 19:13:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -7,9 +7,9 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 23,957,295
+7 | cutsickass | 23,987,295
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,399,067
+9 | _ships | 17,408,237
 10 | crypto_grandma | 14,063,312
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -27,11 +27,11 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,948
-27 | IveDoneItAtLast | 5,382,758
+27 | IveDoneItAtLast | 5,382,827
 28 | thelonliestcrowd | 5,338,813
 29 | Ginomania | 4,913,011
 30 | send420nudes | 4,727,967
-31 | GuyOne | 4,609,852
+31 | GuyOne | 4,629,852
 32 | rikbona | 4,540,773
 33 | VIVOffical | 4,534,955
 34 | redzrex | 4,503,337
@@ -168,9 +168,9 @@ Rank | Username | Totals Tips
 165 | monkeybombed | 385,426
 166 | SHIFTY-T3RROR | 382,783
 167 | MisterM0H0 | 379,338
-168 | zenhodl | 374,566
-169 | hellosamaira | 373,235
-170 | fettskull | 372,865
+168 | fettskull | 375,528
+169 | zenhodl | 374,566
+170 | hellosamaira | 373,235
 171 | farmertypoerror | 359,212
 172 | Tinman_ApE | 357,542
 173 | DAMG808 | 355,432
