@@ -1,4 +1,4 @@
-Last updated: 23-09-17 20:30:50 UTC  
+Last updated: 23-09-17 20:40:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | IveDoneItAtLast | 5,407,711
 28 | thelonliestcrowd | 5,338,813
 29 | Ginomania | 4,913,011
-30 | GuyOne | 4,892,515
+30 | GuyOne | 4,895,178
 31 | send420nudes | 4,727,967
 32 | rikbona | 4,540,773
 33 | VIVOffical | 4,534,955
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,427,082
-44 | LordBobTheWhale | 3,330,027
+44 | LordBobTheWhale | 3,332,690
 45 | Dry_Badger_2403 | 3,193,857
 46 | evilninjarobot | 3,191,262
 47 | DontLaughArt | 3,109,444
@@ -141,7 +141,7 @@ Rank | Username | Totals Tips
 138 | Independent_Heart_15 | 578,825
 139 | crodbtc | 572,908
 140 | AustinTX1985 | 571,526
-141 | PortCity_MadMan | 554,846
+141 | PortCity_MadMan | 557,509
 142 | StepAsideSuckers | 543,358
 143 | scientifichistorian | 539,560
 144 | shreyaskg | 538,211
@@ -655,13 +655,13 @@ Rank | Username | Totals Tips
 652 | Zealousideal-War6206 | 10,905
 653 | maurinet79 | 10,844
 654 | j9101a | 10,804
-655 | LimpPeanut5633 | 10,654
-656 | mimsoo777 | 10,638
-657 | ancheli | 10,588
-658 | Straton_Conemont_Inc | 10,550
-659 | Background-Ad-2102 | 10,450
-660 | 73i1 | 10,412
-661 | Most_Border_3917 | 10,289
+655 | Most_Border_3917 | 10,709
+656 | LimpPeanut5633 | 10,654
+657 | mimsoo777 | 10,638
+658 | ancheli | 10,588
+659 | Straton_Conemont_Inc | 10,550
+660 | Background-Ad-2102 | 10,450
+661 | 73i1 | 10,412
 662 | Gamestopisthe1 | 10,227
 663 | TheyAskWho | 10,123
 664 | Consistent_Air_7646 | 10,000
