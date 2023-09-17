@@ -1,4 +1,4 @@
-Last updated: 23-09-17 17:50:51 UTC  
+Last updated: 23-09-17 18:01:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 23,717,295
+7 | cutsickass | 23,747,295
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,399,066
 10 | crypto_grandma | 14,063,312
@@ -36,7 +36,7 @@ Rank | Username | Totals Tips
 33 | redzrex | 4,503,337
 34 | bigbilly1234567899 | 4,496,042
 35 | birdwastheword | 4,421,038
-36 | GuyOne | 4,339,852
+36 | GuyOne | 4,344,852
 37 | rustyybikes | 4,273,490
 38 | zdubs | 3,756,960
 39 | thom_orrow | 3,734,442
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | WarmBiertje | 1,000,000
 93 | CluelessSurvivor | 997,184
 94 | EvanIsBacon | 970,416
-95 | ID404_Not_Found_8964 | 954,986
+95 | ID404_Not_Found_8964 | 955,486
 96 | CHEROKEEJ4CK | 940,286
 97 | Forward_Today2849 | 932,405
 98 | Modestexcuse | 903,684
@@ -246,14 +246,14 @@ Rank | Username | Totals Tips
 243 | ZeMadMan1 | 183,251
 244 | ruccarucca | 180,270
 245 | Jadenindubai | 176,626
-246 | high5s_inureye | 173,714
-247 | YourThighsWarmMyEars | 172,697
-248 | Street_Addd | 171,939
-249 | MymannosaurusRex | 171,317
-250 | sjakkpila | 167,546
-251 | MelonFarmer420 | 166,716
-252 | DamnWhySoLow | 166,675
-253 | Complete-Tadpole-728 | 166,617
+246 | sjakkpila | 174,546
+247 | high5s_inureye | 173,714
+248 | YourThighsWarmMyEars | 172,697
+249 | Street_Addd | 171,939
+250 | MymannosaurusRex | 171,317
+251 | Complete-Tadpole-728 | 169,280
+252 | MelonFarmer420 | 166,716
+253 | DamnWhySoLow | 166,675
 254 | DrThunderHandz | 163,658
 255 | ItailianStallion101 | 160,224
 256 | CoverYourMaskHoles | 159,708
@@ -404,7 +404,7 @@ Rank | Username | Totals Tips
 401 | Wildspliffosis | 58,703
 402 | Trink333 | 58,338
 403 | phrodreky | 58,192
-404 | Dottore_Bettore | 57,817
+404 | Dottore_Bettore | 57,917
 405 | foreignGER | 57,484
 406 | CryptoScamee42069 | 57,405
 407 | Outrageous_Storm6537 | 56,938
