@@ -1,4 +1,4 @@
-Last updated: 23-09-17 02:43:26 UTC  
+Last updated: 23-09-17 02:51:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,579,839
 22 | Skank_cunt_42 | 7,269,825
-23 | Puddin-Luv | 7,249,709
+23 | Puddin-Luv | 7,252,372
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,948
@@ -199,7 +199,7 @@ Rank | Username | Totals Tips
 196 | Final-Scar-941 | 271,039
 197 | hey_barry | 269,698
 198 | _Mitchee_ | 269,156
-199 | stockyewok | 267,421
+199 | stockyewok | 267,841
 200 | SetoXlll | 266,136
 201 | shiesto | 266,111
 202 | SnooMacarons9203 | 260,208
