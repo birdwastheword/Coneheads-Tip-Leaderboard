@@ -1,4 +1,4 @@
-Last updated: 23-09-17 18:40:53 UTC  
+Last updated: 23-09-17 18:50:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 23,897,295
+7 | cutsickass | 23,927,295
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,399,066
 10 | crypto_grandma | 14,063,312
@@ -27,11 +27,11 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,948
-27 | IveDoneItAtLast | 5,380,087
+27 | IveDoneItAtLast | 5,382,750
 28 | thelonliestcrowd | 5,336,150
 29 | Ginomania | 4,913,011
 30 | send420nudes | 4,727,967
-31 | GuyOne | 4,569,852
+31 | GuyOne | 4,599,852
 32 | rikbona | 4,540,773
 33 | VIVOffical | 4,534,955
 34 | redzrex | 4,503,337
@@ -68,8 +68,8 @@ Rank | Username | Totals Tips
 65 | dealkhabari | 1,767,162
 66 | Mundane-Farm-4117 | 1,723,613
 67 | Iulian_TechNewb | 1,717,217
-68 | Ten-Mins-Late | 1,707,793
-69 | KONGXIANG | 1,707,400
+68 | KONGXIANG | 1,710,063
+69 | Ten-Mins-Late | 1,707,793
 70 | GooderZBK | 1,617,267
 71 | ultra_terrestrial | 1,496,830
 72 | LongCauliflower6791 | 1,479,722
@@ -246,8 +246,8 @@ Rank | Username | Totals Tips
 243 | ZeMadMan1 | 183,251
 244 | ruccarucca | 180,270
 245 | Jadenindubai | 176,626
-246 | Complete-Tadpole-728 | 174,606
-247 | sjakkpila | 174,546
+246 | sjakkpila | 175,154
+247 | Complete-Tadpole-728 | 174,606
 248 | high5s_inureye | 173,714
 249 | YourThighsWarmMyEars | 172,697
 250 | Street_Addd | 171,939
@@ -851,10 +851,10 @@ Rank | Username | Totals Tips
 848 | bilbofraginz | 2,760
 849 | FrankieTheYoung | 2,737
 850 | l0l_random | 2,732
-851 | Niksa2007 | 2,688
-852 | BlockChad | 2,663
-853 | Minha_zafar | 2,663
-854 | exit-liquidity | 2,663
+851 | exit-liquidity | 2,732
+852 | Niksa2007 | 2,688
+853 | BlockChad | 2,663
+854 | Minha_zafar | 2,663
 855 | SaltyBanana4711 | 2,663
 856 | getterdough | 2,663
 857 | zuu8 | 2,663
