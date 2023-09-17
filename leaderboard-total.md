@@ -1,4 +1,4 @@
-Last updated: 23-09-17 18:50:42 UTC  
+Last updated: 23-09-17 19:00:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -7,9 +7,9 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 23,927,295
+7 | cutsickass | 23,957,295
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,399,066
+9 | _ships | 17,399,067
 10 | crypto_grandma | 14,063,312
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -27,11 +27,11 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,948
-27 | IveDoneItAtLast | 5,382,750
-28 | thelonliestcrowd | 5,336,150
+27 | IveDoneItAtLast | 5,382,758
+28 | thelonliestcrowd | 5,338,813
 29 | Ginomania | 4,913,011
 30 | send420nudes | 4,727,967
-31 | GuyOne | 4,599,852
+31 | GuyOne | 4,609,852
 32 | rikbona | 4,540,773
 33 | VIVOffical | 4,534,955
 34 | redzrex | 4,503,337
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | dealkhabari | 1,767,162
 66 | Mundane-Farm-4117 | 1,723,613
 67 | Iulian_TechNewb | 1,717,217
-68 | KONGXIANG | 1,710,063
+68 | KONGXIANG | 1,712,726
 69 | Ten-Mins-Late | 1,707,793
 70 | GooderZBK | 1,617,267
 71 | ultra_terrestrial | 1,496,830
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | WarmBiertje | 1,000,000
 93 | CluelessSurvivor | 997,184
 94 | EvanIsBacon | 970,416
-95 | ID404_Not_Found_8964 | 955,486
+95 | ID404_Not_Found_8964 | 955,502
 96 | CHEROKEEJ4CK | 940,286
 97 | Forward_Today2849 | 932,405
 98 | Modestexcuse | 903,684
@@ -283,8 +283,8 @@ Rank | Username | Totals Tips
 280 | GoodMornEveGoodNight | 131,088
 281 | Mj_6o4 | 129,568
 282 | Awake-- | 128,173
-283 | robnectar | 127,974
-284 | SaberTurret | 127,545
+283 | SaberTurret | 128,153
+284 | robnectar | 127,974
 285 | DeanDeanington | 127,267
 286 | CalligrapherEnough83 | 127,227
 287 | 192000Hertz | 125,783
