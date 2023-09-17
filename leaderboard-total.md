@@ -1,4 +1,4 @@
-Last updated: 23-09-17 16:50:49 UTC  
+Last updated: 23-09-17 17:00:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -36,11 +36,11 @@ Rank | Username | Totals Tips
 33 | redzrex | 4,500,674
 34 | bigbilly1234567899 | 4,496,042
 35 | birdwastheword | 4,421,038
-36 | rustyybikes | 4,270,734
+36 | rustyybikes | 4,271,154
 37 | zdubs | 3,756,960
 38 | thom_orrow | 3,734,442
 39 | clean_cut89 | 3,713,476
-40 | GuyOne | 3,581,291
+40 | GuyOne | 3,593,451
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,427,082
@@ -591,7 +591,7 @@ Rank | Username | Totals Tips
 588 | deeeznotes | 16,235
 589 | Conflict63 | 16,063
 590 | giooo_tdm | 15,964
-591 | Fivebag | 15,841
+591 | Fivebag | 15,941
 592 | D6P6 | 15,784
 593 | Zwott | 15,441
 594 | Fr3sh-Ch3mical | 15,393
