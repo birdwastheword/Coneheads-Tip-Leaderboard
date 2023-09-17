@@ -1,4 +1,4 @@
-Last updated: 23-09-17 19:50:40 UTC  
+Last updated: 23-09-17 20:00:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,244,686
 7 | cutsickass | 24,057,295
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,416,203
+9 | _ships | 17,417,009
 10 | crypto_grandma | 14,063,312
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -30,14 +30,14 @@ Rank | Username | Totals Tips
 27 | IveDoneItAtLast | 5,407,291
 28 | thelonliestcrowd | 5,338,813
 29 | Ginomania | 4,913,011
-30 | GuyOne | 4,749,852
+30 | GuyOne | 4,779,852
 31 | send420nudes | 4,727,967
 32 | rikbona | 4,540,773
 33 | VIVOffical | 4,534,955
 34 | redzrex | 4,503,337
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
-37 | rustyybikes | 4,273,490
+37 | rustyybikes | 4,276,153
 38 | zdubs | 3,756,960
 39 | thom_orrow | 3,734,442
 40 | clean_cut89 | 3,713,476
@@ -113,7 +113,7 @@ Rank | Username | Totals Tips
 110 | Westy3000 | 785,931
 111 | ziggybri | 783,883
 112 | cannainform2 | 768,813
-113 | formidable-opponent | 744,376
+113 | formidable-opponent | 745,153
 114 | virmamies | 731,434
 115 | dopelifer09 | 727,057
 116 | Successful-Walk-3902 | 723,859
@@ -152,8 +152,8 @@ Rank | Username | Totals Tips
 149 | AcceptableLeg8751 | 500,000
 150 | Lady_Lucks_Man | 479,132
 151 | sinlesco | 465,153
-152 | WarmlyWacky | 462,118
-153 | RazPie | 462,003
+152 | RazPie | 464,666
+153 | WarmlyWacky | 462,118
 154 | WhateverAlready | 455,301
 155 | MediaPrestigious8342 | 453,839
 156 | noface_reddit | 443,036
