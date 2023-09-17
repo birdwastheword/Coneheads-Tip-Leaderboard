@@ -1,4 +1,4 @@
-Last updated: 23-09-17 02:26:27 UTC  
+Last updated: 23-09-17 02:35:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,579,839
 22 | Skank_cunt_42 | 7,269,825
-23 | Puddin-Luv | 7,249,101
+23 | Puddin-Luv | 7,249,709
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,948
@@ -160,7 +160,7 @@ Rank | Username | Totals Tips
 157 | unhingedbigfoot | 439,874
 158 | Dripbot8 | 439,035
 159 | Mopeiooo | 437,268
-160 | LX1070 | 430,602
+160 | LX1070 | 430,671
 161 | Lion-Hermit | 416,210
 162 | dronegeeks1 | 414,406
 163 | LrnFaroeseWthBergur | 409,488
