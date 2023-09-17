@@ -1,4 +1,4 @@
-Last updated: 23-09-17 22:40:38 UTC  
+Last updated: 23-09-17 22:50:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 24,268,632
+7 | cutsickass | 24,298,632
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,417,009
 10 | crypto_grandma | 14,063,312
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | LordBobTheWhale | 3,332,690
 45 | Dry_Badger_2403 | 3,193,857
 46 | evilninjarobot | 3,191,262
-47 | DontLaughArt | 3,147,433
+47 | DontLaughArt | 3,186,421
 48 | Korean_Street_Pizza | 2,920,718
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,665,413
