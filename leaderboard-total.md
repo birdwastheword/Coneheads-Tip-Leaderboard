@@ -1,4 +1,4 @@
-Last updated: 23-09-17 19:22:25 UTC  
+Last updated: 23-09-17 19:30:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,948
-27 | IveDoneItAtLast | 5,385,490
+27 | IveDoneItAtLast | 5,385,559
 28 | thelonliestcrowd | 5,338,813
 29 | Ginomania | 4,913,011
 30 | send420nudes | 4,727,967
@@ -235,13 +235,13 @@ Rank | Username | Totals Tips
 232 | ziggyback | 203,369
 233 | CedricDiccory | 197,932
 234 | sudrats | 197,124
-235 | redditavanft | 195,122
-236 | AverageLiberalJoe | 195,007
-237 | skollywag92 | 194,509
-238 | RiightYouKnow | 193,329
-239 | bakerdawg555 | 192,028
-240 | 1ndy1 | 189,485
-241 | Overall-Extension608 | 186,776
+235 | Overall-Extension608 | 196,776
+236 | redditavanft | 195,122
+237 | AverageLiberalJoe | 195,007
+238 | skollywag92 | 194,509
+239 | RiightYouKnow | 193,329
+240 | bakerdawg555 | 192,028
+241 | 1ndy1 | 189,485
 242 | nooobmaester69 | 183,460
 243 | ZeMadMan1 | 183,251
 244 | ruccarucca | 180,270
