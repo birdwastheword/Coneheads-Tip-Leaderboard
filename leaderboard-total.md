@@ -1,4 +1,4 @@
-Last updated: 23-09-17 20:50:41 UTC  
+Last updated: 23-09-17 21:01:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | HippieStarTraveler | 6,257,086
 27 | IveDoneItAtLast | 5,407,711
 28 | thelonliestcrowd | 5,338,813
-29 | GuyOne | 4,925,178
+29 | GuyOne | 4,955,178
 30 | Ginomania | 4,913,011
 31 | send420nudes | 4,727,967
 32 | rikbona | 4,540,773
@@ -102,17 +102,17 @@ Rank | Username | Totals Tips
 99 | thee_monster | 896,765
 100 | Bobisdeadrun | 869,015
 101 | orangesandonions | 855,238
-102 | Alanski22 | 829,080
-103 | adrifing | 816,494
-104 | goldyluckinblokchain | 809,537
-105 | vbutarin | 802,000
-106 | na7oul | 800,000
-107 | billywright4 | 795,269
-108 | RegalReptile_ | 793,529
-109 | Cravensworth_redux | 790,803
-110 | Westy3000 | 785,931
-111 | ziggybri | 783,883
-112 | formidable-opponent | 771,783
+102 | formidable-opponent | 830,193
+103 | Alanski22 | 829,080
+104 | adrifing | 816,494
+105 | goldyluckinblokchain | 809,537
+106 | vbutarin | 802,000
+107 | na7oul | 800,000
+108 | billywright4 | 795,269
+109 | RegalReptile_ | 793,529
+110 | Cravensworth_redux | 790,803
+111 | Westy3000 | 785,931
+112 | ziggybri | 783,883
 113 | cannainform2 | 768,813
 114 | virmamies | 731,434
 115 | dopelifer09 | 727,057
@@ -150,7 +150,7 @@ Rank | Username | Totals Tips
 147 | Crypto-4-Freedom | 509,856
 148 | f0n1xr131ng | 509,681
 149 | AcceptableLeg8751 | 500,000
-150 | Lady_Lucks_Man | 479,132
+150 | Lady_Lucks_Man | 479,740
 151 | sinlesco | 465,153
 152 | RazPie | 464,666
 153 | WarmlyWacky | 462,118
@@ -330,7 +330,7 @@ Rank | Username | Totals Tips
 327 | RollingSkull0 | 93,538
 328 | kwickle | 92,805
 329 | H3adshotfox77 | 92,575
-330 | urlz | 91,281
+330 | urlz | 91,688
 331 | Backwood20 | 90,298
 332 | DramaticProtogen | 90,274
 333 | Award-Bot | 90,000
@@ -354,10 +354,10 @@ Rank | Username | Totals Tips
 351 | Pwny_b0y | 79,447
 352 | TheOneWhoCared | 79,079
 353 | GodOfWarGuy737 | 79,069
-354 | fleshlyLoath | 78,366
-355 | mokkingjay | 77,914
-356 | HelicopterDear6064 | 77,619
-357 | Derefringence | 77,095
+354 | Derefringence | 78,515
+355 | fleshlyLoath | 78,366
+356 | mokkingjay | 77,914
+357 | HelicopterDear6064 | 77,619
 358 | Heycheckthisout20 | 75,608
 359 | MedicineMaterial3501 | 74,654
 360 | Steadfast_Apparition | 74,506
@@ -744,10 +744,10 @@ Rank | Username | Totals Tips
 741 | st3alth247 | 6,583
 742 | dexabonk | 6,541
 743 | _pondering_insomniac | 6,500
-744 | SeniorThiccBoi | 6,405
-745 | theindoshow | 6,388
-746 | NSFWCryptoPosting | 6,378
-747 | paracord-bracelets | 6,377
+744 | paracord-bracelets | 6,447
+745 | SeniorThiccBoi | 6,405
+746 | theindoshow | 6,388
+747 | NSFWCryptoPosting | 6,378
 748 | rpgruli | 6,364
 749 | ReasonReasonable7168 | 6,357
 750 | Schwoanz | 6,219
