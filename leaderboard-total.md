@@ -1,4 +1,4 @@
-Last updated: 23-09-17 01:34:03 UTC  
+Last updated: 23-09-17 02:06:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -9,13 +9,13 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,244,686
 7 | cutsickass | 23,381,969
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,398,458
+9 | _ships | 17,399,066
 10 | crypto_grandma | 14,063,312
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,852,493
-15 | Permanent_WSB_Bull | 11,134,183
+15 | Permanent_WSB_Bull | 11,184,183
 16 | SpookySYN | 10,707,569
 17 | 8inchConer | 8,947,619
 18 | avyun | 8,610,265
@@ -170,7 +170,7 @@ Rank | Username | Totals Tips
 167 | MisterM0H0 | 379,338
 168 | zenhodl | 374,566
 169 | hellosamaira | 373,235
-170 | fettskull | 370,202
+170 | fettskull | 372,865
 171 | farmertypoerror | 359,212
 172 | Tinman_ApE | 357,542
 173 | DAMG808 | 355,432
@@ -253,10 +253,10 @@ Rank | Username | Totals Tips
 250 | sjakkpila | 167,546
 251 | MelonFarmer420 | 166,716
 252 | DamnWhySoLow | 166,675
-253 | DrThunderHandz | 163,658
-254 | ItailianStallion101 | 160,224
-255 | CoverYourMaskHoles | 159,708
-256 | Complete-Tadpole-728 | 159,448
+253 | Complete-Tadpole-728 | 166,197
+254 | DrThunderHandz | 163,658
+255 | ItailianStallion101 | 160,224
+256 | CoverYourMaskHoles | 159,708
 257 | Clonkerz | 158,006
 258 | martymartinator | 155,223
 259 | 6reficul | 153,884
@@ -724,7 +724,7 @@ Rank | Username | Totals Tips
 721 | FlippiShh | 7,440
 722 | quaker-goats | 7,414
 723 | Weirdclerk_ | 7,392
-724 | strworld | 7,233
+724 | strworld | 7,302
 725 | Alternative-Radish13 | 6,969
 726 | tbobs04 | 6,969
 727 | 0xboi | 6,969
@@ -919,12 +919,12 @@ Rank | Username | Totals Tips
 916 | Pataphak377 | 1,490
 917 | adamdmn | 1,490
 918 | WhiteMoss_ | 1,488
-919 | lovegreencandles | 1,454
-920 | SinTron99 | 1,448
-921 | Prodigyyyyyy | 1,432
-922 | mkultrahigh | 1,415
-923 | Unlucky_Narwhal3983 | 1,396
-924 | pizza-chit | 1,392
+919 | pizza-chit | 1,461
+920 | lovegreencandles | 1,454
+921 | SinTron99 | 1,448
+922 | Prodigyyyyyy | 1,432
+923 | mkultrahigh | 1,415
+924 | Unlucky_Narwhal3983 | 1,396
 925 | Silence-Samurai8357 | 1,385
 926 | ElderberryOk469 | 1,338
 927 | _swnt_ | 1,337
