@@ -1,4 +1,4 @@
-Last updated: 23-09-17 03:00:56 UTC  
+Last updated: 23-09-17 03:18:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,852,493
 15 | Permanent_WSB_Bull | 11,184,183
-16 | SpookySYN | 10,707,569
+16 | SpookySYN | 10,710,232
 17 | 8inchConer | 8,947,619
 18 | avyun | 8,610,265
 19 | ArtConsitent | 8,533,379
@@ -38,9 +38,9 @@ Rank | Username | Totals Tips
 35 | birdwastheword | 4,421,038
 36 | rustyybikes | 4,270,734
 37 | zdubs | 3,756,960
-38 | thom_orrow | 3,734,342
+38 | thom_orrow | 3,734,442
 39 | clean_cut89 | 3,713,476
-40 | GuyOne | 3,578,628
+40 | GuyOne | 3,581,291
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,427,082
@@ -241,7 +241,7 @@ Rank | Username | Totals Tips
 238 | RiightYouKnow | 193,329
 239 | bakerdawg555 | 192,028
 240 | 1ndy1 | 189,485
-241 | Overall-Extension608 | 184,113
+241 | Overall-Extension608 | 186,776
 242 | nooobmaester69 | 183,460
 243 | ZeMadMan1 | 183,251
 244 | ruccarucca | 180,270
@@ -284,11 +284,11 @@ Rank | Username | Totals Tips
 281 | Mj_6o4 | 129,568
 282 | Awake-- | 128,173
 283 | robnectar | 127,974
-284 | DeanDeanington | 127,267
-285 | CalligrapherEnough83 | 127,227
-286 | 192000Hertz | 125,783
-287 | Trakorr | 125,110
-288 | SaberTurret | 124,882
+284 | SaberTurret | 127,545
+285 | DeanDeanington | 127,267
+286 | CalligrapherEnough83 | 127,227
+287 | 192000Hertz | 125,783
+288 | Trakorr | 125,110
 289 | Sativa55555 | 121,550
 290 | stupidcupid112 | 121,421
 291 | lucivaryas | 121,420
