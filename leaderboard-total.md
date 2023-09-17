@@ -1,4 +1,4 @@
-Last updated: 23-09-17 22:50:42 UTC  
+Last updated: 23-09-17 23:00:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,857,819
 15 | Permanent_WSB_Bull | 11,184,183
-16 | SpookySYN | 10,710,232
+16 | SpookySYN | 10,810,232
 17 | 8inchConer | 8,947,619
 18 | avyun | 8,610,265
 19 | ArtConsitent | 8,533,379
@@ -45,9 +45,9 @@ Rank | Username | Totals Tips
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,427,082
 44 | LordBobTheWhale | 3,332,690
-45 | Dry_Badger_2403 | 3,193,857
-46 | evilninjarobot | 3,191,262
-47 | DontLaughArt | 3,186,421
+45 | DontLaughArt | 3,197,073
+46 | Dry_Badger_2403 | 3,193,857
+47 | evilninjarobot | 3,191,262
 48 | Korean_Street_Pizza | 2,920,718
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,665,413
@@ -659,17 +659,17 @@ Rank | Username | Totals Tips
 656 | LimpPeanut5633 | 10,654
 657 | mimsoo777 | 10,638
 658 | ancheli | 10,588
-659 | Straton_Conemont_Inc | 10,550
-660 | Background-Ad-2102 | 10,450
-661 | 73i1 | 10,412
-662 | Gamestopisthe1 | 10,227
-663 | TheyAskWho | 10,123
-664 | Consistent_Air_7646 | 10,000
-665 | LordCitrus69 | 10,000
-666 | xMikaRikax | 10,000
-667 | z6joker9 | 10,000
-668 | No-Confusion7414 | 9,959
-669 | Swoopscooter | 9,948
+659 | Swoopscooter | 10,556
+660 | Straton_Conemont_Inc | 10,550
+661 | Background-Ad-2102 | 10,450
+662 | 73i1 | 10,412
+663 | Gamestopisthe1 | 10,227
+664 | TheyAskWho | 10,123
+665 | Consistent_Air_7646 | 10,000
+666 | LordCitrus69 | 10,000
+667 | xMikaRikax | 10,000
+668 | z6joker9 | 10,000
+669 | No-Confusion7414 | 9,959
 670 | boopcorgi | 9,923
 671 | supatard44 | 9,891
 672 | Badit_01 | 9,738
