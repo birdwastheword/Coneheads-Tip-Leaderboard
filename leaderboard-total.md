@@ -1,8 +1,8 @@
-Last updated: 23-09-17 17:33:39 UTC  
+Last updated: 23-09-17 17:41:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
-2 | Wonderful_Bad6531 | 36,220,628
+2 | Wonderful_Bad6531 | 36,223,291
 3 | nakamo-toe | 34,693,664
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
@@ -23,12 +23,12 @@ Rank | Username | Totals Tips
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,579,839
 22 | Skank_cunt_42 | 7,269,825
-23 | Puddin-Luv | 7,255,035
+23 | Puddin-Luv | 7,257,698
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,948
 27 | IveDoneItAtLast | 5,371,009
-28 | thelonliestcrowd | 5,330,824
+28 | thelonliestcrowd | 5,333,487
 29 | Ginomania | 4,913,011
 30 | send420nudes | 4,727,967
 31 | rikbona | 4,540,773
@@ -37,7 +37,7 @@ Rank | Username | Totals Tips
 34 | bigbilly1234567899 | 4,496,042
 35 | birdwastheword | 4,421,038
 36 | rustyybikes | 4,273,490
-37 | GuyOne | 4,135,641
+37 | GuyOne | 4,189,962
 38 | zdubs | 3,756,960
 39 | thom_orrow | 3,734,442
 40 | clean_cut89 | 3,713,476
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | LordBobTheWhale | 3,329,419
 45 | Dry_Badger_2403 | 3,193,857
 46 | evilninjarobot | 3,190,654
-47 | DontLaughArt | 3,103,510
+47 | DontLaughArt | 3,108,836
 48 | Korean_Street_Pizza | 2,920,718
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,665,413
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | Affectionate_Hand_76 | 1,967,252
 59 | swampyswede | 1,948,877
 60 | catlover-100 | 1,931,330
-61 | CMDRGlamdring | 1,885,810
+61 | CMDRGlamdring | 1,888,473
 62 | investigator100 | 1,885,015
 63 | djrcollectables | 1,851,821
 64 | jimfird | 1,848,643
@@ -564,13 +564,13 @@ Rank | Username | Totals Tips
 561 | DLPD-Camko | 20,377
 562 | WiseDude69 | 20,337
 563 | Bear-Bull-Pig | 20,231
-564 | NoahG59 | 20,002
-565 | SlowpokesEmporium | 20,001
-566 | Yeh_nah_yeh_ | 20,000
-567 | PassiveRoadRage | 20,000
-568 | Arash_Rezae | 20,000
-569 | maliplazi | 20,000
-570 | lookwhatumademedoo | 19,999
+564 | lookwhatumademedoo | 20,068
+565 | NoahG59 | 20,002
+566 | SlowpokesEmporium | 20,001
+567 | Yeh_nah_yeh_ | 20,000
+568 | PassiveRoadRage | 20,000
+569 | Arash_Rezae | 20,000
+570 | maliplazi | 20,000
 571 | PsLJdogg | 19,975
 572 | Iiwip | 19,533
 573 | MalarkyD | 19,527
