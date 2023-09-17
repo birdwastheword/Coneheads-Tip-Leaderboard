@@ -1,4 +1,4 @@
-Last updated: 23-09-17 02:35:03 UTC  
+Last updated: 23-09-17 02:43:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,427,082
-44 | LordBobTheWhale | 3,328,811
+44 | LordBobTheWhale | 3,329,419
 45 | Dry_Badger_2403 | 3,193,857
 46 | evilninjarobot | 3,190,654
 47 | DontLaughArt | 3,090,847
@@ -112,7 +112,7 @@ Rank | Username | Totals Tips
 109 | Cravensworth_redux | 790,803
 110 | Westy3000 | 785,931
 111 | ziggybri | 783,463
-112 | cannainform2 | 768,393
+112 | cannainform2 | 768,813
 113 | virmamies | 731,434
 114 | dopelifer09 | 727,057
 115 | Successful-Walk-3902 | 723,859
@@ -660,16 +660,16 @@ Rank | Username | Totals Tips
 657 | Background-Ad-2102 | 10,450
 658 | 73i1 | 10,412
 659 | Most_Border_3917 | 10,289
-660 | Gamestopisthe1 | 10,227
-661 | Consistent_Air_7646 | 10,000
-662 | LordCitrus69 | 10,000
-663 | xMikaRikax | 10,000
-664 | z6joker9 | 10,000
-665 | No-Confusion7414 | 9,959
-666 | Swoopscooter | 9,948
-667 | boopcorgi | 9,923
-668 | supatard44 | 9,891
-669 | LimpPeanut5633 | 9,814
+660 | LimpPeanut5633 | 10,234
+661 | Gamestopisthe1 | 10,227
+662 | Consistent_Air_7646 | 10,000
+663 | LordCitrus69 | 10,000
+664 | xMikaRikax | 10,000
+665 | z6joker9 | 10,000
+666 | No-Confusion7414 | 9,959
+667 | Swoopscooter | 9,948
+668 | boopcorgi | 9,923
+669 | supatard44 | 9,891
 670 | Badit_01 | 9,738
 671 | Ok-Profile-1744 | 9,709
 672 | Zeratrem | 9,683
