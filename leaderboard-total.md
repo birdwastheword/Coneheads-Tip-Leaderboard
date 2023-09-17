@@ -1,4 +1,4 @@
-Last updated: 23-09-17 18:01:02 UTC  
+Last updated: 23-09-17 18:21:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 23,747,295
+7 | cutsickass | 23,807,295
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,399,066
 10 | crypto_grandma | 14,063,312
@@ -35,8 +35,8 @@ Rank | Username | Totals Tips
 32 | VIVOffical | 4,534,955
 33 | redzrex | 4,503,337
 34 | bigbilly1234567899 | 4,496,042
-35 | birdwastheword | 4,421,038
-36 | GuyOne | 4,344,852
+35 | GuyOne | 4,469,852
+36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,273,490
 38 | zdubs | 3,756,960
 39 | thom_orrow | 3,734,442
@@ -249,9 +249,9 @@ Rank | Username | Totals Tips
 246 | sjakkpila | 174,546
 247 | high5s_inureye | 173,714
 248 | YourThighsWarmMyEars | 172,697
-249 | Street_Addd | 171,939
-250 | MymannosaurusRex | 171,317
-251 | Complete-Tadpole-728 | 169,280
+249 | Complete-Tadpole-728 | 171,943
+250 | Street_Addd | 171,939
+251 | MymannosaurusRex | 171,317
 252 | MelonFarmer420 | 166,716
 253 | DamnWhySoLow | 166,675
 254 | DrThunderHandz | 163,658
@@ -260,7 +260,7 @@ Rank | Username | Totals Tips
 257 | Clonkerz | 158,006
 258 | martymartinator | 155,223
 259 | 6reficul | 153,884
-260 | Chapo_1992 | 151,999
+260 | Chapo_1992 | 152,999
 261 | NotFullyTerrestrial | 151,302
 262 | Nxnng | 151,195
 263 | satoshi_oscar_wilde | 150,078
@@ -340,8 +340,8 @@ Rank | Username | Totals Tips
 337 | HokkaidoNights | 88,108
 338 | ShopALF | 88,011
 339 | Hoppy_Doodle | 88,000
-340 | qwertywich | 87,473
-341 | BeefaloSlim | 87,465
+340 | BeefaloSlim | 87,885
+341 | qwertywich | 87,473
 342 | bvandepol | 86,258
 343 | Mother-Werewolf185 | 85,579
 344 | Puzzleheaded_Gift738 | 84,020
@@ -350,7 +350,7 @@ Rank | Username | Totals Tips
 347 | shellystarzz | 81,077
 348 | Bobocod | 80,577
 349 | mastermarvs | 80,384
-350 | XeroGrave | 80,000
+350 | XeroGrave | 80,069
 351 | Pwny_b0y | 79,447
 352 | TheOneWhoCared | 79,079
 353 | GodOfWarGuy737 | 79,069
@@ -364,7 +364,7 @@ Rank | Username | Totals Tips
 361 | pwan7505 | 73,893
 362 | Diamond_PnutBrain | 73,688
 363 | I_AM_MORE_BADASS | 73,121
-364 | 83nno | 72,673
+364 | 83nno | 72,742
 365 | adi_00_ | 71,759
 366 | CM19901 | 71,207
 367 | sparanaghcoar | 71,118
@@ -756,23 +756,23 @@ Rank | Username | Totals Tips
 753 | RedditReader825 | 5,961
 754 | OddNebula2844 | 5,938
 755 | theBarefootedBastard | 5,896
-756 | Sir_Mobius_Mook | 5,840
-757 | aPandox | 5,695
-758 | Showwwy87 | 5,597
-759 | Makaveli4Sheez | 5,569
-760 | DioDilemma | 5,545
-761 | LATech99 | 5,463
-762 | unacceptable_name25 | 5,395
-763 | Independent_Safe1351 | 5,352
-764 | moonmanuk | 5,326
-765 | Photo_Shop_Beast | 5,274
-766 | ineedmoney2024 | 5,243
-767 | --hermit | 5,219
-768 | gonzOkook | 5,169
-769 | NoNumbersNumber | 5,138
-770 | just_half_baked710 | 5,133
-771 | Prize-Reference9329 | 5,090
-772 | paracord-bracelets | 5,084
+756 | paracord-bracelets | 5,886
+757 | Sir_Mobius_Mook | 5,840
+758 | aPandox | 5,695
+759 | Showwwy87 | 5,597
+760 | Makaveli4Sheez | 5,569
+761 | DioDilemma | 5,545
+762 | LATech99 | 5,463
+763 | unacceptable_name25 | 5,395
+764 | Independent_Safe1351 | 5,352
+765 | moonmanuk | 5,326
+766 | Photo_Shop_Beast | 5,274
+767 | ineedmoney2024 | 5,243
+768 | --hermit | 5,219
+769 | gonzOkook | 5,169
+770 | NoNumbersNumber | 5,138
+771 | just_half_baked710 | 5,133
+772 | Prize-Reference9329 | 5,090
 773 | Hour_Sleep_9544 | 5,080
 774 | Zaxoosh | 5,010
 775 | My_Man_Tyrone | 5,000
