@@ -1,4 +1,4 @@
-Last updated: 23-09-17 02:06:46 UTC  
+Last updated: 23-09-17 02:26:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -23,12 +23,12 @@ Rank | Username | Totals Tips
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,579,839
 22 | Skank_cunt_42 | 7,269,825
-23 | Puddin-Luv | 7,246,438
+23 | Puddin-Luv | 7,249,101
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,948
 27 | IveDoneItAtLast | 5,368,277
-28 | thelonliestcrowd | 5,325,498
+28 | thelonliestcrowd | 5,328,161
 29 | Ginomania | 4,913,011
 30 | send420nudes | 4,727,967
 31 | rikbona | 4,540,773
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | ZukoBih | 3,427,082
 44 | LordBobTheWhale | 3,328,811
 45 | Dry_Badger_2403 | 3,193,857
-46 | evilninjarobot | 3,187,991
+46 | evilninjarobot | 3,190,654
 47 | DontLaughArt | 3,090,847
 48 | Korean_Street_Pizza | 2,920,718
 49 | Mean_Bandicoot_7481 | 2,752,108
@@ -134,14 +134,14 @@ Rank | Username | Totals Tips
 131 | femacampcouncilor | 645,475
 132 | slirpo | 631,180
 133 | superlonelyboy | 611,557
-134 | __PDS__ | 595,709
-135 | El_Gordone | 592,784
-136 | Burzzzt88 | 592,138
-137 | Independent_Heart_15 | 578,825
-138 | crodbtc | 572,908
-139 | AustinTX1985 | 571,526
-140 | PortCity_MadMan | 554,846
-141 | DogSpark84 | 553,966
+134 | DogSpark84 | 601,073
+135 | __PDS__ | 595,709
+136 | El_Gordone | 592,784
+137 | Burzzzt88 | 592,138
+138 | Independent_Heart_15 | 578,825
+139 | crodbtc | 572,908
+140 | AustinTX1985 | 571,526
+141 | PortCity_MadMan | 554,846
 142 | StepAsideSuckers | 543,358
 143 | scientifichistorian | 539,560
 144 | shreyaskg | 538,211
@@ -253,7 +253,7 @@ Rank | Username | Totals Tips
 250 | sjakkpila | 167,546
 251 | MelonFarmer420 | 166,716
 252 | DamnWhySoLow | 166,675
-253 | Complete-Tadpole-728 | 166,197
+253 | Complete-Tadpole-728 | 166,617
 254 | DrThunderHandz | 163,658
 255 | ItailianStallion101 | 160,224
 256 | CoverYourMaskHoles | 159,708
@@ -752,11 +752,11 @@ Rank | Username | Totals Tips
 749 | forceworks | 5,998
 750 | SecretSuch420 | 5,981
 751 | st3alth247 | 5,975
-752 | OddNebula2844 | 5,938
-753 | theBarefootedBastard | 5,896
-754 | Sir_Mobius_Mook | 5,840
-755 | aPandox | 5,695
-756 | RedditReader825 | 5,601
+752 | RedditReader825 | 5,961
+753 | OddNebula2844 | 5,938
+754 | theBarefootedBastard | 5,896
+755 | Sir_Mobius_Mook | 5,840
+756 | aPandox | 5,695
 757 | Showwwy87 | 5,597
 758 | Makaveli4Sheez | 5,569
 759 | DioDilemma | 5,545
@@ -771,10 +771,10 @@ Rank | Username | Totals Tips
 768 | NoNumbersNumber | 5,138
 769 | just_half_baked710 | 5,133
 770 | Prize-Reference9329 | 5,090
-771 | Hour_Sleep_9544 | 5,080
-772 | Happy-Cheeseface | 5,061
-773 | Zaxoosh | 5,010
-774 | paracord-bracelets | 5,007
+771 | paracord-bracelets | 5,084
+772 | Hour_Sleep_9544 | 5,080
+773 | Happy-Cheeseface | 5,061
+774 | Zaxoosh | 5,010
 775 | My_Man_Tyrone | 5,000
 776 | Itwillmoon | 5,000
 777 | Crunchious1 | 5,000
