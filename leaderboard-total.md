@@ -1,4 +1,4 @@
-Last updated: 23-09-17 17:41:59 UTC  
+Last updated: 23-09-17 17:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,244,686
-7 | cutsickass | 23,567,295
+7 | cutsickass | 23,717,295
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,399,066
 10 | crypto_grandma | 14,063,312
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,256,948
 27 | IveDoneItAtLast | 5,371,009
-28 | thelonliestcrowd | 5,333,487
+28 | thelonliestcrowd | 5,336,150
 29 | Ginomania | 4,913,011
 30 | send420nudes | 4,727,967
 31 | rikbona | 4,540,773
@@ -36,8 +36,8 @@ Rank | Username | Totals Tips
 33 | redzrex | 4,503,337
 34 | bigbilly1234567899 | 4,496,042
 35 | birdwastheword | 4,421,038
-36 | rustyybikes | 4,273,490
-37 | GuyOne | 4,189,962
+36 | GuyOne | 4,339,852
+37 | rustyybikes | 4,273,490
 38 | zdubs | 3,756,960
 39 | thom_orrow | 3,734,442
 40 | clean_cut89 | 3,713,476
@@ -446,16 +446,16 @@ Rank | Username | Totals Tips
 443 | Lucabba | 44,738
 444 | Kilv3r | 44,021
 445 | Coneboy2663 | 43,852
-446 | halfABsinC | 43,285
-447 | dead-spiral | 42,069
-448 | ACE415_ | 42,069
-449 | Cyber-Cafe | 41,921
-450 | PushyDevoIution | 41,695
-451 | Expensive_Being_4038 | 41,254
-452 | madridgalactico | 41,231
-453 | HodLMania | 41,111
-454 | ARoyaleWithCheese | 41,000
-455 | Ninja_Vagabond | 40,988
+446 | Ninja_Vagabond | 43,651
+447 | halfABsinC | 43,285
+448 | dead-spiral | 42,069
+449 | ACE415_ | 42,069
+450 | Cyber-Cafe | 41,921
+451 | PushyDevoIution | 41,695
+452 | Expensive_Being_4038 | 41,254
+453 | madridgalactico | 41,231
+454 | HodLMania | 41,111
+455 | ARoyaleWithCheese | 41,000
 456 | Yirii | 40,605
 457 | Zap1324 | 40,271
 458 | matdabom | 40,068
