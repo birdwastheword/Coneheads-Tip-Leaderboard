@@ -1,4 +1,4 @@
-Last updated: 23-09-18 20:00:50 UTC  
+Last updated: 23-09-18 20:19:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,271,323
-7 | cutsickass | 25,141,621
+7 | cutsickass | 25,171,621
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,733,045
 10 | crypto_grandma | 14,074,412
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | Affectionate_Hand_76 | 1,977,373
 60 | swampyswede | 1,948,877
 61 | catlover-100 | 1,931,330
-62 | CMDRGlamdring | 1,888,473
+62 | CMDRGlamdring | 1,893,799
 63 | Mundane-Farm-4117 | 1,873,613
 64 | djrcollectables | 1,854,484
 65 | jimfird | 1,848,643
@@ -216,8 +216,8 @@ Rank | Username | Totals Tips
 213 | thestonkinator | 249,330
 214 | Gregoryonetulum | 249,309
 215 | BeardedBro_ | 248,627
-216 | 4gsboofd | 244,377
-217 | Complete-Tadpole-728 | 242,870
+216 | Complete-Tadpole-728 | 245,533
+217 | 4gsboofd | 244,377
 218 | joeviani | 241,717
 219 | the_judge_168 | 240,412
 220 | Significant_Talk4943 | 240,319
