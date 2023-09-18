@@ -1,4 +1,4 @@
-Last updated: 23-09-18 16:37:24 UTC  
+Last updated: 23-09-18 16:50:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,271,323
 7 | cutsickass | 24,706,621
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,719,951
+9 | _ships | 17,720,979
 10 | crypto_grandma | 14,074,412
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | send420nudes | 4,757,850
 32 | VIVOffical | 4,658,341
 33 | rikbona | 4,540,773
-34 | redzrex | 4,503,757
+34 | redzrex | 4,504,177
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,276,153
@@ -59,12 +59,12 @@ Rank | Username | Totals Tips
 56 | 002_timmy | 2,059,494
 57 | investigator100 | 1,998,330
 58 | 0-Give-a-fucks | 1,998,164
-59 | Affectionate_Hand_76 | 1,976,953
+59 | Affectionate_Hand_76 | 1,977,373
 60 | swampyswede | 1,948,877
 61 | catlover-100 | 1,931,330
 62 | CMDRGlamdring | 1,888,473
 63 | Mundane-Farm-4117 | 1,873,613
-64 | djrcollectables | 1,851,821
+64 | djrcollectables | 1,854,484
 65 | jimfird | 1,848,643
 66 | Lillica_Golden_SHIB | 1,830,339
 67 | dealkhabari | 1,767,162
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | ultra_terrestrial | 1,541,913
 73 | LongCauliflower6791 | 1,499,067
 74 | YarOldeOrchard | 1,438,286
-75 | ValiantJudge29500 | 1,403,264
+75 | ValiantJudge29500 | 1,404,764
 76 | isthistomorrow_ | 1,381,135
 77 | Extreme_Issue7325 | 1,345,890
 78 | saintajoras | 1,254,482
