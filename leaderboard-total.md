@@ -1,4 +1,4 @@
-Last updated: 23-09-18 08:50:34 UTC  
+Last updated: 23-09-18 09:01:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -101,21 +101,21 @@ Rank | Username | Totals Tips
 98 | Modestexcuse | 903,684
 99 | thee_monster | 896,765
 100 | Bobisdeadrun | 869,015
-101 | orangesandonions | 855,238
-102 | Alanski22 | 832,163
-103 | formidable-opponent | 830,193
-104 | PortCity_MadMan | 826,892
-105 | adrifing | 816,494
-106 | goldyluckinblokchain | 809,537
-107 | vbutarin | 802,000
-108 | na7oul | 800,000
-109 | billywright4 | 795,269
-110 | RegalReptile_ | 793,529
-111 | Cravensworth_redux | 790,803
-112 | Westy3000 | 785,931
-113 | ziggybri | 783,883
-114 | cannainform2 | 768,813
-115 | virmamies | 736,434
+101 | virmamies | 866,434
+102 | orangesandonions | 855,238
+103 | Alanski22 | 832,163
+104 | formidable-opponent | 830,193
+105 | PortCity_MadMan | 826,892
+106 | adrifing | 816,494
+107 | goldyluckinblokchain | 809,537
+108 | vbutarin | 802,000
+109 | na7oul | 800,000
+110 | billywright4 | 795,269
+111 | RegalReptile_ | 793,529
+112 | Cravensworth_redux | 790,803
+113 | Westy3000 | 785,931
+114 | ziggybri | 783,883
+115 | cannainform2 | 768,813
 116 | dopelifer09 | 727,057
 117 | Successful-Walk-3902 | 723,859
 118 | Obi1eyeKenobi | 718,842
