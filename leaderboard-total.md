@@ -1,4 +1,4 @@
-Last updated: 23-09-18 13:40:35 UTC  
+Last updated: 23-09-18 13:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -578,7 +578,7 @@ Rank | Username | Totals Tips
 575 | Iiwip | 19,533
 576 | MalarkyD | 19,527
 577 | ___MOM___ | 18,853
-578 | Fivebag | 18,604
+578 | Fivebag | 18,704
 579 | masterassassin93 | 18,409
 580 | subredditlurker69 | 18,332
 581 | Collectibl3 | 18,024
