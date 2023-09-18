@@ -1,4 +1,4 @@
-Last updated: 23-09-18 20:19:15 UTC  
+Last updated: 23-09-18 20:30:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -88,7 +88,7 @@ Rank | Username | Totals Tips
 85 | beastlybaker | 1,138,701
 86 | nichnotnick | 1,103,752
 87 | Allions1 | 1,100,737
-88 | ID404_Not_Found_8964 | 1,066,605
+88 | ID404_Not_Found_8964 | 1,066,710
 89 | ashketchup422 | 1,042,067
 90 | UniversalNoobMaster | 1,032,820
 91 | freechickens | 1,028,524
