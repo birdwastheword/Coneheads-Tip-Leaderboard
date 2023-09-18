@@ -1,4 +1,4 @@
-Last updated: 23-09-18 10:32:55 UTC  
+Last updated: 23-09-18 10:41:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -167,7 +167,7 @@ Rank | Username | Totals Tips
 164 | LrnFaroeseWthBergur | 409,488
 165 | Creepy-Nectarine-225 | 391,880
 166 | monkeybombed | 385,426
-167 | SHIFTY-T3RROR | 382,783
+167 | SHIFTY-T3RROR | 383,203
 168 | fettskull | 380,854
 169 | MisterM0H0 | 379,338
 170 | zenhodl | 374,566
