@@ -1,4 +1,4 @@
-Last updated: 23-09-18 02:05:07 UTC  
+Last updated: 23-09-18 02:25:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,857,819
+14 | SammyCraigar | 11,858,327
 15 | Permanent_WSB_Bull | 11,184,183
 16 | SpookySYN | 10,839,525
 17 | 8inchConer | 8,947,619
@@ -131,7 +131,7 @@ Rank | Username | Totals Tips
 128 | piebagz | 661,815
 129 | MartynDr | 652,759
 130 | MorrisBrett514 | 651,759
-131 | junkwatch | 648,213
+131 | junkwatch | 648,282
 132 | femacampcouncilor | 645,475
 133 | slirpo | 631,180
 134 | superlonelyboy | 611,557
@@ -219,7 +219,7 @@ Rank | Username | Totals Tips
 216 | MuhSound | 235,724
 217 | Zalkwalker | 235,069
 218 | alexthemay | 234,131
-219 | Conetent | 223,059
+219 | Conetent | 223,667
 220 | Significant_Talk4943 | 220,319
 221 | TummyLice | 220,158
 222 | Ashamed_Raccoon9918 | 219,865
