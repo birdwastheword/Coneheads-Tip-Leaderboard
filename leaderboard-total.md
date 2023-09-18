@@ -1,4 +1,4 @@
-Last updated: 23-09-18 01:30:53 UTC  
+Last updated: 23-09-18 02:05:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -44,11 +44,11 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,427,082
-44 | LordBobTheWhale | 3,332,690
-45 | DontLaughArt | 3,302,985
-46 | Dry_Badger_2403 | 3,193,857
-47 | evilninjarobot | 3,191,262
-48 | Korean_Street_Pizza | 2,920,718
+44 | Korean_Street_Pizza | 3,420,718
+45 | LordBobTheWhale | 3,332,690
+46 | DontLaughArt | 3,302,985
+47 | Dry_Badger_2403 | 3,193,857
+48 | evilninjarobot | 3,191,262
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,665,413
 51 | ZoomLong | 2,641,251
@@ -274,10 +274,10 @@ Rank | Username | Totals Tips
 271 | SalliIsAFem | 140,361
 272 | luisantonio197 | 139,511
 273 | GrowinStuffAndThings | 137,461
-274 | Outrageous-Ad8481 | 137,001
-275 | Kevin3683 | 136,988
-276 | Bobby_Juk | 136,320
-277 | ASingleGuitarString | 134,444
+274 | ASingleGuitarString | 137,107
+275 | Outrageous-Ad8481 | 137,001
+276 | Kevin3683 | 136,988
+277 | Bobby_Juk | 136,320
 278 | MorrisWayne | 133,416
 279 | BitCone_CONE | 133,007
 280 | GoodMornEveGoodNight | 131,088
@@ -407,10 +407,10 @@ Rank | Username | Totals Tips
 404 | Dottore_Bettore | 57,917
 405 | foreignGER | 57,553
 406 | CryptoScamee42069 | 57,405
-407 | Outrageous_Storm6537 | 56,938
-408 | chuloreddit | 55,947
-409 | imbarrydylan | 55,689
-410 | Ninja_Vagabond | 54,303
+407 | Ninja_Vagabond | 56,966
+408 | Outrageous_Storm6537 | 56,938
+409 | chuloreddit | 55,947
+410 | imbarrydylan | 55,689
 411 | SandersIncBV | 54,288
 412 | Brandillio | 54,271
 413 | ysnmingle | 54,204
