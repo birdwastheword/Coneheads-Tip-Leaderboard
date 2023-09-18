@@ -1,4 +1,4 @@
-Last updated: 23-09-18 03:40:43 UTC  
+Last updated: 23-09-18 03:50:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -236,10 +236,10 @@ Rank | Username | Totals Tips
 233 | CedricDiccory | 197,932
 234 | sudrats | 197,124
 235 | Overall-Extension608 | 196,776
-236 | redditavanft | 195,122
-237 | AverageLiberalJoe | 195,007
-238 | skollywag92 | 194,509
-239 | Complete-Tadpole-728 | 193,482
+236 | Complete-Tadpole-728 | 196,145
+237 | redditavanft | 195,122
+238 | AverageLiberalJoe | 195,007
+239 | skollywag92 | 194,509
 240 | RiightYouKnow | 193,329
 241 | bakerdawg555 | 192,028
 242 | 1ndy1 | 189,485
