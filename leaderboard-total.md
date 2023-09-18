@@ -1,4 +1,4 @@
-Last updated: 23-09-18 10:21:57 UTC  
+Last updated: 23-09-18 10:32:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -66,11 +66,11 @@ Rank | Username | Totals Tips
 63 | Mundane-Farm-4117 | 1,873,613
 64 | djrcollectables | 1,851,821
 65 | jimfird | 1,848,643
-66 | dealkhabari | 1,767,162
-67 | Iulian_TechNewb | 1,717,286
-68 | KONGXIANG | 1,712,726
-69 | Ten-Mins-Late | 1,707,793
-70 | Lillica_Golden_SHIB | 1,629,787
+66 | Lillica_Golden_SHIB | 1,829,787
+67 | dealkhabari | 1,767,162
+68 | Iulian_TechNewb | 1,717,286
+69 | KONGXIANG | 1,712,726
+70 | Ten-Mins-Late | 1,707,793
 71 | GooderZBK | 1,617,267
 72 | ultra_terrestrial | 1,541,913
 73 | LongCauliflower6791 | 1,479,722
@@ -665,8 +665,8 @@ Rank | Username | Totals Tips
 662 | Straton_Conemont_Inc | 10,550
 663 | Background-Ad-2102 | 10,450
 664 | 73i1 | 10,412
-665 | Gamestopisthe1 | 10,227
-666 | TheyAskWho | 10,123
+665 | TheyAskWho | 10,234
+666 | Gamestopisthe1 | 10,227
 667 | Zeratrem | 10,103
 668 | Consistent_Air_7646 | 10,000
 669 | LordCitrus69 | 10,000
