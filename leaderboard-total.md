@@ -1,4 +1,4 @@
-Last updated: 23-09-18 21:24:59 UTC  
+Last updated: 23-09-18 21:33:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,271,323
-7 | cutsickass | 25,261,621
+7 | cutsickass | 25,321,621
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,733,045
 10 | crypto_grandma | 14,074,412
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | MisterM0H0 | 379,338
 171 | zenhodl | 374,566
 172 | hellosamaira | 373,235
-173 | Bobby_Juk | 363,420
+173 | Bobby_Juk | 363,840
 174 | farmertypoerror | 359,212
 175 | Tinman_ApE | 357,542
 176 | DAMG808 | 355,432
@@ -666,7 +666,7 @@ Rank | Username | Totals Tips
 663 | Straton_Conemont_Inc | 10,550
 664 | Background-Ad-2102 | 10,450
 665 | 73i1 | 10,412
-666 | TheyAskWho | 10,234
+666 | TheyAskWho | 10,303
 667 | Gamestopisthe1 | 10,227
 668 | Zeratrem | 10,103
 669 | Consistent_Air_7646 | 10,000
