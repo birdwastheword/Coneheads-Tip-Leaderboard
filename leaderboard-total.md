@@ -1,4 +1,4 @@
-Last updated: 23-09-18 05:31:51 UTC  
+Last updated: 23-09-18 05:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -131,7 +131,7 @@ Rank | Username | Totals Tips
 128 | piebagz | 661,815
 129 | MartynDr | 652,759
 130 | MorrisBrett514 | 651,759
-131 | junkwatch | 648,282
+131 | junkwatch | 648,702
 132 | femacampcouncilor | 645,475
 133 | slirpo | 631,180
 134 | superlonelyboy | 611,557
