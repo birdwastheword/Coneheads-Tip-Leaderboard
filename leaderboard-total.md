@@ -1,9 +1,9 @@
-Last updated: 23-09-18 22:50:44 UTC  
+Last updated: 23-09-18 23:01:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
 2 | Wonderful_Bad6531 | 36,223,291
-3 | nakamo-toe | 34,813,499
+3 | nakamo-toe | 34,816,162
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,271,323
@@ -32,13 +32,13 @@ Rank | Username | Totals Tips
 29 | GuyOne | 4,977,841
 30 | Ginomania | 4,913,011
 31 | send420nudes | 4,804,188
-32 | VIVOffical | 4,661,004
+32 | VIVOffical | 4,669,064
 33 | rikbona | 4,540,773
 34 | redzrex | 4,509,503
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,276,153
-38 | zdubs | 3,758,245
+38 | zdubs | 3,758,853
 39 | thom_orrow | 3,744,550
 40 | clean_cut89 | 3,713,476
 41 | bray_martin03 | 3,510,891
@@ -290,8 +290,8 @@ Rank | Username | Totals Tips
 287 | DeanDeanington | 127,267
 288 | CalligrapherEnough83 | 127,227
 289 | 192000Hertz | 125,783
-290 | Trakorr | 125,110
-291 | youtooleyesing | 123,108
+290 | youtooleyesing | 125,771
+291 | Trakorr | 125,110
 292 | Sativa55555 | 121,550
 293 | stupidcupid112 | 121,421
 294 | lucivaryas | 121,420
