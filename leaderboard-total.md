@@ -1,4 +1,4 @@
-Last updated: 23-09-18 21:42:02 UTC  
+Last updated: 23-09-18 21:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -45,10 +45,10 @@ Rank | Username | Totals Tips
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,427,082
 44 | Korean_Street_Pizza | 3,422,047
-45 | LordBobTheWhale | 3,332,690
+45 | LordBobTheWhale | 3,333,298
 46 | DontLaughArt | 3,312,985
 47 | Dry_Badger_2403 | 3,193,857
-48 | evilninjarobot | 3,191,262
+48 | evilninjarobot | 3,191,870
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,665,413
 51 | ZoomLong | 2,641,251
@@ -172,7 +172,7 @@ Rank | Username | Totals Tips
 169 | fettskull | 380,854
 170 | MisterM0H0 | 379,338
 171 | zenhodl | 374,566
-172 | Bobby_Juk | 373,840
+172 | Bobby_Juk | 374,260
 173 | hellosamaira | 373,235
 174 | farmertypoerror | 359,212
 175 | Tinman_ApE | 357,542
