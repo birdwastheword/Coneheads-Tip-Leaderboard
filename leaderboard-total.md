@@ -1,4 +1,4 @@
-Last updated: 23-09-18 15:20:32 UTC  
+Last updated: 23-09-18 15:30:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -641,19 +641,19 @@ Rank | Username | Totals Tips
 638 | gnarlypoop | 11,924
 639 | J-_Mad | 11,859
 640 | charlythesecond | 11,794
-641 | TheChillDyl | 11,718
-642 | Hofmaurerad | 11,711
-643 | masstransience | 11,623
-644 | reddit_saltyaf | 11,603
-645 | IndependenceHungry69 | 11,561
-646 | allisonovo | 11,346
-647 | This_Red_Apple | 11,260
-648 | Mrmakanakai | 11,166
-649 | Bramberken05 | 11,110
-650 | GaryJulesMCOC | 11,110
-651 | Arj_123 | 11,032
-652 | xllw | 11,000
-653 | Snek-Life | 10,929
+641 | Snek-Life | 11,769
+642 | TheChillDyl | 11,718
+643 | Hofmaurerad | 11,711
+644 | masstransience | 11,623
+645 | reddit_saltyaf | 11,603
+646 | IndependenceHungry69 | 11,561
+647 | allisonovo | 11,346
+648 | This_Red_Apple | 11,260
+649 | Mrmakanakai | 11,166
+650 | Bramberken05 | 11,110
+651 | GaryJulesMCOC | 11,110
+652 | Arj_123 | 11,032
+653 | xllw | 11,000
 654 | PurpleCoveredSnow | 10,915
 655 | Zealousideal-War6206 | 10,905
 656 | maurinet79 | 10,844
