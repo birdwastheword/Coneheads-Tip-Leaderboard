@@ -1,4 +1,4 @@
-Last updated: 23-09-18 20:40:46 UTC  
+Last updated: 23-09-18 20:50:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,271,323
-7 | cutsickass | 25,201,621
+7 | cutsickass | 25,231,621
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,733,045
 10 | crypto_grandma | 14,074,412
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,257,086
-27 | IveDoneItAtLast | 5,459,770
+27 | IveDoneItAtLast | 5,462,433
 28 | thelonliestcrowd | 5,354,791
 29 | GuyOne | 4,977,841
 30 | Ginomania | 4,913,011
@@ -173,10 +173,10 @@ Rank | Username | Totals Tips
 170 | MisterM0H0 | 379,338
 171 | zenhodl | 374,566
 172 | hellosamaira | 373,235
-173 | farmertypoerror | 359,212
-174 | Tinman_ApE | 357,542
-175 | DAMG808 | 355,432
-176 | Bobby_Juk | 353,420
+173 | Bobby_Juk | 363,420
+174 | farmertypoerror | 359,212
+175 | Tinman_ApE | 357,542
+176 | DAMG808 | 355,432
 177 | Outrageous-Skill-464 | 344,174
 178 | anony666mous | 341,008
 179 | tsudrat | 340,707
