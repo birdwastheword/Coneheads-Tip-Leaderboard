@@ -1,4 +1,4 @@
-Last updated: 23-09-18 09:19:22 UTC  
+Last updated: 23-09-18 09:30:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -100,8 +100,8 @@ Rank | Username | Totals Tips
 97 | Forward_Today2849 | 932,405
 98 | Modestexcuse | 903,684
 99 | thee_monster | 896,765
-100 | Bobisdeadrun | 869,015
-101 | virmamies | 866,434
+100 | virmamies | 876,434
+101 | Bobisdeadrun | 869,015
 102 | orangesandonions | 855,238
 103 | Alanski22 | 832,163
 104 | formidable-opponent | 830,193
