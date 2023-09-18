@@ -1,4 +1,4 @@
-Last updated: 23-09-18 05:50:54 UTC  
+Last updated: 23-09-18 06:00:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,257,086
 27 | IveDoneItAtLast | 5,412,954
-28 | thelonliestcrowd | 5,338,813
+28 | thelonliestcrowd | 5,341,476
 29 | GuyOne | 4,977,841
 30 | Ginomania | 4,913,011
 31 | send420nudes | 4,727,967
@@ -231,9 +231,9 @@ Rank | Username | Totals Tips
 228 | UWphoto | 211,312
 229 | Most_Being_4002 | 205,592
 230 | Esco1980 | 204,434
-231 | Heclalava | 203,538
-232 | ziggyback | 203,369
-233 | Complete-Tadpole-728 | 201,471
+231 | Complete-Tadpole-728 | 204,134
+232 | Heclalava | 203,538
+233 | ziggyback | 203,369
 234 | CedricDiccory | 197,932
 235 | sudrats | 197,124
 236 | Overall-Extension608 | 196,776
@@ -359,12 +359,12 @@ Rank | Username | Totals Tips
 356 | mokkingjay | 77,914
 357 | HelicopterDear6064 | 77,619
 358 | Heycheckthisout20 | 75,608
-359 | MedicineMaterial3501 | 74,654
-360 | Steadfast_Apparition | 74,506
-361 | pwan7505 | 73,893
-362 | Diamond_PnutBrain | 73,688
-363 | I_AM_MORE_BADASS | 73,121
-364 | 83nno | 72,742
+359 | 83nno | 75,405
+360 | MedicineMaterial3501 | 74,654
+361 | Steadfast_Apparition | 74,506
+362 | pwan7505 | 73,893
+363 | Diamond_PnutBrain | 73,688
+364 | I_AM_MORE_BADASS | 73,121
 365 | adi_00_ | 71,759
 366 | CM19901 | 71,207
 367 | sparanaghcoar | 71,118
