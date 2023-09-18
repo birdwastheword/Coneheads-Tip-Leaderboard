@@ -1,4 +1,4 @@
-Last updated: 23-09-18 10:00:46 UTC  
+Last updated: 23-09-18 10:21:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | thelonliestcrowd | 5,344,139
 29 | GuyOne | 4,977,841
 30 | Ginomania | 4,913,011
-31 | send420nudes | 4,736,505
+31 | send420nudes | 4,740,774
 32 | VIVOffical | 4,558,341
 33 | rikbona | 4,540,773
 34 | redzrex | 4,503,337
@@ -152,7 +152,7 @@ Rank | Username | Totals Tips
 149 | f0n1xr131ng | 509,681
 150 | AcceptableLeg8751 | 500,000
 151 | Lady_Lucks_Man | 479,740
-152 | stockyewok | 467,841
+152 | stockyewok | 468,261
 153 | sinlesco | 465,153
 154 | RazPie | 464,666
 155 | WarmlyWacky | 462,118
@@ -223,8 +223,8 @@ Rank | Username | Totals Tips
 220 | Zalkwalker | 235,069
 221 | alexthemay | 234,131
 222 | Conetent | 223,667
-223 | TummyLice | 220,158
-224 | Complete-Tadpole-728 | 219,969
+223 | Complete-Tadpole-728 | 222,632
+224 | TummyLice | 220,158
 225 | Ashamed_Raccoon9918 | 219,865
 226 | ShortBusCult | 218,859
 227 | SourBeefHoop | 217,512
