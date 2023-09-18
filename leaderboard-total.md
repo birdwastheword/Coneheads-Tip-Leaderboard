@@ -1,9 +1,9 @@
-Last updated: 23-09-18 23:40:34 UTC  
+Last updated: 23-09-18 23:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
 2 | Wonderful_Bad6531 | 36,223,291
-3 | nakamo-toe | 34,816,162
+3 | nakamo-toe | 34,821,488
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,271,323
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | Mundane-Farm-4117 | 1,873,613
 64 | djrcollectables | 1,854,484
 65 | jimfird | 1,848,643
-66 | Lillica_Golden_SHIB | 1,830,408
+66 | Lillica_Golden_SHIB | 1,840,408
 67 | dealkhabari | 1,767,162
 68 | Iulian_TechNewb | 1,717,286
 69 | KONGXIANG | 1,712,726
@@ -168,8 +168,8 @@ Rank | Username | Totals Tips
 165 | LrnFaroeseWthBergur | 409,488
 166 | Creepy-Nectarine-225 | 392,996
 167 | monkeybombed | 385,426
-168 | SHIFTY-T3RROR | 383,203
-169 | fettskull | 380,854
+168 | fettskull | 383,517
+169 | SHIFTY-T3RROR | 383,203
 170 | MisterM0H0 | 379,338
 171 | Bobby_Juk | 374,680
 172 | zenhodl | 374,566
