@@ -1,4 +1,4 @@
-Last updated: 23-09-18 18:51:25 UTC  
+Last updated: 23-09-18 19:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -100,7 +100,7 @@ Rank | Username | Totals Tips
 97 | Forward_Today2849 | 932,405
 98 | Modestexcuse | 903,684
 99 | thee_monster | 896,765
-100 | virmamies | 876,434
+100 | virmamies | 886,434
 101 | Bobisdeadrun | 869,015
 102 | orangesandonions | 855,238
 103 | Alanski22 | 840,152
@@ -176,7 +176,7 @@ Rank | Username | Totals Tips
 173 | farmertypoerror | 359,212
 174 | Tinman_ApE | 357,542
 175 | DAMG808 | 355,432
-176 | Bobby_Juk | 352,580
+176 | Bobby_Juk | 353,000
 177 | Outrageous-Skill-464 | 344,174
 178 | anony666mous | 341,008
 179 | tsudrat | 340,707
