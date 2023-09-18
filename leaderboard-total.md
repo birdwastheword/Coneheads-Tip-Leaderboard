@@ -1,4 +1,4 @@
-Last updated: 23-09-18 03:18:56 UTC  
+Last updated: 23-09-18 03:30:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | ZukoBih | 3,427,082
 44 | Korean_Street_Pizza | 3,420,718
 45 | LordBobTheWhale | 3,332,690
-46 | DontLaughArt | 3,302,985
+46 | DontLaughArt | 3,312,985
 47 | Dry_Badger_2403 | 3,193,857
 48 | evilninjarobot | 3,191,262
 49 | Mean_Bandicoot_7481 | 2,752,108
@@ -239,9 +239,9 @@ Rank | Username | Totals Tips
 236 | redditavanft | 195,122
 237 | AverageLiberalJoe | 195,007
 238 | skollywag92 | 194,509
-239 | RiightYouKnow | 193,329
-240 | bakerdawg555 | 192,028
-241 | Complete-Tadpole-728 | 190,819
+239 | Complete-Tadpole-728 | 193,482
+240 | RiightYouKnow | 193,329
+241 | bakerdawg555 | 192,028
 242 | 1ndy1 | 189,485
 243 | nooobmaester69 | 183,460
 244 | ZeMadMan1 | 183,251
