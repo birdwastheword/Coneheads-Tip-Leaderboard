@@ -1,4 +1,4 @@
-Last updated: 23-09-18 09:30:46 UTC  
+Last updated: 23-09-18 09:40:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -148,7 +148,7 @@ Rank | Username | Totals Tips
 145 | shreyaskg | 538,211
 146 | TubeNerd92 | 537,829
 147 | doktastonks | 533,988
-148 | Crypto-4-Freedom | 509,856
+148 | Crypto-4-Freedom | 510,276
 149 | f0n1xr131ng | 509,681
 150 | AcceptableLeg8751 | 500,000
 151 | Lady_Lucks_Man | 479,740
