@@ -1,4 +1,4 @@
-Last updated: 23-09-18 22:31:01 UTC  
+Last updated: 23-09-18 22:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | thelonliestcrowd | 5,370,443
 29 | GuyOne | 4,977,841
 30 | Ginomania | 4,913,011
-31 | send420nudes | 4,762,119
+31 | send420nudes | 4,804,188
 32 | VIVOffical | 4,661,004
 33 | rikbona | 4,540,773
 34 | redzrex | 4,509,503
@@ -89,8 +89,8 @@ Rank | Username | Totals Tips
 86 | nichnotnick | 1,103,752
 87 | Allions1 | 1,100,737
 88 | ID404_Not_Found_8964 | 1,066,710
-89 | ashketchup422 | 1,042,067
-90 | UniversalNoobMaster | 1,032,820
+89 | UniversalNoobMaster | 1,052,889
+90 | ashketchup422 | 1,042,067
 91 | freechickens | 1,028,524
 92 | avatarbot | 1,027,000
 93 | WarmBiertje | 1,000,000
@@ -171,8 +171,8 @@ Rank | Username | Totals Tips
 168 | SHIFTY-T3RROR | 383,203
 169 | fettskull | 380,854
 170 | MisterM0H0 | 379,338
-171 | zenhodl | 374,566
-172 | Bobby_Juk | 374,260
+171 | Bobby_Juk | 374,680
+172 | zenhodl | 374,566
 173 | hellosamaira | 373,235
 174 | farmertypoerror | 359,212
 175 | Tinman_ApE | 357,542
