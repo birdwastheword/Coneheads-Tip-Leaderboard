@@ -1,15 +1,15 @@
-Last updated: 23-09-18 21:50:49 UTC  
+Last updated: 23-09-18 22:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
 2 | Wonderful_Bad6531 | 36,223,291
-3 | nakamo-toe | 34,693,664
+3 | nakamo-toe | 34,701,653
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,271,323
 7 | cutsickass | 25,351,621
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,733,045
+9 | _ships | 17,756,275
 10 | crypto_grandma | 14,074,412
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,257,086
-27 | IveDoneItAtLast | 5,462,433
+27 | IveDoneItAtLast | 5,465,096
 28 | thelonliestcrowd | 5,354,791
 29 | GuyOne | 4,977,841
 30 | Ginomania | 4,913,011
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | Fenrir-1919 | 2,665,413
 51 | ZoomLong | 2,641,251
 52 | _Royal_Insylum | 2,603,787
-53 | ImAlekBan | 2,595,381
+53 | ImAlekBan | 2,595,989
 54 | possibili-teas | 2,399,515
 55 | Autom4tic_Soze | 2,236,291
 56 | 002_timmy | 2,059,494
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | virmamies | 896,434
 101 | Bobisdeadrun | 869,015
 102 | orangesandonions | 855,238
-103 | Alanski22 | 840,152
+103 | Alanski22 | 843,235
 104 | formidable-opponent | 830,193
 105 | PortCity_MadMan | 826,892
 106 | adrifing | 816,494
@@ -120,8 +120,8 @@ Rank | Username | Totals Tips
 117 | Successful-Walk-3902 | 724,070
 118 | Obi1eyeKenobi | 718,842
 119 | starterpack420694 | 710,420
-120 | WarmIyWacky | 703,049
-121 | frickdom | 703,009
+120 | frickdom | 705,672
+121 | WarmIyWacky | 703,049
 122 | Starterpack69420 | 696,969
 123 | abracadabra087 | 694,465
 124 | firstmatedotxyz | 688,743
@@ -131,7 +131,7 @@ Rank | Username | Totals Tips
 128 | piebagz | 661,815
 129 | MartynDr | 652,759
 130 | MorrisBrett514 | 651,759
-131 | junkwatch | 648,771
+131 | junkwatch | 649,191
 132 | femacampcouncilor | 645,475
 133 | slirpo | 631,180
 134 | superlonelyboy | 611,557
@@ -166,7 +166,7 @@ Rank | Username | Totals Tips
 163 | Lion-Hermit | 416,210
 164 | dronegeeks1 | 414,406
 165 | LrnFaroeseWthBergur | 409,488
-166 | Creepy-Nectarine-225 | 391,880
+166 | Creepy-Nectarine-225 | 392,388
 167 | monkeybombed | 385,426
 168 | SHIFTY-T3RROR | 383,203
 169 | fettskull | 380,854
@@ -211,12 +211,12 @@ Rank | Username | Totals Tips
 208 | Hactar_42 | 256,832
 209 | thecrabdad | 256,177
 210 | coolpattakers | 254,351
-211 | Ambitious-Minimum-80 | 252,035
-212 | Sattack4000 | 250,837
-213 | thestonkinator | 249,330
-214 | Gregoryonetulum | 249,309
-215 | BeardedBro_ | 248,627
-216 | Complete-Tadpole-728 | 245,533
+211 | Complete-Tadpole-728 | 253,196
+212 | Ambitious-Minimum-80 | 252,035
+213 | Sattack4000 | 250,837
+214 | thestonkinator | 249,330
+215 | Gregoryonetulum | 249,309
+216 | BeardedBro_ | 248,627
 217 | 4gsboofd | 244,377
 218 | joeviani | 241,717
 219 | the_judge_168 | 240,412
@@ -333,7 +333,7 @@ Rank | Username | Totals Tips
 330 | RollingSkull0 | 93,538
 331 | kwickle | 92,805
 332 | H3adshotfox77 | 92,575
-333 | urlz | 91,688
+333 | urlz | 92,095
 334 | Backwood20 | 90,298
 335 | DramaticProtogen | 90,274
 336 | Award-Bot | 90,000
