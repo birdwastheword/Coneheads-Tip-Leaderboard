@@ -1,4 +1,4 @@
-Last updated: 23-09-18 04:45:25 UTC  
+Last updated: 23-09-18 04:53:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -490,10 +490,10 @@ Rank | Username | Totals Tips
 487 | Obvious-Ask-5747 | 33,806
 488 | PoDunkYuppie | 33,513
 489 | keyoh321 | 33,397
-490 | Gerboogler | 33,314
-491 | See0tter | 33,242
-492 | xxapplej4ckx | 33,181
-493 | CatastrophicSpecter | 32,916
+490 | CatastrophicSpecter | 33,336
+491 | Gerboogler | 33,314
+492 | See0tter | 33,242
+493 | xxapplej4ckx | 33,181
 494 | redditavatar555 | 32,875
 495 | himthecool21 | 32,647
 496 | mbashs | 32,167
