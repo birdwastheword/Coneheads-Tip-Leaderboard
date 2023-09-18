@@ -1,4 +1,4 @@
-Last updated: 23-09-18 06:24:46 UTC  
+Last updated: 23-09-18 06:35:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | cutsickass | 24,448,632
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,690,658
-10 | crypto_grandma | 14,063,312
+10 | crypto_grandma | 14,067,512
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
@@ -115,7 +115,7 @@ Rank | Username | Totals Tips
 112 | Westy3000 | 785,931
 113 | ziggybri | 783,883
 114 | cannainform2 | 768,813
-115 | virmamies | 731,434
+115 | virmamies | 736,434
 116 | dopelifer09 | 727,057
 117 | Successful-Walk-3902 | 723,859
 118 | Obi1eyeKenobi | 718,842
@@ -137,9 +137,9 @@ Rank | Username | Totals Tips
 134 | superlonelyboy | 611,557
 135 | DogSpark84 | 603,736
 136 | __PDS__ | 595,709
-137 | El_Gordone | 592,784
-138 | Burzzzt88 | 592,138
-139 | crodbtc | 580,571
+137 | crodbtc | 593,234
+138 | El_Gordone | 592,784
+139 | Burzzzt88 | 592,138
 140 | Independent_Heart_15 | 578,825
 141 | AustinTX1985 | 571,526
 142 | WhateverAlready | 555,371
@@ -229,7 +229,7 @@ Rank | Username | Totals Tips
 226 | Beenthorny | 212,362
 227 | SigSalvadore | 212,358
 228 | UWphoto | 211,312
-229 | Complete-Tadpole-728 | 210,720
+229 | Complete-Tadpole-728 | 211,140
 230 | Most_Being_4002 | 205,592
 231 | Esco1980 | 204,434
 232 | Heclalava | 203,538
@@ -277,7 +277,7 @@ Rank | Username | Totals Tips
 274 | ASingleGuitarString | 137,107
 275 | Outrageous-Ad8481 | 137,001
 276 | Kevin3683 | 136,988
-277 | Bobby_Juk | 136,320
+277 | Bobby_Juk | 136,740
 278 | MorrisWayne | 133,416
 279 | BitCone_CONE | 133,007
 280 | GoodMornEveGoodNight | 131,088
