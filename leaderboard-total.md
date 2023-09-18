@@ -1,4 +1,4 @@
-Last updated: 23-09-18 22:19:01 UTC  
+Last updated: 23-09-18 22:31:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -18,23 +18,23 @@ Rank | Username | Totals Tips
 15 | Permanent_WSB_Bull | 11,204,183
 16 | SpookySYN | 10,999,525
 17 | 8inchConer | 8,947,619
-18 | avyun | 8,749,105
+18 | avyun | 8,818,525
 19 | ArtConsitent | 8,533,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,579,839
-22 | Puddin-Luv | 7,311,056
+22 | Puddin-Luv | 7,314,327
 23 | Skank_cunt_42 | 7,269,825
 24 | ashinamune | 6,754,399
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,749
 27 | IveDoneItAtLast | 5,468,267
-28 | thelonliestcrowd | 5,362,454
+28 | thelonliestcrowd | 5,370,443
 29 | GuyOne | 4,977,841
 30 | Ginomania | 4,913,011
-31 | send420nudes | 4,757,850
+31 | send420nudes | 4,762,119
 32 | VIVOffical | 4,661,004
 33 | rikbona | 4,540,773
-34 | redzrex | 4,504,177
+34 | redzrex | 4,509,503
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,276,153
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | femacampcouncilor | 645,475
 134 | slirpo | 631,180
 135 | superlonelyboy | 611,557
-136 | crodbtc | 601,223
+136 | crodbtc | 603,886
 137 | __PDS__ | 595,709
 138 | El_Gordone | 592,784
 139 | Burzzzt88 | 592,627
@@ -166,7 +166,7 @@ Rank | Username | Totals Tips
 163 | Lion-Hermit | 416,210
 164 | dronegeeks1 | 414,406
 165 | LrnFaroeseWthBergur | 409,488
-166 | Creepy-Nectarine-225 | 392,388
+166 | Creepy-Nectarine-225 | 392,996
 167 | monkeybombed | 385,426
 168 | SHIFTY-T3RROR | 383,203
 169 | fettskull | 380,854
