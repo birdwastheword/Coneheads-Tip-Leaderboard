@@ -1,4 +1,4 @@
-Last updated: 23-09-18 03:50:35 UTC  
+Last updated: 23-09-18 04:00:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | nakamo-toe | 34,693,664
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
-6 | Jeff5704 | 28,244,686
+6 | Jeff5704 | 28,271,323
 7 | cutsickass | 24,298,632
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,690,658
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,427,082
-44 | Korean_Street_Pizza | 3,420,718
+44 | Korean_Street_Pizza | 3,421,138
 45 | LordBobTheWhale | 3,332,690
 46 | DontLaughArt | 3,312,985
 47 | Dry_Badger_2403 | 3,193,857
@@ -233,10 +233,10 @@ Rank | Username | Totals Tips
 230 | Esco1980 | 204,434
 231 | Heclalava | 203,538
 232 | ziggyback | 203,369
-233 | CedricDiccory | 197,932
-234 | sudrats | 197,124
-235 | Overall-Extension608 | 196,776
-236 | Complete-Tadpole-728 | 196,145
+233 | Complete-Tadpole-728 | 198,808
+234 | CedricDiccory | 197,932
+235 | sudrats | 197,124
+236 | Overall-Extension608 | 196,776
 237 | redditavanft | 195,122
 238 | AverageLiberalJoe | 195,007
 239 | skollywag92 | 194,509
