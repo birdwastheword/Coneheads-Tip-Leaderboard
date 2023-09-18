@@ -1,4 +1,4 @@
-Last updated: 23-09-18 09:01:04 UTC  
+Last updated: 23-09-18 09:19:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | thelonliestcrowd | 5,344,139
 29 | GuyOne | 4,977,841
 30 | Ginomania | 4,913,011
-31 | send420nudes | 4,727,967
+31 | send420nudes | 4,732,236
 32 | VIVOffical | 4,558,341
 33 | rikbona | 4,540,773
 34 | redzrex | 4,503,337
@@ -275,10 +275,10 @@ Rank | Username | Totals Tips
 272 | SalliIsAFem | 140,361
 273 | luisantonio197 | 139,511
 274 | GrowinStuffAndThings | 137,461
-275 | ASingleGuitarString | 137,107
-276 | Outrageous-Ad8481 | 137,001
-277 | Kevin3683 | 136,988
-278 | Bobby_Juk | 136,740
+275 | Bobby_Juk | 137,160
+276 | ASingleGuitarString | 137,107
+277 | Outrageous-Ad8481 | 137,001
+278 | Kevin3683 | 136,988
 279 | MorrisWayne | 133,416
 280 | BitCone_CONE | 133,007
 281 | GoodMornEveGoodNight | 131,088
@@ -374,7 +374,7 @@ Rank | Username | Totals Tips
 371 | drche35 | 70,466
 372 | Yoda975 | 70,123
 373 | Rush4Time | 70,079
-374 | cryotosensei | 69,274
+374 | cryotosensei | 69,882
 375 | Dazzling_Marzipan474 | 69,033
 376 | Tapiz3land | 68,942
 377 | XBBlade | 67,901
