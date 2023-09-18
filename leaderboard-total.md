@@ -1,4 +1,4 @@
-Last updated: 23-09-18 15:40:31 UTC  
+Last updated: 23-09-18 15:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -115,7 +115,7 @@ Rank | Username | Totals Tips
 112 | Cravensworth_redux | 790,803
 113 | Westy3000 | 785,931
 114 | ziggybri | 783,883
-115 | cannainform2 | 769,234
+115 | cannainform2 | 770,235
 116 | dopelifer09 | 727,057
 117 | Successful-Walk-3902 | 723,859
 118 | Obi1eyeKenobi | 718,842
@@ -613,11 +613,11 @@ Rank | Username | Totals Tips
 610 | SenseiRaheem | 13,716
 611 | osoese | 13,680
 612 | mantrakid | 13,644
-613 | couchguitar | 13,330
-614 | zahrawins | 13,329
-615 | Diamond_Hands420 | 13,277
-616 | rare1994 | 13,069
-617 | Snek-Life | 13,029
+613 | Snek-Life | 13,449
+614 | couchguitar | 13,330
+615 | zahrawins | 13,329
+616 | Diamond_Hands420 | 13,277
+617 | rare1994 | 13,069
 618 | AdinaEspada | 12,997
 619 | seamonkey420 | 12,906
 620 | Artistic-Quit-3311 | 12,851
