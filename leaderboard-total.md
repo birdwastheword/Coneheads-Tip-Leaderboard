@@ -1,4 +1,4 @@
-Last updated: 23-09-18 19:14:57 UTC  
+Last updated: 23-09-18 19:23:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,271,323
-7 | cutsickass | 24,891,621
+7 | cutsickass | 25,011,621
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,727,719
 10 | crypto_grandma | 14,074,412
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,727,769
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,257,086
-27 | IveDoneItAtLast | 5,457,107
+27 | IveDoneItAtLast | 5,459,770
 28 | thelonliestcrowd | 5,354,791
 29 | GuyOne | 4,977,841
 30 | Ginomania | 4,913,011
@@ -90,9 +90,9 @@ Rank | Username | Totals Tips
 87 | Allions1 | 1,100,737
 88 | ID404_Not_Found_8964 | 1,066,605
 89 | ashketchup422 | 1,042,067
-90 | freechickens | 1,028,524
-91 | avatarbot | 1,027,000
-92 | UniversalNoobMaster | 1,025,851
+90 | UniversalNoobMaster | 1,032,820
+91 | freechickens | 1,028,524
+92 | avatarbot | 1,027,000
 93 | WarmBiertje | 1,000,000
 94 | CluelessSurvivor | 998,024
 95 | EvanIsBacon | 970,416
@@ -217,10 +217,10 @@ Rank | Username | Totals Tips
 214 | Gregoryonetulum | 249,309
 215 | BeardedBro_ | 248,627
 216 | 4gsboofd | 244,377
-217 | joeviani | 241,717
-218 | the_judge_168 | 240,412
-219 | Significant_Talk4943 | 240,319
-220 | Complete-Tadpole-728 | 239,870
+217 | Complete-Tadpole-728 | 242,870
+218 | joeviani | 241,717
+219 | the_judge_168 | 240,412
+220 | Significant_Talk4943 | 240,319
 221 | Truffle_Shuffle_85 | 235,978
 222 | MuhSound | 235,724
 223 | Zalkwalker | 235,069
