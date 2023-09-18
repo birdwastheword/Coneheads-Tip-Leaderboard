@@ -1,4 +1,4 @@
-Last updated: 23-09-18 16:25:04 UTC  
+Last updated: 23-09-18 16:37:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,9 +7,9 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,271,323
-7 | cutsickass | 24,676,621
+7 | cutsickass | 24,706,621
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,693,321
+9 | _ships | 17,719,951
 10 | crypto_grandma | 14,074,412
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -31,8 +31,8 @@ Rank | Username | Totals Tips
 28 | thelonliestcrowd | 5,346,802
 29 | GuyOne | 4,977,841
 30 | Ginomania | 4,913,011
-31 | send420nudes | 4,753,581
-32 | VIVOffical | 4,558,341
+31 | send420nudes | 4,757,850
+32 | VIVOffical | 4,658,341
 33 | rikbona | 4,540,773
 34 | redzrex | 4,503,757
 35 | bigbilly1234567899 | 4,496,042
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | Ten-Mins-Late | 1,707,793
 71 | GooderZBK | 1,617,267
 72 | ultra_terrestrial | 1,541,913
-73 | LongCauliflower6791 | 1,492,067
+73 | LongCauliflower6791 | 1,499,067
 74 | YarOldeOrchard | 1,438,286
 75 | ValiantJudge29500 | 1,403,264
 76 | isthistomorrow_ | 1,381,135
@@ -91,7 +91,7 @@ Rank | Username | Totals Tips
 88 | ashketchup422 | 1,042,067
 89 | freechickens | 1,028,524
 90 | avatarbot | 1,027,000
-91 | UniversalNoobMaster | 1,014,402
+91 | UniversalNoobMaster | 1,025,851
 92 | WarmBiertje | 1,000,000
 93 | CluelessSurvivor | 998,024
 94 | EvanIsBacon | 970,416
@@ -220,11 +220,11 @@ Rank | Username | Totals Tips
 217 | joeviani | 241,717
 218 | the_judge_168 | 240,412
 219 | Significant_Talk4943 | 240,319
-220 | Truffle_Shuffle_85 | 235,978
-221 | MuhSound | 235,724
-222 | Zalkwalker | 235,069
-223 | alexthemay | 234,131
-224 | Complete-Tadpole-728 | 231,041
+220 | Complete-Tadpole-728 | 237,207
+221 | Truffle_Shuffle_85 | 235,978
+222 | MuhSound | 235,724
+223 | Zalkwalker | 235,069
+224 | alexthemay | 234,131
 225 | Conetent | 223,667
 226 | TummyLice | 220,578
 227 | Ashamed_Raccoon9918 | 219,865
@@ -275,9 +275,9 @@ Rank | Username | Totals Tips
 272 | Legal-Appointment655 | 142,592
 273 | wato4000 | 140,692
 274 | SalliIsAFem | 140,361
-275 | luisantonio197 | 139,511
-276 | GrowinStuffAndThings | 137,461
-277 | ASingleGuitarString | 137,107
+275 | ASingleGuitarString | 139,770
+276 | luisantonio197 | 139,511
+277 | GrowinStuffAndThings | 137,461
 278 | Outrageous-Ad8481 | 137,001
 279 | Kevin3683 | 136,988
 280 | MorrisWayne | 133,416
