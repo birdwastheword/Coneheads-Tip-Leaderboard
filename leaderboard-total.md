@@ -1,4 +1,4 @@
-Last updated: 23-09-18 21:16:27 UTC  
+Last updated: 23-09-18 21:24:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -72,7 +72,7 @@ Rank | Username | Totals Tips
 69 | KONGXIANG | 1,712,726
 70 | Ten-Mins-Late | 1,707,793
 71 | GooderZBK | 1,617,267
-72 | ultra_terrestrial | 1,542,333
+72 | ultra_terrestrial | 1,542,402
 73 | LongCauliflower6791 | 1,499,067
 74 | YarOldeOrchard | 1,438,286
 75 | ValiantJudge29500 | 1,404,764
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | femacampcouncilor | 645,475
 133 | slirpo | 631,180
 134 | superlonelyboy | 611,557
-135 | DogSpark84 | 603,736
+135 | DogSpark84 | 606,399
 136 | crodbtc | 601,223
 137 | __PDS__ | 595,709
 138 | El_Gordone | 592,784
