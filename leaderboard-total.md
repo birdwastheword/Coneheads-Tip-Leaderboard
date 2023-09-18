@@ -1,4 +1,4 @@
-Last updated: 23-09-18 03:30:56 UTC  
+Last updated: 23-09-18 03:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | UniversalNoobMaster | 1,014,402
 91 | Allions1 | 1,000,530
 92 | WarmBiertje | 1,000,000
-93 | CluelessSurvivor | 997,184
+93 | CluelessSurvivor | 998,024
 94 | EvanIsBacon | 970,416
 95 | ID404_Not_Found_8964 | 955,502
 96 | CHEROKEEJ4CK | 940,286
