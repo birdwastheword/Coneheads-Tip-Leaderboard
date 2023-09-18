@@ -1,4 +1,4 @@
-Last updated: 23-09-18 06:35:08 UTC  
+Last updated: 23-09-18 06:43:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -225,11 +225,11 @@ Rank | Username | Totals Tips
 222 | Ashamed_Raccoon9918 | 219,865
 223 | ShortBusCult | 218,859
 224 | SourBeefHoop | 217,512
-225 | yahuurdme | 214,134
-226 | Beenthorny | 212,362
-227 | SigSalvadore | 212,358
-228 | UWphoto | 211,312
-229 | Complete-Tadpole-728 | 211,140
+225 | Complete-Tadpole-728 | 216,466
+226 | yahuurdme | 214,134
+227 | Beenthorny | 212,362
+228 | SigSalvadore | 212,358
+229 | UWphoto | 211,312
 230 | Most_Being_4002 | 205,592
 231 | Esco1980 | 204,434
 232 | Heclalava | 203,538
