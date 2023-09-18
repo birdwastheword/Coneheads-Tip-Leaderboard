@@ -1,4 +1,4 @@
-Last updated: 23-09-18 19:32:06 UTC  
+Last updated: 23-09-18 19:40:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,271,323
-7 | cutsickass | 25,081,621
+7 | cutsickass | 25,111,621
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,730,382
 10 | crypto_grandma | 14,074,412
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | slirpo | 631,180
 134 | superlonelyboy | 611,557
 135 | DogSpark84 | 603,736
-136 | crodbtc | 598,560
+136 | crodbtc | 601,223
 137 | __PDS__ | 595,709
 138 | El_Gordone | 592,784
 139 | Burzzzt88 | 592,627
@@ -176,7 +176,7 @@ Rank | Username | Totals Tips
 173 | farmertypoerror | 359,212
 174 | Tinman_ApE | 357,542
 175 | DAMG808 | 355,432
-176 | Bobby_Juk | 353,000
+176 | Bobby_Juk | 353,420
 177 | Outrageous-Skill-464 | 344,174
 178 | anony666mous | 341,008
 179 | tsudrat | 340,707
@@ -749,8 +749,8 @@ Rank | Username | Totals Tips
 746 | Fourplyer80 | 6,587
 747 | st3alth247 | 6,583
 748 | dexabonk | 6,541
-749 | _pondering_insomniac | 6,500
-750 | paracord-bracelets | 6,447
+749 | paracord-bracelets | 6,517
+750 | _pondering_insomniac | 6,500
 751 | SeniorThiccBoi | 6,405
 752 | theindoshow | 6,388
 753 | rpgruli | 6,364
