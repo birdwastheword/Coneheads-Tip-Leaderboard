@@ -1,4 +1,4 @@
-Last updated: 23-09-18 15:50:48 UTC  
+Last updated: 23-09-18 16:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -139,7 +139,7 @@ Rank | Username | Totals Tips
 136 | __PDS__ | 595,709
 137 | crodbtc | 593,234
 138 | El_Gordone | 592,784
-139 | Burzzzt88 | 592,138
+139 | Burzzzt88 | 592,627
 140 | Independent_Heart_15 | 578,825
 141 | AustinTX1985 | 571,526
 142 | WhateverAlready | 555,371
@@ -225,7 +225,7 @@ Rank | Username | Totals Tips
 222 | Zalkwalker | 235,069
 223 | alexthemay | 234,131
 224 | Conetent | 223,667
-225 | Complete-Tadpole-728 | 222,632
+225 | Complete-Tadpole-728 | 223,052
 226 | TummyLice | 220,578
 227 | Ashamed_Raccoon9918 | 219,865
 228 | ShortBusCult | 219,467
