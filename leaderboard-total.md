@@ -1,4 +1,4 @@
-Last updated: 23-09-18 04:37:10 UTC  
+Last updated: 23-09-18 04:45:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,271,323
-7 | cutsickass | 24,298,632
+7 | cutsickass | 24,448,632
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,690,658
 10 | crypto_grandma | 14,063,312
@@ -77,7 +77,7 @@ Rank | Username | Totals Tips
 74 | YarOldeOrchard | 1,438,286
 75 | ValiantJudge29500 | 1,401,656
 76 | isthistomorrow_ | 1,381,135
-77 | Extreme_Issue7325 | 1,295,890
+77 | Extreme_Issue7325 | 1,345,890
 78 | saintajoras | 1,254,482
 79 | Own_Ad_4269 | 1,248,127
 80 | revdrgonzo | 1,245,635
@@ -975,13 +975,13 @@ Rank | Username | Totals Tips
 972 | despicav | 999
 973 | Thelegend_48 | 979
 974 | 3utt5lut | 978
-975 | Illicitterror | 966
-976 | DeffNotTom | 940
-977 | ItsYaBoySharkz | 940
-978 | BatsaBaji | 924
-979 | TriggerHappyEwok | 909
-980 | Porescu | 909
-981 | pulse2017 | 897
+975 | pulse2017 | 966
+976 | Illicitterror | 966
+977 | DeffNotTom | 940
+978 | ItsYaBoySharkz | 940
+979 | BatsaBaji | 924
+980 | TriggerHappyEwok | 909
+981 | Porescu | 909
 982 | True_Sigma_1 | 853
 983 | Geesle | 840
 984 | Xanthn | 840
