@@ -1,4 +1,4 @@
-Last updated: 23-09-18 02:25:37 UTC  
+Last updated: 23-09-18 02:34:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -57,8 +57,8 @@ Rank | Username | Totals Tips
 54 | possibili-teas | 2,399,515
 55 | Autom4tic_Soze | 2,236,291
 56 | 002_timmy | 2,059,494
-57 | 0-Give-a-fucks | 1,998,164
-58 | investigator100 | 1,995,667
+57 | investigator100 | 1,998,330
+58 | 0-Give-a-fucks | 1,998,164
 59 | Affectionate_Hand_76 | 1,967,252
 60 | swampyswede | 1,948,877
 61 | catlover-100 | 1,931,330
