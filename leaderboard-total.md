@@ -1,4 +1,4 @@
-Last updated: 23-09-18 09:50:39 UTC  
+Last updated: 23-09-18 10:00:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | thelonliestcrowd | 5,344,139
 29 | GuyOne | 4,977,841
 30 | Ginomania | 4,913,011
-31 | send420nudes | 4,732,236
+31 | send420nudes | 4,736,505
 32 | VIVOffical | 4,558,341
 33 | rikbona | 4,540,773
 34 | redzrex | 4,503,337
@@ -224,10 +224,10 @@ Rank | Username | Totals Tips
 221 | alexthemay | 234,131
 222 | Conetent | 223,667
 223 | TummyLice | 220,158
-224 | Ashamed_Raccoon9918 | 219,865
-225 | ShortBusCult | 218,859
-226 | SourBeefHoop | 217,512
-227 | Complete-Tadpole-728 | 217,306
+224 | Complete-Tadpole-728 | 219,969
+225 | Ashamed_Raccoon9918 | 219,865
+226 | ShortBusCult | 218,859
+227 | SourBeefHoop | 217,512
 228 | yahuurdme | 214,134
 229 | Beenthorny | 212,362
 230 | SigSalvadore | 212,358
@@ -667,16 +667,16 @@ Rank | Username | Totals Tips
 664 | 73i1 | 10,412
 665 | Gamestopisthe1 | 10,227
 666 | TheyAskWho | 10,123
-667 | Consistent_Air_7646 | 10,000
-668 | LordCitrus69 | 10,000
-669 | xMikaRikax | 10,000
-670 | z6joker9 | 10,000
-671 | No-Confusion7414 | 9,959
-672 | boopcorgi | 9,923
-673 | supatard44 | 9,891
-674 | Badit_01 | 9,738
-675 | Ok-Profile-1744 | 9,709
-676 | Zeratrem | 9,683
+667 | Zeratrem | 10,103
+668 | Consistent_Air_7646 | 10,000
+669 | LordCitrus69 | 10,000
+670 | xMikaRikax | 10,000
+671 | z6joker9 | 10,000
+672 | No-Confusion7414 | 9,959
+673 | boopcorgi | 9,923
+674 | supatard44 | 9,891
+675 | Badit_01 | 9,738
+676 | Ok-Profile-1744 | 9,709
 677 | Cauzzai | 9,672
 678 | kekzilla59 | 9,655
 679 | makastrombini | 9,627
