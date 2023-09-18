@@ -1,4 +1,4 @@
-Last updated: 23-09-18 04:00:48 UTC  
+Last updated: 23-09-18 04:25:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -91,7 +91,7 @@ Rank | Username | Totals Tips
 88 | avatarbot | 1,027,000
 89 | nichnotnick | 1,019,152
 90 | UniversalNoobMaster | 1,014,402
-91 | Allions1 | 1,000,530
+91 | Allions1 | 1,000,599
 92 | WarmBiertje | 1,000,000
 93 | CluelessSurvivor | 998,024
 94 | EvanIsBacon | 970,416
