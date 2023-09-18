@@ -1,4 +1,4 @@
-Last updated: 23-09-18 13:50:44 UTC  
+Last updated: 23-09-18 14:00:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | ultra_terrestrial | 1,541,913
 73 | LongCauliflower6791 | 1,479,722
 74 | YarOldeOrchard | 1,438,286
-75 | ValiantJudge29500 | 1,401,656
+75 | ValiantJudge29500 | 1,402,656
 76 | isthistomorrow_ | 1,381,135
 77 | Extreme_Issue7325 | 1,345,890
 78 | saintajoras | 1,254,482
@@ -956,7 +956,7 @@ Rank | Username | Totals Tips
 953 | FateAvernus | 1,069
 954 | PhantomOpera888 | 1,062
 955 | F7o | 1,061
-956 | final_lionel | 1,050
+956 | final_lionel | 1,060
 957 | Chanceadams10 | 1,041
 958 | Pacaloz | 1,041
 959 | HunttiOriginal | 1,020
