@@ -1,4 +1,4 @@
-Last updated: 23-09-18 21:33:51 UTC  
+Last updated: 23-09-18 21:42:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,271,323
-7 | cutsickass | 25,321,621
+7 | cutsickass | 25,351,621
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,733,045
 10 | crypto_grandma | 14,074,412
@@ -131,7 +131,7 @@ Rank | Username | Totals Tips
 128 | piebagz | 661,815
 129 | MartynDr | 652,759
 130 | MorrisBrett514 | 651,759
-131 | junkwatch | 648,702
+131 | junkwatch | 648,771
 132 | femacampcouncilor | 645,475
 133 | slirpo | 631,180
 134 | superlonelyboy | 611,557
@@ -172,8 +172,8 @@ Rank | Username | Totals Tips
 169 | fettskull | 380,854
 170 | MisterM0H0 | 379,338
 171 | zenhodl | 374,566
-172 | hellosamaira | 373,235
-173 | Bobby_Juk | 363,840
+172 | Bobby_Juk | 373,840
+173 | hellosamaira | 373,235
 174 | farmertypoerror | 359,212
 175 | Tinman_ApE | 357,542
 176 | DAMG808 | 355,432
@@ -385,14 +385,14 @@ Rank | Username | Totals Tips
 382 | Emeritux | 65,683
 383 | imp3order | 65,546
 384 | damnusernamegotcutof | 65,004
-385 | KrunchyKushKing | 64,803
-386 | zuzieey7719 | 64,618
-387 | slug_tamer | 63,595
-388 | guokaidi | 63,581
-389 | meme_used | 63,516
-390 | netnemirepxE | 62,645
-391 | meth43 | 62,596
-392 | Atorcran | 62,244
+385 | Atorcran | 64,907
+386 | KrunchyKushKing | 64,803
+387 | zuzieey7719 | 64,618
+388 | slug_tamer | 63,595
+389 | guokaidi | 63,581
+390 | meme_used | 63,516
+391 | netnemirepxE | 62,645
+392 | meth43 | 62,596
 393 | TheD1ceMan | 60,541
 394 | lucrica | 59,987
 395 | Dboythegreat | 59,726
