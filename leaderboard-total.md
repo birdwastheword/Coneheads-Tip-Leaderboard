@@ -1,4 +1,4 @@
-Last updated: 23-09-18 07:17:50 UTC  
+Last updated: 23-09-18 07:30:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,271,323
 7 | cutsickass | 24,448,632
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,690,658
+9 | _ships | 17,693,321
 10 | crypto_grandma | 14,067,512
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -225,7 +225,7 @@ Rank | Username | Totals Tips
 222 | Ashamed_Raccoon9918 | 219,865
 223 | ShortBusCult | 218,859
 224 | SourBeefHoop | 217,512
-225 | Complete-Tadpole-728 | 216,466
+225 | Complete-Tadpole-728 | 216,886
 226 | yahuurdme | 214,134
 227 | Beenthorny | 212,362
 228 | SigSalvadore | 212,358
