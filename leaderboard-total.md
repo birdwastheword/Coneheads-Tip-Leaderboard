@@ -1,4 +1,4 @@
-Last updated: 23-09-18 05:40:43 UTC  
+Last updated: 23-09-18 05:50:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,146,194
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,427,082
-44 | Korean_Street_Pizza | 3,421,138
+44 | Korean_Street_Pizza | 3,421,207
 45 | LordBobTheWhale | 3,332,690
 46 | DontLaughArt | 3,312,985
 47 | Dry_Badger_2403 | 3,193,857
@@ -233,7 +233,7 @@ Rank | Username | Totals Tips
 230 | Esco1980 | 204,434
 231 | Heclalava | 203,538
 232 | ziggyback | 203,369
-233 | Complete-Tadpole-728 | 198,808
+233 | Complete-Tadpole-728 | 201,471
 234 | CedricDiccory | 197,932
 235 | sudrats | 197,124
 236 | Overall-Extension608 | 196,776
