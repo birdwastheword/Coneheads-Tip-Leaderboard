@@ -1,8 +1,8 @@
-Last updated: 23-09-19 07:30:51 UTC  
+Last updated: 23-09-19 07:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
-2 | Wonderful_Bad6531 | 36,223,291
+2 | Wonderful_Bad6531 | 36,346,747
 3 | nakamo-toe | 35,043,478
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
