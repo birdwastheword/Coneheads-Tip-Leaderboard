@@ -1,11 +1,11 @@
-Last updated: 23-09-19 06:53:10 UTC  
+Last updated: 23-09-19 07:05:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
 2 | Wonderful_Bad6531 | 36,223,291
 3 | nakamo-toe | 35,043,478
 4 | waterhasnocalories | 30,910,235
-5 | Jeff5704 | 28,297,960
+5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
 7 | cutsickass | 25,378,258
 8 | ConeDesk | 17,947,653
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | junkwatch | 649,191
 133 | femacampcouncilor | 645,475
 134 | slirpo | 631,180
-135 | crodbtc | 613,886
+135 | crodbtc | 618,886
 136 | superlonelyboy | 611,557
 137 | __PDS__ | 595,709
 138 | El_Gordone | 592,784
