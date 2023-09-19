@@ -1,4 +1,4 @@
-Last updated: 23-09-19 07:18:31 UTC  
+Last updated: 23-09-19 07:30:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -206,7 +206,7 @@ Rank | Username | Totals Tips
 203 | hey_barry | 269,698
 204 | SetoXlll | 266,136
 205 | shiesto | 266,111
-206 | Complete-Tadpole-728 | 262,025
+206 | Complete-Tadpole-728 | 262,445
 207 | SnooMacarons9203 | 260,208
 208 | tmanfromEarth | 258,392
 209 | Hactar_42 | 256,832
