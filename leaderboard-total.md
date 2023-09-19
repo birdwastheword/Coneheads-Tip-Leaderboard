@@ -1,4 +1,4 @@
-Last updated: 23-09-19 09:40:37 UTC  
+Last updated: 23-09-19 09:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -239,7 +239,7 @@ Rank | Username | Totals Tips
 236 | Esco1980 | 204,434
 237 | Heclalava | 203,538
 238 | ziggyback | 203,369
-239 | Overall-Extension608 | 199,439
+239 | Overall-Extension608 | 202,102
 240 | CedricDiccory | 197,932
 241 | sudrats | 197,124
 242 | redditavanft | 195,122
