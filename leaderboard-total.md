@@ -1,4 +1,4 @@
-Last updated: 23-09-19 09:00:49 UTC  
+Last updated: 23-09-19 09:18:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,938,217
+14 | SammyCraigar | 11,938,725
 15 | Permanent_WSB_Bull | 11,204,183
 16 | SpookySYN | 10,999,525
 17 | 8inchConer | 8,947,619
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | thelonliestcrowd | 5,378,852
 29 | GuyOne | 5,004,471
 30 | Ginomania | 4,913,011
-31 | send420nudes | 4,804,188
+31 | send420nudes | 4,812,726
 32 | VIVOffical | 4,769,064
 33 | rikbona | 4,540,773
 34 | redzrex | 4,512,166
