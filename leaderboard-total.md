@@ -1,4 +1,4 @@
-Last updated: 23-09-19 09:50:50 UTC  
+Last updated: 23-09-19 10:01:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -280,8 +280,8 @@ Rank | Username | Totals Tips
 277 | ASingleGuitarString | 139,770
 278 | luisantonio197 | 139,511
 279 | GrowinStuffAndThings | 137,461
-280 | Outrageous-Ad8481 | 137,001
-281 | Kevin3683 | 136,988
+280 | Kevin3683 | 137,057
+281 | Outrageous-Ad8481 | 137,001
 282 | MorrisWayne | 133,416
 283 | BitCone_CONE | 133,007
 284 | GoodMornEveGoodNight | 131,088
