@@ -1,12 +1,12 @@
-Last updated: 23-09-19 06:44:40 UTC  
+Last updated: 23-09-19 06:53:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
 2 | Wonderful_Bad6531 | 36,223,291
 3 | nakamo-toe | 35,043,478
 4 | waterhasnocalories | 30,910,235
-5 | rickribera93 | 28,283,728
-6 | Jeff5704 | 28,271,323
+5 | Jeff5704 | 28,297,960
+6 | rickribera93 | 28,283,728
 7 | cutsickass | 25,378,258
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,766,426
@@ -135,8 +135,8 @@ Rank | Username | Totals Tips
 132 | junkwatch | 649,191
 133 | femacampcouncilor | 645,475
 134 | slirpo | 631,180
-135 | superlonelyboy | 611,557
-136 | crodbtc | 603,886
+135 | crodbtc | 613,886
+136 | superlonelyboy | 611,557
 137 | __PDS__ | 595,709
 138 | El_Gordone | 592,784
 139 | Burzzzt88 | 592,627
@@ -636,12 +636,12 @@ Rank | Username | Totals Tips
 633 | FixFull | 12,501
 634 | Dapper_Bloke88 | 12,451
 635 | noah1754 | 12,435
-636 | wesleylyan | 12,257
-637 | ZeusDubstep | 12,050
-638 | bageren | 12,038
-639 | Weezthajuice | 12,007
-640 | gnarlypoop | 11,924
-641 | J-_Mad | 11,859
+636 | J-_Mad | 12,279
+637 | wesleylyan | 12,257
+638 | ZeusDubstep | 12,050
+639 | bageren | 12,038
+640 | Weezthajuice | 12,007
+641 | gnarlypoop | 11,924
 642 | charlythesecond | 11,794
 643 | TheChillDyl | 11,718
 644 | Hofmaurerad | 11,711
