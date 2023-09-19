@@ -1,4 +1,4 @@
-Last updated: 23-09-19 02:44:07 UTC  
+Last updated: 23-09-19 02:52:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | virmamies | 896,434
 101 | Bobisdeadrun | 869,015
 102 | orangesandonions | 855,238
-103 | Alanski22 | 845,898
+103 | Alanski22 | 850,898
 104 | formidable-opponent | 830,193
 105 | PortCity_MadMan | 826,892
 106 | adrifing | 816,494
