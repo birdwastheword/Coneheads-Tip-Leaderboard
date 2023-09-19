@@ -1,4 +1,4 @@
-Last updated: 23-09-19 11:00:49 UTC  
+Last updated: 23-09-19 11:15:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | thelonliestcrowd | 5,378,852
 29 | GuyOne | 5,004,471
 30 | Ginomania | 4,913,011
-31 | send420nudes | 4,812,726
+31 | send420nudes | 4,816,995
 32 | VIVOffical | 4,769,064
 33 | rikbona | 4,540,773
 34 | redzrex | 4,512,166
@@ -115,7 +115,7 @@ Rank | Username | Totals Tips
 112 | Cravensworth_redux | 790,803
 113 | Westy3000 | 785,931
 114 | ziggybri | 783,883
-115 | cannainform2 | 770,655
+115 | cannainform2 | 771,075
 116 | dopelifer09 | 727,057
 117 | Successful-Walk-3902 | 724,070
 118 | Obi1eyeKenobi | 718,842
