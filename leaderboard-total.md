@@ -1,4 +1,4 @@
-Last updated: 23-09-19 02:35:53 UTC  
+Last updated: 23-09-19 02:44:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | ultra_terrestrial | 1,546,671
 73 | LongCauliflower6791 | 1,499,067
 74 | YarOldeOrchard | 1,438,286
-75 | ValiantJudge29500 | 1,406,264
+75 | ValiantJudge29500 | 1,416,264
 76 | isthistomorrow_ | 1,381,135
 77 | Extreme_Issue7325 | 1,345,890
 78 | saintajoras | 1,254,482
