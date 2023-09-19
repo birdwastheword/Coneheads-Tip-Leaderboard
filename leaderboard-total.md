@@ -1,4 +1,4 @@
-Last updated: 23-09-19 07:05:58 UTC  
+Last updated: 23-09-19 07:18:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | send420nudes | 4,804,188
 32 | VIVOffical | 4,769,064
 33 | rikbona | 4,540,773
-34 | redzrex | 4,509,503
+34 | redzrex | 4,512,166
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,276,153
