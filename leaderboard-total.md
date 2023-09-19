@@ -1,4 +1,4 @@
-Last updated: 23-09-19 13:40:42 UTC  
+Last updated: 23-09-19 13:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -176,7 +176,7 @@ Rank | Username | Totals Tips
 173 | zenhodl | 374,566
 174 | hellosamaira | 373,235
 175 | farmertypoerror | 359,212
-176 | Tinman_ApE | 358,150
+176 | Tinman_ApE | 358,758
 177 | Outrageous-Skill-464 | 344,174
 178 | anony666mous | 341,008
 179 | tsudrat | 340,707
