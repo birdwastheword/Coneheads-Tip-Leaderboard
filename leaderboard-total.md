@@ -1,4 +1,4 @@
-Last updated: 23-09-19 13:50:45 UTC  
+Last updated: 23-09-19 14:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | clean_cut89 | 3,713,476
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
-43 | ZukoBih | 3,429,745
+43 | ZukoBih | 3,430,353
 44 | Korean_Street_Pizza | 3,422,047
 45 | LordBobTheWhale | 3,334,514
 46 | DontLaughArt | 3,312,985
