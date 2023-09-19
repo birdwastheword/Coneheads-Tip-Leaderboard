@@ -1,4 +1,4 @@
-Last updated: 23-09-19 12:59:42 UTC  
+Last updated: 23-09-19 13:23:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,749
 27 | IveDoneItAtLast | 5,481,617
-28 | thelonliestcrowd | 5,378,852
+28 | thelonliestcrowd | 5,381,515
 29 | GuyOne | 5,004,471
 30 | Ginomania | 4,913,011
 31 | send420nudes | 4,821,264
@@ -57,8 +57,8 @@ Rank | Username | Totals Tips
 54 | possibili-teas | 2,405,515
 55 | Autom4tic_Soze | 2,236,291
 56 | 002_timmy | 2,059,494
-57 | 0-Give-a-fucks | 2,001,247
-58 | investigator100 | 2,000,993
+57 | investigator100 | 2,003,656
+58 | 0-Give-a-fucks | 2,001,247
 59 | Affectionate_Hand_76 | 1,977,373
 60 | swampyswede | 1,949,087
 61 | catlover-100 | 1,931,330
