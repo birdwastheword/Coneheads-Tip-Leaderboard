@@ -1,4 +1,4 @@
-Last updated: 23-09-19 01:31:34 UTC  
+Last updated: 23-09-19 02:06:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -9,12 +9,12 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,271,323
 7 | cutsickass | 25,378,258
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,760,323
+9 | _ships | 17,761,100
 10 | crypto_grandma | 14,074,412
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,911,587
+14 | SammyCraigar | 11,938,217
 15 | Permanent_WSB_Bull | 11,204,183
 16 | SpookySYN | 10,999,525
 17 | 8inchConer | 8,947,619
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | ultra_terrestrial | 1,546,671
 73 | LongCauliflower6791 | 1,499,067
 74 | YarOldeOrchard | 1,438,286
-75 | ValiantJudge29500 | 1,404,764
+75 | ValiantJudge29500 | 1,406,264
 76 | isthistomorrow_ | 1,381,135
 77 | Extreme_Issue7325 | 1,345,890
 78 | saintajoras | 1,254,482
@@ -154,7 +154,7 @@ Rank | Username | Totals Tips
 151 | AcceptableLeg8751 | 500,000
 152 | Lady_Lucks_Man | 479,740
 153 | RazPie | 474,666
-154 | stockyewok | 468,261
+154 | stockyewok | 468,681
 155 | sinlesco | 465,153
 156 | WarmlyWacky | 462,118
 157 | MediaPrestigious8342 | 453,839
