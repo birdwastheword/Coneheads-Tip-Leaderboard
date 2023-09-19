@@ -1,4 +1,4 @@
-Last updated: 23-09-19 09:18:43 UTC  
+Last updated: 23-09-19 09:30:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -172,7 +172,7 @@ Rank | Username | Totals Tips
 169 | SHIFTY-T3RROR | 383,203
 170 | DAMG808 | 380,432
 171 | MisterM0H0 | 379,338
-172 | Bobby_Juk | 374,680
+172 | Bobby_Juk | 375,100
 173 | zenhodl | 374,566
 174 | hellosamaira | 373,235
 175 | farmertypoerror | 359,212
