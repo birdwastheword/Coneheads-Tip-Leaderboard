@@ -1,4 +1,4 @@
-Last updated: 23-09-19 09:30:44 UTC  
+Last updated: 23-09-19 09:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | avatarbot | 1,027,000
 93 | WarmBiertje | 1,000,000
 94 | CluelessSurvivor | 998,024
-95 | virmamies | 977,771
+95 | virmamies | 987,771
 96 | EvanIsBacon | 970,416
 97 | CHEROKEEJ4CK | 940,286
 98 | Forward_Today2849 | 932,405
@@ -345,8 +345,8 @@ Rank | Username | Totals Tips
 342 | BeefaloSlim | 87,885
 343 | qwertywich | 87,473
 344 | bvandepol | 86,258
-345 | Mother-Werewolf185 | 85,579
-346 | 83nno | 85,405
+345 | 83nno | 85,719
+346 | Mother-Werewolf185 | 85,579
 347 | Puzzleheaded_Gift738 | 84,020
 348 | Admirito | 82,353
 349 | standArtpluto | 82,100
