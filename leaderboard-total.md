@@ -1,4 +1,4 @@
-Last updated: 23-09-19 04:50:40 UTC  
+Last updated: 23-09-19 05:00:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,749
 27 | IveDoneItAtLast | 5,473,861
-28 | thelonliestcrowd | 5,378,432
+28 | thelonliestcrowd | 5,378,852
 29 | GuyOne | 5,004,471
 30 | Ginomania | 4,913,011
 31 | send420nudes | 4,804,188
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | ultra_terrestrial | 1,546,671
 73 | LongCauliflower6791 | 1,511,412
 74 | YarOldeOrchard | 1,438,286
-75 | ValiantJudge29500 | 1,416,264
+75 | ValiantJudge29500 | 1,426,264
 76 | isthistomorrow_ | 1,381,135
 77 | Extreme_Issue7325 | 1,345,890
 78 | saintajoras | 1,254,482
