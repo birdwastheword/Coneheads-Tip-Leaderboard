@@ -1,4 +1,4 @@
-Last updated: 23-09-19 12:08:40 UTC  
+Last updated: 23-09-19 12:43:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
-7 | cutsickass | 25,648,258
+7 | cutsickass | 25,678,258
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,766,426
 10 | crypto_grandma | 14,074,412
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,276,153
-38 | zdubs | 3,758,923
+38 | zdubs | 3,758,992
 39 | thom_orrow | 3,744,550
 40 | clean_cut89 | 3,713,476
 41 | bray_martin03 | 3,510,891
@@ -172,11 +172,11 @@ Rank | Username | Totals Tips
 169 | SHIFTY-T3RROR | 383,203
 170 | DAMG808 | 380,432
 171 | MisterM0H0 | 379,338
-172 | Bobby_Juk | 375,940
+172 | Bobby_Juk | 376,360
 173 | zenhodl | 374,566
 174 | hellosamaira | 373,235
 175 | farmertypoerror | 359,212
-176 | Tinman_ApE | 357,542
+176 | Tinman_ApE | 358,150
 177 | Outrageous-Skill-464 | 344,174
 178 | anony666mous | 341,008
 179 | tsudrat | 340,707
