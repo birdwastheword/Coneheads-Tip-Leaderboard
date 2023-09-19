@@ -1,4 +1,4 @@
-Last updated: 23-09-19 04:01:00 UTC  
+Last updated: 23-09-19 04:23:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Geniuskills | 7,579,839
 22 | Puddin-Luv | 7,319,653
 23 | Skank_cunt_42 | 7,269,825
-24 | ashinamune | 6,757,062
+24 | ashinamune | 6,757,670
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,749
 27 | IveDoneItAtLast | 5,473,861
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | Ten-Mins-Late | 1,707,793
 71 | GooderZBK | 1,617,267
 72 | ultra_terrestrial | 1,546,671
-73 | LongCauliflower6791 | 1,499,067
+73 | LongCauliflower6791 | 1,511,412
 74 | YarOldeOrchard | 1,438,286
 75 | ValiantJudge29500 | 1,416,264
 76 | isthistomorrow_ | 1,381,135
@@ -227,9 +227,9 @@ Rank | Username | Totals Tips
 224 | alexthemay | 234,131
 225 | CoverYourMaskHoles | 229,708
 226 | Conetent | 223,667
-227 | TummyLice | 220,578
-228 | Ashamed_Raccoon9918 | 219,865
-229 | ShortBusCult | 219,467
+227 | ShortBusCult | 222,130
+228 | TummyLice | 220,578
+229 | Ashamed_Raccoon9918 | 219,865
 230 | SourBeefHoop | 217,512
 231 | yahuurdme | 214,134
 232 | Beenthorny | 212,362
