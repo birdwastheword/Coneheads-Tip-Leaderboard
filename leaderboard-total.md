@@ -1,4 +1,4 @@
-Last updated: 23-09-19 05:50:45 UTC  
+Last updated: 23-09-19 06:07:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -96,14 +96,14 @@ Rank | Username | Totals Tips
 93 | WarmBiertje | 1,000,000
 94 | CluelessSurvivor | 998,024
 95 | EvanIsBacon | 970,416
-96 | CHEROKEEJ4CK | 940,286
-97 | Forward_Today2849 | 932,405
-98 | Modestexcuse | 903,684
-99 | thee_monster | 896,765
-100 | virmamies | 896,434
-101 | Bobisdeadrun | 869,015
-102 | orangesandonions | 855,238
-103 | Alanski22 | 850,898
+96 | virmamies | 957,771
+97 | CHEROKEEJ4CK | 940,286
+98 | Forward_Today2849 | 932,405
+99 | Modestexcuse | 903,684
+100 | thee_monster | 896,765
+101 | Alanski22 | 872,810
+102 | Bobisdeadrun | 869,015
+103 | orangesandonions | 855,238
 104 | formidable-opponent | 830,193
 105 | PortCity_MadMan | 826,892
 106 | adrifing | 819,157
