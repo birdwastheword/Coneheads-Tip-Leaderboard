@@ -1,4 +1,4 @@
-Last updated: 23-09-19 03:01:01 UTC  
+Last updated: 23-09-19 03:19:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -106,7 +106,7 @@ Rank | Username | Totals Tips
 103 | Alanski22 | 850,898
 104 | formidable-opponent | 830,193
 105 | PortCity_MadMan | 826,892
-106 | adrifing | 816,494
+106 | adrifing | 819,157
 107 | goldyluckinblokchain | 809,537
 108 | vbutarin | 802,000
 109 | na7oul | 800,000
