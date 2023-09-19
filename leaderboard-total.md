@@ -1,4 +1,4 @@
-Last updated: 23-09-19 04:23:09 UTC  
+Last updated: 23-09-19 04:33:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,271,323
 7 | cutsickass | 25,378,258
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,763,763
+9 | _ships | 17,766,426
 10 | crypto_grandma | 14,074,412
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -154,7 +154,7 @@ Rank | Username | Totals Tips
 151 | AcceptableLeg8751 | 500,000
 152 | Lady_Lucks_Man | 479,740
 153 | RazPie | 474,666
-154 | stockyewok | 468,681
+154 | stockyewok | 469,101
 155 | sinlesco | 465,153
 156 | WarmlyWacky | 462,118
 157 | MediaPrestigious8342 | 453,839
