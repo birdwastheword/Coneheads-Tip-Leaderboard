@@ -1,4 +1,4 @@
-Last updated: 23-09-19 02:06:12 UTC  
+Last updated: 23-09-19 02:27:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | Jeff5704 | 28,271,323
 7 | cutsickass | 25,378,258
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,761,100
+9 | _ships | 17,763,763
 10 | crypto_grandma | 14,074,412
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -54,13 +54,13 @@ Rank | Username | Totals Tips
 51 | ZoomLong | 2,641,251
 52 | _Royal_Insylum | 2,603,787
 53 | ImAlekBan | 2,595,989
-54 | possibili-teas | 2,399,515
+54 | possibili-teas | 2,405,515
 55 | Autom4tic_Soze | 2,236,291
 56 | 002_timmy | 2,059,494
 57 | 0-Give-a-fucks | 2,001,247
 58 | investigator100 | 2,000,993
 59 | Affectionate_Hand_76 | 1,977,373
-60 | swampyswede | 1,948,877
+60 | swampyswede | 1,949,087
 61 | catlover-100 | 1,931,330
 62 | CMDRGlamdring | 1,893,799
 63 | Mundane-Farm-4117 | 1,873,613
