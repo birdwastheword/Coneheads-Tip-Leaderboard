@@ -1,4 +1,4 @@
-Last updated: 23-09-19 14:19:44 UTC  
+Last updated: 23-09-19 14:31:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -564,8 +564,8 @@ Rank | Username | Totals Tips
 561 | RamboBalboa21 | 21,083
 562 | ipad_daps | 20,864
 563 | shootingeagleyt | 20,611
-564 | DLPD-Camko | 20,377
-565 | WiseDude69 | 20,337
+564 | WiseDude69 | 20,406
+565 | DLPD-Camko | 20,377
 566 | Bear-Bull-Pig | 20,231
 567 | lookwhatumademedoo | 20,068
 568 | NoahG59 | 20,002
