@@ -1,4 +1,4 @@
-Last updated: 23-09-19 14:00:50 UTC  
+Last updated: 23-09-19 14:19:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,757,670
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,749
-27 | IveDoneItAtLast | 5,481,617
+27 | IveDoneItAtLast | 5,486,943
 28 | thelonliestcrowd | 5,381,515
 29 | GuyOne | 5,004,471
 30 | Ginomania | 4,913,011
@@ -648,9 +648,9 @@ Rank | Username | Totals Tips
 645 | masstransience | 11,623
 646 | reddit_saltyaf | 11,603
 647 | IndependenceHungry69 | 11,561
-648 | allisonovo | 11,346
-649 | This_Red_Apple | 11,260
-650 | Mrmakanakai | 11,166
+648 | Mrmakanakai | 11,477
+649 | allisonovo | 11,346
+650 | This_Red_Apple | 11,260
 651 | Bramberken05 | 11,110
 652 | GaryJulesMCOC | 11,110
 653 | Arj_123 | 11,032
