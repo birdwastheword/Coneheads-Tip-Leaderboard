@@ -1,9 +1,9 @@
-Last updated: 23-09-18 23:50:36 UTC  
+Last updated: 23-09-19 00:24:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
 2 | Wonderful_Bad6531 | 36,223,291
-3 | nakamo-toe | 34,821,488
+3 | nakamo-toe | 34,877,010
 4 | waterhasnocalories | 30,910,235
 5 | rickribera93 | 28,283,728
 6 | Jeff5704 | 28,271,323
@@ -210,8 +210,8 @@ Rank | Username | Totals Tips
 207 | tmanfromEarth | 258,392
 208 | Hactar_42 | 256,832
 209 | thecrabdad | 256,177
-210 | coolpattakers | 254,351
-211 | Complete-Tadpole-728 | 253,196
+210 | Complete-Tadpole-728 | 255,859
+211 | coolpattakers | 254,351
 212 | Ambitious-Minimum-80 | 252,035
 213 | Sattack4000 | 250,837
 214 | thestonkinator | 249,330
@@ -378,14 +378,14 @@ Rank | Username | Totals Tips
 375 | Dazzling_Marzipan474 | 69,033
 376 | Tapiz3land | 68,942
 377 | XBBlade | 67,901
-378 | LightninHooker | 67,227
-379 | Friendly-Airline2426 | 66,547
-380 | -geek | 66,318
-381 | Significant-Bet5762 | 65,759
-382 | Emeritux | 65,683
-383 | imp3order | 65,546
-384 | damnusernamegotcutof | 65,004
-385 | Atorcran | 64,907
+378 | Atorcran | 67,570
+379 | LightninHooker | 67,227
+380 | Friendly-Airline2426 | 66,547
+381 | -geek | 66,318
+382 | Significant-Bet5762 | 65,759
+383 | Emeritux | 65,683
+384 | imp3order | 65,546
+385 | damnusernamegotcutof | 65,004
 386 | KrunchyKushKing | 64,803
 387 | zuzieey7719 | 64,618
 388 | slug_tamer | 63,595
