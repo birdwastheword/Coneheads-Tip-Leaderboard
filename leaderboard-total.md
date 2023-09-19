@@ -1,4 +1,4 @@
-Last updated: 23-09-19 13:23:14 UTC  
+Last updated: 23-09-19 13:31:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -318,7 +318,7 @@ Rank | Username | Totals Tips
 315 | Chanyuui1 | 104,940
 316 | deathtr0 | 104,221
 317 | Chill_Edoeard | 102,923
-318 | diamondbored | 101,795
+318 | diamondbored | 102,795
 319 | ACorDC | 100,420
 320 | customsolitaires | 99,383
 321 | IHodlStill | 98,684
