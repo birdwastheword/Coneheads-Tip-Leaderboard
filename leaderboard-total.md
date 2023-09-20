@@ -1,4 +1,4 @@
-Last updated: 23-09-20 10:01:14 UTC  
+Last updated: 23-09-20 10:32:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | thelonliestcrowd | 5,381,515
 29 | GuyOne | 5,005,687
 30 | Ginomania | 4,913,011
-31 | send420nudes | 4,825,533
+31 | send420nudes | 4,829,802
 32 | VIVOffical | 4,769,064
 33 | rikbona | 4,540,773
 34 | redzrex | 4,512,166
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | Mundane-Farm-4117 | 1,873,613
 64 | djrcollectables | 1,857,147
 65 | jimfird | 1,848,643
-66 | Lillica_Golden_SHIB | 1,840,822
+66 | Lillica_Golden_SHIB | 1,840,960
 67 | dealkhabari | 1,767,162
 68 | Iulian_TechNewb | 1,717,286
 69 | KONGXIANG | 1,712,726
@@ -132,7 +132,7 @@ Rank | Username | Totals Tips
 129 | DogSpark84 | 661,725
 130 | MartynDr | 652,759
 131 | MorrisBrett514 | 651,759
-132 | junkwatch | 649,260
+132 | junkwatch | 649,680
 133 | femacampcouncilor | 645,475
 134 | slirpo | 631,180
 135 | crodbtc | 618,886
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | SHIFTY-T3RROR | 383,203
 171 | DAMG808 | 380,432
 172 | MisterM0H0 | 379,338
-173 | Bobby_Juk | 377,200
+173 | Bobby_Juk | 377,620
 174 | zenhodl | 374,566
 175 | hellosamaira | 373,235
 176 | farmertypoerror | 359,212
@@ -280,8 +280,8 @@ Rank | Username | Totals Tips
 277 | SalliIsAFem | 140,361
 278 | ASingleGuitarString | 139,770
 279 | luisantonio197 | 139,511
-280 | GrowinStuffAndThings | 137,461
-281 | Kevin3683 | 137,057
+280 | Kevin3683 | 139,279
+281 | GrowinStuffAndThings | 137,461
 282 | Outrageous-Ad8481 | 137,001
 283 | BitCone_CONE | 135,670
 284 | MorrisWayne | 133,416
