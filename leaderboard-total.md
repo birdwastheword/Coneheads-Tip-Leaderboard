@@ -1,4 +1,4 @@
-Last updated: 23-09-20 06:00:58 UTC  
+Last updated: 23-09-20 06:24:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,760,333
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,749
-27 | IveDoneItAtLast | 5,486,943
+27 | IveDoneItAtLast | 5,489,606
 28 | thelonliestcrowd | 5,381,515
 29 | GuyOne | 5,004,471
 30 | Ginomania | 4,913,011
