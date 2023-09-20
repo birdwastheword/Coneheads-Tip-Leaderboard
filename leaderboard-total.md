@@ -1,4 +1,4 @@
-Last updated: 23-09-20 07:40:53 UTC  
+Last updated: 23-09-20 07:50:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
-7 | cutsickass | 25,738,258
+7 | cutsickass | 26,548,258
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,766,426
 10 | crypto_grandma | 14,074,412
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | Fenrir-1919 | 2,665,413
 51 | ZoomLong | 2,641,251
 52 | _Royal_Insylum | 2,603,787
-53 | ImAlekBan | 2,595,989
+53 | ImAlekBan | 2,598,652
 54 | possibili-teas | 2,405,515
 55 | Autom4tic_Soze | 2,236,291
 56 | 002_timmy | 2,059,494
