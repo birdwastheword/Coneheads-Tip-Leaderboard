@@ -1,4 +1,4 @@
-Last updated: 23-09-20 11:01:02 UTC  
+Last updated: 23-09-20 11:15:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -78,10 +78,10 @@ Rank | Username | Totals Tips
 75 | ValiantJudge29500 | 1,426,264
 76 | isthistomorrow_ | 1,381,135
 77 | Extreme_Issue7325 | 1,345,890
-78 | saintajoras | 1,254,482
-79 | Own_Ad_4269 | 1,248,127
-80 | revdrgonzo | 1,245,635
-81 | Richicash | 1,231,855
+78 | Richicash | 1,256,855
+79 | saintajoras | 1,254,482
+80 | Own_Ad_4269 | 1,248,127
+81 | revdrgonzo | 1,245,635
 82 | HestiaIsTheBestia | 1,188,046
 83 | Feetfailmenot | 1,170,705
 84 | Hot_Potato_Salad | 1,147,558
