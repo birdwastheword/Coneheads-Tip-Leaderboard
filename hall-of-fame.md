@@ -118,5 +118,6 @@ Rank | Date | Username | Tip size | to User
 115 | 2023-09-09 16:45:57 | ZoomLong | 1,000,000| zdubs
 116 | 2023-09-10 15:00:56 | transfermymoons | 1,000,000| ID404_Not_Found_8964
 117 | 2023-09-11 01:49:48 | Extreme_Issue7325 | 1,000,000| cutsickass
+118 | 2023-09-20 12:02:38 | LimpPeanut5633 | 1,000,000| cutsickass
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
