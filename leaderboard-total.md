@@ -1,4 +1,4 @@
-Last updated: 23-09-20 14:50:39 UTC  
+Last updated: 23-09-20 15:01:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -221,7 +221,7 @@ Rank | Username | Totals Tips
 218 | BeardedBro_ | 248,627
 219 | 4gsboofd | 244,377
 220 | joeviani | 241,717
-221 | Significant_Talk4943 | 240,739
+221 | Significant_Talk4943 | 241,159
 222 | the_judge_168 | 240,412
 223 | Truffle_Shuffle_85 | 238,641
 224 | MuhSound | 235,724
