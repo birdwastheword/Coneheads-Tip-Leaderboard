@@ -1,4 +1,4 @@
-Last updated: 23-09-20 13:32:20 UTC  
+Last updated: 23-09-20 13:40:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -96,7 +96,7 @@ Rank | Username | Totals Tips
 93 | LimpPeanut5633 | 1,010,654
 94 | WarmBiertje | 1,000,000
 95 | CluelessSurvivor | 998,024
-96 | virmamies | 987,771
+96 | virmamies | 992,771
 97 | EvanIsBacon | 970,416
 98 | CHEROKEEJ4CK | 940,286
 99 | Forward_Today2849 | 932,405
