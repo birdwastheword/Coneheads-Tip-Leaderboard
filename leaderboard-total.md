@@ -1,4 +1,4 @@
-Last updated: 23-09-20 11:24:15 UTC  
+Last updated: 23-09-20 11:32:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,760,333
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,749
-27 | IveDoneItAtLast | 5,489,606
+27 | IveDoneItAtLast | 5,492,269
 28 | thelonliestcrowd | 5,381,515
 29 | GuyOne | 5,005,687
 30 | Ginomania | 4,913,011
@@ -945,21 +945,21 @@ Rank | Username | Totals Tips
 942 | AssociateTime9542 | 1,200
 943 | Gatherun | 1,198
 944 | Patrickcscott66 | 1,185
-945 | Malixshak | 1,152
-946 | redditavies | 1,138
-947 | CatBoy191114 | 1,138
-948 | weallwinoneday | 1,124
-949 | jwz9904 | 1,111
-950 | SkuniMasterMind | 1,094
-951 | lostfootdoctor | 1,070
-952 | SMaur0 | 1,069
-953 | contrary_advice | 1,069
-954 | LowFile1101 | 1,069
-955 | CloverKittyPie | 1,069
-956 | FateAvernus | 1,069
-957 | PhantomOpera888 | 1,062
-958 | F7o | 1,061
-959 | final_lionel | 1,060
+945 | final_lionel | 1,161
+946 | Malixshak | 1,152
+947 | redditavies | 1,138
+948 | CatBoy191114 | 1,138
+949 | weallwinoneday | 1,124
+950 | jwz9904 | 1,111
+951 | SkuniMasterMind | 1,094
+952 | lostfootdoctor | 1,070
+953 | SMaur0 | 1,069
+954 | contrary_advice | 1,069
+955 | LowFile1101 | 1,069
+956 | CloverKittyPie | 1,069
+957 | FateAvernus | 1,069
+958 | PhantomOpera888 | 1,062
+959 | F7o | 1,061
 960 | Chanceadams10 | 1,041
 961 | HunttiOriginal | 1,020
 962 | learnunlearnlearn | 1,012
