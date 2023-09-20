@@ -1,4 +1,4 @@
-Last updated: 23-09-20 14:32:18 UTC  
+Last updated: 23-09-20 14:40:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -44,13 +44,13 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,430,353
-44 | Korean_Street_Pizza | 3,424,710
+44 | Korean_Street_Pizza | 3,425,130
 45 | LordBobTheWhale | 3,334,514
 46 | DontLaughArt | 3,312,985
 47 | Dry_Badger_2403 | 3,193,857
 48 | evilninjarobot | 3,192,290
 49 | Mean_Bandicoot_7481 | 2,752,108
-50 | Fenrir-1919 | 2,666,021
+50 | Fenrir-1919 | 2,666,629
 51 | ZoomLong | 2,641,251
 52 | _Royal_Insylum | 2,603,787
 53 | ImAlekBan | 2,598,652
