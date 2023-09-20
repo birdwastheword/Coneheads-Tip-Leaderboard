@@ -1,4 +1,4 @@
-Last updated: 23-09-20 16:50:57 UTC  
+Last updated: 23-09-20 17:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | Creepy-Nectarine-225 | 392,996
 171 | monkeybombed | 385,426
 172 | SHIFTY-T3RROR | 383,203
-173 | DAMG808 | 380,432
+173 | DAMG808 | 383,095
 174 | MisterM0H0 | 379,338
 175 | Bobby_Juk | 377,620
 176 | zenhodl | 374,566
@@ -242,7 +242,7 @@ Rank | Username | Totals Tips
 239 | Esco1980 | 204,434
 240 | Heclalava | 203,538
 241 | ziggyback | 203,369
-242 | Overall-Extension608 | 202,102
+242 | Overall-Extension608 | 202,710
 243 | CedricDiccory | 197,932
 244 | sudrats | 197,124
 245 | redditavanft | 195,122
@@ -262,7 +262,7 @@ Rank | Username | Totals Tips
 259 | MymannosaurusRex | 171,317
 260 | MelonFarmer420 | 166,716
 261 | DamnWhySoLow | 166,675
-262 | DrThunderHandz | 163,658
+262 | DrThunderHandz | 164,266
 263 | ItailianStallion101 | 160,224
 264 | Clonkerz | 158,006
 265 | martymartinator | 155,223
