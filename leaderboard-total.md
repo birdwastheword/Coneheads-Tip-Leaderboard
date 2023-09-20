@@ -1,4 +1,4 @@
-Last updated: 23-09-20 19:00:52 UTC  
+Last updated: 23-09-20 19:15:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
-7 | cutsickass | 27,018,258
+7 | cutsickass | 27,048,258
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,766,426
 10 | crypto_grandma | 14,074,412
@@ -205,9 +205,9 @@ Rank | Username | Totals Tips
 202 | astro_nut_ | 280,463
 203 | Flimsy_Brilliant_239 | 280,444
 204 | Virtual-Wrangler5955 | 274,995
-205 | _Mitchee_ | 271,819
-206 | Final-Scar-941 | 271,039
-207 | Complete-Tadpole-728 | 270,434
+205 | Complete-Tadpole-728 | 273,097
+206 | _Mitchee_ | 271,819
+207 | Final-Scar-941 | 271,039
 208 | hey_barry | 269,698
 209 | SetoXlll | 266,136
 210 | shiesto | 266,111
@@ -266,8 +266,8 @@ Rank | Username | Totals Tips
 263 | ItailianStallion101 | 160,224
 264 | Clonkerz | 158,006
 265 | martymartinator | 155,223
-266 | 6reficul | 153,884
-267 | 192000Hertz | 152,446
+266 | 192000Hertz | 155,109
+267 | 6reficul | 153,884
 268 | SaberTurret | 152,262
 269 | NotFullyTerrestrial | 151,302
 270 | Nxnng | 151,195
