@@ -1,15 +1,15 @@
-Last updated: 23-09-20 21:24:32 UTC  
+Last updated: 23-09-20 21:33:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
 2 | Wonderful_Bad6531 | 36,346,747
-3 | nakamo-toe | 35,253,454
+3 | nakamo-toe | 35,256,117
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
-7 | cutsickass | 27,418,258
+7 | cutsickass | 27,478,258
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,766,426
+9 | _ships | 17,793,056
 10 | crypto_grandma | 14,074,412
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Geniuskills | 7,579,839
 22 | Puddin-Luv | 7,320,261
 23 | Skank_cunt_42 | 7,270,433
-24 | ashinamune | 6,760,333
+24 | ashinamune | 6,762,996
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,749
 27 | IveDoneItAtLast | 5,493,485
@@ -156,7 +156,7 @@ Rank | Username | Totals Tips
 153 | Crypto-4-Freedom | 510,834
 154 | f0n1xr131ng | 509,681
 155 | AcceptableLeg8751 | 500,000
-156 | fettskull | 486,180
+156 | fettskull | 488,843
 157 | Lady_Lucks_Man | 479,740
 158 | stockyewok | 469,101
 159 | sinlesco | 465,153
@@ -195,7 +195,7 @@ Rank | Username | Totals Tips
 192 | Adrewmc | 301,178
 193 | VincentVanGTFO | 300,598
 194 | S2K08 | 299,344
-195 | FluffyAspie | 297,845
+195 | FluffyAspie | 298,265
 196 | legionticket | 296,054
 197 | send_tacoz | 293,576
 198 | MadScientistTheFirst | 290,469
@@ -243,7 +243,7 @@ Rank | Username | Totals Tips
 240 | Esco1980 | 204,434
 241 | Heclalava | 203,538
 242 | ziggyback | 203,369
-243 | Overall-Extension608 | 202,710
+243 | Overall-Extension608 | 203,130
 244 | CedricDiccory | 197,932
 245 | sudrats | 197,124
 246 | redditavanft | 195,122
