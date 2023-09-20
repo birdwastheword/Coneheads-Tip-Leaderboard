@@ -1,4 +1,4 @@
-Last updated: 23-09-20 13:50:49 UTC  
+Last updated: 23-09-20 14:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -491,18 +491,18 @@ Rank | Username | Totals Tips
 488 | Big-Researcher-3855 | 34,950
 489 | BelowAveIntelligence | 34,132
 490 | Obvious-Ask-5747 | 33,806
-491 | PoDunkYuppie | 33,513
-492 | keyoh321 | 33,397
-493 | CatastrophicSpecter | 33,336
-494 | Gerboogler | 33,314
-495 | See0tter | 33,242
-496 | xxapplej4ckx | 33,181
-497 | redditavatar555 | 32,875
-498 | himthecool21 | 32,647
-499 | mbashs | 32,167
-500 | n00b1shm4n | 32,159
-501 | Originalibb | 32,157
-502 | Motor-breath8 | 31,699
+491 | Motor-breath8 | 33,699
+492 | PoDunkYuppie | 33,513
+493 | keyoh321 | 33,397
+494 | CatastrophicSpecter | 33,336
+495 | Gerboogler | 33,314
+496 | See0tter | 33,242
+497 | xxapplej4ckx | 33,181
+498 | redditavatar555 | 32,875
+499 | himthecool21 | 32,647
+500 | mbashs | 32,167
+501 | n00b1shm4n | 32,159
+502 | Originalibb | 32,157
 503 | mihii12 | 31,378
 504 | OutTop | 31,069
 505 | Jo2Bax | 31,041
