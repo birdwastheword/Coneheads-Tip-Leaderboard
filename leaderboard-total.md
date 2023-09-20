@@ -1,4 +1,4 @@
-Last updated: 23-09-20 10:32:49 UTC  
+Last updated: 23-09-20 10:41:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -168,8 +168,8 @@ Rank | Username | Totals Tips
 165 | dronegeeks1 | 414,406
 166 | LrnFaroeseWthBergur | 409,488
 167 | Creepy-Nectarine-225 | 392,996
-168 | monkeybombed | 385,426
-169 | fettskull | 383,517
+168 | fettskull | 386,180
+169 | monkeybombed | 385,426
 170 | SHIFTY-T3RROR | 383,203
 171 | DAMG808 | 380,432
 172 | MisterM0H0 | 379,338
@@ -440,7 +440,7 @@ Rank | Username | Totals Tips
 437 | shredslanding | 46,650
 438 | Oue | 46,352
 439 | skatistic | 46,287
-440 | FalloutAssasin | 45,665
+440 | FalloutAssasin | 45,734
 441 | Drlitez | 45,436
 442 | SnooRevelations6751 | 45,420
 443 | NickkyDC | 45,379
