@@ -1,4 +1,4 @@
-Last updated: 23-09-20 21:33:09 UTC  
+Last updated: 23-09-20 21:41:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | avyun | 8,818,525
 19 | ArtConsitent | 8,533,379
 20 | Homeslicekilla | 7,998,462
-21 | Geniuskills | 7,579,839
+21 | Geniuskills | 7,649,259
 22 | Puddin-Luv | 7,320,261
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,762,996
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | thelonliestcrowd | 5,381,515
 29 | GuyOne | 5,006,295
 30 | send420nudes | 4,966,066
-31 | Ginomania | 4,913,011
+31 | Ginomania | 4,939,641
 32 | VIVOffical | 4,801,657
 33 | rikbona | 4,540,773
 34 | redzrex | 4,512,166
@@ -175,7 +175,7 @@ Rank | Username | Totals Tips
 172 | SHIFTY-T3RROR | 383,203
 173 | DAMG808 | 383,095
 174 | MisterM0H0 | 379,338
-175 | Bobby_Juk | 378,460
+175 | Bobby_Juk | 378,880
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
 178 | farmertypoerror | 359,212
@@ -202,9 +202,9 @@ Rank | Username | Totals Tips
 199 | deedopete | 285,361
 200 | dinoyeti | 284,881
 201 | tjex666 | 283,221
-202 | astro_nut_ | 280,463
-203 | Flimsy_Brilliant_239 | 280,444
-204 | Complete-Tadpole-728 | 275,760
+202 | Complete-Tadpole-728 | 282,623
+203 | astro_nut_ | 280,463
+204 | Flimsy_Brilliant_239 | 280,444
 205 | Virtual-Wrangler5955 | 274,995
 206 | _Mitchee_ | 271,819
 207 | Final-Scar-941 | 271,039
