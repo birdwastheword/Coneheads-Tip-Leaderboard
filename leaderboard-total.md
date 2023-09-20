@@ -1,4 +1,4 @@
-Last updated: 23-09-20 20:01:13 UTC  
+Last updated: 23-09-20 20:19:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | Fenrir-1919 | 2,666,629
 51 | ZoomLong | 2,641,251
 52 | _Royal_Insylum | 2,603,787
-53 | ImAlekBan | 2,598,652
+53 | ImAlekBan | 2,601,315
 54 | possibili-teas | 2,405,515
 55 | Autom4tic_Soze | 2,236,291
 56 | 002_timmy | 2,059,494
@@ -441,7 +441,7 @@ Rank | Username | Totals Tips
 438 | shredslanding | 46,650
 439 | Oue | 46,352
 440 | skatistic | 46,287
-441 | FalloutAssasin | 45,734
+441 | FalloutAssasin | 46,154
 442 | Drlitez | 45,436
 443 | SnooRevelations6751 | 45,420
 444 | NickkyDC | 45,379
