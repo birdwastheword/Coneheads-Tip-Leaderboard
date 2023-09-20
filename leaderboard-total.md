@@ -1,4 +1,4 @@
-Last updated: 23-09-20 13:23:47 UTC  
+Last updated: 23-09-20 13:32:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -48,7 +48,7 @@ Rank | Username | Totals Tips
 45 | LordBobTheWhale | 3,334,514
 46 | DontLaughArt | 3,312,985
 47 | Dry_Badger_2403 | 3,193,857
-48 | evilninjarobot | 3,191,870
+48 | evilninjarobot | 3,192,290
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,666,021
 51 | ZoomLong | 2,641,251
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | catlover-100 | 1,931,330
 62 | CMDRGlamdring | 1,893,799
 63 | Mundane-Farm-4117 | 1,873,613
-64 | djrcollectables | 1,859,810
+64 | djrcollectables | 1,863,081
 65 | jimfird | 1,848,643
 66 | Lillica_Golden_SHIB | 1,841,305
 67 | dealkhabari | 1,767,162
