@@ -1,4 +1,4 @@
-Last updated: 23-09-20 07:01:09 UTC  
+Last updated: 23-09-20 07:17:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | HippieStarTraveler | 6,259,749
 27 | IveDoneItAtLast | 5,489,606
 28 | thelonliestcrowd | 5,381,515
-29 | GuyOne | 5,005,079
+29 | GuyOne | 5,005,687
 30 | Ginomania | 4,913,011
 31 | send420nudes | 4,821,264
 32 | VIVOffical | 4,769,064
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | dealkhabari | 1,767,162
 68 | Iulian_TechNewb | 1,717,286
 69 | KONGXIANG | 1,712,726
-70 | Ten-Mins-Late | 1,707,793
+70 | Ten-Mins-Late | 1,708,213
 71 | GooderZBK | 1,617,267
 72 | ultra_terrestrial | 1,546,671
 73 | LongCauliflower6791 | 1,531,412
@@ -345,7 +345,7 @@ Rank | Username | Totals Tips
 342 | BeefaloSlim | 87,885
 343 | qwertywich | 87,473
 344 | bvandepol | 86,258
-345 | 83nno | 85,719
+345 | 83nno | 85,830
 346 | Mother-Werewolf185 | 85,579
 347 | Puzzleheaded_Gift738 | 84,020
 348 | Admirito | 82,353
