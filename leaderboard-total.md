@@ -1,9 +1,9 @@
-Last updated: 23-09-20 14:00:50 UTC  
+Last updated: 23-09-20 14:20:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
 2 | Wonderful_Bad6531 | 36,346,747
-3 | nakamo-toe | 35,218,835
+3 | nakamo-toe | 35,248,128
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
@@ -78,7 +78,7 @@ Rank | Username | Totals Tips
 75 | ValiantJudge29500 | 1,426,264
 76 | isthistomorrow_ | 1,381,135
 77 | Extreme_Issue7325 | 1,345,890
-78 | Richicash | 1,269,200
+78 | Richicash | 1,271,863
 79 | saintajoras | 1,254,482
 80 | Own_Ad_4269 | 1,248,127
 81 | revdrgonzo | 1,245,635
@@ -791,15 +791,15 @@ Rank | Username | Totals Tips
 788 | Buzzalu | 4,824
 789 | Fcbp | 4,800
 790 | billw1zz | 4,791
-791 | AnimeFlamingo | 4,620
-792 | trainspottedCSX7 | 4,597
-793 | Sledheadjack | 4,528
-794 | JAlbert653 | 4,515
-795 | FoLKOM | 4,422
-796 | 0xwert | 4,345
-797 | _dual1ty | 4,333
-798 | DepressedVegabond | 4,300
-799 | French_physicist | 4,261
+791 | French_physicist | 4,681
+792 | AnimeFlamingo | 4,620
+793 | trainspottedCSX7 | 4,597
+794 | Sledheadjack | 4,528
+795 | JAlbert653 | 4,515
+796 | FoLKOM | 4,422
+797 | 0xwert | 4,345
+798 | _dual1ty | 4,333
+799 | DepressedVegabond | 4,300
 800 | ADT06 | 4,260
 801 | Werd2jaH | 4,205
 802 | OG_Bobcat32 | 4,200
@@ -945,7 +945,7 @@ Rank | Username | Totals Tips
 942 | AssociateTime9542 | 1,200
 943 | Gatherun | 1,198
 944 | Patrickcscott66 | 1,185
-945 | final_lionel | 1,161
+945 | final_lionel | 1,162
 946 | Malixshak | 1,152
 947 | redditavies | 1,138
 948 | CatBoy191114 | 1,138
