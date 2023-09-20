@@ -1,4 +1,4 @@
-Last updated: 23-09-20 22:40:45 UTC  
+Last updated: 23-09-20 22:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | rickribera93 | 28,283,728
 7 | cutsickass | 27,478,258
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,799,942
+9 | _ships | 17,800,719
 10 | crypto_grandma | 14,074,412
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -111,8 +111,8 @@ Rank | Username | Totals Tips
 108 | goldyluckinblokchain | 809,537
 109 | vbutarin | 802,000
 110 | na7oul | 800,000
-111 | billywright4 | 795,269
-112 | RegalReptile_ | 793,529
+111 | RegalReptile_ | 796,192
+112 | billywright4 | 795,269
 113 | Cravensworth_redux | 790,803
 114 | Westy3000 | 785,931
 115 | ziggybri | 783,883
@@ -174,8 +174,8 @@ Rank | Username | Totals Tips
 171 | monkeybombed | 385,426
 172 | SHIFTY-T3RROR | 383,203
 173 | DAMG808 | 383,095
-174 | MisterM0H0 | 379,338
-175 | Bobby_Juk | 379,300
+174 | Bobby_Juk | 379,720
+175 | MisterM0H0 | 379,338
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
 178 | farmertypoerror | 359,212
@@ -491,10 +491,10 @@ Rank | Username | Totals Tips
 488 | Big-Researcher-3855 | 34,950
 489 | BelowAveIntelligence | 34,132
 490 | Obvious-Ask-5747 | 33,806
-491 | Motor-breath8 | 33,699
-492 | PoDunkYuppie | 33,513
-493 | keyoh321 | 33,397
-494 | CatastrophicSpecter | 33,336
+491 | CatastrophicSpecter | 33,756
+492 | Motor-breath8 | 33,699
+493 | PoDunkYuppie | 33,513
+494 | keyoh321 | 33,397
 495 | Gerboogler | 33,314
 496 | See0tter | 33,242
 497 | xxapplej4ckx | 33,181
