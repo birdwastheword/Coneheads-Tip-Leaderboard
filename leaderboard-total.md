@@ -1,4 +1,4 @@
-Last updated: 23-09-20 23:30:47 UTC  
+Last updated: 23-09-20 23:40:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -143,9 +143,9 @@ Rank | Username | Totals Tips
 140 | El_Gordone | 592,784
 141 | Burzzzt88 | 592,627
 142 | Independent_Heart_15 | 578,825
-143 | AustinTX1985 | 571,526
-144 | cryotosensei | 571,262
-145 | Ninja_Vagabond | 569,681
+143 | Ninja_Vagabond | 572,344
+144 | AustinTX1985 | 571,526
+145 | cryotosensei | 571,262
 146 | StepAsideSuckers | 543,358
 147 | scientifichistorian | 539,560
 148 | shreyaskg | 538,211
