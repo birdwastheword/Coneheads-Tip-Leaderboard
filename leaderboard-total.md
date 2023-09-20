@@ -1,4 +1,4 @@
-Last updated: 23-09-20 09:40:35 UTC  
+Last updated: 23-09-20 09:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -142,7 +142,7 @@ Rank | Username | Totals Tips
 139 | Burzzzt88 | 592,627
 140 | Independent_Heart_15 | 578,825
 141 | AustinTX1985 | 571,526
-142 | cryotosensei | 569,882
+142 | cryotosensei | 570,572
 143 | WhateverAlready | 555,371
 144 | StepAsideSuckers | 543,358
 145 | scientifichistorian | 539,560
