@@ -1,4 +1,4 @@
-Last updated: 23-09-20 19:40:41 UTC  
+Last updated: 23-09-20 19:50:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -117,9 +117,9 @@ Rank | Username | Totals Tips
 114 | Westy3000 | 785,931
 115 | ziggybri | 783,883
 116 | cannainform2 | 771,075
-117 | dopelifer09 | 727,057
-118 | Successful-Walk-3902 | 724,070
-119 | Obi1eyeKenobi | 721,505
+117 | Obi1eyeKenobi | 727,665
+118 | dopelifer09 | 727,057
+119 | Successful-Walk-3902 | 724,070
 120 | starterpack420694 | 710,420
 121 | frickdom | 705,672
 122 | WarmIyWacky | 703,049
@@ -175,7 +175,7 @@ Rank | Username | Totals Tips
 172 | SHIFTY-T3RROR | 383,203
 173 | DAMG808 | 383,095
 174 | MisterM0H0 | 379,338
-175 | Bobby_Juk | 378,040
+175 | Bobby_Juk | 378,460
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
 178 | farmertypoerror | 359,212
@@ -938,11 +938,11 @@ Rank | Username | Totals Tips
 935 | _dekappatated | 1,337
 936 | VGarK | 1,337
 937 | onemansquest | 1,303
-938 | CWB2208 | 1,251
-939 | Tekbepimpin | 1,239
-940 | Mooraell | 1,239
-941 | miserybuy | 1,234
-942 | final_lionel | 1,231
+938 | final_lionel | 1,300
+939 | CWB2208 | 1,251
+940 | Tekbepimpin | 1,239
+941 | Mooraell | 1,239
+942 | miserybuy | 1,234
 943 | MichaelAischmann | 1,229
 944 | Ambitious_Pirate_584 | 1,207
 945 | AssociateTime9542 | 1,200
