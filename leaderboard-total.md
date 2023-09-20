@@ -1,9 +1,9 @@
-Last updated: 23-09-20 08:07:01 UTC  
+Last updated: 23-09-20 08:25:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
 2 | Wonderful_Bad6531 | 36,346,747
-3 | nakamo-toe | 35,213,509
+3 | nakamo-toe | 35,216,172
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
@@ -358,7 +358,7 @@ Rank | Username | Totals Tips
 355 | Pwny_b0y | 79,447
 356 | TheOneWhoCared | 79,079
 357 | GodOfWarGuy737 | 79,069
-358 | Derefringence | 78,515
+358 | Derefringence | 78,935
 359 | fleshlyLoath | 78,366
 360 | mokkingjay | 77,914
 361 | HelicopterDear6064 | 77,619
