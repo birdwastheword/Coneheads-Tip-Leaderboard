@@ -1,4 +1,4 @@
-Last updated: 23-09-20 09:50:51 UTC  
+Last updated: 23-09-20 10:01:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -132,7 +132,7 @@ Rank | Username | Totals Tips
 129 | DogSpark84 | 661,725
 130 | MartynDr | 652,759
 131 | MorrisBrett514 | 651,759
-132 | junkwatch | 649,191
+132 | junkwatch | 649,260
 133 | femacampcouncilor | 645,475
 134 | slirpo | 631,180
 135 | crodbtc | 618,886
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | SHIFTY-T3RROR | 383,203
 171 | DAMG808 | 380,432
 172 | MisterM0H0 | 379,338
-173 | Bobby_Juk | 376,780
+173 | Bobby_Juk | 377,200
 174 | zenhodl | 374,566
 175 | hellosamaira | 373,235
 176 | farmertypoerror | 359,212
@@ -227,10 +227,10 @@ Rank | Username | Totals Tips
 224 | Zalkwalker | 235,069
 225 | alexthemay | 234,131
 226 | CoverYourMaskHoles | 229,708
-227 | Conetent | 223,667
-228 | Ashamed_Raccoon9918 | 222,528
-229 | ShortBusCult | 222,130
-230 | TummyLice | 220,578
+227 | TummyLice | 227,247
+228 | Conetent | 223,667
+229 | Ashamed_Raccoon9918 | 222,528
+230 | ShortBusCult | 222,130
 231 | SourBeefHoop | 217,512
 232 | yahuurdme | 214,554
 233 | Beenthorny | 212,362
@@ -283,8 +283,8 @@ Rank | Username | Totals Tips
 280 | GrowinStuffAndThings | 137,461
 281 | Kevin3683 | 137,057
 282 | Outrageous-Ad8481 | 137,001
-283 | MorrisWayne | 133,416
-284 | BitCone_CONE | 133,007
+283 | BitCone_CONE | 135,670
+284 | MorrisWayne | 133,416
 285 | GoodMornEveGoodNight | 131,088
 286 | Mj_6o4 | 129,568
 287 | Awake-- | 128,173
@@ -564,7 +564,7 @@ Rank | Username | Totals Tips
 561 | RamboBalboa21 | 21,083
 562 | ipad_daps | 20,864
 563 | shootingeagleyt | 20,611
-564 | WiseDude69 | 20,406
+564 | WiseDude69 | 20,475
 565 | DLPD-Camko | 20,377
 566 | Bear-Bull-Pig | 20,231
 567 | lookwhatumademedoo | 20,068
