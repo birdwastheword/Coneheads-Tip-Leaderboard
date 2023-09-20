@@ -1,4 +1,4 @@
-Last updated: 23-09-20 11:15:46 UTC  
+Last updated: 23-09-20 11:24:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -130,20 +130,20 @@ Rank | Username | Totals Tips
 127 | SKITZ_ZA | 676,057
 128 | piebagz | 661,815
 129 | DogSpark84 | 661,725
-130 | MartynDr | 652,759
-131 | MorrisBrett514 | 651,759
-132 | junkwatch | 649,680
-133 | femacampcouncilor | 645,475
-134 | slirpo | 631,180
-135 | crodbtc | 618,886
-136 | superlonelyboy | 611,557
-137 | __PDS__ | 595,709
-138 | El_Gordone | 592,784
-139 | Burzzzt88 | 592,627
-140 | Independent_Heart_15 | 578,825
-141 | AustinTX1985 | 571,526
-142 | cryotosensei | 570,572
-143 | WhateverAlready | 555,371
+130 | WhateverAlready | 655,371
+131 | MartynDr | 652,759
+132 | MorrisBrett514 | 651,759
+133 | junkwatch | 649,680
+134 | femacampcouncilor | 645,475
+135 | slirpo | 631,180
+136 | crodbtc | 618,886
+137 | superlonelyboy | 611,557
+138 | __PDS__ | 595,709
+139 | El_Gordone | 592,784
+140 | Burzzzt88 | 592,627
+141 | Independent_Heart_15 | 578,825
+142 | AustinTX1985 | 571,526
+143 | cryotosensei | 570,572
 144 | StepAsideSuckers | 543,358
 145 | scientifichistorian | 539,560
 146 | shreyaskg | 538,211
@@ -666,8 +666,8 @@ Rank | Username | Totals Tips
 663 | Swoopscooter | 10,556
 664 | Straton_Conemont_Inc | 10,550
 665 | Background-Ad-2102 | 10,450
-666 | 73i1 | 10,412
-667 | TheyAskWho | 10,303
+666 | TheyAskWho | 10,414
+667 | 73i1 | 10,412
 668 | Gamestopisthe1 | 10,227
 669 | Zeratrem | 10,103
 670 | Consistent_Air_7646 | 10,000
