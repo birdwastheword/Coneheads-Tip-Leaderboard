@@ -1,4 +1,4 @@
-Last updated: 23-09-20 06:43:57 UTC  
+Last updated: 23-09-20 06:52:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,430,353
-44 | Korean_Street_Pizza | 3,422,047
+44 | Korean_Street_Pizza | 3,424,710
 45 | LordBobTheWhale | 3,334,514
 46 | DontLaughArt | 3,312,985
 47 | Dry_Badger_2403 | 3,193,857
@@ -231,7 +231,7 @@ Rank | Username | Totals Tips
 228 | TummyLice | 220,578
 229 | Ashamed_Raccoon9918 | 219,865
 230 | SourBeefHoop | 217,512
-231 | yahuurdme | 214,134
+231 | yahuurdme | 214,554
 232 | Beenthorny | 212,362
 233 | SigSalvadore | 212,358
 234 | UWphoto | 211,312
