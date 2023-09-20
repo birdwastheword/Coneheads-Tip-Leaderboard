@@ -1,4 +1,4 @@
-Last updated: 23-09-20 12:08:45 UTC  
+Last updated: 23-09-20 12:43:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
-7 | cutsickass | 26,638,258
+7 | cutsickass | 26,668,258
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,766,426
 10 | crypto_grandma | 14,074,412
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | Dry_Badger_2403 | 3,193,857
 48 | evilninjarobot | 3,191,870
 49 | Mean_Bandicoot_7481 | 2,752,108
-50 | Fenrir-1919 | 2,665,413
+50 | Fenrir-1919 | 2,666,021
 51 | ZoomLong | 2,641,251
 52 | _Royal_Insylum | 2,603,787
 53 | ImAlekBan | 2,598,652
@@ -208,8 +208,8 @@ Rank | Username | Totals Tips
 205 | hey_barry | 269,698
 206 | SetoXlll | 266,136
 207 | shiesto | 266,111
-208 | Complete-Tadpole-728 | 262,445
-209 | SnooMacarons9203 | 260,208
+208 | SnooMacarons9203 | 263,291
+209 | Complete-Tadpole-728 | 262,445
 210 | tmanfromEarth | 258,392
 211 | Hactar_42 | 256,832
 212 | thecrabdad | 256,177
