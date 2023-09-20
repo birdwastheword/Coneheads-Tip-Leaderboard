@@ -1,15 +1,15 @@
-Last updated: 23-09-20 21:50:41 UTC  
+Last updated: 23-09-20 22:18:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
 2 | Wonderful_Bad6531 | 36,346,747
-3 | nakamo-toe | 35,256,117
+3 | nakamo-toe | 35,298,987
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
 7 | cutsickass | 27,478,258
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,793,056
+9 | _ships | 17,799,942
 10 | crypto_grandma | 14,074,412
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -126,11 +126,11 @@ Rank | Username | Totals Tips
 123 | Starterpack69420 | 696,969
 124 | abracadabra087 | 694,465
 125 | firstmatedotxyz | 688,743
-126 | Duskopia | 680,133
-127 | Due_Insurance8159 | 678,620
-128 | SKITZ_ZA | 676,057
-129 | piebagz | 661,815
-130 | DogSpark84 | 661,725
+126 | DogSpark84 | 688,355
+127 | Duskopia | 680,133
+128 | Due_Insurance8159 | 678,620
+129 | SKITZ_ZA | 676,057
+130 | piebagz | 661,815
 131 | WhateverAlready | 655,371
 132 | MartynDr | 652,759
 133 | MorrisBrett514 | 651,759
@@ -145,7 +145,7 @@ Rank | Username | Totals Tips
 142 | Independent_Heart_15 | 578,825
 143 | AustinTX1985 | 571,526
 144 | cryotosensei | 571,262
-145 | Ninja_Vagabond | 566,598
+145 | Ninja_Vagabond | 569,261
 146 | StepAsideSuckers | 543,358
 147 | scientifichistorian | 539,560
 148 | shreyaskg | 538,211
