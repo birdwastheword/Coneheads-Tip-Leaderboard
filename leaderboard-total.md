@@ -1,4 +1,4 @@
-Last updated: 23-09-20 17:31:08 UTC  
+Last updated: 23-09-20 17:40:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -100,9 +100,9 @@ Rank | Username | Totals Tips
 97 | EvanIsBacon | 970,416
 98 | CHEROKEEJ4CK | 940,286
 99 | Forward_Today2849 | 932,405
-100 | Modestexcuse | 903,684
-101 | thee_monster | 896,765
-102 | Alanski22 | 895,473
+100 | Alanski22 | 908,136
+101 | Modestexcuse | 903,684
+102 | thee_monster | 896,765
 103 | Bobisdeadrun | 869,015
 104 | orangesandonions | 855,238
 105 | formidable-opponent | 830,193
@@ -942,12 +942,12 @@ Rank | Username | Totals Tips
 939 | Tekbepimpin | 1,239
 940 | Mooraell | 1,239
 941 | miserybuy | 1,234
-942 | MichaelAischmann | 1,229
-943 | Ambitious_Pirate_584 | 1,207
-944 | AssociateTime9542 | 1,200
-945 | Gatherun | 1,198
-946 | Patrickcscott66 | 1,185
-947 | final_lionel | 1,162
+942 | final_lionel | 1,231
+943 | MichaelAischmann | 1,229
+944 | Ambitious_Pirate_584 | 1,207
+945 | AssociateTime9542 | 1,200
+946 | Gatherun | 1,198
+947 | Patrickcscott66 | 1,185
 948 | Malixshak | 1,152
 949 | redditavies | 1,138
 950 | CatBoy191114 | 1,138
