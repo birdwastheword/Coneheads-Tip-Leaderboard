@@ -1,4 +1,4 @@
-Last updated: 23-09-20 14:40:49 UTC  
+Last updated: 23-09-20 14:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -30,8 +30,8 @@ Rank | Username | Totals Tips
 27 | IveDoneItAtLast | 5,492,269
 28 | thelonliestcrowd | 5,381,515
 29 | GuyOne | 5,005,687
-30 | Ginomania | 4,913,011
-31 | send420nudes | 4,838,340
+30 | send420nudes | 4,961,797
+31 | Ginomania | 4,913,011
 32 | VIVOffical | 4,779,787
 33 | rikbona | 4,540,773
 34 | redzrex | 4,512,166
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,430,353
-44 | Korean_Street_Pizza | 3,425,130
+44 | Korean_Street_Pizza | 3,425,550
 45 | LordBobTheWhale | 3,334,514
 46 | DontLaughArt | 3,312,985
 47 | Dry_Badger_2403 | 3,193,857
