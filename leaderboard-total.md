@@ -1,4 +1,4 @@
-Last updated: 23-09-20 20:19:12 UTC  
+Last updated: 23-09-20 20:30:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
-7 | cutsickass | 27,138,258
+7 | cutsickass | 27,198,258
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,766,426
 10 | crypto_grandma | 14,074,412
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | GuyOne | 5,006,295
 30 | send420nudes | 4,966,066
 31 | Ginomania | 4,913,011
-32 | VIVOffical | 4,779,787
+32 | VIVOffical | 4,793,597
 33 | rikbona | 4,540,773
 34 | redzrex | 4,512,166
 35 | bigbilly1234567899 | 4,496,042
@@ -151,13 +151,13 @@ Rank | Username | Totals Tips
 148 | shreyaskg | 538,211
 149 | TubeNerd92 | 537,829
 150 | doktastonks | 533,988
-151 | rolonic | 516,239
-152 | Crypto-4-Freedom | 510,834
-153 | f0n1xr131ng | 509,681
-154 | AcceptableLeg8751 | 500,000
-155 | fettskull | 486,180
-156 | Lady_Lucks_Man | 479,740
-157 | RazPie | 474,666
+151 | RazPie | 527,992
+152 | rolonic | 516,239
+153 | Crypto-4-Freedom | 510,834
+154 | f0n1xr131ng | 509,681
+155 | AcceptableLeg8751 | 500,000
+156 | fettskull | 486,180
+157 | Lady_Lucks_Man | 479,740
 158 | stockyewok | 469,101
 159 | sinlesco | 465,153
 160 | WarmlyWacky | 462,118
@@ -453,17 +453,17 @@ Rank | Username | Totals Tips
 450 | Coneboy2663 | 43,852
 451 | ShadowKnight324 | 43,566
 452 | halfABsinC | 43,285
-453 | dead-spiral | 42,069
-454 | ACE415_ | 42,069
-455 | Cyber-Cafe | 41,921
-456 | PushyDevoIution | 41,695
-457 | Expensive_Being_4038 | 41,254
-458 | madridgalactico | 41,231
-459 | HodLMania | 41,111
-460 | ARoyaleWithCheese | 41,000
-461 | Yirii | 40,605
-462 | Zap1324 | 40,271
-463 | Historical-Lychee-34 | 40,181
+453 | Historical-Lychee-34 | 42,844
+454 | dead-spiral | 42,069
+455 | ACE415_ | 42,069
+456 | Cyber-Cafe | 41,921
+457 | PushyDevoIution | 41,695
+458 | Expensive_Being_4038 | 41,254
+459 | madridgalactico | 41,231
+460 | HodLMania | 41,111
+461 | ARoyaleWithCheese | 41,000
+462 | Yirii | 40,605
+463 | Zap1324 | 40,271
 464 | matdabom | 40,068
 465 | babuba1234321 | 40,000
 466 | YourLocalDuskFox | 40,000
