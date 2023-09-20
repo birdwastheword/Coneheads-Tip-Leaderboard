@@ -1,4 +1,4 @@
-Last updated: 23-09-20 15:01:12 UTC  
+Last updated: 23-09-20 15:18:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | IveDoneItAtLast | 5,492,269
 28 | thelonliestcrowd | 5,381,515
 29 | GuyOne | 5,005,687
-30 | send420nudes | 4,961,797
+30 | send420nudes | 4,966,066
 31 | Ginomania | 4,913,011
 32 | VIVOffical | 4,779,787
 33 | rikbona | 4,540,773
@@ -47,8 +47,8 @@ Rank | Username | Totals Tips
 44 | Korean_Street_Pizza | 3,425,550
 45 | LordBobTheWhale | 3,334,514
 46 | DontLaughArt | 3,312,985
-47 | Dry_Badger_2403 | 3,193,857
-48 | evilninjarobot | 3,192,290
+47 | evilninjarobot | 3,194,953
+48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,666,629
 51 | ZoomLong | 2,641,251
@@ -780,18 +780,18 @@ Rank | Username | Totals Tips
 777 | gonzOkook | 5,169
 778 | NoNumbersNumber | 5,138
 779 | just_half_baked710 | 5,133
-780 | Prize-Reference9329 | 5,090
-781 | Hour_Sleep_9544 | 5,080
-782 | Zaxoosh | 5,010
-783 | My_Man_Tyrone | 5,000
-784 | Itwillmoon | 5,000
-785 | Crunchious1 | 5,000
-786 | Kzis | 4,937
-787 | mcbifter | 4,834
-788 | Buzzalu | 4,824
-789 | Fcbp | 4,800
-790 | billw1zz | 4,791
-791 | French_physicist | 4,681
+780 | French_physicist | 5,101
+781 | Prize-Reference9329 | 5,090
+782 | Hour_Sleep_9544 | 5,080
+783 | Zaxoosh | 5,010
+784 | My_Man_Tyrone | 5,000
+785 | Itwillmoon | 5,000
+786 | Crunchious1 | 5,000
+787 | Kzis | 4,937
+788 | mcbifter | 4,834
+789 | Buzzalu | 4,824
+790 | Fcbp | 4,800
+791 | billw1zz | 4,791
 792 | AnimeFlamingo | 4,620
 793 | trainspottedCSX7 | 4,597
 794 | Sledheadjack | 4,528
