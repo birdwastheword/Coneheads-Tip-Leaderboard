@@ -1,4 +1,4 @@
-Last updated: 23-09-20 16:24:52 UTC  
+Last updated: 23-09-20 16:37:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -137,7 +137,7 @@ Rank | Username | Totals Tips
 134 | junkwatch | 649,680
 135 | femacampcouncilor | 645,475
 136 | slirpo | 631,180
-137 | crodbtc | 618,886
+137 | crodbtc | 621,549
 138 | superlonelyboy | 611,557
 139 | __PDS__ | 595,709
 140 | El_Gordone | 592,784
@@ -735,20 +735,20 @@ Rank | Username | Totals Tips
 732 | Weirdclerk_ | 7,392
 733 | strworld | 7,302
 734 | Torporific1 | 7,166
-735 | Alternative-Radish13 | 6,969
-736 | tbobs04 | 6,969
-737 | 0xboi | 6,969
-738 | CryptoriumOfficial | 6,969
-739 | physiops | 6,962
-740 | dozebull | 6,849
-741 | Kindly-Strawberry637 | 6,800
-742 | Defeat-the-Kraken | 6,715
-743 | Knackebrodd | 6,683
-744 | No-Emu-5060 | 6,663
-745 | thespygorillas | 6,662
-746 | GoldMaster15 | 6,618
-747 | Fourplyer80 | 6,587
-748 | st3alth247 | 6,583
+735 | st3alth247 | 7,003
+736 | Alternative-Radish13 | 6,969
+737 | tbobs04 | 6,969
+738 | 0xboi | 6,969
+739 | CryptoriumOfficial | 6,969
+740 | physiops | 6,962
+741 | dozebull | 6,849
+742 | Kindly-Strawberry637 | 6,800
+743 | Defeat-the-Kraken | 6,715
+744 | Knackebrodd | 6,683
+745 | No-Emu-5060 | 6,663
+746 | thespygorillas | 6,662
+747 | GoldMaster15 | 6,618
+748 | Fourplyer80 | 6,587
 749 | dexabonk | 6,541
 750 | paracord-bracelets | 6,517
 751 | _pondering_insomniac | 6,500
