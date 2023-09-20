@@ -1,4 +1,4 @@
-Last updated: 23-09-20 10:41:14 UTC  
+Last updated: 23-09-20 10:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | catlover-100 | 1,931,330
 62 | CMDRGlamdring | 1,893,799
 63 | Mundane-Farm-4117 | 1,873,613
-64 | djrcollectables | 1,857,147
+64 | djrcollectables | 1,859,810
 65 | jimfird | 1,848,643
 66 | Lillica_Golden_SHIB | 1,840,960
 67 | dealkhabari | 1,767,162
