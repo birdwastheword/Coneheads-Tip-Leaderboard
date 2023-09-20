@@ -1,4 +1,4 @@
-Last updated: 23-09-20 18:51:43 UTC  
+Last updated: 23-09-20 19:00:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
-7 | cutsickass | 26,898,258
+7 | cutsickass | 27,018,258
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,766,426
 10 | crypto_grandma | 14,074,412
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,760,333
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,749
-27 | IveDoneItAtLast | 5,492,269
+27 | IveDoneItAtLast | 5,493,485
 28 | thelonliestcrowd | 5,381,515
 29 | GuyOne | 5,006,295
 30 | send420nudes | 4,966,066
@@ -268,10 +268,10 @@ Rank | Username | Totals Tips
 265 | martymartinator | 155,223
 266 | 6reficul | 153,884
 267 | 192000Hertz | 152,446
-268 | NotFullyTerrestrial | 151,302
-269 | Nxnng | 151,195
-270 | satoshi_oscar_wilde | 150,078
-271 | SaberTurret | 149,599
+268 | SaberTurret | 152,262
+269 | NotFullyTerrestrial | 151,302
+270 | Nxnng | 151,195
+271 | satoshi_oscar_wilde | 150,078
 272 | BitcoinRefuge | 148,181
 273 | pythonskynet | 146,373
 274 | jamjam794 | 144,679
