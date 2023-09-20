@@ -1,9 +1,9 @@
-Last updated: 23-09-20 17:40:39 UTC  
+Last updated: 23-09-20 17:50:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
 2 | Wonderful_Bad6531 | 36,346,747
-3 | nakamo-toe | 35,250,791
+3 | nakamo-toe | 35,253,454
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
@@ -60,7 +60,7 @@ Rank | Username | Totals Tips
 57 | investigator100 | 2,003,656
 58 | 0-Give-a-fucks | 2,001,247
 59 | Affectionate_Hand_76 | 1,977,373
-60 | swampyswede | 1,949,087
+60 | swampyswede | 1,951,750
 61 | catlover-100 | 1,931,330
 62 | CMDRGlamdring | 1,893,799
 63 | Mundane-Farm-4117 | 1,873,613
@@ -207,10 +207,10 @@ Rank | Username | Totals Tips
 204 | Virtual-Wrangler5955 | 274,995
 205 | _Mitchee_ | 271,819
 206 | Final-Scar-941 | 271,039
-207 | hey_barry | 269,698
-208 | SetoXlll | 266,136
-209 | shiesto | 266,111
-210 | Complete-Tadpole-728 | 265,108
+207 | Complete-Tadpole-728 | 270,434
+208 | hey_barry | 269,698
+209 | SetoXlll | 266,136
+210 | shiesto | 266,111
 211 | SnooMacarons9203 | 263,291
 212 | tmanfromEarth | 258,392
 213 | Hactar_42 | 256,832
