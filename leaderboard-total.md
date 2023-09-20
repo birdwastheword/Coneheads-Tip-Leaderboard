@@ -1,4 +1,4 @@
-Last updated: 23-09-20 17:18:23 UTC  
+Last updated: 23-09-20 17:31:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -102,7 +102,7 @@ Rank | Username | Totals Tips
 99 | Forward_Today2849 | 932,405
 100 | Modestexcuse | 903,684
 101 | thee_monster | 896,765
-102 | Alanski22 | 892,810
+102 | Alanski22 | 895,473
 103 | Bobisdeadrun | 869,015
 104 | orangesandonions | 855,238
 105 | formidable-opponent | 830,193
@@ -210,8 +210,8 @@ Rank | Username | Totals Tips
 207 | hey_barry | 269,698
 208 | SetoXlll | 266,136
 209 | shiesto | 266,111
-210 | SnooMacarons9203 | 263,291
-211 | Complete-Tadpole-728 | 262,445
+210 | Complete-Tadpole-728 | 265,108
+211 | SnooMacarons9203 | 263,291
 212 | tmanfromEarth | 258,392
 213 | Hactar_42 | 256,832
 214 | thecrabdad | 256,177
