@@ -1,4 +1,4 @@
-Last updated: 23-09-20 21:41:36 UTC  
+Last updated: 23-09-20 21:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -145,7 +145,7 @@ Rank | Username | Totals Tips
 142 | Independent_Heart_15 | 578,825
 143 | AustinTX1985 | 571,526
 144 | cryotosensei | 571,262
-145 | Ninja_Vagabond | 559,629
+145 | Ninja_Vagabond | 566,598
 146 | StepAsideSuckers | 543,358
 147 | scientifichistorian | 539,560
 148 | shreyaskg | 538,211
@@ -156,7 +156,7 @@ Rank | Username | Totals Tips
 153 | Crypto-4-Freedom | 510,834
 154 | f0n1xr131ng | 509,681
 155 | AcceptableLeg8751 | 500,000
-156 | fettskull | 488,843
+156 | fettskull | 491,506
 157 | Lady_Lucks_Man | 479,740
 158 | stockyewok | 469,101
 159 | sinlesco | 465,153
@@ -175,7 +175,7 @@ Rank | Username | Totals Tips
 172 | SHIFTY-T3RROR | 383,203
 173 | DAMG808 | 383,095
 174 | MisterM0H0 | 379,338
-175 | Bobby_Juk | 378,880
+175 | Bobby_Juk | 379,300
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
 178 | farmertypoerror | 359,212
