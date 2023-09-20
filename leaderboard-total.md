@@ -1,4 +1,4 @@
-Last updated: 23-09-20 15:40:30 UTC  
+Last updated: 23-09-20 15:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -154,22 +154,22 @@ Rank | Username | Totals Tips
 151 | Crypto-4-Freedom | 510,834
 152 | f0n1xr131ng | 509,681
 153 | AcceptableLeg8751 | 500,000
-154 | Lady_Lucks_Man | 479,740
-155 | RazPie | 474,666
-156 | stockyewok | 469,101
-157 | sinlesco | 465,153
-158 | WarmlyWacky | 462,118
-159 | MediaPrestigious8342 | 453,839
-160 | noface_reddit | 443,036
-161 | unhingedbigfoot | 439,874
-162 | Dripbot8 | 439,035
-163 | Mopeiooo | 437,268
-164 | LX1070 | 430,671
-165 | Lion-Hermit | 416,210
-166 | dronegeeks1 | 414,406
-167 | LrnFaroeseWthBergur | 409,488
-168 | Creepy-Nectarine-225 | 392,996
-169 | fettskull | 386,180
+154 | fettskull | 486,180
+155 | Lady_Lucks_Man | 479,740
+156 | RazPie | 474,666
+157 | stockyewok | 469,101
+158 | sinlesco | 465,153
+159 | WarmlyWacky | 462,118
+160 | MediaPrestigious8342 | 453,839
+161 | noface_reddit | 443,036
+162 | unhingedbigfoot | 439,874
+163 | Dripbot8 | 439,035
+164 | Mopeiooo | 437,268
+165 | LX1070 | 430,671
+166 | Lion-Hermit | 416,210
+167 | dronegeeks1 | 414,406
+168 | LrnFaroeseWthBergur | 409,488
+169 | Creepy-Nectarine-225 | 392,996
 170 | monkeybombed | 385,426
 171 | SHIFTY-T3RROR | 383,203
 172 | DAMG808 | 380,432
@@ -202,7 +202,7 @@ Rank | Username | Totals Tips
 199 | tjex666 | 283,221
 200 | astro_nut_ | 280,463
 201 | Flimsy_Brilliant_239 | 280,444
-202 | Virtual-Wrangler5955 | 272,332
+202 | Virtual-Wrangler5955 | 274,995
 203 | _Mitchee_ | 271,819
 204 | Final-Scar-941 | 271,039
 205 | hey_barry | 269,698
