@@ -1,4 +1,4 @@
-Last updated: 23-09-21 12:43:36 UTC  
+Last updated: 23-09-21 13:00:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,430,353
 44 | Korean_Street_Pizza | 3,428,213
-45 | DontLaughArt | 3,338,353
+45 | DontLaughArt | 3,364,983
 46 | LordBobTheWhale | 3,337,785
 47 | evilninjarobot | 3,198,224
 48 | Dry_Badger_2403 | 3,193,857
