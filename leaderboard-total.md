@@ -1,4 +1,4 @@
-Last updated: 23-09-21 04:30:54 UTC  
+Last updated: 23-09-21 04:40:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | rickribera93 | 28,283,728
 7 | cutsickass | 27,688,258
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,803,382
+9 | _ships | 17,808,708
 10 | crypto_grandma | 14,081,381
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,749
 27 | IveDoneItAtLast | 5,493,485
-28 | thelonliestcrowd | 5,381,515
+28 | thelonliestcrowd | 5,384,178
 29 | GuyOne | 5,006,295
 30 | send420nudes | 4,966,066
 31 | Ginomania | 4,939,641
