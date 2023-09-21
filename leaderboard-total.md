@@ -1,11 +1,11 @@
-Last updated: 23-09-21 22:18:41 UTC  
+Last updated: 23-09-21 22:30:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
 3 | nakamo-toe | 35,384,203
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 28,725,227
+5 | cutsickass | 28,755,227
 6 | Jeff5704 | 28,324,597
 7 | rickribera93 | 28,293,729
 8 | ConeDesk | 17,947,653
@@ -146,12 +146,12 @@ Rank | Username | Totals Tips
 143 | Ninja_Vagabond | 575,007
 144 | AustinTX1985 | 571,526
 145 | cryotosensei | 571,262
-146 | StepAsideSuckers | 543,358
-147 | scientifichistorian | 539,560
-148 | shreyaskg | 538,211
-149 | TubeNerd92 | 537,829
-150 | doktastonks | 533,988
-151 | RazPie | 530,655
+146 | RazPie | 557,318
+147 | StepAsideSuckers | 543,358
+148 | scientifichistorian | 539,560
+149 | shreyaskg | 538,211
+150 | TubeNerd92 | 537,829
+151 | doktastonks | 533,988
 152 | rolonic | 516,239
 153 | Crypto-4-Freedom | 510,834
 154 | f0n1xr131ng | 509,681
@@ -265,9 +265,9 @@ Rank | Username | Totals Tips
 262 | MelonFarmer420 | 167,136
 263 | DamnWhySoLow | 166,675
 264 | ItailianStallion101 | 162,887
-265 | 192000Hertz | 160,435
-266 | Clonkerz | 158,006
-267 | SaberTurret | 155,533
+265 | SaberTurret | 160,859
+266 | 192000Hertz | 160,435
+267 | Clonkerz | 158,006
 268 | martymartinator | 155,223
 269 | 6reficul | 153,884
 270 | NotFullyTerrestrial | 151,302
