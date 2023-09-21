@@ -1,4 +1,4 @@
-Last updated: 23-09-21 15:30:48 UTC  
+Last updated: 23-09-21 15:40:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,808,708
 10 | crypto_grandma | 14,108,044
-11 | transfermymoons | 13,586,858
+11 | transfermymoons | 13,711,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,939,741
@@ -22,13 +22,13 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,533,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,656,228
-22 | Puddin-Luv | 7,322,924
+22 | Puddin-Luv | 7,325,587
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,762,996
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,749
 27 | IveDoneItAtLast | 5,493,485
-28 | thelonliestcrowd | 5,486,841
+28 | thelonliestcrowd | 5,489,504
 29 | Ginomania | 5,415,291
 30 | send420nudes | 5,012,404
 31 | GuyOne | 5,006,295
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | catlover-100 | 1,931,330
 62 | CMDRGlamdring | 1,896,462
 63 | Mundane-Farm-4117 | 1,873,613
-64 | djrcollectables | 1,865,744
+64 | djrcollectables | 1,868,407
 65 | jimfird | 1,849,151
 66 | Lillica_Golden_SHIB | 1,844,037
 67 | dealkhabari | 1,767,162
