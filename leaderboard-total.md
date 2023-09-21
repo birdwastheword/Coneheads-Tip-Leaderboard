@@ -1,4 +1,4 @@
-Last updated: 23-09-21 17:50:30 UTC  
+Last updated: 23-09-21 18:01:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -27,8 +27,8 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,762,996
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,818
-27 | IveDoneItAtLast | 5,503,485
-28 | thelonliestcrowd | 5,502,819
+27 | thelonliestcrowd | 5,505,482
+28 | IveDoneItAtLast | 5,503,485
 29 | Ginomania | 5,415,291
 30 | send420nudes | 5,012,404
 31 | GuyOne | 5,006,295
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | clean_cut89 | 3,713,476
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
-43 | ZukoBih | 3,430,353
+43 | ZukoBih | 3,433,016
 44 | Korean_Street_Pizza | 3,428,213
 45 | DontLaughArt | 3,364,983
 46 | LordBobTheWhale | 3,337,785
@@ -79,7 +79,7 @@ Rank | Username | Totals Tips
 76 | ValiantJudge29500 | 1,426,264
 77 | isthistomorrow_ | 1,381,135
 78 | Extreme_Issue7325 | 1,345,890
-79 | saintajoras | 1,254,482
+79 | saintajoras | 1,264,482
 80 | Own_Ad_4269 | 1,250,152
 81 | revdrgonzo | 1,245,635
 82 | HestiaIsTheBestia | 1,188,046
@@ -134,7 +134,7 @@ Rank | Username | Totals Tips
 131 | WhateverAlready | 655,371
 132 | MartynDr | 652,759
 133 | MorrisBrett514 | 651,759
-134 | junkwatch | 649,749
+134 | junkwatch | 650,169
 135 | femacampcouncilor | 645,475
 136 | slirpo | 631,180
 137 | crodbtc | 624,212
@@ -156,7 +156,7 @@ Rank | Username | Totals Tips
 153 | Crypto-4-Freedom | 510,834
 154 | f0n1xr131ng | 509,681
 155 | AcceptableLeg8751 | 500,000
-156 | fettskull | 491,506
+156 | fettskull | 494,169
 157 | Lady_Lucks_Man | 479,740
 158 | stockyewok | 469,941
 159 | sinlesco | 465,153
