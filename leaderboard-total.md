@@ -1,4 +1,4 @@
-Last updated: 23-09-20 23:50:44 UTC  
+Last updated: 23-09-21 00:23:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | Ten-Mins-Late | 1,708,213
 71 | LongCauliflower6791 | 1,657,531
 72 | GooderZBK | 1,617,267
-73 | ultra_terrestrial | 1,546,671
+73 | ultra_terrestrial | 1,547,279
 74 | YarOldeOrchard | 1,438,286
 75 | ValiantJudge29500 | 1,426,264
 76 | isthistomorrow_ | 1,381,135
@@ -124,8 +124,8 @@ Rank | Username | Totals Tips
 121 | frickdom | 705,672
 122 | WarmIyWacky | 703,049
 123 | Starterpack69420 | 696,969
-124 | abracadabra087 | 694,465
-125 | DogSpark84 | 693,910
+124 | DogSpark84 | 696,573
+125 | abracadabra087 | 694,465
 126 | firstmatedotxyz | 688,743
 127 | Duskopia | 680,133
 128 | Due_Insurance8159 | 678,620
