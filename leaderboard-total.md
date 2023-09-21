@@ -1,4 +1,4 @@
-Last updated: 23-09-21 13:50:38 UTC  
+Last updated: 23-09-21 14:01:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -212,7 +212,7 @@ Rank | Username | Totals Tips
 209 | SetoXlll | 266,136
 210 | shiesto | 266,111
 211 | SnooMacarons9203 | 263,291
-212 | 83nno | 258,665
+212 | 83nno | 258,734
 213 | tmanfromEarth | 258,392
 214 | coolpattakers | 257,014
 215 | Hactar_42 | 256,832
