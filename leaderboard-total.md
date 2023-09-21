@@ -1,9 +1,9 @@
-Last updated: 23-09-21 17:22:05 UTC  
+Last updated: 23-09-21 17:30:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
-3 | nakamo-toe | 35,354,910
+3 | nakamo-toe | 35,357,573
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,729
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | SpookySYN | 11,229,415
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
-18 | avyun | 8,818,525
+18 | avyun | 8,825,494
 19 | ArtConsitent | 8,533,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,656,228
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | Mundane-Farm-4117 | 1,873,613
 65 | djrcollectables | 1,868,407
 66 | jimfird | 1,849,151
-67 | Lillica_Golden_SHIB | 1,844,037
+67 | Lillica_Golden_SHIB | 1,844,457
 68 | dealkhabari | 1,767,162
 69 | Iulian_TechNewb | 1,717,286
 70 | KONGXIANG | 1,712,726
