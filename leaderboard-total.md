@@ -1,4 +1,4 @@
-Last updated: 23-09-21 04:22:24 UTC  
+Last updated: 23-09-21 04:30:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
-7 | cutsickass | 27,508,258
+7 | cutsickass | 27,688,258
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,803,382
 10 | crypto_grandma | 14,081,381
@@ -263,9 +263,9 @@ Rank | Username | Totals Tips
 260 | MymannosaurusRex | 171,317
 261 | MelonFarmer420 | 167,136
 262 | DamnWhySoLow | 166,675
-263 | ItailianStallion101 | 160,224
-264 | Clonkerz | 158,006
-265 | 192000Hertz | 157,772
+263 | 192000Hertz | 160,435
+264 | ItailianStallion101 | 160,224
+265 | Clonkerz | 158,006
 266 | martymartinator | 155,223
 267 | 6reficul | 153,884
 268 | SaberTurret | 152,262
