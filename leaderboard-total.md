@@ -1,4 +1,4 @@
-Last updated: 23-09-21 05:30:45 UTC  
+Last updated: 23-09-21 05:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,729
-7 | cutsickass | 27,718,258
+7 | cutsickass | 27,748,258
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,808,708
 10 | crypto_grandma | 14,081,381
@@ -802,17 +802,17 @@ Rank | Username | Totals Tips
 799 | _dual1ty | 4,333
 800 | DepressedVegabond | 4,300
 801 | ADT06 | 4,260
-802 | Werd2jaH | 4,205
-803 | OG_Bobcat32 | 4,200
-804 | officialzodiacbeats | 4,194
-805 | DrAgaricus | 4,111
-806 | Ronkad | 4,003
-807 | Lazy_Staff4893 | 4,000
-808 | nathanroberts14 | 4,000
-809 | Puzzleheaded_Popup | 4,000
-810 | Soil_Electronic | 3,975
-811 | Dreadaussie | 3,920
-812 | doctorwho_cares | 3,786
+802 | doctorwho_cares | 4,206
+803 | Werd2jaH | 4,205
+804 | OG_Bobcat32 | 4,200
+805 | officialzodiacbeats | 4,194
+806 | DrAgaricus | 4,111
+807 | Ronkad | 4,003
+808 | Lazy_Staff4893 | 4,000
+809 | nathanroberts14 | 4,000
+810 | Puzzleheaded_Popup | 4,000
+811 | Soil_Electronic | 3,975
+812 | Dreadaussie | 3,920
 813 | OisinT | 3,779
 814 | carsonthecarsinogen | 3,769
 815 | salt_yaf | 3,706
