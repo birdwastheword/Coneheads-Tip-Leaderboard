@@ -1,4 +1,4 @@
-Last updated: 23-09-21 19:14:20 UTC  
+Last updated: 23-09-21 19:22:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -6,8 +6,8 @@ Rank | Username | Totals Tips
 3 | nakamo-toe | 35,384,203
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
-6 | rickribera93 | 28,283,729
-7 | cutsickass | 28,255,227
+6 | cutsickass | 28,315,227
+7 | rickribera93 | 28,283,729
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,808,708
 10 | crypto_grandma | 14,115,013
