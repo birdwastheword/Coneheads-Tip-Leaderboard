@@ -1,4 +1,4 @@
-Last updated: 23-09-21 18:01:16 UTC  
+Last updated: 23-09-21 18:25:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,729
-7 | cutsickass | 27,925,227
+7 | cutsickass | 28,075,227
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,808,708
 10 | crypto_grandma | 14,115,013
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,939,741
-15 | SpookySYN | 11,229,415
+15 | SpookySYN | 11,432,675
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
 18 | avyun | 8,825,494
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,762,996
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,818
-27 | thelonliestcrowd | 5,505,482
+27 | thelonliestcrowd | 5,510,808
 28 | IveDoneItAtLast | 5,503,485
 29 | Ginomania | 5,415,291
 30 | send420nudes | 5,012,404
@@ -79,7 +79,7 @@ Rank | Username | Totals Tips
 76 | ValiantJudge29500 | 1,426,264
 77 | isthistomorrow_ | 1,381,135
 78 | Extreme_Issue7325 | 1,345,890
-79 | saintajoras | 1,264,482
+79 | saintajoras | 1,274,482
 80 | Own_Ad_4269 | 1,250,152
 81 | revdrgonzo | 1,245,635
 82 | HestiaIsTheBestia | 1,188,046
@@ -174,7 +174,7 @@ Rank | Username | Totals Tips
 171 | monkeybombed | 385,527
 172 | SHIFTY-T3RROR | 383,203
 173 | DAMG808 | 383,095
-174 | Bobby_Juk | 381,400
+174 | Bobby_Juk | 381,820
 175 | MisterM0H0 | 379,338
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
@@ -187,7 +187,7 @@ Rank | Username | Totals Tips
 184 | x52x | 324,929
 185 | DrThunderHandz | 322,452
 186 | AnduriII | 321,396
-187 | 83nno | 316,601
+187 | 83nno | 319,264
 188 | Chapo_1992 | 314,999
 189 | EffinDrongoC | 312,738
 190 | Complete-Tadpole-728 | 312,278
