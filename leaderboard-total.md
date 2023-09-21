@@ -1,4 +1,4 @@
-Last updated: 23-09-21 01:29:30 UTC  
+Last updated: 23-09-21 02:04:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,939,233
+14 | SammyCraigar | 11,939,741
 15 | Permanent_WSB_Bull | 11,204,183
 16 | SpookySYN | 11,052,785
 17 | 8inchConer | 8,947,619
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,533,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,649,259
-22 | Puddin-Luv | 7,320,261
+22 | Puddin-Luv | 7,322,924
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,762,996
 25 | Real_Player_0 | 6,588,535
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | Korean_Street_Pizza | 3,425,550
 45 | LordBobTheWhale | 3,337,785
 46 | DontLaughArt | 3,312,985
-47 | evilninjarobot | 3,197,616
+47 | evilninjarobot | 3,198,224
 48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,666,629
@@ -137,7 +137,7 @@ Rank | Username | Totals Tips
 134 | junkwatch | 649,680
 135 | femacampcouncilor | 645,475
 136 | slirpo | 631,180
-137 | crodbtc | 621,549
+137 | crodbtc | 624,212
 138 | superlonelyboy | 611,557
 139 | __PDS__ | 595,709
 140 | El_Gordone | 592,784
@@ -198,11 +198,11 @@ Rank | Username | Totals Tips
 195 | FluffyAspie | 298,265
 196 | legionticket | 296,054
 197 | send_tacoz | 293,576
-198 | MadScientistTheFirst | 290,469
-199 | deedopete | 285,361
-200 | dinoyeti | 284,881
-201 | tjex666 | 283,221
-202 | Complete-Tadpole-728 | 282,623
+198 | Complete-Tadpole-728 | 292,149
+199 | MadScientistTheFirst | 290,469
+200 | deedopete | 285,361
+201 | dinoyeti | 284,881
+202 | tjex666 | 283,221
 203 | astro_nut_ | 280,463
 204 | Flimsy_Brilliant_239 | 280,444
 205 | Virtual-Wrangler5955 | 274,995
@@ -261,7 +261,7 @@ Rank | Username | Totals Tips
 258 | YourThighsWarmMyEars | 172,697
 259 | Street_Addd | 171,939
 260 | MymannosaurusRex | 171,317
-261 | MelonFarmer420 | 166,716
+261 | MelonFarmer420 | 167,136
 262 | DamnWhySoLow | 166,675
 263 | ItailianStallion101 | 160,224
 264 | Clonkerz | 158,006
