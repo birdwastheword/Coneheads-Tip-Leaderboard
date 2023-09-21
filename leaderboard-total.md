@@ -1,4 +1,4 @@
-Last updated: 23-09-21 07:50:50 UTC  
+Last updated: 23-09-21 08:01:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,729
-7 | cutsickass | 27,748,258
+7 | cutsickass | 27,778,258
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,808,708
 10 | crypto_grandma | 14,108,044
@@ -232,7 +232,7 @@ Rank | Username | Totals Tips
 229 | CoverYourMaskHoles | 229,708
 230 | TummyLice | 227,247
 231 | Conetent | 223,667
-232 | Ashamed_Raccoon9918 | 222,597
+232 | Ashamed_Raccoon9918 | 223,017
 233 | ShortBusCult | 222,130
 234 | SourBeefHoop | 217,512
 235 | yahuurdme | 214,554
