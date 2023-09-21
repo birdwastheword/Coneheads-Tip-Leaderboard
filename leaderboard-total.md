@@ -1,11 +1,11 @@
-Last updated: 23-09-21 21:33:16 UTC  
+Last updated: 23-09-21 21:41:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
 3 | nakamo-toe | 35,384,203
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 28,665,227
+5 | cutsickass | 28,725,227
 6 | Jeff5704 | 28,324,597
 7 | rickribera93 | 28,283,729
 8 | ConeDesk | 17,947,653
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,761,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,942,404
+14 | SammyCraigar | 11,945,067
 15 | SpookySYN | 11,488,607
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | HippieStarTraveler | 6,259,818
 27 | thelonliestcrowd | 5,516,134
 28 | IveDoneItAtLast | 5,511,348
-29 | Ginomania | 5,415,291
+29 | Ginomania | 5,417,954
 30 | send420nudes | 5,016,673
 31 | GuyOne | 5,006,295
 32 | VIVOffical | 4,801,657
@@ -181,8 +181,8 @@ Rank | Username | Totals Tips
 178 | Tinman_ApE | 359,366
 179 | farmertypoerror | 359,212
 180 | Outrageous-Skill-464 | 344,174
-181 | anony666mous | 341,008
-182 | Complete-Tadpole-728 | 340,858
+181 | Complete-Tadpole-728 | 343,521
+182 | anony666mous | 341,008
 183 | tsudrat | 340,707
 184 | maxfra | 326,334
 185 | x52x | 324,929
