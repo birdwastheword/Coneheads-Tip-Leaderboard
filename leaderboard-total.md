@@ -1,11 +1,11 @@
-Last updated: 23-09-21 23:00:47 UTC  
+Last updated: 23-09-21 23:18:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
 3 | nakamo-toe | 35,384,203
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 28,815,227
+5 | cutsickass | 28,845,227
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | ConeDesk | 17,947,653
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,533,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,656,228
-22 | Puddin-Luv | 7,328,250
+22 | Puddin-Luv | 7,330,913
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,762,996
 25 | Real_Player_0 | 6,588,535
@@ -180,7 +180,7 @@ Rank | Username | Totals Tips
 177 | hellosamaira | 373,235
 178 | Tinman_ApE | 359,366
 179 | farmertypoerror | 359,212
-180 | Complete-Tadpole-728 | 346,184
+180 | Complete-Tadpole-728 | 347,444
 181 | Outrageous-Skill-464 | 344,174
 182 | anony666mous | 341,008
 183 | tsudrat | 340,707
