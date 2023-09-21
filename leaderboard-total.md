@@ -1,4 +1,4 @@
-Last updated: 23-09-21 02:04:40 UTC  
+Last updated: 23-09-21 02:24:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -123,8 +123,8 @@ Rank | Username | Totals Tips
 120 | starterpack420694 | 710,420
 121 | frickdom | 705,672
 122 | WarmIyWacky | 703,049
-123 | Starterpack69420 | 696,969
-124 | DogSpark84 | 696,573
+123 | DogSpark84 | 699,236
+124 | Starterpack69420 | 696,969
 125 | abracadabra087 | 694,465
 126 | firstmatedotxyz | 688,743
 127 | Duskopia | 680,133
