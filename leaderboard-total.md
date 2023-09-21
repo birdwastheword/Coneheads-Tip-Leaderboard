@@ -1,4 +1,4 @@
-Last updated: 23-09-21 11:50:37 UTC  
+Last updated: 23-09-21 12:08:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -266,8 +266,8 @@ Rank | Username | Totals Tips
 263 | 192000Hertz | 160,435
 264 | ItailianStallion101 | 160,224
 265 | Clonkerz | 158,006
-266 | martymartinator | 155,223
-267 | SaberTurret | 154,925
+266 | SaberTurret | 155,533
+267 | martymartinator | 155,223
 268 | 6reficul | 153,884
 269 | NotFullyTerrestrial | 151,302
 270 | Nxnng | 151,195
@@ -317,11 +317,11 @@ Rank | Username | Totals Tips
 314 | Jlt42000 | 107,091
 315 | AD_VICTORIAM_x | 106,876
 316 | i_wake_up_at_12 | 106,333
-317 | redditinchina | 105,444
-318 | Chanyuui1 | 104,940
-319 | deathtr0 | 104,221
-320 | Chill_Edoeard | 102,923
-321 | diamondbored | 102,795
+317 | diamondbored | 105,458
+318 | redditinchina | 105,444
+319 | Chanyuui1 | 104,940
+320 | deathtr0 | 104,221
+321 | Chill_Edoeard | 102,923
 322 | ACorDC | 100,420
 323 | customsolitaires | 99,383
 324 | IHodlStill | 98,684
