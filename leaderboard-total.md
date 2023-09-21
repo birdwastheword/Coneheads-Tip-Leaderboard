@@ -1,4 +1,4 @@
-Last updated: 23-09-21 10:32:43 UTC  
+Last updated: 23-09-21 10:41:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,808,708
 10 | crypto_grandma | 14,108,044
-11 | transfermymoons | 13,486,858
+11 | transfermymoons | 13,586,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,939,741
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,198,224
 48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
-50 | Fenrir-1919 | 2,674,618
+50 | Fenrir-1919 | 2,701,248
 51 | ZoomLong | 2,641,251
 52 | _Royal_Insylum | 2,603,787
 53 | ImAlekBan | 2,601,923
