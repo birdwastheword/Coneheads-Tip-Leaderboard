@@ -1,4 +1,4 @@
-Last updated: 23-09-21 18:25:00 UTC  
+Last updated: 23-09-21 18:33:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,729
-7 | cutsickass | 28,075,227
+7 | cutsickass | 28,135,227
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,808,708
 10 | crypto_grandma | 14,115,013
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,939,741
-15 | SpookySYN | 11,432,675
+15 | SpookySYN | 11,488,607
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
 18 | avyun | 8,825,494
@@ -27,10 +27,10 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,762,996
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,818
-27 | thelonliestcrowd | 5,510,808
+27 | thelonliestcrowd | 5,513,471
 28 | IveDoneItAtLast | 5,503,485
 29 | Ginomania | 5,415,291
-30 | send420nudes | 5,012,404
+30 | send420nudes | 5,016,673
 31 | GuyOne | 5,006,295
 32 | VIVOffical | 4,801,657
 33 | rikbona | 4,540,773
@@ -100,7 +100,7 @@ Rank | Username | Totals Tips
 97 | EvanIsBacon | 970,416
 98 | CHEROKEEJ4CK | 940,286
 99 | Forward_Today2849 | 932,405
-100 | Alanski22 | 908,136
+100 | Alanski22 | 910,799
 101 | Modestexcuse | 903,684
 102 | thee_monster | 896,765
 103 | Bobisdeadrun | 869,015
@@ -174,7 +174,7 @@ Rank | Username | Totals Tips
 171 | monkeybombed | 385,527
 172 | SHIFTY-T3RROR | 383,203
 173 | DAMG808 | 383,095
-174 | Bobby_Juk | 381,820
+174 | Bobby_Juk | 382,240
 175 | MisterM0H0 | 379,338
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
@@ -274,8 +274,8 @@ Rank | Username | Totals Tips
 271 | Nxnng | 151,195
 272 | satoshi_oscar_wilde | 150,078
 273 | BitcoinRefuge | 148,181
-274 | pythonskynet | 146,373
-275 | jamjam794 | 144,679
+274 | jamjam794 | 147,342
+275 | pythonskynet | 146,373
 276 | Doovs | 143,983
 277 | Sad_Entertainer9961 | 143,248
 278 | Legal-Appointment655 | 142,592
@@ -665,8 +665,8 @@ Rank | Username | Totals Tips
 662 | ancheli | 10,588
 663 | Swoopscooter | 10,556
 664 | Straton_Conemont_Inc | 10,550
-665 | Background-Ad-2102 | 10,450
-666 | TheyAskWho | 10,414
+665 | TheyAskWho | 10,525
+666 | Background-Ad-2102 | 10,450
 667 | 73i1 | 10,412
 668 | Squirrel_McNutz | 10,383
 669 | Gamestopisthe1 | 10,227
