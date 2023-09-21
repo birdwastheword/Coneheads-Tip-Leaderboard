@@ -1,11 +1,11 @@
-Last updated: 23-09-21 20:50:47 UTC  
+Last updated: 23-09-21 21:00:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
 3 | nakamo-toe | 35,384,203
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 28,635,227
+5 | cutsickass | 28,665,227
 6 | Jeff5704 | 28,324,597
 7 | rickribera93 | 28,283,729
 8 | ConeDesk | 17,947,653
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | clean_cut89 | 3,713,476
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
-43 | ZukoBih | 3,433,016
+43 | ZukoBih | 3,437,099
 44 | Korean_Street_Pizza | 3,428,213
 45 | DontLaughArt | 3,364,983
 46 | LordBobTheWhale | 3,337,785
@@ -1063,20 +1063,20 @@ Rank | Username | Totals Tips
 1060 | RickCroissant | 420
 1061 | FilypW | 420
 1062 | Pupulikjan | 420
-1063 | teyegurspoon | 345
-1064 | DrChuckWhite | 344
-1065 | Wise-Grapefruit-1443 | 311
-1066 | MimirHinnVitru | 307
-1067 | Formal-Way-4610 | 300
-1068 | Asleep_Ambassador_66 | 277
-1069 | Fantastic-Ebb-6661 | 276
-1070 | xqpcy | 276
-1071 | j3llyf1sh3y | 276
-1072 | highlyregardedeth | 276
-1073 | eddyxoxo | 276
-1074 | torontoglutton | 276
-1075 | Mr_Fresh83 | 269
-1076 | BostonianToro | 269
+1063 | BostonianToro | 369
+1064 | teyegurspoon | 345
+1065 | DrChuckWhite | 344
+1066 | Wise-Grapefruit-1443 | 311
+1067 | MimirHinnVitru | 307
+1068 | Formal-Way-4610 | 300
+1069 | Asleep_Ambassador_66 | 277
+1070 | Fantastic-Ebb-6661 | 276
+1071 | xqpcy | 276
+1072 | j3llyf1sh3y | 276
+1073 | highlyregardedeth | 276
+1074 | eddyxoxo | 276
+1075 | torontoglutton | 276
+1076 | Mr_Fresh83 | 269
 1077 | CapnPratt | 260
 1078 | Inf3rior | 243
 1079 | VizeKarma | 241
