@@ -1,4 +1,4 @@
-Last updated: 23-09-21 00:23:49 UTC  
+Last updated: 23-09-21 01:29:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -10,11 +10,11 @@ Rank | Username | Totals Tips
 7 | cutsickass | 27,478,258
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,800,719
-10 | crypto_grandma | 14,074,412
+10 | crypto_grandma | 14,081,381
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,938,725
+14 | SammyCraigar | 11,939,233
 15 | Permanent_WSB_Bull | 11,204,183
 16 | SpookySYN | 11,052,785
 17 | 8inchConer | 8,947,619
@@ -241,9 +241,9 @@ Rank | Username | Totals Tips
 238 | UWphoto | 211,312
 239 | Most_Being_4002 | 205,592
 240 | Esco1980 | 204,434
-241 | Heclalava | 203,538
-242 | ziggyback | 203,369
-243 | Overall-Extension608 | 203,130
+241 | Overall-Extension608 | 203,738
+242 | Heclalava | 203,538
+243 | ziggyback | 203,369
 244 | CedricDiccory | 197,932
 245 | sudrats | 197,124
 246 | redditavanft | 195,122
