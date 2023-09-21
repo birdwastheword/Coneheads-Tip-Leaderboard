@@ -1,12 +1,12 @@
-Last updated: 23-09-21 19:40:50 UTC  
+Last updated: 23-09-21 19:50:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
 3 | nakamo-toe | 35,384,203
 4 | waterhasnocalories | 30,910,235
-5 | Jeff5704 | 28,324,597
-6 | cutsickass | 28,315,227
+5 | cutsickass | 28,425,227
+6 | Jeff5704 | 28,324,597
 7 | rickribera93 | 28,283,729
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,808,708
@@ -143,7 +143,7 @@ Rank | Username | Totals Tips
 140 | El_Gordone | 592,784
 141 | Burzzzt88 | 592,627
 142 | Independent_Heart_15 | 578,825
-143 | Ninja_Vagabond | 572,344
+143 | Ninja_Vagabond | 575,007
 144 | AustinTX1985 | 571,526
 145 | cryotosensei | 571,262
 146 | StepAsideSuckers | 543,358
