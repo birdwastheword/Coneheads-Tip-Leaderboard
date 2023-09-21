@@ -1,11 +1,11 @@
-Last updated: 23-09-21 22:40:51 UTC  
+Last updated: 23-09-21 22:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
 3 | nakamo-toe | 35,384,203
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 28,755,227
+5 | cutsickass | 28,815,227
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | ConeDesk | 17,947,653
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,761,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,945,067
+14 | SammyCraigar | 11,947,730
 15 | SpookySYN | 11,488,607
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
@@ -132,7 +132,7 @@ Rank | Username | Totals Tips
 129 | SKITZ_ZA | 676,057
 130 | piebagz | 661,815
 131 | WhateverAlready | 659,371
-132 | junkwatch | 652,832
+132 | junkwatch | 653,252
 133 | MartynDr | 652,759
 134 | MorrisBrett514 | 651,759
 135 | femacampcouncilor | 645,475
@@ -364,11 +364,11 @@ Rank | Username | Totals Tips
 361 | fleshlyLoath | 78,366
 362 | mokkingjay | 77,914
 363 | HelicopterDear6064 | 77,619
-364 | Heycheckthisout20 | 75,608
-365 | MedicineMaterial3501 | 74,654
-366 | Steadfast_Apparition | 74,506
-367 | pwan7505 | 73,893
-368 | Significant-Bet5762 | 73,748
+364 | Significant-Bet5762 | 76,411
+365 | Heycheckthisout20 | 75,608
+366 | MedicineMaterial3501 | 74,654
+367 | Steadfast_Apparition | 74,506
+368 | pwan7505 | 73,893
 369 | Diamond_PnutBrain | 73,688
 370 | I_AM_MORE_BADASS | 73,121
 371 | LightninHooker | 72,490
