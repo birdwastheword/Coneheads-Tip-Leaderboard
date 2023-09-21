@@ -1,4 +1,4 @@
-Last updated: 23-09-21 22:50:44 UTC  
+Last updated: 23-09-21 23:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -156,7 +156,7 @@ Rank | Username | Totals Tips
 153 | Crypto-4-Freedom | 510,834
 154 | f0n1xr131ng | 509,681
 155 | AcceptableLeg8751 | 500,000
-156 | fettskull | 494,169
+156 | fettskull | 496,832
 157 | Lady_Lucks_Man | 479,740
 158 | stockyewok | 469,941
 159 | sinlesco | 465,153
@@ -180,8 +180,8 @@ Rank | Username | Totals Tips
 177 | hellosamaira | 373,235
 178 | Tinman_ApE | 359,366
 179 | farmertypoerror | 359,212
-180 | Outrageous-Skill-464 | 344,174
-181 | Complete-Tadpole-728 | 343,521
+180 | Complete-Tadpole-728 | 346,184
+181 | Outrageous-Skill-464 | 344,174
 182 | anony666mous | 341,008
 183 | tsudrat | 340,707
 184 | maxfra | 326,334
@@ -642,10 +642,10 @@ Rank | Username | Totals Tips
 639 | noah1754 | 12,435
 640 | J-_Mad | 12,279
 641 | wesleylyan | 12,257
-642 | ZeusDubstep | 12,050
-643 | bageren | 12,038
-644 | Weezthajuice | 12,007
-645 | TheyAskWho | 11,945
+642 | TheyAskWho | 12,056
+643 | ZeusDubstep | 12,050
+644 | bageren | 12,038
+645 | Weezthajuice | 12,007
 646 | gnarlypoop | 11,924
 647 | charlythesecond | 11,794
 648 | Hofmaurerad | 11,711
