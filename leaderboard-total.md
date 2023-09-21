@@ -1,4 +1,4 @@
-Last updated: 23-09-21 11:41:08 UTC  
+Last updated: 23-09-21 11:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -267,8 +267,8 @@ Rank | Username | Totals Tips
 264 | ItailianStallion101 | 160,224
 265 | Clonkerz | 158,006
 266 | martymartinator | 155,223
-267 | 6reficul | 153,884
-268 | SaberTurret | 152,262
+267 | SaberTurret | 154,925
+268 | 6reficul | 153,884
 269 | NotFullyTerrestrial | 151,302
 270 | Nxnng | 151,195
 271 | satoshi_oscar_wilde | 150,078
