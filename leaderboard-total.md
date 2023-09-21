@@ -1,4 +1,4 @@
-Last updated: 23-09-21 03:50:33 UTC  
+Last updated: 23-09-21 04:00:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -265,8 +265,8 @@ Rank | Username | Totals Tips
 262 | DamnWhySoLow | 166,675
 263 | ItailianStallion101 | 160,224
 264 | Clonkerz | 158,006
-265 | martymartinator | 155,223
-266 | 192000Hertz | 155,109
+265 | 192000Hertz | 157,772
+266 | martymartinator | 155,223
 267 | 6reficul | 153,884
 268 | SaberTurret | 152,262
 269 | NotFullyTerrestrial | 151,302
