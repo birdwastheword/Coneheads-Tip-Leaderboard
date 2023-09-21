@@ -1,4 +1,4 @@
-Last updated: 23-09-21 04:00:49 UTC  
+Last updated: 23-09-21 04:22:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,9 +7,9 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,728
-7 | cutsickass | 27,478,258
+7 | cutsickass | 27,508,258
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,800,719
+9 | _ships | 17,803,382
 10 | crypto_grandma | 14,081,381
 11 | transfermymoons | 13,486,858
 12 | HODL-THE-LINE | 12,469,181
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
 43 | ZukoBih | 3,430,353
-44 | Korean_Street_Pizza | 3,425,550
+44 | Korean_Street_Pizza | 3,428,213
 45 | LordBobTheWhale | 3,337,785
 46 | DontLaughArt | 3,312,985
 47 | evilninjarobot | 3,198,224
