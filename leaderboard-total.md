@@ -1,4 +1,4 @@
-Last updated: 23-09-21 07:05:07 UTC  
+Last updated: 23-09-21 07:18:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -151,7 +151,7 @@ Rank | Username | Totals Tips
 148 | shreyaskg | 538,211
 149 | TubeNerd92 | 537,829
 150 | doktastonks | 533,988
-151 | RazPie | 527,992
+151 | RazPie | 530,655
 152 | rolonic | 516,239
 153 | Crypto-4-Freedom | 510,834
 154 | f0n1xr131ng | 509,681
@@ -196,9 +196,9 @@ Rank | Username | Totals Tips
 193 | VincentVanGTFO | 300,598
 194 | S2K08 | 299,344
 195 | FluffyAspie | 298,265
-196 | legionticket | 296,054
-197 | send_tacoz | 293,576
-198 | Complete-Tadpole-728 | 292,149
+196 | Complete-Tadpole-728 | 296,912
+197 | legionticket | 296,054
+198 | send_tacoz | 293,576
 199 | MadScientistTheFirst | 290,469
 200 | deedopete | 285,361
 201 | dinoyeti | 284,881
