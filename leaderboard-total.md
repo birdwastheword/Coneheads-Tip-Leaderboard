@@ -1,4 +1,4 @@
-Last updated: 23-09-21 06:36:08 UTC  
+Last updated: 23-09-21 06:44:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -652,15 +652,15 @@ Rank | Username | Totals Tips
 649 | Mrmakanakai | 11,477
 650 | allisonovo | 11,346
 651 | This_Red_Apple | 11,260
-652 | Bramberken05 | 11,110
-653 | GaryJulesMCOC | 11,110
-654 | Arj_123 | 11,032
-655 | xllw | 11,000
-656 | PurpleCoveredSnow | 10,915
-657 | Zealousideal-War6206 | 10,905
-658 | maurinet79 | 10,844
-659 | j9101a | 10,804
-660 | Most_Border_3917 | 10,709
+652 | Most_Border_3917 | 11,129
+653 | Bramberken05 | 11,110
+654 | GaryJulesMCOC | 11,110
+655 | Arj_123 | 11,032
+656 | xllw | 11,000
+657 | PurpleCoveredSnow | 10,915
+658 | Zealousideal-War6206 | 10,905
+659 | maurinet79 | 10,844
+660 | j9101a | 10,804
 661 | mimsoo777 | 10,638
 662 | ancheli | 10,588
 663 | Swoopscooter | 10,556
