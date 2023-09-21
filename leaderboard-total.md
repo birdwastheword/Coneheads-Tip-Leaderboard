@@ -1,4 +1,4 @@
-Last updated: 23-09-21 08:41:49 UTC  
+Last updated: 23-09-21 08:50:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | AcceptableLeg8751 | 500,000
 156 | fettskull | 491,506
 157 | Lady_Lucks_Man | 479,740
-158 | stockyewok | 469,101
+158 | stockyewok | 469,521
 159 | sinlesco | 465,153
 160 | WarmlyWacky | 462,118
 161 | MediaPrestigious8342 | 453,839
