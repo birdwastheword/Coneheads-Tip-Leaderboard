@@ -1,4 +1,4 @@
-Last updated: 23-09-21 16:36:57 UTC  
+Last updated: 23-09-21 16:45:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,762,996
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,749
-27 | thelonliestcrowd | 5,494,830
+27 | thelonliestcrowd | 5,497,493
 28 | IveDoneItAtLast | 5,493,485
 29 | Ginomania | 5,415,291
 30 | send420nudes | 5,012,404
@@ -80,7 +80,7 @@ Rank | Username | Totals Tips
 77 | Extreme_Issue7325 | 1,345,890
 78 | Richicash | 1,271,863
 79 | saintajoras | 1,254,482
-80 | Own_Ad_4269 | 1,250,143
+80 | Own_Ad_4269 | 1,250,152
 81 | revdrgonzo | 1,245,635
 82 | HestiaIsTheBestia | 1,188,046
 83 | Feetfailmenot | 1,170,705
