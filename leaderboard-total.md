@@ -1,8 +1,8 @@
-Last updated: 23-09-21 15:50:51 UTC  
+Last updated: 23-09-21 16:01:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
-2 | Wonderful_Bad6531 | 36,346,747
+2 | Wonderful_Bad6531 | 36,349,410
 3 | nakamo-toe | 35,328,280
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | 002_timmy | 2,059,494
 57 | investigator100 | 2,003,656
 58 | 0-Give-a-fucks | 2,001,247
-59 | Affectionate_Hand_76 | 1,977,373
+59 | Affectionate_Hand_76 | 1,980,036
 60 | swampyswede | 1,951,750
 61 | catlover-100 | 1,931,330
 62 | CMDRGlamdring | 1,896,462
@@ -192,12 +192,12 @@ Rank | Username | Totals Tips
 189 | EffinDrongoC | 312,738
 190 | pinkglue99 | 311,845
 191 | Lastkidpicked94 | 306,122
-192 | liwipe | 304,467
-193 | Adrewmc | 301,178
-194 | VincentVanGTFO | 300,598
-195 | S2K08 | 299,344
-196 | FluffyAspie | 298,265
-197 | Complete-Tadpole-728 | 296,912
+192 | Complete-Tadpole-728 | 305,415
+193 | liwipe | 304,467
+194 | Adrewmc | 301,178
+195 | VincentVanGTFO | 300,598
+196 | S2K08 | 299,344
+197 | FluffyAspie | 298,265
 198 | legionticket | 296,054
 199 | send_tacoz | 293,576
 200 | MadScientistTheFirst | 290,469
@@ -440,9 +440,9 @@ Rank | Username | Totals Tips
 437 | Levl1Critter | 49,152
 438 | halfavocadoemoji | 48,677
 439 | shredslanding | 46,650
-440 | Oue | 46,352
-441 | skatistic | 46,287
-442 | FalloutAssasin | 46,154
+440 | FalloutAssasin | 46,574
+441 | Oue | 46,352
+442 | skatistic | 46,287
 443 | Drlitez | 45,436
 444 | SnooRevelations6751 | 45,420
 445 | NickkyDC | 45,379
