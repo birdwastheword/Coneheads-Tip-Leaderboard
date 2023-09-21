@@ -1,4 +1,4 @@
-Last updated: 23-09-21 23:30:37 UTC  
+Last updated: 23-09-21 23:40:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,811,371
+9 | _ships | 17,812,756
 10 | crypto_grandma | 14,115,013
 11 | transfermymoons | 13,761,858
 12 | HODL-THE-LINE | 12,469,181
@@ -95,7 +95,7 @@ Rank | Username | Totals Tips
 92 | avatarbot | 1,027,000
 93 | LimpPeanut5633 | 1,010,654
 94 | WarmBiertje | 1,000,000
-95 | CluelessSurvivor | 998,024
+95 | CluelessSurvivor | 998,444
 96 | virmamies | 992,771
 97 | EvanIsBacon | 970,416
 98 | CHEROKEEJ4CK | 940,286
@@ -157,14 +157,14 @@ Rank | Username | Totals Tips
 154 | f0n1xr131ng | 509,681
 155 | AcceptableLeg8751 | 500,000
 156 | fettskull | 496,832
-157 | Lady_Lucks_Man | 479,740
-158 | stockyewok | 469,941
-159 | sinlesco | 465,153
-160 | WarmlyWacky | 462,118
-161 | MediaPrestigious8342 | 453,839
-162 | noface_reddit | 443,036
-163 | unhingedbigfoot | 439,874
-164 | Dripbot8 | 439,035
+157 | Dripbot8 | 489,035
+158 | Lady_Lucks_Man | 479,740
+159 | stockyewok | 469,941
+160 | sinlesco | 465,153
+161 | WarmlyWacky | 462,118
+162 | MediaPrestigious8342 | 453,839
+163 | noface_reddit | 443,036
+164 | unhingedbigfoot | 439,874
 165 | Mopeiooo | 437,268
 166 | LX1070 | 430,671
 167 | Lion-Hermit | 416,210
