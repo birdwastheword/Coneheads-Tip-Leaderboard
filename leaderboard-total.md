@@ -1,9 +1,9 @@
-Last updated: 23-09-21 23:40:41 UTC  
+Last updated: 23-09-21 23:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
-3 | nakamo-toe | 35,384,203
+3 | nakamo-toe | 35,404,203
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 28,845,227
 6 | rickribera93 | 28,393,729
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | avyun | 8,825,494
 19 | ArtConsitent | 8,533,379
 20 | Homeslicekilla | 7,998,462
-21 | Geniuskills | 7,656,228
+21 | Geniuskills | 7,698,297
 22 | Puddin-Luv | 7,330,913
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,762,996
@@ -94,8 +94,8 @@ Rank | Username | Totals Tips
 91 | freechickens | 1,028,524
 92 | avatarbot | 1,027,000
 93 | LimpPeanut5633 | 1,010,654
-94 | WarmBiertje | 1,000,000
-95 | CluelessSurvivor | 998,444
+94 | CluelessSurvivor | 1,006,433
+95 | WarmBiertje | 1,000,000
 96 | virmamies | 992,771
 97 | EvanIsBacon | 970,416
 98 | CHEROKEEJ4CK | 940,286
