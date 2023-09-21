@@ -1,4 +1,4 @@
-Last updated: 23-09-21 14:19:49 UTC  
+Last updated: 23-09-21 14:31:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -1187,16 +1187,16 @@ Rank | Username | Totals Tips
 1184 | RocketSwaps_ | 68
 1185 | TheAvatarBank | 52
 1186 | TannedViking | 30
-1187 | _JC_84_ | 23
-1188 | Madurosadvisor | 22
-1189 | Clean_Difficulty_694 | 20
-1190 | Sufficient_Ad_4708 | 20
-1191 | Quick_Silver_Wolf | 20
-1192 | XoooX24 | 20
-1193 | TamSchnow | 15
-1194 | breathe345 | 13
-1195 | Waste_Actuary_3290 | 12
-1196 | 18-35 | 11
+1187 | 18-35 | 30
+1188 | _JC_84_ | 23
+1189 | Madurosadvisor | 22
+1190 | Clean_Difficulty_694 | 20
+1191 | Sufficient_Ad_4708 | 20
+1192 | Quick_Silver_Wolf | 20
+1193 | XoooX24 | 20
+1194 | TamSchnow | 15
+1195 | breathe345 | 13
+1196 | Waste_Actuary_3290 | 12
 1197 | jellodoses69 | 10
 1198 | 01Deepu10 | 7
 1199 | mercredimedia | 6
