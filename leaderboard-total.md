@@ -1,4 +1,4 @@
-Last updated: 23-09-21 18:42:01 UTC  
+Last updated: 23-09-21 18:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,762,996
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,818
-27 | thelonliestcrowd | 5,513,471
+27 | thelonliestcrowd | 5,516,134
 28 | IveDoneItAtLast | 5,503,485
 29 | Ginomania | 5,415,291
 30 | send420nudes | 5,016,673
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,951,750
 62 | catlover-100 | 1,931,330
-63 | CMDRGlamdring | 1,896,462
+63 | CMDRGlamdring | 1,899,125
 64 | Mundane-Farm-4117 | 1,873,613
 65 | djrcollectables | 1,868,407
 66 | jimfird | 1,849,151
@@ -131,10 +131,10 @@ Rank | Username | Totals Tips
 128 | Due_Insurance8159 | 678,620
 129 | SKITZ_ZA | 676,057
 130 | piebagz | 661,815
-131 | WhateverAlready | 656,371
-132 | MartynDr | 652,759
-133 | MorrisBrett514 | 651,759
-134 | junkwatch | 650,169
+131 | WhateverAlready | 659,371
+132 | junkwatch | 652,832
+133 | MartynDr | 652,759
+134 | MorrisBrett514 | 651,759
 135 | femacampcouncilor | 645,475
 136 | slirpo | 631,180
 137 | crodbtc | 624,212
