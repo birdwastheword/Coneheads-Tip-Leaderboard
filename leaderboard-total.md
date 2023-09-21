@@ -1,11 +1,11 @@
-Last updated: 23-09-21 20:18:11 UTC  
+Last updated: 23-09-21 20:30:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
 3 | nakamo-toe | 35,384,203
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 28,605,227
+5 | cutsickass | 28,635,227
 6 | Jeff5704 | 28,324,597
 7 | rickribera93 | 28,283,729
 8 | ConeDesk | 17,947,653
@@ -178,12 +178,12 @@ Rank | Username | Totals Tips
 175 | MisterM0H0 | 379,338
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
-178 | farmertypoerror | 359,212
-179 | Tinman_ApE | 358,758
+178 | Tinman_ApE | 359,366
+179 | farmertypoerror | 359,212
 180 | Outrageous-Skill-464 | 344,174
 181 | anony666mous | 341,008
-182 | tsudrat | 340,707
-183 | Complete-Tadpole-728 | 328,249
+182 | Complete-Tadpole-728 | 340,858
+183 | tsudrat | 340,707
 184 | maxfra | 326,334
 185 | x52x | 324,929
 186 | DrThunderHandz | 322,452
@@ -264,8 +264,8 @@ Rank | Username | Totals Tips
 261 | MymannosaurusRex | 171,317
 262 | MelonFarmer420 | 167,136
 263 | DamnWhySoLow | 166,675
-264 | 192000Hertz | 160,435
-265 | ItailianStallion101 | 160,224
+264 | ItailianStallion101 | 162,887
+265 | 192000Hertz | 160,435
 266 | Clonkerz | 158,006
 267 | SaberTurret | 155,533
 268 | martymartinator | 155,223
