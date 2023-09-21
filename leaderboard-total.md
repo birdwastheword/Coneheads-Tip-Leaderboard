@@ -1,4 +1,4 @@
-Last updated: 23-09-21 07:40:59 UTC  
+Last updated: 23-09-21 07:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -232,7 +232,7 @@ Rank | Username | Totals Tips
 229 | CoverYourMaskHoles | 229,708
 230 | TummyLice | 227,247
 231 | Conetent | 223,667
-232 | Ashamed_Raccoon9918 | 222,528
+232 | Ashamed_Raccoon9918 | 222,597
 233 | ShortBusCult | 222,130
 234 | SourBeefHoop | 217,512
 235 | yahuurdme | 214,554
