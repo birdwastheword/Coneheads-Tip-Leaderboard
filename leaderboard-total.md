@@ -1,4 +1,4 @@
-Last updated: 23-09-21 09:40:46 UTC  
+Last updated: 23-09-21 09:50:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -30,8 +30,8 @@ Rank | Username | Totals Tips
 27 | IveDoneItAtLast | 5,493,485
 28 | Ginomania | 5,415,291
 29 | thelonliestcrowd | 5,384,178
-30 | GuyOne | 5,006,295
-31 | send420nudes | 4,966,066
+30 | send420nudes | 5,008,135
+31 | GuyOne | 5,006,295
 32 | VIVOffical | 4,801,657
 33 | rikbona | 4,540,773
 34 | redzrex | 4,514,830
@@ -174,7 +174,7 @@ Rank | Username | Totals Tips
 171 | monkeybombed | 385,426
 172 | SHIFTY-T3RROR | 383,203
 173 | DAMG808 | 383,095
-174 | Bobby_Juk | 379,720
+174 | Bobby_Juk | 380,140
 175 | MisterM0H0 | 379,338
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
