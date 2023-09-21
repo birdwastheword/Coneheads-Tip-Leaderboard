@@ -1,4 +1,4 @@
-Last updated: 23-09-21 11:00:49 UTC  
+Last updated: 23-09-21 11:15:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,148,857
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | waterhasnocalories | 30,910,235
 5 | Jeff5704 | 28,324,597
 6 | rickribera93 | 28,283,729
-7 | cutsickass | 27,778,258
+7 | cutsickass | 27,858,258
 8 | ConeDesk | 17,947,653
 9 | _ships | 17,808,708
 10 | crypto_grandma | 14,108,044
@@ -66,7 +66,7 @@ Rank | Username | Totals Tips
 63 | Mundane-Farm-4117 | 1,873,613
 64 | djrcollectables | 1,865,744
 65 | jimfird | 1,849,151
-66 | Lillica_Golden_SHIB | 1,843,968
+66 | Lillica_Golden_SHIB | 1,844,037
 67 | dealkhabari | 1,767,162
 68 | Iulian_TechNewb | 1,717,286
 69 | KONGXIANG | 1,712,726
