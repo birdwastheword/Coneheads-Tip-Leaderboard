@@ -1,4 +1,4 @@
-Last updated: 23-09-22 04:30:59 UTC  
+Last updated: 23-09-22 04:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,818
 27 | IveDoneItAtLast | 5,580,768
-28 | thelonliestcrowd | 5,529,449
+28 | thelonliestcrowd | 5,532,112
 29 | Ginomania | 5,417,954
 30 | send420nudes | 5,016,673
 31 | GuyOne | 5,006,295
@@ -132,7 +132,7 @@ Rank | Username | Totals Tips
 129 | SKITZ_ZA | 676,057
 130 | piebagz | 661,815
 131 | WhateverAlready | 659,371
-132 | junkwatch | 653,252
+132 | junkwatch | 653,321
 133 | MartynDr | 652,759
 134 | MorrisBrett514 | 651,759
 135 | femacampcouncilor | 645,475
