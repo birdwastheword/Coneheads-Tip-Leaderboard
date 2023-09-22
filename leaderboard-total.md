@@ -1,4 +1,4 @@
-Last updated: 23-09-22 17:50:38 UTC  
+Last updated: 23-09-22 18:02:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | HippieStarTraveler | 6,260,238
 27 | Ginomania | 5,655,779
 28 | IveDoneItAtLast | 5,580,837
-29 | thelonliestcrowd | 5,542,764
+29 | thelonliestcrowd | 5,545,427
 30 | send420nudes | 5,063,011
 31 | GuyOne | 5,006,295
 32 | VIVOffical | 4,830,953
@@ -738,13 +738,13 @@ Rank | Username | Totals Tips
 735 | FlippiShh | 7,440
 736 | quaker-goats | 7,414
 737 | Weirdclerk_ | 7,392
-738 | strworld | 7,302
-739 | st3alth247 | 7,003
-740 | Alternative-Radish13 | 6,969
-741 | tbobs04 | 6,969
-742 | CryptoriumOfficial | 6,969
-743 | physiops | 6,962
-744 | doctorwho_cares | 6,938
+738 | doctorwho_cares | 7,358
+739 | strworld | 7,302
+740 | st3alth247 | 7,003
+741 | Alternative-Radish13 | 6,969
+742 | tbobs04 | 6,969
+743 | CryptoriumOfficial | 6,969
+744 | physiops | 6,962
 745 | dozebull | 6,849
 746 | Kindly-Strawberry637 | 6,800
 747 | Knackebrodd | 6,683
