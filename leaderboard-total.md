@@ -1,11 +1,11 @@
-Last updated: 23-09-22 03:40:29 UTC  
+Last updated: 23-09-22 03:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
 3 | nakamo-toe | 35,417,895
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 28,845,227
+5 | cutsickass | 28,995,227
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | ConeDesk | 17,947,653
@@ -100,7 +100,7 @@ Rank | Username | Totals Tips
 97 | EvanIsBacon | 970,416
 98 | CHEROKEEJ4CK | 940,286
 99 | Forward_Today2849 | 932,405
-100 | Alanski22 | 910,799
+100 | Alanski22 | 923,462
 101 | Modestexcuse | 903,684
 102 | thee_monster | 896,765
 103 | Bobisdeadrun | 869,015
