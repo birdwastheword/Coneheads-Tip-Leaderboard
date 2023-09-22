@@ -1,4 +1,4 @@
-Last updated: 23-09-22 05:18:44 UTC  
+Last updated: 23-09-22 05:30:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | HippieStarTraveler | 6,259,818
 27 | Ginomania | 5,655,779
 28 | IveDoneItAtLast | 5,580,768
-29 | thelonliestcrowd | 5,534,775
+29 | thelonliestcrowd | 5,537,438
 30 | send420nudes | 5,016,673
 31 | GuyOne | 5,006,295
 32 | VIVOffical | 4,830,953
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,198,224
 48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
-50 | Fenrir-1919 | 2,701,856
+50 | Fenrir-1919 | 2,702,464
 51 | ZoomLong | 2,641,251
 52 | _Royal_Insylum | 2,603,787
 53 | ImAlekBan | 2,601,923
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | AcceptableLeg8751 | 500,000
 157 | fettskull | 496,832
 158 | Lady_Lucks_Man | 479,740
-159 | stockyewok | 469,941
+159 | stockyewok | 470,361
 160 | sinlesco | 465,153
 161 | WarmlyWacky | 462,118
 162 | MediaPrestigious8342 | 453,839
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | MisterM0H0 | 379,338
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
-178 | Complete-Tadpole-728 | 363,382
+178 | Complete-Tadpole-728 | 364,642
 179 | Tinman_ApE | 359,366
 180 | farmertypoerror | 359,212
 181 | Outrageous-Skill-464 | 344,174
