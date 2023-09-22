@@ -1,8 +1,8 @@
-Last updated: 23-09-22 15:50:33 UTC  
+Last updated: 23-09-22 16:01:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
-2 | Wonderful_Bad6531 | 36,349,410
+2 | Wonderful_Bad6531 | 36,369,410
 3 | nakamo-toe | 35,497,133
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 29,284,859
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,874,761
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,151
-67 | Lillica_Golden_SHIB | 1,844,664
+67 | Lillica_Golden_SHIB | 1,844,802
 68 | dealkhabari | 1,767,162
 69 | Iulian_TechNewb | 1,717,286
 70 | KONGXIANG | 1,712,726
@@ -138,7 +138,7 @@ Rank | Username | Totals Tips
 135 | MorrisBrett514 | 651,759
 136 | femacampcouncilor | 645,475
 137 | slirpo | 631,180
-138 | crodbtc | 624,212
+138 | crodbtc | 626,875
 139 | superlonelyboy | 611,557
 140 | RazPie | 610,644
 141 | __PDS__ | 595,709
