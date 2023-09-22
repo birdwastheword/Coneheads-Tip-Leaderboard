@@ -1,4 +1,4 @@
-Last updated: 23-09-22 21:32:57 UTC  
+Last updated: 23-09-22 21:41:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -172,9 +172,9 @@ Rank | Username | Totals Tips
 169 | dronegeeks1 | 414,406
 170 | LrnFaroeseWthBergur | 409,488
 171 | Bobby_Juk | 406,060
-172 | Creepy-Nectarine-225 | 392,996
-173 | monkeybombed | 385,527
-174 | Complete-Tadpole-728 | 384,672
+172 | Complete-Tadpole-728 | 393,081
+173 | Creepy-Nectarine-225 | 392,996
+174 | monkeybombed | 385,527
 175 | SHIFTY-T3RROR | 383,203
 176 | DAMG808 | 383,095
 177 | MisterM0H0 | 379,338
