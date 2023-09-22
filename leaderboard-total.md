@@ -1,4 +1,4 @@
-Last updated: 23-09-22 06:01:08 UTC  
+Last updated: 23-09-22 06:25:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | dealkhabari | 1,767,162
 69 | Iulian_TechNewb | 1,717,286
 70 | KONGXIANG | 1,712,726
-71 | Ten-Mins-Late | 1,708,633
+71 | Ten-Mins-Late | 1,709,053
 72 | LongCauliflower6791 | 1,657,531
 73 | GooderZBK | 1,617,267
 74 | ultra_terrestrial | 1,547,699
