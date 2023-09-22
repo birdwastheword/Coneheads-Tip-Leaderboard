@@ -1,4 +1,4 @@
-Last updated: 23-09-22 21:24:24 UTC  
+Last updated: 23-09-22 21:32:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | ZukoBih | 3,455,088
 45 | Korean_Street_Pizza | 3,431,389
 46 | LordBobTheWhale | 3,337,785
-47 | evilninjarobot | 3,198,224
+47 | evilninjarobot | 3,200,887
 48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,707,790
@@ -174,9 +174,9 @@ Rank | Username | Totals Tips
 171 | Bobby_Juk | 406,060
 172 | Creepy-Nectarine-225 | 392,996
 173 | monkeybombed | 385,527
-174 | SHIFTY-T3RROR | 383,203
-175 | DAMG808 | 383,095
-176 | Complete-Tadpole-728 | 379,909
+174 | Complete-Tadpole-728 | 384,672
+175 | SHIFTY-T3RROR | 383,203
+176 | DAMG808 | 383,095
 177 | MisterM0H0 | 379,338
 178 | zenhodl | 374,566
 179 | hellosamaira | 373,235
