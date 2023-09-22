@@ -1,14 +1,14 @@
-Last updated: 23-09-22 17:04:13 UTC  
+Last updated: 23-09-22 17:19:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,369,410
-3 | nakamo-toe | 35,497,133
+3 | nakamo-toe | 35,569,216
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 29,284,859
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 17,987,928
+8 | _ships | 17,990,591
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,115,013
 11 | transfermymoons | 13,771,858
@@ -90,7 +90,7 @@ Rank | Username | Totals Tips
 87 | nichnotnick | 1,103,752
 88 | Allions1 | 1,100,737
 89 | ID404_Not_Found_8964 | 1,066,710
-90 | UniversalNoobMaster | 1,054,281
+90 | UniversalNoobMaster | 1,056,369
 91 | ashketchup422 | 1,042,067
 92 | freechickens | 1,028,524
 93 | avatarbot | 1,027,000
@@ -197,7 +197,7 @@ Rank | Username | Totals Tips
 194 | liwipe | 304,467
 195 | Adrewmc | 301,178
 196 | VincentVanGTFO | 300,598
-197 | S2K08 | 299,344
+197 | S2K08 | 300,010
 198 | FluffyAspie | 298,265
 199 | legionticket | 296,054
 200 | send_tacoz | 293,576
@@ -744,7 +744,7 @@ Rank | Username | Totals Tips
 741 | tbobs04 | 6,969
 742 | CryptoriumOfficial | 6,969
 743 | physiops | 6,962
-744 | doctorwho_cares | 6,869
+744 | doctorwho_cares | 6,938
 745 | dozebull | 6,849
 746 | Kindly-Strawberry637 | 6,800
 747 | Knackebrodd | 6,683
