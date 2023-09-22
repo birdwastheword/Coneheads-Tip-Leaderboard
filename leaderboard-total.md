@@ -1,4 +1,4 @@
-Last updated: 23-09-22 23:40:45 UTC  
+Last updated: 23-09-22 23:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,793,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,698,297
-22 | Puddin-Luv | 7,336,659
+22 | Puddin-Luv | 7,339,322
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,763,673
 25 | Real_Player_0 | 6,588,535
@@ -160,7 +160,7 @@ Rank | Username | Totals Tips
 157 | AcceptableLeg8751 | 500,000
 158 | fettskull | 496,832
 159 | Lady_Lucks_Man | 479,740
-160 | stockyewok | 470,781
+160 | stockyewok | 471,201
 161 | sinlesco | 465,153
 162 | WarmlyWacky | 462,118
 163 | MediaPrestigious8342 | 453,839
@@ -299,7 +299,7 @@ Rank | Username | Totals Tips
 296 | Sativa55555 | 121,550
 297 | stupidcupid112 | 121,421
 298 | lucivaryas | 121,420
-299 | beanwiggin420 | 120,731
+299 | beanwiggin420 | 120,800
 300 | Schl0tz | 120,000
 301 | CaptainCheeseCake | 118,644
 302 | street_shark_puppet | 116,891
