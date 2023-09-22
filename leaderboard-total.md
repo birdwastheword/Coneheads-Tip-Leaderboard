@@ -1,4 +1,4 @@
-Last updated: 23-09-22 18:02:51 UTC  
+Last updated: 23-09-22 18:24:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | cutsickass | 29,284,859
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 17,990,591
+8 | _ships | 17,996,671
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,115,013
 11 | transfermymoons | 13,771,858
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,238
 27 | Ginomania | 5,655,779
-28 | IveDoneItAtLast | 5,580,837
+28 | IveDoneItAtLast | 5,590,042
 29 | thelonliestcrowd | 5,545,427
 30 | send420nudes | 5,063,011
 31 | GuyOne | 5,006,295
@@ -112,7 +112,7 @@ Rank | Username | Totals Tips
 109 | goldyluckinblokchain | 809,537
 110 | vbutarin | 802,000
 111 | na7oul | 800,000
-112 | RegalReptile_ | 796,192
+112 | RegalReptile_ | 796,293
 113 | billywright4 | 795,269
 114 | Cravensworth_redux | 790,803
 115 | Westy3000 | 785,931
@@ -188,8 +188,8 @@ Rank | Username | Totals Tips
 185 | maxfra | 326,334
 186 | x52x | 324,929
 187 | DrThunderHandz | 322,452
-188 | AnduriII | 321,396
-189 | 83nno | 319,264
+188 | 83nno | 321,927
+189 | AnduriII | 321,396
 190 | Chapo_1992 | 314,999
 191 | EffinDrongoC | 312,738
 192 | pinkglue99 | 311,845
