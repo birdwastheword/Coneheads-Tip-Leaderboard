@@ -1,11 +1,11 @@
-Last updated: 23-09-22 18:33:17 UTC  
+Last updated: 23-09-22 18:41:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,369,410
 3 | nakamo-toe | 35,595,109
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 29,344,859
+5 | cutsickass | 29,374,859
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | _ships | 17,996,671
@@ -15,20 +15,20 @@ Rank | Username | Totals Tips
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 11,948,746
-15 | SpookySYN | 11,601,811
+15 | SpookySYN | 11,657,734
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
 18 | avyun | 8,825,494
 19 | ArtConsitent | 8,793,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,698,297
-22 | Puddin-Luv | 7,333,576
+22 | Puddin-Luv | 7,333,996
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,762,996
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,238
 27 | Ginomania | 5,655,779
-28 | IveDoneItAtLast | 5,590,819
+28 | IveDoneItAtLast | 5,591,427
 29 | thelonliestcrowd | 5,545,427
 30 | send420nudes | 5,063,011
 31 | GuyOne | 5,006,295
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | SKITZ_ZA | 676,057
 131 | piebagz | 661,815
 132 | WhateverAlready | 659,371
-133 | junkwatch | 653,741
+133 | junkwatch | 654,161
 134 | MartynDr | 652,759
 135 | MorrisBrett514 | 652,179
 136 | femacampcouncilor | 645,475
