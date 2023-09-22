@@ -1,14 +1,14 @@
-Last updated: 23-09-22 08:50:42 UTC  
+Last updated: 23-09-22 09:01:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
 3 | nakamo-toe | 35,417,895
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 29,094,859
+5 | cutsickass | 29,104,859
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 17,984,657
+8 | _ships | 17,985,265
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,115,013
 11 | transfermymoons | 13,761,858
@@ -142,12 +142,12 @@ Rank | Username | Totals Tips
 139 | __PDS__ | 595,709
 140 | El_Gordone | 592,784
 141 | Burzzzt88 | 592,627
-142 | Independent_Heart_15 | 578,825
-143 | Ninja_Vagabond | 575,007
-144 | AustinTX1985 | 571,526
-145 | cryotosensei | 571,262
-146 | Dripbot8 | 559,035
-147 | RazPie | 557,318
+142 | RazPie | 583,981
+143 | Independent_Heart_15 | 578,825
+144 | Ninja_Vagabond | 575,007
+145 | AustinTX1985 | 571,526
+146 | cryotosensei | 571,262
+147 | Dripbot8 | 559,035
 148 | StepAsideSuckers | 543,358
 149 | scientifichistorian | 539,560
 150 | shreyaskg | 538,211
@@ -170,15 +170,15 @@ Rank | Username | Totals Tips
 167 | Lion-Hermit | 416,210
 168 | dronegeeks1 | 414,406
 169 | LrnFaroeseWthBergur | 409,488
-170 | Creepy-Nectarine-225 | 392,996
-171 | monkeybombed | 385,527
-172 | Bobby_Juk | 384,760
+170 | Bobby_Juk | 399,760
+171 | Creepy-Nectarine-225 | 392,996
+172 | monkeybombed | 385,527
 173 | SHIFTY-T3RROR | 383,203
 174 | DAMG808 | 383,095
 175 | MisterM0H0 | 379,338
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
-178 | Complete-Tadpole-728 | 370,106
+178 | Complete-Tadpole-728 | 372,626
 179 | Tinman_ApE | 359,366
 180 | farmertypoerror | 359,212
 181 | Outrageous-Skill-464 | 344,174
@@ -224,8 +224,8 @@ Rank | Username | Totals Tips
 221 | BeardedBro_ | 248,627
 222 | 4gsboofd | 244,377
 223 | the_judge_168 | 243,075
-224 | joeviani | 241,717
-225 | Significant_Talk4943 | 241,579
+224 | Significant_Talk4943 | 241,999
+225 | joeviani | 241,717
 226 | Truffle_Shuffle_85 | 238,641
 227 | MuhSound | 235,724
 228 | Zalkwalker | 235,069
