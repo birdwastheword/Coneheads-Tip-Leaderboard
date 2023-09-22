@@ -1,15 +1,15 @@
-Last updated: 23-09-21 23:50:50 UTC  
+Last updated: 23-09-22 00:24:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
-3 | nakamo-toe | 35,404,203
+3 | nakamo-toe | 35,412,800
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 28,845,227
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,812,756
+9 | _ships | 17,815,419
 10 | crypto_grandma | 14,115,013
 11 | transfermymoons | 13,761,858
 12 | HODL-THE-LINE | 12,469,181
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,818
 27 | IveDoneItAtLast | 5,580,768
-28 | thelonliestcrowd | 5,518,797
+28 | thelonliestcrowd | 5,521,460
 29 | Ginomania | 5,417,954
 30 | send420nudes | 5,016,673
 31 | GuyOne | 5,006,295
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | clean_cut89 | 3,713,476
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
-43 | ZukoBih | 3,437,099
+43 | ZukoBih | 3,442,425
 44 | Korean_Street_Pizza | 3,428,213
 45 | DontLaughArt | 3,364,983
 46 | LordBobTheWhale | 3,337,785
@@ -240,7 +240,7 @@ Rank | Username | Totals Tips
 237 | Beenthorny | 212,362
 238 | SigSalvadore | 212,358
 239 | UWphoto | 211,312
-240 | Most_Being_4002 | 205,592
+240 | Most_Being_4002 | 206,012
 241 | Esco1980 | 204,434
 242 | Overall-Extension608 | 203,738
 243 | Heclalava | 203,538
