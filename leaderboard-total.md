@@ -1,4 +1,4 @@
-Last updated: 23-09-22 15:30:51 UTC  
+Last updated: 23-09-22 15:40:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -449,14 +449,14 @@ Rank | Username | Totals Tips
 446 | tentazoc | 45,088
 447 | acfranks | 45,083
 448 | Name_Trikolon | 45,002
-449 | Kilv3r | 44,021
-450 | Coneboy2663 | 43,852
-451 | ShadowKnight324 | 43,566
-452 | halfABsinC | 43,285
-453 | Historical-Lychee-34 | 42,844
-454 | dead-spiral | 42,069
-455 | ACE415_ | 42,069
-456 | Cyber-Cafe | 41,921
+449 | Cyber-Cafe | 44,584
+450 | Kilv3r | 44,021
+451 | Coneboy2663 | 43,852
+452 | ShadowKnight324 | 43,566
+453 | halfABsinC | 43,285
+454 | Historical-Lychee-34 | 42,844
+455 | dead-spiral | 42,069
+456 | ACE415_ | 42,069
 457 | PushyDevoIution | 41,695
 458 | Expensive_Being_4038 | 41,254
 459 | madridgalactico | 41,231
