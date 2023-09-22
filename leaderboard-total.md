@@ -1,9 +1,9 @@
-Last updated: 23-09-22 23:17:39 UTC  
+Last updated: 23-09-22 23:30:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,369,410
-3 | nakamo-toe | 35,632,179
+3 | nakamo-toe | 35,634,842
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 30,064,859
 6 | rickribera93 | 28,393,729
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,238
 27 | Ginomania | 5,658,442
-28 | IveDoneItAtLast | 5,604,466
+28 | IveDoneItAtLast | 5,605,074
 29 | thelonliestcrowd | 5,550,753
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,006,295
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | ZukoBih | 3,455,088
 45 | Korean_Street_Pizza | 3,431,389
 46 | LordBobTheWhale | 3,337,785
-47 | evilninjarobot | 3,200,887
+47 | evilninjarobot | 3,203,550
 48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,707,790
