@@ -1,4 +1,4 @@
-Last updated: 23-09-22 13:30:57 UTC  
+Last updated: 23-09-22 13:40:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | clean_cut89 | 3,713,476
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,481,417
-44 | ZukoBih | 3,445,088
+44 | ZukoBih | 3,455,088
 45 | Korean_Street_Pizza | 3,430,549
 46 | LordBobTheWhale | 3,337,785
 47 | evilninjarobot | 3,198,224
@@ -177,8 +177,8 @@ Rank | Username | Totals Tips
 174 | SHIFTY-T3RROR | 383,203
 175 | DAMG808 | 383,095
 176 | MisterM0H0 | 379,338
-177 | zenhodl | 374,566
-178 | Complete-Tadpole-728 | 374,306
+177 | Complete-Tadpole-728 | 374,726
+178 | zenhodl | 374,566
 179 | hellosamaira | 373,235
 180 | Tinman_ApE | 359,366
 181 | farmertypoerror | 359,212
