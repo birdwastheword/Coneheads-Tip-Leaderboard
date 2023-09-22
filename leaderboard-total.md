@@ -1,4 +1,4 @@
-Last updated: 23-09-22 11:40:32 UTC  
+Last updated: 23-09-22 11:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,873,733
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,151
-67 | Lillica_Golden_SHIB | 1,844,526
+67 | Lillica_Golden_SHIB | 1,844,595
 68 | dealkhabari | 1,767,162
 69 | Iulian_TechNewb | 1,717,286
 70 | KONGXIANG | 1,712,726
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | SKITZ_ZA | 676,057
 131 | piebagz | 661,815
 132 | WhateverAlready | 659,371
-133 | junkwatch | 653,321
+133 | junkwatch | 653,741
 134 | MartynDr | 652,759
 135 | MorrisBrett514 | 651,759
 136 | femacampcouncilor | 645,475
