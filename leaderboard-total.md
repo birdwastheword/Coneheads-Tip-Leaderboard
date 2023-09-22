@@ -1,4 +1,4 @@
-Last updated: 23-09-22 22:18:31 UTC  
+Last updated: 23-09-22 22:30:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | cutsickass | 30,064,859
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 17,996,671
+8 | _ships | 18,002,751
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,115,013
 11 | transfermymoons | 13,771,858
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,238
 27 | Ginomania | 5,655,779
-28 | IveDoneItAtLast | 5,601,803
+28 | IveDoneItAtLast | 5,604,466
 29 | thelonliestcrowd | 5,550,753
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,006,295
@@ -79,7 +79,7 @@ Rank | Username | Totals Tips
 76 | ValiantJudge29500 | 1,426,264
 77 | isthistomorrow_ | 1,381,135
 78 | Extreme_Issue7325 | 1,345,890
-79 | saintajoras | 1,274,482
+79 | saintajoras | 1,277,145
 80 | Own_Ad_4269 | 1,268,942
 81 | revdrgonzo | 1,245,635
 82 | HestiaIsTheBestia | 1,188,046
