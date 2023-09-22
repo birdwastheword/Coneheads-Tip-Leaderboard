@@ -1,4 +1,4 @@
-Last updated: 23-09-22 11:50:37 UTC  
+Last updated: 23-09-22 12:08:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,873,733
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,151
-67 | Lillica_Golden_SHIB | 1,844,595
+67 | Lillica_Golden_SHIB | 1,844,664
 68 | dealkhabari | 1,767,162
 69 | Iulian_TechNewb | 1,717,286
 70 | KONGXIANG | 1,712,726
@@ -396,20 +396,20 @@ Rank | Username | Totals Tips
 393 | netnemirepxE | 62,645
 394 | meth43 | 62,596
 395 | TheD1ceMan | 60,541
-396 | lucrica | 59,987
-397 | Dboythegreat | 59,726
-398 | Big-Ticket1506 | 59,666
-399 | OniCowboy | 59,487
-400 | preemcuz | 59,154
-401 | ProfessionalIcy6456 | 59,043
-402 | Bandit_005 | 58,966
-403 | RepublicRude6350 | 58,754
-404 | Wildspliffosis | 58,703
-405 | Trink333 | 58,338
-406 | phrodreky | 58,192
-407 | Dottore_Bettore | 57,917
-408 | foreignGER | 57,622
-409 | CryptoScamee42069 | 57,405
+396 | CryptoScamee42069 | 60,068
+397 | lucrica | 59,987
+398 | Dboythegreat | 59,726
+399 | Big-Ticket1506 | 59,666
+400 | OniCowboy | 59,487
+401 | preemcuz | 59,154
+402 | ProfessionalIcy6456 | 59,043
+403 | Bandit_005 | 58,966
+404 | RepublicRude6350 | 58,754
+405 | Wildspliffosis | 58,703
+406 | Trink333 | 58,338
+407 | phrodreky | 58,192
+408 | Dottore_Bettore | 57,917
+409 | foreignGER | 57,622
 410 | Outrageous_Storm6537 | 56,938
 411 | chuloreddit | 55,947
 412 | imbarrydylan | 55,689
