@@ -1,4 +1,4 @@
-Last updated: 23-09-22 22:40:34 UTC  
+Last updated: 23-09-22 22:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,278,816
-38 | DontLaughArt | 4,096,243
+38 | DontLaughArt | 4,098,241
 39 | zdubs | 3,765,534
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,713,476
@@ -219,10 +219,10 @@ Rank | Username | Totals Tips
 216 | Hactar_42 | 256,832
 217 | thecrabdad | 256,177
 218 | Ambitious-Minimum-80 | 252,035
-219 | Sattack4000 | 250,837
-220 | thestonkinator | 249,330
-221 | Gregoryonetulum | 249,309
-222 | BeardedBro_ | 248,627
+219 | BeardedBro_ | 251,290
+220 | Sattack4000 | 250,837
+221 | thestonkinator | 249,330
+222 | Gregoryonetulum | 249,309
 223 | 4gsboofd | 244,377
 224 | the_judge_168 | 243,075
 225 | Significant_Talk4943 | 241,999
@@ -265,9 +265,9 @@ Rank | Username | Totals Tips
 262 | MymannosaurusRex | 171,317
 263 | MelonFarmer420 | 167,136
 264 | DamnWhySoLow | 166,675
-265 | ItailianStallion101 | 162,887
-266 | SaberTurret | 160,859
-267 | 192000Hertz | 160,435
+265 | 192000Hertz | 163,098
+266 | ItailianStallion101 | 162,887
+267 | SaberTurret | 160,859
 268 | Clonkerz | 158,006
 269 | martymartinator | 155,223
 270 | 6reficul | 153,884
@@ -301,11 +301,11 @@ Rank | Username | Totals Tips
 298 | lucivaryas | 121,420
 299 | Schl0tz | 120,000
 300 | CaptainCheeseCake | 118,644
-301 | street_shark_puppet | 116,891
-302 | lordciders | 116,706
-303 | mvea | 115,748
-304 | Creative_Ad7831 | 115,373
-305 | beanwiggin420 | 114,985
+301 | beanwiggin420 | 118,068
+302 | street_shark_puppet | 116,891
+303 | lordciders | 116,706
+304 | mvea | 115,748
+305 | Creative_Ad7831 | 115,373
 306 | xSkyFa11x | 114,768
 307 | AlternativeBag2619 | 114,483
 308 | Fox1931 | 114,000
@@ -1215,3 +1215,4 @@ Rank | Username | Totals Tips
 1212 | Prestigious-Expert15 | 1
 1213 | BlueMugg | 1
 1214 | mango9574 | 1
+1215 | Stolic76 | 0
