@@ -1,4 +1,4 @@
-Last updated: 23-09-22 02:51:44 UTC  
+Last updated: 23-09-22 03:00:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | clean_cut89 | 3,713,476
 41 | bray_martin03 | 3,510,891
 42 | LuminousViper | 3,481,417
-43 | ZukoBih | 3,442,425
+43 | ZukoBih | 3,445,088
 44 | Korean_Street_Pizza | 3,428,213
 45 | DontLaughArt | 3,364,983
 46 | LordBobTheWhale | 3,337,785
@@ -591,11 +591,11 @@ Rank | Username | Totals Tips
 588 | OutrageousStudy6752 | 17,087
 589 | Sebanimation | 17,073
 590 | leviathynx | 16,901
-591 | stspts | 16,646
-592 | MantisToboggan66 | 16,437
-593 | ipsole | 16,425
-594 | deeeznotes | 16,235
-595 | NSFWCryptoPosting | 16,176
+591 | NSFWCryptoPosting | 16,866
+592 | stspts | 16,646
+593 | MantisToboggan66 | 16,437
+594 | ipsole | 16,425
+595 | deeeznotes | 16,235
 596 | Conflict63 | 16,063
 597 | giooo_tdm | 15,964
 598 | D6P6 | 15,784
