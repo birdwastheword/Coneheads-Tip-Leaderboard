@@ -1,9 +1,9 @@
-Last updated: 23-09-22 09:40:54 UTC  
+Last updated: 23-09-22 09:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
-3 | nakamo-toe | 35,417,895
+3 | nakamo-toe | 35,420,558
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 29,134,859
 6 | rickribera93 | 28,393,729
@@ -64,8 +64,8 @@ Rank | Username | Totals Tips
 61 | swampyswede | 1,951,750
 62 | catlover-100 | 1,931,330
 63 | CMDRGlamdring | 1,899,125
-64 | Mundane-Farm-4117 | 1,873,613
-65 | djrcollectables | 1,871,070
+64 | djrcollectables | 1,873,733
+65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,151
 67 | Lillica_Golden_SHIB | 1,844,457
 68 | dealkhabari | 1,767,162
@@ -737,10 +737,10 @@ Rank | Username | Totals Tips
 734 | quaker-goats | 7,414
 735 | Weirdclerk_ | 7,392
 736 | strworld | 7,302
-737 | st3alth247 | 7,003
-738 | Alternative-Radish13 | 6,969
-739 | tbobs04 | 6,969
-740 | 0xboi | 6,969
+737 | 0xboi | 7,038
+738 | st3alth247 | 7,003
+739 | Alternative-Radish13 | 6,969
+740 | tbobs04 | 6,969
 741 | CryptoriumOfficial | 6,969
 742 | physiops | 6,962
 743 | dozebull | 6,849
