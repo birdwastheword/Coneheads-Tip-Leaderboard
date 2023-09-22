@@ -1,11 +1,11 @@
-Last updated: 23-09-22 07:33:51 UTC  
+Last updated: 23-09-22 07:42:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
 3 | nakamo-toe | 35,417,895
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 29,057,890
+5 | cutsickass | 29,087,890
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | _ships | 17,979,331
@@ -38,14 +38,14 @@ Rank | Username | Totals Tips
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,278,816
-38 | zdubs | 3,764,926
-39 | thom_orrow | 3,744,550
-40 | clean_cut89 | 3,713,476
-41 | bray_martin03 | 3,510,891
-42 | LuminousViper | 3,481,417
-43 | ZukoBih | 3,445,088
-44 | Korean_Street_Pizza | 3,428,213
-45 | DontLaughArt | 3,364,983
+38 | DontLaughArt | 3,764,983
+39 | zdubs | 3,764,926
+40 | thom_orrow | 3,744,550
+41 | clean_cut89 | 3,713,476
+42 | bray_martin03 | 3,510,891
+43 | LuminousViper | 3,481,417
+44 | ZukoBih | 3,445,088
+45 | Korean_Street_Pizza | 3,428,213
 46 | LordBobTheWhale | 3,337,785
 47 | evilninjarobot | 3,198,224
 48 | Dry_Badger_2403 | 3,193,857
