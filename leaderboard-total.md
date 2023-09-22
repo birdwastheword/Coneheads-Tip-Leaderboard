@@ -1,14 +1,14 @@
-Last updated: 23-09-22 10:00:59 UTC  
+Last updated: 23-09-22 10:22:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
-3 | nakamo-toe | 35,441,210
+3 | nakamo-toe | 35,475,829
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 29,134,859
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 17,985,265
+8 | _ships | 17,987,928
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,115,013
 11 | transfermymoons | 13,771,858
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,481,417
 44 | ZukoBih | 3,445,088
-45 | Korean_Street_Pizza | 3,428,213
+45 | Korean_Street_Pizza | 3,430,549
 46 | LordBobTheWhale | 3,337,785
 47 | evilninjarobot | 3,198,224
 48 | Dry_Badger_2403 | 3,193,857
