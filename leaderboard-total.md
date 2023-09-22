@@ -1,9 +1,9 @@
-Last updated: 23-09-22 23:00:59 UTC  
+Last updated: 23-09-22 23:17:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,369,410
-3 | nakamo-toe | 35,604,772
+3 | nakamo-toe | 35,632,179
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 30,064,859
 6 | rickribera93 | 28,393,729
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,278,816
 38 | DontLaughArt | 4,098,907
-39 | zdubs | 3,765,954
+39 | zdubs | 3,766,023
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,713,476
 42 | bray_martin03 | 3,510,891
@@ -137,8 +137,8 @@ Rank | Username | Totals Tips
 134 | MartynDr | 652,759
 135 | MorrisBrett514 | 652,179
 136 | femacampcouncilor | 645,475
-137 | slirpo | 631,180
-138 | crodbtc | 626,875
+137 | crodbtc | 634,538
+138 | slirpo | 631,180
 139 | superlonelyboy | 611,557
 140 | RazPie | 610,644
 141 | __PDS__ | 595,709
@@ -172,7 +172,7 @@ Rank | Username | Totals Tips
 169 | dronegeeks1 | 414,406
 170 | LrnFaroeseWthBergur | 409,488
 171 | Bobby_Juk | 406,060
-172 | Complete-Tadpole-728 | 399,247
+172 | Complete-Tadpole-728 | 401,910
 173 | Creepy-Nectarine-225 | 392,996
 174 | monkeybombed | 385,527
 175 | SHIFTY-T3RROR | 383,203
@@ -299,9 +299,9 @@ Rank | Username | Totals Tips
 296 | Sativa55555 | 121,550
 297 | stupidcupid112 | 121,421
 298 | lucivaryas | 121,420
-299 | Schl0tz | 120,000
-300 | CaptainCheeseCake | 118,644
-301 | beanwiggin420 | 118,068
+299 | beanwiggin420 | 120,731
+300 | Schl0tz | 120,000
+301 | CaptainCheeseCake | 118,644
 302 | street_shark_puppet | 116,891
 303 | lordciders | 116,706
 304 | mvea | 115,748
