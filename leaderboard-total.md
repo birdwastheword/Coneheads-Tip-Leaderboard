@@ -1,4 +1,4 @@
-Last updated: 23-09-22 19:50:35 UTC  
+Last updated: 23-09-22 20:00:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | swampyswede | 1,951,750
 62 | catlover-100 | 1,931,330
 63 | CMDRGlamdring | 1,909,125
-64 | djrcollectables | 1,877,424
+64 | djrcollectables | 1,882,750
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,151
 67 | Lillica_Golden_SHIB | 1,845,222
@@ -171,7 +171,7 @@ Rank | Username | Totals Tips
 168 | Lion-Hermit | 416,210
 169 | dronegeeks1 | 414,406
 170 | LrnFaroeseWthBergur | 409,488
-171 | Bobby_Juk | 405,640
+171 | Bobby_Juk | 406,060
 172 | Creepy-Nectarine-225 | 392,996
 173 | monkeybombed | 385,527
 174 | SHIFTY-T3RROR | 383,203
@@ -233,7 +233,7 @@ Rank | Username | Totals Tips
 230 | alexthemay | 234,131
 231 | CoverYourMaskHoles | 229,708
 232 | TummyLice | 227,247
-233 | Conetent | 223,667
+233 | Conetent | 226,330
 234 | Ashamed_Raccoon9918 | 223,017
 235 | ShortBusCult | 222,130
 236 | SourBeefHoop | 217,512
