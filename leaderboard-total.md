@@ -1,4 +1,4 @@
-Last updated: 23-09-22 05:00:55 UTC  
+Last updated: 23-09-22 05:18:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -9,7 +9,7 @@ Rank | Username | Totals Tips
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | ConeDesk | 17,947,653
-9 | _ships | 17,847,375
+9 | _ships | 17,947,375
 10 | crypto_grandma | 14,115,013
 11 | transfermymoons | 13,761,858
 12 | HODL-THE-LINE | 12,469,181
@@ -27,12 +27,12 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,762,996
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,259,818
-27 | IveDoneItAtLast | 5,580,768
-28 | thelonliestcrowd | 5,532,112
-29 | Ginomania | 5,417,954
+27 | Ginomania | 5,655,779
+28 | IveDoneItAtLast | 5,580,768
+29 | thelonliestcrowd | 5,534,775
 30 | send420nudes | 5,016,673
 31 | GuyOne | 5,006,295
-32 | VIVOffical | 4,828,290
+32 | VIVOffical | 4,830,953
 33 | rikbona | 4,540,773
 34 | redzrex | 4,514,830
 35 | bigbilly1234567899 | 4,496,042
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | MisterM0H0 | 379,338
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
-178 | Complete-Tadpole-728 | 360,853
+178 | Complete-Tadpole-728 | 363,382
 179 | Tinman_ApE | 359,366
 180 | farmertypoerror | 359,212
 181 | Outrageous-Skill-464 | 344,174
