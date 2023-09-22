@@ -1,4 +1,4 @@
-Last updated: 23-09-22 08:40:41 UTC  
+Last updated: 23-09-22 08:50:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -172,13 +172,13 @@ Rank | Username | Totals Tips
 169 | LrnFaroeseWthBergur | 409,488
 170 | Creepy-Nectarine-225 | 392,996
 171 | monkeybombed | 385,527
-172 | Bobby_Juk | 383,500
+172 | Bobby_Juk | 384,760
 173 | SHIFTY-T3RROR | 383,203
 174 | DAMG808 | 383,095
 175 | MisterM0H0 | 379,338
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
-178 | Complete-Tadpole-728 | 364,642
+178 | Complete-Tadpole-728 | 370,106
 179 | Tinman_ApE | 359,366
 180 | farmertypoerror | 359,212
 181 | Outrageous-Skill-464 | 344,174
