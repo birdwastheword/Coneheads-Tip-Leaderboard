@@ -1,4 +1,4 @@
-Last updated: 23-09-22 16:53:01 UTC  
+Last updated: 23-09-22 17:04:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -258,7 +258,7 @@ Rank | Username | Totals Tips
 255 | ZeMadMan1 | 183,251
 256 | ruccarucca | 180,270
 257 | Jadenindubai | 176,626
-258 | sjakkpila | 175,762
+258 | sjakkpila | 175,766
 259 | high5s_inureye | 173,714
 260 | YourThighsWarmMyEars | 172,697
 261 | Street_Addd | 171,939
