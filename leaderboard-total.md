@@ -1,4 +1,4 @@
-Last updated: 23-09-22 01:30:39 UTC  
+Last updated: 23-09-22 02:05:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,761,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,947,730
+14 | SammyCraigar | 11,948,238
 15 | SpookySYN | 11,488,607
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,278,816
-38 | zdubs | 3,764,318
+38 | zdubs | 3,764,926
 39 | thom_orrow | 3,744,550
 40 | clean_cut89 | 3,713,476
 41 | bray_martin03 | 3,510,891
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,198,224
 48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
-50 | Fenrir-1919 | 2,701,248
+50 | Fenrir-1919 | 2,701,856
 51 | ZoomLong | 2,641,251
 52 | _Royal_Insylum | 2,603,787
 53 | ImAlekBan | 2,601,923
@@ -180,7 +180,7 @@ Rank | Username | Totals Tips
 177 | hellosamaira | 373,235
 178 | Tinman_ApE | 359,366
 179 | farmertypoerror | 359,212
-180 | Complete-Tadpole-728 | 347,444
+180 | Complete-Tadpole-728 | 350,527
 181 | Outrageous-Skill-464 | 344,174
 182 | anony666mous | 341,008
 183 | tsudrat | 340,707
