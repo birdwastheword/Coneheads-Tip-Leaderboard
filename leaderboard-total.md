@@ -1,9 +1,9 @@
-Last updated: 23-09-22 14:30:50 UTC  
+Last updated: 23-09-22 14:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
-3 | nakamo-toe | 35,489,144
+3 | nakamo-toe | 35,491,807
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 29,254,859
 6 | rickribera93 | 28,393,729
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | swampyswede | 1,951,750
 62 | catlover-100 | 1,931,330
 63 | CMDRGlamdring | 1,899,125
-64 | djrcollectables | 1,873,733
+64 | djrcollectables | 1,874,761
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,151
 67 | Lillica_Golden_SHIB | 1,844,664
@@ -171,7 +171,7 @@ Rank | Username | Totals Tips
 168 | Lion-Hermit | 416,210
 169 | dronegeeks1 | 414,406
 170 | LrnFaroeseWthBergur | 409,488
-171 | Bobby_Juk | 404,380
+171 | Bobby_Juk | 404,800
 172 | Creepy-Nectarine-225 | 392,996
 173 | monkeybombed | 385,527
 174 | SHIFTY-T3RROR | 383,203
