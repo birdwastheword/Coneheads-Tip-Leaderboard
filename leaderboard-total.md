@@ -1,4 +1,4 @@
-Last updated: 23-09-22 16:44:40 UTC  
+Last updated: 23-09-22 16:53:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | WhateverAlready | 659,371
 133 | junkwatch | 653,741
 134 | MartynDr | 652,759
-135 | MorrisBrett514 | 651,759
+135 | MorrisBrett514 | 652,179
 136 | femacampcouncilor | 645,475
 137 | slirpo | 631,180
 138 | crodbtc | 626,875
