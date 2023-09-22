@@ -1,4 +1,4 @@
-Last updated: 23-09-22 22:50:51 UTC  
+Last updated: 23-09-22 23:00:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -38,8 +38,8 @@ Rank | Username | Totals Tips
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,278,816
-38 | DontLaughArt | 4,098,241
-39 | zdubs | 3,765,534
+38 | DontLaughArt | 4,098,907
+39 | zdubs | 3,765,954
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,713,476
 42 | bray_martin03 | 3,510,891
@@ -172,7 +172,7 @@ Rank | Username | Totals Tips
 169 | dronegeeks1 | 414,406
 170 | LrnFaroeseWthBergur | 409,488
 171 | Bobby_Juk | 406,060
-172 | Complete-Tadpole-728 | 393,081
+172 | Complete-Tadpole-728 | 399,247
 173 | Creepy-Nectarine-225 | 392,996
 174 | monkeybombed | 385,527
 175 | SHIFTY-T3RROR | 383,203
@@ -458,7 +458,7 @@ Rank | Username | Totals Tips
 455 | dead-spiral | 42,069
 456 | ACE415_ | 42,069
 457 | PushyDevoIution | 41,695
-458 | Expensive_Being_4038 | 41,254
+458 | Expensive_Being_4038 | 41,323
 459 | madridgalactico | 41,231
 460 | HodLMania | 41,111
 461 | ARoyaleWithCheese | 41,000
