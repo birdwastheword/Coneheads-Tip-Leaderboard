@@ -1,4 +1,4 @@
-Last updated: 23-09-22 14:50:33 UTC  
+Last updated: 23-09-22 15:01:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | Ginomania | 5,655,779
 28 | IveDoneItAtLast | 5,580,837
 29 | thelonliestcrowd | 5,540,101
-30 | send420nudes | 5,016,673
+30 | send420nudes | 5,020,942
 31 | GuyOne | 5,006,295
 32 | VIVOffical | 4,830,953
 33 | rikbona | 4,540,773
@@ -171,13 +171,13 @@ Rank | Username | Totals Tips
 168 | Lion-Hermit | 416,210
 169 | dronegeeks1 | 414,406
 170 | LrnFaroeseWthBergur | 409,488
-171 | Bobby_Juk | 404,800
+171 | Bobby_Juk | 405,220
 172 | Creepy-Nectarine-225 | 392,996
 173 | monkeybombed | 385,527
 174 | SHIFTY-T3RROR | 383,203
 175 | DAMG808 | 383,095
 176 | MisterM0H0 | 379,338
-177 | Complete-Tadpole-728 | 375,146
+177 | Complete-Tadpole-728 | 377,246
 178 | zenhodl | 374,566
 179 | hellosamaira | 373,235
 180 | Tinman_ApE | 359,366
