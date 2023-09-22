@@ -1,4 +1,4 @@
-Last updated: 23-09-22 17:40:55 UTC  
+Last updated: 23-09-22 17:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -106,7 +106,7 @@ Rank | Username | Totals Tips
 103 | thee_monster | 896,765
 104 | Bobisdeadrun | 869,015
 105 | orangesandonions | 855,238
-106 | formidable-opponent | 830,193
+106 | formidable-opponent | 837,970
 107 | PortCity_MadMan | 829,555
 108 | adrifing | 819,157
 109 | goldyluckinblokchain | 809,537
