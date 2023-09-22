@@ -1,4 +1,4 @@
-Last updated: 23-09-22 08:32:26 UTC  
+Last updated: 23-09-22 08:40:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,278,816
-38 | DontLaughArt | 3,993,537
+38 | DontLaughArt | 4,093,537
 39 | zdubs | 3,764,926
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,713,476
@@ -172,9 +172,9 @@ Rank | Username | Totals Tips
 169 | LrnFaroeseWthBergur | 409,488
 170 | Creepy-Nectarine-225 | 392,996
 171 | monkeybombed | 385,527
-172 | SHIFTY-T3RROR | 383,203
-173 | DAMG808 | 383,095
-174 | Bobby_Juk | 383,080
+172 | Bobby_Juk | 383,500
+173 | SHIFTY-T3RROR | 383,203
+174 | DAMG808 | 383,095
 175 | MisterM0H0 | 379,338
 176 | zenhodl | 374,566
 177 | hellosamaira | 373,235
