@@ -1,4 +1,4 @@
-Last updated: 23-09-22 02:05:08 UTC  
+Last updated: 23-09-22 02:26:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 5,417,954
 30 | send420nudes | 5,016,673
 31 | GuyOne | 5,006,295
-32 | VIVOffical | 4,801,657
+32 | VIVOffical | 4,828,290
 33 | rikbona | 4,540,773
 34 | redzrex | 4,514,830
 35 | bigbilly1234567899 | 4,496,042
