@@ -1,11 +1,11 @@
-Last updated: 23-09-22 21:50:55 UTC  
+Last updated: 23-09-22 22:00:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,369,410
 3 | nakamo-toe | 35,604,772
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 29,944,859
+5 | cutsickass | 29,974,859
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | _ships | 17,996,671
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,278,816
-38 | DontLaughArt | 4,094,911
+38 | DontLaughArt | 4,096,243
 39 | zdubs | 3,765,534
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,713,476
@@ -106,7 +106,7 @@ Rank | Username | Totals Tips
 103 | thee_monster | 896,765
 104 | Bobisdeadrun | 869,015
 105 | orangesandonions | 855,238
-106 | formidable-opponent | 837,970
+106 | formidable-opponent | 838,747
 107 | PortCity_MadMan | 829,555
 108 | adrifing | 819,157
 109 | goldyluckinblokchain | 809,537
