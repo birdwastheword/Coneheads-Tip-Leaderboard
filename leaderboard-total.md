@@ -1,9 +1,9 @@
-Last updated: 23-09-22 23:30:31 UTC  
+Last updated: 23-09-22 23:40:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,369,410
-3 | nakamo-toe | 35,634,842
+3 | nakamo-toe | 35,688,102
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 30,064,859
 6 | rickribera93 | 28,393,729
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,793,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,698,297
-22 | Puddin-Luv | 7,333,996
+22 | Puddin-Luv | 7,336,659
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,763,673
 25 | Real_Player_0 | 6,588,535
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,481,417
 44 | ZukoBih | 3,455,088
-45 | Korean_Street_Pizza | 3,431,389
+45 | Korean_Street_Pizza | 3,432,389
 46 | LordBobTheWhale | 3,337,785
 47 | evilninjarobot | 3,203,550
 48 | Dry_Badger_2403 | 3,193,857
@@ -131,8 +131,8 @@ Rank | Username | Totals Tips
 128 | Duskopia | 680,133
 129 | Due_Insurance8159 | 678,620
 130 | SKITZ_ZA | 676,057
-131 | piebagz | 661,815
-132 | WhateverAlready | 659,371
+131 | WhateverAlready | 669,371
+132 | piebagz | 661,815
 133 | junkwatch | 654,161
 134 | MartynDr | 652,759
 135 | MorrisBrett514 | 652,179
@@ -172,7 +172,7 @@ Rank | Username | Totals Tips
 169 | dronegeeks1 | 414,406
 170 | LrnFaroeseWthBergur | 409,488
 171 | Bobby_Juk | 406,060
-172 | Complete-Tadpole-728 | 401,910
+172 | Complete-Tadpole-728 | 402,330
 173 | Creepy-Nectarine-225 | 392,996
 174 | monkeybombed | 385,527
 175 | SHIFTY-T3RROR | 383,203
