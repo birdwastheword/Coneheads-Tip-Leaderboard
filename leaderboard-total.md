@@ -1,4 +1,4 @@
-Last updated: 23-09-22 19:14:46 UTC  
+Last updated: 23-09-22 19:23:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,948,746
+14 | SammyCraigar | 11,954,072
 15 | SpookySYN | 11,657,734
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,877,424
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,151
-67 | Lillica_Golden_SHIB | 1,844,802
+67 | Lillica_Golden_SHIB | 1,845,222
 68 | dealkhabari | 1,767,162
 69 | Iulian_TechNewb | 1,717,286
 70 | KONGXIANG | 1,712,726
