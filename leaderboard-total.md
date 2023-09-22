@@ -1,11 +1,11 @@
-Last updated: 23-09-22 14:40:29 UTC  
+Last updated: 23-09-22 14:50:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,349,410
-3 | nakamo-toe | 35,491,807
+3 | nakamo-toe | 35,497,133
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 29,254,859
+5 | cutsickass | 29,284,859
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | _ships | 17,987,928
@@ -177,7 +177,7 @@ Rank | Username | Totals Tips
 174 | SHIFTY-T3RROR | 383,203
 175 | DAMG808 | 383,095
 176 | MisterM0H0 | 379,338
-177 | Complete-Tadpole-728 | 374,726
+177 | Complete-Tadpole-728 | 375,146
 178 | zenhodl | 374,566
 179 | hellosamaira | 373,235
 180 | Tinman_ApE | 359,366
