@@ -1,4 +1,4 @@
-Last updated: 23-09-23 04:40:52 UTC  
+Last updated: 23-09-23 04:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -137,7 +137,7 @@ Rank | Username | Totals Tips
 134 | MartynDr | 652,759
 135 | MorrisBrett514 | 652,179
 136 | femacampcouncilor | 645,475
-137 | crodbtc | 634,538
+137 | crodbtc | 637,201
 138 | slirpo | 631,180
 139 | superlonelyboy | 611,557
 140 | RazPie | 610,644
@@ -727,18 +727,18 @@ Rank | Username | Totals Tips
 724 | Strict_Berry366 | 7,880
 725 | quaker-goats | 7,834
 726 | Fit_Win_541 | 7,817
-727 | mronki | 7,737
-728 | Happy-Cheeseface | 7,724
-729 | isthisanavatar | 7,709
-730 | Chichakitty | 7,677
-731 | TeflonThaDonn | 7,625
-732 | gold_digger333 | 7,577
-733 | king0ftheroad | 7,500
-734 | RiceRare | 7,491
-735 | Pengpangolin | 7,488
-736 | FlippiShh | 7,440
-737 | Weirdclerk_ | 7,392
-738 | doctorwho_cares | 7,358
+727 | doctorwho_cares | 7,778
+728 | mronki | 7,737
+729 | Happy-Cheeseface | 7,724
+730 | isthisanavatar | 7,709
+731 | Chichakitty | 7,677
+732 | TeflonThaDonn | 7,625
+733 | gold_digger333 | 7,577
+734 | king0ftheroad | 7,500
+735 | RiceRare | 7,491
+736 | Pengpangolin | 7,488
+737 | FlippiShh | 7,440
+738 | Weirdclerk_ | 7,392
 739 | strworld | 7,302
 740 | st3alth247 | 7,003
 741 | Alternative-Radish13 | 6,969
