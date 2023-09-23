@@ -1,4 +1,4 @@
-Last updated: 23-09-23 22:50:36 UTC  
+Last updated: 23-09-23 23:00:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,307
 27 | Ginomania | 5,662,525
-28 | IveDoneItAtLast | 5,640,815
+28 | IveDoneItAtLast | 5,648,804
 29 | thelonliestcrowd | 5,550,753
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,008,958
@@ -278,9 +278,9 @@ Rank | Username | Totals Tips
 275 | jamjam794 | 147,342
 276 | phonebreaker8 | 144,349
 277 | Doovs | 143,983
-278 | Sad_Entertainer9961 | 143,248
-279 | Legal-Appointment655 | 142,592
-280 | wato4000 | 140,692
+278 | wato4000 | 143,355
+279 | Sad_Entertainer9961 | 143,248
+280 | Legal-Appointment655 | 142,592
 281 | SalliIsAFem | 140,361
 282 | ASingleGuitarString | 139,770
 283 | luisantonio197 | 139,511
@@ -824,13 +824,13 @@ Rank | Username | Totals Tips
 821 | final_lionel | 3,767
 822 | salt_yaf | 3,706
 823 | Niksa2007 | 3,688
-824 | Gelato_33 | 3,628
-825 | _echnaton | 3,504
-826 | WeaselJCD | 3,503
-827 | raulcras5 | 3,502
-828 | Medfried | 3,492
-829 | JJJaxMax | 3,475
-830 | chwick | 3,426
+824 | chwick | 3,630
+825 | Gelato_33 | 3,628
+826 | _echnaton | 3,504
+827 | WeaselJCD | 3,503
+828 | raulcras5 | 3,502
+829 | Medfried | 3,492
+830 | JJJaxMax | 3,475
 831 | Mrcoolguynumberone | 3,420
 832 | SoulUrgeDestiny | 3,409
 833 | Microgamers | 3,408
