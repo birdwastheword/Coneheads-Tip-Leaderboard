@@ -1,11 +1,11 @@
-Last updated: 23-09-23 04:00:59 UTC  
+Last updated: 23-09-23 04:21:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
 2 | Wonderful_Bad6531 | 36,369,410
 3 | nakamo-toe | 35,688,102
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 30,064,859
+5 | cutsickass | 30,304,859
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,012,383
@@ -168,9 +168,9 @@ Rank | Username | Totals Tips
 165 | unhingedbigfoot | 439,874
 166 | Mopeiooo | 437,268
 167 | LX1070 | 430,671
-168 | Lion-Hermit | 416,210
-169 | dronegeeks1 | 414,406
-170 | Complete-Tadpole-728 | 412,170
+168 | Complete-Tadpole-728 | 418,336
+169 | Lion-Hermit | 416,210
+170 | dronegeeks1 | 414,406
 171 | LrnFaroeseWthBergur | 409,488
 172 | Bobby_Juk | 408,723
 173 | Creepy-Nectarine-225 | 392,996
