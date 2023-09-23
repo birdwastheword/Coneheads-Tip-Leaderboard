@@ -1,11 +1,11 @@
-Last updated: 23-09-23 12:07:21 UTC  
+Last updated: 23-09-23 12:37:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 40,202,126
+1 | Bitdream200K | 40,228,756
 2 | Wonderful_Bad6531 | 36,369,410
-3 | nakamo-toe | 35,699,602
+3 | nakamo-toe | 35,702,265
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 30,424,863
+5 | cutsickass | 30,454,863
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,015,046
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,763,673
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,238
-27 | Ginomania | 5,658,442
+27 | Ginomania | 5,661,105
 28 | IveDoneItAtLast | 5,608,345
 29 | thelonliestcrowd | 5,550,753
 30 | send420nudes | 5,067,280
@@ -71,7 +71,7 @@ Rank | Username | Totals Tips
 68 | dealkhabari | 1,767,162
 69 | Iulian_TechNewb | 1,717,286
 70 | KONGXIANG | 1,715,609
-71 | Ten-Mins-Late | 1,709,473
+71 | Ten-Mins-Late | 1,709,893
 72 | LongCauliflower6791 | 1,657,531
 73 | GooderZBK | 1,617,267
 74 | ultra_terrestrial | 1,547,699
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | SKITZ_ZA | 676,057
 131 | WhateverAlready | 669,371
 132 | piebagz | 661,815
-133 | junkwatch | 654,368
+133 | junkwatch | 654,437
 134 | MartynDr | 652,759
 135 | MorrisBrett514 | 652,179
 136 | femacampcouncilor | 645,475
