@@ -1,4 +1,4 @@
-Last updated: 23-09-23 06:01:52 UTC  
+Last updated: 23-09-23 06:22:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | Lillica_Golden_SHIB | 1,845,222
 68 | dealkhabari | 1,767,162
 69 | Iulian_TechNewb | 1,717,286
-70 | KONGXIANG | 1,712,726
+70 | KONGXIANG | 1,715,609
 71 | Ten-Mins-Late | 1,709,473
 72 | LongCauliflower6791 | 1,657,531
 73 | GooderZBK | 1,617,267
