@@ -1,9 +1,9 @@
-Last updated: 23-09-23 11:31:01 UTC  
+Last updated: 23-09-23 11:40:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
 2 | Wonderful_Bad6531 | 36,369,410
-3 | nakamo-toe | 35,693,428
+3 | nakamo-toe | 35,698,754
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 30,424,863
 6 | rickribera93 | 28,393,729
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,983,034
+14 | SammyCraigar | 11,983,642
 15 | SpookySYN | 11,699,364
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
@@ -605,10 +605,10 @@ Rank | Username | Totals Tips
 602 | Zwott | 15,441
 603 | Rookslook | 15,359
 604 | Rake_wlkr | 15,330
-605 | Potstar1 | 15,215
-606 | Doublix | 15,074
-607 | imeme1969 | 15,070
-608 | TheChillDyl | 14,870
+605 | TheChillDyl | 15,290
+606 | Potstar1 | 15,215
+607 | Doublix | 15,074
+608 | imeme1969 | 15,070
 609 | abbasabba260 | 14,773
 610 | Big_Bonus3617 | 14,763
 611 | redbasl | 14,643
