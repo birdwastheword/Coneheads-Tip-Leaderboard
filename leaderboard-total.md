@@ -1,4 +1,4 @@
-Last updated: 23-09-23 06:30:59 UTC  
+Last updated: 23-09-23 06:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
@@ -164,7 +164,7 @@ Rank | Username | Totals Tips
 161 | sinlesco | 465,153
 162 | WarmlyWacky | 462,118
 163 | MediaPrestigious8342 | 453,839
-164 | noface_reddit | 445,699
+164 | noface_reddit | 448,362
 165 | unhingedbigfoot | 439,874
 166 | Mopeiooo | 437,268
 167 | LX1070 | 430,671
