@@ -1,4 +1,4 @@
-Last updated: 23-09-23 21:32:00 UTC  
+Last updated: 23-09-23 21:40:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 12,016,628
+14 | SammyCraigar | 12,021,357
 15 | SpookySYN | 12,010,327
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | LongCauliflower6791 | 1,657,531
 73 | GooderZBK | 1,617,267
 74 | ultra_terrestrial | 1,547,699
-75 | Own_Ad_4269 | 1,462,045
+75 | Own_Ad_4269 | 1,468,026
 76 | ValiantJudge29500 | 1,441,264
 77 | YarOldeOrchard | 1,438,286
 78 | isthistomorrow_ | 1,381,135
@@ -117,7 +117,7 @@ Rank | Username | Totals Tips
 114 | Cravensworth_redux | 790,803
 115 | Westy3000 | 785,931
 116 | ziggybri | 783,883
-117 | cannainform2 | 772,076
+117 | cannainform2 | 773,077
 118 | Obi1eyeKenobi | 730,328
 119 | dopelifer09 | 727,057
 120 | Successful-Walk-3902 | 724,070
@@ -644,8 +644,8 @@ Rank | Username | Totals Tips
 641 | FixFull | 12,501
 642 | Dapper_Bloke88 | 12,451
 643 | noah1754 | 12,435
-644 | wesleylyan | 12,257
-645 | TheyAskWho | 12,167
+644 | TheyAskWho | 12,278
+645 | wesleylyan | 12,257
 646 | ZeusDubstep | 12,050
 647 | bageren | 12,038
 648 | Weezthajuice | 12,007
@@ -777,8 +777,8 @@ Rank | Username | Totals Tips
 774 | Makaveli4Sheez | 5,569
 775 | DioDilemma | 5,545
 776 | East_Key_5930 | 5,487
-777 | LATech99 | 5,463
-778 | unacceptable_name25 | 5,395
+777 | unacceptable_name25 | 5,464
+778 | LATech99 | 5,463
 779 | Independent_Safe1351 | 5,352
 780 | GlumDreamer | 5,326
 781 | moonmanuk | 5,326
@@ -1103,22 +1103,22 @@ Rank | Username | Totals Tips
 1100 | HelpMeWonda | 200
 1101 | skyHIGH-1 | 200
 1102 | Comfortable_Acadia69 | 173
-1103 | clandahlina_redux | 169
-1104 | a14alo | 169
-1105 | deftaj | 169
-1106 | Ballerin14 | 169
-1107 | rCarmar | 165
-1108 | faelanae | 150
-1109 | aboldstrategycotton | 150
-1110 | PixelllPunk | 146
-1111 | Claws4200 | 144
-1112 | Phuckaq | 141
-1113 | identityconfirmed404 | 138
-1114 | idk-though1 | 138
-1115 | Setyman | 138
-1116 | justcamefromcaves | 138
-1117 | peskyant | 138
-1118 | downlowdata | 138
+1103 | downlowdata | 171
+1104 | clandahlina_redux | 169
+1105 | a14alo | 169
+1106 | deftaj | 169
+1107 | Ballerin14 | 169
+1108 | rCarmar | 165
+1109 | faelanae | 150
+1110 | aboldstrategycotton | 150
+1111 | PixelllPunk | 146
+1112 | Claws4200 | 144
+1113 | Phuckaq | 141
+1114 | identityconfirmed404 | 138
+1115 | idk-though1 | 138
+1116 | Setyman | 138
+1117 | justcamefromcaves | 138
+1118 | peskyant | 138
 1119 | arkodoz | 138
 1120 | zdonahue2791 | 138
 1121 | somedudenamedjason | 138
