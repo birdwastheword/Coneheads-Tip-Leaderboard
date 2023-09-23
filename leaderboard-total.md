@@ -1,4 +1,4 @@
-Last updated: 23-09-23 02:50:28 UTC  
+Last updated: 23-09-23 03:01:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -219,7 +219,7 @@ Rank | Username | Totals Tips
 216 | Hactar_42 | 256,832
 217 | thecrabdad | 256,177
 218 | Ambitious-Minimum-80 | 252,035
-219 | BeardedBro_ | 251,290
+219 | BeardedBro_ | 251,710
 220 | Sattack4000 | 250,837
 221 | thestonkinator | 249,330
 222 | Gregoryonetulum | 249,309
