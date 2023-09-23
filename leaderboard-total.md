@@ -1,4 +1,4 @@
-Last updated: 23-09-23 23:25:13 UTC  
+Last updated: 23-09-23 23:33:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -244,10 +244,10 @@ Rank | Username | Totals Tips
 241 | UWphoto | 211,312
 242 | Most_Being_4002 | 206,012
 243 | Esco1980 | 204,434
-244 | Heclalava | 203,538
-245 | ziggyback | 203,369
-246 | CedricDiccory | 197,932
-247 | skollywag92 | 197,172
+244 | skollywag92 | 204,114
+245 | Heclalava | 203,538
+246 | ziggyback | 203,369
+247 | CedricDiccory | 197,932
 248 | sudrats | 197,124
 249 | redditavanft | 195,122
 250 | AverageLiberalJoe | 195,007
@@ -276,7 +276,7 @@ Rank | Username | Totals Tips
 273 | satoshi_oscar_wilde | 150,078
 274 | BitcoinRefuge | 148,181
 275 | jamjam794 | 147,342
-276 | phonebreaker8 | 144,349
+276 | phonebreaker8 | 144,769
 277 | Doovs | 143,983
 278 | wato4000 | 143,355
 279 | Sad_Entertainer9961 | 143,248
