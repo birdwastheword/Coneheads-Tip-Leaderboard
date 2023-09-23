@@ -1,9 +1,9 @@
-Last updated: 23-09-23 11:50:51 UTC  
+Last updated: 23-09-23 12:07:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
 2 | Wonderful_Bad6531 | 36,369,410
-3 | nakamo-toe | 35,698,754
+3 | nakamo-toe | 35,699,602
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 30,424,863
 6 | rickribera93 | 28,393,729
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,882,750
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,151
-67 | Lillica_Golden_SHIB | 1,845,291
+67 | Lillica_Golden_SHIB | 1,845,498
 68 | dealkhabari | 1,767,162
 69 | Iulian_TechNewb | 1,717,286
 70 | KONGXIANG | 1,715,609
@@ -265,8 +265,8 @@ Rank | Username | Totals Tips
 262 | MymannosaurusRex | 171,317
 263 | MelonFarmer420 | 167,136
 264 | DamnWhySoLow | 166,675
-265 | 192000Hertz | 165,761
-266 | SaberTurret | 163,522
+265 | SaberTurret | 166,185
+266 | 192000Hertz | 165,761
 267 | ItailianStallion101 | 162,887
 268 | Clonkerz | 158,006
 269 | martymartinator | 155,223
@@ -821,8 +821,8 @@ Rank | Username | Totals Tips
 818 | OisinT | 3,779
 819 | carsonthecarsinogen | 3,769
 820 | salt_yaf | 3,706
-821 | Niksa2007 | 3,688
-822 | final_lionel | 3,629
+821 | final_lionel | 3,698
+822 | Niksa2007 | 3,688
 823 | Gelato_33 | 3,628
 824 | _echnaton | 3,504
 825 | raulcras5 | 3,502
