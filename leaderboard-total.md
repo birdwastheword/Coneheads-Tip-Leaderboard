@@ -1,9 +1,9 @@
-Last updated: 23-09-23 11:22:28 UTC  
+Last updated: 23-09-23 11:31:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
 2 | Wonderful_Bad6531 | 36,369,410
-3 | nakamo-toe | 35,688,102
+3 | nakamo-toe | 35,693,428
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 30,424,863
 6 | rickribera93 | 28,393,729
@@ -266,8 +266,8 @@ Rank | Username | Totals Tips
 263 | MelonFarmer420 | 167,136
 264 | DamnWhySoLow | 166,675
 265 | 192000Hertz | 165,761
-266 | ItailianStallion101 | 162,887
-267 | SaberTurret | 160,859
+266 | SaberTurret | 163,522
+267 | ItailianStallion101 | 162,887
 268 | Clonkerz | 158,006
 269 | martymartinator | 155,223
 270 | 6reficul | 153,884
