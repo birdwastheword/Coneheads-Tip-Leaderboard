@@ -1,4 +1,4 @@
-Last updated: 23-09-23 10:40:45 UTC  
+Last updated: 23-09-23 10:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | SKITZ_ZA | 676,057
 131 | WhateverAlready | 669,371
 132 | piebagz | 661,815
-133 | junkwatch | 654,230
+133 | junkwatch | 654,299
 134 | MartynDr | 652,759
 135 | MorrisBrett514 | 652,179
 136 | femacampcouncilor | 645,475
@@ -163,7 +163,7 @@ Rank | Username | Totals Tips
 160 | stockyewok | 472,041
 161 | sinlesco | 465,153
 162 | WarmlyWacky | 462,118
-163 | Bobby_Juk | 459,563
+163 | Bobby_Juk | 459,983
 164 | MediaPrestigious8342 | 453,839
 165 | noface_reddit | 448,362
 166 | unhingedbigfoot | 439,874
