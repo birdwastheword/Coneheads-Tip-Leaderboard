@@ -1,4 +1,4 @@
-Last updated: 23-09-23 06:40:33 UTC  
+Last updated: 23-09-23 06:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
@@ -80,7 +80,7 @@ Rank | Username | Totals Tips
 77 | isthistomorrow_ | 1,381,135
 78 | Extreme_Issue7325 | 1,345,890
 79 | saintajoras | 1,277,145
-80 | Own_Ad_4269 | 1,268,942
+80 | Own_Ad_4269 | 1,268,946
 81 | revdrgonzo | 1,245,635
 82 | HestiaIsTheBestia | 1,188,046
 83 | Feetfailmenot | 1,170,705
@@ -100,7 +100,7 @@ Rank | Username | Totals Tips
 97 | virmamies | 992,771
 98 | EvanIsBacon | 970,416
 99 | CHEROKEEJ4CK | 940,286
-100 | Alanski22 | 933,462
+100 | Alanski22 | 938,462
 101 | Forward_Today2849 | 932,405
 102 | Modestexcuse | 903,684
 103 | thee_monster | 896,765
@@ -172,7 +172,7 @@ Rank | Username | Totals Tips
 169 | Lion-Hermit | 416,210
 170 | dronegeeks1 | 414,406
 171 | LrnFaroeseWthBergur | 409,488
-172 | Bobby_Juk | 408,723
+172 | Bobby_Juk | 409,143
 173 | Creepy-Nectarine-225 | 392,996
 174 | monkeybombed | 385,527
 175 | SHIFTY-T3RROR | 383,203
