@@ -1,4 +1,4 @@
-Last updated: 23-09-23 11:00:43 UTC  
+Last updated: 23-09-23 11:14:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,882,750
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,151
-67 | Lillica_Golden_SHIB | 1,845,222
+67 | Lillica_Golden_SHIB | 1,845,291
 68 | dealkhabari | 1,767,162
 69 | Iulian_TechNewb | 1,717,286
 70 | KONGXIANG | 1,715,609
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | SKITZ_ZA | 676,057
 131 | WhateverAlready | 669,371
 132 | piebagz | 661,815
-133 | junkwatch | 654,299
+133 | junkwatch | 654,368
 134 | MartynDr | 652,759
 135 | MorrisBrett514 | 652,179
 136 | femacampcouncilor | 645,475
@@ -608,12 +608,12 @@ Rank | Username | Totals Tips
 605 | Potstar1 | 15,215
 606 | Doublix | 15,074
 607 | imeme1969 | 15,070
-608 | abbasabba260 | 14,773
-609 | Big_Bonus3617 | 14,763
-610 | redbasl | 14,643
-611 | Hancock02 | 14,583
-612 | mixmasterpayne | 14,547
-613 | TheChillDyl | 14,381
+608 | TheChillDyl | 14,870
+609 | abbasabba260 | 14,773
+610 | Big_Bonus3617 | 14,763
+611 | redbasl | 14,643
+612 | Hancock02 | 14,583
+613 | mixmasterpayne | 14,547
 614 | cole-badger | 14,269
 615 | Mrmakanakai | 14,099
 616 | theycallmekimpembe | 14,037
