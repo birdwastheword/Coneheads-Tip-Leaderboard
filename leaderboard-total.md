@@ -1,4 +1,4 @@
-Last updated: 23-09-23 02:30:47 UTC  
+Last updated: 23-09-23 02:40:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,793,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,698,297
-22 | Puddin-Luv | 7,349,974
+22 | Puddin-Luv | 7,352,637
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,763,673
 25 | Real_Player_0 | 6,588,535
@@ -87,7 +87,7 @@ Rank | Username | Totals Tips
 84 | Hot_Potato_Salad | 1,147,558
 85 | pythonskynet | 1,146,793
 86 | beastlybaker | 1,138,701
-87 | nichnotnick | 1,103,752
+87 | nichnotnick | 1,103,821
 88 | Allions1 | 1,100,737
 89 | ID404_Not_Found_8964 | 1,066,710
 90 | UniversalNoobMaster | 1,056,369
@@ -592,9 +592,9 @@ Rank | Username | Totals Tips
 589 | Steves1982 | 17,284
 590 | OutrageousStudy6752 | 17,087
 591 | Sebanimation | 17,073
-592 | leviathynx | 16,901
-593 | NSFWCryptoPosting | 16,866
-594 | stspts | 16,646
+592 | stspts | 16,959
+593 | leviathynx | 16,901
+594 | NSFWCryptoPosting | 16,866
 595 | MantisToboggan66 | 16,437
 596 | ipsole | 16,425
 597 | Fr3sh-Ch3mical | 16,393
