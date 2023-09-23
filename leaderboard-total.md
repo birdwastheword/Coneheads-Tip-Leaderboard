@@ -1,4 +1,4 @@
-Last updated: 23-09-23 19:40:41 UTC  
+Last updated: 23-09-23 19:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -453,8 +453,8 @@ Rank | Username | Totals Tips
 450 | Name_Trikolon | 45,002
 451 | Cyber-Cafe | 44,584
 452 | Kilv3r | 44,021
-453 | Coneboy2663 | 43,852
-454 | ShadowKnight324 | 43,566
+453 | ShadowKnight324 | 43,986
+454 | Coneboy2663 | 43,852
 455 | halfABsinC | 43,285
 456 | dead-spiral | 42,069
 457 | ACE415_ | 42,069
