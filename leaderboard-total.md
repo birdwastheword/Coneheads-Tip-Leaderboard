@@ -1,4 +1,4 @@
-Last updated: 23-09-23 01:27:17 UTC  
+Last updated: 23-09-23 02:00:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -170,9 +170,9 @@ Rank | Username | Totals Tips
 167 | LX1070 | 430,671
 168 | Lion-Hermit | 416,210
 169 | dronegeeks1 | 414,406
-170 | LrnFaroeseWthBergur | 409,488
-171 | Bobby_Juk | 406,060
-172 | Complete-Tadpole-728 | 404,850
+170 | Complete-Tadpole-728 | 411,750
+171 | LrnFaroeseWthBergur | 409,488
+172 | Bobby_Juk | 408,723
 173 | Creepy-Nectarine-225 | 392,996
 174 | monkeybombed | 385,527
 175 | SHIFTY-T3RROR | 383,203
@@ -265,7 +265,7 @@ Rank | Username | Totals Tips
 262 | MymannosaurusRex | 171,317
 263 | MelonFarmer420 | 167,136
 264 | DamnWhySoLow | 166,675
-265 | 192000Hertz | 163,098
+265 | 192000Hertz | 165,761
 266 | ItailianStallion101 | 162,887
 267 | SaberTurret | 160,859
 268 | Clonkerz | 158,006
@@ -597,12 +597,12 @@ Rank | Username | Totals Tips
 594 | stspts | 16,646
 595 | MantisToboggan66 | 16,437
 596 | ipsole | 16,425
-597 | deeeznotes | 16,235
-598 | Conflict63 | 16,063
-599 | giooo_tdm | 15,964
-600 | D6P6 | 15,784
-601 | Zwott | 15,441
-602 | Fr3sh-Ch3mical | 15,393
+597 | Fr3sh-Ch3mical | 16,393
+598 | deeeznotes | 16,235
+599 | Conflict63 | 16,063
+600 | giooo_tdm | 15,964
+601 | D6P6 | 15,784
+602 | Zwott | 15,441
 603 | Rookslook | 15,359
 604 | Rake_wlkr | 15,330
 605 | Potstar1 | 15,215
@@ -912,8 +912,8 @@ Rank | Username | Totals Tips
 909 | Cl0uds_Br0 | 1,820
 910 | virginia669 | 1,791
 911 | WriterMcWriterly | 1,787
-912 | DWBroodle | 1,709
-913 | Elgato_TJ | 1,656
+912 | Elgato_TJ | 1,725
+913 | DWBroodle | 1,709
 914 | PuzzleheadedDream830 | 1,650
 915 | Zues6921 | 1,627
 916 | MalicCarnage | 1,607
