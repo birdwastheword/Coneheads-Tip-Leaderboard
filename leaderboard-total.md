@@ -1,11 +1,11 @@
-Last updated: 23-09-23 16:31:42 UTC  
+Last updated: 23-09-23 16:40:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
 2 | Wonderful_Bad6531 | 36,369,410
 3 | nakamo-toe | 35,705,536
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 30,544,863
+5 | cutsickass | 30,574,863
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,015,046
@@ -133,7 +133,7 @@ Rank | Username | Totals Tips
 130 | SKITZ_ZA | 676,057
 131 | WhateverAlready | 669,371
 132 | piebagz | 661,815
-133 | junkwatch | 654,437
+133 | junkwatch | 654,857
 134 | MartynDr | 652,759
 135 | MorrisBrett514 | 652,179
 136 | femacampcouncilor | 645,475
