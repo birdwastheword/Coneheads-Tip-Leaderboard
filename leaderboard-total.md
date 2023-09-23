@@ -1,4 +1,4 @@
-Last updated: 23-09-23 07:00:57 UTC  
+Last updated: 23-09-23 07:15:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
@@ -168,7 +168,7 @@ Rank | Username | Totals Tips
 165 | unhingedbigfoot | 439,874
 166 | Mopeiooo | 437,268
 167 | LX1070 | 430,671
-168 | Complete-Tadpole-728 | 418,336
+168 | Complete-Tadpole-728 | 423,659
 169 | Lion-Hermit | 416,210
 170 | dronegeeks1 | 414,406
 171 | LrnFaroeseWthBergur | 409,488
@@ -371,7 +371,7 @@ Rank | Username | Totals Tips
 368 | pwan7505 | 73,893
 369 | Diamond_PnutBrain | 73,688
 370 | I_AM_MORE_BADASS | 73,121
-371 | LightninHooker | 72,490
+371 | LightninHooker | 72,890
 372 | adi_00_ | 71,759
 373 | CM19901 | 71,207
 374 | sparanaghcoar | 71,118
