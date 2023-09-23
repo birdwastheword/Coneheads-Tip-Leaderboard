@@ -1,11 +1,11 @@
-Last updated: 23-09-23 15:16:55 UTC  
+Last updated: 23-09-23 15:25:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
 2 | Wonderful_Bad6531 | 36,369,410
 3 | nakamo-toe | 35,705,536
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 30,514,863
+5 | cutsickass | 30,544,863
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,015,046
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,238
 27 | Ginomania | 5,661,525
-28 | IveDoneItAtLast | 5,608,345
+28 | IveDoneItAtLast | 5,612,545
 29 | thelonliestcrowd | 5,550,753
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,008,958
@@ -366,19 +366,19 @@ Rank | Username | Totals Tips
 363 | fleshlyLoath | 78,366
 364 | mokkingjay | 77,914
 365 | HelicopterDear6064 | 77,619
-366 | Emeritux | 76,740
-367 | Diamond_PnutBrain | 76,351
-368 | Heycheckthisout20 | 75,608
-369 | MedicineMaterial3501 | 74,654
-370 | Steadfast_Apparition | 74,506
-371 | pwan7505 | 73,893
-372 | I_AM_MORE_BADASS | 73,121
-373 | LightninHooker | 72,890
-374 | adi_00_ | 71,759
-375 | CM19901 | 71,207
-376 | sparanaghcoar | 71,118
-377 | ElmerBlack | 70,850
-378 | drche35 | 70,466
+366 | drche35 | 77,435
+367 | Emeritux | 76,740
+368 | Diamond_PnutBrain | 76,351
+369 | Heycheckthisout20 | 75,608
+370 | MedicineMaterial3501 | 74,654
+371 | Steadfast_Apparition | 74,506
+372 | pwan7505 | 73,893
+373 | I_AM_MORE_BADASS | 73,121
+374 | LightninHooker | 72,890
+375 | adi_00_ | 71,759
+376 | CM19901 | 71,207
+377 | sparanaghcoar | 71,118
+378 | ElmerBlack | 70,850
 379 | Yoda975 | 70,123
 380 | Rush4Time | 70,079
 381 | Dazzling_Marzipan474 | 69,453
