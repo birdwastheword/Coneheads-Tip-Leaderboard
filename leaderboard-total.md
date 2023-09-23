@@ -1,4 +1,4 @@
-Last updated: 23-09-23 22:17:43 UTC  
+Last updated: 23-09-23 22:30:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,021,734
+8 | _ships | 18,026,720
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,124,576
 11 | transfermymoons | 13,771,858
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,307
 27 | Ginomania | 5,662,525
-28 | IveDoneItAtLast | 5,639,967
+28 | IveDoneItAtLast | 5,640,815
 29 | thelonliestcrowd | 5,550,753
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,008,958
@@ -288,7 +288,7 @@ Rank | Username | Totals Tips
 285 | Outrageous-Ad8481 | 137,001
 286 | BitCone_CONE | 135,670
 287 | MorrisWayne | 133,416
-288 | phonebreaker8 | 131,260
+288 | phonebreaker8 | 131,680
 289 | GoodMornEveGoodNight | 131,088
 290 | Mj_6o4 | 129,568
 291 | Awake-- | 128,173
@@ -458,8 +458,8 @@ Rank | Username | Totals Tips
 455 | halfABsinC | 43,285
 456 | dead-spiral | 42,069
 457 | ACE415_ | 42,069
-458 | PushyDevoIution | 41,695
-459 | Expensive_Being_4038 | 41,392
+458 | Expensive_Being_4038 | 41,812
+459 | PushyDevoIution | 41,695
 460 | madridgalactico | 41,231
 461 | GuronT | 41,167
 462 | HodLMania | 41,111
