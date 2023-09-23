@@ -1,11 +1,11 @@
-Last updated: 23-09-23 18:30:41 UTC  
+Last updated: 23-09-23 18:40:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
 2 | Wonderful_Bad6531 | 36,369,410
 3 | nakamo-toe | 35,705,536
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 30,574,863
+5 | cutsickass | 30,624,863
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,015,046
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,238
 27 | Ginomania | 5,662,525
-28 | IveDoneItAtLast | 5,615,208
+28 | IveDoneItAtLast | 5,616,125
 29 | thelonliestcrowd | 5,550,753
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,008,958
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | Autom4tic_Soze | 2,236,291
 57 | 002_timmy | 2,059,494
 58 | investigator100 | 2,020,313
-59 | 0-Give-a-fucks | 2,001,247
+59 | 0-Give-a-fucks | 2,001,667
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,951,750
 62 | catlover-100 | 1,931,330
@@ -159,10 +159,10 @@ Rank | Username | Totals Tips
 156 | f0n1xr131ng | 509,681
 157 | AcceptableLeg8751 | 500,000
 158 | fettskull | 496,832
-159 | Lady_Lucks_Man | 482,403
-160 | stockyewok | 472,041
-161 | sinlesco | 465,153
-162 | Bobby_Juk | 464,672
+159 | Bobby_Juk | 484,672
+160 | Lady_Lucks_Man | 482,403
+161 | stockyewok | 472,041
+162 | sinlesco | 465,153
 163 | WarmlyWacky | 462,118
 164 | Complete-Tadpole-728 | 456,357
 165 | MediaPrestigious8342 | 453,839
