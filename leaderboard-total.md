@@ -1,4 +1,4 @@
-Last updated: 23-09-23 07:40:38 UTC  
+Last updated: 23-09-23 07:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
@@ -163,16 +163,16 @@ Rank | Username | Totals Tips
 160 | stockyewok | 472,041
 161 | sinlesco | 465,153
 162 | WarmlyWacky | 462,118
-163 | MediaPrestigious8342 | 453,839
-164 | noface_reddit | 448,362
-165 | unhingedbigfoot | 439,874
-166 | Mopeiooo | 437,268
-167 | LX1070 | 430,671
-168 | Complete-Tadpole-728 | 428,659
-169 | Lion-Hermit | 416,210
-170 | dronegeeks1 | 414,406
-171 | LrnFaroeseWthBergur | 409,488
-172 | Bobby_Juk | 409,143
+163 | Bobby_Juk | 459,143
+164 | MediaPrestigious8342 | 453,839
+165 | noface_reddit | 448,362
+166 | unhingedbigfoot | 439,874
+167 | Mopeiooo | 437,268
+168 | LX1070 | 430,671
+169 | Complete-Tadpole-728 | 428,659
+170 | Lion-Hermit | 416,210
+171 | dronegeeks1 | 414,406
+172 | LrnFaroeseWthBergur | 409,488
 173 | Creepy-Nectarine-225 | 392,996
 174 | monkeybombed | 385,527
 175 | SHIFTY-T3RROR | 383,203
