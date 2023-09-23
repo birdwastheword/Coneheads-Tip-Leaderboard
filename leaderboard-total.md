@@ -1,4 +1,4 @@
-Last updated: 23-09-23 05:30:46 UTC  
+Last updated: 23-09-23 05:40:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | Richicash | 2,271,863
 56 | Autom4tic_Soze | 2,236,291
 57 | 002_timmy | 2,059,494
-58 | investigator100 | 2,003,656
+58 | investigator100 | 2,020,313
 59 | 0-Give-a-fucks | 2,001,247
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,951,750
