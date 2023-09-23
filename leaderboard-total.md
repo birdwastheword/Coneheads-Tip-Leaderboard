@@ -1,4 +1,4 @@
-Last updated: 23-09-23 12:37:37 UTC  
+Last updated: 23-09-23 12:55:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -162,8 +162,8 @@ Rank | Username | Totals Tips
 159 | Lady_Lucks_Man | 482,403
 160 | stockyewok | 472,041
 161 | sinlesco | 465,153
-162 | WarmlyWacky | 462,118
-163 | Bobby_Juk | 459,983
+162 | Bobby_Juk | 464,252
+163 | WarmlyWacky | 462,118
 164 | MediaPrestigious8342 | 453,839
 165 | noface_reddit | 448,362
 166 | unhingedbigfoot | 439,874
@@ -366,23 +366,23 @@ Rank | Username | Totals Tips
 363 | fleshlyLoath | 78,366
 364 | mokkingjay | 77,914
 365 | HelicopterDear6064 | 77,619
-366 | Heycheckthisout20 | 75,608
-367 | MedicineMaterial3501 | 74,654
-368 | Steadfast_Apparition | 74,506
-369 | pwan7505 | 73,893
-370 | Diamond_PnutBrain | 73,688
-371 | I_AM_MORE_BADASS | 73,121
-372 | LightninHooker | 72,890
-373 | adi_00_ | 71,759
-374 | CM19901 | 71,207
-375 | sparanaghcoar | 71,118
-376 | ElmerBlack | 70,850
-377 | drche35 | 70,466
-378 | Yoda975 | 70,123
-379 | Rush4Time | 70,079
-380 | Dazzling_Marzipan474 | 69,453
-381 | Tapiz3land | 68,942
-382 | Emeritux | 68,748
+366 | Emeritux | 76,740
+367 | Heycheckthisout20 | 75,608
+368 | MedicineMaterial3501 | 74,654
+369 | Steadfast_Apparition | 74,506
+370 | pwan7505 | 73,893
+371 | Diamond_PnutBrain | 73,688
+372 | I_AM_MORE_BADASS | 73,121
+373 | LightninHooker | 72,890
+374 | adi_00_ | 71,759
+375 | CM19901 | 71,207
+376 | sparanaghcoar | 71,118
+377 | ElmerBlack | 70,850
+378 | drche35 | 70,466
+379 | Yoda975 | 70,123
+380 | Rush4Time | 70,079
+381 | Dazzling_Marzipan474 | 69,453
+382 | Tapiz3land | 68,942
 383 | XBBlade | 67,901
 384 | Atorcran | 67,570
 385 | Friendly-Airline2426 | 66,547
