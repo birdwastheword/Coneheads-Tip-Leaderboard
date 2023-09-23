@@ -1,4 +1,4 @@
-Last updated: 23-09-23 17:41:50 UTC  
+Last updated: 23-09-23 17:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -166,9 +166,9 @@ Rank | Username | Totals Tips
 163 | WarmlyWacky | 462,118
 164 | MediaPrestigious8342 | 453,839
 165 | noface_reddit | 448,362
-166 | unhingedbigfoot | 439,874
-167 | Mopeiooo | 437,268
-168 | Complete-Tadpole-728 | 433,659
+166 | Complete-Tadpole-728 | 441,925
+167 | unhingedbigfoot | 439,874
+168 | Mopeiooo | 437,268
 169 | LX1070 | 430,671
 170 | Lion-Hermit | 416,210
 171 | dronegeeks1 | 414,406
@@ -196,9 +196,9 @@ Rank | Username | Totals Tips
 193 | Lastkidpicked94 | 306,122
 194 | liwipe | 304,467
 195 | Adrewmc | 301,178
-196 | VincentVanGTFO | 300,598
-197 | S2K08 | 300,010
-198 | FluffyAspie | 298,265
+196 | FluffyAspie | 300,928
+197 | VincentVanGTFO | 300,598
+198 | S2K08 | 300,010
 199 | legionticket | 296,054
 200 | send_tacoz | 293,576
 201 | MadScientistTheFirst | 290,469
