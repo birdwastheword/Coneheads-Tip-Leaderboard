@@ -1,4 +1,4 @@
-Last updated: 23-09-23 17:16:31 UTC  
+Last updated: 23-09-23 17:24:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -168,8 +168,8 @@ Rank | Username | Totals Tips
 165 | noface_reddit | 448,362
 166 | unhingedbigfoot | 439,874
 167 | Mopeiooo | 437,268
-168 | LX1070 | 430,671
-169 | Complete-Tadpole-728 | 428,659
+168 | Complete-Tadpole-728 | 433,659
+169 | LX1070 | 430,671
 170 | Lion-Hermit | 416,210
 171 | dronegeeks1 | 414,406
 172 | LrnFaroeseWthBergur | 409,488
