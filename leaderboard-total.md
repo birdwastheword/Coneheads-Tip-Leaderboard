@@ -1,4 +1,4 @@
-Last updated: 23-09-23 13:50:45 UTC  
+Last updated: 23-09-23 14:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -15,14 +15,14 @@ Rank | Username | Totals Tips
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
 14 | SammyCraigar | 12,010,725
-15 | SpookySYN | 11,699,364
+15 | SpookySYN | 11,861,807
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
-18 | avyun | 8,825,494
+18 | avyun | 8,832,463
 19 | ArtConsitent | 8,793,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
-22 | Puddin-Luv | 7,353,057
+22 | Puddin-Luv | 7,355,720
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,763,673
 25 | Real_Player_0 | 6,588,535
