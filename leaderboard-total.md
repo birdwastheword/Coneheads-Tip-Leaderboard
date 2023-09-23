@@ -1,9 +1,9 @@
-Last updated: 23-09-23 14:42:16 UTC  
+Last updated: 23-09-23 14:50:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
 2 | Wonderful_Bad6531 | 36,369,410
-3 | nakamo-toe | 35,702,873
+3 | nakamo-toe | 35,705,536
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 30,514,863
 6 | rickribera93 | 28,393,729
@@ -18,7 +18,7 @@ Rank | Username | Totals Tips
 15 | SpookySYN | 11,957,067
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
-18 | avyun | 8,832,463
+18 | avyun | 8,901,883
 19 | ArtConsitent | 8,793,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
@@ -407,13 +407,13 @@ Rank | Username | Totals Tips
 404 | Bandit_005 | 58,966
 405 | RepublicRude6350 | 58,754
 406 | Wildspliffosis | 58,703
-407 | Trink333 | 58,338
-408 | phrodreky | 58,192
-409 | Dottore_Bettore | 57,917
-410 | foreignGER | 57,622
-411 | Outrageous_Storm6537 | 56,938
-412 | chuloreddit | 55,947
-413 | losttraveler36 | 55,934
+407 | losttraveler36 | 58,597
+408 | Trink333 | 58,338
+409 | phrodreky | 58,192
+410 | Dottore_Bettore | 57,917
+411 | foreignGER | 57,622
+412 | Outrageous_Storm6537 | 56,938
+413 | chuloreddit | 55,947
 414 | imbarrydylan | 55,689
 415 | mofayew | 54,829
 416 | Lucabba | 54,738
@@ -585,9 +585,9 @@ Rank | Username | Totals Tips
 582 | ___MOM___ | 18,853
 583 | Fivebag | 18,704
 584 | masterassassin93 | 18,409
-585 | subredditlurker69 | 18,332
-586 | Collectibl3 | 18,024
-587 | TheChillDyl | 17,953
+585 | TheChillDyl | 18,373
+586 | subredditlurker69 | 18,332
+587 | Collectibl3 | 18,024
 588 | augustsIippedaway | 17,739
 589 | PRYCDaddy | 17,718
 590 | omfglauren | 17,676
