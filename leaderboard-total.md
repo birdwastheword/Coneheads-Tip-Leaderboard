@@ -1,9 +1,9 @@
-Last updated: 23-09-23 18:40:34 UTC  
+Last updated: 23-09-23 18:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
 2 | Wonderful_Bad6531 | 36,369,410
-3 | nakamo-toe | 35,705,536
+3 | nakamo-toe | 35,710,862
 4 | waterhasnocalories | 30,910,235
 5 | cutsickass | 30,624,863
 6 | rickribera93 | 28,393,729
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | thelonliestcrowd | 5,550,753
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,008,958
-32 | VIVOffical | 4,930,953
+32 | VIVOffical | 4,933,616
 33 | rikbona | 4,540,773
 34 | redzrex | 4,528,985
 35 | bigbilly1234567899 | 4,496,042
@@ -202,8 +202,8 @@ Rank | Username | Totals Tips
 199 | legionticket | 296,054
 200 | send_tacoz | 293,576
 201 | MadScientistTheFirst | 290,469
-202 | deedopete | 285,361
-203 | dinoyeti | 284,881
+202 | dinoyeti | 287,544
+203 | deedopete | 285,361
 204 | tjex666 | 283,221
 205 | astro_nut_ | 280,463
 206 | Flimsy_Brilliant_239 | 280,444
@@ -645,7 +645,7 @@ Rank | Username | Totals Tips
 642 | noah1754 | 12,435
 643 | J-_Mad | 12,279
 644 | wesleylyan | 12,257
-645 | TheyAskWho | 12,056
+645 | TheyAskWho | 12,167
 646 | ZeusDubstep | 12,050
 647 | bageren | 12,038
 648 | Weezthajuice | 12,007
