@@ -1,4 +1,4 @@
-Last updated: 23-09-23 15:25:09 UTC  
+Last updated: 23-09-23 15:33:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,278,816
-38 | DontLaughArt | 4,098,907
+38 | DontLaughArt | 4,118,907
 39 | zdubs | 3,766,492
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,713,476
