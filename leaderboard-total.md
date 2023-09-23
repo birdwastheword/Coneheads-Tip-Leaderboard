@@ -1,4 +1,4 @@
-Last updated: 23-09-23 15:00:49 UTC  
+Last updated: 23-09-23 15:16:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 12,010,794
+14 | SammyCraigar | 12,011,302
 15 | SpookySYN | 11,957,067
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | GuyOne | 5,008,958
 32 | VIVOffical | 4,930,953
 33 | rikbona | 4,540,773
-34 | redzrex | 4,525,902
+34 | redzrex | 4,528,985
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,278,816
@@ -223,17 +223,17 @@ Rank | Username | Totals Tips
 220 | Sattack4000 | 250,837
 221 | thestonkinator | 249,330
 222 | Gregoryonetulum | 249,309
-223 | 4gsboofd | 244,377
-224 | the_judge_168 | 243,495
-225 | Significant_Talk4943 | 241,999
-226 | joeviani | 241,717
-227 | Truffle_Shuffle_85 | 238,641
-228 | MuhSound | 235,724
-229 | Zalkwalker | 235,069
-230 | alexthemay | 234,131
-231 | CoverYourMaskHoles | 229,708
-232 | Conetent | 228,993
-233 | TummyLice | 227,247
+223 | TummyLice | 247,247
+224 | 4gsboofd | 244,377
+225 | the_judge_168 | 243,495
+226 | Significant_Talk4943 | 241,999
+227 | joeviani | 241,717
+228 | Truffle_Shuffle_85 | 238,641
+229 | MuhSound | 235,724
+230 | Zalkwalker | 235,069
+231 | alexthemay | 234,131
+232 | CoverYourMaskHoles | 229,708
+233 | Conetent | 228,993
 234 | Ashamed_Raccoon9918 | 223,857
 235 | ShortBusCult | 222,130
 236 | SourBeefHoop | 217,512
