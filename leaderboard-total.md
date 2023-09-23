@@ -1,4 +1,4 @@
-Last updated: 23-09-23 07:15:33 UTC  
+Last updated: 23-09-23 07:23:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,238
 27 | Ginomania | 5,658,442
-28 | IveDoneItAtLast | 5,605,682
+28 | IveDoneItAtLast | 5,608,345
 29 | thelonliestcrowd | 5,550,753
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,008,958
@@ -168,7 +168,7 @@ Rank | Username | Totals Tips
 165 | unhingedbigfoot | 439,874
 166 | Mopeiooo | 437,268
 167 | LX1070 | 430,671
-168 | Complete-Tadpole-728 | 423,659
+168 | Complete-Tadpole-728 | 428,659
 169 | Lion-Hermit | 416,210
 170 | dronegeeks1 | 414,406
 171 | LrnFaroeseWthBergur | 409,488
