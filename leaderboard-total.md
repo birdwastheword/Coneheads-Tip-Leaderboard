@@ -1,4 +1,4 @@
-Last updated: 23-09-23 19:22:08 UTC  
+Last updated: 23-09-23 19:30:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,793,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
-22 | Puddin-Luv | 7,358,383
+22 | Puddin-Luv | 7,361,046
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,763,673
 25 | Real_Player_0 | 6,588,535
@@ -108,7 +108,7 @@ Rank | Username | Totals Tips
 105 | Bobisdeadrun | 869,015
 106 | orangesandonions | 859,682
 107 | formidable-opponent | 838,747
-108 | PortCity_MadMan | 832,218
+108 | PortCity_MadMan | 834,881
 109 | adrifing | 819,157
 110 | goldyluckinblokchain | 809,537
 111 | vbutarin | 802,000
