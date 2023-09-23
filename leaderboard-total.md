@@ -1,9 +1,9 @@
-Last updated: 23-09-23 23:16:50 UTC  
+Last updated: 23-09-23 23:25:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,745,141
+3 | nakamo-toe | 35,747,804
 4 | cutsickass | 31,208,855
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
@@ -29,12 +29,12 @@ Rank | Username | Totals Tips
 26 | HippieStarTraveler | 6,260,307
 27 | Ginomania | 5,662,525
 28 | IveDoneItAtLast | 5,648,804
-29 | thelonliestcrowd | 5,550,753
+29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,008,958
 32 | VIVOffical | 4,941,676
 33 | rikbona | 4,540,773
-34 | redzrex | 4,528,985
+34 | redzrex | 4,531,648
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,278,816
@@ -415,9 +415,9 @@ Rank | Username | Totals Tips
 412 | Outrageous_Storm6537 | 56,938
 413 | chuloreddit | 55,947
 414 | imbarrydylan | 55,689
-415 | mofayew | 54,829
-416 | Lucabba | 54,738
-417 | LaPantheRose | 54,623
+415 | LaPantheRose | 55,043
+416 | mofayew | 54,829
+417 | Lucabba | 54,738
 418 | SandersIncBV | 54,288
 419 | Brandillio | 54,271
 420 | ysnmingle | 54,204
