@@ -1,4 +1,4 @@
-Last updated: 23-09-23 20:30:55 UTC  
+Last updated: 23-09-23 20:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,763,673
 25 | Real_Player_0 | 6,588,535
-26 | HippieStarTraveler | 6,260,238
+26 | HippieStarTraveler | 6,260,307
 27 | Ginomania | 5,662,525
 28 | IveDoneItAtLast | 5,633,216
 29 | thelonliestcrowd | 5,550,753
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | Richicash | 2,271,863
 56 | Autom4tic_Soze | 2,236,291
 57 | 002_timmy | 2,059,494
-58 | investigator100 | 2,025,639
+58 | investigator100 | 2,028,302
 59 | 0-Give-a-fucks | 2,001,667
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,951,750
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | f0n1xr131ng | 509,681
 157 | AcceptableLeg8751 | 500,000
 158 | fettskull | 496,832
-159 | Bobby_Juk | 484,672
+159 | Bobby_Juk | 485,092
 160 | Lady_Lucks_Man | 482,403
 161 | stockyewok | 472,461
 162 | sinlesco | 465,153
@@ -187,8 +187,8 @@ Rank | Username | Totals Tips
 184 | tsudrat | 340,707
 185 | maxfra | 326,334
 186 | x52x | 324,929
-187 | DrThunderHandz | 322,452
-188 | 83nno | 321,927
+187 | 83nno | 324,590
+188 | DrThunderHandz | 322,452
 189 | AnduriII | 321,396
 190 | Chapo_1992 | 314,999
 191 | EffinDrongoC | 312,738
@@ -224,8 +224,8 @@ Rank | Username | Totals Tips
 221 | thestonkinator | 249,330
 222 | Gregoryonetulum | 249,309
 223 | TummyLice | 247,247
-224 | 4gsboofd | 244,377
-225 | the_judge_168 | 243,495
+224 | the_judge_168 | 246,158
+225 | 4gsboofd | 244,377
 226 | Significant_Talk4943 | 241,999
 227 | joeviani | 241,717
 228 | Truffle_Shuffle_85 | 238,641
@@ -444,7 +444,7 @@ Rank | Username | Totals Tips
 441 | FalloutAssasin | 46,574
 442 | Oue | 46,352
 443 | skatistic | 46,287
-444 | Historical-Lychee-34 | 45,507
+444 | Historical-Lychee-34 | 46,284
 445 | Drlitez | 45,436
 446 | SnooRevelations6751 | 45,420
 447 | NickkyDC | 45,379
