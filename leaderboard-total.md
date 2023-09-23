@@ -1,11 +1,11 @@
-Last updated: 23-09-23 06:50:37 UTC  
+Last updated: 23-09-23 07:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
 2 | Wonderful_Bad6531 | 36,369,410
 3 | nakamo-toe | 35,688,102
 4 | waterhasnocalories | 30,910,235
-5 | cutsickass | 30,334,859
+5 | cutsickass | 30,364,863
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,012,383
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,238
 27 | Ginomania | 5,658,442
-28 | IveDoneItAtLast | 5,605,074
+28 | IveDoneItAtLast | 5,605,682
 29 | thelonliestcrowd | 5,550,753
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,008,958
@@ -154,7 +154,7 @@ Rank | Username | Totals Tips
 151 | shreyaskg | 538,211
 152 | TubeNerd92 | 537,829
 153 | doktastonks | 533,988
-154 | rolonic | 516,239
+154 | rolonic | 516,308
 155 | Crypto-4-Freedom | 510,834
 156 | f0n1xr131ng | 509,681
 157 | AcceptableLeg8751 | 500,000
