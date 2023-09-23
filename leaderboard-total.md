@@ -1,4 +1,4 @@
-Last updated: 23-09-23 18:00:51 UTC  
+Last updated: 23-09-23 18:21:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,763,673
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,238
-27 | Ginomania | 5,661,525
+27 | Ginomania | 5,662,525
 28 | IveDoneItAtLast | 5,615,208
 29 | thelonliestcrowd | 5,550,753
 30 | send420nudes | 5,067,280
@@ -164,7 +164,7 @@ Rank | Username | Totals Tips
 161 | sinlesco | 465,153
 162 | Bobby_Juk | 464,252
 163 | WarmlyWacky | 462,118
-164 | Complete-Tadpole-728 | 455,937
+164 | Complete-Tadpole-728 | 456,357
 165 | MediaPrestigious8342 | 453,839
 166 | noface_reddit | 448,362
 167 | unhingedbigfoot | 439,874
@@ -568,7 +568,7 @@ Rank | Username | Totals Tips
 565 | TheChillDyl | 21,036
 566 | ipad_daps | 20,864
 567 | shootingeagleyt | 20,611
-568 | WiseDude69 | 20,475
+568 | WiseDude69 | 20,544
 569 | DLPD-Camko | 20,377
 570 | Ronitn | 20,284
 571 | Bear-Bull-Pig | 20,231
