@@ -1,4 +1,4 @@
-Last updated: 23-09-23 09:33:27 UTC  
+Last updated: 23-09-23 09:41:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
@@ -325,7 +325,7 @@ Rank | Username | Totals Tips
 322 | Chill_Edoeard | 102,923
 323 | ACorDC | 100,420
 324 | customsolitaires | 99,383
-325 | IHodlStill | 98,684
+325 | IHodlStill | 98,685
 326 | FeetAndHandFetish | 98,146
 327 | Knaeggebrott | 97,076
 328 | IOTA_Tesla | 96,607
