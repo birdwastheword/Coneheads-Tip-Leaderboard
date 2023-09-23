@@ -1,4 +1,4 @@
-Last updated: 23-09-23 08:30:40 UTC  
+Last updated: 23-09-23 08:40:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,202,126
@@ -163,7 +163,7 @@ Rank | Username | Totals Tips
 160 | stockyewok | 472,041
 161 | sinlesco | 465,153
 162 | WarmlyWacky | 462,118
-163 | Bobby_Juk | 459,143
+163 | Bobby_Juk | 459,563
 164 | MediaPrestigious8342 | 453,839
 165 | noface_reddit | 448,362
 166 | unhingedbigfoot | 439,874
