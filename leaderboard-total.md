@@ -1,10 +1,10 @@
-Last updated: 23-09-23 21:14:46 UTC  
+Last updated: 23-09-23 21:23:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,742,478
-4 | cutsickass | 31,058,855
+4 | cutsickass | 31,148,855
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
@@ -61,9 +61,9 @@ Rank | Username | Totals Tips
 58 | investigator100 | 2,028,302
 59 | 0-Give-a-fucks | 2,001,667
 60 | Affectionate_Hand_76 | 1,980,036
-61 | swampyswede | 1,951,750
+61 | swampyswede | 1,951,960
 62 | catlover-100 | 1,931,330
-63 | CMDRGlamdring | 1,909,125
+63 | CMDRGlamdring | 1,911,788
 64 | djrcollectables | 1,882,750
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,220
@@ -690,7 +690,7 @@ Rank | Username | Totals Tips
 687 | kekzilla59 | 9,655
 688 | makastrombini | 9,627
 689 | Elegant_Tale_3929 | 9,600
-690 | Mavis80 | 9,553
+690 | Mavis80 | 9,554
 691 | xSeekTruthx | 9,459
 692 | mmmohm | 9,363
 693 | Big_Beyotch | 9,318
