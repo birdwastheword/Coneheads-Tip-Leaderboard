@@ -1,4 +1,4 @@
-Last updated: 23-09-23 02:00:13 UTC  
+Last updated: 23-09-23 02:21:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,175,487
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,954,680
+14 | SammyCraigar | 11,981,310
 15 | SpookySYN | 11,699,364
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,278,816
 38 | DontLaughArt | 4,098,907
-39 | zdubs | 3,766,443
+39 | zdubs | 3,766,492
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,713,476
 42 | bray_martin03 | 3,510,891
