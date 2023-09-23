@@ -1,4 +1,4 @@
-Last updated: 23-09-23 14:50:30 UTC  
+Last updated: 23-09-23 15:00:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -367,11 +367,11 @@ Rank | Username | Totals Tips
 364 | mokkingjay | 77,914
 365 | HelicopterDear6064 | 77,619
 366 | Emeritux | 76,740
-367 | Heycheckthisout20 | 75,608
-368 | MedicineMaterial3501 | 74,654
-369 | Steadfast_Apparition | 74,506
-370 | pwan7505 | 73,893
-371 | Diamond_PnutBrain | 73,688
+367 | Diamond_PnutBrain | 76,351
+368 | Heycheckthisout20 | 75,608
+369 | MedicineMaterial3501 | 74,654
+370 | Steadfast_Apparition | 74,506
+371 | pwan7505 | 73,893
 372 | I_AM_MORE_BADASS | 73,121
 373 | LightninHooker | 72,890
 374 | adi_00_ | 71,759
@@ -459,7 +459,7 @@ Rank | Username | Totals Tips
 456 | dead-spiral | 42,069
 457 | ACE415_ | 42,069
 458 | PushyDevoIution | 41,695
-459 | Expensive_Being_4038 | 41,323
+459 | Expensive_Being_4038 | 41,392
 460 | madridgalactico | 41,231
 461 | HodLMania | 41,111
 462 | ARoyaleWithCheese | 41,000
