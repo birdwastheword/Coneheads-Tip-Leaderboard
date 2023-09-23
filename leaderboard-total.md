@@ -1,4 +1,4 @@
-Last updated: 23-09-23 12:55:04 UTC  
+Last updated: 23-09-23 13:09:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | Parush9 | 12,058,456
-14 | SammyCraigar | 11,983,642
+14 | SammyCraigar | 12,010,725
 15 | SpookySYN | 11,699,364
 16 | Permanent_WSB_Bull | 11,204,183
 17 | 8inchConer | 8,947,619
@@ -22,12 +22,12 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,793,379
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
-22 | Puddin-Luv | 7,352,637
+22 | Puddin-Luv | 7,353,057
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,763,673
 25 | Real_Player_0 | 6,588,535
 26 | HippieStarTraveler | 6,260,238
-27 | Ginomania | 5,661,105
+27 | Ginomania | 5,661,525
 28 | IveDoneItAtLast | 5,608,345
 29 | thelonliestcrowd | 5,550,753
 30 | send420nudes | 5,067,280
@@ -413,17 +413,17 @@ Rank | Username | Totals Tips
 410 | foreignGER | 57,622
 411 | Outrageous_Storm6537 | 56,938
 412 | chuloreddit | 55,947
-413 | imbarrydylan | 55,689
-414 | mofayew | 54,829
-415 | Lucabba | 54,738
-416 | LaPantheRose | 54,623
-417 | SandersIncBV | 54,288
-418 | Brandillio | 54,271
-419 | ysnmingle | 54,204
-420 | WarningKey6517 | 53,910
-421 | Astrochrono | 53,398
-422 | Jefe0457 | 53,368
-423 | losttraveler36 | 53,271
+413 | losttraveler36 | 55,934
+414 | imbarrydylan | 55,689
+415 | mofayew | 54,829
+416 | Lucabba | 54,738
+417 | LaPantheRose | 54,623
+418 | SandersIncBV | 54,288
+419 | Brandillio | 54,271
+420 | ysnmingle | 54,204
+421 | WarningKey6517 | 53,910
+422 | Astrochrono | 53,398
+423 | Jefe0457 | 53,368
 424 | Zezano | 52,679
 425 | abbasabba2 | 52,647
 426 | ky0984 | 52,257
