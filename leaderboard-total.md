@@ -1,10 +1,10 @@
-Last updated: 23-09-24 18:01:06 UTC  
+Last updated: 23-09-24 18:21:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,837,969
-4 | cutsickass | 31,661,518
+4 | cutsickass | 31,841,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,764,281
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,307
-27 | IveDoneItAtLast | 5,723,441
+27 | IveDoneItAtLast | 5,723,510
 28 | Ginomania | 5,665,188
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,075,818
