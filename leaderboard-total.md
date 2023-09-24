@@ -1,10 +1,10 @@
-Last updated: 23-09-24 19:30:44 UTC  
+Last updated: 23-09-24 19:40:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,864,599
-4 | cutsickass | 31,961,518
+4 | cutsickass | 32,021,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
@@ -195,8 +195,8 @@ Rank | Username | Totals Tips
 192 | pinkglue99 | 312,265
 193 | Lastkidpicked94 | 306,122
 194 | liwipe | 304,467
-195 | Adrewmc | 301,178
-196 | FluffyAspie | 300,928
+195 | FluffyAspie | 303,591
+196 | Adrewmc | 301,178
 197 | S2K08 | 300,676
 198 | VincentVanGTFO | 300,598
 199 | legionticket | 296,054
