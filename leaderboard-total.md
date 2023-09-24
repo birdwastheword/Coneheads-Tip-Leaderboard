@@ -1,4 +1,4 @@
-Last updated: 23-09-24 02:50:31 UTC  
+Last updated: 23-09-24 03:00:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | clean_cut89 | 3,713,476
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,481,906
-44 | ZukoBih | 3,455,696
+44 | ZukoBih | 3,456,304
 45 | Korean_Street_Pizza | 3,435,052
 46 | LordBobTheWhale | 3,337,785
 47 | evilninjarobot | 3,204,766
@@ -159,9 +159,9 @@ Rank | Username | Totals Tips
 156 | f0n1xr131ng | 509,681
 157 | AcceptableLeg8751 | 500,000
 158 | fettskull | 496,832
-159 | Bobby_Juk | 485,092
-160 | Lady_Lucks_Man | 482,403
-161 | Complete-Tadpole-728 | 479,198
+159 | Complete-Tadpole-728 | 493,353
+160 | Bobby_Juk | 485,092
+161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 472,461
 163 | sinlesco | 465,153
 164 | WarmlyWacky | 462,118
@@ -235,8 +235,8 @@ Rank | Username | Totals Tips
 232 | Overall-Extension608 | 233,738
 233 | CoverYourMaskHoles | 229,708
 234 | Conetent | 228,993
-235 | Ashamed_Raccoon9918 | 223,857
-236 | ShortBusCult | 223,346
+235 | ShortBusCult | 223,954
+236 | Ashamed_Raccoon9918 | 223,857
 237 | SourBeefHoop | 217,512
 238 | yahuurdme | 214,974
 239 | Beenthorny | 212,362
