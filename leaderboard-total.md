@@ -1,10 +1,10 @@
-Last updated: 23-09-24 18:40:33 UTC  
+Last updated: 23-09-24 18:50:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,837,969
-4 | cutsickass | 31,841,518
+3 | nakamo-toe | 35,864,599
+4 | cutsickass | 31,871,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
@@ -107,9 +107,9 @@ Rank | Username | Totals Tips
 104 | thee_monster | 896,765
 105 | Bobisdeadrun | 869,016
 106 | orangesandonions | 859,682
-107 | formidable-opponent | 838,747
-108 | PortCity_MadMan | 834,881
-109 | adrifing | 819,157
+107 | adrifing | 845,787
+108 | formidable-opponent | 838,747
+109 | PortCity_MadMan | 834,881
 110 | goldyluckinblokchain | 809,537
 111 | vbutarin | 802,000
 112 | RegalReptile_ | 801,619
@@ -257,10 +257,10 @@ Rank | Username | Totals Tips
 254 | nooobmaester69 | 183,460
 255 | ZeMadMan1 | 183,251
 256 | ruccarucca | 180,270
-257 | Jadenindubai | 176,764
-258 | sjakkpila | 175,766
-259 | phonebreaker8 | 174,769
-260 | SaberTurret | 174,174
+257 | SaberTurret | 176,837
+258 | Jadenindubai | 176,764
+259 | sjakkpila | 175,766
+260 | phonebreaker8 | 174,769
 261 | high5s_inureye | 173,714
 262 | YourThighsWarmMyEars | 172,697
 263 | Street_Addd | 171,939
