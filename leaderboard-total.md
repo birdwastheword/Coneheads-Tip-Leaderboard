@@ -1,9 +1,9 @@
-Last updated: 23-09-24 09:00:42 UTC  
+Last updated: 23-09-24 09:17:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,773,697
+3 | nakamo-toe | 35,779,023
 4 | cutsickass | 31,511,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
@@ -291,11 +291,11 @@ Rank | Username | Totals Tips
 288 | MorrisWayne | 133,416
 289 | GoodMornEveGoodNight | 131,088
 290 | Mj_6o4 | 129,568
-291 | Awake-- | 128,173
-292 | robnectar | 127,974
-293 | DeanDeanington | 127,267
-294 | CalligrapherEnough83 | 127,227
-295 | youtooleyesing | 125,771
+291 | youtooleyesing | 128,434
+292 | Awake-- | 128,173
+293 | robnectar | 127,974
+294 | DeanDeanington | 127,267
+295 | CalligrapherEnough83 | 127,227
 296 | Trakorr | 125,110
 297 | stupidcupid112 | 121,841
 298 | Sativa55555 | 121,550
