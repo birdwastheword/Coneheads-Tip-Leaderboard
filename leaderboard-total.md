@@ -1,4 +1,4 @@
-Last updated: 23-09-24 14:42:16 UTC  
+Last updated: 23-09-24 14:50:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -14,8 +14,8 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,077,888
-14 | Parush9 | 12,058,456
-15 | SpookySYN | 12,036,957
+14 | SpookySYN | 12,063,587
+15 | Parush9 | 12,058,456
 16 | Permanent_WSB_Bull | 11,204,183
 17 | avyun | 9,001,883
 18 | 8inchConer | 8,947,619
