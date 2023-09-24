@@ -1,4 +1,4 @@
-Last updated: 23-09-24 16:01:06 UTC  
+Last updated: 23-09-24 16:22:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | SpookySYN | 12,063,587
 15 | Parush9 | 12,058,456
 16 | Permanent_WSB_Bull | 11,204,183
-17 | avyun | 9,001,883
+17 | avyun | 9,101,883
 18 | 8inchConer | 8,947,619
 19 | ArtConsitent | 8,794,479
 20 | Homeslicekilla | 7,998,462
@@ -27,8 +27,8 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,764,281
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,307
-27 | IveDoneItAtLast | 5,722,833
-28 | Ginomania | 5,662,525
+27 | IveDoneItAtLast | 5,723,441
+28 | Ginomania | 5,665,188
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,014,283
@@ -603,11 +603,11 @@ Rank | Username | Totals Tips
 600 | SenseiRaheem | 16,379
 601 | deeeznotes | 16,235
 602 | Conflict63 | 16,063
-603 | giooo_tdm | 15,964
-604 | mraksmeet | 15,444
-605 | Zwott | 15,441
-606 | Mrmakanakai | 15,410
-607 | Rookslook | 15,359
+603 | Rookslook | 16,049
+604 | giooo_tdm | 15,964
+605 | mraksmeet | 15,444
+606 | Zwott | 15,441
+607 | Mrmakanakai | 15,410
 608 | Rake_wlkr | 15,330
 609 | froi203 | 15,315
 610 | Potstar1 | 15,215
