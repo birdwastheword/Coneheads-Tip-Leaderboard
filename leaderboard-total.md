@@ -1,4 +1,4 @@
-Last updated: 23-09-24 08:01:05 UTC  
+Last updated: 23-09-24 08:20:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -160,13 +160,13 @@ Rank | Username | Totals Tips
 157 | AcceptableLeg8751 | 500,000
 158 | fettskull | 496,832
 159 | Complete-Tadpole-728 | 495,453
-160 | Bobby_Juk | 485,092
+160 | Bobby_Juk | 485,512
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 472,461
 163 | sinlesco | 465,153
 164 | WarmlyWacky | 462,118
 165 | MediaPrestigious8342 | 453,839
-166 | noface_reddit | 451,025
+166 | noface_reddit | 453,688
 167 | unhingedbigfoot | 439,874
 168 | Mopeiooo | 437,368
 169 | LX1070 | 430,671
@@ -235,7 +235,7 @@ Rank | Username | Totals Tips
 232 | Overall-Extension608 | 233,738
 233 | CoverYourMaskHoles | 229,708
 234 | Conetent | 229,413
-235 | Ashamed_Raccoon9918 | 224,277
+235 | Ashamed_Raccoon9918 | 224,697
 236 | ShortBusCult | 223,954
 237 | SourBeefHoop | 217,512
 238 | yahuurdme | 214,974
