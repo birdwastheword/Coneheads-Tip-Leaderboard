@@ -1,4 +1,4 @@
-Last updated: 23-09-24 08:50:35 UTC  
+Last updated: 23-09-24 09:00:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,056,000
+8 | _ships | 18,062,080
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,124,576
 11 | transfermymoons | 13,771,858
@@ -157,8 +157,8 @@ Rank | Username | Totals Tips
 154 | rolonic | 516,377
 155 | Crypto-4-Freedom | 511,254
 156 | f0n1xr131ng | 509,681
-157 | AcceptableLeg8751 | 500,000
-158 | Complete-Tadpole-728 | 497,553
+157 | Complete-Tadpole-728 | 500,216
+158 | AcceptableLeg8751 | 500,000
 159 | fettskull | 496,832
 160 | Bobby_Juk | 485,512
 161 | Lady_Lucks_Man | 482,403
@@ -297,8 +297,8 @@ Rank | Username | Totals Tips
 294 | CalligrapherEnough83 | 127,227
 295 | youtooleyesing | 125,771
 296 | Trakorr | 125,110
-297 | Sativa55555 | 121,550
-298 | stupidcupid112 | 121,421
+297 | stupidcupid112 | 121,841
+298 | Sativa55555 | 121,550
 299 | lucivaryas | 121,420
 300 | beanwiggin420 | 120,800
 301 | Schl0tz | 120,000
