@@ -1,9 +1,9 @@
-Last updated: 23-09-24 09:25:36 UTC  
+Last updated: 23-09-24 09:34:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,781,686
+3 | nakamo-toe | 35,781,755
 4 | cutsickass | 31,511,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
@@ -530,10 +530,10 @@ Rank | Username | Totals Tips
 527 | ikiyen | 27,500
 528 | Flat_Opportunity_340 | 27,389
 529 | stspts | 27,379
-530 | Sparrow | 27,214
-531 | Practical-Store9603 | 27,028
-532 | deltamoney | 26,987
-533 | Qptimised | 26,611
+530 | Qptimised | 27,307
+531 | Sparrow | 27,214
+532 | Practical-Store9603 | 27,028
+533 | deltamoney | 26,987
 534 | DOGETHEEGOD | 26,580
 535 | Trelucatre | 26,469
 536 | Primary_Technical | 26,000
