@@ -1,4 +1,4 @@
-Last updated: 23-09-24 17:41:57 UTC  
+Last updated: 23-09-24 17:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | crypto_grandma | 14,147,402
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,079,273
+13 | SammyCraigar | 12,105,903
 14 | SpookySYN | 12,063,587
 15 | Parush9 | 12,058,456
 16 | Permanent_WSB_Bull | 11,204,183
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | IveDoneItAtLast | 5,723,441
 28 | Ginomania | 5,665,188
 29 | thelonliestcrowd | 5,580,053
-30 | send420nudes | 5,071,549
+30 | send420nudes | 5,075,818
 31 | GuyOne | 5,016,946
 32 | VIVOffical | 4,944,339
 33 | rikbona | 4,540,773
@@ -154,13 +154,13 @@ Rank | Username | Totals Tips
 151 | shreyaskg | 538,211
 152 | TubeNerd92 | 537,829
 153 | doktastonks | 533,988
-154 | Complete-Tadpole-728 | 518,848
+154 | Complete-Tadpole-728 | 519,268
 155 | rolonic | 516,377
 156 | Crypto-4-Freedom | 511,254
 157 | f0n1xr131ng | 509,681
 158 | AcceptableLeg8751 | 500,000
 159 | fettskull | 496,832
-160 | Bobby_Juk | 486,772
+160 | Bobby_Juk | 487,192
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 472,461
 163 | sinlesco | 465,153
@@ -185,7 +185,7 @@ Rank | Username | Totals Tips
 182 | Outrageous-Skill-464 | 344,174
 183 | anony666mous | 341,008
 184 | tsudrat | 340,707
-185 | 83nno | 335,242
+185 | 83nno | 337,905
 186 | maxfra | 326,334
 187 | x52x | 324,929
 188 | DrThunderHandz | 322,452
