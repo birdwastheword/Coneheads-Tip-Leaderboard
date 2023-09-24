@@ -1,9 +1,9 @@
-Last updated: 23-09-24 06:01:35 UTC  
+Last updated: 23-09-24 06:22:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,747,804
+3 | nakamo-toe | 35,773,697
 4 | cutsickass | 31,451,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
@@ -155,11 +155,11 @@ Rank | Username | Totals Tips
 152 | TubeNerd92 | 537,829
 153 | doktastonks | 533,988
 154 | rolonic | 516,377
-155 | Crypto-4-Freedom | 510,834
+155 | Crypto-4-Freedom | 511,254
 156 | f0n1xr131ng | 509,681
 157 | AcceptableLeg8751 | 500,000
 158 | fettskull | 496,832
-159 | Complete-Tadpole-728 | 493,773
+159 | Complete-Tadpole-728 | 495,033
 160 | Bobby_Juk | 485,092
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 472,461
@@ -379,9 +379,9 @@ Rank | Username | Totals Tips
 376 | CM19901 | 71,276
 377 | sparanaghcoar | 71,118
 378 | ElmerBlack | 70,850
-379 | Yoda975 | 70,123
-380 | Rush4Time | 70,079
-381 | Dazzling_Marzipan474 | 69,873
+379 | Dazzling_Marzipan474 | 70,293
+380 | Yoda975 | 70,123
+381 | Rush4Time | 70,079
 382 | Tapiz3land | 68,942
 383 | XBBlade | 67,901
 384 | Atorcran | 67,570
