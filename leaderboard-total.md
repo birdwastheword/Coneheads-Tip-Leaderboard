@@ -1,4 +1,4 @@
-Last updated: 23-09-24 19:40:26 UTC  
+Last updated: 23-09-24 19:50:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,764,281
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,307
-27 | IveDoneItAtLast | 5,724,118
+27 | IveDoneItAtLast | 5,729,444
 28 | Ginomania | 5,665,188
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,075,818
@@ -511,23 +511,23 @@ Rank | Username | Totals Tips
 508 | ClubbyTheCub | 30,885
 509 | rOn3OW | 30,714
 510 | masedogg98 | 30,547
-511 | -Boxen | 30,420
-512 | LoudlySoupy | 30,408
-513 | MaestroMustache | 30,152
-514 | Extension-Survey3014 | 30,000
-515 | Potential_Fix_5007 | 29,897
-516 | Practical-Store9603 | 29,691
-517 | Gilbertll | 29,585
-518 | BottleNcanClapUrHand | 29,321
-519 | Locid | 28,938
-520 | bentolman | 28,891
-521 | FoleyKali | 28,843
-522 | TheChillDyl | 28,425
-523 | Fictional_Blook | 28,143
-524 | Fomo- | 28,020
-525 | hvefe | 28,005
-526 | madisonfm | 27,934
-527 | 2620lukas | 27,837
+511 | 2620lukas | 30,500
+512 | -Boxen | 30,420
+513 | LoudlySoupy | 30,408
+514 | MaestroMustache | 30,152
+515 | Extension-Survey3014 | 30,000
+516 | Potential_Fix_5007 | 29,897
+517 | Practical-Store9603 | 29,691
+518 | Gilbertll | 29,585
+519 | BottleNcanClapUrHand | 29,321
+520 | Locid | 28,938
+521 | bentolman | 28,891
+522 | FoleyKali | 28,843
+523 | TheChillDyl | 28,425
+524 | Fictional_Blook | 28,143
+525 | Fomo- | 28,020
+526 | hvefe | 28,005
+527 | madisonfm | 27,934
 528 | ikiyen | 27,500
 529 | Flat_Opportunity_340 | 27,389
 530 | stspts | 27,379
