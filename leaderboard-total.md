@@ -1,4 +1,4 @@
-Last updated: 23-09-24 14:25:16 UTC  
+Last updated: 23-09-24 14:34:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -112,8 +112,8 @@ Rank | Username | Totals Tips
 109 | adrifing | 819,157
 110 | goldyluckinblokchain | 809,537
 111 | vbutarin | 802,000
-112 | na7oul | 800,000
-113 | RegalReptile_ | 798,956
+112 | RegalReptile_ | 801,619
+113 | na7oul | 800,000
 114 | Cravensworth_redux | 790,803
 115 | Westy3000 | 785,931
 116 | ziggybri | 783,883
