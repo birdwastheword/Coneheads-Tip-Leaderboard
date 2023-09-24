@@ -1,4 +1,4 @@
-Last updated: 23-09-24 03:18:11 UTC  
+Last updated: 23-09-24 03:30:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | IveDoneItAtLast | 5,651,887
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,067,280
-31 | GuyOne | 5,008,958
+31 | GuyOne | 5,011,621
 32 | VIVOffical | 4,941,676
 33 | rikbona | 4,540,773
 34 | redzrex | 4,531,648
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | investigator100 | 2,028,302
 59 | 0-Give-a-fucks | 2,001,667
 60 | Affectionate_Hand_76 | 1,980,036
-61 | swampyswede | 1,951,960
+61 | swampyswede | 1,952,170
 62 | catlover-100 | 1,931,330
 63 | CMDRGlamdring | 1,911,788
 64 | djrcollectables | 1,882,750
@@ -359,8 +359,8 @@ Rank | Username | Totals Tips
 356 | Bobocod | 81,577
 357 | mastermarvs | 80,384
 358 | XeroGrave | 80,069
-359 | Pwny_b0y | 79,447
-360 | Emeritux | 79,404
+359 | Emeritux | 80,012
+360 | Pwny_b0y | 79,447
 361 | TheOneWhoCared | 79,079
 362 | Significant-Bet5762 | 79,074
 363 | GodOfWarGuy737 | 79,069
