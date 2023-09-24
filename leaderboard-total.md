@@ -1,4 +1,4 @@
-Last updated: 23-09-24 05:50:35 UTC  
+Last updated: 23-09-24 06:01:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | f0n1xr131ng | 509,681
 157 | AcceptableLeg8751 | 500,000
 158 | fettskull | 496,832
-159 | Complete-Tadpole-728 | 493,353
+159 | Complete-Tadpole-728 | 493,773
 160 | Bobby_Juk | 485,092
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 472,461
