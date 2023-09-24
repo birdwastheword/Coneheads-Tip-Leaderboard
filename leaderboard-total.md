@@ -1,10 +1,10 @@
-Last updated: 23-09-24 18:50:32 UTC  
+Last updated: 23-09-24 19:00:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,864,599
-4 | cutsickass | 31,871,518
+4 | cutsickass | 31,931,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | Autom4tic_Soze | 2,236,291
 57 | 002_timmy | 2,059,494
 58 | investigator100 | 2,033,628
-59 | 0-Give-a-fucks | 2,002,087
+59 | 0-Give-a-fucks | 2,007,547
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,952,170
 62 | catlover-100 | 1,931,330
@@ -605,7 +605,7 @@ Rank | Username | Totals Tips
 602 | Conflict63 | 16,063
 603 | Rookslook | 16,049
 604 | giooo_tdm | 15,964
-605 | mraksmeet | 15,444
+605 | mraksmeet | 15,864
 606 | Zwott | 15,441
 607 | Mrmakanakai | 15,410
 608 | Rake_wlkr | 15,330
