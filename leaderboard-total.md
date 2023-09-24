@@ -1,4 +1,4 @@
-Last updated: 23-09-24 06:40:52 UTC  
+Last updated: 23-09-24 06:50:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | Richicash | 2,281,863
 56 | Autom4tic_Soze | 2,236,291
 57 | 002_timmy | 2,059,494
-58 | investigator100 | 2,028,302
+58 | investigator100 | 2,030,965
 59 | 0-Give-a-fucks | 2,001,667
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,952,170
@@ -922,9 +922,9 @@ Rank | Username | Totals Tips
 919 | Unlucky_Narwhal3983 | 1,765
 920 | DWBroodle | 1,709
 921 | PuzzleheadedDream830 | 1,650
-922 | Zues6921 | 1,627
-923 | MalicCarnage | 1,607
-924 | happily_unlawful | 1,576
+922 | happily_unlawful | 1,645
+923 | Zues6921 | 1,627
+924 | MalicCarnage | 1,607
 925 | Traditional-Figure99 | 1,569
 926 | Interesting-Chip-500 | 1,559
 927 | Ask_Ari | 1,544
