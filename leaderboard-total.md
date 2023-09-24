@@ -1,4 +1,4 @@
-Last updated: 23-09-24 18:21:46 UTC  
+Last updated: 23-09-24 18:30:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -32,14 +32,14 @@ Rank | Username | Totals Tips
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,075,818
 31 | GuyOne | 5,016,946
-32 | VIVOffical | 4,944,339
+32 | VIVOffical | 4,947,002
 33 | rikbona | 4,540,773
 34 | redzrex | 4,534,311
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,283,303
 38 | DontLaughArt | 4,194,233
-39 | zdubs | 3,766,994
+39 | zdubs | 3,767,602
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,734,648
 42 | bray_martin03 | 3,510,891
@@ -260,10 +260,10 @@ Rank | Username | Totals Tips
 257 | Jadenindubai | 176,764
 258 | sjakkpila | 175,766
 259 | phonebreaker8 | 174,769
-260 | high5s_inureye | 173,714
-261 | YourThighsWarmMyEars | 172,697
-262 | Street_Addd | 171,939
-263 | SaberTurret | 171,511
+260 | SaberTurret | 174,174
+261 | high5s_inureye | 173,714
+262 | YourThighsWarmMyEars | 172,697
+263 | Street_Addd | 171,939
 264 | MymannosaurusRex | 171,317
 265 | 192000Hertz | 168,424
 266 | MelonFarmer420 | 167,136
