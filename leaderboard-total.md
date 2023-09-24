@@ -1,9 +1,9 @@
-Last updated: 23-09-24 20:40:41 UTC  
+Last updated: 23-09-24 20:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,864,599
+3 | nakamo-toe | 35,867,262
 4 | cutsickass | 32,108,687
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
@@ -122,8 +122,8 @@ Rank | Username | Totals Tips
 119 | Obi1eyeKenobi | 730,328
 120 | Successful-Walk-3902 | 724,678
 121 | starterpack420694 | 710,420
-122 | DogSpark84 | 707,225
-123 | frickdom | 705,672
+122 | frickdom | 708,335
+123 | DogSpark84 | 707,225
 124 | WarmIyWacky | 703,049
 125 | Starterpack69420 | 696,969
 126 | abracadabra087 | 694,465
@@ -160,7 +160,7 @@ Rank | Username | Totals Tips
 157 | f0n1xr131ng | 509,681
 158 | AcceptableLeg8751 | 500,000
 159 | fettskull | 496,832
-160 | Bobby_Juk | 487,192
+160 | Bobby_Juk | 487,612
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 472,461
 163 | sinlesco | 465,153
