@@ -1,4 +1,4 @@
-Last updated: 23-09-24 16:32:15 UTC  
+Last updated: 23-09-24 16:40:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,952,170
 62 | catlover-100 | 1,931,330
-63 | CMDRGlamdring | 1,916,788
+63 | CMDRGlamdring | 1,919,451
 64 | djrcollectables | 1,882,750
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,220
@@ -165,7 +165,7 @@ Rank | Username | Totals Tips
 162 | stockyewok | 472,461
 163 | sinlesco | 465,153
 164 | WarmlyWacky | 462,118
-165 | noface_reddit | 456,351
+165 | noface_reddit | 461,677
 166 | MediaPrestigious8342 | 453,839
 167 | unhingedbigfoot | 439,874
 168 | Mopeiooo | 437,368
