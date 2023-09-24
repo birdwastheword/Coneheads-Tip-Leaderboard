@@ -1,4 +1,4 @@
-Last updated: 23-09-24 03:40:53 UTC  
+Last updated: 23-09-24 03:50:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,055,392
+8 | _ships | 18,056,000
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,124,576
 11 | transfermymoons | 13,771,858
@@ -910,11 +910,11 @@ Rank | Username | Totals Tips
 907 | kryptoNoob69420 | 2,000
 908 | CarbonInstinct | 2,000
 909 | Bubbly-Winner-5659 | 1,976
-910 | theRealVim | 1,930
-911 | lostaga1n | 1,927
-912 | lulatheq | 1,907
-913 | Pxtxr | 1,901
-914 | Elgato_TJ | 1,863
+910 | Elgato_TJ | 1,932
+911 | theRealVim | 1,930
+912 | lostaga1n | 1,927
+913 | lulatheq | 1,907
+914 | Pxtxr | 1,901
 915 | bricks_n_coins | 1,840
 916 | Cl0uds_Br0 | 1,820
 917 | virginia669 | 1,791
