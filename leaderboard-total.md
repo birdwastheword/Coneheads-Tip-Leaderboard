@@ -1,4 +1,4 @@
-Last updated: 23-09-24 03:30:42 UTC  
+Last updated: 23-09-24 03:40:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,794,479
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
-22 | Puddin-Luv | 7,366,372
+22 | Puddin-Luv | 7,369,035
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,764,281
 25 | Real_Player_0 | 6,598,535
@@ -353,13 +353,13 @@ Rank | Username | Totals Tips
 350 | Mother-Werewolf185 | 85,579
 351 | drche35 | 84,573
 352 | Puzzleheaded_Gift738 | 84,020
-353 | Admirito | 82,353
-354 | shellystarzz | 82,293
-355 | standArtpluto | 82,100
-356 | Bobocod | 81,577
-357 | mastermarvs | 80,384
-358 | XeroGrave | 80,069
-359 | Emeritux | 80,012
+353 | Emeritux | 82,676
+354 | Admirito | 82,353
+355 | shellystarzz | 82,293
+356 | standArtpluto | 82,100
+357 | Bobocod | 81,577
+358 | mastermarvs | 80,384
+359 | XeroGrave | 80,069
 360 | Pwny_b0y | 79,447
 361 | TheOneWhoCared | 79,079
 362 | Significant-Bet5762 | 79,074
@@ -471,8 +471,8 @@ Rank | Username | Totals Tips
 468 | babuba1234321 | 40,000
 469 | YourLocalDuskFox | 40,000
 470 | alex_si_davies | 39,965
-471 | AMAxyz | 39,775
-472 | Mortifer6 | 39,738
+471 | Mortifer6 | 39,807
+472 | AMAxyz | 39,775
 473 | waterincorporated | 39,428
 474 | sM0k3dR4Gn | 39,279
 475 | Styl_Ianos_ | 39,262
