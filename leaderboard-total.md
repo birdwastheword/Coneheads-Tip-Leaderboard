@@ -1,4 +1,4 @@
-Last updated: 23-09-24 15:42:17 UTC  
+Last updated: 23-09-24 15:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | crypto_grandma | 14,147,402
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,077,888
+13 | SammyCraigar | 12,078,665
 14 | SpookySYN | 12,063,587
 15 | Parush9 | 12,058,456
 16 | Permanent_WSB_Bull | 11,204,183
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,764,281
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,307
-27 | IveDoneItAtLast | 5,722,225
+27 | IveDoneItAtLast | 5,722,833
 28 | Ginomania | 5,662,525
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,067,280
