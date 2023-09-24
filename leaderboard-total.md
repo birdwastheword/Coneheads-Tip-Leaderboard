@@ -1,4 +1,4 @@
-Last updated: 23-09-24 19:13:47 UTC  
+Last updated: 23-09-24 19:22:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | DontLaughArt | 4,194,233
 39 | zdubs | 3,768,210
 40 | thom_orrow | 3,744,550
-41 | clean_cut89 | 3,734,648
+41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,482,326
 44 | ZukoBih | 3,456,304
