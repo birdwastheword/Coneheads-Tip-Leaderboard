@@ -1,10 +1,10 @@
-Last updated: 23-09-24 15:17:12 UTC  
+Last updated: 23-09-24 15:25:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,829,980
-4 | cutsickass | 31,601,518
+3 | nakamo-toe | 35,832,643
+4 | cutsickass | 31,661,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
@@ -41,11 +41,11 @@ Rank | Username | Totals Tips
 38 | DontLaughArt | 4,194,233
 39 | zdubs | 3,766,994
 40 | thom_orrow | 3,744,550
-41 | clean_cut89 | 3,713,476
+41 | clean_cut89 | 3,718,802
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,481,906
 44 | ZukoBih | 3,456,304
-45 | Korean_Street_Pizza | 3,435,052
+45 | Korean_Street_Pizza | 3,435,472
 46 | LordBobTheWhale | 3,337,785
 47 | evilninjarobot | 3,204,766
 48 | Dry_Badger_2403 | 3,193,857
@@ -604,15 +604,15 @@ Rank | Username | Totals Tips
 601 | deeeznotes | 16,235
 602 | Conflict63 | 16,063
 603 | giooo_tdm | 15,964
-604 | Zwott | 15,441
-605 | Mrmakanakai | 15,410
-606 | Rookslook | 15,359
-607 | Rake_wlkr | 15,330
-608 | froi203 | 15,315
-609 | Potstar1 | 15,215
-610 | Doublix | 15,074
-611 | imeme1969 | 15,070
-612 | mraksmeet | 15,024
+604 | mraksmeet | 15,444
+605 | Zwott | 15,441
+606 | Mrmakanakai | 15,410
+607 | Rookslook | 15,359
+608 | Rake_wlkr | 15,330
+609 | froi203 | 15,315
+610 | Potstar1 | 15,215
+611 | Doublix | 15,074
+612 | imeme1969 | 15,070
 613 | abbasabba260 | 14,773
 614 | Big_Bonus3617 | 14,763
 615 | redbasl | 14,643
