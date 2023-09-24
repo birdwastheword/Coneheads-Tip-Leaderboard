@@ -1,4 +1,4 @@
-Last updated: 23-09-24 17:01:05 UTC  
+Last updated: 23-09-24 17:16:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | Autom4tic_Soze | 2,236,291
 57 | 002_timmy | 2,059,494
 58 | investigator100 | 2,033,628
-59 | 0-Give-a-fucks | 2,001,667
+59 | 0-Give-a-fucks | 2,002,087
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,952,170
 62 | catlover-100 | 1,931,330
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | rolonic | 516,377
 155 | Crypto-4-Freedom | 511,254
 156 | f0n1xr131ng | 509,681
-157 | Complete-Tadpole-728 | 500,216
+157 | Complete-Tadpole-728 | 505,819
 158 | AcceptableLeg8751 | 500,000
 159 | fettskull | 496,832
 160 | Bobby_Juk | 486,772
@@ -441,7 +441,7 @@ Rank | Username | Totals Tips
 438 | sicilian2124 | 49,529
 439 | Levl1Critter | 49,152
 440 | halfavocadoemoji | 48,677
-441 | FalloutAssasin | 47,063
+441 | FalloutAssasin | 47,483
 442 | shredslanding | 46,650
 443 | Oue | 46,352
 444 | skatistic | 46,287
