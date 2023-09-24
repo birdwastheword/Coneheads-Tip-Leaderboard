@@ -1,10 +1,10 @@
-Last updated: 23-09-24 08:20:43 UTC  
+Last updated: 23-09-24 08:30:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,773,697
-4 | cutsickass | 31,481,518
+4 | cutsickass | 31,511,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
@@ -158,8 +158,8 @@ Rank | Username | Totals Tips
 155 | Crypto-4-Freedom | 511,254
 156 | f0n1xr131ng | 509,681
 157 | AcceptableLeg8751 | 500,000
-158 | fettskull | 496,832
-159 | Complete-Tadpole-728 | 495,453
+158 | Complete-Tadpole-728 | 497,133
+159 | fettskull | 496,832
 160 | Bobby_Juk | 485,512
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 472,461
