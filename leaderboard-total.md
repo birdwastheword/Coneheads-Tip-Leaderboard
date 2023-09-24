@@ -1,4 +1,4 @@
-Last updated: 23-09-24 21:40:33 UTC  
+Last updated: 23-09-24 21:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -701,17 +701,17 @@ Rank | Username | Totals Tips
 698 | cptnkook | 9,241
 699 | undefined-account | 9,126
 700 | Ddoublewhopper | 9,126
-701 | Shraier | 9,103
-702 | akemicariocaer | 9,092
-703 | Otherwise_Assist_34 | 9,083
-704 | 69BoJack69 | 9,003
-705 | Ancient_Summer_1833 | 9,001
-706 | Coeruleus_ | 8,985
-707 | ElegantShelter7947 | 8,881
-708 | Duckeis | 8,873
-709 | ad5xlh | 8,830
-710 | NEO_R1CH | 8,699
-711 | BreadfruitIll4265 | 8,608
+701 | BreadfruitIll4265 | 9,108
+702 | Shraier | 9,103
+703 | akemicariocaer | 9,092
+704 | Otherwise_Assist_34 | 9,083
+705 | 69BoJack69 | 9,003
+706 | Ancient_Summer_1833 | 9,001
+707 | Coeruleus_ | 8,985
+708 | ElegantShelter7947 | 8,881
+709 | Duckeis | 8,873
+710 | ad5xlh | 8,830
+711 | NEO_R1CH | 8,699
 712 | TSC4 | 8,600
 713 | TNJCrypto | 8,468
 714 | 1-760-706-7425 | 8,272
