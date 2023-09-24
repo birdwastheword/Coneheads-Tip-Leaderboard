@@ -1,9 +1,9 @@
-Last updated: 23-09-24 09:34:16 UTC  
+Last updated: 23-09-24 09:42:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,781,755
+3 | nakamo-toe | 35,787,150
 4 | cutsickass | 31,511,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,307
 27 | Ginomania | 5,662,525
-28 | IveDoneItAtLast | 5,651,887
+28 | IveDoneItAtLast | 5,654,550
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,011,621
@@ -620,10 +620,10 @@ Rank | Username | Totals Tips
 617 | mixmasterpayne | 14,547
 618 | cole-badger | 14,269
 619 | theycallmekimpembe | 14,037
-620 | TamilPunk | 13,754
-621 | osoese | 13,680
-622 | mantrakid | 13,644
-623 | Snek-Life | 13,449
+620 | Snek-Life | 13,869
+621 | TamilPunk | 13,754
+622 | osoese | 13,680
+623 | mantrakid | 13,644
 624 | couchguitar | 13,330
 625 | zahrawins | 13,329
 626 | Diamond_Hands420 | 13,277
