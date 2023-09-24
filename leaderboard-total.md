@@ -1,10 +1,10 @@
-Last updated: 23-09-24 19:50:37 UTC  
+Last updated: 23-09-24 20:01:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,864,599
-4 | cutsickass | 32,021,518
+4 | cutsickass | 32,081,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,764,281
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,307
-27 | IveDoneItAtLast | 5,729,444
+27 | IveDoneItAtLast | 5,732,107
 28 | Ginomania | 5,665,188
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,075,818
@@ -597,17 +597,17 @@ Rank | Username | Totals Tips
 594 | OutrageousStudy6752 | 17,087
 595 | Sebanimation | 17,073
 596 | leviathynx | 16,901
-597 | MantisToboggan66 | 16,437
-598 | ipsole | 16,425
-599 | Fr3sh-Ch3mical | 16,393
-600 | SenseiRaheem | 16,379
-601 | mraksmeet | 16,284
-602 | deeeznotes | 16,235
-603 | Conflict63 | 16,063
-604 | Rookslook | 16,049
-605 | giooo_tdm | 15,964
-606 | Zwott | 15,441
-607 | Mrmakanakai | 15,410
+597 | Mrmakanakai | 16,721
+598 | MantisToboggan66 | 16,437
+599 | ipsole | 16,425
+600 | Fr3sh-Ch3mical | 16,393
+601 | SenseiRaheem | 16,379
+602 | mraksmeet | 16,284
+603 | deeeznotes | 16,235
+604 | Conflict63 | 16,063
+605 | Rookslook | 16,049
+606 | giooo_tdm | 15,964
+607 | Zwott | 15,441
 608 | Rake_wlkr | 15,330
 609 | froi203 | 15,315
 610 | Potstar1 | 15,215
