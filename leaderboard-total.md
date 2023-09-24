@@ -1,4 +1,4 @@
-Last updated: 23-09-24 11:50:50 UTC  
+Last updated: 23-09-24 12:07:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -160,7 +160,7 @@ Rank | Username | Totals Tips
 157 | Complete-Tadpole-728 | 500,216
 158 | AcceptableLeg8751 | 500,000
 159 | fettskull | 496,832
-160 | Bobby_Juk | 486,352
+160 | Bobby_Juk | 486,772
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 472,461
 163 | sinlesco | 465,153
@@ -229,10 +229,10 @@ Rank | Username | Totals Tips
 226 | Significant_Talk4943 | 241,999
 227 | joeviani | 241,717
 228 | Truffle_Shuffle_85 | 238,641
-229 | MuhSound | 235,724
-230 | Zalkwalker | 235,069
-231 | alexthemay | 234,131
-232 | Overall-Extension608 | 233,738
+229 | Overall-Extension608 | 236,401
+230 | MuhSound | 235,724
+231 | Zalkwalker | 235,069
+232 | alexthemay | 234,131
 233 | CoverYourMaskHoles | 229,708
 234 | Conetent | 229,413
 235 | Ashamed_Raccoon9918 | 224,697
@@ -268,7 +268,7 @@ Rank | Username | Totals Tips
 265 | MelonFarmer420 | 167,136
 266 | DamnWhySoLow | 166,675
 267 | 192000Hertz | 165,761
-268 | ItailianStallion101 | 162,988
+268 | ItailianStallion101 | 165,651
 269 | Clonkerz | 158,075
 270 | martymartinator | 155,223
 271 | 6reficul | 153,884
@@ -642,9 +642,9 @@ Rank | Username | Totals Tips
 639 | No-Success-8681 | 12,663
 640 | norjayy | 12,653
 641 | FixFull | 12,501
-642 | Dapper_Bloke88 | 12,451
-643 | noah1754 | 12,435
-644 | TheyAskWho | 12,389
+642 | TheyAskWho | 12,500
+643 | Dapper_Bloke88 | 12,451
+644 | noah1754 | 12,435
 645 | wesleylyan | 12,257
 646 | ZeusDubstep | 12,050
 647 | bageren | 12,038
