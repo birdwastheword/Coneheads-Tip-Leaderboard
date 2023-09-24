@@ -1,10 +1,10 @@
-Last updated: 23-09-24 19:00:43 UTC  
+Last updated: 23-09-24 19:13:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,864,599
-4 | cutsickass | 31,931,518
+4 | cutsickass | 31,961,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,794,479
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
-22 | Puddin-Luv | 7,371,698
+22 | Puddin-Luv | 7,374,361
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,764,281
 25 | Real_Player_0 | 6,598,535
@@ -601,11 +601,11 @@ Rank | Username | Totals Tips
 598 | ipsole | 16,425
 599 | Fr3sh-Ch3mical | 16,393
 600 | SenseiRaheem | 16,379
-601 | deeeznotes | 16,235
-602 | Conflict63 | 16,063
-603 | Rookslook | 16,049
-604 | giooo_tdm | 15,964
-605 | mraksmeet | 15,864
+601 | mraksmeet | 16,284
+602 | deeeznotes | 16,235
+603 | Conflict63 | 16,063
+604 | Rookslook | 16,049
+605 | giooo_tdm | 15,964
 606 | Zwott | 15,441
 607 | Mrmakanakai | 15,410
 608 | Rake_wlkr | 15,330
