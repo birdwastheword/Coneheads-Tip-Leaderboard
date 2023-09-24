@@ -1,4 +1,4 @@
-Last updated: 23-09-24 08:30:54 UTC  
+Last updated: 23-09-24 08:40:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,710,453
 51 | ZoomLong | 2,641,251
-52 | ImAlekBan | 2,604,586
+52 | ImAlekBan | 2,607,249
 53 | _Royal_Insylum | 2,603,787
 54 | possibili-teas | 2,405,515
 55 | Richicash | 2,281,863
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | Crypto-4-Freedom | 511,254
 156 | f0n1xr131ng | 509,681
 157 | AcceptableLeg8751 | 500,000
-158 | Complete-Tadpole-728 | 497,133
+158 | Complete-Tadpole-728 | 497,553
 159 | fettskull | 496,832
 160 | Bobby_Juk | 485,512
 161 | Lady_Lucks_Man | 482,403
