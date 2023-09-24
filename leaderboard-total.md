@@ -1,4 +1,4 @@
-Last updated: 23-09-24 22:40:45 UTC  
+Last updated: 23-09-24 22:50:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -154,7 +154,7 @@ Rank | Username | Totals Tips
 151 | shreyaskg | 538,211
 152 | TubeNerd92 | 537,829
 153 | doktastonks | 533,988
-154 | Complete-Tadpole-728 | 525,014
+154 | Complete-Tadpole-728 | 530,340
 155 | rolonic | 516,377
 156 | Crypto-4-Freedom | 511,254
 157 | f0n1xr131ng | 509,681
@@ -523,8 +523,8 @@ Rank | Username | Totals Tips
 520 | BottleNcanClapUrHand | 29,321
 521 | Locid | 28,938
 522 | bentolman | 28,891
-523 | FoleyKali | 28,843
-524 | TheChillDyl | 28,425
+523 | TheChillDyl | 28,845
+524 | FoleyKali | 28,843
 525 | Fictional_Blook | 28,143
 526 | Fomo- | 28,020
 527 | hvefe | 28,005
