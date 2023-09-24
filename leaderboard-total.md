@@ -1,10 +1,10 @@
-Last updated: 23-09-24 04:30:45 UTC  
+Last updated: 23-09-24 04:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,747,804
-4 | cutsickass | 31,298,855
+4 | cutsickass | 31,451,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
@@ -17,8 +17,8 @@ Rank | Username | Totals Tips
 14 | SammyCraigar | 12,048,595
 15 | SpookySYN | 12,010,327
 16 | Permanent_WSB_Bull | 11,204,183
-17 | 8inchConer | 8,947,619
-18 | avyun | 8,901,883
+17 | avyun | 9,001,883
+18 | 8inchConer | 8,947,619
 19 | ArtConsitent | 8,794,479
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
@@ -74,7 +74,7 @@ Rank | Username | Totals Tips
 71 | Ten-Mins-Late | 1,709,893
 72 | LongCauliflower6791 | 1,657,531
 73 | GooderZBK | 1,617,267
-74 | ultra_terrestrial | 1,547,768
+74 | ultra_terrestrial | 1,548,188
 75 | Own_Ad_4269 | 1,475,023
 76 | ValiantJudge29500 | 1,441,264
 77 | YarOldeOrchard | 1,438,286
@@ -118,8 +118,8 @@ Rank | Username | Totals Tips
 115 | Westy3000 | 785,931
 116 | ziggybri | 783,883
 117 | cannainform2 | 773,077
-118 | Obi1eyeKenobi | 730,328
-119 | dopelifer09 | 729,720
+118 | dopelifer09 | 732,383
+119 | Obi1eyeKenobi | 730,328
 120 | Successful-Walk-3902 | 724,070
 121 | starterpack420694 | 710,420
 122 | DogSpark84 | 707,225
@@ -235,8 +235,8 @@ Rank | Username | Totals Tips
 232 | Overall-Extension608 | 233,738
 233 | CoverYourMaskHoles | 229,708
 234 | Conetent | 228,993
-235 | ShortBusCult | 223,954
-236 | Ashamed_Raccoon9918 | 223,857
+235 | Ashamed_Raccoon9918 | 224,277
+236 | ShortBusCult | 223,954
 237 | SourBeefHoop | 217,512
 238 | yahuurdme | 214,974
 239 | Beenthorny | 212,362
