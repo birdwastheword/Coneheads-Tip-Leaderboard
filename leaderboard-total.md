@@ -1,4 +1,4 @@
-Last updated: 23-09-24 13:30:40 UTC  
+Last updated: 23-09-24 13:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -641,8 +641,8 @@ Rank | Username | Totals Tips
 638 | nullcomplex | 12,663
 639 | No-Success-8681 | 12,663
 640 | norjayy | 12,653
-641 | FixFull | 12,501
-642 | TheyAskWho | 12,500
+641 | TheyAskWho | 12,611
+642 | FixFull | 12,501
 643 | Dapper_Bloke88 | 12,451
 644 | noah1754 | 12,435
 645 | wesleylyan | 12,257
