@@ -1,4 +1,4 @@
-Last updated: 23-09-24 14:50:35 UTC  
+Last updated: 23-09-24 15:00:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,070,711
 9 | ConeDesk | 17,947,653
-10 | crypto_grandma | 14,140,810
+10 | crypto_grandma | 14,145,079
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,077,888
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,011,621
-32 | VIVOffical | 4,941,676
+32 | VIVOffical | 4,944,339
 33 | rikbona | 4,540,773
 34 | redzrex | 4,534,311
 35 | bigbilly1234567899 | 4,496,042
@@ -441,8 +441,8 @@ Rank | Username | Totals Tips
 438 | sicilian2124 | 49,529
 439 | Levl1Critter | 49,152
 440 | halfavocadoemoji | 48,677
-441 | shredslanding | 46,650
-442 | FalloutAssasin | 46,574
+441 | FalloutAssasin | 47,063
+442 | shredslanding | 46,650
 443 | Oue | 46,352
 444 | skatistic | 46,287
 445 | Historical-Lychee-34 | 46,284
