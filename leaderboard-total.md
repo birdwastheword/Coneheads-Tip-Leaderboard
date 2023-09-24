@@ -1,4 +1,4 @@
-Last updated: 23-09-24 14:00:50 UTC  
+Last updated: 23-09-24 14:16:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,070,711
 9 | ConeDesk | 17,947,653
-10 | crypto_grandma | 14,131,518
+10 | crypto_grandma | 14,140,810
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,077,888
@@ -22,12 +22,12 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,794,479
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
-22 | Puddin-Luv | 7,369,035
+22 | Puddin-Luv | 7,371,698
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,764,281
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,307
-27 | IveDoneItAtLast | 5,693,913
+27 | IveDoneItAtLast | 5,694,761
 28 | Ginomania | 5,662,525
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,067,280
@@ -185,9 +185,9 @@ Rank | Username | Totals Tips
 182 | Outrageous-Skill-464 | 344,174
 183 | anony666mous | 341,008
 184 | tsudrat | 340,707
-185 | maxfra | 326,334
-186 | x52x | 324,929
-187 | 83nno | 324,590
+185 | 83nno | 335,242
+186 | maxfra | 326,334
+187 | x52x | 324,929
 188 | DrThunderHandz | 322,452
 189 | AnduriII | 321,396
 190 | Chapo_1992 | 315,419
@@ -265,9 +265,9 @@ Rank | Username | Totals Tips
 262 | Street_Addd | 171,939
 263 | SaberTurret | 171,511
 264 | MymannosaurusRex | 171,317
-265 | MelonFarmer420 | 167,136
-266 | DamnWhySoLow | 166,675
-267 | 192000Hertz | 165,761
+265 | 192000Hertz | 168,424
+266 | MelonFarmer420 | 167,136
+267 | DamnWhySoLow | 166,675
 268 | ItailianStallion101 | 165,651
 269 | Clonkerz | 158,075
 270 | martymartinator | 155,223
