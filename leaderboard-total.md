@@ -1,4 +1,4 @@
-Last updated: 23-09-24 04:50:35 UTC  
+Last updated: 23-09-24 05:01:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -488,20 +488,20 @@ Rank | Username | Totals Tips
 485 | Imalittlestitious86 | 37,090
 486 | degree-01 | 36,486
 487 | genesis_crazy_one | 36,237
-488 | SirPesoOtaku | 35,144
-489 | TRANZHUMANIST | 35,069
-490 | Big-Researcher-3855 | 35,019
-491 | CatastrophicSpecter | 34,176
-492 | BelowAveIntelligence | 34,132
-493 | Obvious-Ask-5747 | 33,806
-494 | PoDunkYuppie | 33,513
-495 | keyoh321 | 33,397
-496 | Gerboogler | 33,314
-497 | See0tter | 33,242
-498 | xxapplej4ckx | 33,181
-499 | redditavatar555 | 32,875
-500 | himthecool21 | 32,647
-501 | mbashs | 32,167
+488 | mbashs | 36,030
+489 | SirPesoOtaku | 35,144
+490 | TRANZHUMANIST | 35,069
+491 | Big-Researcher-3855 | 35,019
+492 | CatastrophicSpecter | 34,176
+493 | BelowAveIntelligence | 34,132
+494 | Obvious-Ask-5747 | 33,806
+495 | PoDunkYuppie | 33,513
+496 | keyoh321 | 33,397
+497 | Gerboogler | 33,314
+498 | See0tter | 33,242
+499 | xxapplej4ckx | 33,181
+500 | redditavatar555 | 32,875
+501 | himthecool21 | 32,647
 502 | n00b1shm4n | 32,159
 503 | Originalibb | 32,157
 504 | mihii12 | 31,378
