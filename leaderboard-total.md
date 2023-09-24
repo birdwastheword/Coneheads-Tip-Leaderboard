@@ -1,9 +1,9 @@
-Last updated: 23-09-24 15:25:20 UTC  
+Last updated: 23-09-24 15:33:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,832,643
+3 | nakamo-toe | 35,835,306
 4 | cutsickass | 31,661,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | DontLaughArt | 4,194,233
 39 | zdubs | 3,766,994
 40 | thom_orrow | 3,744,550
-41 | clean_cut89 | 3,718,802
+41 | clean_cut89 | 3,728,802
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,481,906
 44 | ZukoBih | 3,456,304
