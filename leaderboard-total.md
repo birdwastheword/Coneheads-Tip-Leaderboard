@@ -1,4 +1,4 @@
-Last updated: 23-09-24 22:01:02 UTC  
+Last updated: 23-09-24 22:17:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,070,711
+8 | _ships | 18,076,791
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,147,402
 11 | transfermymoons | 13,771,858
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,075,818
 31 | GuyOne | 5,016,946
-32 | VIVOffical | 4,949,665
+32 | VIVOffical | 4,952,328
 33 | rikbona | 4,540,773
 34 | redzrex | 4,534,311
 35 | bigbilly1234567899 | 4,496,042
@@ -154,7 +154,7 @@ Rank | Username | Totals Tips
 151 | shreyaskg | 538,211
 152 | TubeNerd92 | 537,829
 153 | doktastonks | 533,988
-154 | Complete-Tadpole-728 | 521,931
+154 | Complete-Tadpole-728 | 525,014
 155 | rolonic | 516,377
 156 | Crypto-4-Freedom | 511,254
 157 | f0n1xr131ng | 509,681
@@ -495,20 +495,20 @@ Rank | Username | Totals Tips
 492 | CatastrophicSpecter | 34,176
 493 | BelowAveIntelligence | 34,132
 494 | Obvious-Ask-5747 | 33,806
-495 | PoDunkYuppie | 33,513
-496 | keyoh321 | 33,397
-497 | Gerboogler | 33,314
-498 | See0tter | 33,242
-499 | xxapplej4ckx | 33,181
-500 | redditavatar555 | 32,875
-501 | himthecool21 | 32,647
-502 | n00b1shm4n | 32,159
-503 | Originalibb | 32,157
-504 | mihii12 | 31,378
-505 | OutTop | 31,069
-506 | Jo2Bax | 31,041
-507 | riceboi3789 | 31,000
-508 | Ronitn | 30,936
+495 | Ronitn | 33,599
+496 | PoDunkYuppie | 33,513
+497 | keyoh321 | 33,397
+498 | Gerboogler | 33,314
+499 | See0tter | 33,242
+500 | xxapplej4ckx | 33,181
+501 | redditavatar555 | 32,875
+502 | himthecool21 | 32,647
+503 | n00b1shm4n | 32,159
+504 | Originalibb | 32,157
+505 | mihii12 | 31,378
+506 | OutTop | 31,069
+507 | Jo2Bax | 31,041
+508 | riceboi3789 | 31,000
 509 | ClubbyTheCub | 30,885
 510 | rOn3OW | 30,714
 511 | masedogg98 | 30,547
