@@ -1,4 +1,4 @@
-Last updated: 23-09-24 12:07:52 UTC  
+Last updated: 23-09-24 12:37:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | crypto_grandma | 14,124,576
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,075,225
+13 | SammyCraigar | 12,077,888
 14 | Parush9 | 12,058,456
 15 | SpookySYN | 12,010,327
 16 | Permanent_WSB_Bull | 11,204,183
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,764,281
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,307
-27 | IveDoneItAtLast | 5,691,250
+27 | IveDoneItAtLast | 5,693,913
 28 | Ginomania | 5,662,525
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,067,280
@@ -63,7 +63,7 @@ Rank | Username | Totals Tips
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,952,170
 62 | catlover-100 | 1,931,330
-63 | CMDRGlamdring | 1,911,788
+63 | CMDRGlamdring | 1,916,788
 64 | djrcollectables | 1,882,750
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,220
@@ -263,8 +263,8 @@ Rank | Username | Totals Tips
 260 | high5s_inureye | 173,714
 261 | YourThighsWarmMyEars | 172,697
 262 | Street_Addd | 171,939
-263 | MymannosaurusRex | 171,317
-264 | SaberTurret | 168,848
+263 | SaberTurret | 171,511
+264 | MymannosaurusRex | 171,317
 265 | MelonFarmer420 | 167,136
 266 | DamnWhySoLow | 166,675
 267 | 192000Hertz | 165,761
