@@ -1,10 +1,10 @@
-Last updated: 23-09-24 06:50:46 UTC  
+Last updated: 23-09-24 07:00:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,773,697
-4 | cutsickass | 31,451,518
+4 | cutsickass | 31,481,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
@@ -139,8 +139,8 @@ Rank | Username | Totals Tips
 136 | femacampcouncilor | 645,475
 137 | crodbtc | 642,527
 138 | slirpo | 631,180
-139 | superlonelyboy | 611,557
-140 | RazPie | 610,644
+139 | RazPie | 613,307
+140 | superlonelyboy | 611,557
 141 | __PDS__ | 595,709
 142 | El_Gordone | 592,784
 143 | Burzzzt88 | 592,627
