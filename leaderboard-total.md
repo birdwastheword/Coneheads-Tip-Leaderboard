@@ -1,14 +1,14 @@
-Last updated: 23-09-24 10:40:38 UTC  
+Last updated: 23-09-24 10:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,820,106
-4 | cutsickass | 31,541,518
+4 | cutsickass | 31,571,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,069,858
+8 | _ships | 18,070,711
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,124,576
 11 | transfermymoons | 13,771,858
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,882,750
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,220
-67 | Lillica_Golden_SHIB | 1,845,567
+67 | Lillica_Golden_SHIB | 1,845,705
 68 | dealkhabari | 1,767,162
 69 | Iulian_TechNewb | 1,717,286
 70 | KONGXIANG | 1,715,609
