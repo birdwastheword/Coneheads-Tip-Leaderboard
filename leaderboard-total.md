@@ -1,4 +1,4 @@
-Last updated: 23-09-24 06:30:54 UTC  
+Last updated: 23-09-24 06:40:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -89,7 +89,7 @@ Rank | Username | Totals Tips
 86 | pythonskynet | 1,146,793
 87 | beastlybaker | 1,138,701
 88 | nichnotnick | 1,103,821
-89 | Allions1 | 1,100,737
+89 | Allions1 | 1,103,442
 90 | ID404_Not_Found_8964 | 1,066,725
 91 | UniversalNoobMaster | 1,056,369
 92 | ashketchup422 | 1,042,067
@@ -275,9 +275,9 @@ Rank | Username | Totals Tips
 272 | NotFullyTerrestrial | 151,302
 273 | Nxnng | 151,195
 274 | satoshi_oscar_wilde | 150,078
-275 | BitcoinRefuge | 148,181
-276 | jamjam794 | 147,342
-277 | wato4000 | 146,018
+275 | wato4000 | 148,681
+276 | BitcoinRefuge | 148,181
+277 | jamjam794 | 147,342
 278 | Doovs | 143,983
 279 | Sad_Entertainer9961 | 143,248
 280 | Legal-Appointment655 | 142,592
@@ -652,11 +652,11 @@ Rank | Username | Totals Tips
 649 | gnarlypoop | 11,924
 650 | charlythesecond | 11,794
 651 | Hofmaurerad | 11,711
-652 | masstransience | 11,623
-653 | reddit_saltyaf | 11,603
-654 | IndependenceHungry69 | 11,561
-655 | Nugacity5 | 11,499
-656 | allisonovo | 11,346
+652 | allisonovo | 11,679
+653 | masstransience | 11,623
+654 | reddit_saltyaf | 11,603
+655 | IndependenceHungry69 | 11,561
+656 | Nugacity5 | 11,499
 657 | Fit_Win_541 | 11,327
 658 | This_Red_Apple | 11,260
 659 | Most_Border_3917 | 11,129
