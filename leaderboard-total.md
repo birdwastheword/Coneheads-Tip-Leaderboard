@@ -1,4 +1,4 @@
-Last updated: 23-09-24 17:16:22 UTC  
+Last updated: 23-09-24 17:25:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | crypto_grandma | 14,147,402
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,078,665
+13 | SammyCraigar | 12,079,273
 14 | SpookySYN | 12,063,587
 15 | Parush9 | 12,058,456
 16 | Permanent_WSB_Bull | 11,204,183
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | IveDoneItAtLast | 5,723,441
 28 | Ginomania | 5,665,188
 29 | thelonliestcrowd | 5,580,053
-30 | send420nudes | 5,067,280
+30 | send420nudes | 5,071,549
 31 | GuyOne | 5,016,946
 32 | VIVOffical | 4,944,339
 33 | rikbona | 4,540,773
@@ -41,7 +41,7 @@ Rank | Username | Totals Tips
 38 | DontLaughArt | 4,194,233
 39 | zdubs | 3,766,994
 40 | thom_orrow | 3,744,550
-41 | clean_cut89 | 3,728,802
+41 | clean_cut89 | 3,731,465
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,481,906
 44 | ZukoBih | 3,456,304
@@ -155,9 +155,9 @@ Rank | Username | Totals Tips
 152 | TubeNerd92 | 537,829
 153 | doktastonks | 533,988
 154 | rolonic | 516,377
-155 | Crypto-4-Freedom | 511,254
-156 | f0n1xr131ng | 509,681
-157 | Complete-Tadpole-728 | 505,819
+155 | Complete-Tadpole-728 | 513,665
+156 | Crypto-4-Freedom | 511,254
+157 | f0n1xr131ng | 509,681
 158 | AcceptableLeg8751 | 500,000
 159 | fettskull | 496,832
 160 | Bobby_Juk | 486,772
