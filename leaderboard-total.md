@@ -1,4 +1,4 @@
-Last updated: 23-09-24 04:01:06 UTC  
+Last updated: 23-09-24 04:21:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -564,7 +564,7 @@ Rank | Username | Totals Tips
 561 | DrD_D | 21,929
 562 | Matth3w_95 | 21,820
 563 | tiger1647 | 21,759
-564 | Flamingo777 | 21,608
+564 | Flamingo777 | 21,719
 565 | Tasty_Bag | 21,384
 566 | RamboBalboa21 | 21,083
 567 | ipad_daps | 20,864
