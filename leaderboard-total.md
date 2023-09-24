@@ -1,14 +1,14 @@
-Last updated: 23-09-24 09:51:01 UTC  
+Last updated: 23-09-24 10:00:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,816,443
+3 | nakamo-toe | 35,820,106
 4 | cutsickass | 31,511,518
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,062,080
+8 | _ships | 18,069,857
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,124,576
 11 | transfermymoons | 13,771,858
@@ -27,8 +27,8 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,764,281
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,307
-27 | Ginomania | 5,662,525
-28 | IveDoneItAtLast | 5,657,213
+27 | IveDoneItAtLast | 5,665,202
+28 | Ginomania | 5,662,525
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,067,280
 31 | GuyOne | 5,011,621
@@ -819,17 +819,17 @@ Rank | Username | Totals Tips
 816 | nathanroberts14 | 4,000
 817 | Puzzleheaded_Popup | 4,000
 818 | Soil_Electronic | 3,975
-819 | Dreadaussie | 3,920
-820 | OisinT | 3,779
-821 | carsonthecarsinogen | 3,769
-822 | final_lionel | 3,767
-823 | salt_yaf | 3,706
-824 | Niksa2007 | 3,688
-825 | chwick | 3,630
-826 | Gelato_33 | 3,628
-827 | Medfried | 3,561
-828 | _echnaton | 3,504
-829 | WeaselJCD | 3,503
+819 | WeaselJCD | 3,923
+820 | Dreadaussie | 3,920
+821 | OisinT | 3,779
+822 | carsonthecarsinogen | 3,769
+823 | final_lionel | 3,767
+824 | salt_yaf | 3,706
+825 | Niksa2007 | 3,688
+826 | chwick | 3,630
+827 | Gelato_33 | 3,628
+828 | Medfried | 3,561
+829 | _echnaton | 3,504
 830 | raulcras5 | 3,502
 831 | JJJaxMax | 3,475
 832 | Mrcoolguynumberone | 3,420
