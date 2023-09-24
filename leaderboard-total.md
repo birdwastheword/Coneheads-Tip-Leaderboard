@@ -1,7 +1,7 @@
-Last updated: 23-09-24 07:00:59 UTC  
+Last updated: 23-09-24 07:15:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 40,228,756
+1 | Bitdream200K | 40,255,386
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,773,697
 4 | cutsickass | 31,481,518
@@ -89,7 +89,7 @@ Rank | Username | Totals Tips
 86 | pythonskynet | 1,146,793
 87 | beastlybaker | 1,138,701
 88 | nichnotnick | 1,103,821
-89 | Allions1 | 1,103,442
+89 | Allions1 | 1,103,511
 90 | ID404_Not_Found_8964 | 1,066,725
 91 | UniversalNoobMaster | 1,056,369
 92 | ashketchup422 | 1,042,067
