@@ -1,4 +1,4 @@
-Last updated: 23-09-24 15:00:58 UTC  
+Last updated: 23-09-24 15:17:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,070,711
 9 | ConeDesk | 17,947,653
-10 | crypto_grandma | 14,145,079
+10 | crypto_grandma | 14,147,402
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,077,888
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | Ginomania | 5,662,525
 29 | thelonliestcrowd | 5,580,053
 30 | send420nudes | 5,067,280
-31 | GuyOne | 5,011,621
+31 | GuyOne | 5,014,283
 32 | VIVOffical | 4,944,339
 33 | rikbona | 4,540,773
 34 | redzrex | 4,534,311
@@ -516,23 +516,23 @@ Rank | Username | Totals Tips
 513 | MaestroMustache | 30,152
 514 | Extension-Survey3014 | 30,000
 515 | Potential_Fix_5007 | 29,897
-516 | Gilbertll | 29,585
-517 | BottleNcanClapUrHand | 29,321
-518 | Locid | 28,938
-519 | bentolman | 28,891
-520 | FoleyKali | 28,843
-521 | TheChillDyl | 28,425
-522 | Fictional_Blook | 28,143
-523 | Fomo- | 28,020
-524 | hvefe | 28,005
-525 | madisonfm | 27,934
-526 | 2620lukas | 27,837
-527 | ikiyen | 27,500
-528 | Flat_Opportunity_340 | 27,389
-529 | stspts | 27,379
-530 | Qptimised | 27,307
-531 | Sparrow | 27,214
-532 | Practical-Store9603 | 27,028
+516 | Practical-Store9603 | 29,691
+517 | Gilbertll | 29,585
+518 | BottleNcanClapUrHand | 29,321
+519 | Locid | 28,938
+520 | bentolman | 28,891
+521 | FoleyKali | 28,843
+522 | TheChillDyl | 28,425
+523 | Fictional_Blook | 28,143
+524 | Fomo- | 28,020
+525 | hvefe | 28,005
+526 | madisonfm | 27,934
+527 | 2620lukas | 27,837
+528 | ikiyen | 27,500
+529 | Flat_Opportunity_340 | 27,389
+530 | stspts | 27,379
+531 | Qptimised | 27,307
+532 | Sparrow | 27,214
 533 | deltamoney | 26,987
 534 | DOGETHEEGOD | 26,580
 535 | Trelucatre | 26,469
@@ -778,7 +778,7 @@ Rank | Username | Totals Tips
 775 | Carretje | 5,606
 776 | Makaveli4Sheez | 5,569
 777 | DioDilemma | 5,545
-778 | unacceptable_name25 | 5,464
+778 | unacceptable_name25 | 5,533
 779 | LATech99 | 5,463
 780 | Independent_Safe1351 | 5,352
 781 | GlumDreamer | 5,326
