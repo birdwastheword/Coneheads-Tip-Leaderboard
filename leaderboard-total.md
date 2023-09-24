@@ -1,4 +1,4 @@
-Last updated: 23-09-24 17:50:52 UTC  
+Last updated: 23-09-24 18:01:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -145,7 +145,7 @@ Rank | Username | Totals Tips
 142 | El_Gordone | 592,784
 143 | Burzzzt88 | 592,627
 144 | Independent_Heart_15 | 578,825
-145 | Ninja_Vagabond | 575,847
+145 | Ninja_Vagabond | 578,510
 146 | AustinTX1985 | 571,526
 147 | cryotosensei | 571,262
 148 | Dripbot8 | 559,035
@@ -592,11 +592,11 @@ Rank | Username | Totals Tips
 589 | augustsIippedaway | 17,739
 590 | PRYCDaddy | 17,718
 591 | omfglauren | 17,676
-592 | Steves1982 | 17,284
-593 | OutrageousStudy6752 | 17,087
-594 | Sebanimation | 17,073
-595 | leviathynx | 16,901
-596 | NSFWCryptoPosting | 16,866
+592 | NSFWCryptoPosting | 17,286
+593 | Steves1982 | 17,284
+594 | OutrageousStudy6752 | 17,087
+595 | Sebanimation | 17,073
+596 | leviathynx | 16,901
 597 | MantisToboggan66 | 16,437
 598 | ipsole | 16,425
 599 | Fr3sh-Ch3mical | 16,393
