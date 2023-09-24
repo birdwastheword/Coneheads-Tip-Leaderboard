@@ -1,4 +1,4 @@
-Last updated: 23-09-24 03:50:29 UTC  
+Last updated: 23-09-24 04:01:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,228,756
@@ -203,7 +203,7 @@ Rank | Username | Totals Tips
 200 | send_tacoz | 293,576
 201 | MadScientistTheFirst | 290,469
 202 | dinoyeti | 287,544
-203 | deedopete | 285,361
+203 | deedopete | 286,138
 204 | tjex666 | 283,221
 205 | astro_nut_ | 280,463
 206 | Flimsy_Brilliant_239 | 280,444
