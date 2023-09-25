@@ -1,4 +1,4 @@
-Last updated: 23-09-25 16:50:43 UTC  
+Last updated: 23-09-25 17:01:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -258,7 +258,7 @@ Rank | Username | Totals Tips
 255 | nooobmaester69 | 183,460
 256 | ZeMadMan1 | 183,251
 257 | ruccarucca | 180,270
-258 | SaberTurret | 176,837
+258 | SaberTurret | 177,643
 259 | Jadenindubai | 176,764
 260 | sjakkpila | 175,766
 261 | high5s_inureye | 173,714
