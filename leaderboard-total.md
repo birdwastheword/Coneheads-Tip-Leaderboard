@@ -1,9 +1,9 @@
-Last updated: 23-09-25 11:00:49 UTC  
+Last updated: 23-09-25 11:15:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,888,652
+3 | nakamo-toe | 35,891,315
 4 | cutsickass | 32,108,687
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
@@ -441,7 +441,7 @@ Rank | Username | Totals Tips
 438 | sicilian2124 | 49,529
 439 | Levl1Critter | 49,152
 440 | halfavocadoemoji | 48,677
-441 | FalloutAssasin | 47,483
+441 | FalloutAssasin | 47,552
 442 | shredslanding | 46,650
 443 | Oue | 46,352
 444 | skatistic | 46,287
