@@ -1,9 +1,9 @@
-Last updated: 23-09-25 16:01:03 UTC  
+Last updated: 23-09-25 16:25:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,917,208
+3 | nakamo-toe | 35,940,428
 4 | cutsickass | 32,108,687
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
@@ -13,8 +13,8 @@ Rank | Username | Totals Tips
 10 | crypto_grandma | 14,155,871
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
-13 | SpookySYN | 12,240,217
-14 | SammyCraigar | 12,132,533
+13 | SammyCraigar | 12,398,833
+14 | SpookySYN | 12,340,217
 15 | Parush9 | 12,058,456
 16 | Permanent_WSB_Bull | 11,204,183
 17 | avyun | 9,271,303
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | HippieStarTraveler | 6,260,307
 27 | IveDoneItAtLast | 5,745,842
 28 | Ginomania | 5,665,188
-29 | thelonliestcrowd | 5,580,053
+29 | thelonliestcrowd | 5,582,716
 30 | send420nudes | 5,080,087
 31 | GuyOne | 5,019,609
 32 | VIVOffical | 4,952,328
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,283,303
-38 | DontLaughArt | 4,198,229
+38 | DontLaughArt | 4,200,892
 39 | zdubs | 3,768,210
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,737,311
@@ -264,7 +264,7 @@ Rank | Username | Totals Tips
 261 | high5s_inureye | 173,714
 262 | YourThighsWarmMyEars | 172,697
 263 | Street_Addd | 171,939
-264 | MymannosaurusRex | 171,317
+264 | MymannosaurusRex | 171,737
 265 | 192000Hertz | 168,424
 266 | MelonFarmer420 | 167,136
 267 | DamnWhySoLow | 166,675
