@@ -1,4 +1,4 @@
-Last updated: 23-09-25 08:28:38 UTC  
+Last updated: 23-09-25 08:40:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -19,7 +19,7 @@ Rank | Username | Totals Tips
 16 | Permanent_WSB_Bull | 11,204,183
 17 | avyun | 9,101,883
 18 | 8inchConer | 8,947,619
-19 | ArtConsitent | 8,794,479
+19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
 22 | Puddin-Luv | 7,379,687
