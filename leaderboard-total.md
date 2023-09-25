@@ -1,9 +1,9 @@
-Last updated: 23-09-25 12:09:34 UTC  
+Last updated: 23-09-25 12:43:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,914,545
+3 | nakamo-toe | 35,917,208
 4 | cutsickass | 32,108,687
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | IveDoneItAtLast | 5,740,516
 28 | Ginomania | 5,665,188
 29 | thelonliestcrowd | 5,580,053
-30 | send420nudes | 5,075,818
+30 | send420nudes | 5,080,087
 31 | GuyOne | 5,019,609
 32 | VIVOffical | 4,952,328
 33 | rikbona | 4,540,773
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,882,750
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,220
-67 | Lillica_Golden_SHIB | 1,845,843
+67 | Lillica_Golden_SHIB | 1,845,981
 68 | dealkhabari | 1,767,162
 69 | KONGXIANG | 1,718,942
 70 | Iulian_TechNewb | 1,717,286
@@ -160,7 +160,7 @@ Rank | Username | Totals Tips
 157 | f0n1xr131ng | 509,681
 158 | AcceptableLeg8751 | 500,000
 159 | fettskull | 496,832
-160 | Bobby_Juk | 489,292
+160 | Bobby_Juk | 489,712
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 473,301
 163 | sinlesco | 465,153
@@ -411,7 +411,7 @@ Rank | Username | Totals Tips
 408 | losttraveler36 | 58,597
 409 | Yirii | 58,382
 410 | Trink333 | 58,338
-411 | phrodreky | 58,192
+411 | phrodreky | 58,261
 412 | Dottore_Bettore | 57,917
 413 | foreignGER | 57,622
 414 | Outrageous_Storm6537 | 56,938
@@ -453,15 +453,15 @@ Rank | Username | Totals Tips
 450 | acfranks | 45,083
 451 | Name_Trikolon | 45,002
 452 | Cyber-Cafe | 44,584
-453 | Kilv3r | 44,021
-454 | ShadowKnight324 | 43,986
-455 | Coneboy2663 | 43,852
-456 | halfABsinC | 43,285
-457 | dead-spiral | 42,069
-458 | ACE415_ | 42,069
-459 | Expensive_Being_4038 | 41,812
-460 | PushyDevoIution | 41,695
-461 | Ronitn | 41,588
+453 | Ronitn | 44,251
+454 | Kilv3r | 44,021
+455 | ShadowKnight324 | 43,986
+456 | Coneboy2663 | 43,852
+457 | halfABsinC | 43,285
+458 | dead-spiral | 42,069
+459 | ACE415_ | 42,069
+460 | Expensive_Being_4038 | 41,812
+461 | PushyDevoIution | 41,695
 462 | madridgalactico | 41,231
 463 | GuronT | 41,167
 464 | Motor-breath8 | 41,134
@@ -822,9 +822,9 @@ Rank | Username | Totals Tips
 819 | Soil_Electronic | 3,975
 820 | WeaselJCD | 3,923
 821 | Dreadaussie | 3,920
-822 | OisinT | 3,779
-823 | carsonthecarsinogen | 3,769
-824 | final_lionel | 3,767
+822 | final_lionel | 3,890
+823 | OisinT | 3,779
+824 | carsonthecarsinogen | 3,769
 825 | salt_yaf | 3,706
 826 | Niksa2007 | 3,688
 827 | chwick | 3,630
