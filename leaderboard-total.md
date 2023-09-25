@@ -1,4 +1,4 @@
-Last updated: 23-09-25 20:01:09 UTC  
+Last updated: 23-09-25 20:19:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | Crypto-4-Freedom | 512,094
 157 | f0n1xr131ng | 509,681
 158 | AcceptableLeg8751 | 500,000
-159 | Bobby_Juk | 497,692
+159 | Bobby_Juk | 498,532
 160 | fettskull | 496,832
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 473,301
@@ -819,8 +819,8 @@ Rank | Username | Totals Tips
 816 | Lazy_Staff4893 | 4,000
 817 | nathanroberts14 | 4,000
 818 | Puzzleheaded_Popup | 4,000
-819 | Soil_Electronic | 3,975
-820 | WeaselJCD | 3,923
+819 | WeaselJCD | 3,992
+820 | Soil_Electronic | 3,975
 821 | Dreadaussie | 3,920
 822 | final_lionel | 3,890
 823 | OisinT | 3,779
@@ -896,12 +896,12 @@ Rank | Username | Totals Tips
 893 | Far_Movie_6595 | 2,248
 894 | ODoyles_Banana | 2,226
 895 | Digdaga | 2,216
-896 | A_Dancing_Coder | 2,207
-897 | ElderberryOk469 | 2,178
-898 | Kazu4ya | 2,147
-899 | VeryStone | 2,116
-900 | Skulltwister | 2,080
-901 | Elgato_TJ | 2,070
+896 | Elgato_TJ | 2,208
+897 | A_Dancing_Coder | 2,207
+898 | ElderberryOk469 | 2,178
+899 | Kazu4ya | 2,147
+900 | VeryStone | 2,116
+901 | Skulltwister | 2,080
 902 | BarelyReaddit | 2,069
 903 | OkAbbreviations3451 | 2,069
 904 | towntoglfeddfxyxxx | 2,027
