@@ -1,4 +1,4 @@
-Last updated: 23-09-25 06:44:20 UTC  
+Last updated: 23-09-25 06:52:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -477,17 +477,17 @@ Rank | Username | Totals Tips
 474 | sM0k3dR4Gn | 39,279
 475 | Styl_Ianos_ | 39,262
 476 | kanem87 | 39,187
-477 | mutinomonem | 38,823
-478 | chaud3r | 38,290
-479 | lovenets_ | 38,182
-480 | rowdy1212 | 38,129
-481 | samer109 | 38,042
-482 | onetrueSage | 37,633
-483 | shitwhenismycakeday | 37,409
-484 | redditisalt | 37,307
-485 | Imalittlestitious86 | 37,090
-486 | degree-01 | 36,486
-487 | Ronitn | 36,262
+477 | Ronitn | 38,925
+478 | mutinomonem | 38,823
+479 | chaud3r | 38,290
+480 | lovenets_ | 38,182
+481 | rowdy1212 | 38,129
+482 | samer109 | 38,042
+483 | onetrueSage | 37,633
+484 | shitwhenismycakeday | 37,409
+485 | redditisalt | 37,307
+486 | Imalittlestitious86 | 37,090
+487 | degree-01 | 36,486
 488 | genesis_crazy_one | 36,237
 489 | mbashs | 36,030
 490 | SirPesoOtaku | 35,144
