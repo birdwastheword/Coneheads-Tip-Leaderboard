@@ -1,4 +1,4 @@
-Last updated: 23-09-25 10:22:36 UTC  
+Last updated: 23-09-25 10:33:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -718,21 +718,21 @@ Rank | Username | Totals Tips
 715 | shityougrin | 8,265
 716 | Handsome_Gourd | 8,242
 717 | 0xboi | 8,237
-718 | East_Key_5930 | 8,150
-719 | Nyarlatotep781 | 8,147
-720 | gacu-gacu | 8,105
-721 | JAK0M0VIN0 | 8,097
-722 | TheConeHodler | 8,090
-723 | PalpitationSecure660 | 8,055
-724 | Erikiller06 | 8,039
-725 | crypto-indian | 8,013
-726 | Torporific1 | 8,006
-727 | ryker_69 | 8,005
-728 | Primetimemongrel | 8,001
-729 | asmuth | 8,000
-730 | Strict_Berry366 | 7,880
-731 | quaker-goats | 7,834
-732 | doctorwho_cares | 7,778
+718 | doctorwho_cares | 8,198
+719 | East_Key_5930 | 8,150
+720 | Nyarlatotep781 | 8,147
+721 | gacu-gacu | 8,105
+722 | JAK0M0VIN0 | 8,097
+723 | TheConeHodler | 8,090
+724 | PalpitationSecure660 | 8,055
+725 | Erikiller06 | 8,039
+726 | crypto-indian | 8,013
+727 | Torporific1 | 8,006
+728 | ryker_69 | 8,005
+729 | Primetimemongrel | 8,001
+730 | asmuth | 8,000
+731 | Strict_Berry366 | 7,880
+732 | quaker-goats | 7,834
 733 | mronki | 7,737
 734 | Happy-Cheeseface | 7,724
 735 | isthisanavatar | 7,709
