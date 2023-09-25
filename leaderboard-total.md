@@ -1,4 +1,4 @@
-Last updated: 23-09-25 15:50:29 UTC  
+Last updated: 23-09-25 16:01:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -47,7 +47,7 @@ Rank | Username | Totals Tips
 44 | Korean_Street_Pizza | 3,465,472
 45 | ZukoBih | 3,456,304
 46 | LordBobTheWhale | 3,337,785
-47 | evilninjarobot | 3,204,766
+47 | evilninjarobot | 3,207,429
 48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
 50 | Fenrir-1919 | 2,710,453
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,882,750
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,728
-67 | Lillica_Golden_SHIB | 1,845,981
+67 | Lillica_Golden_SHIB | 1,846,119
 68 | dealkhabari | 1,767,162
 69 | KONGXIANG | 1,718,942
 70 | Iulian_TechNewb | 1,717,286
@@ -144,7 +144,7 @@ Rank | Username | Totals Tips
 141 | __PDS__ | 595,709
 142 | El_Gordone | 592,784
 143 | Burzzzt88 | 592,627
-144 | Ninja_Vagabond | 581,173
+144 | Ninja_Vagabond | 583,836
 145 | Independent_Heart_15 | 578,825
 146 | Complete-Tadpole-728 | 574,781
 147 | AustinTX1985 | 571,526
@@ -220,12 +220,12 @@ Rank | Username | Totals Tips
 217 | thecrabdad | 256,177
 218 | Ambitious-Minimum-80 | 252,035
 219 | BeardedBro_ | 251,710
-220 | Sattack4000 | 250,837
-221 | thestonkinator | 249,330
-222 | Gregoryonetulum | 249,309
-223 | TummyLice | 247,247
-224 | 4gsboofd | 247,040
-225 | the_judge_168 | 246,158
+220 | the_judge_168 | 251,484
+221 | Sattack4000 | 250,837
+222 | thestonkinator | 249,330
+223 | Gregoryonetulum | 249,309
+224 | TummyLice | 247,247
+225 | 4gsboofd | 247,040
 226 | Significant_Talk4943 | 241,999
 227 | joeviani | 241,717
 228 | Truffle_Shuffle_85 | 238,641
