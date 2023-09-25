@@ -1,4 +1,4 @@
-Last updated: 23-09-25 03:20:58 UTC  
+Last updated: 23-09-25 03:30:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -907,12 +907,12 @@ Rank | Username | Totals Tips
 904 | ArrivalWrong7289 | 2,027
 905 | deadlyruckas | 2,019
 906 | CeramicDrip | 2,006
-907 | totheMoonCity | 2,000
-908 | imhoneynow | 2,000
-909 | kryptoNoob69420 | 2,000
-910 | CarbonInstinct | 2,000
-911 | Bubbly-Winner-5659 | 1,976
-912 | Elgato_TJ | 1,932
+907 | Elgato_TJ | 2,001
+908 | totheMoonCity | 2,000
+909 | imhoneynow | 2,000
+910 | kryptoNoob69420 | 2,000
+911 | CarbonInstinct | 2,000
+912 | Bubbly-Winner-5659 | 1,976
 913 | theRealVim | 1,930
 914 | lostaga1n | 1,927
 915 | lulatheq | 1,907
