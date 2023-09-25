@@ -1,4 +1,4 @@
-Last updated: 23-09-25 04:22:24 UTC  
+Last updated: 23-09-25 04:31:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,088,197
+8 | _ships | 18,094,277
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,155,871
 11 | transfermymoons | 13,771,858
@@ -146,9 +146,9 @@ Rank | Username | Totals Tips
 143 | Burzzzt88 | 592,627
 144 | Ninja_Vagabond | 581,173
 145 | Independent_Heart_15 | 578,825
-146 | AustinTX1985 | 571,526
-147 | cryotosensei | 571,262
-148 | Complete-Tadpole-728 | 570,009
+146 | Complete-Tadpole-728 | 574,361
+147 | AustinTX1985 | 571,526
+148 | cryotosensei | 571,262
 149 | Dripbot8 | 559,035
 150 | StepAsideSuckers | 543,358
 151 | scientifichistorian | 539,560
@@ -160,7 +160,7 @@ Rank | Username | Totals Tips
 157 | f0n1xr131ng | 509,681
 158 | AcceptableLeg8751 | 500,000
 159 | fettskull | 496,832
-160 | Bobby_Juk | 488,032
+160 | Bobby_Juk | 488,452
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 472,461
 163 | sinlesco | 465,153
