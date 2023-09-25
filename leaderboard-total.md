@@ -1,4 +1,4 @@
-Last updated: 23-09-25 10:33:21 UTC  
+Last updated: 23-09-25 10:41:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -712,13 +712,13 @@ Rank | Username | Totals Tips
 709 | Duckeis | 8,873
 710 | ad5xlh | 8,830
 711 | NEO_R1CH | 8,699
-712 | TSC4 | 8,600
-713 | TNJCrypto | 8,468
-714 | 1-760-706-7425 | 8,272
-715 | shityougrin | 8,265
-716 | Handsome_Gourd | 8,242
-717 | 0xboi | 8,237
-718 | doctorwho_cares | 8,198
+712 | doctorwho_cares | 8,618
+713 | TSC4 | 8,600
+714 | TNJCrypto | 8,468
+715 | 1-760-706-7425 | 8,272
+716 | shityougrin | 8,265
+717 | Handsome_Gourd | 8,242
+718 | 0xboi | 8,237
 719 | East_Key_5930 | 8,150
 720 | Nyarlatotep781 | 8,147
 721 | gacu-gacu | 8,105
