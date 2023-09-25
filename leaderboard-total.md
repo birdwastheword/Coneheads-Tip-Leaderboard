@@ -1,4 +1,4 @@
-Last updated: 23-09-25 05:30:49 UTC  
+Last updated: 23-09-25 05:40:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -275,7 +275,7 @@ Rank | Username | Totals Tips
 272 | NotFullyTerrestrial | 151,302
 273 | Nxnng | 151,195
 274 | satoshi_oscar_wilde | 150,078
-275 | wato4000 | 148,681
+275 | wato4000 | 149,101
 276 | BitcoinRefuge | 148,181
 277 | jamjam794 | 147,342
 278 | Doovs | 143,983
