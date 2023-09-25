@@ -1,4 +1,4 @@
-Last updated: 23-09-25 11:41:15 UTC  
+Last updated: 23-09-25 11:50:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,283,303
-38 | DontLaughArt | 4,197,562
+38 | DontLaughArt | 4,198,228
 39 | zdubs | 3,768,210
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,737,311
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,882,750
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,220
-67 | Lillica_Golden_SHIB | 1,845,774
+67 | Lillica_Golden_SHIB | 1,845,843
 68 | dealkhabari | 1,767,162
 69 | KONGXIANG | 1,718,942
 70 | Iulian_TechNewb | 1,717,286
