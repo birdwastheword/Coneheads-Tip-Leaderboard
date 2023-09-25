@@ -1,4 +1,4 @@
-Last updated: 23-09-24 23:51:12 UTC  
+Last updated: 23-09-25 00:24:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,393,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,076,791
+8 | _ships | 18,079,454
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,147,402
 11 | transfermymoons | 13,771,858
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,794,479
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
-22 | Puddin-Luv | 7,374,361
+22 | Puddin-Luv | 7,379,687
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,764,281
 25 | Real_Player_0 | 6,598,535
@@ -193,7 +193,7 @@ Rank | Username | Totals Tips
 190 | Chapo_1992 | 315,419
 191 | EffinDrongoC | 312,738
 192 | pinkglue99 | 312,265
-193 | Lastkidpicked94 | 306,122
+193 | Lastkidpicked94 | 308,785
 194 | liwipe | 304,467
 195 | FluffyAspie | 303,591
 196 | Adrewmc | 301,178
@@ -775,7 +775,7 @@ Rank | Username | Totals Tips
 772 | theBarefootedBastard | 5,896
 773 | Sir_Mobius_Mook | 5,840
 774 | aPandox | 5,695
-775 | Carretje | 5,606
+775 | Carretje | 5,692
 776 | Makaveli4Sheez | 5,569
 777 | DioDilemma | 5,545
 778 | unacceptable_name25 | 5,533
