@@ -1,4 +1,4 @@
-Last updated: 23-09-25 15:30:48 UTC  
+Last updated: 23-09-25 15:40:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -33,12 +33,12 @@ Rank | Username | Totals Tips
 30 | send420nudes | 5,080,087
 31 | GuyOne | 5,019,609
 32 | VIVOffical | 4,952,328
-33 | rikbona | 4,540,773
-34 | redzrex | 4,539,637
+33 | redzrex | 4,542,300
+34 | rikbona | 4,540,773
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,283,303
-38 | DontLaughArt | 4,198,228
+38 | DontLaughArt | 4,198,229
 39 | zdubs | 3,768,210
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,737,311
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | Autom4tic_Soze | 2,238,954
 57 | 002_timmy | 2,059,494
 58 | investigator100 | 2,041,617
-59 | 0-Give-a-fucks | 2,032,873
+59 | 0-Give-a-fucks | 2,038,619
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,952,170
 62 | catlover-100 | 1,931,330
@@ -160,7 +160,7 @@ Rank | Username | Totals Tips
 157 | f0n1xr131ng | 509,681
 158 | AcceptableLeg8751 | 500,000
 159 | fettskull | 496,832
-160 | Bobby_Juk | 495,592
+160 | Bobby_Juk | 496,432
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 473,301
 163 | sinlesco | 465,153
