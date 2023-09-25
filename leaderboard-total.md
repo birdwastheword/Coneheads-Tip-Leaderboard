@@ -1,7 +1,7 @@
-Last updated: 23-09-25 20:50:56 UTC  
+Last updated: 23-09-25 21:00:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 40,282,025
+1 | Bitdream200K | 40,308,655
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,943,091
 4 | cutsickass | 32,108,687
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,398,833
-14 | SpookySYN | 12,340,217
+14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,058,456
 16 | Permanent_WSB_Bull | 11,204,183
 17 | avyun | 9,371,303
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,766,944
 25 | Real_Player_0 | 6,598,535
-26 | HippieStarTraveler | 6,260,307
+26 | HippieStarTraveler | 6,260,376
 27 | IveDoneItAtLast | 5,745,842
 28 | Ginomania | 5,665,188
 29 | thelonliestcrowd | 5,582,716
