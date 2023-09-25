@@ -1,4 +1,4 @@
-Last updated: 23-09-25 16:37:42 UTC  
+Last updated: 23-09-25 16:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | IveDoneItAtLast | 5,745,842
 28 | Ginomania | 5,665,188
 29 | thelonliestcrowd | 5,582,716
-30 | send420nudes | 5,080,087
+30 | send420nudes | 5,084,356
 31 | GuyOne | 5,019,609
 32 | VIVOffical | 4,952,328
 33 | redzrex | 4,542,300
@@ -442,18 +442,18 @@ Rank | Username | Totals Tips
 439 | Levl1Critter | 49,152
 440 | halfavocadoemoji | 48,677
 441 | FalloutAssasin | 47,552
-442 | shredslanding | 46,650
-443 | Oue | 46,352
-444 | skatistic | 46,287
-445 | Historical-Lychee-34 | 46,284
-446 | Drlitez | 45,436
-447 | SnooRevelations6751 | 45,420
-448 | NickkyDC | 45,379
-449 | tentazoc | 45,088
-450 | acfranks | 45,083
-451 | Name_Trikolon | 45,002
-452 | Cyber-Cafe | 44,584
-453 | Ronitn | 44,251
+442 | Ronitn | 46,914
+443 | shredslanding | 46,650
+444 | Oue | 46,352
+445 | skatistic | 46,287
+446 | Historical-Lychee-34 | 46,284
+447 | Drlitez | 45,436
+448 | SnooRevelations6751 | 45,420
+449 | NickkyDC | 45,379
+450 | tentazoc | 45,088
+451 | acfranks | 45,083
+452 | Name_Trikolon | 45,002
+453 | Cyber-Cafe | 44,584
 454 | Kilv3r | 44,021
 455 | ShadowKnight324 | 43,986
 456 | Coneboy2663 | 43,852
