@@ -1,4 +1,4 @@
-Last updated: 23-09-25 21:50:39 UTC  
+Last updated: 23-09-25 22:01:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -141,9 +141,9 @@ Rank | Username | Totals Tips
 138 | slirpo | 631,180
 139 | RazPie | 613,307
 140 | superlonelyboy | 611,557
-141 | Dripbot8 | 599,035
-142 | __PDS__ | 595,709
-143 | Complete-Tadpole-728 | 595,330
+141 | Complete-Tadpole-728 | 599,673
+142 | Dripbot8 | 599,035
+143 | __PDS__ | 595,709
 144 | El_Gordone | 592,784
 145 | Burzzzt88 | 592,627
 146 | Ninja_Vagabond | 583,836
