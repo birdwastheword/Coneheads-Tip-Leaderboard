@@ -1,4 +1,4 @@
-Last updated: 23-09-25 17:18:25 UTC  
+Last updated: 23-09-25 17:30:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -159,8 +159,8 @@ Rank | Username | Totals Tips
 156 | Crypto-4-Freedom | 512,094
 157 | f0n1xr131ng | 509,681
 158 | AcceptableLeg8751 | 500,000
-159 | fettskull | 496,832
-160 | Bobby_Juk | 496,432
+159 | Bobby_Juk | 497,272
+160 | fettskull | 496,832
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 473,301
 163 | sinlesco | 465,153
@@ -353,9 +353,9 @@ Rank | Username | Totals Tips
 350 | Mother-Werewolf185 | 85,579
 351 | drche35 | 84,642
 352 | Puzzleheaded_Gift738 | 84,020
-353 | Emeritux | 82,676
-354 | Admirito | 82,353
-355 | shellystarzz | 82,293
+353 | shellystarzz | 82,901
+354 | Emeritux | 82,676
+355 | Admirito | 82,353
 356 | standArtpluto | 82,100
 357 | Bobocod | 81,577
 358 | mastermarvs | 80,384
@@ -1195,9 +1195,9 @@ Rank | Username | Totals Tips
 1192 | Sea_Ad4296 | 69
 1193 | Nagakura_Shinpachi | 69
 1194 | RocketSwaps_ | 68
-1195 | TheAvatarBank | 52
-1196 | TannedViking | 30
-1197 | Adventurous_Dingo351 | 30
+1195 | Adventurous_Dingo351 | 60
+1196 | TheAvatarBank | 52
+1197 | TannedViking | 30
 1198 | 18-35 | 30
 1199 | _JC_84_ | 23
 1200 | Madurosadvisor | 22
