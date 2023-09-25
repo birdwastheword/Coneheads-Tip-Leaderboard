@@ -1,4 +1,4 @@
-Last updated: 23-09-25 03:50:26 UTC  
+Last updated: 23-09-25 04:01:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | nakamo-toe | 35,874,560
 4 | cutsickass | 32,108,687
 5 | waterhasnocalories | 30,910,235
-6 | rickribera93 | 28,393,729
+6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,088,197
 9 | ConeDesk | 17,947,653
@@ -160,7 +160,7 @@ Rank | Username | Totals Tips
 157 | f0n1xr131ng | 509,681
 158 | AcceptableLeg8751 | 500,000
 159 | fettskull | 496,832
-160 | Bobby_Juk | 487,612
+160 | Bobby_Juk | 488,032
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 472,461
 163 | sinlesco | 465,153
