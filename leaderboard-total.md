@@ -1,4 +1,4 @@
-Last updated: 23-09-25 05:40:41 UTC  
+Last updated: 23-09-25 05:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -487,15 +487,15 @@ Rank | Username | Totals Tips
 484 | redditisalt | 37,307
 485 | Imalittlestitious86 | 37,090
 486 | degree-01 | 36,486
-487 | genesis_crazy_one | 36,237
-488 | mbashs | 36,030
-489 | SirPesoOtaku | 35,144
-490 | TRANZHUMANIST | 35,069
-491 | Big-Researcher-3855 | 35,019
-492 | CatastrophicSpecter | 34,176
-493 | BelowAveIntelligence | 34,132
-494 | Obvious-Ask-5747 | 33,806
-495 | Ronitn | 33,599
+487 | Ronitn | 36,262
+488 | genesis_crazy_one | 36,237
+489 | mbashs | 36,030
+490 | SirPesoOtaku | 35,144
+491 | TRANZHUMANIST | 35,069
+492 | Big-Researcher-3855 | 35,019
+493 | CatastrophicSpecter | 34,176
+494 | BelowAveIntelligence | 34,132
+495 | Obvious-Ask-5747 | 33,806
 496 | PoDunkYuppie | 33,513
 497 | keyoh321 | 33,397
 498 | Gerboogler | 33,314
