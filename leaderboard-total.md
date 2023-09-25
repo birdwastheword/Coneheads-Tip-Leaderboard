@@ -1,4 +1,4 @@
-Last updated: 23-09-25 19:50:59 UTC  
+Last updated: 23-09-25 20:01:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -901,13 +901,13 @@ Rank | Username | Totals Tips
 898 | Kazu4ya | 2,147
 899 | VeryStone | 2,116
 900 | Skulltwister | 2,080
-901 | BarelyReaddit | 2,069
-902 | OkAbbreviations3451 | 2,069
-903 | towntoglfeddfxyxxx | 2,027
-904 | ArrivalWrong7289 | 2,027
-905 | deadlyruckas | 2,019
-906 | CeramicDrip | 2,006
-907 | Elgato_TJ | 2,001
+901 | Elgato_TJ | 2,070
+902 | BarelyReaddit | 2,069
+903 | OkAbbreviations3451 | 2,069
+904 | towntoglfeddfxyxxx | 2,027
+905 | ArrivalWrong7289 | 2,027
+906 | deadlyruckas | 2,019
+907 | CeramicDrip | 2,006
 908 | totheMoonCity | 2,000
 909 | imhoneynow | 2,000
 910 | kryptoNoob69420 | 2,000
