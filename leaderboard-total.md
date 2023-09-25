@@ -1,9 +1,9 @@
-Last updated: 23-09-25 23:00:57 UTC  
+Last updated: 23-09-25 23:18:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
-2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,943,091
+2 | nakamo-toe | 36,445,754
+3 | Wonderful_Bad6531 | 36,369,479
 4 | cutsickass | 32,108,687
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,398,833
 14 | SpookySYN | 12,366,847
-15 | Parush9 | 12,082,103
+15 | Parush9 | 12,087,072
 16 | Permanent_WSB_Bull | 11,204,183
 17 | avyun | 9,371,303
 18 | 8inchConer | 8,947,619
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
-50 | Fenrir-1919 | 2,713,116
+50 | Fenrir-1919 | 2,715,779
 51 | ZoomLong | 2,641,251
 52 | ImAlekBan | 2,610,520
 53 | _Royal_Insylum | 2,603,787
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | Richicash | 2,281,863
 56 | Autom4tic_Soze | 2,238,954
 57 | 002_timmy | 2,059,494
-58 | 0-Give-a-fucks | 2,041,702
+58 | 0-Give-a-fucks | 2,044,365
 59 | investigator100 | 2,041,617
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,952,170
@@ -180,7 +180,7 @@ Rank | Username | Totals Tips
 177 | MisterM0H0 | 379,338
 178 | zenhodl | 374,566
 179 | hellosamaira | 373,235
-180 | Tinman_ApE | 359,366
+180 | Tinman_ApE | 359,974
 181 | farmertypoerror | 359,212
 182 | Outrageous-Skill-464 | 344,174
 183 | anony666mous | 341,008
@@ -193,7 +193,7 @@ Rank | Username | Totals Tips
 190 | Chapo_1992 | 315,419
 191 | EffinDrongoC | 312,738
 192 | pinkglue99 | 312,265
-193 | Lastkidpicked94 | 308,785
+193 | Lastkidpicked94 | 311,448
 194 | shiesto | 308,180
 195 | liwipe | 304,467
 196 | FluffyAspie | 303,591
