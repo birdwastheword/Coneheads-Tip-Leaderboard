@@ -1,4 +1,4 @@
-Last updated: 23-09-25 19:15:04 UTC  
+Last updated: 23-09-25 19:23:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -440,13 +440,13 @@ Rank | Username | Totals Tips
 437 | Rbmui13 | 49,605
 438 | sicilian2124 | 49,529
 439 | Levl1Critter | 49,152
-440 | halfavocadoemoji | 48,677
-441 | FalloutAssasin | 47,552
-442 | Ronitn | 46,914
-443 | shredslanding | 46,650
-444 | Oue | 46,352
-445 | skatistic | 46,287
-446 | Historical-Lychee-34 | 46,284
+440 | Historical-Lychee-34 | 48,947
+441 | halfavocadoemoji | 48,677
+442 | FalloutAssasin | 47,552
+443 | Ronitn | 46,914
+444 | shredslanding | 46,650
+445 | Oue | 46,352
+446 | skatistic | 46,287
 447 | Drlitez | 45,436
 448 | SnooRevelations6751 | 45,420
 449 | NickkyDC | 45,379
