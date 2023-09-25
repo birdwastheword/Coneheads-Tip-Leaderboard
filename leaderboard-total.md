@@ -1,4 +1,4 @@
-Last updated: 23-09-25 23:40:35 UTC  
+Last updated: 23-09-25 23:50:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -272,10 +272,10 @@ Rank | Username | Totals Tips
 269 | Clonkerz | 158,075
 270 | martymartinator | 155,223
 271 | 6reficul | 153,884
-272 | NotFullyTerrestrial | 151,302
-273 | Nxnng | 151,195
-274 | satoshi_oscar_wilde | 150,078
-275 | wato4000 | 149,101
+272 | wato4000 | 151,764
+273 | NotFullyTerrestrial | 151,302
+274 | Nxnng | 151,195
+275 | satoshi_oscar_wilde | 150,078
 276 | BitcoinRefuge | 148,181
 277 | jamjam794 | 147,342
 278 | Doovs | 143,983
