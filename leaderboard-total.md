@@ -1,4 +1,4 @@
-Last updated: 23-09-25 22:01:06 UTC  
+Last updated: 23-09-25 22:18:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,398,833
 14 | SpookySYN | 12,366,847
-15 | Parush9 | 12,072,771
+15 | Parush9 | 12,082,103
 16 | Permanent_WSB_Bull | 11,204,183
 17 | avyun | 9,371,303
 18 | 8inchConer | 8,947,619
@@ -28,10 +28,10 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,376
 27 | VIVOffical | 5,952,328
-28 | IveDoneItAtLast | 5,745,842
+28 | IveDoneItAtLast | 5,751,168
 29 | Ginomania | 5,667,851
 30 | thelonliestcrowd | 5,609,353
-31 | send420nudes | 5,088,625
+31 | send420nudes | 5,092,894
 32 | GuyOne | 5,022,272
 33 | redzrex | 4,542,300
 34 | rikbona | 4,540,773
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,882,750
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,849,728
-67 | Lillica_Golden_SHIB | 1,846,119
+67 | Lillica_Golden_SHIB | 1,846,539
 68 | dealkhabari | 1,767,162
 69 | KONGXIANG | 1,718,942
 70 | Iulian_TechNewb | 1,717,286
@@ -265,7 +265,7 @@ Rank | Username | Totals Tips
 262 | YourThighsWarmMyEars | 172,697
 263 | Street_Addd | 171,939
 264 | MymannosaurusRex | 171,737
-265 | 192000Hertz | 168,424
+265 | 192000Hertz | 171,087
 266 | MelonFarmer420 | 167,136
 267 | DamnWhySoLow | 166,675
 268 | ItailianStallion101 | 165,752
@@ -413,7 +413,7 @@ Rank | Username | Totals Tips
 410 | Trink333 | 58,338
 411 | phrodreky | 58,261
 412 | Dottore_Bettore | 57,917
-413 | foreignGER | 57,622
+413 | foreignGER | 57,891
 414 | Outrageous_Storm6537 | 56,938
 415 | chuloreddit | 55,947
 416 | imbarrydylan | 55,689
@@ -931,13 +931,13 @@ Rank | Username | Totals Tips
 928 | Interesting-Chip-500 | 1,559
 929 | Ask_Ari | 1,544
 930 | KantoRegionChampRed | 1,536
-931 | XenonXTR | 1,517
-932 | RepresentativeNo4743 | 1,491
-933 | Pataphak377 | 1,490
-934 | adamdmn | 1,490
-935 | WhiteMoss_ | 1,488
-936 | pizza-chit | 1,461
-937 | Pacaloz | 1,461
+931 | Pacaloz | 1,530
+932 | XenonXTR | 1,517
+933 | RepresentativeNo4743 | 1,491
+934 | Pataphak377 | 1,490
+935 | adamdmn | 1,490
+936 | WhiteMoss_ | 1,488
+937 | pizza-chit | 1,461
 938 | lovegreencandles | 1,454
 939 | SinTron99 | 1,448
 940 | Prodigyyyyyy | 1,432
