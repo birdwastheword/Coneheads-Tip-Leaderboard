@@ -1,4 +1,4 @@
-Last updated: 23-09-25 20:19:41 UTC  
+Last updated: 23-09-25 20:30:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | IveDoneItAtLast | 5,745,842
 28 | Ginomania | 5,665,188
 29 | thelonliestcrowd | 5,582,716
-30 | send420nudes | 5,084,356
+30 | send420nudes | 5,088,625
 31 | GuyOne | 5,019,609
 32 | VIVOffical | 4,952,328
 33 | redzrex | 4,542,300
@@ -891,12 +891,12 @@ Rank | Username | Totals Tips
 888 | MrD_12 | 2,376
 889 | SpySeaRamen | 2,340
 890 | bonneatoutfaire | 2,303
-891 | Confident-Syllabub60 | 2,266
-892 | Faramint | 2,260
-893 | Far_Movie_6595 | 2,248
-894 | ODoyles_Banana | 2,226
-895 | Digdaga | 2,216
-896 | Elgato_TJ | 2,208
+891 | Elgato_TJ | 2,277
+892 | Confident-Syllabub60 | 2,266
+893 | Faramint | 2,260
+894 | Far_Movie_6595 | 2,248
+895 | ODoyles_Banana | 2,226
+896 | Digdaga | 2,216
 897 | A_Dancing_Coder | 2,207
 898 | ElderberryOk469 | 2,178
 899 | Kazu4ya | 2,147
