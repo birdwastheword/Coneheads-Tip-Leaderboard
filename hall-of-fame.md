@@ -121,5 +121,6 @@ Rank | Date | Username | Tip size | to User
 118 | 2023-09-20 12:02:38 | LimpPeanut5633 | 1,000,000| cutsickass
 119 | 2023-09-21 17:13:46 | Richicash | 1,000,000| cutsickass
 120 | 2023-09-22 09:51:08 | pythonskynet | 1,000,000| nakamo-toe
+121 | 2023-09-25 21:03:39 | VIVOffical | 1,000,000| Parush9
 
 Tips over 1,000,000 will be eligible for the Hall of Fame
