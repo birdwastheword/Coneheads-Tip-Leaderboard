@@ -1,9 +1,9 @@
-Last updated: 23-09-25 17:30:48 UTC  
+Last updated: 23-09-25 17:40:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
 2 | Wonderful_Bad6531 | 36,369,479
-3 | nakamo-toe | 35,940,428
+3 | nakamo-toe | 35,943,091
 4 | cutsickass | 32,108,687
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | SpookySYN | 12,340,217
 15 | Parush9 | 12,058,456
 16 | Permanent_WSB_Bull | 11,204,183
-17 | avyun | 9,271,303
+17 | avyun | 9,371,303
 18 | 8inchConer | 8,947,619
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | Crypto-4-Freedom | 512,094
 157 | f0n1xr131ng | 509,681
 158 | AcceptableLeg8751 | 500,000
-159 | Bobby_Juk | 497,272
+159 | Bobby_Juk | 497,692
 160 | fettskull | 496,832
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 473,301
