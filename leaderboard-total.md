@@ -1,14 +1,14 @@
-Last updated: 23-09-25 21:24:31 UTC  
+Last updated: 23-09-25 21:33:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 40,311,318
+1 | Bitdream200K | 40,337,948
 2 | Wonderful_Bad6531 | 36,369,479
 3 | nakamo-toe | 35,943,091
 4 | cutsickass | 32,108,687
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,103,185
+8 | _ships | 18,111,928
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,155,871
 11 | transfermymoons | 13,771,858
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | HippieStarTraveler | 6,260,376
 27 | VIVOffical | 5,952,328
 28 | IveDoneItAtLast | 5,745,842
-29 | Ginomania | 5,665,188
+29 | Ginomania | 5,667,851
 30 | thelonliestcrowd | 5,582,716
 31 | send420nudes | 5,088,625
 32 | GuyOne | 5,019,609
@@ -143,8 +143,8 @@ Rank | Username | Totals Tips
 140 | superlonelyboy | 611,557
 141 | Dripbot8 | 599,035
 142 | __PDS__ | 595,709
-143 | El_Gordone | 592,784
-144 | Complete-Tadpole-728 | 592,667
+143 | Complete-Tadpole-728 | 595,330
+144 | El_Gordone | 592,784
 145 | Burzzzt88 | 592,627
 146 | Ninja_Vagabond | 583,836
 147 | Independent_Heart_15 | 578,825
@@ -162,7 +162,7 @@ Rank | Username | Totals Tips
 159 | AcceptableLeg8751 | 500,000
 160 | fettskull | 496,832
 161 | Lady_Lucks_Man | 482,403
-162 | stockyewok | 473,301
+162 | stockyewok | 473,721
 163 | sinlesco | 465,153
 164 | WarmlyWacky | 462,118
 165 | noface_reddit | 461,677
@@ -219,8 +219,8 @@ Rank | Username | Totals Tips
 216 | tmanfromEarth | 258,392
 217 | Hactar_42 | 256,832
 218 | thecrabdad | 256,177
-219 | Ambitious-Minimum-80 | 252,035
-220 | BeardedBro_ | 251,710
+219 | BeardedBro_ | 252,130
+220 | Ambitious-Minimum-80 | 252,035
 221 | Sattack4000 | 250,837
 222 | thestonkinator | 249,330
 223 | Gregoryonetulum | 249,309
