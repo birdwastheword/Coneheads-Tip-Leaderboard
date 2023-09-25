@@ -1,4 +1,4 @@
-Last updated: 23-09-25 08:50:56 UTC  
+Last updated: 23-09-25 09:00:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -162,7 +162,7 @@ Rank | Username | Totals Tips
 159 | fettskull | 496,832
 160 | Bobby_Juk | 489,292
 161 | Lady_Lucks_Man | 482,403
-162 | stockyewok | 472,881
+162 | stockyewok | 473,301
 163 | sinlesco | 465,153
 164 | WarmlyWacky | 462,118
 165 | noface_reddit | 461,677
