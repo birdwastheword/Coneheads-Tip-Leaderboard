@@ -1,4 +1,4 @@
-Last updated: 23-09-25 04:01:06 UTC  
+Last updated: 23-09-25 04:22:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,255,386
@@ -148,7 +148,7 @@ Rank | Username | Totals Tips
 145 | Independent_Heart_15 | 578,825
 146 | AustinTX1985 | 571,526
 147 | cryotosensei | 571,262
-148 | Complete-Tadpole-728 | 567,346
+148 | Complete-Tadpole-728 | 570,009
 149 | Dripbot8 | 559,035
 150 | StepAsideSuckers | 543,358
 151 | scientifichistorian | 539,560
@@ -156,7 +156,7 @@ Rank | Username | Totals Tips
 153 | TubeNerd92 | 537,829
 154 | doktastonks | 533,988
 155 | rolonic | 516,377
-156 | Crypto-4-Freedom | 511,254
+156 | Crypto-4-Freedom | 511,674
 157 | f0n1xr131ng | 509,681
 158 | AcceptableLeg8751 | 500,000
 159 | fettskull | 496,832
