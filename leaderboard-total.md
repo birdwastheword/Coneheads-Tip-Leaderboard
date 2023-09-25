@@ -1,4 +1,4 @@
-Last updated: 23-09-25 20:40:45 UTC  
+Last updated: 23-09-25 20:50:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -215,12 +215,12 @@ Rank | Username | Totals Tips
 212 | SetoXlll | 266,136
 213 | SnooMacarons9203 | 265,954
 214 | coolpattakers | 262,340
-215 | tmanfromEarth | 258,392
-216 | Hactar_42 | 256,832
-217 | thecrabdad | 256,177
-218 | Ambitious-Minimum-80 | 252,035
-219 | BeardedBro_ | 251,710
-220 | the_judge_168 | 251,484
+215 | the_judge_168 | 259,473
+216 | tmanfromEarth | 258,392
+217 | Hactar_42 | 256,832
+218 | thecrabdad | 256,177
+219 | Ambitious-Minimum-80 | 252,035
+220 | BeardedBro_ | 251,710
 221 | Sattack4000 | 250,837
 222 | thestonkinator | 249,330
 223 | Gregoryonetulum | 249,309
@@ -229,7 +229,7 @@ Rank | Username | Totals Tips
 226 | Significant_Talk4943 | 241,999
 227 | joeviani | 241,717
 228 | Truffle_Shuffle_85 | 238,641
-229 | Overall-Extension608 | 236,401
+229 | Overall-Extension608 | 237,091
 230 | MuhSound | 235,724
 231 | Zalkwalker | 235,069
 232 | alexthemay | 234,131
@@ -821,8 +821,8 @@ Rank | Username | Totals Tips
 818 | Puzzleheaded_Popup | 4,000
 819 | WeaselJCD | 3,992
 820 | Soil_Electronic | 3,975
-821 | Dreadaussie | 3,920
-822 | final_lionel | 3,890
+821 | final_lionel | 3,959
+822 | Dreadaussie | 3,920
 823 | OisinT | 3,779
 824 | carsonthecarsinogen | 3,769
 825 | salt_yaf | 3,706
