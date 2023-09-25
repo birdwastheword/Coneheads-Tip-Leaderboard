@@ -1,4 +1,4 @@
-Last updated: 23-09-25 20:30:49 UTC  
+Last updated: 23-09-25 20:40:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -141,15 +141,15 @@ Rank | Username | Totals Tips
 138 | slirpo | 631,180
 139 | RazPie | 613,307
 140 | superlonelyboy | 611,557
-141 | __PDS__ | 595,709
-142 | El_Gordone | 592,784
-143 | Complete-Tadpole-728 | 592,667
-144 | Burzzzt88 | 592,627
-145 | Ninja_Vagabond | 583,836
-146 | Independent_Heart_15 | 578,825
-147 | AustinTX1985 | 571,526
-148 | cryotosensei | 571,262
-149 | Dripbot8 | 559,035
+141 | Dripbot8 | 599,035
+142 | __PDS__ | 595,709
+143 | El_Gordone | 592,784
+144 | Complete-Tadpole-728 | 592,667
+145 | Burzzzt88 | 592,627
+146 | Ninja_Vagabond | 583,836
+147 | Independent_Heart_15 | 578,825
+148 | AustinTX1985 | 571,526
+149 | cryotosensei | 571,262
 150 | StepAsideSuckers | 543,358
 151 | scientifichistorian | 539,560
 152 | shreyaskg | 538,211
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | Crypto-4-Freedom | 512,094
 157 | f0n1xr131ng | 509,681
 158 | AcceptableLeg8751 | 500,000
-159 | Bobby_Juk | 498,532
+159 | Bobby_Juk | 498,952
 160 | fettskull | 496,832
 161 | Lady_Lucks_Man | 482,403
 162 | stockyewok | 473,301
