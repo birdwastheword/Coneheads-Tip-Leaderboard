@@ -1,4 +1,4 @@
-Last updated: 23-09-25 18:51:18 UTC  
+Last updated: 23-09-25 19:01:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,282,025
@@ -118,7 +118,7 @@ Rank | Username | Totals Tips
 115 | Westy3000 | 785,931
 116 | ziggybri | 783,883
 117 | cannainform2 | 773,077
-118 | dopelifer09 | 742,383
+118 | dopelifer09 | 752,383
 119 | Obi1eyeKenobi | 730,328
 120 | Successful-Walk-3902 | 724,678
 121 | starterpack420694 | 710,420
@@ -146,7 +146,7 @@ Rank | Username | Totals Tips
 143 | Burzzzt88 | 592,627
 144 | Ninja_Vagabond | 583,836
 145 | Independent_Heart_15 | 578,825
-146 | Complete-Tadpole-728 | 574,781
+146 | Complete-Tadpole-728 | 576,881
 147 | AustinTX1985 | 571,526
 148 | cryotosensei | 571,262
 149 | Dripbot8 | 559,035
