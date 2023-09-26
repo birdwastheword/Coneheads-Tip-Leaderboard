@@ -1,4 +1,4 @@
-Last updated: 23-09-26 18:51:40 UTC  
+Last updated: 23-09-26 19:00:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | IveDoneItAtLast | 5,752,016
 29 | Ginomania | 5,667,851
 30 | thelonliestcrowd | 5,617,342
-31 | send420nudes | 5,517,532
+31 | send420nudes | 5,521,801
 32 | GuyOne | 5,022,272
 33 | redzrex | 4,550,289
 34 | rikbona | 4,540,773
@@ -121,8 +121,8 @@ Rank | Username | Totals Tips
 118 | dopelifer09 | 752,383
 119 | Obi1eyeKenobi | 730,328
 120 | Successful-Walk-3902 | 724,678
-121 | starterpack420694 | 710,420
-122 | DogSpark84 | 709,888
+121 | DogSpark84 | 722,238
+122 | starterpack420694 | 710,420
 123 | frickdom | 708,335
 124 | WarmIyWacky | 703,049
 125 | Starterpack69420 | 696,969
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | Crypto-4-Freedom | 513,354
 157 | noface_reddit | 510,609
 158 | f0n1xr131ng | 509,681
-159 | Bobby_Juk | 507,352
+159 | Bobby_Juk | 507,772
 160 | shiesto | 504,923
 161 | AcceptableLeg8751 | 500,000
 162 | fettskull | 496,832
