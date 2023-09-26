@@ -1,4 +1,4 @@
-Last updated: 23-09-26 03:50:52 UTC  
+Last updated: 23-09-26 04:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,767,552
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,376
-27 | VIVOffical | 5,952,328
+27 | VIVOffical | 5,954,991
 28 | IveDoneItAtLast | 5,752,016
 29 | Ginomania | 5,667,851
 30 | thelonliestcrowd | 5,614,679
@@ -74,7 +74,7 @@ Rank | Username | Totals Tips
 71 | Ten-Mins-Late | 1,709,893
 72 | LongCauliflower6791 | 1,657,531
 73 | GooderZBK | 1,617,267
-74 | ultra_terrestrial | 1,549,216
+74 | ultra_terrestrial | 1,550,476
 75 | Own_Ad_4269 | 1,475,023
 76 | ValiantJudge29500 | 1,441,264
 77 | YarOldeOrchard | 1,438,286
