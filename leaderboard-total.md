@@ -1,4 +1,4 @@
-Last updated: 23-09-26 02:36:26 UTC  
+Last updated: 23-09-26 02:44:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,283,303
 38 | DontLaughArt | 4,204,829
-39 | zdubs | 3,768,210
+39 | zdubs | 3,770,873
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
@@ -187,8 +187,8 @@ Rank | Username | Totals Tips
 184 | tsudrat | 340,707
 185 | 83nno | 337,905
 186 | maxfra | 326,334
-187 | x52x | 324,929
-188 | DrThunderHandz | 322,452
+187 | DrThunderHandz | 325,115
+188 | x52x | 324,929
 189 | AnduriII | 321,396
 190 | Chapo_1992 | 315,419
 191 | Lastkidpicked94 | 312,785
@@ -431,17 +431,17 @@ Rank | Username | Totals Tips
 428 | ConeHead710 | 52,012
 429 | d_Shazam_b | 51,991
 430 | slasula | 51,466
-431 | d0ntmess87 | 51,278
-432 | imonsterdao | 51,021
-433 | Outside-Wolf5928 | 50,096
-434 | Dolce_00 | 49,943
-435 | Yogi_Kat | 49,785
-436 | eatthebagels | 49,692
-437 | Rbmui13 | 49,605
-438 | sicilian2124 | 49,529
-439 | Levl1Critter | 49,152
-440 | Historical-Lychee-34 | 48,947
-441 | halfavocadoemoji | 48,677
+431 | halfavocadoemoji | 51,340
+432 | d0ntmess87 | 51,278
+433 | imonsterdao | 51,021
+434 | Outside-Wolf5928 | 50,096
+435 | Dolce_00 | 49,943
+436 | Yogi_Kat | 49,785
+437 | eatthebagels | 49,692
+438 | Rbmui13 | 49,605
+439 | sicilian2124 | 49,529
+440 | Levl1Critter | 49,152
+441 | Historical-Lychee-34 | 48,947
 442 | FalloutAssasin | 47,552
 443 | Ronitn | 46,914
 444 | shredslanding | 46,650
