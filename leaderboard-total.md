@@ -1,4 +1,4 @@
-Last updated: 23-09-26 03:30:46 UTC  
+Last updated: 23-09-26 03:40:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,283,303
 38 | DontLaughArt | 4,204,829
-39 | zdubs | 3,772,326
+39 | zdubs | 3,773,542
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
@@ -208,23 +208,23 @@ Rank | Username | Totals Tips
 205 | tjex666 | 283,221
 206 | Flimsy_Brilliant_239 | 283,107
 207 | astro_nut_ | 280,463
-208 | Virtual-Wrangler5955 | 274,995
-209 | _Mitchee_ | 271,819
-210 | Final-Scar-941 | 271,039
-211 | hey_barry | 269,698
-212 | SetoXlll | 266,136
-213 | SnooMacarons9203 | 265,954
-214 | coolpattakers | 262,340
-215 | the_judge_168 | 259,473
-216 | tmanfromEarth | 258,392
-217 | Hactar_42 | 256,832
-218 | thecrabdad | 256,177
-219 | BeardedBro_ | 252,130
-220 | Ambitious-Minimum-80 | 252,035
-221 | Sattack4000 | 250,837
-222 | thestonkinator | 249,330
-223 | Gregoryonetulum | 249,309
-224 | TummyLice | 247,247
+208 | TummyLice | 277,247
+209 | Virtual-Wrangler5955 | 274,995
+210 | _Mitchee_ | 271,819
+211 | Final-Scar-941 | 271,039
+212 | hey_barry | 269,698
+213 | SetoXlll | 266,136
+214 | SnooMacarons9203 | 265,954
+215 | coolpattakers | 262,340
+216 | the_judge_168 | 259,473
+217 | tmanfromEarth | 258,392
+218 | Hactar_42 | 256,832
+219 | thecrabdad | 256,177
+220 | BeardedBro_ | 252,130
+221 | Ambitious-Minimum-80 | 252,035
+222 | Sattack4000 | 250,837
+223 | thestonkinator | 249,330
+224 | Gregoryonetulum | 249,309
 225 | 4gsboofd | 247,040
 226 | Significant_Talk4943 | 241,999
 227 | joeviani | 241,717
