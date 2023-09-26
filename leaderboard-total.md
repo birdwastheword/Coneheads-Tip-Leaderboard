@@ -1,4 +1,4 @@
-Last updated: 23-09-26 14:32:14 UTC  
+Last updated: 23-09-26 14:40:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -806,16 +806,16 @@ Rank | Username | Totals Tips
 803 | AnimeFlamingo | 4,620
 804 | trainspottedCSX7 | 4,597
 805 | Sledheadjack | 4,528
-806 | FoLKOM | 4,422
-807 | _dual1ty | 4,333
-808 | DepressedVegabond | 4,300
-809 | snek_oil_ | 4,271
-810 | ADT06 | 4,260
-811 | Werd2jaH | 4,205
-812 | OG_Bobcat32 | 4,200
-813 | officialzodiacbeats | 4,194
-814 | DrAgaricus | 4,111
-815 | final_lionel | 4,082
+806 | final_lionel | 4,502
+807 | FoLKOM | 4,422
+808 | _dual1ty | 4,333
+809 | DepressedVegabond | 4,300
+810 | snek_oil_ | 4,271
+811 | ADT06 | 4,260
+812 | Werd2jaH | 4,205
+813 | OG_Bobcat32 | 4,200
+814 | officialzodiacbeats | 4,194
+815 | DrAgaricus | 4,111
 816 | Ronkad | 4,003
 817 | Lazy_Staff4893 | 4,000
 818 | nathanroberts14 | 4,000
