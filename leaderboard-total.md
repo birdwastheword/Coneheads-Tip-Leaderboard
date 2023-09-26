@@ -1,4 +1,4 @@
-Last updated: 23-09-26 15:30:56 UTC  
+Last updated: 23-09-26 15:40:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -139,7 +139,7 @@ Rank | Username | Totals Tips
 136 | femacampcouncilor | 650,801
 137 | crodbtc | 642,527
 138 | slirpo | 631,180
-139 | Complete-Tadpole-728 | 614,525
+139 | Complete-Tadpole-728 | 614,945
 140 | RazPie | 613,307
 141 | superlonelyboy | 611,557
 142 | Dripbot8 | 599,035
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | Crypto-4-Freedom | 512,934
 157 | f0n1xr131ng | 509,681
 158 | Bobby_Juk | 506,932
-159 | shiesto | 504,503
+159 | shiesto | 504,923
 160 | AcceptableLeg8751 | 500,000
 161 | fettskull | 496,832
 162 | Lady_Lucks_Man | 482,403
