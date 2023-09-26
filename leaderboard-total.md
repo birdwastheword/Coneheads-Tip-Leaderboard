@@ -1,4 +1,4 @@
-Last updated: 23-09-26 17:30:45 UTC  
+Last updated: 23-09-26 17:40:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | Crypto-4-Freedom | 513,354
 157 | noface_reddit | 510,609
 158 | f0n1xr131ng | 509,681
-159 | Bobby_Juk | 506,932
+159 | Bobby_Juk | 507,352
 160 | shiesto | 504,923
 161 | AcceptableLeg8751 | 500,000
 162 | fettskull | 496,832
@@ -257,7 +257,7 @@ Rank | Username | Totals Tips
 254 | 1ndy1 | 189,485
 255 | ZeMadMan1 | 185,914
 256 | nooobmaester69 | 183,460
-257 | SaberTurret | 180,306
+257 | SaberTurret | 181,112
 258 | ruccarucca | 180,270
 259 | Jadenindubai | 176,833
 260 | sjakkpila | 175,766
