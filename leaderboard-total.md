@@ -1,4 +1,4 @@
-Last updated: 23-09-26 11:01:09 UTC  
+Last updated: 23-09-26 11:15:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -383,7 +383,7 @@ Rank | Username | Totals Tips
 380 | Yoda975 | 70,123
 381 | Rush4Time | 70,079
 382 | Tapiz3land | 68,942
-383 | XBBlade | 67,901
+383 | XBBlade | 68,321
 384 | Atorcran | 67,570
 385 | Friendly-Airline2426 | 66,547
 386 | -geek | 66,318
