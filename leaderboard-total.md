@@ -1,4 +1,4 @@
-Last updated: 23-09-25 23:50:31 UTC  
+Last updated: 23-09-26 00:24:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,119,988
+8 | _ships | 18,128,048
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,155,871
 11 | transfermymoons | 13,771,858
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
-22 | Puddin-Luv | 7,379,687
+22 | Puddin-Luv | 7,382,350
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,767,552
 25 | Real_Player_0 | 6,598,535
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,482,326
-44 | Korean_Street_Pizza | 3,465,472
+44 | Korean_Street_Pizza | 3,465,892
 45 | ZukoBih | 3,456,304
 46 | LordBobTheWhale | 3,337,785
 47 | evilninjarobot | 3,208,037
