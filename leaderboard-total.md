@@ -1,4 +1,4 @@
-Last updated: 23-09-26 02:44:44 UTC  
+Last updated: 23-09-26 02:53:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | VIVOffical | 5,952,328
 28 | IveDoneItAtLast | 5,752,016
 29 | Ginomania | 5,667,851
-30 | thelonliestcrowd | 5,612,016
+30 | thelonliestcrowd | 5,614,679
 31 | send420nudes | 5,092,894
 32 | GuyOne | 5,022,272
 33 | redzrex | 4,544,963
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,283,303
 38 | DontLaughArt | 4,204,829
-39 | zdubs | 3,770,873
+39 | zdubs | 3,772,326
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
@@ -74,7 +74,7 @@ Rank | Username | Totals Tips
 71 | Ten-Mins-Late | 1,709,893
 72 | LongCauliflower6791 | 1,657,531
 73 | GooderZBK | 1,617,267
-74 | ultra_terrestrial | 1,548,796
+74 | ultra_terrestrial | 1,549,216
 75 | Own_Ad_4269 | 1,475,023
 76 | ValiantJudge29500 | 1,441,264
 77 | YarOldeOrchard | 1,438,286
@@ -415,23 +415,23 @@ Rank | Username | Totals Tips
 412 | foreignGER | 57,960
 413 | Dottore_Bettore | 57,917
 414 | Outrageous_Storm6537 | 56,938
-415 | chuloreddit | 55,947
-416 | imbarrydylan | 55,689
-417 | mofayew | 54,829
-418 | Lucabba | 54,738
-419 | SandersIncBV | 54,288
-420 | Brandillio | 54,271
-421 | ysnmingle | 54,204
-422 | WarningKey6517 | 53,910
-423 | Astrochrono | 53,398
-424 | Jefe0457 | 53,368
-425 | Zezano | 52,679
-426 | abbasabba2 | 52,647
-427 | ky0984 | 52,257
-428 | ConeHead710 | 52,012
-429 | d_Shazam_b | 51,991
-430 | slasula | 51,466
-431 | halfavocadoemoji | 51,340
+415 | halfavocadoemoji | 56,666
+416 | chuloreddit | 55,947
+417 | imbarrydylan | 55,689
+418 | mofayew | 54,829
+419 | Lucabba | 54,738
+420 | SandersIncBV | 54,288
+421 | Brandillio | 54,271
+422 | ysnmingle | 54,204
+423 | WarningKey6517 | 53,910
+424 | Astrochrono | 53,398
+425 | Jefe0457 | 53,368
+426 | Zezano | 52,679
+427 | abbasabba2 | 52,647
+428 | ky0984 | 52,257
+429 | ConeHead710 | 52,012
+430 | d_Shazam_b | 51,991
+431 | slasula | 51,466
 432 | d0ntmess87 | 51,278
 433 | imonsterdao | 51,021
 434 | Outside-Wolf5928 | 50,096
