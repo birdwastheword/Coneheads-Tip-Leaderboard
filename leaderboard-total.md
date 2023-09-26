@@ -1,4 +1,4 @@
-Last updated: 23-09-26 11:41:40 UTC  
+Last updated: 23-09-26 11:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | swampyswede | 1,954,833
 62 | catlover-100 | 1,931,330
 63 | CMDRGlamdring | 1,919,451
-64 | djrcollectables | 1,882,750
+64 | djrcollectables | 1,888,076
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,850,236
 67 | Lillica_Golden_SHIB | 1,846,815
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | rolonic | 516,377
 156 | Crypto-4-Freedom | 512,934
 157 | f0n1xr131ng | 509,681
-158 | Bobby_Juk | 506,092
+158 | Bobby_Juk | 506,512
 159 | AcceptableLeg8751 | 500,000
 160 | fettskull | 496,832
 161 | Lady_Lucks_Man | 482,403
