@@ -1,4 +1,4 @@
-Last updated: 23-09-26 05:40:32 UTC  
+Last updated: 23-09-26 05:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -30,10 +30,10 @@ Rank | Username | Totals Tips
 27 | VIVOffical | 5,954,991
 28 | IveDoneItAtLast | 5,752,016
 29 | Ginomania | 5,667,851
-30 | thelonliestcrowd | 5,614,679
+30 | thelonliestcrowd | 5,617,342
 31 | send420nudes | 5,092,894
 32 | GuyOne | 5,022,272
-33 | redzrex | 4,544,963
+33 | redzrex | 4,547,626
 34 | rikbona | 4,540,773
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
