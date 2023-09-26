@@ -1,4 +1,4 @@
-Last updated: 23-09-26 06:28:50 UTC  
+Last updated: 23-09-26 06:40:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,401,496
 14 | SpookySYN | 12,366,847
-15 | Parush9 | 12,116,324
+15 | Parush9 | 12,118,987
 16 | Permanent_WSB_Bull | 11,204,183
 17 | avyun | 9,371,303
 18 | 8inchConer | 8,947,619
