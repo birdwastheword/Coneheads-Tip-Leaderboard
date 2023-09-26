@@ -1,4 +1,4 @@
-Last updated: 23-09-26 16:50:31 UTC  
+Last updated: 23-09-26 17:01:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -156,7 +156,7 @@ Rank | Username | Totals Tips
 153 | TubeNerd92 | 537,829
 154 | doktastonks | 533,988
 155 | rolonic | 516,377
-156 | Crypto-4-Freedom | 512,934
+156 | Crypto-4-Freedom | 513,354
 157 | noface_reddit | 510,609
 158 | f0n1xr131ng | 509,681
 159 | Bobby_Juk | 506,932
@@ -487,13 +487,13 @@ Rank | Username | Totals Tips
 484 | shitwhenismycakeday | 37,409
 485 | redditisalt | 37,307
 486 | Imalittlestitious86 | 37,090
-487 | degree-01 | 36,486
-488 | genesis_crazy_one | 36,237
-489 | mbashs | 36,030
-490 | SirPesoOtaku | 35,144
-491 | TRANZHUMANIST | 35,069
-492 | Big-Researcher-3855 | 35,019
-493 | CatastrophicSpecter | 34,176
+487 | CatastrophicSpecter | 36,839
+488 | degree-01 | 36,486
+489 | genesis_crazy_one | 36,237
+490 | mbashs | 36,030
+491 | SirPesoOtaku | 35,144
+492 | TRANZHUMANIST | 35,069
+493 | Big-Researcher-3855 | 35,019
 494 | BelowAveIntelligence | 34,132
 495 | Obvious-Ask-5747 | 33,806
 496 | PoDunkYuppie | 33,513
