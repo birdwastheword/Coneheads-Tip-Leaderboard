@@ -1,8 +1,8 @@
-Last updated: 23-09-26 07:01:01 UTC  
+Last updated: 23-09-26 07:17:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
-2 | nakamo-toe | 36,445,754
+2 | nakamo-toe | 36,448,417
 3 | Wonderful_Bad6531 | 36,369,479
 4 | cutsickass | 32,108,687
 5 | waterhasnocalories | 30,910,235
@@ -815,13 +815,13 @@ Rank | Username | Totals Tips
 812 | OG_Bobcat32 | 4,200
 813 | officialzodiacbeats | 4,194
 814 | DrAgaricus | 4,111
-815 | Ronkad | 4,003
-816 | Lazy_Staff4893 | 4,000
-817 | nathanroberts14 | 4,000
-818 | Puzzleheaded_Popup | 4,000
-819 | WeaselJCD | 3,992
-820 | Soil_Electronic | 3,975
-821 | final_lionel | 3,959
+815 | final_lionel | 4,082
+816 | Ronkad | 4,003
+817 | Lazy_Staff4893 | 4,000
+818 | nathanroberts14 | 4,000
+819 | Puzzleheaded_Popup | 4,000
+820 | WeaselJCD | 3,992
+821 | Soil_Electronic | 3,975
 822 | Dreadaussie | 3,920
 823 | OisinT | 3,779
 824 | carsonthecarsinogen | 3,769
