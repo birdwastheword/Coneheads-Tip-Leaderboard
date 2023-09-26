@@ -1,4 +1,4 @@
-Last updated: 23-09-26 18:34:40 UTC  
+Last updated: 23-09-26 18:43:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | Autom4tic_Soze | 2,238,954
 57 | 002_timmy | 2,062,157
 58 | 0-Give-a-fucks | 2,047,028
-59 | investigator100 | 2,044,280
+59 | investigator100 | 2,046,943
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,957,496
 62 | catlover-100 | 1,931,330
@@ -132,14 +132,14 @@ Rank | Username | Totals Tips
 129 | Due_Insurance8159 | 678,620
 130 | SKITZ_ZA | 676,057
 131 | WhateverAlready | 670,371
-132 | piebagz | 661,815
-133 | junkwatch | 656,932
-134 | MartynDr | 652,759
-135 | MorrisBrett514 | 652,179
-136 | femacampcouncilor | 650,801
-137 | crodbtc | 647,853
-138 | slirpo | 631,180
-139 | Complete-Tadpole-728 | 614,945
+132 | Complete-Tadpole-728 | 664,945
+133 | piebagz | 661,815
+134 | junkwatch | 656,932
+135 | MartynDr | 652,759
+136 | MorrisBrett514 | 652,179
+137 | femacampcouncilor | 650,801
+138 | crodbtc | 647,853
+139 | slirpo | 631,180
 140 | RazPie | 613,307
 141 | superlonelyboy | 611,557
 142 | Dripbot8 | 599,035
