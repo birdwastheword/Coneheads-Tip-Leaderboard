@@ -1,4 +1,4 @@
-Last updated: 23-09-26 15:40:36 UTC  
+Last updated: 23-09-26 15:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -195,8 +195,8 @@ Rank | Username | Totals Tips
 192 | Lastkidpicked94 | 312,785
 193 | EffinDrongoC | 312,738
 194 | pinkglue99 | 312,265
-195 | liwipe | 304,467
-196 | FluffyAspie | 303,591
+195 | FluffyAspie | 306,254
+196 | liwipe | 304,467
 197 | Adrewmc | 301,178
 198 | S2K08 | 300,676
 199 | VincentVanGTFO | 300,598
