@@ -1,4 +1,4 @@
-Last updated: 23-09-26 06:40:48 UTC  
+Last updated: 23-09-26 06:50:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -255,8 +255,8 @@ Rank | Username | Totals Tips
 252 | RiightYouKnow | 193,329
 253 | bakerdawg555 | 192,028
 254 | 1ndy1 | 189,485
-255 | nooobmaester69 | 183,460
-256 | ZeMadMan1 | 183,251
+255 | ZeMadMan1 | 185,914
+256 | nooobmaester69 | 183,460
 257 | ruccarucca | 180,270
 258 | SaberTurret | 177,643
 259 | Jadenindubai | 176,764
