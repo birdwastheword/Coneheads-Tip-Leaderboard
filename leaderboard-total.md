@@ -1,4 +1,4 @@
-Last updated: 23-09-26 13:50:30 UTC  
+Last updated: 23-09-26 14:01:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -159,17 +159,17 @@ Rank | Username | Totals Tips
 156 | Crypto-4-Freedom | 512,934
 157 | f0n1xr131ng | 509,681
 158 | Bobby_Juk | 506,932
-159 | AcceptableLeg8751 | 500,000
-160 | fettskull | 496,832
-161 | Lady_Lucks_Man | 482,403
-162 | stockyewok | 473,721
-163 | sinlesco | 465,153
-164 | WarmlyWacky | 462,118
-165 | noface_reddit | 461,677
-166 | MediaPrestigious8342 | 453,839
-167 | unhingedbigfoot | 439,874
-168 | Mopeiooo | 437,368
-169 | shiesto | 434,387
+159 | shiesto | 504,083
+160 | AcceptableLeg8751 | 500,000
+161 | fettskull | 496,832
+162 | Lady_Lucks_Man | 482,403
+163 | stockyewok | 473,721
+164 | sinlesco | 465,153
+165 | WarmlyWacky | 462,118
+166 | noface_reddit | 461,677
+167 | MediaPrestigious8342 | 453,839
+168 | unhingedbigfoot | 439,874
+169 | Mopeiooo | 437,368
 170 | LX1070 | 430,671
 171 | Lion-Hermit | 416,210
 172 | dronegeeks1 | 414,406
