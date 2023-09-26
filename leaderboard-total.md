@@ -1,8 +1,8 @@
-Last updated: 23-09-26 08:00:58 UTC  
+Last updated: 23-09-26 08:24:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
-2 | nakamo-toe | 36,448,417
+2 | nakamo-toe | 36,451,080
 3 | Wonderful_Bad6531 | 36,369,479
 4 | cutsickass | 32,108,687
 5 | waterhasnocalories | 30,910,235
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | rolonic | 516,377
 156 | Crypto-4-Freedom | 512,934
 157 | f0n1xr131ng | 509,681
-158 | Bobby_Juk | 503,992
+158 | Bobby_Juk | 504,412
 159 | AcceptableLeg8751 | 500,000
 160 | fettskull | 496,832
 161 | Lady_Lucks_Man | 482,403
