@@ -1,4 +1,4 @@
-Last updated: 23-09-26 03:06:46 UTC  
+Last updated: 23-09-26 03:20:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -122,8 +122,8 @@ Rank | Username | Totals Tips
 119 | Obi1eyeKenobi | 730,328
 120 | Successful-Walk-3902 | 724,678
 121 | starterpack420694 | 710,420
-122 | frickdom | 708,335
-123 | DogSpark84 | 707,225
+122 | DogSpark84 | 709,888
+123 | frickdom | 708,335
 124 | WarmIyWacky | 703,049
 125 | Starterpack69420 | 696,969
 126 | abracadabra087 | 694,465
@@ -261,11 +261,11 @@ Rank | Username | Totals Tips
 258 | SaberTurret | 177,643
 259 | Jadenindubai | 176,764
 260 | sjakkpila | 175,766
-261 | high5s_inureye | 173,714
-262 | YourThighsWarmMyEars | 172,697
-263 | Street_Addd | 171,939
-264 | MymannosaurusRex | 171,737
-265 | 192000Hertz | 171,087
+261 | 192000Hertz | 173,750
+262 | high5s_inureye | 173,714
+263 | YourThighsWarmMyEars | 172,697
+264 | Street_Addd | 171,939
+265 | MymannosaurusRex | 171,737
 266 | MelonFarmer420 | 167,136
 267 | DamnWhySoLow | 166,675
 268 | ItailianStallion101 | 165,752
@@ -589,10 +589,10 @@ Rank | Username | Totals Tips
 586 | masterassassin93 | 18,409
 587 | subredditlurker69 | 18,332
 588 | Collectibl3 | 18,024
-589 | augustsIippedaway | 17,739
-590 | PRYCDaddy | 17,718
-591 | omfglauren | 17,676
-592 | NSFWCryptoPosting | 17,286
+589 | NSFWCryptoPosting | 17,775
+590 | augustsIippedaway | 17,739
+591 | PRYCDaddy | 17,718
+592 | omfglauren | 17,676
 593 | Steves1982 | 17,284
 594 | OutrageousStudy6752 | 17,087
 595 | Sebanimation | 17,073
