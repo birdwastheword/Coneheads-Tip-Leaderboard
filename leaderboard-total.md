@@ -1,4 +1,4 @@
-Last updated: 23-09-26 15:00:56 UTC  
+Last updated: 23-09-26 15:20:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -139,9 +139,9 @@ Rank | Username | Totals Tips
 136 | femacampcouncilor | 650,801
 137 | crodbtc | 642,527
 138 | slirpo | 631,180
-139 | RazPie | 613,307
-140 | superlonelyboy | 611,557
-141 | Complete-Tadpole-728 | 608,922
+139 | Complete-Tadpole-728 | 614,525
+140 | RazPie | 613,307
+141 | superlonelyboy | 611,557
 142 | Dripbot8 | 599,035
 143 | __PDS__ | 595,709
 144 | El_Gordone | 592,784
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | Crypto-4-Freedom | 512,934
 157 | f0n1xr131ng | 509,681
 158 | Bobby_Juk | 506,932
-159 | shiesto | 504,083
+159 | shiesto | 504,503
 160 | AcceptableLeg8751 | 500,000
 161 | fettskull | 496,832
 162 | Lady_Lucks_Man | 482,403
@@ -803,10 +803,10 @@ Rank | Username | Totals Tips
 800 | Buzzalu | 4,824
 801 | Fcbp | 4,800
 802 | billw1zz | 4,791
-803 | AnimeFlamingo | 4,620
-804 | trainspottedCSX7 | 4,597
-805 | Sledheadjack | 4,528
-806 | final_lionel | 4,502
+803 | final_lionel | 4,625
+804 | AnimeFlamingo | 4,620
+805 | trainspottedCSX7 | 4,597
+806 | Sledheadjack | 4,528
 807 | FoLKOM | 4,422
 808 | _dual1ty | 4,333
 809 | DepressedVegabond | 4,300
