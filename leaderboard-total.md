@@ -1,4 +1,4 @@
-Last updated: 23-09-26 17:18:18 UTC  
+Last updated: 23-09-26 17:30:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,162,026
+8 | _ships | 18,162,832
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,239,123
 11 | transfermymoons | 13,771,858
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | IveDoneItAtLast | 5,752,016
 29 | Ginomania | 5,667,851
 30 | thelonliestcrowd | 5,617,342
-31 | send420nudes | 5,097,163
+31 | send420nudes | 5,517,532
 32 | GuyOne | 5,022,272
 33 | redzrex | 4,550,289
 34 | rikbona | 4,540,773
@@ -61,7 +61,7 @@ Rank | Username | Totals Tips
 58 | 0-Give-a-fucks | 2,047,028
 59 | investigator100 | 2,044,280
 60 | Affectionate_Hand_76 | 1,980,036
-61 | swampyswede | 1,954,833
+61 | swampyswede | 1,957,496
 62 | catlover-100 | 1,931,330
 63 | CMDRGlamdring | 1,919,451
 64 | djrcollectables | 1,888,076
