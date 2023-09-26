@@ -1,4 +1,4 @@
-Last updated: 23-09-26 16:00:47 UTC  
+Last updated: 23-09-26 16:25:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,157,949
+8 | _ships | 18,162,026
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,239,123
 11 | transfermymoons | 13,771,858
@@ -157,27 +157,27 @@ Rank | Username | Totals Tips
 154 | doktastonks | 533,988
 155 | rolonic | 516,377
 156 | Crypto-4-Freedom | 512,934
-157 | f0n1xr131ng | 509,681
-158 | Bobby_Juk | 506,932
-159 | shiesto | 504,923
-160 | AcceptableLeg8751 | 500,000
-161 | fettskull | 496,832
-162 | Lady_Lucks_Man | 482,403
-163 | stockyewok | 473,721
-164 | noface_reddit | 465,877
+157 | noface_reddit | 510,609
+158 | f0n1xr131ng | 509,681
+159 | Bobby_Juk | 506,932
+160 | shiesto | 504,923
+161 | AcceptableLeg8751 | 500,000
+162 | fettskull | 496,832
+163 | Lady_Lucks_Man | 482,403
+164 | stockyewok | 473,721
 165 | sinlesco | 465,153
 166 | WarmlyWacky | 462,118
 167 | MediaPrestigious8342 | 453,839
 168 | unhingedbigfoot | 439,874
 169 | Mopeiooo | 437,368
-170 | LX1070 | 430,671
-171 | Lion-Hermit | 416,210
-172 | dronegeeks1 | 414,406
-173 | LrnFaroeseWthBergur | 409,488
-174 | Creepy-Nectarine-225 | 393,504
-175 | monkeybombed | 385,527
-176 | SHIFTY-T3RROR | 383,203
-177 | DAMG808 | 383,095
+170 | DAMG808 | 433,095
+171 | LX1070 | 430,671
+172 | Lion-Hermit | 416,210
+173 | dronegeeks1 | 414,406
+174 | LrnFaroeseWthBergur | 409,488
+175 | Creepy-Nectarine-225 | 393,504
+176 | monkeybombed | 385,527
+177 | SHIFTY-T3RROR | 383,203
 178 | MisterM0H0 | 379,338
 179 | zenhodl | 374,566
 180 | hellosamaira | 373,235
@@ -300,7 +300,7 @@ Rank | Username | Totals Tips
 297 | stupidcupid112 | 121,841
 298 | Sativa55555 | 121,550
 299 | lucivaryas | 121,420
-300 | beanwiggin420 | 120,800
+300 | beanwiggin420 | 121,220
 301 | Schl0tz | 120,000
 302 | CaptainCheeseCake | 118,644
 303 | street_shark_puppet | 116,891
