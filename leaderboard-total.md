@@ -1,4 +1,4 @@
-Last updated: 23-09-26 10:00:55 UTC  
+Last updated: 23-09-26 10:22:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | rolonic | 516,377
 156 | Crypto-4-Freedom | 512,934
 157 | f0n1xr131ng | 509,681
-158 | Bobby_Juk | 505,252
+158 | Bobby_Juk | 505,672
 159 | AcceptableLeg8751 | 500,000
 160 | fettskull | 496,832
 161 | Lady_Lucks_Man | 482,403
