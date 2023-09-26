@@ -1,4 +1,4 @@
-Last updated: 23-09-26 02:26:54 UTC  
+Last updated: 23-09-26 02:36:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -1018,19 +1018,19 @@ Rank | Username | Totals Tips
 1015 | Big_Count_6042 | 633
 1016 | Avatar_Degen | 627
 1017 | pelaguras | 627
-1018 | JaJaJaNVM | 608
-1019 | barbiescorvette | 608
-1020 | iiCollinHD | 608
-1021 | liquidlesspaper | 608
-1022 | eskimojerk | 606
-1023 | 0xWednesdei | 594
-1024 | Professer__ | 558
-1025 | glouglas | 558
-1026 | UrFavoriteBedwench | 558
-1027 | Dare2gamer | 544
-1028 | Swordfish-Select | 543
-1029 | justthebelton | 540
-1030 | BuuWrath | 520
+1018 | BuuWrath | 621
+1019 | JaJaJaNVM | 608
+1020 | barbiescorvette | 608
+1021 | iiCollinHD | 608
+1022 | liquidlesspaper | 608
+1023 | eskimojerk | 606
+1024 | 0xWednesdei | 594
+1025 | Professer__ | 558
+1026 | glouglas | 558
+1027 | UrFavoriteBedwench | 558
+1028 | Dare2gamer | 544
+1029 | Swordfish-Select | 543
+1030 | justthebelton | 540
 1031 | Gabba- | 520
 1032 | Right-Shopping9589 | 500
 1033 | I_forgot_my_opinion | 500
