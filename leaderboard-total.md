@@ -1,4 +1,4 @@
-Last updated: 23-09-26 02:05:44 UTC  
+Last updated: 23-09-26 02:26:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -353,8 +353,8 @@ Rank | Username | Totals Tips
 350 | Mother-Werewolf185 | 85,579
 351 | drche35 | 84,642
 352 | Puzzleheaded_Gift738 | 84,020
-353 | shellystarzz | 82,901
-354 | Emeritux | 82,676
+353 | Emeritux | 83,692
+354 | shellystarzz | 82,901
 355 | Admirito | 82,353
 356 | standArtpluto | 82,100
 357 | Bobocod | 81,577
