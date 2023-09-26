@@ -1,4 +1,4 @@
-Last updated: 23-09-26 05:30:39 UTC  
+Last updated: 23-09-26 05:40:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,401,496
 14 | SpookySYN | 12,366,847
-15 | Parush9 | 12,113,661
+15 | Parush9 | 12,116,324
 16 | Permanent_WSB_Bull | 11,204,183
 17 | avyun | 9,371,303
 18 | 8inchConer | 8,947,619
@@ -429,9 +429,9 @@ Rank | Username | Totals Tips
 426 | Zezano | 52,679
 427 | abbasabba2 | 52,647
 428 | ky0984 | 52,257
-429 | ConeHead710 | 52,012
-430 | d_Shazam_b | 51,991
-431 | slasula | 51,466
+429 | slasula | 52,132
+430 | ConeHead710 | 52,012
+431 | d_Shazam_b | 51,991
 432 | d0ntmess87 | 51,278
 433 | imonsterdao | 51,021
 434 | Outside-Wolf5928 | 50,096
