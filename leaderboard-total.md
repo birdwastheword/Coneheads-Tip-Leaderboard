@@ -1,4 +1,4 @@
-Last updated: 23-09-26 22:30:36 UTC  
+Last updated: 23-09-26 22:40:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -228,7 +228,7 @@ Rank | Username | Totals Tips
 225 | 4gsboofd | 247,040
 226 | Significant_Talk4943 | 241,999
 227 | joeviani | 241,717
-228 | Truffle_Shuffle_85 | 238,641
+228 | Truffle_Shuffle_85 | 241,304
 229 | Overall-Extension608 | 237,091
 230 | MuhSound | 235,724
 231 | Zalkwalker | 235,069
