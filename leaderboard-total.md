@@ -1,4 +1,4 @@
-Last updated: 23-09-26 19:00:45 UTC  
+Last updated: 23-09-26 19:14:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,770,215
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,376
-27 | VIVOffical | 5,954,991
+27 | VIVOffical | 5,957,654
 28 | IveDoneItAtLast | 5,752,016
 29 | Ginomania | 5,667,851
 30 | thelonliestcrowd | 5,617,342
@@ -128,11 +128,11 @@ Rank | Username | Totals Tips
 125 | Starterpack69420 | 696,969
 126 | abracadabra087 | 694,465
 127 | firstmatedotxyz | 688,743
-128 | Duskopia | 680,133
-129 | Due_Insurance8159 | 678,620
-130 | SKITZ_ZA | 676,057
-131 | WhateverAlready | 670,371
-132 | Complete-Tadpole-728 | 664,945
+128 | WhateverAlready | 680,371
+129 | Duskopia | 680,133
+130 | Due_Insurance8159 | 678,620
+131 | SKITZ_ZA | 676,057
+132 | Complete-Tadpole-728 | 668,028
 133 | piebagz | 661,815
 134 | junkwatch | 656,932
 135 | MartynDr | 652,759
