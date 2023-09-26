@@ -1,4 +1,4 @@
-Last updated: 23-09-26 01:31:47 UTC  
+Last updated: 23-09-26 02:05:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -8,21 +8,21 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,128,656
+8 | _ships | 18,131,319
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,155,871
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,401,496
 14 | SpookySYN | 12,366,847
-15 | Parush9 | 12,103,366
+15 | Parush9 | 12,108,335
 16 | Permanent_WSB_Bull | 11,204,183
 17 | avyun | 9,371,303
 18 | 8inchConer | 8,947,619
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
-22 | Puddin-Luv | 7,382,770
+22 | Puddin-Luv | 7,385,433
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,767,552
 25 | Real_Player_0 | 6,598,535
@@ -57,11 +57,11 @@ Rank | Username | Totals Tips
 54 | possibili-teas | 2,405,515
 55 | Richicash | 2,281,863
 56 | Autom4tic_Soze | 2,238,954
-57 | 002_timmy | 2,059,494
+57 | 002_timmy | 2,062,157
 58 | 0-Give-a-fucks | 2,047,028
 59 | investigator100 | 2,041,617
 60 | Affectionate_Hand_76 | 1,980,036
-61 | swampyswede | 1,952,170
+61 | swampyswede | 1,954,833
 62 | catlover-100 | 1,931,330
 63 | CMDRGlamdring | 1,919,451
 64 | djrcollectables | 1,882,750
@@ -141,7 +141,7 @@ Rank | Username | Totals Tips
 138 | slirpo | 631,180
 139 | RazPie | 613,307
 140 | superlonelyboy | 611,557
-141 | Complete-Tadpole-728 | 605,839
+141 | Complete-Tadpole-728 | 606,259
 142 | Dripbot8 | 599,035
 143 | __PDS__ | 595,709
 144 | El_Gordone | 592,784
@@ -412,8 +412,8 @@ Rank | Username | Totals Tips
 409 | Yirii | 58,382
 410 | Trink333 | 58,338
 411 | phrodreky | 58,261
-412 | Dottore_Bettore | 57,917
-413 | foreignGER | 57,891
+412 | foreignGER | 57,960
+413 | Dottore_Bettore | 57,917
 414 | Outrageous_Storm6537 | 56,938
 415 | chuloreddit | 55,947
 416 | imbarrydylan | 55,689
