@@ -1,4 +1,4 @@
-Last updated: 23-09-26 20:00:54 UTC  
+Last updated: 23-09-26 20:19:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,407,051
 14 | SpookySYN | 12,366,847
-15 | Parush9 | 12,164,050
+15 | Parush9 | 12,233,479
 16 | Permanent_WSB_Bull | 11,204,183
 17 | avyun | 9,378,272
 18 | 8inchConer | 8,948,039
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | Crypto-4-Freedom | 513,354
 157 | noface_reddit | 510,609
 158 | f0n1xr131ng | 509,681
-159 | Bobby_Juk | 507,772
+159 | Bobby_Juk | 508,192
 160 | shiesto | 504,923
 161 | AcceptableLeg8751 | 500,000
 162 | fettskull | 496,832
@@ -179,12 +179,12 @@ Rank | Username | Totals Tips
 176 | monkeybombed | 385,527
 177 | SHIFTY-T3RROR | 383,203
 178 | MisterM0H0 | 379,338
-179 | zenhodl | 374,566
-180 | hellosamaira | 373,235
-181 | Tinman_ApE | 359,974
-182 | farmertypoerror | 359,212
-183 | Outrageous-Skill-464 | 344,174
-184 | AnduriII | 343,766
+179 | AnduriII | 378,333
+180 | zenhodl | 374,566
+181 | hellosamaira | 373,235
+182 | Tinman_ApE | 359,974
+183 | farmertypoerror | 359,212
+184 | Outrageous-Skill-464 | 344,174
 185 | anony666mous | 341,008
 186 | tsudrat | 340,707
 187 | 83nno | 337,905
