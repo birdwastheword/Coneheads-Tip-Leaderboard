@@ -1,4 +1,4 @@
-Last updated: 23-09-26 16:37:40 UTC  
+Last updated: 23-09-26 16:50:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -137,7 +137,7 @@ Rank | Username | Totals Tips
 134 | MartynDr | 652,759
 135 | MorrisBrett514 | 652,179
 136 | femacampcouncilor | 650,801
-137 | crodbtc | 645,190
+137 | crodbtc | 647,853
 138 | slirpo | 631,180
 139 | Complete-Tadpole-728 | 614,945
 140 | RazPie | 613,307
