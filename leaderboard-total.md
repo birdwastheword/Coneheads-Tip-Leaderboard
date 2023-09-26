@@ -1,4 +1,4 @@
-Last updated: 23-09-26 13:00:32 UTC  
+Last updated: 23-09-26 13:23:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | crypto_grandma | 14,169,703
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,401,496
+13 | SammyCraigar | 12,407,051
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,118,987
 16 | Permanent_WSB_Bull | 11,204,183
@@ -169,12 +169,12 @@ Rank | Username | Totals Tips
 166 | MediaPrestigious8342 | 453,839
 167 | unhingedbigfoot | 439,874
 168 | Mopeiooo | 437,368
-169 | LX1070 | 430,671
-170 | Lion-Hermit | 416,210
-171 | dronegeeks1 | 414,406
-172 | LrnFaroeseWthBergur | 409,488
-173 | Creepy-Nectarine-225 | 393,504
-174 | shiesto | 392,318
+169 | shiesto | 434,387
+170 | LX1070 | 430,671
+171 | Lion-Hermit | 416,210
+172 | dronegeeks1 | 414,406
+173 | LrnFaroeseWthBergur | 409,488
+174 | Creepy-Nectarine-225 | 393,504
 175 | monkeybombed | 385,527
 176 | SHIFTY-T3RROR | 383,203
 177 | DAMG808 | 383,095
