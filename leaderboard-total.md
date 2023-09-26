@@ -1,4 +1,4 @@
-Last updated: 23-09-26 21:16:17 UTC  
+Last updated: 23-09-26 21:24:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,162,832
+8 | _ships | 18,170,892
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,239,123
 11 | transfermymoons | 13,771,858
@@ -132,7 +132,7 @@ Rank | Username | Totals Tips
 129 | Duskopia | 680,133
 130 | Due_Insurance8159 | 678,620
 131 | SKITZ_ZA | 676,057
-132 | Complete-Tadpole-728 | 671,808
+132 | Complete-Tadpole-728 | 672,228
 133 | piebagz | 661,815
 134 | junkwatch | 656,932
 135 | MartynDr | 652,759
@@ -1014,12 +1014,12 @@ Rank | Username | Totals Tips
 1011 | daigsischt | 696
 1012 | TheNano100 | 696
 1013 | Mysterious-Heart-459 | 696
-1014 | Indisciplinato | 677
-1015 | Troll_humper | 665
-1016 | Big_Count_6042 | 633
-1017 | Avatar_Degen | 627
-1018 | pelaguras | 627
-1019 | BuuWrath | 621
+1014 | BuuWrath | 690
+1015 | Indisciplinato | 677
+1016 | Troll_humper | 665
+1017 | Big_Count_6042 | 633
+1018 | Avatar_Degen | 627
+1019 | pelaguras | 627
 1020 | JaJaJaNVM | 608
 1021 | barbiescorvette | 608
 1022 | iiCollinHD | 608
