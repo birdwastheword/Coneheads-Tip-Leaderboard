@@ -1,4 +1,4 @@
-Last updated: 23-09-26 11:33:09 UTC  
+Last updated: 23-09-26 11:41:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | rolonic | 516,377
 156 | Crypto-4-Freedom | 512,934
 157 | f0n1xr131ng | 509,681
-158 | Bobby_Juk | 505,672
+158 | Bobby_Juk | 506,092
 159 | AcceptableLeg8751 | 500,000
 160 | fettskull | 496,832
 161 | Lady_Lucks_Man | 482,403
@@ -208,7 +208,7 @@ Rank | Username | Totals Tips
 205 | tjex666 | 283,221
 206 | Flimsy_Brilliant_239 | 283,107
 207 | astro_nut_ | 280,463
-208 | TummyLice | 277,247
+208 | TummyLice | 279,583
 209 | Virtual-Wrangler5955 | 274,995
 210 | _Mitchee_ | 271,819
 211 | Final-Scar-941 | 271,039
