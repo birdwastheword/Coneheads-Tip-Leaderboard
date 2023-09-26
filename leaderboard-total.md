@@ -1,4 +1,4 @@
-Last updated: 23-09-26 23:40:56 UTC  
+Last updated: 23-09-26 23:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -120,8 +120,8 @@ Rank | Username | Totals Tips
 117 | cannainform2 | 773,077
 118 | dopelifer09 | 755,046
 119 | Obi1eyeKenobi | 730,328
-120 | Successful-Walk-3902 | 724,678
-121 | DogSpark84 | 722,238
+120 | DogSpark84 | 727,564
+121 | Successful-Walk-3902 | 724,678
 122 | starterpack420694 | 710,420
 123 | frickdom | 708,335
 124 | WarmIyWacky | 703,049
