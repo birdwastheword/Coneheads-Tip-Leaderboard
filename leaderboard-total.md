@@ -1,4 +1,4 @@
-Last updated: 23-09-26 04:00:47 UTC  
+Last updated: 23-09-26 04:22:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -15,7 +15,7 @@ Rank | Username | Totals Tips
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,401,496
 14 | SpookySYN | 12,366,847
-15 | Parush9 | 12,108,335
+15 | Parush9 | 12,110,998
 16 | Permanent_WSB_Bull | 11,204,183
 17 | avyun | 9,371,303
 18 | 8inchConer | 8,947,619
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | Autom4tic_Soze | 2,238,954
 57 | 002_timmy | 2,062,157
 58 | 0-Give-a-fucks | 2,047,028
-59 | investigator100 | 2,041,617
+59 | investigator100 | 2,044,280
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,954,833
 62 | catlover-100 | 1,931,330
@@ -156,7 +156,7 @@ Rank | Username | Totals Tips
 153 | TubeNerd92 | 537,829
 154 | doktastonks | 533,988
 155 | rolonic | 516,377
-156 | Crypto-4-Freedom | 512,094
+156 | Crypto-4-Freedom | 512,934
 157 | f0n1xr131ng | 509,681
 158 | Bobby_Juk | 503,992
 159 | AcceptableLeg8751 | 500,000
