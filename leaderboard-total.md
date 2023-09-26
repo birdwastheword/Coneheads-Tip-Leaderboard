@@ -1,4 +1,4 @@
-Last updated: 23-09-26 10:50:45 UTC  
+Last updated: 23-09-26 11:01:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,157,949
 9 | ConeDesk | 17,947,653
-10 | crypto_grandma | 14,162,840
+10 | crypto_grandma | 14,165,503
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,401,496
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,882,750
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,850,236
-67 | Lillica_Golden_SHIB | 1,846,746
+67 | Lillica_Golden_SHIB | 1,846,815
 68 | dealkhabari | 1,767,162
 69 | KONGXIANG | 1,718,942
 70 | Iulian_TechNewb | 1,717,286
@@ -257,8 +257,8 @@ Rank | Username | Totals Tips
 254 | 1ndy1 | 189,485
 255 | ZeMadMan1 | 185,914
 256 | nooobmaester69 | 183,460
-257 | ruccarucca | 180,270
-258 | SaberTurret | 177,643
+257 | SaberTurret | 180,306
+258 | ruccarucca | 180,270
 259 | Jadenindubai | 176,833
 260 | sjakkpila | 175,766
 261 | 192000Hertz | 173,750
