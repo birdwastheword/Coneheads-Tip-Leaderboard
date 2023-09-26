@@ -1,8 +1,8 @@
-Last updated: 23-09-26 19:23:23 UTC  
+Last updated: 23-09-26 19:31:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
-2 | nakamo-toe | 36,497,984
+2 | nakamo-toe | 36,500,647
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,108,687
 5 | waterhasnocalories | 30,910,235
@@ -184,10 +184,10 @@ Rank | Username | Totals Tips
 181 | Tinman_ApE | 359,974
 182 | farmertypoerror | 359,212
 183 | Outrageous-Skill-464 | 344,174
-184 | anony666mous | 341,008
-185 | tsudrat | 340,707
-186 | 83nno | 337,905
-187 | AnduriII | 331,421
+184 | AnduriII | 343,766
+185 | anony666mous | 341,008
+186 | tsudrat | 340,707
+187 | 83nno | 337,905
 188 | maxfra | 326,334
 189 | DrThunderHandz | 325,115
 190 | x52x | 324,929
@@ -521,9 +521,9 @@ Rank | Username | Totals Tips
 518 | Practical-Store9603 | 29,691
 519 | Gilbertll | 29,585
 520 | BottleNcanClapUrHand | 29,321
-521 | Locid | 28,938
-522 | bentolman | 28,891
-523 | TheChillDyl | 28,845
+521 | TheChillDyl | 29,265
+522 | Locid | 28,938
+523 | bentolman | 28,891
 524 | FoleyKali | 28,843
 525 | Fictional_Blook | 28,143
 526 | Fomo- | 28,020
