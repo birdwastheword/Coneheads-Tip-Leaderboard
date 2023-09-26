@@ -1,4 +1,4 @@
-Last updated: 23-09-26 15:50:36 UTC  
+Last updated: 23-09-26 16:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | thelonliestcrowd | 5,617,342
 31 | send420nudes | 5,092,894
 32 | GuyOne | 5,022,272
-33 | redzrex | 4,547,626
+33 | redzrex | 4,550,289
 34 | rikbona | 4,540,773
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
@@ -215,8 +215,8 @@ Rank | Username | Totals Tips
 212 | hey_barry | 269,698
 213 | SetoXlll | 266,136
 214 | SnooMacarons9203 | 265,954
-215 | coolpattakers | 262,340
-216 | the_judge_168 | 262,136
+215 | the_judge_168 | 264,799
+216 | coolpattakers | 262,340
 217 | tmanfromEarth | 258,392
 218 | Hactar_42 | 256,832
 219 | thecrabdad | 256,177
