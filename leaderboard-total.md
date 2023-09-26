@@ -1,8 +1,8 @@
-Last updated: 23-09-26 08:34:08 UTC  
+Last updated: 23-09-26 08:42:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
-2 | nakamo-toe | 36,451,080
+2 | nakamo-toe | 36,479,932
 3 | Wonderful_Bad6531 | 36,369,479
 4 | cutsickass | 32,108,687
 5 | waterhasnocalories | 30,910,235
@@ -399,10 +399,10 @@ Rank | Username | Totals Tips
 396 | TheD1ceMan | 60,541
 397 | CryptoScamee42069 | 60,068
 398 | lucrica | 59,987
-399 | Dboythegreat | 59,726
-400 | Big-Ticket1506 | 59,666
-401 | OniCowboy | 59,487
-402 | LaPantheRose | 59,312
+399 | LaPantheRose | 59,732
+400 | Dboythegreat | 59,726
+401 | Big-Ticket1506 | 59,666
+402 | OniCowboy | 59,487
 403 | preemcuz | 59,154
 404 | ProfessionalIcy6456 | 59,043
 405 | Bandit_005 | 58,966
