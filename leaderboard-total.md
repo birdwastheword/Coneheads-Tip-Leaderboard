@@ -1,4 +1,4 @@
-Last updated: 23-09-26 18:00:47 UTC  
+Last updated: 23-09-26 18:24:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -652,13 +652,13 @@ Rank | Username | Totals Tips
 649 | bageren | 12,038
 650 | Weezthajuice | 12,007
 651 | gnarlypoop | 11,924
-652 | charlythesecond | 11,794
-653 | Hofmaurerad | 11,711
-654 | allisonovo | 11,679
-655 | masstransience | 11,623
-656 | reddit_saltyaf | 11,603
-657 | IndependenceHungry69 | 11,561
-658 | Nugacity5 | 11,499
+652 | Nugacity5 | 11,919
+653 | charlythesecond | 11,794
+654 | Hofmaurerad | 11,711
+655 | allisonovo | 11,679
+656 | masstransience | 11,623
+657 | reddit_saltyaf | 11,603
+658 | IndependenceHungry69 | 11,561
 659 | Fit_Win_541 | 11,327
 660 | RedditReader825 | 11,226
 661 | Most_Border_3917 | 11,129
