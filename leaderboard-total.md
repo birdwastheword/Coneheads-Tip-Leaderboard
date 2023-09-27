@@ -1,4 +1,4 @@
-Last updated: 23-09-27 18:52:03 UTC  
+Last updated: 23-09-27 19:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,445
 27 | VIVOffical | 6,078,480
-28 | IveDoneItAtLast | 5,769,942
+28 | IveDoneItAtLast | 5,796,572
 29 | Ginomania | 5,667,851
 30 | thelonliestcrowd | 5,622,668
 31 | send420nudes | 5,538,877
@@ -429,17 +429,17 @@ Rank | Username | Totals Tips
 426 | Zezano | 52,679
 427 | abbasabba2 | 52,647
 428 | ky0984 | 52,257
-429 | slasula | 52,132
-430 | ConeHead710 | 52,012
-431 | d_Shazam_b | 51,991
-432 | d0ntmess87 | 51,278
-433 | imonsterdao | 51,021
-434 | Outside-Wolf5928 | 50,096
-435 | Dolce_00 | 49,943
-436 | Yogi_Kat | 49,785
-437 | eatthebagels | 49,692
-438 | Rbmui13 | 49,605
-439 | Ronitn | 49,577
+429 | Ronitn | 52,240
+430 | slasula | 52,132
+431 | ConeHead710 | 52,012
+432 | d_Shazam_b | 51,991
+433 | d0ntmess87 | 51,278
+434 | imonsterdao | 51,021
+435 | Outside-Wolf5928 | 50,096
+436 | Dolce_00 | 49,943
+437 | Yogi_Kat | 49,785
+438 | eatthebagels | 49,692
+439 | Rbmui13 | 49,605
 440 | sicilian2124 | 49,529
 441 | Levl1Critter | 49,152
 442 | Historical-Lychee-34 | 48,947
