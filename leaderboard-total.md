@@ -1,4 +1,4 @@
-Last updated: 23-09-27 14:50:28 UTC  
+Last updated: 23-09-27 15:01:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,391,208
@@ -147,7 +147,7 @@ Rank | Username | Totals Tips
 144 | Dripbot8 | 599,035
 145 | __PDS__ | 595,709
 146 | El_Gordone | 592,784
-147 | Burzzzt88 | 592,627
+147 | Burzzzt88 | 592,696
 148 | shiesto | 589,061
 149 | Ninja_Vagabond | 583,836
 150 | Independent_Heart_15 | 578,825
@@ -384,7 +384,7 @@ Rank | Username | Totals Tips
 381 | Rush4Time | 70,079
 382 | Tapiz3land | 68,942
 383 | XBBlade | 68,321
-384 | Atorcran | 67,570
+384 | Atorcran | 67,764
 385 | Friendly-Airline2426 | 66,547
 386 | -geek | 66,318
 387 | imp3order | 65,546
@@ -803,12 +803,12 @@ Rank | Username | Totals Tips
 800 | Buzzalu | 4,824
 801 | Fcbp | 4,800
 802 | billw1zz | 4,791
-803 | final_lionel | 4,626
-804 | AnimeFlamingo | 4,620
-805 | trainspottedCSX7 | 4,597
-806 | Sledheadjack | 4,528
-807 | FoLKOM | 4,422
-808 | snek_oil_ | 4,340
+803 | snek_oil_ | 4,760
+804 | final_lionel | 4,626
+805 | AnimeFlamingo | 4,620
+806 | trainspottedCSX7 | 4,597
+807 | Sledheadjack | 4,528
+808 | FoLKOM | 4,422
 809 | _dual1ty | 4,333
 810 | DepressedVegabond | 4,300
 811 | ADT06 | 4,260
