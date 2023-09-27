@@ -1,4 +1,4 @@
-Last updated: 23-09-27 06:50:40 UTC  
+Last updated: 23-09-27 07:00:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,376
 27 | VIVOffical | 5,957,654
-28 | IveDoneItAtLast | 5,760,115
+28 | IveDoneItAtLast | 5,760,723
 29 | Ginomania | 5,667,851
 30 | thelonliestcrowd | 5,617,342
 31 | send420nudes | 5,521,801
