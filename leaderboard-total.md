@@ -1,4 +1,4 @@
-Last updated: 23-09-27 08:00:58 UTC  
+Last updated: 23-09-27 08:24:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,176,218
 9 | ConeDesk | 17,947,653
-10 | crypto_grandma | 14,262,355
+10 | crypto_grandma | 14,284,613
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,407,051
@@ -76,7 +76,7 @@ Rank | Username | Totals Tips
 73 | GooderZBK | 1,617,267
 74 | ultra_terrestrial | 1,550,476
 75 | Own_Ad_4269 | 1,475,023
-76 | ValiantJudge29500 | 1,441,264
+76 | ValiantJudge29500 | 1,446,264
 77 | YarOldeOrchard | 1,438,286
 78 | isthistomorrow_ | 1,381,135
 79 | Extreme_Issue7325 | 1,345,890
@@ -808,9 +808,9 @@ Rank | Username | Totals Tips
 805 | trainspottedCSX7 | 4,597
 806 | Sledheadjack | 4,528
 807 | FoLKOM | 4,422
-808 | _dual1ty | 4,333
-809 | DepressedVegabond | 4,300
-810 | snek_oil_ | 4,271
+808 | snek_oil_ | 4,340
+809 | _dual1ty | 4,333
+810 | DepressedVegabond | 4,300
 811 | ADT06 | 4,260
 812 | Werd2jaH | 4,205
 813 | OG_Bobcat32 | 4,200
