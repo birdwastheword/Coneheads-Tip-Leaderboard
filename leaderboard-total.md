@@ -1,4 +1,4 @@
-Last updated: 23-09-27 11:50:32 UTC  
+Last updated: 23-09-27 12:08:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,176,218
 9 | ConeDesk | 17,947,653
-10 | crypto_grandma | 14,302,207
+10 | crypto_grandma | 14,309,149
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,407,051
@@ -22,12 +22,12 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,740,111
-22 | Puddin-Luv | 7,390,759
+22 | Puddin-Luv | 7,396,085
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,770,215
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,376
-27 | VIVOffical | 5,967,654
+27 | VIVOffical | 6,067,654
 28 | IveDoneItAtLast | 5,760,723
 29 | Ginomania | 5,667,851
 30 | thelonliestcrowd | 5,617,342
