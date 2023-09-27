@@ -1,4 +1,4 @@
-Last updated: 23-09-27 15:30:37 UTC  
+Last updated: 23-09-27 15:40:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,391,208
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | VIVOffical | 6,078,060
 28 | IveDoneItAtLast | 5,769,394
 29 | Ginomania | 5,667,851
-30 | thelonliestcrowd | 5,617,342
+30 | thelonliestcrowd | 5,620,005
 31 | send420nudes | 5,534,608
 32 | GuyOne | 5,022,272
 33 | redzrex | 4,550,289
@@ -120,7 +120,7 @@ Rank | Username | Totals Tips
 117 | ziggybri | 783,883
 118 | cannainform2 | 773,077
 119 | dopelifer09 | 755,046
-120 | noface_reddit | 732,796
+120 | noface_reddit | 736,996
 121 | Obi1eyeKenobi | 730,328
 122 | DogSpark84 | 728,172
 123 | Successful-Walk-3902 | 724,678
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | shreyaskg | 538,211
 155 | TubeNerd92 | 537,829
 156 | doktastonks | 533,988
-157 | Bobby_Juk | 522,392
+157 | Bobby_Juk | 522,812
 158 | rolonic | 516,377
 159 | Crypto-4-Freedom | 513,354
 160 | f0n1xr131ng | 509,681
