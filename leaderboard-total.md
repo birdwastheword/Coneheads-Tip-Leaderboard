@@ -1,4 +1,4 @@
-Last updated: 23-09-27 12:59:56 UTC  
+Last updated: 23-09-27 13:23:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,391,208
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | crypto_grandma | 14,316,091
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,407,051
+13 | SammyCraigar | 12,460,311
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,204,183
@@ -28,10 +28,10 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,376
 27 | VIVOffical | 6,067,654
-28 | IveDoneItAtLast | 5,760,723
+28 | IveDoneItAtLast | 5,763,386
 29 | Ginomania | 5,667,851
 30 | thelonliestcrowd | 5,617,342
-31 | send420nudes | 5,530,339
+31 | send420nudes | 5,534,608
 32 | GuyOne | 5,022,272
 33 | redzrex | 4,550,289
 34 | rikbona | 4,540,773
@@ -112,7 +112,7 @@ Rank | Username | Totals Tips
 109 | PortCity_MadMan | 834,881
 110 | AustinTX1985 | 821,526
 111 | goldyluckinblokchain | 809,537
-112 | RegalReptile_ | 806,945
+112 | RegalReptile_ | 807,046
 113 | vbutarin | 802,000
 114 | na7oul | 800,000
 115 | Cravensworth_redux | 790,803
@@ -129,18 +129,18 @@ Rank | Username | Totals Tips
 126 | Starterpack69420 | 696,969
 127 | abracadabra087 | 694,465
 128 | firstmatedotxyz | 688,743
-129 | WhateverAlready | 680,371
-130 | Duskopia | 680,133
-131 | Due_Insurance8159 | 678,620
-132 | SKITZ_ZA | 676,057
-133 | Complete-Tadpole-728 | 673,488
-134 | piebagz | 661,815
-135 | junkwatch | 657,421
-136 | MartynDr | 652,759
-137 | MorrisBrett514 | 652,179
-138 | femacampcouncilor | 650,801
-139 | crodbtc | 647,853
-140 | noface_reddit | 638,133
+129 | noface_reddit | 688,133
+130 | WhateverAlready | 680,371
+131 | Duskopia | 680,133
+132 | Due_Insurance8159 | 678,620
+133 | SKITZ_ZA | 676,057
+134 | Complete-Tadpole-728 | 673,488
+135 | piebagz | 661,815
+136 | junkwatch | 657,421
+137 | MartynDr | 652,759
+138 | MorrisBrett514 | 652,179
+139 | femacampcouncilor | 650,801
+140 | crodbtc | 647,853
 141 | slirpo | 631,180
 142 | RazPie | 613,307
 143 | superlonelyboy | 611,557
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | shreyaskg | 538,211
 155 | TubeNerd92 | 537,829
 156 | doktastonks | 533,988
-157 | Bobby_Juk | 521,552
+157 | Bobby_Juk | 521,972
 158 | rolonic | 516,377
 159 | Crypto-4-Freedom | 513,354
 160 | f0n1xr131ng | 509,681
@@ -204,11 +204,11 @@ Rank | Username | Totals Tips
 201 | send_tacoz | 293,576
 202 | MadScientistTheFirst | 290,469
 203 | dinoyeti | 287,544
-204 | deedopete | 286,138
-205 | tjex666 | 283,221
-206 | Flimsy_Brilliant_239 | 283,107
-207 | astro_nut_ | 280,463
-208 | TummyLice | 279,583
+204 | TummyLice | 286,252
+205 | deedopete | 286,138
+206 | tjex666 | 283,221
+207 | Flimsy_Brilliant_239 | 283,107
+208 | astro_nut_ | 280,463
 209 | Virtual-Wrangler5955 | 274,995
 210 | _Mitchee_ | 271,819
 211 | Final-Scar-941 | 271,039
