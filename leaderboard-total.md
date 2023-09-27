@@ -1,4 +1,4 @@
-Last updated: 23-09-27 03:50:48 UTC  
+Last updated: 23-09-27 04:00:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -300,7 +300,7 @@ Rank | Username | Totals Tips
 297 | stupidcupid112 | 121,841
 298 | Sativa55555 | 121,550
 299 | lucivaryas | 121,420
-300 | beanwiggin420 | 121,220
+300 | beanwiggin420 | 121,289
 301 | Schl0tz | 120,000
 302 | CaptainCheeseCake | 118,644
 303 | street_shark_puppet | 116,891
