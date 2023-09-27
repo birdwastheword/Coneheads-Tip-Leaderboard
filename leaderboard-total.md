@@ -1,4 +1,4 @@
-Last updated: 23-09-27 23:18:02 UTC  
+Last updated: 23-09-27 23:30:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -7,7 +7,7 @@ Rank | Username | Totals Tips
 4 | cutsickass | 32,118,767
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
-7 | Jeff5704 | 28,324,597
+7 | Jeff5704 | 28,351,234
 8 | _ships | 18,216,234
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,445
 27 | VIVOffical | 6,078,480
-28 | IveDoneItAtLast | 5,816,472
+28 | IveDoneItAtLast | 5,843,522
 29 | Ginomania | 5,697,144
 30 | thelonliestcrowd | 5,625,331
 31 | send420nudes | 5,543,146
@@ -72,7 +72,7 @@ Rank | Username | Totals Tips
 69 | KONGXIANG | 1,718,942
 70 | Iulian_TechNewb | 1,717,286
 71 | Ten-Mins-Late | 1,709,893
-72 | LongCauliflower6791 | 1,704,498
+72 | LongCauliflower6791 | 1,707,161
 73 | cannainform2 | 1,666,414
 74 | GooderZBK | 1,617,267
 75 | ultra_terrestrial | 1,551,692
