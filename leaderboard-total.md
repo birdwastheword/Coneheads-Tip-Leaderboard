@@ -1,4 +1,4 @@
-Last updated: 23-09-27 12:08:49 UTC  
+Last updated: 23-09-27 12:43:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,176,218
 9 | ConeDesk | 17,947,653
-10 | crypto_grandma | 14,309,149
+10 | crypto_grandma | 14,316,091
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,407,051
@@ -140,15 +140,15 @@ Rank | Username | Totals Tips
 137 | MorrisBrett514 | 652,179
 138 | femacampcouncilor | 650,801
 139 | crodbtc | 647,853
-140 | slirpo | 631,180
-141 | RazPie | 613,307
-142 | superlonelyboy | 611,557
-143 | Dripbot8 | 599,035
-144 | __PDS__ | 595,709
-145 | El_Gordone | 592,784
-146 | Burzzzt88 | 592,627
-147 | shiesto | 589,061
-148 | noface_reddit | 584,634
+140 | noface_reddit | 638,133
+141 | slirpo | 631,180
+142 | RazPie | 613,307
+143 | superlonelyboy | 611,557
+144 | Dripbot8 | 599,035
+145 | __PDS__ | 595,709
+146 | El_Gordone | 592,784
+147 | Burzzzt88 | 592,627
+148 | shiesto | 589,061
 149 | Ninja_Vagabond | 583,836
 150 | Independent_Heart_15 | 578,825
 151 | cryotosensei | 571,262
