@@ -1,4 +1,4 @@
-Last updated: 23-09-27 03:40:55 UTC  
+Last updated: 23-09-27 03:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -330,8 +330,8 @@ Rank | Username | Totals Tips
 327 | FeetAndHandFetish | 98,146
 328 | Knaeggebrott | 97,076
 329 | IOTA_Tesla | 96,607
-330 | RollingSkull0 | 95,883
-331 | CrossPuffs | 95,841
+330 | CrossPuffs | 96,261
+331 | RollingSkull0 | 95,883
 332 | BrendanTFirefly | 95,347
 333 | AhhhUhmmm | 95,181
 334 | Arvalll | 94,992
