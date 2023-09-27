@@ -1,4 +1,4 @@
-Last updated: 23-09-27 18:25:20 UTC  
+Last updated: 23-09-27 18:43:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -103,8 +103,8 @@ Rank | Username | Totals Tips
 100 | EvanIsBacon | 970,416
 101 | Alanski22 | 943,462
 102 | CHEROKEEJ4CK | 940,286
-103 | Forward_Today2849 | 932,405
-104 | noface_reddit | 912,489
+103 | noface_reddit | 939,119
+104 | Forward_Today2849 | 932,405
 105 | Modestexcuse | 903,684
 106 | thee_monster | 896,765
 107 | Bobisdeadrun | 869,016
