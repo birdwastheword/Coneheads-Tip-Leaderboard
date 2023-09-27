@@ -1,4 +1,4 @@
-Last updated: 23-09-27 16:50:55 UTC  
+Last updated: 23-09-27 17:01:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,391,208
@@ -10,7 +10,7 @@ Rank | Username | Totals Tips
 7 | Jeff5704 | 28,324,597
 8 | _ships | 18,176,218
 9 | ConeDesk | 17,947,653
-10 | crypto_grandma | 14,323,033
+10 | crypto_grandma | 14,329,975
 11 | transfermymoons | 13,771,858
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,460,311
@@ -117,7 +117,7 @@ Rank | Username | Totals Tips
 114 | vbutarin | 802,000
 115 | na7oul | 800,000
 116 | Cravensworth_redux | 790,803
-117 | cannainform2 | 789,331
+117 | cannainform2 | 790,309
 118 | Westy3000 | 785,931
 119 | ziggybri | 783,883
 120 | dopelifer09 | 755,046
@@ -127,10 +127,10 @@ Rank | Username | Totals Tips
 124 | starterpack420694 | 710,420
 125 | frickdom | 708,335
 126 | WarmIyWacky | 703,049
-127 | Starterpack69420 | 696,969
-128 | abracadabra087 | 694,465
-129 | firstmatedotxyz | 688,743
-130 | Complete-Tadpole-728 | 682,451
+127 | Complete-Tadpole-728 | 698,054
+128 | Starterpack69420 | 696,969
+129 | abracadabra087 | 694,465
+130 | firstmatedotxyz | 688,743
 131 | WhateverAlready | 680,371
 132 | Duskopia | 680,133
 133 | Due_Insurance8159 | 678,620
@@ -371,11 +371,11 @@ Rank | Username | Totals Tips
 368 | HelicopterDear6064 | 77,619
 369 | Diamond_PnutBrain | 76,771
 370 | Heycheckthisout20 | 75,608
-371 | MedicineMaterial3501 | 74,654
-372 | Steadfast_Apparition | 74,506
-373 | pwan7505 | 73,893
-374 | I_AM_MORE_BADASS | 73,121
-375 | LightninHooker | 72,890
+371 | LightninHooker | 75,553
+372 | MedicineMaterial3501 | 74,654
+373 | Steadfast_Apparition | 74,506
+374 | pwan7505 | 73,893
+375 | I_AM_MORE_BADASS | 73,121
 376 | adi_00_ | 71,759
 377 | CM19901 | 71,276
 378 | sparanaghcoar | 71,118
