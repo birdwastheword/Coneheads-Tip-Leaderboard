@@ -1,4 +1,4 @@
-Last updated: 23-09-27 17:18:48 UTC  
+Last updated: 23-09-27 17:30:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,391,208
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,482,326
-44 | Korean_Street_Pizza | 3,471,218
+44 | Korean_Street_Pizza | 3,471,638
 45 | ZukoBih | 3,456,724
 46 | LordBobTheWhale | 3,337,785
 47 | evilninjarobot | 3,208,037
@@ -116,7 +116,7 @@ Rank | Username | Totals Tips
 113 | RegalReptile_ | 807,046
 114 | vbutarin | 802,000
 115 | na7oul | 800,000
-116 | cannainform2 | 795,635
+116 | cannainform2 | 797,476
 117 | Cravensworth_redux | 790,803
 118 | Westy3000 | 785,931
 119 | ziggybri | 783,883
