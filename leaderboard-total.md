@@ -1,4 +1,4 @@
-Last updated: 23-09-27 17:01:01 UTC  
+Last updated: 23-09-27 17:18:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,391,208
@@ -116,8 +116,8 @@ Rank | Username | Totals Tips
 113 | RegalReptile_ | 807,046
 114 | vbutarin | 802,000
 115 | na7oul | 800,000
-116 | Cravensworth_redux | 790,803
-117 | cannainform2 | 790,309
+116 | cannainform2 | 795,635
+117 | Cravensworth_redux | 790,803
 118 | Westy3000 | 785,931
 119 | ziggybri | 783,883
 120 | dopelifer09 | 755,046
@@ -126,8 +126,8 @@ Rank | Username | Totals Tips
 123 | Successful-Walk-3902 | 724,678
 124 | starterpack420694 | 710,420
 125 | frickdom | 708,335
-126 | WarmIyWacky | 703,049
-127 | Complete-Tadpole-728 | 698,054
+126 | Complete-Tadpole-728 | 706,043
+127 | WarmIyWacky | 703,049
 128 | Starterpack69420 | 696,969
 129 | abracadabra087 | 694,465
 130 | firstmatedotxyz | 688,743
