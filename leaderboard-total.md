@@ -1,4 +1,4 @@
-Last updated: 23-09-27 22:30:59 UTC  
+Last updated: 23-09-27 22:40:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,445
 27 | VIVOffical | 6,078,480
-28 | IveDoneItAtLast | 5,815,624
+28 | IveDoneItAtLast | 5,816,472
 29 | Ginomania | 5,697,144
 30 | thelonliestcrowd | 5,625,331
 31 | send420nudes | 5,543,146
@@ -355,7 +355,7 @@ Rank | Username | Totals Tips
 352 | Mother-Werewolf185 | 85,579
 353 | drche35 | 84,642
 354 | Puzzleheaded_Gift738 | 84,020
-355 | shellystarzz | 82,901
+355 | shellystarzz | 83,509
 356 | Admirito | 82,353
 357 | standArtpluto | 82,100
 358 | Bobocod | 81,577
@@ -380,12 +380,12 @@ Rank | Username | Totals Tips
 377 | CM19901 | 71,276
 378 | sparanaghcoar | 71,118
 379 | ElmerBlack | 70,850
-380 | Dazzling_Marzipan474 | 70,293
-381 | Yoda975 | 70,123
-382 | Rush4Time | 70,079
-383 | Tapiz3land | 68,942
-384 | XBBlade | 68,321
-385 | Atorcran | 67,833
+380 | Atorcran | 70,496
+381 | Dazzling_Marzipan474 | 70,293
+382 | Yoda975 | 70,123
+383 | Rush4Time | 70,079
+384 | Tapiz3land | 68,942
+385 | XBBlade | 68,321
 386 | Friendly-Airline2426 | 66,547
 387 | -geek | 66,318
 388 | imp3order | 65,546
