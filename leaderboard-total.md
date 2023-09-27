@@ -1,4 +1,4 @@
-Last updated: 23-09-27 22:50:49 UTC  
+Last updated: 23-09-27 23:00:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,793,371
-22 | Puddin-Luv | 7,398,748
+22 | Puddin-Luv | 7,404,074
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,772,878
 25 | Real_Player_0 | 6,598,535
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | Iulian_TechNewb | 1,717,286
 71 | Ten-Mins-Late | 1,709,893
 72 | LongCauliflower6791 | 1,704,498
-73 | cannainform2 | 1,660,268
+73 | cannainform2 | 1,666,414
 74 | GooderZBK | 1,617,267
 75 | ultra_terrestrial | 1,551,692
 76 | Own_Ad_4269 | 1,479,161
