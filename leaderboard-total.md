@@ -1,4 +1,4 @@
-Last updated: 23-09-27 21:24:53 UTC  
+Last updated: 23-09-27 21:33:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
-50 | Fenrir-1919 | 2,721,105
+50 | Fenrir-1919 | 2,723,768
 51 | ZoomLong | 2,641,251
 52 | ImAlekBan | 2,615,846
 53 | _Royal_Insylum | 2,603,787
