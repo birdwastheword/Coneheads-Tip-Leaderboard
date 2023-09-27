@@ -1,14 +1,14 @@
-Last updated: 23-09-27 21:00:58 UTC  
+Last updated: 23-09-27 21:16:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
 2 | nakamo-toe | 36,567,222
 3 | Wonderful_Bad6531 | 36,372,142
-4 | cutsickass | 32,113,687
+4 | cutsickass | 32,118,767
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,184,278
+8 | _ships | 18,186,941
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,329,975
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
-50 | Fenrir-1919 | 2,718,442
+50 | Fenrir-1919 | 2,721,105
 51 | ZoomLong | 2,641,251
 52 | ImAlekBan | 2,615,846
 53 | _Royal_Insylum | 2,603,787
@@ -164,7 +164,7 @@ Rank | Username | Totals Tips
 161 | AcceptableLeg8751 | 500,000
 162 | fettskull | 496,832
 163 | Lady_Lucks_Man | 482,403
-164 | stockyewok | 474,141
+164 | stockyewok | 474,561
 165 | sinlesco | 465,153
 166 | WarmlyWacky | 462,118
 167 | MediaPrestigious8342 | 453,839
@@ -844,17 +844,17 @@ Rank | Username | Totals Tips
 841 | superficialization | 3,326
 842 | ineedmoney2023 | 3,307
 843 | QualcunoCF | 3,283
-844 | mondaymoderate | 3,271
-845 | Mulleary | 3,271
-846 | Full-Art-Weeb | 3,258
-847 | LeThaLxdARk | 3,206
-848 | redditagain91 | 3,163
-849 | PopLegion | 3,152
-850 | Positive-Gazelle2603 | 3,152
-851 | Xrim- | 3,142
-852 | Jenn2895 | 3,139
-853 | 0ysterhead | 3,083
-854 | BostonianToro | 3,032
+844 | BostonianToro | 3,272
+845 | mondaymoderate | 3,271
+846 | Mulleary | 3,271
+847 | Full-Art-Weeb | 3,258
+848 | LeThaLxdARk | 3,206
+849 | redditagain91 | 3,163
+850 | PopLegion | 3,152
+851 | Positive-Gazelle2603 | 3,152
+852 | Xrim- | 3,142
+853 | Jenn2895 | 3,139
+854 | 0ysterhead | 3,083
 855 | obaming16 | 3,007
 856 | KingPaladin | 3,000
 857 | SpellApprehensive641 | 2,979
