@@ -1,4 +1,4 @@
-Last updated: 23-09-27 16:25:28 UTC  
+Last updated: 23-09-27 16:37:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,391,208
@@ -134,7 +134,7 @@ Rank | Username | Totals Tips
 131 | Duskopia | 680,133
 132 | Due_Insurance8159 | 678,620
 133 | SKITZ_ZA | 676,057
-134 | Complete-Tadpole-728 | 673,488
+134 | Complete-Tadpole-728 | 673,908
 135 | piebagz | 661,815
 136 | crodbtc | 658,179
 137 | junkwatch | 657,559
