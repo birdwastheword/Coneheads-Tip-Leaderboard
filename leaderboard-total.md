@@ -1,4 +1,4 @@
-Last updated: 23-09-27 17:30:42 UTC  
+Last updated: 23-09-27 17:40:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,391,208
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 18,176,218
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,329,975
-11 | transfermymoons | 13,771,858
+11 | transfermymoons | 13,971,858
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,460,311
 14 | SpookySYN | 12,366,847
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | shreyaskg | 538,211
 155 | TubeNerd92 | 537,829
 156 | doktastonks | 533,988
-157 | Bobby_Juk | 522,812
+157 | Bobby_Juk | 523,232
 158 | rolonic | 516,377
 159 | Crypto-4-Freedom | 513,354
 160 | f0n1xr131ng | 509,681
@@ -410,9 +410,9 @@ Rank | Username | Totals Tips
 407 | Wildspliffosis | 58,703
 408 | losttraveler36 | 58,597
 409 | Yirii | 58,382
-410 | Trink333 | 58,338
-411 | phrodreky | 58,261
-412 | foreignGER | 57,960
+410 | foreignGER | 58,380
+411 | Trink333 | 58,338
+412 | phrodreky | 58,261
 413 | Dottore_Bettore | 57,917
 414 | Outrageous_Storm6537 | 56,938
 415 | halfavocadoemoji | 56,666
