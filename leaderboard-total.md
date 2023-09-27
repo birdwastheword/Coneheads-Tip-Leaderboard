@@ -1,4 +1,4 @@
-Last updated: 23-09-27 14:40:50 UTC  
+Last updated: 23-09-27 14:50:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,391,208
@@ -56,7 +56,7 @@ Rank | Username | Totals Tips
 53 | _Royal_Insylum | 2,603,787
 54 | possibili-teas | 2,405,515
 55 | Richicash | 2,281,863
-56 | Autom4tic_Soze | 2,238,954
+56 | Autom4tic_Soze | 2,241,617
 57 | 002_timmy | 2,062,765
 58 | 0-Give-a-fucks | 2,047,028
 59 | investigator100 | 2,046,943
@@ -227,7 +227,7 @@ Rank | Username | Totals Tips
 224 | Gregoryonetulum | 249,309
 225 | 4gsboofd | 247,040
 226 | Truffle_Shuffle_85 | 243,967
-227 | Significant_Talk4943 | 242,999
+227 | Significant_Talk4943 | 243,419
 228 | joeviani | 241,717
 229 | Overall-Extension608 | 237,091
 230 | MuhSound | 235,724
