@@ -1,4 +1,4 @@
-Last updated: 23-09-27 13:50:32 UTC  
+Last updated: 23-09-27 14:01:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,391,208
@@ -89,7 +89,7 @@ Rank | Username | Totals Tips
 86 | pythonskynet | 1,146,793
 87 | beastlybaker | 1,138,701
 88 | nichnotnick | 1,103,821
-89 | Allions1 | 1,103,511
+89 | Allions1 | 1,103,580
 90 | ID404_Not_Found_8964 | 1,066,725
 91 | UniversalNoobMaster | 1,056,369
 92 | ashketchup422 | 1,042,067
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | shreyaskg | 538,211
 155 | TubeNerd92 | 537,829
 156 | doktastonks | 533,988
-157 | Bobby_Juk | 521,972
+157 | Bobby_Juk | 522,392
 158 | rolonic | 516,377
 159 | Crypto-4-Freedom | 513,354
 160 | f0n1xr131ng | 509,681
@@ -227,7 +227,7 @@ Rank | Username | Totals Tips
 224 | Gregoryonetulum | 249,309
 225 | 4gsboofd | 247,040
 226 | Truffle_Shuffle_85 | 243,967
-227 | Significant_Talk4943 | 241,999
+227 | Significant_Talk4943 | 242,999
 228 | joeviani | 241,717
 229 | Overall-Extension608 | 237,091
 230 | MuhSound | 235,724
