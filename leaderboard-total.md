@@ -1,4 +1,4 @@
-Last updated: 23-09-27 19:50:53 UTC  
+Last updated: 23-09-27 20:01:07 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -57,9 +57,9 @@ Rank | Username | Totals Tips
 54 | possibili-teas | 2,405,515
 55 | Richicash | 2,281,863
 56 | Autom4tic_Soze | 2,241,617
-57 | 002_timmy | 2,062,765
-58 | investigator100 | 2,049,606
-59 | 0-Give-a-fucks | 2,047,028
+57 | 0-Give-a-fucks | 2,091,760
+58 | 002_timmy | 2,062,765
+59 | investigator100 | 2,049,606
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,957,496
 62 | catlover-100 | 1,931,330
@@ -72,7 +72,7 @@ Rank | Username | Totals Tips
 69 | KONGXIANG | 1,718,942
 70 | Iulian_TechNewb | 1,717,286
 71 | Ten-Mins-Late | 1,709,893
-72 | LongCauliflower6791 | 1,675,202
+72 | LongCauliflower6791 | 1,677,865
 73 | cannainform2 | 1,652,802
 74 | GooderZBK | 1,617,267
 75 | ultra_terrestrial | 1,551,692
