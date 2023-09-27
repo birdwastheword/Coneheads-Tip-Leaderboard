@@ -1,4 +1,4 @@
-Last updated: 23-09-27 16:37:55 UTC  
+Last updated: 23-09-27 16:50:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,391,208
@@ -130,11 +130,11 @@ Rank | Username | Totals Tips
 127 | Starterpack69420 | 696,969
 128 | abracadabra087 | 694,465
 129 | firstmatedotxyz | 688,743
-130 | WhateverAlready | 680,371
-131 | Duskopia | 680,133
-132 | Due_Insurance8159 | 678,620
-133 | SKITZ_ZA | 676,057
-134 | Complete-Tadpole-728 | 673,908
+130 | Complete-Tadpole-728 | 682,451
+131 | WhateverAlready | 680,371
+132 | Duskopia | 680,133
+133 | Due_Insurance8159 | 678,620
+134 | SKITZ_ZA | 676,057
 135 | piebagz | 661,815
 136 | crodbtc | 658,179
 137 | junkwatch | 657,559
@@ -385,7 +385,7 @@ Rank | Username | Totals Tips
 382 | Rush4Time | 70,079
 383 | Tapiz3land | 68,942
 384 | XBBlade | 68,321
-385 | Atorcran | 67,764
+385 | Atorcran | 67,833
 386 | Friendly-Airline2426 | 66,547
 387 | -geek | 66,318
 388 | imp3order | 65,546
