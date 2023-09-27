@@ -1,4 +1,4 @@
-Last updated: 23-09-27 17:50:29 UTC  
+Last updated: 23-09-27 18:04:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,391,208
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,445
 27 | VIVOffical | 6,078,480
-28 | IveDoneItAtLast | 5,769,394
+28 | IveDoneItAtLast | 5,769,942
 29 | Ginomania | 5,667,851
 30 | thelonliestcrowd | 5,622,668
 31 | send420nudes | 5,538,877
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | freechickens | 1,028,524
 95 | avatarbot | 1,027,000
 96 | LimpPeanut5633 | 1,010,654
-97 | CluelessSurvivor | 1,006,853
+97 | CluelessSurvivor | 1,009,516
 98 | WarmBiertje | 1,000,000
 99 | virmamies | 992,771
 100 | EvanIsBacon | 970,416
@@ -187,7 +187,7 @@ Rank | Username | Totals Tips
 184 | Outrageous-Skill-464 | 344,174
 185 | anony666mous | 341,008
 186 | tsudrat | 340,707
-187 | 83nno | 338,005
+187 | 83nno | 340,668
 188 | maxfra | 326,334
 189 | DrThunderHandz | 325,115
 190 | x52x | 324,929
