@@ -1,4 +1,4 @@
-Last updated: 23-09-27 11:15:40 UTC  
+Last updated: 23-09-27 11:23:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -67,7 +67,7 @@ Rank | Username | Totals Tips
 64 | djrcollectables | 1,888,076
 65 | Mundane-Farm-4117 | 1,873,613
 66 | jimfird | 1,850,236
-67 | Lillica_Golden_SHIB | 1,846,815
+67 | Lillica_Golden_SHIB | 1,846,884
 68 | dealkhabari | 1,767,162
 69 | KONGXIANG | 1,718,942
 70 | Iulian_TechNewb | 1,717,286
