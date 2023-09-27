@@ -1,4 +1,4 @@
-Last updated: 23-09-27 22:18:37 UTC  
+Last updated: 23-09-27 22:30:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | Iulian_TechNewb | 1,717,286
 71 | Ten-Mins-Late | 1,709,893
 72 | LongCauliflower6791 | 1,704,498
-73 | cannainform2 | 1,653,803
+73 | cannainform2 | 1,660,268
 74 | GooderZBK | 1,617,267
 75 | ultra_terrestrial | 1,551,692
 76 | Own_Ad_4269 | 1,479,161
