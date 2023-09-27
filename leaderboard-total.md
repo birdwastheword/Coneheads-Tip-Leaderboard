@@ -1,4 +1,4 @@
-Last updated: 23-09-27 00:24:32 UTC  
+Last updated: 23-09-27 01:31:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -132,7 +132,7 @@ Rank | Username | Totals Tips
 129 | Duskopia | 680,133
 130 | Due_Insurance8159 | 678,620
 131 | SKITZ_ZA | 676,057
-132 | Complete-Tadpole-728 | 672,228
+132 | Complete-Tadpole-728 | 672,648
 133 | piebagz | 661,815
 134 | junkwatch | 656,932
 135 | MartynDr | 652,759
@@ -330,12 +330,12 @@ Rank | Username | Totals Tips
 327 | FeetAndHandFetish | 98,146
 328 | Knaeggebrott | 97,076
 329 | IOTA_Tesla | 96,607
-330 | CrossPuffs | 95,841
-331 | BrendanTFirefly | 95,347
-332 | AhhhUhmmm | 95,181
-333 | Arvalll | 94,992
-334 | wolfman333 | 93,986
-335 | RollingSkull0 | 93,538
+330 | RollingSkull0 | 95,883
+331 | CrossPuffs | 95,841
+332 | BrendanTFirefly | 95,347
+333 | AhhhUhmmm | 95,181
+334 | Arvalll | 94,992
+335 | wolfman333 | 93,986
 336 | kwickle | 92,805
 337 | H3adshotfox77 | 92,575
 338 | urlz | 92,095
