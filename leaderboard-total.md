@@ -1,4 +1,4 @@
-Last updated: 23-09-27 07:51:04 UTC  
+Last updated: 23-09-27 08:00:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -922,10 +922,10 @@ Rank | Username | Totals Tips
 919 | lulatheq | 1,907
 920 | Pxtxr | 1,901
 921 | bricks_n_coins | 1,840
-922 | Cl0uds_Br0 | 1,820
-923 | virginia669 | 1,791
-924 | WriterMcWriterly | 1,787
-925 | Unlucky_Narwhal3983 | 1,765
+922 | Unlucky_Narwhal3983 | 1,834
+923 | Cl0uds_Br0 | 1,820
+924 | virginia669 | 1,791
+925 | WriterMcWriterly | 1,787
 926 | DWBroodle | 1,709
 927 | PuzzleheadedDream830 | 1,650
 928 | happily_unlawful | 1,645
