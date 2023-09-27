@@ -1,4 +1,4 @@
-Last updated: 23-09-27 23:00:45 UTC  
+Last updated: 23-09-27 23:18:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | swampyswede | 1,957,496
 62 | catlover-100 | 1,931,330
 63 | CMDRGlamdring | 1,919,451
-64 | djrcollectables | 1,896,673
+64 | djrcollectables | 1,899,336
 65 | Mundane-Farm-4117 | 1,876,613
 66 | jimfird | 1,850,236
 67 | Lillica_Golden_SHIB | 1,846,953
@@ -163,15 +163,15 @@ Rank | Username | Totals Tips
 160 | f0n1xr131ng | 509,681
 161 | AcceptableLeg8751 | 500,000
 162 | fettskull | 496,832
-163 | Lady_Lucks_Man | 482,403
-164 | stockyewok | 474,561
-165 | sinlesco | 465,153
-166 | WarmlyWacky | 462,118
-167 | MediaPrestigious8342 | 453,839
-168 | AnduriII | 450,996
-169 | unhingedbigfoot | 439,874
-170 | Mopeiooo | 437,368
-171 | DAMG808 | 433,095
+163 | DAMG808 | 483,095
+164 | Lady_Lucks_Man | 482,403
+165 | stockyewok | 474,561
+166 | sinlesco | 465,153
+167 | WarmlyWacky | 462,118
+168 | MediaPrestigious8342 | 453,839
+169 | AnduriII | 450,996
+170 | unhingedbigfoot | 439,874
+171 | Mopeiooo | 437,368
 172 | LX1070 | 430,671
 173 | Lion-Hermit | 416,210
 174 | dronegeeks1 | 414,406
