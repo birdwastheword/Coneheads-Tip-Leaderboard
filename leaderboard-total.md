@@ -1,4 +1,4 @@
-Last updated: 23-09-27 23:40:33 UTC  
+Last updated: 23-09-27 23:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,351,234
-8 | _ships | 18,216,234
+8 | _ships | 18,218,897
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,329,975
@@ -182,7 +182,7 @@ Rank | Username | Totals Tips
 179 | MisterM0H0 | 379,338
 180 | zenhodl | 374,566
 181 | hellosamaira | 373,235
-182 | Tinman_ApE | 359,974
+182 | Tinman_ApE | 360,582
 183 | farmertypoerror | 359,212
 184 | Outrageous-Skill-464 | 344,174
 185 | anony666mous | 341,008
