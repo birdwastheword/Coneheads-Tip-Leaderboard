@@ -1,4 +1,4 @@
-Last updated: 23-09-27 21:42:13 UTC  
+Last updated: 23-09-27 21:50:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,329,975
 12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,460,311
+13 | SammyCraigar | 12,460,731
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,204,183
@@ -73,7 +73,7 @@ Rank | Username | Totals Tips
 70 | Iulian_TechNewb | 1,717,286
 71 | Ten-Mins-Late | 1,709,893
 72 | LongCauliflower6791 | 1,677,865
-73 | cannainform2 | 1,652,802
+73 | cannainform2 | 1,653,803
 74 | GooderZBK | 1,617,267
 75 | ultra_terrestrial | 1,551,692
 76 | Own_Ad_4269 | 1,479,161
@@ -124,8 +124,8 @@ Rank | Username | Totals Tips
 121 | Obi1eyeKenobi | 730,328
 122 | DogSpark84 | 728,172
 123 | Successful-Walk-3902 | 724,678
-124 | starterpack420694 | 710,420
-125 | frickdom | 708,335
+124 | frickdom | 710,998
+125 | starterpack420694 | 710,420
 126 | Complete-Tadpole-728 | 706,043
 127 | WarmIyWacky | 703,049
 128 | Starterpack69420 | 696,969
