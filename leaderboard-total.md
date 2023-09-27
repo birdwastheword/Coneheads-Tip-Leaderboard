@@ -1,4 +1,4 @@
-Last updated: 23-09-27 01:31:40 UTC  
+Last updated: 23-09-27 02:05:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,364,578
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,170,892
+8 | _ships | 18,173,555
 9 | ConeDesk | 17,947,653
 10 | crypto_grandma | 14,239,123
 11 | transfermymoons | 13,771,858
@@ -336,11 +336,11 @@ Rank | Username | Totals Tips
 333 | AhhhUhmmm | 95,181
 334 | Arvalll | 94,992
 335 | wolfman333 | 93,986
-336 | kwickle | 92,805
-337 | H3adshotfox77 | 92,575
-338 | urlz | 92,095
-339 | Backwood20 | 90,298
-340 | DramaticProtogen | 90,274
+336 | DramaticProtogen | 92,937
+337 | kwickle | 92,805
+338 | H3adshotfox77 | 92,575
+339 | urlz | 92,095
+340 | Backwood20 | 90,298
 341 | Award-Bot | 90,000
 342 | Marauder2 | 89,421
 343 | MedicalJockey | 89,084
