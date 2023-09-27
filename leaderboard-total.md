@@ -1,4 +1,4 @@
-Last updated: 23-09-27 21:50:27 UTC  
+Last updated: 23-09-27 22:00:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,324,597
-8 | _ships | 18,186,941
+8 | _ships | 18,213,571
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,329,975
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,793,371
-22 | Puddin-Luv | 7,396,085
+22 | Puddin-Luv | 7,398,748
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,772,878
 25 | Real_Player_0 | 6,598,535
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | possibili-teas | 2,405,515
 55 | Richicash | 2,281,863
 56 | Autom4tic_Soze | 2,241,617
-57 | 0-Give-a-fucks | 2,091,760
+57 | 0-Give-a-fucks | 2,094,423
 58 | 002_timmy | 2,062,765
 59 | investigator100 | 2,049,606
 60 | Affectionate_Hand_76 | 1,980,036
@@ -804,7 +804,7 @@ Rank | Username | Totals Tips
 801 | Fcbp | 4,800
 802 | billw1zz | 4,791
 803 | snek_oil_ | 4,760
-804 | final_lionel | 4,626
+804 | final_lionel | 4,695
 805 | AnimeFlamingo | 4,620
 806 | trainspottedCSX7 | 4,597
 807 | Sledheadjack | 4,528
