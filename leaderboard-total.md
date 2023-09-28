@@ -1,8 +1,8 @@
-Last updated: 23-09-28 15:30:47 UTC  
+Last updated: 23-09-28 15:40:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
-2 | nakamo-toe | 36,662,354
+2 | nakamo-toe | 36,695,310
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,118,767
 5 | waterhasnocalories | 30,910,235
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | doktastonks | 533,988
 157 | Bobby_Juk | 531,355
 158 | rolonic | 516,377
-159 | Crypto-4-Freedom | 515,172
+159 | Crypto-4-Freedom | 515,592
 160 | f0n1xr131ng | 509,681
 161 | AcceptableLeg8751 | 500,000
 162 | fettskull | 496,832
@@ -210,8 +210,8 @@ Rank | Username | Totals Tips
 207 | Flimsy_Brilliant_239 | 283,107
 208 | astro_nut_ | 280,463
 209 | _Mitchee_ | 277,145
-210 | Virtual-Wrangler5955 | 274,995
-211 | SnooMacarons9203 | 274,143
+210 | SnooMacarons9203 | 276,806
+211 | Virtual-Wrangler5955 | 274,995
 212 | Final-Scar-941 | 271,039
 213 | hey_barry | 269,698
 214 | SetoXlll | 266,136
