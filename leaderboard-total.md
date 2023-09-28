@@ -1,4 +1,4 @@
-Last updated: 23-09-28 21:33:06 UTC  
+Last updated: 23-09-28 21:41:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
-21 | Geniuskills | 7,793,371
+21 | Geniuskills | 7,862,791
 22 | Puddin-Luv | 7,407,577
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,776,569
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | VIVOffical | 6,097,121
 28 | IveDoneItAtLast | 5,846,432
 29 | Ginomania | 5,697,144
-30 | thelonliestcrowd | 5,659,957
+30 | thelonliestcrowd | 5,689,257
 31 | send420nudes | 5,560,222
 32 | GuyOne | 5,023,488
 33 | redzrex | 4,552,952
@@ -253,8 +253,8 @@ Rank | Username | Totals Tips
 250 | redditavanft | 195,122
 251 | AverageLiberalJoe | 195,007
 252 | RiightYouKnow | 193,329
-253 | bakerdawg555 | 192,028
-254 | SaberTurret | 189,907
+253 | SaberTurret | 192,570
+254 | bakerdawg555 | 192,028
 255 | 1ndy1 | 189,485
 256 | ZeMadMan1 | 185,914
 257 | nooobmaester69 | 183,460
