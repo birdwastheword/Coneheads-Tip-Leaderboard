@@ -1,4 +1,4 @@
-Last updated: 23-09-28 02:05:18 UTC  
+Last updated: 23-09-28 02:25:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -11,9 +11,9 @@ Rank | Username | Totals Tips
 8 | _ships | 18,231,723
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
-11 | crypto_grandma | 14,329,975
+11 | crypto_grandma | 14,336,838
 12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,465,175
+13 | SammyCraigar | 12,465,783
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,204,183
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,772,878
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,445
-27 | VIVOffical | 6,081,143
+27 | VIVOffical | 6,086,469
 28 | IveDoneItAtLast | 5,845,216
 29 | Ginomania | 5,697,144
 30 | thelonliestcrowd | 5,625,331
@@ -233,8 +233,8 @@ Rank | Username | Totals Tips
 230 | MuhSound | 235,724
 231 | Zalkwalker | 235,069
 232 | alexthemay | 234,131
-233 | CoverYourMaskHoles | 229,708
-234 | Conetent | 229,413
+233 | Conetent | 232,076
+234 | CoverYourMaskHoles | 229,708
 235 | ShortBusCult | 227,037
 236 | Ashamed_Raccoon9918 | 224,697
 237 | SourBeefHoop | 217,512
