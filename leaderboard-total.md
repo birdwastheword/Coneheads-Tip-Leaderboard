@@ -1,4 +1,4 @@
-Last updated: 23-09-28 11:32:31 UTC  
+Last updated: 23-09-28 11:40:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,793,371
-22 | Puddin-Luv | 7,406,737
+22 | Puddin-Luv | 7,407,157
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,773,298
 25 | Real_Player_0 | 6,598,535
