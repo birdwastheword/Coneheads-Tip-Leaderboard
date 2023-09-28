@@ -1,4 +1,4 @@
-Last updated: 23-09-28 04:50:36 UTC  
+Last updated: 23-09-28 05:00:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -137,7 +137,7 @@ Rank | Username | Totals Tips
 134 | SKITZ_ZA | 676,057
 135 | crodbtc | 668,179
 136 | piebagz | 661,815
-137 | junkwatch | 657,559
+137 | junkwatch | 657,628
 138 | MartynDr | 652,759
 139 | MorrisBrett514 | 652,179
 140 | femacampcouncilor | 650,801
