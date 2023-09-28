@@ -1,4 +1,4 @@
-Last updated: 23-09-28 23:30:51 UTC  
+Last updated: 23-09-28 23:40:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | Ginomania | 5,697,144
 30 | thelonliestcrowd | 5,691,920
 31 | send420nudes | 5,560,222
-32 | GuyOne | 5,023,488
+32 | GuyOne | 5,024,096
 33 | redzrex | 4,552,952
 34 | rikbona | 4,540,773
 35 | bigbilly1234567899 | 4,496,042
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | shreyaskg | 538,211
 155 | TubeNerd92 | 537,829
 156 | doktastonks | 533,988
-157 | Bobby_Juk | 533,035
+157 | Bobby_Juk | 533,455
 158 | rolonic | 516,377
 159 | Crypto-4-Freedom | 515,592
 160 | f0n1xr131ng | 509,681
@@ -316,8 +316,8 @@ Rank | Username | Totals Tips
 313 | Showwwy87 | 110,923
 314 | Strong_Constant_1190 | 110,325
 315 | PushyDevolution | 110,216
-316 | Jlt42000 | 107,091
-317 | customsolitaires | 106,985
+316 | customsolitaires | 107,593
+317 | Jlt42000 | 107,091
 318 | AD_VICTORIAM_x | 106,876
 319 | i_wake_up_at_12 | 106,333
 320 | LaPantheRose | 106,070
