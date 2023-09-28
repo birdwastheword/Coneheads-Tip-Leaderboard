@@ -1,4 +1,4 @@
-Last updated: 23-09-28 03:41:02 UTC  
+Last updated: 23-09-28 03:50:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -555,7 +555,7 @@ Rank | Username | Totals Tips
 552 | 4ucklehead | 24,684
 553 | liberovento | 24,307
 554 | SquatAngry | 23,630
-555 | WiseDude69 | 23,276
+555 | WiseDude69 | 23,345
 556 | africanasshat | 23,062
 557 | tiger1647 | 23,019
 558 | AntonioTT05 | 22,876
