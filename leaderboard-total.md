@@ -1,4 +1,4 @@
-Last updated: 23-09-28 16:54:22 UTC  
+Last updated: 23-09-28 17:07:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -32,14 +32,14 @@ Rank | Username | Totals Tips
 29 | Ginomania | 5,697,144
 30 | thelonliestcrowd | 5,633,320
 31 | send420nudes | 5,560,222
-32 | GuyOne | 5,022,880
+32 | GuyOne | 5,023,488
 33 | redzrex | 4,552,952
 34 | rikbona | 4,540,773
 35 | bigbilly1234567899 | 4,496,042
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,283,303
 38 | DontLaughArt | 4,204,829
-39 | zdubs | 3,774,758
+39 | zdubs | 3,775,366
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
@@ -320,7 +320,7 @@ Rank | Username | Totals Tips
 317 | AD_VICTORIAM_x | 106,876
 318 | i_wake_up_at_12 | 106,333
 319 | LaPantheRose | 106,070
-320 | customsolitaires | 105,468
+320 | customsolitaires | 105,888
 321 | diamondbored | 105,458
 322 | redditinchina | 105,444
 323 | Chanyuui1 | 104,940
