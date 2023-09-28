@@ -1,4 +1,4 @@
-Last updated: 23-09-28 18:00:59 UTC  
+Last updated: 23-09-28 18:24:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,773,298
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,445
-27 | VIVOffical | 6,094,458
+27 | VIVOffical | 6,097,121
 28 | IveDoneItAtLast | 5,846,432
 29 | Ginomania | 5,697,144
 30 | thelonliestcrowd | 5,633,320
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | Richicash | 2,281,863
 56 | Autom4tic_Soze | 2,241,617
 57 | 0-Give-a-fucks | 2,094,423
-58 | 002_timmy | 2,065,428
+58 | 002_timmy | 2,068,091
 59 | investigator100 | 2,049,606
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,957,496
@@ -123,8 +123,8 @@ Rank | Username | Totals Tips
 120 | DogSpark84 | 757,465
 121 | dopelifer09 | 755,046
 122 | Obi1eyeKenobi | 730,328
-123 | Successful-Walk-3902 | 724,678
-124 | Complete-Tadpole-728 | 718,796
+123 | Complete-Tadpole-728 | 725,659
+124 | Successful-Walk-3902 | 724,678
 125 | frickdom | 710,998
 126 | starterpack420694 | 710,420
 127 | WarmIyWacky | 703,049
@@ -139,7 +139,7 @@ Rank | Username | Totals Tips
 136 | piebagz | 661,815
 137 | junkwatch | 657,697
 138 | MartynDr | 652,759
-139 | MorrisBrett514 | 652,179
+139 | MorrisBrett514 | 652,248
 140 | femacampcouncilor | 650,801
 141 | slirpo | 631,180
 142 | RazPie | 613,307
@@ -648,12 +648,12 @@ Rank | Username | Totals Tips
 645 | FixFull | 12,501
 646 | Dapper_Bloke88 | 12,451
 647 | noah1754 | 12,435
-648 | wesleylyan | 12,257
-649 | ZeusDubstep | 12,050
-650 | bageren | 12,038
-651 | Weezthajuice | 12,007
-652 | gnarlypoop | 11,924
-653 | Nugacity5 | 11,919
+648 | Nugacity5 | 12,339
+649 | wesleylyan | 12,257
+650 | ZeusDubstep | 12,050
+651 | bageren | 12,038
+652 | Weezthajuice | 12,007
+653 | gnarlypoop | 11,924
 654 | charlythesecond | 11,794
 655 | Hofmaurerad | 11,711
 656 | allisonovo | 11,679
