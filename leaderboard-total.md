@@ -1,4 +1,4 @@
-Last updated: 23-09-28 12:08:50 UTC  
+Last updated: 23-09-28 12:42:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | Allions1 | 1,103,787
 91 | ID404_Not_Found_8964 | 1,066,725
 92 | UniversalNoobMaster | 1,056,369
-93 | noface_reddit | 1,042,240
+93 | noface_reddit | 1,044,903
 94 | ashketchup422 | 1,042,067
 95 | freechickens | 1,028,524
 96 | avatarbot | 1,027,000
