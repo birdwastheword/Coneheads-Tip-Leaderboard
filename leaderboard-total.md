@@ -1,4 +1,4 @@
-Last updated: 23-09-28 23:01:05 UTC  
+Last updated: 23-09-28 23:18:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | LongCauliflower6791 | 1,707,161
 73 | cannainform2 | 1,666,414
 74 | GooderZBK | 1,617,267
-75 | ultra_terrestrial | 1,551,692
+75 | ultra_terrestrial | 1,552,112
 76 | Own_Ad_4269 | 1,479,161
 77 | ValiantJudge29500 | 1,446,265
 78 | YarOldeOrchard | 1,438,286
