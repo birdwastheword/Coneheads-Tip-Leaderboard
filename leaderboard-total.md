@@ -1,8 +1,8 @@
-Last updated: 23-09-28 15:20:06 UTC  
+Last updated: 23-09-28 15:30:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
-2 | nakamo-toe | 36,607,167
+2 | nakamo-toe | 36,662,354
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,118,767
 5 | waterhasnocalories | 30,910,235
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
-50 | Fenrir-1919 | 2,723,768
+50 | Fenrir-1919 | 2,726,431
 51 | ZoomLong | 2,641,251
 52 | ImAlekBan | 2,625,846
 53 | _Royal_Insylum | 2,603,787
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | doktastonks | 533,988
 157 | Bobby_Juk | 531,355
 158 | rolonic | 516,377
-159 | Crypto-4-Freedom | 515,103
+159 | Crypto-4-Freedom | 515,172
 160 | f0n1xr131ng | 509,681
 161 | AcceptableLeg8751 | 500,000
 162 | fettskull | 496,832
@@ -254,8 +254,8 @@ Rank | Username | Totals Tips
 251 | AverageLiberalJoe | 195,007
 252 | RiightYouKnow | 193,329
 253 | bakerdawg555 | 192,028
-254 | 1ndy1 | 189,485
-255 | SaberTurret | 187,244
+254 | SaberTurret | 189,907
+255 | 1ndy1 | 189,485
 256 | ZeMadMan1 | 185,914
 257 | nooobmaester69 | 183,460
 258 | ruccarucca | 180,270
