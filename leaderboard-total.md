@@ -1,4 +1,4 @@
-Last updated: 23-09-28 10:32:08 UTC  
+Last updated: 23-09-28 10:40:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -211,7 +211,7 @@ Rank | Username | Totals Tips
 208 | astro_nut_ | 280,463
 209 | Virtual-Wrangler5955 | 274,995
 210 | _Mitchee_ | 274,482
-211 | SnooMacarons9203 | 271,480
+211 | SnooMacarons9203 | 274,143
 212 | Final-Scar-941 | 271,039
 213 | hey_barry | 269,698
 214 | SetoXlll | 266,136
