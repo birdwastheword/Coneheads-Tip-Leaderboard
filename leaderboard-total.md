@@ -1,4 +1,4 @@
-Last updated: 23-09-28 21:50:28 UTC  
+Last updated: 23-09-28 22:00:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -232,8 +232,8 @@ Rank | Username | Totals Tips
 229 | Overall-Extension608 | 239,754
 230 | MuhSound | 235,724
 231 | Zalkwalker | 235,069
-232 | alexthemay | 234,131
-233 | Conetent | 232,076
+232 | Conetent | 234,739
+233 | alexthemay | 234,131
 234 | CoverYourMaskHoles | 229,708
 235 | ShortBusCult | 227,877
 236 | Ashamed_Raccoon9918 | 224,697
