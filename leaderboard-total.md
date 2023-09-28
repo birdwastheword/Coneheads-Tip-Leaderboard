@@ -1,4 +1,4 @@
-Last updated: 23-09-28 14:51:06 UTC  
+Last updated: 23-09-28 15:01:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -584,11 +584,11 @@ Rank | Username | Totals Tips
 581 | Iiwip | 19,533
 582 | MalarkyD | 19,527
 583 | Defeat-the-Kraken | 19,378
-584 | ___MOM___ | 18,853
-585 | Fivebag | 18,704
-586 | D6P6 | 18,447
-587 | masterassassin93 | 18,409
-588 | Mrmakanakai | 18,032
+584 | Mrmakanakai | 19,343
+585 | ___MOM___ | 18,853
+586 | Fivebag | 18,704
+587 | D6P6 | 18,447
+588 | masterassassin93 | 18,409
 589 | Collectibl3 | 18,024
 590 | NSFWCryptoPosting | 17,775
 591 | augustsIippedaway | 17,739
