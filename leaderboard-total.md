@@ -1,4 +1,4 @@
-Last updated: 23-09-28 08:00:59 UTC  
+Last updated: 23-09-28 08:24:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 18,234,386
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
-11 | crypto_grandma | 14,338,433
+11 | crypto_grandma | 14,342,702
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,465,783
 14 | SpookySYN | 12,366,847
@@ -157,9 +157,9 @@ Rank | Username | Totals Tips
 154 | shreyaskg | 538,211
 155 | TubeNerd92 | 537,829
 156 | doktastonks | 533,988
-157 | Bobby_Juk | 528,835
+157 | Bobby_Juk | 529,675
 158 | rolonic | 516,377
-159 | Crypto-4-Freedom | 514,263
+159 | Crypto-4-Freedom | 514,683
 160 | f0n1xr131ng | 509,681
 161 | AcceptableLeg8751 | 500,000
 162 | fettskull | 496,832
@@ -618,10 +618,10 @@ Rank | Username | Totals Tips
 615 | imeme1969 | 15,070
 616 | abbasabba260 | 14,773
 617 | Big_Bonus3617 | 14,763
-618 | redbasl | 14,643
-619 | Hancock02 | 14,583
-620 | mixmasterpayne | 14,547
-621 | Snek-Life | 14,289
+618 | Snek-Life | 14,709
+619 | redbasl | 14,643
+620 | Hancock02 | 14,583
+621 | mixmasterpayne | 14,547
 622 | cole-badger | 14,269
 623 | theycallmekimpembe | 14,037
 624 | TamilPunk | 13,754
