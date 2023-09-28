@@ -1,4 +1,4 @@
-Last updated: 23-09-28 04:22:11 UTC  
+Last updated: 23-09-28 04:30:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -621,9 +621,9 @@ Rank | Username | Totals Tips
 618 | redbasl | 14,643
 619 | Hancock02 | 14,583
 620 | mixmasterpayne | 14,547
-621 | cole-badger | 14,269
-622 | theycallmekimpembe | 14,037
-623 | Snek-Life | 13,869
+621 | Snek-Life | 14,289
+622 | cole-badger | 14,269
+623 | theycallmekimpembe | 14,037
 624 | TamilPunk | 13,754
 625 | osoese | 13,680
 626 | mantrakid | 13,644
