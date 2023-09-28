@@ -1,4 +1,4 @@
-Last updated: 23-09-28 22:00:58 UTC  
+Last updated: 23-09-28 22:19:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,361,502
 12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,466,291
+13 | SammyCraigar | 12,468,954
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,846
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | Allions1 | 1,103,787
 91 | ID404_Not_Found_8964 | 1,066,725
 92 | UniversalNoobMaster | 1,056,369
-93 | noface_reddit | 1,044,903
+93 | noface_reddit | 1,047,566
 94 | ashketchup422 | 1,042,067
 95 | freechickens | 1,028,524
 96 | avatarbot | 1,027,000
@@ -317,8 +317,8 @@ Rank | Username | Totals Tips
 314 | Strong_Constant_1190 | 110,325
 315 | PushyDevolution | 110,216
 316 | Jlt42000 | 107,091
-317 | AD_VICTORIAM_x | 106,876
-318 | customsolitaires | 106,377
+317 | customsolitaires | 106,985
+318 | AD_VICTORIAM_x | 106,876
 319 | i_wake_up_at_12 | 106,333
 320 | LaPantheRose | 106,070
 321 | diamondbored | 105,458
