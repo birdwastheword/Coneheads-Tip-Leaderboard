@@ -1,4 +1,4 @@
-Last updated: 23-09-28 13:26:56 UTC  
+Last updated: 23-09-28 13:36:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -389,8 +389,8 @@ Rank | Username | Totals Tips
 386 | Friendly-Airline2426 | 66,547
 387 | -geek | 66,318
 388 | imp3order | 65,546
-389 | damnusernamegotcutof | 65,004
-390 | KrunchyKushKing | 64,803
+389 | KrunchyKushKing | 65,223
+390 | damnusernamegotcutof | 65,004
 391 | zuzieey7719 | 64,618
 392 | slug_tamer | 64,285
 393 | guokaidi | 63,581
