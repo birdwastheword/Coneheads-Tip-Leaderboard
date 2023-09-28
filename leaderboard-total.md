@@ -1,10 +1,10 @@
-Last updated: 23-09-28 22:40:39 UTC  
+Last updated: 23-09-28 22:50:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
 2 | nakamo-toe | 36,771,973
 3 | Wonderful_Bad6531 | 36,372,142
-4 | cutsickass | 32,118,767
+4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,351,234
@@ -148,7 +148,7 @@ Rank | Username | Totals Tips
 145 | __PDS__ | 595,709
 146 | El_Gordone | 592,784
 147 | Burzzzt88 | 592,696
-148 | shiesto | 589,061
+148 | shiesto | 591,724
 149 | Ninja_Vagabond | 583,836
 150 | Independent_Heart_15 | 578,825
 151 | cryotosensei | 571,262
