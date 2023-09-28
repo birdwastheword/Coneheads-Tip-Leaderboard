@@ -1,4 +1,4 @@
-Last updated: 23-09-28 06:07:24 UTC  
+Last updated: 23-09-28 06:26:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | VIVOffical | 6,089,132
 28 | IveDoneItAtLast | 5,845,216
 29 | Ginomania | 5,697,144
-30 | thelonliestcrowd | 5,625,331
+30 | thelonliestcrowd | 5,627,994
 31 | send420nudes | 5,543,146
 32 | GuyOne | 5,022,880
 33 | redzrex | 4,550,289
@@ -93,8 +93,8 @@ Rank | Username | Totals Tips
 90 | Allions1 | 1,103,787
 91 | ID404_Not_Found_8964 | 1,066,725
 92 | UniversalNoobMaster | 1,056,369
-93 | ashketchup422 | 1,042,067
-94 | noface_reddit | 1,033,840
+93 | noface_reddit | 1,042,240
+94 | ashketchup422 | 1,042,067
 95 | freechickens | 1,028,524
 96 | avatarbot | 1,027,000
 97 | LimpPeanut5633 | 1,010,654
@@ -798,13 +798,13 @@ Rank | Username | Totals Tips
 795 | My_Man_Tyrone | 5,000
 796 | Kzis | 4,937
 797 | JAlbert653 | 4,935
-798 | 0xwert | 4,845
-799 | mcbifter | 4,834
-800 | Buzzalu | 4,824
-801 | Fcbp | 4,800
-802 | billw1zz | 4,791
-803 | snek_oil_ | 4,760
-804 | final_lionel | 4,695
+798 | final_lionel | 4,895
+799 | 0xwert | 4,845
+800 | mcbifter | 4,834
+801 | Buzzalu | 4,824
+802 | Fcbp | 4,800
+803 | billw1zz | 4,791
+804 | snek_oil_ | 4,760
 805 | AnimeFlamingo | 4,620
 806 | trainspottedCSX7 | 4,597
 807 | Sledheadjack | 4,528
