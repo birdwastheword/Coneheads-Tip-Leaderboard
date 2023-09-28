@@ -1,4 +1,4 @@
-Last updated: 23-09-28 17:34:39 UTC  
+Last updated: 23-09-28 17:42:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -320,7 +320,7 @@ Rank | Username | Totals Tips
 317 | AD_VICTORIAM_x | 106,876
 318 | i_wake_up_at_12 | 106,333
 319 | LaPantheRose | 106,070
-320 | customsolitaires | 105,888
+320 | customsolitaires | 105,957
 321 | diamondbored | 105,458
 322 | redditinchina | 105,444
 323 | Chanyuui1 | 104,940
