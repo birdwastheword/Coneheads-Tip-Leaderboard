@@ -1,8 +1,8 @@
-Last updated: 23-09-28 20:40:43 UTC  
+Last updated: 23-09-28 20:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
-2 | nakamo-toe | 36,769,310
+2 | nakamo-toe | 36,771,973
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,118,767
 5 | waterhasnocalories | 30,910,235
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | VIVOffical | 6,097,121
 28 | IveDoneItAtLast | 5,846,432
 29 | Ginomania | 5,697,144
-30 | thelonliestcrowd | 5,633,320
+30 | thelonliestcrowd | 5,659,957
 31 | send420nudes | 5,560,222
 32 | GuyOne | 5,023,488
 33 | redzrex | 4,552,952
