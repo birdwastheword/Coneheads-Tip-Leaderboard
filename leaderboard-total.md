@@ -1,4 +1,4 @@
-Last updated: 23-09-28 19:00:58 UTC  
+Last updated: 23-09-28 19:15:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,361,502
 12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,465,783
+13 | SammyCraigar | 12,466,291
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,204,183
