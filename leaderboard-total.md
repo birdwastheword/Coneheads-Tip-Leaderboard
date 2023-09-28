@@ -1,4 +1,4 @@
-Last updated: 23-09-28 16:01:05 UTC  
+Last updated: 23-09-28 16:24:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | IveDoneItAtLast | 5,846,432
 29 | Ginomania | 5,697,144
 30 | thelonliestcrowd | 5,630,657
-31 | send420nudes | 5,555,953
+31 | send420nudes | 5,560,222
 32 | GuyOne | 5,022,880
 33 | redzrex | 4,552,952
 34 | rikbona | 4,540,773
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | shreyaskg | 538,211
 155 | TubeNerd92 | 537,829
 156 | doktastonks | 533,988
-157 | Bobby_Juk | 531,355
+157 | Bobby_Juk | 531,775
 158 | rolonic | 516,377
 159 | Crypto-4-Freedom | 515,592
 160 | f0n1xr131ng | 509,681
@@ -320,10 +320,10 @@ Rank | Username | Totals Tips
 317 | AD_VICTORIAM_x | 106,876
 318 | i_wake_up_at_12 | 106,333
 319 | LaPantheRose | 106,070
-320 | diamondbored | 105,458
-321 | redditinchina | 105,444
-322 | Chanyuui1 | 104,940
-323 | customsolitaires | 104,709
+320 | customsolitaires | 105,468
+321 | diamondbored | 105,458
+322 | redditinchina | 105,444
+323 | Chanyuui1 | 104,940
 324 | deathtr0 | 104,641
 325 | Chill_Edoeard | 102,923
 326 | ACorDC | 100,420
