@@ -1,4 +1,4 @@
-Last updated: 23-09-28 05:00:52 UTC  
+Last updated: 23-09-28 05:19:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -124,9 +124,9 @@ Rank | Username | Totals Tips
 121 | Obi1eyeKenobi | 730,328
 122 | DogSpark84 | 728,172
 123 | Successful-Walk-3902 | 724,678
-124 | frickdom | 710,998
-125 | starterpack420694 | 710,420
-126 | Complete-Tadpole-728 | 709,546
+124 | Complete-Tadpole-728 | 711,646
+125 | frickdom | 710,998
+126 | starterpack420694 | 710,420
 127 | WarmIyWacky | 703,049
 128 | Starterpack69420 | 696,969
 129 | abracadabra087 | 694,465
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | doktastonks | 533,988
 157 | Bobby_Juk | 527,155
 158 | rolonic | 516,377
-159 | Crypto-4-Freedom | 514,194
+159 | Crypto-4-Freedom | 514,263
 160 | f0n1xr131ng | 509,681
 161 | AcceptableLeg8751 | 500,000
 162 | fettskull | 496,832
