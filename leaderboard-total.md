@@ -1,4 +1,4 @@
-Last updated: 23-09-28 01:31:00 UTC  
+Last updated: 23-09-28 02:05:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,417,838
@@ -8,12 +8,12 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,351,234
-8 | _ships | 18,229,060
+8 | _ships | 18,231,723
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,329,975
 12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,460,731
+13 | SammyCraigar | 12,465,175
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,204,183
@@ -39,12 +39,12 @@ Rank | Username | Totals Tips
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,283,303
 38 | DontLaughArt | 4,204,829
-39 | zdubs | 3,774,150
+39 | zdubs | 3,774,758
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,482,326
-44 | Korean_Street_Pizza | 3,471,638
+44 | Korean_Street_Pizza | 3,472,058
 45 | ZukoBih | 3,466,724
 46 | LordBobTheWhale | 3,337,785
 47 | evilninjarobot | 3,208,037
@@ -102,7 +102,7 @@ Rank | Username | Totals Tips
 99 | WarmBiertje | 1,000,000
 100 | virmamies | 992,771
 101 | EvanIsBacon | 970,416
-102 | Alanski22 | 946,125
+102 | Alanski22 | 951,451
 103 | CHEROKEEJ4CK | 940,286
 104 | Forward_Today2849 | 932,405
 105 | Modestexcuse | 903,684
@@ -229,7 +229,7 @@ Rank | Username | Totals Tips
 226 | Truffle_Shuffle_85 | 243,967
 227 | Significant_Talk4943 | 243,419
 228 | joeviani | 241,717
-229 | Overall-Extension608 | 237,091
+229 | Overall-Extension608 | 239,754
 230 | MuhSound | 235,724
 231 | Zalkwalker | 235,069
 232 | alexthemay | 234,131
