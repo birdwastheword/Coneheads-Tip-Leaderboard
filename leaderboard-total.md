@@ -1,4 +1,4 @@
-Last updated: 23-09-28 16:24:50 UTC  
+Last updated: 23-09-28 16:37:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,351,234
-8 | _ships | 18,234,386
+8 | _ships | 18,261,016
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,353,927
@@ -62,8 +62,8 @@ Rank | Username | Totals Tips
 59 | investigator100 | 2,049,606
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,957,496
-62 | catlover-100 | 1,931,330
-63 | CMDRGlamdring | 1,919,451
+62 | CMDRGlamdring | 1,946,081
+63 | catlover-100 | 1,931,330
 64 | djrcollectables | 1,899,336
 65 | Mundane-Farm-4117 | 1,876,613
 66 | jimfird | 1,850,236
