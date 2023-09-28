@@ -1,4 +1,4 @@
-Last updated: 23-09-28 06:52:44 UTC  
+Last updated: 23-09-28 07:03:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -8,10 +8,10 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,351,234
-8 | _ships | 18,231,723
+8 | _ships | 18,234,386
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
-11 | crypto_grandma | 14,336,838
+11 | crypto_grandma | 14,338,433
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,465,783
 14 | SpookySYN | 12,366,847
@@ -211,9 +211,9 @@ Rank | Username | Totals Tips
 208 | astro_nut_ | 280,463
 209 | Virtual-Wrangler5955 | 274,995
 210 | _Mitchee_ | 274,482
-211 | Final-Scar-941 | 271,039
-212 | hey_barry | 269,698
-213 | SnooMacarons9203 | 268,617
+211 | SnooMacarons9203 | 271,480
+212 | Final-Scar-941 | 271,039
+213 | hey_barry | 269,698
 214 | SetoXlll | 266,136
 215 | the_judge_168 | 264,799
 216 | coolpattakers | 262,340
