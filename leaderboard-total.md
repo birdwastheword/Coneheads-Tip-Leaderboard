@@ -1,4 +1,4 @@
-Last updated: 23-09-28 21:00:50 UTC  
+Last updated: 23-09-28 21:16:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Geniuskills | 7,793,371
 22 | Puddin-Luv | 7,407,577
 23 | Skank_cunt_42 | 7,270,433
-24 | ashinamune | 6,775,961
+24 | ashinamune | 6,776,569
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,445
 27 | VIVOffical | 6,097,121
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | ziggybri | 783,883
 120 | DogSpark84 | 757,885
 121 | dopelifer09 | 755,046
-122 | Complete-Tadpole-728 | 737,285
+122 | Complete-Tadpole-728 | 739,805
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,678
 125 | frickdom | 710,998
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | shreyaskg | 538,211
 155 | TubeNerd92 | 537,829
 156 | doktastonks | 533,988
-157 | Bobby_Juk | 532,615
+157 | Bobby_Juk | 533,035
 158 | rolonic | 516,377
 159 | Crypto-4-Freedom | 515,592
 160 | f0n1xr131ng | 509,681
@@ -297,10 +297,10 @@ Rank | Username | Totals Tips
 294 | DeanDeanington | 127,267
 295 | CalligrapherEnough83 | 127,227
 296 | Trakorr | 125,110
-297 | stupidcupid112 | 121,841
-298 | Sativa55555 | 121,550
-299 | lucivaryas | 121,420
-300 | beanwiggin420 | 121,289
+297 | beanwiggin420 | 121,955
+298 | stupidcupid112 | 121,841
+299 | Sativa55555 | 121,550
+300 | lucivaryas | 121,420
 301 | Schl0tz | 120,000
 302 | CaptainCheeseCake | 118,644
 303 | street_shark_puppet | 116,891
