@@ -1,4 +1,4 @@
-Last updated: 23-09-28 20:50:51 UTC  
+Last updated: 23-09-28 21:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -122,8 +122,8 @@ Rank | Username | Totals Tips
 119 | ziggybri | 783,883
 120 | DogSpark84 | 757,885
 121 | dopelifer09 | 755,046
-122 | Obi1eyeKenobi | 730,328
-123 | Complete-Tadpole-728 | 726,079
+122 | Complete-Tadpole-728 | 737,285
+123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,678
 125 | frickdom | 710,998
 126 | starterpack420694 | 710,420
