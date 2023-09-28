@@ -1,8 +1,8 @@
-Last updated: 23-09-28 20:30:46 UTC  
+Last updated: 23-09-28 20:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
-2 | nakamo-toe | 36,768,210
+2 | nakamo-toe | 36,769,310
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,118,767
 5 | waterhasnocalories | 30,910,235
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | SammyCraigar | 12,466,291
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
-16 | Permanent_WSB_Bull | 11,204,183
+16 | Permanent_WSB_Bull | 11,206,846
 17 | avyun | 9,447,692
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
