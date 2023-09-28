@@ -1,8 +1,8 @@
-Last updated: 23-09-28 17:42:52 UTC  
+Last updated: 23-09-28 17:51:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
-2 | nakamo-toe | 36,732,592
+2 | nakamo-toe | 36,737,918
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,118,767
 5 | waterhasnocalories | 30,910,235
@@ -120,8 +120,8 @@ Rank | Username | Totals Tips
 117 | Cravensworth_redux | 790,803
 118 | Westy3000 | 785,931
 119 | ziggybri | 783,883
-120 | dopelifer09 | 755,046
-121 | DogSpark84 | 730,835
+120 | DogSpark84 | 757,465
+121 | dopelifer09 | 755,046
 122 | Obi1eyeKenobi | 730,328
 123 | Successful-Walk-3902 | 724,678
 124 | Complete-Tadpole-728 | 718,796
@@ -318,9 +318,9 @@ Rank | Username | Totals Tips
 315 | PushyDevolution | 110,216
 316 | Jlt42000 | 107,091
 317 | AD_VICTORIAM_x | 106,876
-318 | i_wake_up_at_12 | 106,333
-319 | LaPantheRose | 106,070
-320 | customsolitaires | 105,957
+318 | customsolitaires | 106,377
+319 | i_wake_up_at_12 | 106,333
+320 | LaPantheRose | 106,070
 321 | diamondbored | 105,458
 322 | redditinchina | 105,444
 323 | Chanyuui1 | 104,940
