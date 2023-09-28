@@ -1,4 +1,4 @@
-Last updated: 23-09-28 09:01:02 UTC  
+Last updated: 23-09-28 09:18:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 18,234,386
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
-11 | crypto_grandma | 14,342,702
+11 | crypto_grandma | 14,346,985
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,465,783
 14 | SpookySYN | 12,366,847
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | IveDoneItAtLast | 5,845,216
 29 | Ginomania | 5,697,144
 30 | thelonliestcrowd | 5,627,994
-31 | send420nudes | 5,543,146
+31 | send420nudes | 5,547,415
 32 | GuyOne | 5,022,880
 33 | redzrex | 4,550,289
 34 | rikbona | 4,540,773
