@@ -1,4 +1,4 @@
-Last updated: 23-09-28 21:16:16 UTC  
+Last updated: 23-09-28 21:24:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -235,7 +235,7 @@ Rank | Username | Totals Tips
 232 | alexthemay | 234,131
 233 | Conetent | 232,076
 234 | CoverYourMaskHoles | 229,708
-235 | ShortBusCult | 227,037
+235 | ShortBusCult | 227,877
 236 | Ashamed_Raccoon9918 | 224,697
 237 | SourBeefHoop | 217,512
 238 | phonebreaker8 | 215,189
