@@ -1,4 +1,4 @@
-Last updated: 23-09-28 13:36:03 UTC  
+Last updated: 23-09-28 13:44:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -121,8 +121,8 @@ Rank | Username | Totals Tips
 118 | Westy3000 | 785,931
 119 | ziggybri | 783,883
 120 | dopelifer09 | 755,046
-121 | Obi1eyeKenobi | 730,328
-122 | DogSpark84 | 728,172
+121 | DogSpark84 | 730,835
+122 | Obi1eyeKenobi | 730,328
 123 | Successful-Walk-3902 | 724,678
 124 | Complete-Tadpole-728 | 718,796
 125 | frickdom | 710,998
@@ -463,21 +463,21 @@ Rank | Username | Totals Tips
 460 | Expensive_Being_4038 | 41,812
 461 | PushyDevoIution | 41,695
 462 | madridgalactico | 41,231
-463 | GuronT | 41,167
-464 | Motor-breath8 | 41,134
-465 | HodLMania | 41,111
-466 | ARoyaleWithCheese | 41,000
-467 | Zap1324 | 40,271
-468 | matdabom | 40,068
-469 | babuba1234321 | 40,000
-470 | YourLocalDuskFox | 40,000
-471 | alex_si_davies | 39,965
-472 | Mortifer6 | 39,807
-473 | AMAxyz | 39,775
-474 | waterincorporated | 39,428
-475 | sM0k3dR4Gn | 39,279
-476 | Styl_Ianos_ | 39,262
-477 | kanem87 | 39,187
+463 | kanem87 | 41,174
+464 | GuronT | 41,167
+465 | Motor-breath8 | 41,134
+466 | HodLMania | 41,111
+467 | ARoyaleWithCheese | 41,000
+468 | Zap1324 | 40,271
+469 | matdabom | 40,068
+470 | babuba1234321 | 40,000
+471 | YourLocalDuskFox | 40,000
+472 | alex_si_davies | 39,965
+473 | Mortifer6 | 39,807
+474 | AMAxyz | 39,775
+475 | waterincorporated | 39,428
+476 | sM0k3dR4Gn | 39,279
+477 | Styl_Ianos_ | 39,262
 478 | mutinomonem | 38,823
 479 | chaud3r | 38,290
 480 | lovenets_ | 38,182
