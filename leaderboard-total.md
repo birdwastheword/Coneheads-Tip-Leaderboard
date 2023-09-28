@@ -1,4 +1,4 @@
-Last updated: 23-09-28 17:07:27 UTC  
+Last updated: 23-09-28 17:25:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,283,303
 38 | DontLaughArt | 4,204,829
-39 | zdubs | 3,775,366
+39 | zdubs | 3,775,974
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | shreyaskg | 538,211
 155 | TubeNerd92 | 537,829
 156 | doktastonks | 533,988
-157 | Bobby_Juk | 531,775
+157 | Bobby_Juk | 532,195
 158 | rolonic | 516,377
 159 | Crypto-4-Freedom | 515,592
 160 | f0n1xr131ng | 509,681
