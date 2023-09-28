@@ -1,4 +1,4 @@
-Last updated: 23-09-28 13:52:44 UTC  
+Last updated: 23-09-28 14:03:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -209,8 +209,8 @@ Rank | Username | Totals Tips
 206 | tjex666 | 283,221
 207 | Flimsy_Brilliant_239 | 283,107
 208 | astro_nut_ | 280,463
-209 | Virtual-Wrangler5955 | 274,995
-210 | _Mitchee_ | 274,482
+209 | _Mitchee_ | 277,145
+210 | Virtual-Wrangler5955 | 274,995
 211 | SnooMacarons9203 | 274,143
 212 | Final-Scar-941 | 271,039
 213 | hey_barry | 269,698
