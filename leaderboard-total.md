@@ -1,4 +1,4 @@
-Last updated: 23-09-28 19:31:47 UTC  
+Last updated: 23-09-28 19:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -139,7 +139,7 @@ Rank | Username | Totals Tips
 136 | piebagz | 661,815
 137 | junkwatch | 657,697
 138 | MartynDr | 652,759
-139 | MorrisBrett514 | 652,248
+139 | MorrisBrett514 | 652,668
 140 | femacampcouncilor | 650,801
 141 | slirpo | 631,180
 142 | RazPie | 613,307
@@ -681,12 +681,12 @@ Rank | Username | Totals Tips
 678 | Squirrel_McNutz | 10,383
 679 | Gamestopisthe1 | 10,227
 680 | Zeratrem | 10,103
-681 | z6joker9 | 10,000
-682 | Consistent_Air_7646 | 10,000
-683 | xMikaRikax | 10,000
-684 | LordCitrus69 | 10,000
-685 | No-Confusion7414 | 9,959
-686 | paracord-bracelets | 9,957
+681 | paracord-bracelets | 10,027
+682 | z6joker9 | 10,000
+683 | Consistent_Air_7646 | 10,000
+684 | xMikaRikax | 10,000
+685 | LordCitrus69 | 10,000
+686 | No-Confusion7414 | 9,959
 687 | boopcorgi | 9,923
 688 | supatard44 | 9,891
 689 | exclaim_bot | 9,831
