@@ -1,4 +1,4 @@
-Last updated: 23-09-28 06:44:11 UTC  
+Last updated: 23-09-28 06:52:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -102,7 +102,7 @@ Rank | Username | Totals Tips
 99 | WarmBiertje | 1,000,000
 100 | virmamies | 992,771
 101 | EvanIsBacon | 970,416
-102 | Alanski22 | 951,451
+102 | Alanski22 | 956,451
 103 | CHEROKEEJ4CK | 940,286
 104 | Forward_Today2849 | 932,405
 105 | Modestexcuse | 903,684
