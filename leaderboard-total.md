@@ -1,8 +1,8 @@
-Last updated: 23-09-29 15:50:38 UTC  
+Last updated: 23-09-29 16:00:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
-2 | nakamo-toe | 36,835,314
+2 | nakamo-toe | 36,841,677
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 18,290,777
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
-11 | crypto_grandma | 14,548,551
+11 | crypto_grandma | 14,558,156
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,468,970
 14 | SpookySYN | 12,366,847
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Fenrir-1919 | 2,761,658
 50 | Mean_Bandicoot_7481 | 2,752,108
 51 | ZoomLong | 2,641,251
-52 | ImAlekBan | 2,625,846
+52 | ImAlekBan | 2,628,509
 53 | _Royal_Insylum | 2,603,787
 54 | possibili-teas | 2,410,515
 55 | Richicash | 2,281,863
@@ -121,8 +121,8 @@ Rank | Username | Totals Tips
 118 | Westy3000 | 785,931
 119 | ziggybri | 783,883
 120 | Complete-Tadpole-728 | 770,849
-121 | dopelifer09 | 760,372
-122 | DogSpark84 | 757,885
+121 | DogSpark84 | 767,090
+122 | dopelifer09 | 760,372
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,747
 125 | frickdom | 710,998
