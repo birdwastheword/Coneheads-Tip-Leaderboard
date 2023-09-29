@@ -1,4 +1,4 @@
-Last updated: 23-09-29 22:40:27 UTC  
+Last updated: 23-09-29 22:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,865
 27 | VIVOffical | 6,125,762
-28 | IveDoneItAtLast | 5,876,033
+28 | IveDoneItAtLast | 5,876,879
 29 | thelonliestcrowd | 5,702,576
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,582,776
@@ -157,7 +157,7 @@ Rank | Username | Totals Tips
 154 | scientifichistorian | 539,560
 155 | shreyaskg | 538,211
 156 | TubeNerd92 | 537,829
-157 | doktastonks | 533,988
+157 | doktastonks | 536,651
 158 | rolonic | 516,377
 159 | Crypto-4-Freedom | 516,012
 160 | f0n1xr131ng | 509,681
