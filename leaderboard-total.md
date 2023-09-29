@@ -1,4 +1,4 @@
-Last updated: 23-09-29 03:30:45 UTC  
+Last updated: 23-09-29 03:40:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -192,19 +192,19 @@ Rank | Username | Totals Tips
 189 | DrThunderHandz | 325,115
 190 | x52x | 324,929
 191 | Chapo_1992 | 315,419
-192 | Lastkidpicked94 | 312,785
-193 | EffinDrongoC | 312,738
-194 | pinkglue99 | 312,265
-195 | FluffyAspie | 306,254
-196 | liwipe | 304,467
-197 | S2K08 | 301,342
-198 | Adrewmc | 301,178
-199 | VincentVanGTFO | 300,598
-200 | legionticket | 296,054
-201 | send_tacoz | 293,576
-202 | MadScientistTheFirst | 290,469
-203 | dinoyeti | 287,544
-204 | TummyLice | 286,252
+192 | TummyLice | 313,098
+193 | Lastkidpicked94 | 312,785
+194 | EffinDrongoC | 312,738
+195 | pinkglue99 | 312,265
+196 | FluffyAspie | 306,254
+197 | liwipe | 304,467
+198 | S2K08 | 301,342
+199 | Adrewmc | 301,178
+200 | VincentVanGTFO | 300,598
+201 | legionticket | 296,054
+202 | send_tacoz | 293,576
+203 | MadScientistTheFirst | 290,469
+204 | dinoyeti | 287,544
 205 | deedopete | 286,138
 206 | tjex666 | 283,221
 207 | Flimsy_Brilliant_239 | 283,107
