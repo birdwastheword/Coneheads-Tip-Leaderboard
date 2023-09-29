@@ -1,4 +1,4 @@
-Last updated: 23-09-29 04:01:02 UTC  
+Last updated: 23-09-29 04:22:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -22,13 +22,13 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,904,860
-22 | Puddin-Luv | 7,413,511
+22 | Puddin-Luv | 7,413,537
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,779,232
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,445
-27 | VIVOffical | 6,099,784
-28 | IveDoneItAtLast | 5,847,280
+27 | VIVOffical | 6,102,447
+28 | IveDoneItAtLast | 5,847,349
 29 | thelonliestcrowd | 5,697,246
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,560,222
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | LordBobTheWhale | 3,341,056
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
-49 | Fenrir-1919 | 2,761,050
+49 | Fenrir-1919 | 2,761,658
 50 | Mean_Bandicoot_7481 | 2,752,108
 51 | ZoomLong | 2,641,251
 52 | ImAlekBan | 2,625,846
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | Duskopia | 680,133
 133 | Due_Insurance8159 | 678,620
 134 | SKITZ_ZA | 676,057
-135 | MorrisBrett514 | 673,508
+135 | MorrisBrett514 | 673,646
 136 | crodbtc | 668,179
 137 | piebagz | 661,815
 138 | junkwatch | 657,697
