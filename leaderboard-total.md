@@ -1,4 +1,4 @@
-Last updated: 23-09-29 14:50:43 UTC  
+Last updated: 23-09-29 15:01:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -244,22 +244,22 @@ Rank | Username | Totals Tips
 241 | Beenthorny | 212,362
 242 | SigSalvadore | 212,358
 243 | UWphoto | 211,312
-244 | Most_Being_4002 | 206,012
-245 | Esco1980 | 204,434
-246 | skollywag92 | 204,114
-247 | Heclalava | 203,538
-248 | ziggyback | 203,369
-249 | CedricDiccory | 197,932
-250 | SaberTurret | 197,896
-251 | sudrats | 197,124
-252 | redditavanft | 195,122
-253 | AverageLiberalJoe | 195,007
-254 | RiightYouKnow | 193,329
-255 | bakerdawg555 | 192,028
-256 | 1ndy1 | 189,485
-257 | ZeMadMan1 | 185,914
-258 | nooobmaester69 | 183,460
-259 | 192000Hertz | 181,739
+244 | 192000Hertz | 211,065
+245 | Most_Being_4002 | 206,012
+246 | Esco1980 | 204,434
+247 | skollywag92 | 204,114
+248 | Heclalava | 203,538
+249 | ziggyback | 203,369
+250 | CedricDiccory | 197,932
+251 | SaberTurret | 197,896
+252 | sudrats | 197,124
+253 | redditavanft | 195,122
+254 | AverageLiberalJoe | 195,007
+255 | RiightYouKnow | 193,329
+256 | bakerdawg555 | 192,028
+257 | 1ndy1 | 189,485
+258 | ZeMadMan1 | 185,914
+259 | nooobmaester69 | 183,460
 260 | ruccarucca | 180,270
 261 | Jadenindubai | 176,833
 262 | sjakkpila | 175,766
