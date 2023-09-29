@@ -1,7 +1,7 @@
-Last updated: 23-09-29 04:40:36 UTC  
+Last updated: 23-09-29 04:50:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 40,444,468
+1 | Bitdream200K | 40,447,131
 2 | nakamo-toe | 36,835,314
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | thelonliestcrowd | 5,697,246
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,560,222
-32 | GuyOne | 5,024,096
+32 | GuyOne | 5,026,759
 33 | redzrex | 4,552,952
 34 | rikbona | 4,540,773
 35 | bigbilly1234567899 | 4,496,042
@@ -359,12 +359,12 @@ Rank | Username | Totals Tips
 356 | shellystarzz | 83,509
 357 | Admirito | 82,353
 358 | standArtpluto | 82,100
-359 | Bobocod | 81,577
-360 | mastermarvs | 80,384
-361 | XeroGrave | 80,069
-362 | Pwny_b0y | 79,447
-363 | TheOneWhoCared | 79,079
-364 | Significant-Bet5762 | 79,074
+359 | Significant-Bet5762 | 81,737
+360 | Bobocod | 81,577
+361 | mastermarvs | 80,384
+362 | XeroGrave | 80,069
+363 | Pwny_b0y | 79,447
+364 | TheOneWhoCared | 79,079
 365 | GodOfWarGuy737 | 79,069
 366 | Derefringence | 78,935
 367 | fleshlyLoath | 78,366
