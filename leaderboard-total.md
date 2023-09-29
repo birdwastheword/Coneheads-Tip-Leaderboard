@@ -1,4 +1,4 @@
-Last updated: 23-09-29 03:00:45 UTC  
+Last updated: 23-09-29 03:18:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | LordBobTheWhale | 3,341,056
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
-49 | Fenrir-1919 | 2,758,387
+49 | Fenrir-1919 | 2,761,050
 50 | Mean_Bandicoot_7481 | 2,752,108
 51 | ZoomLong | 2,641,251
 52 | ImAlekBan | 2,625,846
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | ziggybri | 783,883
 120 | DogSpark84 | 757,885
 121 | dopelifer09 | 757,709
-122 | Complete-Tadpole-728 | 743,728
+122 | Complete-Tadpole-728 | 750,814
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,678
 125 | frickdom | 710,998
