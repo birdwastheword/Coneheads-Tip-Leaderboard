@@ -1,4 +1,4 @@
-Last updated: 23-09-29 11:50:47 UTC  
+Last updated: 23-09-29 12:08:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,574,238
 32 | GuyOne | 5,027,367
-33 | rustyybikes | 4,553,075
+33 | rustyybikes | 4,553,495
 34 | redzrex | 4,552,952
 35 | rikbona | 4,540,773
 36 | bigbilly1234567899 | 4,496,042
@@ -124,7 +124,7 @@ Rank | Username | Totals Tips
 121 | Complete-Tadpole-728 | 759,643
 122 | DogSpark84 | 757,885
 123 | Obi1eyeKenobi | 730,328
-124 | Successful-Walk-3902 | 724,678
+124 | Successful-Walk-3902 | 724,747
 125 | frickdom | 710,998
 126 | starterpack420694 | 710,420
 127 | WarmIyWacky | 703,049
@@ -719,12 +719,12 @@ Rank | Username | Totals Tips
 716 | Riviera20 | 8,696
 717 | doctorwho_cares | 8,618
 718 | TSC4 | 8,600
-719 | TNJCrypto | 8,468
-720 | 1-760-706-7425 | 8,272
-721 | shityougrin | 8,265
-722 | Handsome_Gourd | 8,242
-723 | 0xboi | 8,237
-724 | theindoshow | 8,228
+719 | theindoshow | 8,573
+720 | TNJCrypto | 8,468
+721 | 1-760-706-7425 | 8,272
+722 | shityougrin | 8,265
+723 | Handsome_Gourd | 8,242
+724 | 0xboi | 8,237
 725 | Nyarlatotep781 | 8,147
 726 | gacu-gacu | 8,105
 727 | JAK0M0VIN0 | 8,097
