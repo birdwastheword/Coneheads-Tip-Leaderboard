@@ -1,8 +1,8 @@
-Last updated: 23-09-29 16:00:56 UTC  
+Last updated: 23-09-29 16:24:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
-2 | nakamo-toe | 36,841,677
+2 | nakamo-toe | 36,877,333
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
@@ -11,9 +11,9 @@ Rank | Username | Totals Tips
 8 | _ships | 18,290,777
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
-11 | crypto_grandma | 14,558,156
-12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,468,970
+11 | crypto_grandma | 14,560,819
+12 | SammyCraigar | 12,471,633
+13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,846
@@ -108,20 +108,20 @@ Rank | Username | Totals Tips
 105 | Modestexcuse | 903,684
 106 | thee_monster | 896,765
 107 | Bobisdeadrun | 869,016
-108 | orangesandonions | 859,682
-109 | adrifing | 845,787
-110 | formidable-opponent | 838,747
-111 | PortCity_MadMan | 834,881
-112 | AustinTX1985 | 821,526
-113 | goldyluckinblokchain | 809,537
-114 | RegalReptile_ | 807,046
-115 | vbutarin | 802,000
-116 | na7oul | 800,000
-117 | Cravensworth_redux | 790,803
-118 | Westy3000 | 785,931
-119 | ziggybri | 783,883
-120 | Complete-Tadpole-728 | 770,849
-121 | DogSpark84 | 767,090
+108 | DogSpark84 | 867,091
+109 | orangesandonions | 859,682
+110 | adrifing | 845,787
+111 | formidable-opponent | 838,747
+112 | PortCity_MadMan | 834,881
+113 | AustinTX1985 | 821,526
+114 | goldyluckinblokchain | 809,537
+115 | RegalReptile_ | 807,046
+116 | vbutarin | 802,000
+117 | na7oul | 800,000
+118 | Cravensworth_redux | 790,803
+119 | Westy3000 | 785,931
+120 | ziggybri | 783,883
+121 | Complete-Tadpole-728 | 770,849
 122 | dopelifer09 | 760,372
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,747
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | Duskopia | 680,133
 133 | Due_Insurance8159 | 678,620
 134 | SKITZ_ZA | 676,057
-135 | MorrisBrett514 | 673,784
+135 | MorrisBrett514 | 674,561
 136 | crodbtc | 668,179
 137 | piebagz | 661,815
 138 | junkwatch | 657,697
@@ -298,7 +298,7 @@ Rank | Username | Totals Tips
 295 | DeanDeanington | 127,267
 296 | CalligrapherEnough83 | 127,227
 297 | Trakorr | 125,110
-298 | beanwiggin420 | 121,955
+298 | beanwiggin420 | 122,375
 299 | stupidcupid112 | 121,841
 300 | Sativa55555 | 121,550
 301 | lucivaryas | 121,420
