@@ -1,4 +1,4 @@
-Last updated: 23-09-29 06:35:58 UTC  
+Last updated: 23-09-29 06:44:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,447,131
@@ -6,8 +6,8 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
-6 | rickribera93 | 28,394,729
-7 | Jeff5704 | 28,351,234
+6 | Jeff5704 | 28,771,234
+7 | rickribera93 | 28,394,729
 8 | _ships | 18,281,982
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,846
-17 | avyun | 9,454,661
+17 | avyun | 9,524,081
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
