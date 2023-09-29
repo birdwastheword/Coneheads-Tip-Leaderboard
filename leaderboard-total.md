@@ -1,4 +1,4 @@
-Last updated: 23-09-29 10:50:44 UTC  
+Last updated: 23-09-29 11:00:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -250,8 +250,8 @@ Rank | Username | Totals Tips
 247 | Heclalava | 203,538
 248 | ziggyback | 203,369
 249 | CedricDiccory | 197,932
-250 | sudrats | 197,124
-251 | SaberTurret | 195,233
+250 | SaberTurret | 197,896
+251 | sudrats | 197,124
 252 | redditavanft | 195,122
 253 | AverageLiberalJoe | 195,007
 254 | RiightYouKnow | 193,329
