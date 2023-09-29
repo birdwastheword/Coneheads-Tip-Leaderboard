@@ -1,4 +1,4 @@
-Last updated: 23-09-29 17:40:40 UTC  
+Last updated: 23-09-29 17:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -121,7 +121,7 @@ Rank | Username | Totals Tips
 118 | Cravensworth_redux | 790,803
 119 | Westy3000 | 785,931
 120 | ziggybri | 783,883
-121 | Complete-Tadpole-728 | 773,581
+121 | Complete-Tadpole-728 | 774,001
 122 | dopelifer09 | 760,372
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,747
@@ -148,7 +148,7 @@ Rank | Username | Totals Tips
 145 | __PDS__ | 595,709
 146 | El_Gordone | 592,784
 147 | Burzzzt88 | 592,696
-148 | shiesto | 591,724
+148 | shiesto | 592,564
 149 | Bobby_Juk | 586,495
 150 | Ninja_Vagabond | 583,836
 151 | Independent_Heart_15 | 578,825
