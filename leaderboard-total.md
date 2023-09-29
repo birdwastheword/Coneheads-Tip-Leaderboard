@@ -1,4 +1,4 @@
-Last updated: 23-09-29 11:00:52 UTC  
+Last updated: 23-09-29 11:15:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -520,8 +520,8 @@ Rank | Username | Totals Tips
 517 | Extension-Survey3014 | 30,000
 518 | Potential_Fix_5007 | 29,897
 519 | Practical-Store9603 | 29,691
-520 | Gilbertll | 29,585
-521 | TheChillDyl | 29,265
+520 | TheChillDyl | 29,685
+521 | Gilbertll | 29,585
 522 | Locid | 28,938
 523 | bentolman | 28,891
 524 | FoleyKali | 28,843
