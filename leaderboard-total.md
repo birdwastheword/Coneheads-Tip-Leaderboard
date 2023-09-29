@@ -1,14 +1,14 @@
-Last updated: 23-09-29 01:30:56 UTC  
+Last updated: 23-09-29 02:05:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
-2 | nakamo-toe | 36,806,020
+2 | nakamo-toe | 36,806,021
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,351,234
-8 | _ships | 18,263,679
+8 | _ships | 18,271,259
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,361,502
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,904,860
-22 | Puddin-Luv | 7,410,848
+22 | Puddin-Luv | 7,413,511
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,776,569
 25 | Real_Player_0 | 6,598,535
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | birdwastheword | 4,421,038
 37 | rustyybikes | 4,283,303
 38 | DontLaughArt | 4,204,829
-39 | zdubs | 3,775,974
+39 | zdubs | 3,777,231
 40 | thom_orrow | 3,744,550
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
@@ -75,7 +75,7 @@ Rank | Username | Totals Tips
 72 | LongCauliflower6791 | 1,707,161
 73 | cannainform2 | 1,666,414
 74 | GooderZBK | 1,617,267
-75 | ultra_terrestrial | 1,552,112
+75 | ultra_terrestrial | 1,552,532
 76 | Own_Ad_4269 | 1,479,161
 77 | ValiantJudge29500 | 1,446,265
 78 | YarOldeOrchard | 1,438,286
