@@ -1,8 +1,8 @@
-Last updated: 23-09-29 17:05:05 UTC  
+Last updated: 23-09-29 17:21:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
-2 | nakamo-toe | 36,877,333
+2 | nakamo-toe | 36,878,087
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
@@ -28,10 +28,10 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,865
 27 | VIVOffical | 6,105,110
-28 | IveDoneItAtLast | 5,847,838
+28 | IveDoneItAtLast | 5,848,686
 29 | thelonliestcrowd | 5,699,913
 30 | Ginomania | 5,697,144
-31 | send420nudes | 5,578,507
+31 | send420nudes | 5,582,776
 32 | GuyOne | 5,027,975
 33 | rustyybikes | 4,553,495
 34 | redzrex | 4,552,952
@@ -68,7 +68,7 @@ Rank | Username | Totals Tips
 65 | Mundane-Farm-4117 | 1,876,713
 66 | jimfird | 1,850,236
 67 | Lillica_Golden_SHIB | 1,846,953
-68 | Own_Ad_4269 | 1,809,499
+68 | Own_Ad_4269 | 1,811,499
 69 | dealkhabari | 1,767,162
 70 | LongCauliflower6791 | 1,719,506
 71 | KONGXIANG | 1,718,942
@@ -121,7 +121,7 @@ Rank | Username | Totals Tips
 118 | Cravensworth_redux | 790,803
 119 | Westy3000 | 785,931
 120 | ziggybri | 783,883
-121 | Complete-Tadpole-728 | 770,849
+121 | Complete-Tadpole-728 | 773,512
 122 | dopelifer09 | 760,372
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,747
@@ -571,20 +571,20 @@ Rank | Username | Totals Tips
 568 | Tasty_Bag | 21,384
 569 | RamboBalboa21 | 21,083
 570 | ipad_daps | 20,864
-571 | shootingeagleyt | 20,611
-572 | DLPD-Camko | 20,377
-573 | Bear-Bull-Pig | 20,231
-574 | lookwhatumademedoo | 20,068
-575 | NoahG59 | 20,002
-576 | Yeh_nah_yeh_ | 20,000
-577 | PassiveRoadRage | 20,000
-578 | maliplazi | 20,000
-579 | Arash_Rezae | 20,000
-580 | PsLJdogg | 19,975
-581 | Iiwip | 19,533
-582 | MalarkyD | 19,527
-583 | Defeat-the-Kraken | 19,378
-584 | Mrmakanakai | 19,343
+571 | Mrmakanakai | 20,654
+572 | shootingeagleyt | 20,611
+573 | DLPD-Camko | 20,377
+574 | Bear-Bull-Pig | 20,231
+575 | lookwhatumademedoo | 20,068
+576 | NoahG59 | 20,002
+577 | Yeh_nah_yeh_ | 20,000
+578 | PassiveRoadRage | 20,000
+579 | maliplazi | 20,000
+580 | Arash_Rezae | 20,000
+581 | PsLJdogg | 19,975
+582 | Iiwip | 19,533
+583 | MalarkyD | 19,527
+584 | Defeat-the-Kraken | 19,378
 585 | ___MOM___ | 18,853
 586 | Fivebag | 18,704
 587 | D6P6 | 18,447
