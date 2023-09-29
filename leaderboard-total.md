@@ -1,4 +1,4 @@
-Last updated: 23-09-29 19:50:48 UTC  
+Last updated: 23-09-29 20:00:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,779,232
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,865
-27 | VIVOffical | 6,107,773
+27 | VIVOffical | 6,117,773
 28 | IveDoneItAtLast | 5,876,033
 29 | thelonliestcrowd | 5,699,913
 30 | Ginomania | 5,697,144
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | TubeNerd92 | 537,829
 157 | doktastonks | 533,988
 158 | rolonic | 516,377
-159 | Crypto-4-Freedom | 515,592
+159 | Crypto-4-Freedom | 516,012
 160 | f0n1xr131ng | 509,681
 161 | fettskull | 504,821
 162 | AcceptableLeg8751 | 500,000
