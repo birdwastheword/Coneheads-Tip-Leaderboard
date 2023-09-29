@@ -1,4 +1,4 @@
-Last updated: 23-09-29 15:40:43 UTC  
+Last updated: 23-09-29 15:50:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -93,7 +93,7 @@ Rank | Username | Totals Tips
 90 | nichnotnick | 1,103,821
 91 | ID404_Not_Found_8964 | 1,066,725
 92 | UniversalNoobMaster | 1,056,369
-93 | noface_reddit | 1,047,566
+93 | noface_reddit | 1,051,766
 94 | ashketchup422 | 1,042,067
 95 | freechickens | 1,028,524
 96 | avatarbot | 1,027,000
@@ -120,7 +120,7 @@ Rank | Username | Totals Tips
 117 | Cravensworth_redux | 790,803
 118 | Westy3000 | 785,931
 119 | ziggybri | 783,883
-120 | Complete-Tadpole-728 | 764,969
+120 | Complete-Tadpole-728 | 770,849
 121 | dopelifer09 | 760,372
 122 | DogSpark84 | 757,885
 123 | Obi1eyeKenobi | 730,328
