@@ -1,4 +1,4 @@
-Last updated: 23-09-29 21:24:08 UTC  
+Last updated: 23-09-29 21:32:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -214,10 +214,10 @@ Rank | Username | Totals Tips
 211 | Virtual-Wrangler5955 | 274,995
 212 | Final-Scar-941 | 271,039
 213 | hey_barry | 269,698
-214 | SetoXlll | 266,136
-215 | the_judge_168 | 264,799
-216 | coolpattakers | 262,340
-217 | OniCowboy | 261,657
+214 | OniCowboy | 268,626
+215 | SetoXlll | 266,136
+216 | the_judge_168 | 264,799
+217 | coolpattakers | 262,340
 218 | tmanfromEarth | 258,392
 219 | Hactar_42 | 256,832
 220 | thecrabdad | 256,177
