@@ -1,4 +1,4 @@
-Last updated: 23-09-29 12:42:04 UTC  
+Last updated: 23-09-29 12:57:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 18,290,777
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
-11 | crypto_grandma | 14,527,735
+11 | crypto_grandma | 14,534,677
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,468,970
 14 | SpookySYN | 12,366,847
@@ -21,12 +21,12 @@ Rank | Username | Totals Tips
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
-21 | Geniuskills | 7,904,860
+21 | Geniuskills | 7,911,829
 22 | Puddin-Luv | 7,416,808
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,779,232
 25 | Real_Player_0 | 6,598,535
-26 | HippieStarTraveler | 6,260,445
+26 | HippieStarTraveler | 6,260,865
 27 | VIVOffical | 6,102,447
 28 | IveDoneItAtLast | 5,847,838
 29 | thelonliestcrowd | 5,697,250
@@ -76,7 +76,7 @@ Rank | Username | Totals Tips
 73 | Ten-Mins-Late | 1,709,893
 74 | cannainform2 | 1,666,414
 75 | GooderZBK | 1,617,267
-76 | ultra_terrestrial | 1,552,532
+76 | ultra_terrestrial | 1,552,952
 77 | ValiantJudge29500 | 1,446,265
 78 | YarOldeOrchard | 1,438,286
 79 | isthistomorrow_ | 1,381,135
@@ -717,9 +717,9 @@ Rank | Username | Totals Tips
 714 | ad5xlh | 8,830
 715 | NEO_R1CH | 8,699
 716 | Riviera20 | 8,696
-717 | doctorwho_cares | 8,618
-718 | TSC4 | 8,600
-719 | theindoshow | 8,573
+717 | theindoshow | 8,642
+718 | doctorwho_cares | 8,618
+719 | TSC4 | 8,600
 720 | TNJCrypto | 8,468
 721 | 1-760-706-7425 | 8,272
 722 | shityougrin | 8,265
