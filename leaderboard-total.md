@@ -1,4 +1,4 @@
-Last updated: 23-09-29 05:50:44 UTC  
+Last updated: 23-09-29 06:07:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,447,131
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | HippieStarTraveler | 6,260,445
 27 | VIVOffical | 6,102,447
 28 | IveDoneItAtLast | 5,847,349
-29 | thelonliestcrowd | 5,697,246
+29 | thelonliestcrowd | 5,697,250
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,560,222
 32 | GuyOne | 5,026,759
@@ -65,7 +65,7 @@ Rank | Username | Totals Tips
 62 | CMDRGlamdring | 1,946,081
 63 | catlover-100 | 1,931,330
 64 | djrcollectables | 1,899,336
-65 | Mundane-Farm-4117 | 1,876,613
+65 | Mundane-Farm-4117 | 1,876,713
 66 | jimfird | 1,850,236
 67 | Lillica_Golden_SHIB | 1,846,953
 68 | dealkhabari | 1,767,162
@@ -627,10 +627,10 @@ Rank | Username | Totals Tips
 624 | TamilPunk | 13,754
 625 | osoese | 13,680
 626 | mantrakid | 13,644
-627 | couchguitar | 13,330
-628 | zahrawins | 13,329
-629 | Diamond_Hands420 | 13,277
-630 | Weirdclerk_ | 13,147
+627 | Weirdclerk_ | 13,567
+628 | couchguitar | 13,330
+629 | zahrawins | 13,329
+630 | Diamond_Hands420 | 13,277
 631 | rare1994 | 13,069
 632 | AdinaEspada | 12,997
 633 | seamonkey420 | 12,906
