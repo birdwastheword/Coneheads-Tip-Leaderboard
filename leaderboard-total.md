@@ -1,4 +1,4 @@
-Last updated: 23-09-29 13:31:04 UTC  
+Last updated: 23-09-29 13:40:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 18,290,777
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
-11 | crypto_grandma | 14,541,609
+11 | crypto_grandma | 14,548,551
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,468,970
 14 | SpookySYN | 12,366,847
@@ -161,8 +161,8 @@ Rank | Username | Totals Tips
 158 | rolonic | 516,377
 159 | Crypto-4-Freedom | 515,592
 160 | f0n1xr131ng | 509,681
-161 | AcceptableLeg8751 | 500,000
-162 | fettskull | 496,832
+161 | fettskull | 504,821
+162 | AcceptableLeg8751 | 500,000
 163 | DAMG808 | 483,095
 164 | Lady_Lucks_Man | 482,403
 165 | stockyewok | 474,561
@@ -458,12 +458,12 @@ Rank | Username | Totals Tips
 455 | ShadowKnight324 | 43,986
 456 | Coneboy2663 | 43,852
 457 | halfABsinC | 43,285
-458 | ACE415_ | 42,069
-459 | dead-spiral | 42,069
-460 | Expensive_Being_4038 | 41,812
-461 | PushyDevoIution | 41,695
-462 | madridgalactico | 41,231
-463 | kanem87 | 41,174
+458 | kanem87 | 43,161
+459 | ACE415_ | 42,069
+460 | dead-spiral | 42,069
+461 | Expensive_Being_4038 | 41,812
+462 | PushyDevoIution | 41,695
+463 | madridgalactico | 41,231
 464 | GuronT | 41,167
 465 | Motor-breath8 | 41,134
 466 | HodLMania | 41,111
