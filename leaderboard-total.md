@@ -1,8 +1,8 @@
-Last updated: 23-09-28 23:50:53 UTC  
+Last updated: 23-09-29 00:24:22 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
-2 | nakamo-toe | 36,771,973
+2 | nakamo-toe | 36,798,371
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
@@ -22,15 +22,15 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,862,791
-22 | Puddin-Luv | 7,407,577
+22 | Puddin-Luv | 7,408,185
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,776,569
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,445
-27 | VIVOffical | 6,097,121
-28 | IveDoneItAtLast | 5,846,432
-29 | Ginomania | 5,697,144
-30 | thelonliestcrowd | 5,691,920
+27 | VIVOffical | 6,099,784
+28 | IveDoneItAtLast | 5,847,280
+29 | thelonliestcrowd | 5,697,246
+30 | Ginomania | 5,697,144
 31 | send420nudes | 5,560,222
 32 | GuyOne | 5,024,096
 33 | redzrex | 4,552,952
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | Mean_Bandicoot_7481 | 2,752,108
-50 | Fenrir-1919 | 2,726,431
+50 | Fenrir-1919 | 2,731,757
 51 | ZoomLong | 2,641,251
 52 | ImAlekBan | 2,625,846
 53 | _Royal_Insylum | 2,603,787
@@ -314,13 +314,13 @@ Rank | Username | Totals Tips
 311 | adrefofadre | 111,817
 312 | jurgensdapimp | 111,618
 313 | Showwwy87 | 110,923
-314 | Strong_Constant_1190 | 110,325
-315 | PushyDevolution | 110,216
-316 | customsolitaires | 107,593
-317 | Jlt42000 | 107,091
-318 | AD_VICTORIAM_x | 106,876
-319 | i_wake_up_at_12 | 106,333
-320 | LaPantheRose | 106,070
+314 | LaPantheRose | 110,339
+315 | Strong_Constant_1190 | 110,325
+316 | PushyDevolution | 110,216
+317 | customsolitaires | 107,593
+318 | Jlt42000 | 107,091
+319 | AD_VICTORIAM_x | 106,876
+320 | i_wake_up_at_12 | 106,333
 321 | diamondbored | 105,458
 322 | redditinchina | 105,444
 323 | Chanyuui1 | 104,940
