@@ -1,4 +1,4 @@
-Last updated: 23-09-29 16:44:28 UTC  
+Last updated: 23-09-29 16:53:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -27,7 +27,7 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,779,232
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,865
-27 | VIVOffical | 6,102,447
+27 | VIVOffical | 6,105,110
 28 | IveDoneItAtLast | 5,847,838
 29 | thelonliestcrowd | 5,699,913
 30 | Ginomania | 5,697,144
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | Fenrir-1919 | 2,761,658
 50 | Mean_Bandicoot_7481 | 2,752,108
 51 | ZoomLong | 2,641,251
-52 | ImAlekBan | 2,628,509
+52 | ImAlekBan | 2,629,315
 53 | _Royal_Insylum | 2,603,787
 54 | possibili-teas | 2,410,515
 55 | Richicash | 2,281,863
@@ -503,24 +503,24 @@ Rank | Username | Totals Tips
 500 | xxapplej4ckx | 33,181
 501 | redditavatar555 | 32,875
 502 | himthecool21 | 32,647
-503 | n00b1shm4n | 32,159
-504 | Originalibb | 32,157
-505 | BottleNcanClapUrHand | 31,984
-506 | mihii12 | 31,378
-507 | OutTop | 31,069
-508 | Jo2Bax | 31,041
-509 | riceboi3789 | 31,000
-510 | ClubbyTheCub | 30,885
-511 | rOn3OW | 30,714
-512 | masedogg98 | 30,547
-513 | 2620lukas | 30,500
-514 | -Boxen | 30,420
-515 | LoudlySoupy | 30,408
-516 | MaestroMustache | 30,152
-517 | Extension-Survey3014 | 30,000
-518 | Potential_Fix_5007 | 29,897
-519 | Practical-Store9603 | 29,691
-520 | TheChillDyl | 29,685
+503 | TheChillDyl | 32,348
+504 | n00b1shm4n | 32,159
+505 | Originalibb | 32,157
+506 | BottleNcanClapUrHand | 31,984
+507 | mihii12 | 31,378
+508 | OutTop | 31,069
+509 | Jo2Bax | 31,041
+510 | riceboi3789 | 31,000
+511 | ClubbyTheCub | 30,885
+512 | rOn3OW | 30,714
+513 | masedogg98 | 30,547
+514 | 2620lukas | 30,500
+515 | -Boxen | 30,420
+516 | LoudlySoupy | 30,408
+517 | MaestroMustache | 30,152
+518 | Extension-Survey3014 | 30,000
+519 | Potential_Fix_5007 | 29,897
+520 | Practical-Store9603 | 29,691
 521 | Gilbertll | 29,585
 522 | Locid | 28,938
 523 | bentolman | 28,891
