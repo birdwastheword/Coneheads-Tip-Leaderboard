@@ -1,4 +1,4 @@
-Last updated: 23-09-29 15:19:23 UTC  
+Last updated: 23-09-29 15:30:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | IveDoneItAtLast | 5,847,838
 29 | thelonliestcrowd | 5,699,913
 30 | Ginomania | 5,697,144
-31 | send420nudes | 5,574,238
+31 | send420nudes | 5,578,507
 32 | GuyOne | 5,027,975
 33 | rustyybikes | 4,553,495
 34 | redzrex | 4,552,952
@@ -454,12 +454,12 @@ Rank | Username | Totals Tips
 451 | tentazoc | 45,088
 452 | acfranks | 45,083
 453 | Name_Trikolon | 45,002
-454 | Kilv3r | 44,021
-455 | ShadowKnight324 | 43,986
-456 | Coneboy2663 | 43,852
-457 | halfABsinC | 43,285
-458 | kanem87 | 43,161
-459 | Zap1324 | 43,111
+454 | Zap1324 | 44,531
+455 | Kilv3r | 44,021
+456 | ShadowKnight324 | 43,986
+457 | Coneboy2663 | 43,852
+458 | halfABsinC | 43,285
+459 | kanem87 | 43,161
 460 | ACE415_ | 42,069
 461 | dead-spiral | 42,069
 462 | Expensive_Being_4038 | 41,812
