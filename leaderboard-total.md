@@ -1,4 +1,4 @@
-Last updated: 23-09-29 02:51:51 UTC  
+Last updated: 23-09-29 03:00:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -13,7 +13,7 @@ Rank | Username | Totals Tips
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,361,502
 12 | HODL-THE-LINE | 12,469,181
-13 | SammyCraigar | 12,468,954
+13 | SammyCraigar | 12,468,970
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,846
@@ -54,7 +54,7 @@ Rank | Username | Totals Tips
 51 | ZoomLong | 2,641,251
 52 | ImAlekBan | 2,625,846
 53 | _Royal_Insylum | 2,603,787
-54 | possibili-teas | 2,405,515
+54 | possibili-teas | 2,410,515
 55 | Richicash | 2,281,863
 56 | Autom4tic_Soze | 2,241,617
 57 | 0-Give-a-fucks | 2,094,423
@@ -839,12 +839,12 @@ Rank | Username | Totals Tips
 836 | SoulUrgeDestiny | 3,409
 837 | Microgamers | 3,408
 838 | n1ghsthade | 3,378
-839 | elksteaksdmt | 3,359
-840 | Secure-District-9999 | 3,340
-841 | superficialization | 3,326
-842 | ineedmoney2023 | 3,307
-843 | QualcunoCF | 3,283
-844 | BostonianToro | 3,272
+839 | BostonianToro | 3,372
+840 | elksteaksdmt | 3,359
+841 | Secure-District-9999 | 3,340
+842 | superficialization | 3,326
+843 | ineedmoney2023 | 3,307
+844 | QualcunoCF | 3,283
 845 | Mulleary | 3,271
 846 | mondaymoderate | 3,271
 847 | Full-Art-Weeb | 3,258
