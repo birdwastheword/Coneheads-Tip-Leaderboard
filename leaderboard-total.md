@@ -1,4 +1,4 @@
-Last updated: 23-09-29 20:00:35 UTC  
+Last updated: 23-09-29 20:19:09 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -74,7 +74,7 @@ Rank | Username | Totals Tips
 71 | KONGXIANG | 1,718,942
 72 | Iulian_TechNewb | 1,717,286
 73 | Ten-Mins-Late | 1,709,893
-74 | cannainform2 | 1,666,414
+74 | cannainform2 | 1,667,415
 75 | GooderZBK | 1,617,267
 76 | ultra_terrestrial | 1,552,952
 77 | ValiantJudge29500 | 1,446,265
@@ -121,7 +121,7 @@ Rank | Username | Totals Tips
 118 | Cravensworth_redux | 790,803
 119 | Westy3000 | 785,931
 120 | ziggybri | 783,883
-121 | Complete-Tadpole-728 | 774,001
+121 | Complete-Tadpole-728 | 776,664
 122 | dopelifer09 | 760,372
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,747
