@@ -1,4 +1,4 @@
-Last updated: 23-09-29 09:01:01 UTC  
+Last updated: 23-09-29 09:18:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,447,131
@@ -156,7 +156,7 @@ Rank | Username | Totals Tips
 153 | scientifichistorian | 539,560
 154 | shreyaskg | 538,211
 155 | TubeNerd92 | 537,829
-156 | Bobby_Juk | 534,715
+156 | Bobby_Juk | 535,135
 157 | doktastonks | 533,988
 158 | rolonic | 516,377
 159 | Crypto-4-Freedom | 515,592
