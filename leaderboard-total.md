@@ -1,4 +1,4 @@
-Last updated: 23-09-29 23:00:48 UTC  
+Last updated: 23-09-29 23:18:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,865
 27 | VIVOffical | 6,125,762
-28 | IveDoneItAtLast | 5,876,879
+28 | IveDoneItAtLast | 5,879,542
 29 | thelonliestcrowd | 5,702,576
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,582,776
@@ -120,8 +120,8 @@ Rank | Username | Totals Tips
 117 | na7oul | 800,000
 118 | Cravensworth_redux | 790,803
 119 | Westy3000 | 785,931
-120 | ziggybri | 783,883
-121 | Complete-Tadpole-728 | 776,664
+120 | Complete-Tadpole-728 | 785,913
+121 | ziggybri | 783,883
 122 | dopelifer09 | 763,035
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,747
