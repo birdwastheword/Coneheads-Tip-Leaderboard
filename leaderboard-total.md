@@ -1,4 +1,4 @@
-Last updated: 23-09-29 03:50:53 UTC  
+Last updated: 23-09-29 04:01:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | Duskopia | 680,133
 133 | Due_Insurance8159 | 678,620
 134 | SKITZ_ZA | 676,057
-135 | MorrisBrett514 | 673,088
+135 | MorrisBrett514 | 673,508
 136 | crodbtc | 668,179
 137 | piebagz | 661,815
 138 | junkwatch | 657,697
@@ -681,7 +681,7 @@ Rank | Username | Totals Tips
 678 | Squirrel_McNutz | 10,383
 679 | Gamestopisthe1 | 10,227
 680 | Zeratrem | 10,103
-681 | paracord-bracelets | 10,027
+681 | paracord-bracelets | 10,095
 682 | z6joker9 | 10,000
 683 | Consistent_Air_7646 | 10,000
 684 | xMikaRikax | 10,000
