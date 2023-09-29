@@ -1,4 +1,4 @@
-Last updated: 23-09-29 14:30:55 UTC  
+Last updated: 23-09-29 14:40:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -40,7 +40,7 @@ Rank | Username | Totals Tips
 37 | birdwastheword | 4,421,038
 38 | DontLaughArt | 4,204,829
 39 | zdubs | 3,777,231
-40 | thom_orrow | 3,744,550
+40 | thom_orrow | 3,744,970
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,482,326
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | Duskopia | 680,133
 133 | Due_Insurance8159 | 678,620
 134 | SKITZ_ZA | 676,057
-135 | MorrisBrett514 | 673,646
+135 | MorrisBrett514 | 673,784
 136 | crodbtc | 668,179
 137 | piebagz | 661,815
 138 | junkwatch | 657,697
