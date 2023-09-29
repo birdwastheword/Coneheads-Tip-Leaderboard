@@ -1,8 +1,8 @@
-Last updated: 23-09-29 03:18:54 UTC  
+Last updated: 23-09-29 03:30:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
-2 | nakamo-toe | 36,806,021
+2 | nakamo-toe | 36,835,314
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Geniuskills | 7,904,860
 22 | Puddin-Luv | 7,413,511
 23 | Skank_cunt_42 | 7,270,433
-24 | ashinamune | 6,776,569
+24 | ashinamune | 6,779,232
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,445
 27 | VIVOffical | 6,099,784
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | ziggybri | 783,883
 120 | DogSpark84 | 757,885
 121 | dopelifer09 | 757,709
-122 | Complete-Tadpole-728 | 750,814
+122 | Complete-Tadpole-728 | 751,654
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,678
 125 | frickdom | 710,998
@@ -135,11 +135,11 @@ Rank | Username | Totals Tips
 132 | Duskopia | 680,133
 133 | Due_Insurance8159 | 678,620
 134 | SKITZ_ZA | 676,057
-135 | crodbtc | 668,179
-136 | piebagz | 661,815
-137 | junkwatch | 657,697
-138 | MartynDr | 652,759
-139 | MorrisBrett514 | 652,668
+135 | MorrisBrett514 | 673,088
+136 | crodbtc | 668,179
+137 | piebagz | 661,815
+138 | junkwatch | 657,697
+139 | MartynDr | 652,759
 140 | femacampcouncilor | 650,801
 141 | slirpo | 631,180
 142 | RazPie | 613,307
