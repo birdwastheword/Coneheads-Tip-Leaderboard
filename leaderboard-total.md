@@ -1,4 +1,4 @@
-Last updated: 23-09-29 18:34:06 UTC  
+Last updated: 23-09-29 18:42:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -110,7 +110,7 @@ Rank | Username | Totals Tips
 107 | Bobisdeadrun | 869,016
 108 | DogSpark84 | 867,091
 109 | orangesandonions | 859,682
-110 | adrifing | 845,787
+110 | adrifing | 848,450
 111 | formidable-opponent | 838,747
 112 | PortCity_MadMan | 834,881
 113 | AustinTX1985 | 821,526
