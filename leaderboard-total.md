@@ -1,4 +1,4 @@
-Last updated: 23-09-29 06:44:33 UTC  
+Last updated: 23-09-29 06:52:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,447,131
@@ -62,7 +62,7 @@ Rank | Username | Totals Tips
 59 | investigator100 | 2,049,606
 60 | Affectionate_Hand_76 | 1,980,036
 61 | swampyswede | 1,957,496
-62 | CMDRGlamdring | 1,946,081
+62 | CMDRGlamdring | 1,948,744
 63 | catlover-100 | 1,931,330
 64 | djrcollectables | 1,899,336
 65 | Mundane-Farm-4117 | 1,876,713
@@ -120,8 +120,8 @@ Rank | Username | Totals Tips
 117 | Cravensworth_redux | 790,803
 118 | Westy3000 | 785,931
 119 | ziggybri | 783,883
-120 | DogSpark84 | 757,885
-121 | dopelifer09 | 757,709
+120 | dopelifer09 | 760,372
+121 | DogSpark84 | 757,885
 122 | Complete-Tadpole-728 | 756,980
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,678
@@ -156,8 +156,8 @@ Rank | Username | Totals Tips
 153 | scientifichistorian | 539,560
 154 | shreyaskg | 538,211
 155 | TubeNerd92 | 537,829
-156 | doktastonks | 533,988
-157 | Bobby_Juk | 533,875
+156 | Bobby_Juk | 534,295
+157 | doktastonks | 533,988
 158 | rolonic | 516,377
 159 | Crypto-4-Freedom | 515,592
 160 | f0n1xr131ng | 509,681
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | unhingedbigfoot | 439,874
 171 | Mopeiooo | 437,368
 172 | LX1070 | 430,671
-173 | Lion-Hermit | 417,210
+173 | Lion-Hermit | 418,210
 174 | dronegeeks1 | 414,406
 175 | LrnFaroeseWthBergur | 409,488
 176 | Creepy-Nectarine-225 | 393,504
