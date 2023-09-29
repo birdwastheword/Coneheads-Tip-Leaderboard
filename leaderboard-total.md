@@ -1,4 +1,4 @@
-Last updated: 23-09-29 02:35:13 UTC  
+Last updated: 23-09-29 02:43:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,444,468
@@ -121,7 +121,7 @@ Rank | Username | Totals Tips
 118 | Westy3000 | 785,931
 119 | ziggybri | 783,883
 120 | DogSpark84 | 757,885
-121 | dopelifer09 | 755,046
+121 | dopelifer09 | 757,709
 122 | Complete-Tadpole-728 | 743,728
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,678
