@@ -1,4 +1,4 @@
-Last updated: 23-09-29 12:08:37 UTC  
+Last updated: 23-09-29 12:42:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 18,290,777
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
-11 | crypto_grandma | 14,440,964
+11 | crypto_grandma | 14,527,735
 12 | HODL-THE-LINE | 12,469,181
 13 | SammyCraigar | 12,468,970
 14 | SpookySYN | 12,366,847
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,904,860
-22 | Puddin-Luv | 7,413,537
+22 | Puddin-Luv | 7,416,808
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,779,232
 25 | Real_Player_0 | 6,598,535
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | thelonliestcrowd | 5,697,250
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,574,238
-32 | GuyOne | 5,027,367
+32 | GuyOne | 5,027,975
 33 | rustyybikes | 4,553,495
 34 | redzrex | 4,552,952
 35 | rikbona | 4,540,773
@@ -318,7 +318,7 @@ Rank | Username | Totals Tips
 315 | LaPantheRose | 110,339
 316 | Strong_Constant_1190 | 110,325
 317 | PushyDevolution | 110,216
-318 | customsolitaires | 107,593
+318 | customsolitaires | 107,807
 319 | Jlt42000 | 107,091
 320 | AD_VICTORIAM_x | 106,876
 321 | i_wake_up_at_12 | 106,333
@@ -345,8 +345,8 @@ Rank | Username | Totals Tips
 342 | Backwood20 | 90,298
 343 | Award-Bot | 90,000
 344 | Marauder2 | 89,421
-345 | MedicalJockey | 89,084
-346 | Emeritux | 89,020
+345 | Emeritux | 89,089
+346 | MedicalJockey | 89,084
 347 | HokkaidoNights | 88,108
 348 | ShopALF | 88,011
 349 | Hoppy_Doodle | 88,000
