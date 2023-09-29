@@ -1,4 +1,4 @@
-Last updated: 23-09-29 19:00:45 UTC  
+Last updated: 23-09-29 19:14:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,865
 27 | VIVOffical | 6,107,773
-28 | IveDoneItAtLast | 5,875,425
+28 | IveDoneItAtLast | 5,876,033
 29 | thelonliestcrowd | 5,699,913
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,582,776
@@ -102,7 +102,7 @@ Rank | Username | Totals Tips
 99 | WarmBiertje | 1,000,000
 100 | virmamies | 992,771
 101 | EvanIsBacon | 970,416
-102 | Alanski22 | 956,451
+102 | Alanski22 | 966,451
 103 | CHEROKEEJ4CK | 940,286
 104 | Forward_Today2849 | 932,405
 105 | Modestexcuse | 903,684
