@@ -1,4 +1,4 @@
-Last updated: 23-09-29 06:26:29 UTC  
+Last updated: 23-09-29 06:35:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,447,131
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | rickribera93 | 28,394,729
 7 | Jeff5704 | 28,351,234
-8 | _ships | 18,279,319
+8 | _ships | 18,281,982
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,361,502
@@ -32,7 +32,7 @@ Rank | Username | Totals Tips
 29 | thelonliestcrowd | 5,697,250
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,560,222
-32 | GuyOne | 5,026,759
+32 | GuyOne | 5,027,367
 33 | redzrex | 4,552,952
 34 | rikbona | 4,540,773
 35 | bigbilly1234567899 | 4,496,042
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | ziggybri | 783,883
 120 | DogSpark84 | 757,885
 121 | dopelifer09 | 757,709
-122 | Complete-Tadpole-728 | 751,654
+122 | Complete-Tadpole-728 | 756,980
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,678
 125 | frickdom | 710,998
@@ -379,9 +379,9 @@ Rank | Username | Totals Tips
 376 | I_AM_MORE_BADASS | 73,121
 377 | adi_00_ | 71,759
 378 | CM19901 | 71,276
-379 | sparanaghcoar | 71,118
-380 | ElmerBlack | 70,850
-381 | Dazzling_Marzipan474 | 70,713
+379 | Dazzling_Marzipan474 | 71,133
+380 | sparanaghcoar | 71,118
+381 | ElmerBlack | 70,850
 382 | Atorcran | 70,496
 383 | Yoda975 | 70,123
 384 | Rush4Time | 70,079
