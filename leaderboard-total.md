@@ -1,4 +1,4 @@
-Last updated: 23-09-29 22:50:47 UTC  
+Last updated: 23-09-29 23:00:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -703,7 +703,7 @@ Rank | Username | Totals Tips
 700 | Big_Beyotch | 9,318
 701 | Donmari590 | 9,250
 702 | cptnkook | 9,241
-703 | theindoshow | 9,140
+703 | theindoshow | 9,209
 704 | undefined-account | 9,126
 705 | Ddoublewhopper | 9,126
 706 | BreadfruitIll4265 | 9,108
