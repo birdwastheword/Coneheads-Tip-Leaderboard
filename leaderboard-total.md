@@ -1,4 +1,4 @@
-Last updated: 23-09-29 13:22:44 UTC  
+Last updated: 23-09-29 13:31:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | HippieStarTraveler | 6,260,865
 27 | VIVOffical | 6,102,447
 28 | IveDoneItAtLast | 5,847,838
-29 | thelonliestcrowd | 5,697,250
+29 | thelonliestcrowd | 5,699,913
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,574,238
 32 | GuyOne | 5,027,975
@@ -149,10 +149,10 @@ Rank | Username | Totals Tips
 146 | El_Gordone | 592,784
 147 | Burzzzt88 | 592,696
 148 | shiesto | 591,724
-149 | Ninja_Vagabond | 583,836
-150 | Independent_Heart_15 | 578,825
-151 | cryotosensei | 571,262
-152 | Bobby_Juk | 561,075
+149 | Bobby_Juk | 586,075
+150 | Ninja_Vagabond | 583,836
+151 | Independent_Heart_15 | 578,825
+152 | cryotosensei | 571,262
 153 | StepAsideSuckers | 543,358
 154 | scientifichistorian | 539,560
 155 | shreyaskg | 538,211
@@ -224,9 +224,9 @@ Rank | Username | Totals Tips
 221 | BeardedBro_ | 252,130
 222 | Ambitious-Minimum-80 | 252,035
 223 | Sattack4000 | 250,837
-224 | thestonkinator | 249,330
-225 | Gregoryonetulum | 249,309
-226 | 4gsboofd | 247,040
+224 | 4gsboofd | 249,703
+225 | thestonkinator | 249,330
+226 | Gregoryonetulum | 249,309
 227 | Truffle_Shuffle_85 | 243,967
 228 | Significant_Talk4943 | 243,419
 229 | joeviani | 241,717
