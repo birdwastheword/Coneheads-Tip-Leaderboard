@@ -1,4 +1,4 @@
-Last updated: 23-09-29 13:40:35 UTC  
+Last updated: 23-09-29 13:50:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -259,8 +259,8 @@ Rank | Username | Totals Tips
 256 | 1ndy1 | 189,485
 257 | ZeMadMan1 | 185,914
 258 | nooobmaester69 | 183,460
-259 | ruccarucca | 180,270
-260 | 192000Hertz | 179,076
+259 | 192000Hertz | 181,739
+260 | ruccarucca | 180,270
 261 | Jadenindubai | 176,833
 262 | sjakkpila | 175,766
 263 | high5s_inureye | 173,714
