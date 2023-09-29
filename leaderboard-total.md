@@ -1,4 +1,4 @@
-Last updated: 23-09-29 17:21:09 UTC  
+Last updated: 23-09-29 17:30:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,598,535
 26 | HippieStarTraveler | 6,260,865
 27 | VIVOffical | 6,105,110
-28 | IveDoneItAtLast | 5,848,686
+28 | IveDoneItAtLast | 5,851,349
 29 | thelonliestcrowd | 5,699,913
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,582,776
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | LordBobTheWhale | 3,341,056
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
-49 | Fenrir-1919 | 2,761,658
+49 | Fenrir-1919 | 2,764,321
 50 | Mean_Bandicoot_7481 | 2,752,108
 51 | ZoomLong | 2,641,251
 52 | ImAlekBan | 2,629,315
@@ -121,7 +121,7 @@ Rank | Username | Totals Tips
 118 | Cravensworth_redux | 790,803
 119 | Westy3000 | 785,931
 120 | ziggybri | 783,883
-121 | Complete-Tadpole-728 | 773,512
+121 | Complete-Tadpole-728 | 773,581
 122 | dopelifer09 | 760,372
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,747
