@@ -1,4 +1,4 @@
-Last updated: 23-09-29 18:42:33 UTC  
+Last updated: 23-09-29 18:50:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -43,7 +43,7 @@ Rank | Username | Totals Tips
 40 | thom_orrow | 3,744,970
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
-43 | LuminousViper | 3,482,326
+43 | LuminousViper | 3,482,392
 44 | Korean_Street_Pizza | 3,472,478
 45 | ZukoBih | 3,469,387
 46 | LordBobTheWhale | 3,341,056
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | dopelifer09 | 760,372
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,747
-125 | frickdom | 710,998
+125 | frickdom | 713,661
 126 | starterpack420694 | 710,420
 127 | WarmIyWacky | 703,049
 128 | Starterpack69420 | 696,969
