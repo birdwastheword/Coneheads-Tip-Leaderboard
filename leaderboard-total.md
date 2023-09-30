@@ -1,7 +1,7 @@
-Last updated: 23-09-30 12:07:41 UTC  
+Last updated: 23-09-30 12:38:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
-1 | Bitdream200K | 40,473,761
+1 | Bitdream200K | 40,500,391
 2 | nakamo-toe | 36,937,674
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
@@ -185,10 +185,10 @@ Rank | Username | Totals Tips
 182 | Tinman_ApE | 361,190
 183 | farmertypoerror | 359,212
 184 | Outrageous-Skill-464 | 344,174
-185 | 83nno | 341,088
-186 | anony666mous | 341,008
-187 | tsudrat | 340,707
-188 | Overall-Extension608 | 339,754
+185 | Overall-Extension608 | 342,417
+186 | 83nno | 341,088
+187 | anony666mous | 341,008
+188 | tsudrat | 340,707
 189 | maxfra | 326,334
 190 | DrThunderHandz | 325,115
 191 | x52x | 324,929
@@ -289,8 +289,8 @@ Rank | Username | Totals Tips
 286 | GrowinStuffAndThings | 137,461
 287 | Outrageous-Ad8481 | 137,001
 288 | BitCone_CONE | 135,670
-289 | MorrisWayne | 133,416
-290 | youtooleyesing | 131,097
+289 | youtooleyesing | 133,760
+290 | MorrisWayne | 133,416
 291 | GoodMornEveGoodNight | 131,088
 292 | Mj_6o4 | 129,568
 293 | Awake-- | 128,173
@@ -322,8 +322,8 @@ Rank | Username | Totals Tips
 319 | Jlt42000 | 107,091
 320 | AD_VICTORIAM_x | 106,876
 321 | i_wake_up_at_12 | 106,333
-322 | Ronitn | 105,500
-323 | diamondbored | 105,458
+322 | diamondbored | 105,878
+323 | Ronitn | 105,500
 324 | redditinchina | 105,444
 325 | Chanyuui1 | 104,940
 326 | deathtr0 | 104,641
@@ -932,11 +932,11 @@ Rank | Username | Totals Tips
 929 | happily_unlawful | 1,645
 930 | Zues6921 | 1,627
 931 | MalicCarnage | 1,607
-932 | Traditional-Figure99 | 1,569
-933 | Interesting-Chip-500 | 1,559
-934 | Ask_Ari | 1,544
-935 | KantoRegionChampRed | 1,536
-936 | Pacaloz | 1,530
+932 | Pacaloz | 1,599
+933 | Traditional-Figure99 | 1,569
+934 | Interesting-Chip-500 | 1,559
+935 | Ask_Ari | 1,544
+936 | KantoRegionChampRed | 1,536
 937 | XenonXTR | 1,517
 938 | Pataphak377 | 1,490
 939 | adamdmn | 1,490
