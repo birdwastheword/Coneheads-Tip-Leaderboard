@@ -1,8 +1,8 @@
-Last updated: 23-09-30 06:40:46 UTC  
+Last updated: 23-09-30 06:50:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
-2 | nakamo-toe | 36,931,500
+2 | nakamo-toe | 36,934,163
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,582,776
 32 | GuyOne | 5,227,478
-33 | DontLaughArt | 4,637,699
+33 | DontLaughArt | 4,664,329
 34 | redzrex | 4,570,941
 35 | rustyybikes | 4,553,495
 36 | rikbona | 4,540,773
@@ -116,8 +116,8 @@ Rank | Username | Totals Tips
 113 | adrifing | 848,450
 114 | AustinTX1985 | 821,526
 115 | goldyluckinblokchain | 809,537
-116 | RegalReptile_ | 807,046
-117 | Complete-Tadpole-728 | 805,582
+116 | Complete-Tadpole-728 | 808,245
+117 | RegalReptile_ | 807,046
 118 | vbutarin | 802,000
 119 | na7oul | 800,000
 120 | Cravensworth_redux | 790,803
