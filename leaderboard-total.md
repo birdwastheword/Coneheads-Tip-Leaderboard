@@ -1,4 +1,4 @@
-Last updated: 23-09-30 08:00:50 UTC  
+Last updated: 23-09-30 08:21:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -33,9 +33,9 @@ Rank | Username | Totals Tips
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,582,776
 32 | GuyOne | 5,227,478
-33 | DontLaughArt | 4,695,622
+33 | DontLaughArt | 4,722,252
 34 | redzrex | 4,570,941
-35 | rustyybikes | 4,553,495
+35 | rustyybikes | 4,554,188
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
 38 | birdwastheword | 4,421,038
@@ -312,10 +312,10 @@ Rank | Username | Totals Tips
 309 | LaPantheRose | 114,608
 310 | AlternativeBag2619 | 114,483
 311 | Fox1931 | 114,000
-312 | flying_bacon | 111,929
-313 | adrefofadre | 111,817
-314 | jurgensdapimp | 111,618
-315 | Showwwy87 | 110,923
+312 | Showwwy87 | 113,586
+313 | flying_bacon | 111,929
+314 | adrefofadre | 111,817
+315 | jurgensdapimp | 111,618
 316 | Strong_Constant_1190 | 110,325
 317 | PushyDevolution | 110,216
 318 | customsolitaires | 108,415
