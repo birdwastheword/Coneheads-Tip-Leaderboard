@@ -1,4 +1,4 @@
-Last updated: 23-09-30 15:33:50 UTC  
+Last updated: 23-09-30 15:42:13 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -373,8 +373,8 @@ Rank | Username | Totals Tips
 370 | mokkingjay | 77,914
 371 | HelicopterDear6064 | 77,619
 372 | Diamond_PnutBrain | 76,771
-373 | Heycheckthisout20 | 75,608
-374 | LightninHooker | 75,553
+373 | LightninHooker | 75,973
+374 | Heycheckthisout20 | 75,608
 375 | MedicineMaterial3501 | 74,654
 376 | Steadfast_Apparition | 74,506
 377 | pwan7505 | 73,893
