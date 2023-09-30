@@ -1,12 +1,12 @@
-Last updated: 23-09-30 01:28:30 UTC  
+Last updated: 23-09-30 02:03:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
-2 | nakamo-toe | 36,926,174
+2 | nakamo-toe | 36,928,837
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
-6 | Jeff5704 | 28,771,234
+6 | Jeff5704 | 28,851,145
 7 | rickribera93 | 28,394,729
 8 | _ships | 18,302,306
 9 | ConeDesk | 17,947,653
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | rikbona | 4,540,773
 36 | bigbilly1234567899 | 4,496,042
 37 | birdwastheword | 4,421,038
-38 | DontLaughArt | 4,305,437
+38 | DontLaughArt | 4,306,045
 39 | zdubs | 3,777,286
 40 | thom_orrow | 3,744,970
 41 | clean_cut89 | 3,737,311
@@ -109,10 +109,10 @@ Rank | Username | Totals Tips
 106 | thee_monster | 896,765
 107 | Bobisdeadrun | 869,016
 108 | DogSpark84 | 867,091
-109 | orangesandonions | 859,682
-110 | adrifing | 848,450
-111 | formidable-opponent | 838,747
-112 | PortCity_MadMan | 834,881
+109 | PortCity_MadMan | 861,511
+110 | orangesandonions | 859,682
+111 | adrifing | 848,450
+112 | formidable-opponent | 838,747
 113 | AustinTX1985 | 821,526
 114 | goldyluckinblokchain | 809,537
 115 | RegalReptile_ | 807,046
