@@ -1,8 +1,8 @@
-Last updated: 23-09-30 22:50:36 UTC  
+Last updated: 23-09-30 23:00:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,016,871
+2 | nakamo-toe | 37,019,534
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,124,093
 5 | waterhasnocalories | 30,910,235
@@ -182,7 +182,7 @@ Rank | Username | Totals Tips
 179 | MisterM0H0 | 379,338
 180 | zenhodl | 374,566
 181 | hellosamaira | 373,235
-182 | Tinman_ApE | 361,190
+182 | Tinman_ApE | 361,798
 183 | farmertypoerror | 359,212
 184 | Outrageous-Skill-464 | 344,174
 185 | Overall-Extension608 | 342,417
