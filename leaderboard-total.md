@@ -1,4 +1,4 @@
-Last updated: 23-09-30 03:30:37 UTC  
+Last updated: 23-09-30 03:40:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -76,7 +76,7 @@ Rank | Username | Totals Tips
 73 | Ten-Mins-Late | 1,709,893
 74 | cannainform2 | 1,667,415
 75 | GooderZBK | 1,617,267
-76 | ultra_terrestrial | 1,557,992
+76 | ultra_terrestrial | 1,558,412
 77 | ValiantJudge29500 | 1,446,265
 78 | YarOldeOrchard | 1,438,286
 79 | isthistomorrow_ | 1,381,135
