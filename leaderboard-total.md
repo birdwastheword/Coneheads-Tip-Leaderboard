@@ -1,4 +1,4 @@
-Last updated: 23-09-30 17:41:56 UTC  
+Last updated: 23-09-30 17:50:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -89,11 +89,11 @@ Rank | Username | Totals Tips
 86 | Hot_Potato_Salad | 1,147,558
 87 | pythonskynet | 1,147,213
 88 | beastlybaker | 1,138,701
-89 | Allions1 | 1,103,856
-90 | nichnotnick | 1,103,821
-91 | ID404_Not_Found_8964 | 1,066,725
-92 | UniversalNoobMaster | 1,056,369
-93 | noface_reddit | 1,051,766
+89 | noface_reddit | 1,105,026
+90 | Allions1 | 1,103,856
+91 | nichnotnick | 1,103,821
+92 | ID404_Not_Found_8964 | 1,066,725
+93 | UniversalNoobMaster | 1,056,369
 94 | ashketchup422 | 1,042,067
 95 | freechickens | 1,028,524
 96 | avatarbot | 1,027,000
@@ -112,9 +112,9 @@ Rank | Username | Totals Tips
 109 | Bobisdeadrun | 869,016
 110 | DogSpark84 | 867,091
 111 | PortCity_MadMan | 861,511
-112 | orangesandonions | 859,682
-113 | adrifing | 848,450
-114 | Complete-Tadpole-728 | 838,566
+112 | Complete-Tadpole-728 | 860,898
+113 | orangesandonions | 859,682
+114 | adrifing | 848,450
 115 | AustinTX1985 | 821,526
 116 | goldyluckinblokchain | 809,537
 117 | RegalReptile_ | 807,046
@@ -160,8 +160,8 @@ Rank | Username | Totals Tips
 157 | doktastonks | 536,651
 158 | Crypto-4-Freedom | 517,272
 159 | rolonic | 516,377
-160 | f0n1xr131ng | 509,681
-161 | fettskull | 504,821
+160 | fettskull | 510,147
+161 | f0n1xr131ng | 509,681
 162 | AcceptableLeg8751 | 500,000
 163 | stockyewok | 489,348
 164 | DAMG808 | 483,095
@@ -193,8 +193,8 @@ Rank | Username | Totals Tips
 190 | DrThunderHandz | 325,115
 191 | x52x | 324,929
 192 | Adrewmc | 321,178
-193 | Chapo_1992 | 315,419
-194 | TummyLice | 313,098
+193 | TummyLice | 319,767
+194 | Chapo_1992 | 315,419
 195 | Lastkidpicked94 | 312,785
 196 | EffinDrongoC | 312,738
 197 | pinkglue99 | 312,265
@@ -236,8 +236,8 @@ Rank | Username | Totals Tips
 233 | Conetent | 234,739
 234 | alexthemay | 234,131
 235 | CoverYourMaskHoles | 229,708
-236 | ShortBusCult | 227,877
-237 | 192000Hertz | 226,038
+236 | 192000Hertz | 228,701
+237 | ShortBusCult | 227,877
 238 | Ashamed_Raccoon9918 | 224,697
 239 | SourBeefHoop | 217,512
 240 | phonebreaker8 | 215,189
