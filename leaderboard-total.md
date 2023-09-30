@@ -1,4 +1,4 @@
-Last updated: 23-09-30 06:01:05 UTC  
+Last updated: 23-09-30 06:23:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -33,10 +33,10 @@ Rank | Username | Totals Tips
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,582,776
 32 | GuyOne | 5,227,478
-33 | redzrex | 4,555,615
-34 | rustyybikes | 4,553,495
-35 | rikbona | 4,540,773
-36 | DontLaughArt | 4,516,190
+33 | DontLaughArt | 4,608,406
+34 | redzrex | 4,570,941
+35 | rustyybikes | 4,553,495
+36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
 38 | birdwastheword | 4,421,038
 39 | zdubs | 3,777,286
@@ -87,7 +87,7 @@ Rank | Username | Totals Tips
 84 | HestiaIsTheBestia | 1,188,046
 85 | Feetfailmenot | 1,170,705
 86 | Hot_Potato_Salad | 1,147,558
-87 | pythonskynet | 1,146,793
+87 | pythonskynet | 1,147,213
 88 | beastlybaker | 1,138,701
 89 | Allions1 | 1,103,856
 90 | nichnotnick | 1,103,821
@@ -105,7 +105,7 @@ Rank | Username | Totals Tips
 102 | Alanski22 | 966,451
 103 | CHEROKEEJ4CK | 940,286
 104 | Forward_Today2849 | 932,405
-105 | formidable-opponent | 920,138
+105 | formidable-opponent | 927,915
 106 | Modestexcuse | 903,684
 107 | thee_monster | 896,765
 108 | Westy3000 | 887,191
@@ -185,22 +185,22 @@ Rank | Username | Totals Tips
 182 | Tinman_ApE | 361,190
 183 | farmertypoerror | 359,212
 184 | Outrageous-Skill-464 | 344,174
-185 | anony666mous | 341,008
-186 | tsudrat | 340,707
-187 | 83nno | 340,668
+185 | 83nno | 341,088
+186 | anony666mous | 341,008
+187 | tsudrat | 340,707
 188 | Overall-Extension608 | 339,754
 189 | maxfra | 326,334
 190 | DrThunderHandz | 325,115
 191 | x52x | 324,929
-192 | Chapo_1992 | 315,419
-193 | TummyLice | 313,098
-194 | Lastkidpicked94 | 312,785
-195 | EffinDrongoC | 312,738
-196 | pinkglue99 | 312,265
-197 | FluffyAspie | 306,254
-198 | liwipe | 304,467
-199 | S2K08 | 301,342
-200 | Adrewmc | 301,178
+192 | Adrewmc | 321,178
+193 | Chapo_1992 | 315,419
+194 | TummyLice | 313,098
+195 | Lastkidpicked94 | 312,785
+196 | EffinDrongoC | 312,738
+197 | pinkglue99 | 312,265
+198 | FluffyAspie | 306,254
+199 | liwipe | 304,467
+200 | S2K08 | 301,342
 201 | VincentVanGTFO | 300,598
 202 | legionticket | 296,054
 203 | send_tacoz | 293,576
