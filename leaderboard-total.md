@@ -1,4 +1,4 @@
-Last updated: 23-09-30 02:03:49 UTC  
+Last updated: 23-09-30 02:23:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -116,9 +116,9 @@ Rank | Username | Totals Tips
 113 | AustinTX1985 | 821,526
 114 | goldyluckinblokchain | 809,537
 115 | RegalReptile_ | 807,046
-116 | vbutarin | 802,000
-117 | na7oul | 800,000
-118 | Complete-Tadpole-728 | 795,162
+116 | Complete-Tadpole-728 | 805,162
+117 | vbutarin | 802,000
+118 | na7oul | 800,000
 119 | Cravensworth_redux | 790,803
 120 | Westy3000 | 785,931
 121 | ziggybri | 783,883
