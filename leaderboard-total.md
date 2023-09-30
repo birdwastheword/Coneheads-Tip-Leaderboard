@@ -1,4 +1,4 @@
-Last updated: 23-09-30 05:30:45 UTC  
+Last updated: 23-09-30 05:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -6,9 +6,9 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
-6 | Jeff5704 | 29,114,640
+6 | Jeff5704 | 29,315,060
 7 | rickribera93 | 28,394,729
-8 | _ships | 19,083,920
+8 | _ships | 19,228,652
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,560,819
@@ -38,7 +38,7 @@ Rank | Username | Totals Tips
 35 | rikbona | 4,540,773
 36 | bigbilly1234567899 | 4,496,042
 37 | birdwastheword | 4,421,038
-38 | DontLaughArt | 4,407,006
+38 | DontLaughArt | 4,412,332
 39 | zdubs | 3,777,286
 40 | thom_orrow | 3,744,970
 41 | clean_cut89 | 3,737,311
@@ -116,7 +116,7 @@ Rank | Username | Totals Tips
 113 | AustinTX1985 | 821,526
 114 | goldyluckinblokchain | 809,537
 115 | RegalReptile_ | 807,046
-116 | Complete-Tadpole-728 | 805,162
+116 | Complete-Tadpole-728 | 805,582
 117 | vbutarin | 802,000
 118 | na7oul | 800,000
 119 | Cravensworth_redux | 790,803
@@ -298,7 +298,7 @@ Rank | Username | Totals Tips
 295 | DeanDeanington | 127,267
 296 | CalligrapherEnough83 | 127,227
 297 | Trakorr | 125,110
-298 | beanwiggin420 | 122,375
+298 | beanwiggin420 | 122,983
 299 | stupidcupid112 | 121,841
 300 | Sativa55555 | 121,550
 301 | lucivaryas | 121,420
