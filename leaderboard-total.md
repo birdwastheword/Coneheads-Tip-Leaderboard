@@ -1,4 +1,4 @@
-Last updated: 23-09-30 19:40:43 UTC  
+Last updated: 23-09-30 19:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -33,13 +33,13 @@ Rank | Username | Totals Tips
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,582,776
 32 | GuyOne | 5,228,085
-33 | DontLaughArt | 4,795,512
+33 | DontLaughArt | 4,801,592
 34 | redzrex | 4,570,941
 35 | rustyybikes | 4,554,188
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
 38 | birdwastheword | 4,421,038
-39 | zdubs | 3,777,706
+39 | zdubs | 3,780,369
 40 | thom_orrow | 3,744,970
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
@@ -849,10 +849,10 @@ Rank | Username | Totals Tips
 846 | Mulleary | 3,271
 847 | mondaymoderate | 3,271
 848 | Full-Art-Weeb | 3,258
-849 | LeThaLxdARk | 3,206
-850 | redditagain91 | 3,163
-851 | PopLegion | 3,152
-852 | ced-uca | 3,152
+849 | ced-uca | 3,221
+850 | LeThaLxdARk | 3,206
+851 | redditagain91 | 3,163
+852 | PopLegion | 3,152
 853 | Positive-Gazelle2603 | 3,152
 854 | Xrim- | 3,142
 855 | Jenn2895 | 3,139
