@@ -1,4 +1,4 @@
-Last updated: 23-09-30 15:00:59 UTC  
+Last updated: 23-09-30 15:17:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
-6 | Jeff5704 | 29,315,060
+6 | Jeff5704 | 29,368,334
 7 | rickribera93 | 28,394,729
 8 | _ships | 19,494,955
 9 | ConeDesk | 17,947,653
@@ -298,7 +298,7 @@ Rank | Username | Totals Tips
 295 | DeanDeanington | 127,267
 296 | CalligrapherEnough83 | 127,227
 297 | Trakorr | 125,110
-298 | beanwiggin420 | 122,983
+298 | beanwiggin420 | 123,403
 299 | stupidcupid112 | 121,841
 300 | Sativa55555 | 121,550
 301 | lucivaryas | 121,420
