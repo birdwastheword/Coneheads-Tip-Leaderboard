@@ -1,4 +1,4 @@
-Last updated: 23-09-30 16:32:21 UTC  
+Last updated: 23-09-30 16:40:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -701,18 +701,18 @@ Rank | Username | Totals Tips
 698 | TeflonThaDonn | 9,599
 699 | Mavis80 | 9,554
 700 | xSeekTruthx | 9,459
-701 | mmmohm | 9,363
-702 | Big_Beyotch | 9,318
-703 | Donmari590 | 9,250
-704 | cptnkook | 9,241
-705 | theindoshow | 9,209
-706 | undefined-account | 9,126
-707 | Ddoublewhopper | 9,126
-708 | BreadfruitIll4265 | 9,108
-709 | Shraier | 9,103
-710 | akemicariocaer | 9,092
-711 | Otherwise_Assist_34 | 9,083
-712 | doctorwho_cares | 9,038
+701 | doctorwho_cares | 9,458
+702 | mmmohm | 9,363
+703 | Big_Beyotch | 9,318
+704 | Donmari590 | 9,250
+705 | cptnkook | 9,241
+706 | theindoshow | 9,209
+707 | undefined-account | 9,126
+708 | Ddoublewhopper | 9,126
+709 | BreadfruitIll4265 | 9,108
+710 | Shraier | 9,103
+711 | akemicariocaer | 9,092
+712 | Otherwise_Assist_34 | 9,083
 713 | 69BoJack69 | 9,003
 714 | Ancient_Summer_1833 | 9,001
 715 | Coeruleus_ | 8,985
