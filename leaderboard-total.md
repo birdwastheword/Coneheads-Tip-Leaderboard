@@ -1,4 +1,4 @@
-Last updated: 23-09-30 04:50:49 UTC  
+Last updated: 23-09-30 05:00:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | Jeff5704 | 28,931,056
 7 | rickribera93 | 28,394,729
-8 | _ships | 18,842,652
+8 | _ships | 18,869,340
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,560,819
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,911,829
-22 | Puddin-Luv | 7,458,999
+22 | Puddin-Luv | 7,477,468
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,779,232
 25 | Real_Player_0 | 6,599,143
@@ -38,19 +38,19 @@ Rank | Username | Totals Tips
 35 | rikbona | 4,540,773
 36 | bigbilly1234567899 | 4,496,042
 37 | birdwastheword | 4,421,038
-38 | DontLaughArt | 4,397,801
+38 | DontLaughArt | 4,398,409
 39 | zdubs | 3,777,286
 40 | thom_orrow | 3,744,970
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,482,392
-44 | Korean_Street_Pizza | 3,472,898
+44 | Korean_Street_Pizza | 3,473,318
 45 | ZukoBih | 3,469,387
 46 | LordBobTheWhale | 3,341,056
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | CMDRGlamdring | 2,898,744
-50 | Fenrir-1919 | 2,764,321
+50 | Fenrir-1919 | 2,766,984
 51 | Mean_Bandicoot_7481 | 2,752,108
 52 | ZoomLong | 2,641,251
 53 | ImAlekBan | 2,631,978
@@ -76,8 +76,8 @@ Rank | Username | Totals Tips
 73 | Ten-Mins-Late | 1,709,893
 74 | cannainform2 | 1,668,416
 75 | GooderZBK | 1,617,267
-76 | ultra_terrestrial | 1,585,042
-77 | ValiantJudge29500 | 1,500,536
+76 | ValiantJudge29500 | 1,585,705
+77 | ultra_terrestrial | 1,585,042
 78 | YarOldeOrchard | 1,438,286
 79 | isthistomorrow_ | 1,381,135
 80 | Extreme_Issue7325 | 1,345,890
@@ -107,7 +107,7 @@ Rank | Username | Totals Tips
 104 | Forward_Today2849 | 932,405
 105 | Modestexcuse | 903,684
 106 | thee_monster | 896,765
-107 | formidable-opponent | 880,405
+107 | formidable-opponent | 883,068
 108 | Bobisdeadrun | 869,016
 109 | DogSpark84 | 867,091
 110 | PortCity_MadMan | 861,511
