@@ -1,4 +1,4 @@
-Last updated: 23-09-30 02:23:08 UTC  
+Last updated: 23-09-30 02:31:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | Due_Insurance8159 | 678,620
 134 | SKITZ_ZA | 676,057
 135 | MorrisBrett514 | 675,050
-136 | crodbtc | 668,179
+136 | crodbtc | 670,842
 137 | piebagz | 661,815
 138 | junkwatch | 657,697
 139 | MartynDr | 652,759
