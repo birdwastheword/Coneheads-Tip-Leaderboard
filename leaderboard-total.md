@@ -1,4 +1,4 @@
-Last updated: 23-09-30 06:31:33 UTC  
+Last updated: 23-09-30 06:40:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -309,13 +309,13 @@ Rank | Username | Totals Tips
 306 | mvea | 115,748
 307 | Creative_Ad7831 | 115,373
 308 | xSkyFa11x | 114,768
-309 | AlternativeBag2619 | 114,483
-310 | Fox1931 | 114,000
-311 | flying_bacon | 111,929
-312 | adrefofadre | 111,817
-313 | jurgensdapimp | 111,618
-314 | Showwwy87 | 110,923
-315 | LaPantheRose | 110,339
+309 | LaPantheRose | 114,608
+310 | AlternativeBag2619 | 114,483
+311 | Fox1931 | 114,000
+312 | flying_bacon | 111,929
+313 | adrefofadre | 111,817
+314 | jurgensdapimp | 111,618
+315 | Showwwy87 | 110,923
 316 | Strong_Constant_1190 | 110,325
 317 | PushyDevolution | 110,216
 318 | customsolitaires | 108,415
