@@ -1,4 +1,4 @@
-Last updated: 23-09-30 14:34:05 UTC  
+Last updated: 23-09-30 14:42:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -852,11 +852,11 @@ Rank | Username | Totals Tips
 849 | LeThaLxdARk | 3,206
 850 | redditagain91 | 3,163
 851 | PopLegion | 3,152
-852 | Positive-Gazelle2603 | 3,152
-853 | Xrim- | 3,142
-854 | Jenn2895 | 3,139
-855 | 0ysterhead | 3,083
-856 | ced-uca | 3,083
+852 | ced-uca | 3,152
+853 | Positive-Gazelle2603 | 3,152
+854 | Xrim- | 3,142
+855 | Jenn2895 | 3,139
+856 | 0ysterhead | 3,083
 857 | obaming16 | 3,007
 858 | KingPaladin | 3,000
 859 | SpellApprehensive641 | 2,979
