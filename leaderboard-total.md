@@ -1,4 +1,4 @@
-Last updated: 23-09-30 22:17:55 UTC  
+Last updated: 23-09-30 22:30:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -240,9 +240,9 @@ Rank | Username | Totals Tips
 237 | ShortBusCult | 227,877
 238 | Ashamed_Raccoon9918 | 224,697
 239 | SourBeefHoop | 217,512
-240 | phonebreaker8 | 215,189
-241 | yahuurdme | 214,974
-242 | SaberTurret | 213,874
+240 | SaberTurret | 216,537
+241 | phonebreaker8 | 215,189
+242 | yahuurdme | 214,974
 243 | Beenthorny | 212,362
 244 | SigSalvadore | 212,358
 245 | UWphoto | 211,312
