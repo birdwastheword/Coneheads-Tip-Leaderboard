@@ -1,4 +1,4 @@
-Last updated: 23-09-30 11:40:44 UTC  
+Last updated: 23-09-30 11:50:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,560,819
-12 | SammyCraigar | 12,535,545
+12 | SammyCraigar | 12,538,208
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
@@ -492,10 +492,10 @@ Rank | Username | Totals Tips
 489 | degree-01 | 36,486
 490 | genesis_crazy_one | 36,237
 491 | mbashs | 36,030
-492 | SirPesoOtaku | 35,144
-493 | TRANZHUMANIST | 35,069
-494 | Big-Researcher-3855 | 35,019
-495 | TheChillDyl | 35,011
+492 | TheChillDyl | 35,431
+493 | SirPesoOtaku | 35,144
+494 | TRANZHUMANIST | 35,069
+495 | Big-Researcher-3855 | 35,019
 496 | BelowAveIntelligence | 34,132
 497 | Obvious-Ask-5747 | 33,806
 498 | PoDunkYuppie | 33,513
