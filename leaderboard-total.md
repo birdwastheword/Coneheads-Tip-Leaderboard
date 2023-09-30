@@ -1,4 +1,4 @@
-Last updated: 23-09-30 02:40:48 UTC  
+Last updated: 23-09-30 02:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
-6 | Jeff5704 | 28,851,145
+6 | Jeff5704 | 28,877,782
 7 | rickribera93 | 28,394,729
 8 | _ships | 18,302,306
 9 | ConeDesk | 17,947,653
