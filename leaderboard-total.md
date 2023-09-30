@@ -1,4 +1,4 @@
-Last updated: 23-09-30 08:50:42 UTC  
+Last updated: 23-09-30 09:00:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
-21 | Geniuskills | 7,911,829
+21 | Geniuskills | 7,918,798
 22 | Puddin-Luv | 7,501,737
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,779,232
