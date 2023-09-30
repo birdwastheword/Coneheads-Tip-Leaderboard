@@ -1,4 +1,4 @@
-Last updated: 23-09-30 10:00:48 UTC  
+Last updated: 23-09-30 10:19:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,560,819
-12 | SammyCraigar | 12,527,556
+12 | SammyCraigar | 12,530,219
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
@@ -158,8 +158,8 @@ Rank | Username | Totals Tips
 155 | TubeNerd92 | 538,249
 156 | shreyaskg | 538,211
 157 | doktastonks | 536,651
-158 | rolonic | 516,377
-159 | Crypto-4-Freedom | 516,012
+158 | Crypto-4-Freedom | 516,852
+159 | rolonic | 516,377
 160 | f0n1xr131ng | 509,681
 161 | fettskull | 504,821
 162 | AcceptableLeg8751 | 500,000
