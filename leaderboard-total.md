@@ -1,4 +1,4 @@
-Last updated: 23-09-30 17:16:16 UTC  
+Last updated: 23-09-30 17:24:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | Jeff5704 | 29,373,660
 7 | rickribera93 | 28,396,729
-8 | _ships | 19,494,955
+8 | _ships | 19,496,567
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,560,819
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | dopelifer09 | 763,035
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,747
-125 | frickdom | 713,661
+125 | frickdom | 716,324
 126 | starterpack420694 | 710,420
 127 | crodbtc | 703,505
 128 | WarmIyWacky | 703,049
@@ -149,7 +149,7 @@ Rank | Username | Totals Tips
 146 | El_Gordone | 592,784
 147 | Burzzzt88 | 592,696
 148 | shiesto | 592,564
-149 | Bobby_Juk | 586,495
+149 | Bobby_Juk | 587,335
 150 | Ninja_Vagabond | 583,836
 151 | Independent_Heart_15 | 578,825
 152 | cryotosensei | 571,262
