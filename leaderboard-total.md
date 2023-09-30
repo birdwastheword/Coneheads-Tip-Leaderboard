@@ -1,8 +1,8 @@
-Last updated: 23-09-30 19:22:21 UTC  
+Last updated: 23-09-30 19:30:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 36,963,611
+2 | nakamo-toe | 37,016,871
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,124,093
 5 | waterhasnocalories | 30,910,235
@@ -305,15 +305,15 @@ Rank | Username | Totals Tips
 302 | Schl0tz | 120,000
 303 | lordciders | 119,706
 304 | CaptainCheeseCake | 118,644
-305 | street_shark_puppet | 116,891
-306 | mvea | 115,748
-307 | Creative_Ad7831 | 115,373
-308 | xSkyFa11x | 114,768
-309 | LaPantheRose | 114,608
-310 | AlternativeBag2619 | 114,483
-311 | Fox1931 | 114,000
-312 | Showwwy87 | 113,586
-313 | customsolitaires | 112,684
+305 | customsolitaires | 116,953
+306 | street_shark_puppet | 116,891
+307 | mvea | 115,748
+308 | Creative_Ad7831 | 115,373
+309 | xSkyFa11x | 114,768
+310 | LaPantheRose | 114,608
+311 | AlternativeBag2619 | 114,483
+312 | Fox1931 | 114,000
+313 | Showwwy87 | 113,586
 314 | flying_bacon | 111,929
 315 | adrefofadre | 111,817
 316 | jurgensdapimp | 111,618
