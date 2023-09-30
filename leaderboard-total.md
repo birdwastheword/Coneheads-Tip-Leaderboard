@@ -1,4 +1,4 @@
-Last updated: 23-09-30 14:25:35 UTC  
+Last updated: 23-09-30 14:34:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -672,18 +672,18 @@ Rank | Username | Totals Tips
 669 | xllw | 11,000
 670 | PurpleCoveredSnow | 10,915
 671 | Zealousideal-War6206 | 10,905
-672 | maurinet79 | 10,844
-673 | j9101a | 10,804
-674 | Torporific1 | 10,669
-675 | GlumDreamer | 10,652
-676 | mimsoo777 | 10,638
-677 | ancheli | 10,588
-678 | Straton_Conemont_Inc | 10,550
-679 | Background-Ad-2102 | 10,450
-680 | 73i1 | 10,412
-681 | Squirrel_McNutz | 10,383
-682 | Gamestopisthe1 | 10,227
-683 | paracord-bracelets | 10,095
+672 | paracord-bracelets | 10,872
+673 | maurinet79 | 10,844
+674 | j9101a | 10,804
+675 | Torporific1 | 10,669
+676 | GlumDreamer | 10,652
+677 | mimsoo777 | 10,638
+678 | ancheli | 10,588
+679 | Straton_Conemont_Inc | 10,550
+680 | Background-Ad-2102 | 10,450
+681 | 73i1 | 10,412
+682 | Squirrel_McNutz | 10,383
+683 | Gamestopisthe1 | 10,227
 684 | z6joker9 | 10,000
 685 | Consistent_Air_7646 | 10,000
 686 | xMikaRikax | 10,000
