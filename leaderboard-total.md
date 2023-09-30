@@ -1,4 +1,4 @@
-Last updated: 23-09-30 16:00:49 UTC  
+Last updated: 23-09-30 16:22:12 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -114,7 +114,7 @@ Rank | Username | Totals Tips
 111 | PortCity_MadMan | 861,511
 112 | orangesandonions | 859,682
 113 | adrifing | 848,450
-114 | Complete-Tadpole-728 | 830,577
+114 | Complete-Tadpole-728 | 838,566
 115 | AustinTX1985 | 821,526
 116 | goldyluckinblokchain | 809,537
 117 | RegalReptile_ | 807,046
