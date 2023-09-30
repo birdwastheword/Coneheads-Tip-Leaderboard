@@ -1,4 +1,4 @@
-Last updated: 23-09-30 05:17:59 UTC  
+Last updated: 23-09-30 05:30:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
@@ -6,9 +6,9 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
-6 | Jeff5704 | 28,931,056
+6 | Jeff5704 | 29,114,640
 7 | rickribera93 | 28,394,729
-8 | _ships | 18,869,340
+8 | _ships | 19,083,920
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,560,819
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | SpookySYN | 12,366,847
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,846
-17 | avyun | 9,524,081
+17 | avyun | 9,974,081
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
@@ -107,7 +107,7 @@ Rank | Username | Totals Tips
 104 | Forward_Today2849 | 932,405
 105 | Modestexcuse | 903,684
 106 | thee_monster | 896,765
-107 | formidable-opponent | 890,845
+107 | formidable-opponent | 893,508
 108 | Bobisdeadrun | 869,016
 109 | DogSpark84 | 867,091
 110 | PortCity_MadMan | 861,511
@@ -120,7 +120,7 @@ Rank | Username | Totals Tips
 117 | vbutarin | 802,000
 118 | na7oul | 800,000
 119 | Cravensworth_redux | 790,803
-120 | Westy3000 | 785,931
+120 | Westy3000 | 786,771
 121 | ziggybri | 783,883
 122 | dopelifer09 | 763,035
 123 | Obi1eyeKenobi | 730,328
