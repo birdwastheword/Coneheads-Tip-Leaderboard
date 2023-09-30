@@ -1,10 +1,10 @@
-Last updated: 23-09-30 19:00:41 UTC  
+Last updated: 23-09-30 19:13:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
 2 | nakamo-toe | 36,960,948
 3 | Wonderful_Bad6531 | 36,372,142
-4 | cutsickass | 32,121,430
+4 | cutsickass | 32,124,093
 5 | waterhasnocalories | 30,910,235
 6 | Jeff5704 | 29,373,798
 7 | rickribera93 | 28,396,729
@@ -27,13 +27,13 @@ Rank | Username | Totals Tips
 24 | ashinamune | 6,781,895
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,316,480
-27 | HippieStarTraveler | 6,261,285
+27 | HippieStarTraveler | 6,263,948
 28 | IveDoneItAtLast | 5,880,758
 29 | thelonliestcrowd | 5,731,876
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,582,776
 32 | GuyOne | 5,228,085
-33 | DontLaughArt | 4,768,882
+33 | DontLaughArt | 4,795,512
 34 | redzrex | 4,570,941
 35 | rustyybikes | 4,554,188
 36 | rikbona | 4,540,773
@@ -242,10 +242,10 @@ Rank | Username | Totals Tips
 239 | SourBeefHoop | 217,512
 240 | phonebreaker8 | 215,189
 241 | yahuurdme | 214,974
-242 | Beenthorny | 212,362
-243 | SigSalvadore | 212,358
-244 | UWphoto | 211,312
-245 | SaberTurret | 211,211
+242 | SaberTurret | 213,874
+243 | Beenthorny | 212,362
+244 | SigSalvadore | 212,358
+245 | UWphoto | 211,312
 246 | Most_Being_4002 | 206,012
 247 | Esco1980 | 204,434
 248 | skollywag92 | 204,114
