@@ -1,4 +1,4 @@
-Last updated: 23-09-30 22:30:35 UTC  
+Last updated: 23-09-30 22:40:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | possibili-teas | 2,410,515
 56 | Richicash | 2,281,863
 57 | Autom4tic_Soze | 2,241,617
-58 | 0-Give-a-fucks | 2,094,843
+58 | 0-Give-a-fucks | 2,097,506
 59 | 002_timmy | 2,068,192
 60 | investigator100 | 2,049,606
 61 | Affectionate_Hand_76 | 1,980,036
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | TubeNerd92 | 538,249
 156 | shreyaskg | 538,211
 157 | doktastonks | 536,651
-158 | Crypto-4-Freedom | 517,272
+158 | Crypto-4-Freedom | 518,112
 159 | rolonic | 516,377
 160 | fettskull | 510,147
 161 | f0n1xr131ng | 509,681
