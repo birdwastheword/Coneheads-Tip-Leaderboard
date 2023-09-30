@@ -1,14 +1,14 @@
-Last updated: 23-09-30 00:23:18 UTC  
+Last updated: 23-09-30 01:28:30 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,473,761
-2 | nakamo-toe | 36,923,511
+2 | nakamo-toe | 36,926,174
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,121,430
 5 | waterhasnocalories | 30,910,235
 6 | Jeff5704 | 28,771,234
 7 | rickribera93 | 28,394,729
-8 | _ships | 18,294,246
+8 | _ships | 18,302,306
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 14,971,858
 11 | crypto_grandma | 14,560,819
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | HippieStarTraveler | 6,260,865
 27 | VIVOffical | 6,125,762
 28 | IveDoneItAtLast | 5,879,542
-29 | thelonliestcrowd | 5,729,213
+29 | thelonliestcrowd | 5,731,876
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,582,776
 32 | GuyOne | 5,028,583
@@ -38,8 +38,8 @@ Rank | Username | Totals Tips
 35 | rikbona | 4,540,773
 36 | bigbilly1234567899 | 4,496,042
 37 | birdwastheword | 4,421,038
-38 | DontLaughArt | 4,205,437
-39 | zdubs | 3,777,231
+38 | DontLaughArt | 4,305,437
+39 | zdubs | 3,777,286
 40 | thom_orrow | 3,744,970
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
@@ -59,7 +59,7 @@ Rank | Username | Totals Tips
 56 | Richicash | 2,281,863
 57 | Autom4tic_Soze | 2,241,617
 58 | 0-Give-a-fucks | 2,094,423
-59 | 002_timmy | 2,068,091
+59 | 002_timmy | 2,068,192
 60 | investigator100 | 2,049,606
 61 | Affectionate_Hand_76 | 1,980,036
 62 | swampyswede | 1,957,496
@@ -118,9 +118,9 @@ Rank | Username | Totals Tips
 115 | RegalReptile_ | 807,046
 116 | vbutarin | 802,000
 117 | na7oul | 800,000
-118 | Cravensworth_redux | 790,803
-119 | Westy3000 | 785,931
-120 | Complete-Tadpole-728 | 785,913
+118 | Complete-Tadpole-728 | 795,162
+119 | Cravensworth_redux | 790,803
+120 | Westy3000 | 785,931
 121 | ziggybri | 783,883
 122 | dopelifer09 | 763,035
 123 | Obi1eyeKenobi | 730,328
@@ -318,7 +318,7 @@ Rank | Username | Totals Tips
 315 | LaPantheRose | 110,339
 316 | Strong_Constant_1190 | 110,325
 317 | PushyDevolution | 110,216
-318 | customsolitaires | 107,807
+318 | customsolitaires | 108,415
 319 | Jlt42000 | 107,091
 320 | AD_VICTORIAM_x | 106,876
 321 | i_wake_up_at_12 | 106,333
