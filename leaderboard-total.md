@@ -1,4 +1,4 @@
-Last updated: 23-09-30 13:40:33 UTC  
+Last updated: 23-09-30 13:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -173,7 +173,7 @@ Rank | Username | Totals Tips
 170 | unhingedbigfoot | 439,874
 171 | Mopeiooo | 437,368
 172 | LX1070 | 430,671
-173 | Lion-Hermit | 418,210
+173 | Lion-Hermit | 419,210
 174 | dronegeeks1 | 414,406
 175 | LrnFaroeseWthBergur | 409,488
 176 | Creepy-Nectarine-225 | 393,504
@@ -246,11 +246,11 @@ Rank | Username | Totals Tips
 243 | SigSalvadore | 212,358
 244 | UWphoto | 211,312
 245 | Most_Being_4002 | 206,012
-246 | Esco1980 | 204,434
-247 | skollywag92 | 204,114
-248 | Heclalava | 203,538
-249 | ziggyback | 203,369
-250 | SaberTurret | 200,559
+246 | SaberTurret | 205,885
+247 | Esco1980 | 204,434
+248 | skollywag92 | 204,114
+249 | Heclalava | 203,538
+250 | ziggyback | 203,369
 251 | CedricDiccory | 197,932
 252 | sudrats | 197,124
 253 | redditavanft | 195,122
