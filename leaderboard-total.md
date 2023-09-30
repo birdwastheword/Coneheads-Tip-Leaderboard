@@ -1,4 +1,4 @@
-Last updated: 23-09-30 23:00:43 UTC  
+Last updated: 23-09-30 23:16:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,781,895
 25 | Real_Player_0 | 6,599,143
-26 | VIVOffical | 6,316,480
+26 | VIVOffical | 6,319,153
 27 | HippieStarTraveler | 6,263,948
 28 | IveDoneItAtLast | 5,880,758
 29 | thelonliestcrowd | 5,731,876
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | Complete-Tadpole-728 | 907,706
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
-109 | Westy3000 | 887,191
+109 | Westy3000 | 889,413
 110 | Bobisdeadrun | 869,016
 111 | DogSpark84 | 867,091
 112 | PortCity_MadMan | 861,511
@@ -149,7 +149,7 @@ Rank | Username | Totals Tips
 146 | El_Gordone | 592,784
 147 | Burzzzt88 | 592,696
 148 | shiesto | 592,564
-149 | Bobby_Juk | 587,335
+149 | Bobby_Juk | 587,755
 150 | Ninja_Vagabond | 583,836
 151 | Independent_Heart_15 | 578,825
 152 | cryotosensei | 571,262
