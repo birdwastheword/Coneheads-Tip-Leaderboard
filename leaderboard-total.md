@@ -1,8 +1,8 @@
-Last updated: 23-10-01 15:01:03 UTC  
+Last updated: 23-10-01 15:17:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,070,131
+2 | nakamo-toe | 37,072,794
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,126,756
 5 | waterhasnocalories | 30,910,235
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
 38 | birdwastheword | 4,421,038
-39 | zdubs | 3,781,019
+39 | zdubs | 3,782,245
 40 | thom_orrow | 3,744,970
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
@@ -124,7 +124,7 @@ Rank | Username | Totals Tips
 121 | ziggybri | 783,883
 122 | dopelifer09 | 763,035
 123 | Obi1eyeKenobi | 730,328
-124 | Successful-Walk-3902 | 724,747
+124 | Successful-Walk-3902 | 725,027
 125 | frickdom | 716,324
 126 | crodbtc | 713,831
 127 | starterpack420694 | 710,420
