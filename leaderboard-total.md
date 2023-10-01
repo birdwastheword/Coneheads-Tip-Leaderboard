@@ -1,4 +1,4 @@
-Last updated: 23-10-01 19:40:40 UTC  
+Last updated: 23-10-01 19:50:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -822,13 +822,13 @@ Rank | Username | Totals Tips
 819 | 1twentyseven | 4,200
 820 | officialzodiacbeats | 4,194
 821 | DrAgaricus | 4,111
-822 | Ronkad | 4,003
-823 | Puzzleheaded_Popup | 4,000
-824 | nathanroberts14 | 4,000
-825 | Lazy_Staff4893 | 4,000
-826 | WeaselJCD | 3,992
-827 | Soil_Electronic | 3,975
-828 | Poyal_Rines | 3,946
+822 | Poyal_Rines | 4,015
+823 | Ronkad | 4,003
+824 | Puzzleheaded_Popup | 4,000
+825 | nathanroberts14 | 4,000
+826 | Lazy_Staff4893 | 4,000
+827 | WeaselJCD | 3,992
+828 | Soil_Electronic | 3,975
 829 | Dreadaussie | 3,920
 830 | OisinT | 3,779
 831 | carsonthecarsinogen | 3,769
