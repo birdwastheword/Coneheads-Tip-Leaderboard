@@ -1,4 +1,4 @@
-Last updated: 23-10-01 05:30:38 UTC  
+Last updated: 23-10-01 05:40:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | virmamies | 992,771
 101 | EvanIsBacon | 970,416
 102 | Alanski22 | 969,114
-103 | Complete-Tadpole-728 | 956,292
+103 | Complete-Tadpole-728 | 961,292
 104 | CHEROKEEJ4CK | 940,286
 105 | Forward_Today2849 | 932,405
 106 | formidable-opponent | 927,915
@@ -163,7 +163,7 @@ Rank | Username | Totals Tips
 160 | fettskull | 510,147
 161 | f0n1xr131ng | 509,681
 162 | AcceptableLeg8751 | 500,000
-163 | stockyewok | 489,768
+163 | stockyewok | 491,002
 164 | DAMG808 | 483,095
 165 | Lady_Lucks_Man | 482,403
 166 | sinlesco | 465,153
@@ -322,7 +322,7 @@ Rank | Username | Totals Tips
 319 | Jlt42000 | 107,091
 320 | AD_VICTORIAM_x | 106,876
 321 | i_wake_up_at_12 | 106,333
-322 | diamondbored | 105,878
+322 | diamondbored | 106,298
 323 | Ronitn | 105,500
 324 | redditinchina | 105,444
 325 | Chanyuui1 | 104,940
