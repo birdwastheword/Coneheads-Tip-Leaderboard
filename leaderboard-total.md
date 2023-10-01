@@ -1,4 +1,4 @@
-Last updated: 23-10-01 04:40:50 UTC  
+Last updated: 23-10-01 04:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -103,10 +103,10 @@ Rank | Username | Totals Tips
 100 | virmamies | 992,771
 101 | EvanIsBacon | 970,416
 102 | Alanski22 | 969,114
-103 | CHEROKEEJ4CK | 940,286
-104 | Forward_Today2849 | 932,405
-105 | formidable-opponent | 927,915
-106 | Complete-Tadpole-728 | 923,871
+103 | Complete-Tadpole-728 | 942,043
+104 | CHEROKEEJ4CK | 940,286
+105 | Forward_Today2849 | 932,405
+106 | formidable-opponent | 927,915
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
 109 | Westy3000 | 889,413
