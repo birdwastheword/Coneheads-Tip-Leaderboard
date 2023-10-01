@@ -1,4 +1,4 @@
-Last updated: 23-10-01 06:50:32 UTC  
+Last updated: 23-10-01 07:01:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | shreyaskg | 538,211
 157 | doktastonks | 536,651
 158 | Crypto-4-Freedom | 518,112
-159 | rolonic | 516,377
+159 | rolonic | 516,797
 160 | fettskull | 510,147
 161 | f0n1xr131ng | 509,681
 162 | AcceptableLeg8751 | 500,000
@@ -492,7 +492,7 @@ Rank | Username | Totals Tips
 489 | degree-01 | 36,486
 490 | genesis_crazy_one | 36,237
 491 | mbashs | 36,030
-492 | TheChillDyl | 35,431
+492 | TheChillDyl | 35,851
 493 | SirPesoOtaku | 35,144
 494 | East_Key_5930 | 35,115
 495 | TRANZHUMANIST | 35,069
