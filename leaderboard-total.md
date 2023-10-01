@@ -1,4 +1,4 @@
-Last updated: 23-10-01 09:00:40 UTC  
+Last updated: 23-10-01 09:16:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | send420nudes | 5,582,776
 32 | GuyOne | 5,228,085
 33 | DontLaughArt | 4,801,592
-34 | redzrex | 4,570,941
+34 | redzrex | 4,573,604
 35 | rustyybikes | 4,554,188
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
@@ -847,11 +847,11 @@ Rank | Username | Totals Tips
 844 | elksteaksdmt | 3,359
 845 | superficialization | 3,326
 846 | ineedmoney2023 | 3,307
-847 | QualcunoCF | 3,283
-848 | Mulleary | 3,271
-849 | mondaymoderate | 3,271
-850 | Full-Art-Weeb | 3,258
-851 | ced-uca | 3,221
+847 | ced-uca | 3,290
+848 | QualcunoCF | 3,283
+849 | Mulleary | 3,271
+850 | mondaymoderate | 3,271
+851 | Full-Art-Weeb | 3,258
 852 | LeThaLxdARk | 3,206
 853 | redditagain91 | 3,163
 854 | PopLegion | 3,152
