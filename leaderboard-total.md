@@ -1,4 +1,4 @@
-Last updated: 23-10-01 06:03:08 UTC  
+Last updated: 23-10-01 06:23:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | crypto_grandma | 14,560,819
 12 | SammyCraigar | 12,538,208
 13 | HODL-THE-LINE | 12,469,181
-14 | SpookySYN | 12,366,847
+14 | SpookySYN | 12,393,477
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,846
 17 | avyun | 9,974,081
@@ -616,11 +616,11 @@ Rank | Username | Totals Tips
 613 | Rake_wlkr | 15,330
 614 | froi203 | 15,315
 615 | Potstar1 | 15,215
-616 | Doublix | 15,074
-617 | imeme1969 | 15,070
-618 | abbasabba260 | 14,773
-619 | Big_Bonus3617 | 14,763
-620 | Snek-Life | 14,709
+616 | Snek-Life | 15,129
+617 | Doublix | 15,074
+618 | imeme1969 | 15,070
+619 | abbasabba260 | 14,773
+620 | Big_Bonus3617 | 14,763
 621 | redbasl | 14,643
 622 | Hancock02 | 14,583
 623 | mixmasterpayne | 14,547
