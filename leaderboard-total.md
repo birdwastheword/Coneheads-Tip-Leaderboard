@@ -1,4 +1,4 @@
-Last updated: 23-10-01 22:30:51 UTC  
+Last updated: 23-10-01 22:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -160,7 +160,7 @@ Rank | Username | Totals Tips
 157 | doktastonks | 536,651
 158 | Crypto-4-Freedom | 522,052
 159 | rolonic | 516,797
-160 | fettskull | 512,810
+160 | fettskull | 515,473
 161 | f0n1xr131ng | 509,681
 162 | AcceptableLeg8751 | 500,000
 163 | stockyewok | 491,002
