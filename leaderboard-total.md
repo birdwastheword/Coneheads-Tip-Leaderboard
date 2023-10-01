@@ -1,4 +1,4 @@
-Last updated: 23-10-01 20:50:29 UTC  
+Last updated: 23-10-01 21:00:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | Affectionate_Hand_76 | 1,980,036
 62 | swampyswede | 1,957,496
 63 | catlover-100 | 1,931,330
-64 | djrcollectables | 1,904,662
+64 | djrcollectables | 1,907,325
 65 | Mundane-Farm-4117 | 1,876,713
 66 | LongCauliflower6791 | 1,860,307
 67 | jimfird | 1,850,236
@@ -189,11 +189,11 @@ Rank | Username | Totals Tips
 186 | 83nno | 341,088
 187 | anony666mous | 341,008
 188 | tsudrat | 340,707
-189 | maxfra | 326,334
-190 | DrThunderHandz | 325,115
-191 | x52x | 324,929
-192 | Adrewmc | 321,178
-193 | TummyLice | 319,767
+189 | TummyLice | 326,736
+190 | maxfra | 326,334
+191 | DrThunderHandz | 325,115
+192 | x52x | 324,929
+193 | Adrewmc | 321,178
 194 | Chapo_1992 | 315,419
 195 | Lastkidpicked94 | 312,785
 196 | EffinDrongoC | 312,738
