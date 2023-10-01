@@ -1,4 +1,4 @@
-Last updated: 23-10-01 05:18:11 UTC  
+Last updated: 23-10-01 05:30:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -217,7 +217,7 @@ Rank | Username | Totals Tips
 214 | hey_barry | 269,698
 215 | OniCowboy | 268,626
 216 | SetoXlll | 266,136
-217 | the_judge_168 | 264,799
+217 | the_judge_168 | 265,399
 218 | coolpattakers | 262,340
 219 | tmanfromEarth | 258,392
 220 | Hactar_42 | 256,832
@@ -237,7 +237,7 @@ Rank | Username | Totals Tips
 234 | alexthemay | 234,131
 235 | CoverYourMaskHoles | 229,708
 236 | 192000Hertz | 228,701
-237 | ShortBusCult | 227,877
+237 | ShortBusCult | 228,485
 238 | Ashamed_Raccoon9918 | 224,697
 239 | SourBeefHoop | 217,512
 240 | SaberTurret | 216,537
