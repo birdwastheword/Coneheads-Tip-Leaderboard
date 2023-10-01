@@ -1,4 +1,4 @@
-Last updated: 23-10-01 02:17:46 UTC  
+Last updated: 23-10-01 02:36:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
 38 | birdwastheword | 4,421,038
-39 | zdubs | 3,780,977
+39 | zdubs | 3,781,019
 40 | thom_orrow | 3,744,970
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
@@ -827,15 +827,15 @@ Rank | Username | Totals Tips
 824 | Lazy_Staff4893 | 4,000
 825 | WeaselJCD | 3,992
 826 | Soil_Electronic | 3,975
-827 | Dreadaussie | 3,920
-828 | OisinT | 3,779
-829 | carsonthecarsinogen | 3,769
-830 | salt_yaf | 3,706
-831 | Niksa2007 | 3,688
-832 | chwick | 3,630
-833 | Gelato_33 | 3,628
-834 | Medfried | 3,561
-835 | Poyal_Rines | 3,526
+827 | Poyal_Rines | 3,946
+828 | Dreadaussie | 3,920
+829 | OisinT | 3,779
+830 | carsonthecarsinogen | 3,769
+831 | salt_yaf | 3,706
+832 | Niksa2007 | 3,688
+833 | chwick | 3,630
+834 | Gelato_33 | 3,628
+835 | Medfried | 3,561
 836 | _echnaton | 3,504
 837 | raulcras5 | 3,502
 838 | RepresentativeNo4743 | 3,489
