@@ -1,4 +1,4 @@
-Last updated: 23-10-01 13:31:29 UTC  
+Last updated: 23-10-01 13:40:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -21,7 +21,7 @@ Rank | Username | Totals Tips
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
-21 | Geniuskills | 7,918,798
+21 | Geniuskills | 7,925,767
 22 | Puddin-Luv | 7,507,063
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,781,895
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | IveDoneItAtLast | 5,908,416
 29 | thelonliestcrowd | 5,734,539
 30 | Ginomania | 5,697,144
-31 | send420nudes | 5,582,776
+31 | send420nudes | 5,583,196
 32 | GuyOne | 5,229,301
 33 | DontLaughArt | 4,801,592
 34 | redzrex | 4,573,604
@@ -423,18 +423,18 @@ Rank | Username | Totals Tips
 420 | mofayew | 54,829
 421 | Lucabba | 54,738
 422 | SandersIncBV | 54,288
-423 | Brandillio | 54,271
-424 | ysnmingle | 54,204
-425 | WarningKey6517 | 53,910
-426 | Astrochrono | 53,398
-427 | Jefe0457 | 53,368
-428 | Zezano | 52,679
-429 | abbasabba2 | 52,647
-430 | ky0984 | 52,257
-431 | slasula | 52,132
-432 | ConeHead710 | 52,012
-433 | d_Shazam_b | 51,991
-434 | Historical-Lychee-34 | 51,610
+423 | Historical-Lychee-34 | 54,273
+424 | Brandillio | 54,271
+425 | ysnmingle | 54,204
+426 | WarningKey6517 | 53,910
+427 | Astrochrono | 53,398
+428 | Jefe0457 | 53,368
+429 | Zezano | 52,679
+430 | abbasabba2 | 52,647
+431 | ky0984 | 52,257
+432 | slasula | 52,132
+433 | ConeHead710 | 52,012
+434 | d_Shazam_b | 51,991
 435 | d0ntmess87 | 51,278
 436 | imonsterdao | 51,021
 437 | Outside-Wolf5928 | 50,096
