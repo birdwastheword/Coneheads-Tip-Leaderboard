@@ -1,4 +1,4 @@
-Last updated: 23-10-01 23:30:40 UTC  
+Last updated: 23-10-01 23:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -145,8 +145,8 @@ Rank | Username | Totals Tips
 142 | RazPie | 613,307
 143 | superlonelyboy | 611,557
 144 | Dripbot8 | 599,035
-145 | __PDS__ | 595,709
-146 | Bobby_Juk | 595,458
+145 | Bobby_Juk | 596,298
+146 | __PDS__ | 595,709
 147 | El_Gordone | 592,784
 148 | Burzzzt88 | 592,696
 149 | shiesto | 592,564
@@ -297,8 +297,8 @@ Rank | Username | Totals Tips
 294 | robnectar | 127,974
 295 | DeanDeanington | 127,267
 296 | CalligrapherEnough83 | 127,227
-297 | Trakorr | 125,110
-298 | beanwiggin420 | 123,403
+297 | beanwiggin420 | 126,066
+298 | Trakorr | 125,110
 299 | stupidcupid112 | 121,841
 300 | Sativa55555 | 121,550
 301 | lucivaryas | 121,420
