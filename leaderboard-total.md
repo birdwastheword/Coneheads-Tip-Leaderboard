@@ -1,8 +1,8 @@
-Last updated: 23-10-01 12:07:52 UTC  
+Last updated: 23-10-01 12:38:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,032,849
+2 | nakamo-toe | 37,059,479
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,126,756
 5 | waterhasnocalories | 30,910,235
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
 11 | crypto_grandma | 14,565,088
-12 | SammyCraigar | 12,538,208
+12 | SammyCraigar | 12,538,816
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,393,477
 15 | Parush9 | 12,308,899
@@ -28,14 +28,14 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,331,816
 27 | HippieStarTraveler | 6,263,948
-28 | IveDoneItAtLast | 5,902,482
+28 | IveDoneItAtLast | 5,908,416
 29 | thelonliestcrowd | 5,734,539
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,582,776
 32 | GuyOne | 5,228,085
 33 | DontLaughArt | 4,801,592
 34 | redzrex | 4,573,604
-35 | rustyybikes | 4,554,608
+35 | rustyybikes | 4,555,216
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
 38 | birdwastheword | 4,421,038
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,482,392
-44 | Korean_Street_Pizza | 3,473,318
+44 | Korean_Street_Pizza | 3,473,738
 45 | ZukoBih | 3,472,050
 46 | LordBobTheWhale | 3,343,719
 47 | evilninjarobot | 3,208,037
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | CluelessSurvivor | 1,009,516
 99 | WarmBiertje | 1,000,000
 100 | virmamies | 992,771
-101 | Complete-Tadpole-728 | 973,204
+101 | Complete-Tadpole-728 | 978,950
 102 | EvanIsBacon | 970,416
 103 | Alanski22 | 969,114
 104 | CHEROKEEJ4CK | 940,286
@@ -110,8 +110,8 @@ Rank | Username | Totals Tips
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
 109 | Westy3000 | 889,413
-110 | Bobisdeadrun | 869,016
-111 | DogSpark84 | 867,091
+110 | DogSpark84 | 869,754
+111 | Bobisdeadrun | 869,016
 112 | PortCity_MadMan | 861,511
 113 | orangesandonions | 859,682
 114 | adrifing | 848,450
@@ -267,9 +267,9 @@ Rank | Username | Totals Tips
 264 | YourThighsWarmMyEars | 172,697
 265 | Street_Addd | 171,939
 266 | MymannosaurusRex | 171,737
-267 | MelonFarmer420 | 167,136
-268 | DamnWhySoLow | 166,675
-269 | ItailianStallion101 | 165,752
+267 | ItailianStallion101 | 168,415
+268 | MelonFarmer420 | 167,136
+269 | DamnWhySoLow | 166,675
 270 | Clonkerz | 158,075
 271 | martymartinator | 155,223
 272 | 6reficul | 153,884
