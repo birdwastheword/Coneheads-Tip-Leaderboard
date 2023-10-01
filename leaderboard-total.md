@@ -1,10 +1,10 @@
-Last updated: 23-10-01 04:50:49 UTC  
+Last updated: 23-10-01 05:00:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
 2 | nakamo-toe | 37,030,186
 3 | Wonderful_Bad6531 | 36,372,142
-4 | cutsickass | 32,124,093
+4 | cutsickass | 32,126,756
 5 | waterhasnocalories | 30,910,235
 6 | Jeff5704 | 29,400,435
 7 | rickribera93 | 28,396,729
@@ -103,7 +103,7 @@ Rank | Username | Totals Tips
 100 | virmamies | 992,771
 101 | EvanIsBacon | 970,416
 102 | Alanski22 | 969,114
-103 | Complete-Tadpole-728 | 942,043
+103 | Complete-Tadpole-728 | 956,292
 104 | CHEROKEEJ4CK | 940,286
 105 | Forward_Today2849 | 932,405
 106 | formidable-opponent | 927,915
