@@ -1,4 +1,4 @@
-Last updated: 23-10-01 10:30:51 UTC  
+Last updated: 23-10-01 10:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -101,9 +101,9 @@ Rank | Username | Totals Tips
 98 | CluelessSurvivor | 1,009,516
 99 | WarmBiertje | 1,000,000
 100 | virmamies | 992,771
-101 | EvanIsBacon | 970,416
-102 | Alanski22 | 969,114
-103 | Complete-Tadpole-728 | 967,878
+101 | Complete-Tadpole-728 | 970,541
+102 | EvanIsBacon | 970,416
+103 | Alanski22 | 969,114
 104 | CHEROKEEJ4CK | 940,286
 105 | Forward_Today2849 | 932,405
 106 | formidable-opponent | 927,915
@@ -775,9 +775,9 @@ Rank | Username | Totals Tips
 772 | DrunkDoge420 | 6,000
 773 | forceworks | 5,998
 774 | SecretSuch420 | 5,981
-775 | OddNebula2844 | 5,938
-776 | theBarefootedBastard | 5,896
-777 | final_lionel | 5,895
+775 | final_lionel | 5,964
+776 | OddNebula2844 | 5,938
+777 | theBarefootedBastard | 5,896
 778 | Sir_Mobius_Mook | 5,840
 779 | aPandox | 5,695
 780 | Makaveli4Sheez | 5,569
