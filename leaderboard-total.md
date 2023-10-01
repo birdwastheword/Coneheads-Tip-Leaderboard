@@ -1,8 +1,8 @@
-Last updated: 23-10-01 13:22:56 UTC  
+Last updated: 23-10-01 13:31:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,059,479
+2 | nakamo-toe | 37,062,142
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,126,756
 5 | waterhasnocalories | 30,910,235
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | GuyOne | 5,229,301
 33 | DontLaughArt | 4,801,592
 34 | redzrex | 4,573,604
-35 | rustyybikes | 4,555,216
+35 | rustyybikes | 4,556,236
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
 38 | birdwastheword | 4,421,038
