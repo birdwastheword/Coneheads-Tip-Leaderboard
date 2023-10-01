@@ -1,4 +1,4 @@
-Last updated: 23-10-01 11:30:57 UTC  
+Last updated: 23-10-01 11:40:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | GuyOne | 5,228,085
 33 | DontLaughArt | 4,801,592
 34 | redzrex | 4,573,604
-35 | rustyybikes | 4,554,188
+35 | rustyybikes | 4,554,608
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
 38 | birdwastheword | 4,421,038
@@ -364,13 +364,13 @@ Rank | Username | Totals Tips
 361 | shellystarzz | 83,509
 362 | Admirito | 82,353
 363 | standArtpluto | 82,100
-364 | mastermarvs | 80,384
-365 | Pwny_b0y | 79,447
-366 | TheOneWhoCared | 79,079
-367 | GodOfWarGuy737 | 79,069
-368 | Derefringence | 78,935
-369 | fleshlyLoath | 78,366
-370 | LightninHooker | 77,976
+364 | LightninHooker | 80,639
+365 | mastermarvs | 80,384
+366 | Pwny_b0y | 79,447
+367 | TheOneWhoCared | 79,079
+368 | GodOfWarGuy737 | 79,069
+369 | Derefringence | 78,935
+370 | fleshlyLoath | 78,366
 371 | mokkingjay | 77,914
 372 | HelicopterDear6064 | 77,619
 373 | Diamond_PnutBrain | 76,771
