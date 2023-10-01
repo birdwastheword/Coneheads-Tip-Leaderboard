@@ -1,4 +1,4 @@
-Last updated: 23-10-01 21:32:53 UTC  
+Last updated: 23-10-01 21:41:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -146,7 +146,7 @@ Rank | Username | Totals Tips
 143 | superlonelyboy | 611,557
 144 | Dripbot8 | 599,035
 145 | __PDS__ | 595,709
-146 | Bobby_Juk | 592,795
+146 | Bobby_Juk | 595,458
 147 | El_Gordone | 592,784
 148 | Burzzzt88 | 592,696
 149 | shiesto | 592,564
