@@ -1,4 +1,4 @@
-Last updated: 23-10-01 16:50:47 UTC  
+Last updated: 23-10-01 17:00:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -22,11 +22,11 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Geniuskills | 8,164,883
 21 | Homeslicekilla | 7,998,462
-22 | Puddin-Luv | 7,512,997
+22 | Puddin-Luv | 7,515,660
 23 | Skank_cunt_42 | 7,273,096
 24 | ashinamune | 6,781,895
 25 | Real_Player_0 | 6,599,143
-26 | VIVOffical | 6,334,479
+26 | VIVOffical | 6,337,142
 27 | HippieStarTraveler | 6,263,948
 28 | IveDoneItAtLast | 5,911,079
 29 | thelonliestcrowd | 5,734,539
@@ -58,7 +58,7 @@ Rank | Username | Totals Tips
 55 | possibili-teas | 2,410,515
 56 | Richicash | 2,281,863
 57 | Autom4tic_Soze | 2,241,617
-58 | 0-Give-a-fucks | 2,097,506
+58 | 0-Give-a-fucks | 2,100,169
 59 | 002_timmy | 2,068,192
 60 | investigator100 | 2,049,606
 61 | Affectionate_Hand_76 | 1,980,036
@@ -149,7 +149,7 @@ Rank | Username | Totals Tips
 146 | El_Gordone | 592,784
 147 | Burzzzt88 | 592,696
 148 | shiesto | 592,564
-149 | Bobby_Juk | 591,115
+149 | Bobby_Juk | 591,535
 150 | Ninja_Vagabond | 583,836
 151 | Independent_Heart_15 | 578,825
 152 | cryotosensei | 571,262
