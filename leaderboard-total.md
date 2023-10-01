@@ -1,4 +1,4 @@
-Last updated: 23-10-01 02:45:15 UTC  
+Last updated: 23-10-01 02:53:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -127,7 +127,7 @@ Rank | Username | Totals Tips
 124 | Successful-Walk-3902 | 724,747
 125 | frickdom | 716,324
 126 | starterpack420694 | 710,420
-127 | crodbtc | 703,505
+127 | crodbtc | 708,831
 128 | WarmIyWacky | 703,049
 129 | Starterpack69420 | 696,969
 130 | abracadabra087 | 694,465
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | Duskopia | 680,133
 134 | Due_Insurance8159 | 678,620
 135 | SKITZ_ZA | 676,057
-136 | MorrisBrett514 | 675,470
+136 | MorrisBrett514 | 675,890
 137 | piebagz | 661,815
 138 | junkwatch | 658,255
 139 | MartynDr | 652,759
