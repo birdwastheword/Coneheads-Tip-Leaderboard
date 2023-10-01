@@ -1,4 +1,4 @@
-Last updated: 23-10-01 13:50:47 UTC  
+Last updated: 23-10-01 14:00:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Homeslicekilla | 7,998,462
 21 | Geniuskills | 7,925,767
-22 | Puddin-Luv | 7,507,063
+22 | Puddin-Luv | 7,509,726
 23 | Skank_cunt_42 | 7,270,433
 24 | ashinamune | 6,781,895
 25 | Real_Player_0 | 6,599,143
@@ -135,8 +135,8 @@ Rank | Username | Totals Tips
 132 | WhateverAlready | 680,371
 133 | Duskopia | 680,133
 134 | Due_Insurance8159 | 678,620
-135 | SKITZ_ZA | 676,057
-136 | MorrisBrett514 | 675,890
+135 | MorrisBrett514 | 676,310
+136 | SKITZ_ZA | 676,057
 137 | piebagz | 661,815
 138 | junkwatch | 658,255
 139 | MartynDr | 652,759
