@@ -1,4 +1,4 @@
-Last updated: 23-10-01 22:40:37 UTC  
+Last updated: 23-10-01 22:50:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -53,7 +53,7 @@ Rank | Username | Totals Tips
 50 | Fenrir-1919 | 2,770,255
 51 | Mean_Bandicoot_7481 | 2,752,108
 52 | ZoomLong | 2,641,251
-53 | ImAlekBan | 2,637,304
+53 | ImAlekBan | 2,637,912
 54 | _Royal_Insylum | 2,603,787
 55 | possibili-teas | 2,410,515
 56 | Richicash | 2,281,863
@@ -138,7 +138,7 @@ Rank | Username | Totals Tips
 135 | MorrisBrett514 | 676,310
 136 | SKITZ_ZA | 676,057
 137 | piebagz | 661,815
-138 | junkwatch | 658,393
+138 | junkwatch | 658,462
 139 | MartynDr | 652,759
 140 | femacampcouncilor | 650,801
 141 | slirpo | 631,180
