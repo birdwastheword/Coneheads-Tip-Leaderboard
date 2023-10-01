@@ -1,4 +1,4 @@
-Last updated: 23-10-01 02:53:42 UTC  
+Last updated: 23-10-01 03:07:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -106,7 +106,7 @@ Rank | Username | Totals Tips
 103 | CHEROKEEJ4CK | 940,286
 104 | Forward_Today2849 | 932,405
 105 | formidable-opponent | 927,915
-106 | Complete-Tadpole-728 | 921,208
+106 | Complete-Tadpole-728 | 923,871
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
 109 | Westy3000 | 889,413
@@ -163,7 +163,7 @@ Rank | Username | Totals Tips
 160 | fettskull | 510,147
 161 | f0n1xr131ng | 509,681
 162 | AcceptableLeg8751 | 500,000
-163 | stockyewok | 489,348
+163 | stockyewok | 489,768
 164 | DAMG808 | 483,095
 165 | Lady_Lucks_Man | 482,403
 166 | sinlesco | 465,153
