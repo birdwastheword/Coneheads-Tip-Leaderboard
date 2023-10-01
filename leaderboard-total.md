@@ -1,4 +1,4 @@
-Last updated: 23-10-01 13:10:35 UTC  
+Last updated: 23-10-01 13:22:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -70,7 +70,7 @@ Rank | Username | Totals Tips
 67 | Lillica_Golden_SHIB | 1,846,953
 68 | Own_Ad_4269 | 1,811,499
 69 | dealkhabari | 1,767,162
-70 | LongCauliflower6791 | 1,731,851
+70 | LongCauliflower6791 | 1,736,851
 71 | KONGXIANG | 1,718,942
 72 | Iulian_TechNewb | 1,717,286
 73 | Ten-Mins-Late | 1,709,893
@@ -126,8 +126,8 @@ Rank | Username | Totals Tips
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 724,747
 125 | frickdom | 716,324
-126 | starterpack420694 | 710,420
-127 | crodbtc | 708,831
+126 | crodbtc | 713,831
+127 | starterpack420694 | 710,420
 128 | WarmIyWacky | 703,049
 129 | Starterpack69420 | 696,969
 130 | abracadabra087 | 694,465
