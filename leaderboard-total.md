@@ -1,4 +1,4 @@
-Last updated: 23-10-01 07:42:17 UTC  
+Last updated: 23-10-01 07:50:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -1023,20 +1023,20 @@ Rank | Username | Totals Tips
 1020 | BuuWrath | 690
 1021 | Indisciplinato | 677
 1022 | Troll_humper | 665
-1023 | Big_Count_6042 | 633
-1024 | Avatar_Degen | 627
-1025 | pelaguras | 627
-1026 | liquidlesspaper | 608
-1027 | iiCollinHD | 608
-1028 | JaJaJaNVM | 608
-1029 | barbiescorvette | 608
-1030 | eskimojerk | 606
-1031 | Professer__ | 558
-1032 | UrFavoriteBedwench | 558
-1033 | glouglas | 558
-1034 | Dare2gamer | 544
-1035 | Swordfish-Select | 543
-1036 | justthebelton | 540
+1023 | justthebelton | 640
+1024 | Big_Count_6042 | 633
+1025 | Avatar_Degen | 627
+1026 | pelaguras | 627
+1027 | liquidlesspaper | 608
+1028 | iiCollinHD | 608
+1029 | JaJaJaNVM | 608
+1030 | barbiescorvette | 608
+1031 | eskimojerk | 606
+1032 | Professer__ | 558
+1033 | UrFavoriteBedwench | 558
+1034 | glouglas | 558
+1035 | Dare2gamer | 544
+1036 | Swordfish-Select | 543
 1037 | Gabba- | 520
 1038 | Right-Shopping9589 | 500
 1039 | I_forgot_my_opinion | 500
