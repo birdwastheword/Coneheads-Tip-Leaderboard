@@ -1,4 +1,4 @@
-Last updated: 23-10-01 20:18:02 UTC  
+Last updated: 23-10-01 20:30:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | TubeNerd92 | 538,249
 156 | shreyaskg | 538,211
 157 | doktastonks | 536,651
-158 | Crypto-4-Freedom | 520,632
+158 | Crypto-4-Freedom | 521,052
 159 | rolonic | 516,797
 160 | fettskull | 512,810
 161 | f0n1xr131ng | 509,681
@@ -182,7 +182,7 @@ Rank | Username | Totals Tips
 179 | MisterM0H0 | 379,338
 180 | zenhodl | 374,566
 181 | hellosamaira | 373,235
-182 | Tinman_ApE | 361,798
+182 | Tinman_ApE | 362,406
 183 | farmertypoerror | 359,212
 184 | Outrageous-Skill-464 | 344,174
 185 | Overall-Extension608 | 342,417
