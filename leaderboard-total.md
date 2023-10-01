@@ -1,4 +1,4 @@
-Last updated: 23-10-01 15:25:26 UTC  
+Last updated: 23-10-01 15:34:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -587,20 +587,20 @@ Rank | Username | Totals Tips
 584 | Iiwip | 19,533
 585 | MalarkyD | 19,527
 586 | Defeat-the-Kraken | 19,378
-587 | ___MOM___ | 18,853
-588 | Fivebag | 18,704
-589 | D6P6 | 18,447
-590 | masterassassin93 | 18,409
-591 | Collectibl3 | 18,024
-592 | NSFWCryptoPosting | 17,775
-593 | augustsIippedaway | 17,739
-594 | PRYCDaddy | 17,718
-595 | omfglauren | 17,676
-596 | Steves1982 | 17,284
-597 | OutrageousStudy6752 | 17,087
-598 | Sebanimation | 17,073
-599 | leviathynx | 16,901
-600 | This_Red_Apple | 16,586
+587 | This_Red_Apple | 19,249
+588 | ___MOM___ | 18,853
+589 | Fivebag | 18,704
+590 | D6P6 | 18,447
+591 | masterassassin93 | 18,409
+592 | Collectibl3 | 18,024
+593 | NSFWCryptoPosting | 17,775
+594 | augustsIippedaway | 17,739
+595 | PRYCDaddy | 17,718
+596 | omfglauren | 17,676
+597 | Steves1982 | 17,284
+598 | OutrageousStudy6752 | 17,087
+599 | Sebanimation | 17,073
+600 | leviathynx | 16,901
 601 | MantisToboggan66 | 16,437
 602 | ipsole | 16,425
 603 | Fr3sh-Ch3mical | 16,393
