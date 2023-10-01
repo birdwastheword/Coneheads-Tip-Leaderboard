@@ -1,8 +1,8 @@
-Last updated: 23-10-01 00:28:40 UTC  
+Last updated: 23-10-01 01:43:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,019,534
+2 | nakamo-toe | 37,030,186
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,124,093
 5 | waterhasnocalories | 30,910,235
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,319,153
 27 | HippieStarTraveler | 6,263,948
-28 | IveDoneItAtLast | 5,891,410
+28 | IveDoneItAtLast | 5,894,073
 29 | thelonliestcrowd | 5,731,876
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,582,776
@@ -106,7 +106,7 @@ Rank | Username | Totals Tips
 103 | CHEROKEEJ4CK | 940,286
 104 | Forward_Today2849 | 932,405
 105 | formidable-opponent | 927,915
-106 | Complete-Tadpole-728 | 907,706
+106 | Complete-Tadpole-728 | 921,208
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
 109 | Westy3000 | 889,413
@@ -136,7 +136,7 @@ Rank | Username | Totals Tips
 133 | Duskopia | 680,133
 134 | Due_Insurance8159 | 678,620
 135 | SKITZ_ZA | 676,057
-136 | MorrisBrett514 | 675,050
+136 | MorrisBrett514 | 675,470
 137 | piebagz | 661,815
 138 | junkwatch | 658,255
 139 | MartynDr | 652,759
@@ -343,10 +343,10 @@ Rank | Username | Totals Tips
 340 | kwickle | 92,805
 341 | H3adshotfox77 | 92,575
 342 | urlz | 92,095
-343 | Backwood20 | 90,298
-344 | Award-Bot | 90,000
-345 | Marauder2 | 89,421
-346 | Emeritux | 89,297
+343 | Emeritux | 91,961
+344 | Backwood20 | 90,298
+345 | Award-Bot | 90,000
+346 | Marauder2 | 89,421
 347 | MedicalJockey | 89,084
 348 | HokkaidoNights | 88,108
 349 | ShopALF | 88,011
