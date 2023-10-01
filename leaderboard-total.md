@@ -1,4 +1,4 @@
-Last updated: 23-10-01 20:40:48 UTC  
+Last updated: 23-10-01 20:50:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | TubeNerd92 | 538,249
 156 | shreyaskg | 538,211
 157 | doktastonks | 536,651
-158 | Crypto-4-Freedom | 521,052
+158 | Crypto-4-Freedom | 522,052
 159 | rolonic | 516,797
 160 | fettskull | 512,810
 161 | f0n1xr131ng | 509,681
