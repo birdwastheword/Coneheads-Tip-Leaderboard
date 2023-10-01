@@ -1,4 +1,4 @@
-Last updated: 23-10-01 23:17:39 UTC  
+Last updated: 23-10-01 23:30:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -99,9 +99,9 @@ Rank | Username | Totals Tips
 96 | avatarbot | 1,027,000
 97 | LimpPeanut5633 | 1,010,654
 98 | CluelessSurvivor | 1,009,516
-99 | WarmBiertje | 1,000,000
-100 | virmamies | 992,771
-101 | Complete-Tadpole-728 | 987,452
+99 | Complete-Tadpole-728 | 1,004,147
+100 | WarmBiertje | 1,000,000
+101 | virmamies | 992,771
 102 | Alanski22 | 977,103
 103 | EvanIsBacon | 970,416
 104 | CHEROKEEJ4CK | 940,286
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | na7oul | 800,000
 120 | Cravensworth_redux | 790,803
 121 | ziggybri | 783,883
-122 | dopelifer09 | 763,035
+122 | dopelifer09 | 763,455
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 725,027
 125 | crodbtc | 716,494
