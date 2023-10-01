@@ -1,8 +1,8 @@
-Last updated: 23-10-01 19:14:07 UTC  
+Last updated: 23-10-01 19:22:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,077,780
+2 | nakamo-toe | 37,104,410
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,126,756
 5 | waterhasnocalories | 30,910,235
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | TubeNerd92 | 538,249
 156 | shreyaskg | 538,211
 157 | doktastonks | 536,651
-158 | Crypto-4-Freedom | 520,212
+158 | Crypto-4-Freedom | 520,632
 159 | rolonic | 516,797
 160 | fettskull | 512,810
 161 | f0n1xr131ng | 509,681
