@@ -1,8 +1,8 @@
-Last updated: 23-10-01 22:18:01 UTC  
+Last updated: 23-10-01 22:30:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,118,761
+2 | nakamo-toe | 37,125,730
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,129,419
 5 | waterhasnocalories | 30,910,235
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | LuminousViper | 3,482,392
 44 | Korean_Street_Pizza | 3,474,158
 45 | ZukoBih | 3,472,050
-46 | LordBobTheWhale | 3,343,719
+46 | LordBobTheWhale | 3,344,327
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | CMDRGlamdring | 2,899,584
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | CluelessSurvivor | 1,009,516
 99 | WarmBiertje | 1,000,000
 100 | virmamies | 992,771
-101 | Complete-Tadpole-728 | 984,369
+101 | Complete-Tadpole-728 | 987,452
 102 | Alanski22 | 977,103
 103 | EvanIsBacon | 970,416
 104 | CHEROKEEJ4CK | 940,286
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | formidable-opponent | 927,915
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
-109 | Westy3000 | 889,413
+109 | Westy3000 | 890,524
 110 | DogSpark84 | 869,754
 111 | Bobisdeadrun | 869,016
 112 | PortCity_MadMan | 861,511
