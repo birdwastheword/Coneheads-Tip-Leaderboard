@@ -1,4 +1,4 @@
-Last updated: 23-10-01 06:32:10 UTC  
+Last updated: 23-10-01 06:40:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | CMDRGlamdring | 2,899,164
-50 | Fenrir-1919 | 2,769,647
+50 | Fenrir-1919 | 2,770,255
 51 | Mean_Bandicoot_7481 | 2,752,108
 52 | ZoomLong | 2,641,251
 53 | ImAlekBan | 2,631,978
@@ -178,7 +178,7 @@ Rank | Username | Totals Tips
 175 | LrnFaroeseWthBergur | 409,488
 176 | Creepy-Nectarine-225 | 393,504
 177 | monkeybombed | 386,537
-178 | SHIFTY-T3RROR | 383,203
+178 | SHIFTY-T3RROR | 385,866
 179 | MisterM0H0 | 379,338
 180 | zenhodl | 374,566
 181 | hellosamaira | 373,235
