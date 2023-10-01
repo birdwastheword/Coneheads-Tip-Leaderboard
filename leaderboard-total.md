@@ -1,8 +1,8 @@
-Last updated: 23-10-01 22:00:55 UTC  
+Last updated: 23-10-01 22:18:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,113,435
+2 | nakamo-toe | 37,118,761
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,129,419
 5 | waterhasnocalories | 30,910,235
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | CluelessSurvivor | 1,009,516
 99 | WarmBiertje | 1,000,000
 100 | virmamies | 992,771
-101 | Complete-Tadpole-728 | 981,286
+101 | Complete-Tadpole-728 | 984,369
 102 | Alanski22 | 977,103
 103 | EvanIsBacon | 970,416
 104 | CHEROKEEJ4CK | 940,286
@@ -339,11 +339,11 @@ Rank | Username | Totals Tips
 336 | AhhhUhmmm | 95,250
 337 | Arvalll | 94,992
 338 | wolfman333 | 93,986
-339 | DramaticProtogen | 92,937
-340 | kwickle | 92,805
-341 | H3adshotfox77 | 92,575
-342 | urlz | 92,095
-343 | Emeritux | 91,961
+339 | Emeritux | 93,785
+340 | DramaticProtogen | 92,937
+341 | kwickle | 92,805
+342 | H3adshotfox77 | 92,575
+343 | urlz | 92,095
 344 | Backwood20 | 90,298
 345 | Award-Bot | 90,000
 346 | Marauder2 | 89,421
