@@ -1,4 +1,4 @@
-Last updated: 23-10-01 21:50:40 UTC  
+Last updated: 23-10-01 22:00:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -101,7 +101,7 @@ Rank | Username | Totals Tips
 98 | CluelessSurvivor | 1,009,516
 99 | WarmBiertje | 1,000,000
 100 | virmamies | 992,771
-101 | Complete-Tadpole-728 | 978,950
+101 | Complete-Tadpole-728 | 981,286
 102 | Alanski22 | 977,103
 103 | EvanIsBacon | 970,416
 104 | CHEROKEEJ4CK | 940,286
