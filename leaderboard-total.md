@@ -1,4 +1,4 @@
-Last updated: 23-10-02 17:05:11 UTC  
+Last updated: 23-10-02 17:21:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,129,419
 5 | waterhasnocalories | 30,910,235
-6 | Jeff5704 | 29,469,072
+6 | Jeff5704 | 29,475,152
 7 | rickribera93 | 28,396,729
 8 | _ships | 19,497,175
 9 | ConeDesk | 17,947,653
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | ashketchup422 | 1,042,067
 95 | freechickens | 1,028,524
 96 | avatarbot | 1,027,000
-97 | Complete-Tadpole-728 | 1,010,733
+97 | Complete-Tadpole-728 | 1,012,833
 98 | LimpPeanut5633 | 1,010,654
 99 | CluelessSurvivor | 1,009,516
 100 | WarmBiertje | 1,000,000
@@ -126,7 +126,7 @@ Rank | Username | Totals Tips
 123 | Obi1eyeKenobi | 730,328
 124 | crodbtc | 726,820
 125 | Successful-Walk-3902 | 725,027
-126 | frickdom | 716,324
+126 | frickdom | 716,393
 127 | starterpack420694 | 710,420
 128 | WarmIyWacky | 703,049
 129 | Starterpack69420 | 696,969
