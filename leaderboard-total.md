@@ -1,4 +1,4 @@
-Last updated: 23-10-02 06:52:00 UTC  
+Last updated: 23-10-02 07:00:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -422,8 +422,8 @@ Rank | Username | Totals Tips
 419 | imbarrydylan | 55,689
 420 | mofayew | 54,829
 421 | Lucabba | 54,738
-422 | SandersIncBV | 54,288
-423 | Historical-Lychee-34 | 54,273
+422 | Historical-Lychee-34 | 54,693
+423 | SandersIncBV | 54,288
 424 | Brandillio | 54,271
 425 | ysnmingle | 54,204
 426 | WarningKey6517 | 53,910
