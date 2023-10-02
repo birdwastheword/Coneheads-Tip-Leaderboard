@@ -1,4 +1,4 @@
-Last updated: 23-10-02 10:50:48 UTC  
+Last updated: 23-10-02 11:00:34 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | send420nudes | 5,583,616
 32 | GuyOne | 5,231,964
 33 | DontLaughArt | 4,802,877
-34 | redzrex | 4,573,604
+34 | redzrex | 4,576,267
 35 | rustyybikes | 4,556,236
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
@@ -145,7 +145,7 @@ Rank | Username | Totals Tips
 142 | RazPie | 613,307
 143 | superlonelyboy | 611,557
 144 | Dripbot8 | 599,035
-145 | Bobby_Juk | 597,696
+145 | Bobby_Juk | 598,116
 146 | __PDS__ | 595,709
 147 | El_Gordone | 592,784
 148 | Burzzzt88 | 592,696
