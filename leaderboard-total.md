@@ -1,10 +1,10 @@
-Last updated: 23-10-02 20:19:45 UTC  
+Last updated: 23-10-02 20:30:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,254,820
+2 | nakamo-toe | 37,257,483
 3 | Wonderful_Bad6531 | 36,372,142
-4 | cutsickass | 32,129,419
+4 | cutsickass | 32,134,499
 5 | waterhasnocalories | 30,910,235
 6 | Jeff5704 | 29,475,152
 7 | rickribera93 | 28,396,729
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | VIVOffical | 6,352,468
 27 | HippieStarTraveler | 6,263,948
 28 | IveDoneItAtLast | 5,930,223
-29 | thelonliestcrowd | 5,742,528
+29 | thelonliestcrowd | 5,745,191
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,583,616
 32 | GuyOne | 5,231,964
@@ -243,12 +243,12 @@ Rank | Username | Totals Tips
 240 | SourBeefHoop | 217,512
 241 | phonebreaker8 | 215,189
 242 | yahuurdme | 214,974
-243 | Beenthorny | 212,362
-244 | SigSalvadore | 212,358
-245 | UWphoto | 211,312
-246 | Most_Being_4002 | 206,012
-247 | Esco1980 | 204,434
-248 | skollywag92 | 204,114
+243 | skollywag92 | 214,114
+244 | Beenthorny | 212,362
+245 | SigSalvadore | 212,358
+246 | UWphoto | 211,312
+247 | Most_Being_4002 | 206,012
+248 | Esco1980 | 204,434
 249 | Heclalava | 203,538
 250 | ziggyback | 203,369
 251 | CedricDiccory | 197,932
