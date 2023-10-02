@@ -1,8 +1,8 @@
-Last updated: 23-10-02 20:40:26 UTC  
+Last updated: 23-10-02 20:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,262,809
+2 | nakamo-toe | 37,289,439
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,134,499
 5 | waterhasnocalories | 30,910,235
@@ -509,13 +509,13 @@ Rank | Username | Totals Tips
 506 | n00b1shm4n | 32,159
 507 | Originalibb | 32,157
 508 | BottleNcanClapUrHand | 31,984
-509 | mihii12 | 31,378
-510 | OutTop | 31,069
-511 | Jo2Bax | 31,041
-512 | riceboi3789 | 31,000
-513 | ClubbyTheCub | 30,885
-514 | rOn3OW | 30,714
-515 | masedogg98 | 30,547
+509 | masedogg98 | 31,547
+510 | mihii12 | 31,378
+511 | OutTop | 31,069
+512 | Jo2Bax | 31,041
+513 | riceboi3789 | 31,000
+514 | ClubbyTheCub | 30,885
+515 | rOn3OW | 30,714
 516 | 2620lukas | 30,500
 517 | -Boxen | 30,420
 518 | LoudlySoupy | 30,408
