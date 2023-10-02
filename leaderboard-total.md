@@ -1,8 +1,8 @@
-Last updated: 23-10-02 20:30:52 UTC  
+Last updated: 23-10-02 20:40:26 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,257,483
+2 | nakamo-toe | 37,262,809
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,134,499
 5 | waterhasnocalories | 30,910,235
@@ -110,7 +110,7 @@ Rank | Username | Totals Tips
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
 109 | Westy3000 | 892,078
-110 | DogSpark84 | 870,174
+110 | DogSpark84 | 872,837
 111 | Bobisdeadrun | 869,016
 112 | PortCity_MadMan | 861,511
 113 | orangesandonions | 859,682
@@ -145,7 +145,7 @@ Rank | Username | Totals Tips
 142 | RazPie | 613,307
 143 | superlonelyboy | 611,557
 144 | Dripbot8 | 599,035
-145 | Bobby_Juk | 598,530
+145 | Bobby_Juk | 598,950
 146 | __PDS__ | 595,709
 147 | shiesto | 595,227
 148 | El_Gordone | 592,784
