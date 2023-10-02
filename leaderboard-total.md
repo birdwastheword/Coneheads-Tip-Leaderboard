@@ -1,4 +1,4 @@
-Last updated: 23-10-02 08:40:35 UTC  
+Last updated: 23-10-02 08:50:41 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -24,7 +24,7 @@ Rank | Username | Totals Tips
 21 | Homeslicekilla | 7,998,462
 22 | Puddin-Luv | 7,515,660
 23 | Skank_cunt_42 | 7,273,096
-24 | ashinamune | 6,781,895
+24 | ashinamune | 6,782,503
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,347,142
 27 | HippieStarTraveler | 6,263,948
@@ -380,8 +380,8 @@ Rank | Username | Totals Tips
 377 | pwan7505 | 73,893
 378 | I_AM_MORE_BADASS | 73,121
 379 | adi_00_ | 71,759
-380 | CM19901 | 71,276
-381 | Dazzling_Marzipan474 | 71,133
+380 | Dazzling_Marzipan474 | 71,553
+381 | CM19901 | 71,276
 382 | sparanaghcoar | 71,118
 383 | ElmerBlack | 70,850
 384 | Atorcran | 70,496
@@ -690,9 +690,9 @@ Rank | Username | Totals Tips
 687 | xMikaRikax | 10,000
 688 | LordCitrus69 | 10,000
 689 | No-Confusion7414 | 9,959
-690 | boopcorgi | 9,923
-691 | supatard44 | 9,891
-692 | doctorwho_cares | 9,878
+690 | doctorwho_cares | 9,947
+691 | boopcorgi | 9,923
+692 | supatard44 | 9,891
 693 | exclaim_bot | 9,831
 694 | Badit_01 | 9,738
 695 | Ok-Profile-1744 | 9,709
