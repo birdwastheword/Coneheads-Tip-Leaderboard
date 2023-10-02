@@ -1,4 +1,4 @@
-Last updated: 23-10-02 05:50:51 UTC  
+Last updated: 23-10-02 06:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -150,7 +150,7 @@ Rank | Username | Totals Tips
 147 | El_Gordone | 592,784
 148 | Burzzzt88 | 592,696
 149 | shiesto | 592,564
-150 | Ninja_Vagabond | 586,499
+150 | Ninja_Vagabond | 589,162
 151 | Independent_Heart_15 | 578,825
 152 | cryotosensei | 571,262
 153 | StepAsideSuckers | 543,358
