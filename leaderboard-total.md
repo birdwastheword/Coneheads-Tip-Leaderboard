@@ -1,4 +1,4 @@
-Last updated: 23-10-02 03:30:44 UTC  
+Last updated: 23-10-02 03:40:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -235,8 +235,8 @@ Rank | Username | Totals Tips
 232 | Zalkwalker | 235,069
 233 | Conetent | 234,739
 234 | alexthemay | 234,131
-235 | CoverYourMaskHoles | 229,708
-236 | 192000Hertz | 228,701
+235 | 192000Hertz | 231,784
+236 | CoverYourMaskHoles | 229,708
 237 | ShortBusCult | 228,485
 238 | Ashamed_Raccoon9918 | 224,697
 239 | SourBeefHoop | 217,512
