@@ -1,4 +1,4 @@
-Last updated: 23-10-02 03:05:33 UTC  
+Last updated: 23-10-02 03:20:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -122,7 +122,7 @@ Rank | Username | Totals Tips
 119 | na7oul | 800,000
 120 | Cravensworth_redux | 790,803
 121 | ziggybri | 783,883
-122 | dopelifer09 | 763,455
+122 | dopelifer09 | 766,118
 123 | Obi1eyeKenobi | 730,328
 124 | Successful-Walk-3902 | 725,027
 125 | crodbtc | 716,494
@@ -407,10 +407,10 @@ Rank | Username | Totals Tips
 404 | Big-Ticket1506 | 59,666
 405 | preemcuz | 59,154
 406 | ProfessionalIcy6456 | 59,043
-407 | Bandit_005 | 58,966
-408 | RepublicRude6350 | 58,754
-409 | Wildspliffosis | 58,703
-410 | foreignGER | 58,680
+407 | foreignGER | 58,980
+408 | Bandit_005 | 58,966
+409 | RepublicRude6350 | 58,754
+410 | Wildspliffosis | 58,703
 411 | losttraveler36 | 58,597
 412 | Yirii | 58,382
 413 | Trink333 | 58,338
