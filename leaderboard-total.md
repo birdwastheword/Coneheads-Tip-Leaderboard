@@ -1,8 +1,8 @@
-Last updated: 23-10-02 14:00:59 UTC  
+Last updated: 23-10-02 14:19:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,188,016
+2 | nakamo-toe | 37,196,234
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,129,419
 5 | waterhasnocalories | 30,910,235
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,347,142
 27 | HippieStarTraveler | 6,263,948
-28 | IveDoneItAtLast | 5,926,712
+28 | IveDoneItAtLast | 5,929,375
 29 | thelonliestcrowd | 5,742,528
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,583,616
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | TubeNerd92 | 538,249
 156 | shreyaskg | 538,211
 157 | doktastonks | 536,651
-158 | Crypto-4-Freedom | 524,151
+158 | Crypto-4-Freedom | 524,571
 159 | rolonic | 516,797
 160 | fettskull | 515,473
 161 | f0n1xr131ng | 509,681
@@ -176,10 +176,10 @@ Rank | Username | Totals Tips
 173 | Lion-Hermit | 424,210
 174 | dronegeeks1 | 414,406
 175 | LrnFaroeseWthBergur | 409,488
-176 | Creepy-Nectarine-225 | 393,504
-177 | monkeybombed | 386,537
-178 | SHIFTY-T3RROR | 385,866
-179 | MisterM0H0 | 379,338
+176 | MisterM0H0 | 405,968
+177 | Creepy-Nectarine-225 | 393,504
+178 | monkeybombed | 386,537
+179 | SHIFTY-T3RROR | 385,866
 180 | zenhodl | 374,566
 181 | hellosamaira | 373,235
 182 | Tinman_ApE | 362,406
