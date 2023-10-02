@@ -1,4 +1,4 @@
-Last updated: 23-10-02 17:40:54 UTC  
+Last updated: 23-10-02 17:50:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -52,7 +52,7 @@ Rank | Username | Totals Tips
 49 | CMDRGlamdring | 2,899,584
 50 | Fenrir-1919 | 2,771,471
 51 | Mean_Bandicoot_7481 | 2,752,108
-52 | ImAlekBan | 2,643,238
+52 | ImAlekBan | 2,645,901
 53 | ZoomLong | 2,641,251
 54 | _Royal_Insylum | 2,603,787
 55 | possibili-teas | 2,410,515
@@ -145,7 +145,7 @@ Rank | Username | Totals Tips
 142 | RazPie | 613,307
 143 | superlonelyboy | 611,557
 144 | Dripbot8 | 599,035
-145 | Bobby_Juk | 598,254
+145 | Bobby_Juk | 598,323
 146 | __PDS__ | 595,709
 147 | El_Gordone | 592,784
 148 | Burzzzt88 | 592,696
@@ -239,7 +239,7 @@ Rank | Username | Totals Tips
 236 | CoverYourMaskHoles | 229,708
 237 | ShortBusCult | 228,485
 238 | Ashamed_Raccoon9918 | 224,697
-239 | SaberTurret | 221,863
+239 | SaberTurret | 224,526
 240 | SourBeefHoop | 217,512
 241 | phonebreaker8 | 215,189
 242 | yahuurdme | 214,974
