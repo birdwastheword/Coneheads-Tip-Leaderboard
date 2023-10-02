@@ -1,4 +1,4 @@
-Last updated: 23-10-02 11:50:53 UTC  
+Last updated: 23-10-02 12:09:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,347,142
 27 | HippieStarTraveler | 6,263,948
-28 | IveDoneItAtLast | 5,920,966
+28 | IveDoneItAtLast | 5,926,712
 29 | thelonliestcrowd | 5,742,528
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,583,616
@@ -846,9 +846,9 @@ Rank | Username | Totals Tips
 843 | Microgamers | 3,408
 844 | n1ghsthade | 3,378
 845 | elksteaksdmt | 3,359
-846 | superficialization | 3,326
-847 | ineedmoney2023 | 3,307
-848 | ced-uca | 3,290
+846 | ced-uca | 3,359
+847 | superficialization | 3,326
+848 | ineedmoney2023 | 3,307
 849 | QualcunoCF | 3,283
 850 | Mulleary | 3,271
 851 | mondaymoderate | 3,271
