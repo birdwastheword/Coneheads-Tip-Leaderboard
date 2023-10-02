@@ -1,4 +1,4 @@
-Last updated: 23-10-02 19:50:52 UTC  
+Last updated: 23-10-02 20:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
 11 | crypto_grandma | 14,572,030
-12 | SammyCraigar | 12,546,805
+12 | SammyCraigar | 12,549,468
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,393,477
 15 | Parush9 | 12,308,899
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | ashketchup422 | 1,042,067
 95 | freechickens | 1,028,524
 96 | avatarbot | 1,027,000
-97 | Complete-Tadpole-728 | 1,022,216
+97 | Complete-Tadpole-728 | 1,022,636
 98 | LimpPeanut5633 | 1,010,654
 99 | CluelessSurvivor | 1,009,516
 100 | WarmBiertje | 1,000,000
@@ -147,9 +147,9 @@ Rank | Username | Totals Tips
 144 | Dripbot8 | 599,035
 145 | Bobby_Juk | 598,323
 146 | __PDS__ | 595,709
-147 | El_Gordone | 592,784
-148 | Burzzzt88 | 592,696
-149 | shiesto | 592,564
+147 | shiesto | 595,227
+148 | El_Gordone | 592,784
+149 | Burzzzt88 | 592,696
 150 | Ninja_Vagabond | 589,162
 151 | Independent_Heart_15 | 578,825
 152 | cryotosensei | 571,262
