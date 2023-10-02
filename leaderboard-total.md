@@ -1,4 +1,4 @@
-Last updated: 23-10-02 17:30:46 UTC  
+Last updated: 23-10-02 17:40:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | ashketchup422 | 1,042,067
 95 | freechickens | 1,028,524
 96 | avatarbot | 1,027,000
-97 | Complete-Tadpole-728 | 1,019,276
+97 | Complete-Tadpole-728 | 1,022,216
 98 | LimpPeanut5633 | 1,010,654
 99 | CluelessSurvivor | 1,009,516
 100 | WarmBiertje | 1,000,000
@@ -231,7 +231,7 @@ Rank | Username | Totals Tips
 228 | Truffle_Shuffle_85 | 243,967
 229 | Significant_Talk4943 | 243,839
 230 | joeviani | 241,717
-231 | MuhSound | 236,144
+231 | MuhSound | 236,752
 232 | Zalkwalker | 235,069
 233 | Conetent | 234,739
 234 | alexthemay | 234,131
