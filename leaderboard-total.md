@@ -1,4 +1,4 @@
-Last updated: 23-10-02 15:30:58 UTC  
+Last updated: 23-10-02 15:40:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -839,14 +839,14 @@ Rank | Username | Totals Tips
 836 | Medfried | 3,561
 837 | _echnaton | 3,504
 838 | raulcras5 | 3,502
-839 | RepresentativeNo4743 | 3,489
-840 | JJJaxMax | 3,475
-841 | Mrcoolguynumberone | 3,420
-842 | SoulUrgeDestiny | 3,409
-843 | Microgamers | 3,408
-844 | n1ghsthade | 3,378
-845 | elksteaksdmt | 3,359
-846 | ced-uca | 3,359
+839 | ced-uca | 3,497
+840 | RepresentativeNo4743 | 3,489
+841 | JJJaxMax | 3,475
+842 | Mrcoolguynumberone | 3,420
+843 | SoulUrgeDestiny | 3,409
+844 | Microgamers | 3,408
+845 | n1ghsthade | 3,378
+846 | elksteaksdmt | 3,359
 847 | superficialization | 3,326
 848 | ineedmoney2023 | 3,307
 849 | QualcunoCF | 3,283
