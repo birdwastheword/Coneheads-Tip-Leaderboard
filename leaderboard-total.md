@@ -1,4 +1,4 @@
-Last updated: 23-10-02 10:41:12 UTC  
+Last updated: 23-10-02 10:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -163,7 +163,7 @@ Rank | Username | Totals Tips
 160 | fettskull | 515,473
 161 | f0n1xr131ng | 509,681
 162 | AcceptableLeg8751 | 500,000
-163 | stockyewok | 491,422
+163 | stockyewok | 491,842
 164 | DAMG808 | 483,095
 165 | Lady_Lucks_Man | 482,403
 166 | sinlesco | 465,153
