@@ -1,4 +1,4 @@
-Last updated: 23-10-02 10:22:19 UTC  
+Last updated: 23-10-02 10:32:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -145,7 +145,7 @@ Rank | Username | Totals Tips
 142 | RazPie | 613,307
 143 | superlonelyboy | 611,557
 144 | Dripbot8 | 599,035
-145 | Bobby_Juk | 597,207
+145 | Bobby_Juk | 597,696
 146 | __PDS__ | 595,709
 147 | El_Gordone | 592,784
 148 | Burzzzt88 | 592,696
@@ -267,7 +267,7 @@ Rank | Username | Totals Tips
 264 | YourThighsWarmMyEars | 172,697
 265 | Street_Addd | 171,939
 266 | MymannosaurusRex | 171,737
-267 | ItailianStallion101 | 168,415
+267 | ItailianStallion101 | 171,078
 268 | MelonFarmer420 | 167,136
 269 | DamnWhySoLow | 166,675
 270 | Clonkerz | 158,075
