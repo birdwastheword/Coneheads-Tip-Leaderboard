@@ -1,4 +1,4 @@
-Last updated: 23-10-02 23:40:46 UTC  
+Last updated: 23-10-02 23:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | formidable-opponent | 927,915
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
-109 | Westy3000 | 892,300
+109 | Westy3000 | 892,744
 110 | DogSpark84 | 872,837
 111 | Bobisdeadrun | 869,016
 112 | PortCity_MadMan | 861,511
@@ -659,12 +659,12 @@ Rank | Username | Totals Tips
 656 | noah1754 | 12,435
 657 | Nugacity5 | 12,339
 658 | wesleylyan | 12,257
-659 | ZeusDubstep | 12,050
-660 | bageren | 12,038
-661 | Weezthajuice | 12,007
-662 | gnarlypoop | 11,924
-663 | charlythesecond | 11,794
-664 | amnotmethenwho | 11,734
+659 | amnotmethenwho | 12,154
+660 | ZeusDubstep | 12,050
+661 | bageren | 12,038
+662 | Weezthajuice | 12,007
+663 | gnarlypoop | 11,924
+664 | charlythesecond | 11,794
 665 | Hofmaurerad | 11,711
 666 | allisonovo | 11,679
 667 | masstransience | 11,623
