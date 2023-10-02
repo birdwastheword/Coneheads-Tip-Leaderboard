@@ -1,4 +1,4 @@
-Last updated: 23-10-02 13:40:40 UTC  
+Last updated: 23-10-02 13:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 19,497,175
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
-11 | crypto_grandma | 14,565,088
+11 | crypto_grandma | 14,572,030
 12 | SammyCraigar | 12,541,479
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,393,477
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Geniuskills | 8,164,883
 21 | Homeslicekilla | 7,998,462
-22 | Puddin-Luv | 7,515,660
+22 | Puddin-Luv | 7,518,323
 23 | Skank_cunt_42 | 7,273,096
 24 | ashinamune | 6,782,503
 25 | Real_Player_0 | 6,599,143
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | TubeNerd92 | 538,249
 156 | shreyaskg | 538,211
 157 | doktastonks | 536,651
-158 | Crypto-4-Freedom | 523,731
+158 | Crypto-4-Freedom | 524,151
 159 | rolonic | 516,797
 160 | fettskull | 515,473
 161 | f0n1xr131ng | 509,681
