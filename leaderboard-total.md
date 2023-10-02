@@ -1,4 +1,4 @@
-Last updated: 23-10-02 21:50:49 UTC  
+Last updated: 23-10-02 22:00:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -480,19 +480,19 @@ Rank | Username | Totals Tips
 477 | sM0k3dR4Gn | 39,279
 478 | Styl_Ianos_ | 39,262
 479 | mutinomonem | 38,823
-480 | chaud3r | 38,290
-481 | lovenets_ | 38,182
-482 | rowdy1212 | 38,129
-483 | samer109 | 38,042
-484 | onetrueSage | 37,633
-485 | shitwhenismycakeday | 37,409
-486 | redditisalt | 37,307
-487 | Imalittlestitious86 | 37,090
-488 | CatastrophicSpecter | 36,839
-489 | degree-01 | 36,486
-490 | genesis_crazy_one | 36,237
-491 | mbashs | 36,030
-492 | TheChillDyl | 35,851
+480 | TheChillDyl | 38,514
+481 | chaud3r | 38,290
+482 | lovenets_ | 38,182
+483 | rowdy1212 | 38,129
+484 | samer109 | 38,042
+485 | onetrueSage | 37,633
+486 | shitwhenismycakeday | 37,409
+487 | redditisalt | 37,307
+488 | Imalittlestitious86 | 37,090
+489 | CatastrophicSpecter | 36,839
+490 | degree-01 | 36,486
+491 | genesis_crazy_one | 36,237
+492 | mbashs | 36,030
 493 | SirPesoOtaku | 35,144
 494 | East_Key_5930 | 35,115
 495 | TRANZHUMANIST | 35,069
