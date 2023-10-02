@@ -1,4 +1,4 @@
-Last updated: 23-10-02 18:35:11 UTC  
+Last updated: 23-10-02 18:43:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -57,7 +57,7 @@ Rank | Username | Totals Tips
 54 | _Royal_Insylum | 2,603,787
 55 | possibili-teas | 2,410,515
 56 | Richicash | 2,281,863
-57 | Autom4tic_Soze | 2,241,617
+57 | Autom4tic_Soze | 2,244,280
 58 | 0-Give-a-fucks | 2,103,252
 59 | 002_timmy | 2,068,192
 60 | investigator100 | 2,049,606
