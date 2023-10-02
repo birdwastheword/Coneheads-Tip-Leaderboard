@@ -1,4 +1,4 @@
-Last updated: 23-10-02 06:43:43 UTC  
+Last updated: 23-10-02 06:52:00 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -930,10 +930,10 @@ Rank | Username | Totals Tips
 927 | Pxtxr | 1,901
 928 | bricks_n_coins | 1,840
 929 | Cl0uds_Br0 | 1,820
-930 | virginia669 | 1,791
-931 | WriterMcWriterly | 1,787
-932 | DWBroodle | 1,709
-933 | Pacaloz | 1,668
+930 | Pacaloz | 1,806
+931 | virginia669 | 1,791
+932 | WriterMcWriterly | 1,787
+933 | DWBroodle | 1,709
 934 | PuzzleheadedDream830 | 1,650
 935 | happily_unlawful | 1,645
 936 | Zues6921 | 1,627
