@@ -1,4 +1,4 @@
-Last updated: 23-10-02 00:24:50 UTC  
+Last updated: 23-10-02 01:32:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
 11 | crypto_grandma | 14,565,088
-12 | SammyCraigar | 12,538,816
+12 | SammyCraigar | 12,541,479
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,393,477
 15 | Parush9 | 12,308,899
@@ -33,13 +33,13 @@ Rank | Username | Totals Tips
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,583,196
 32 | GuyOne | 5,231,964
-33 | DontLaughArt | 4,801,592
+33 | DontLaughArt | 4,802,200
 34 | redzrex | 4,573,604
 35 | rustyybikes | 4,556,236
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
 38 | birdwastheword | 4,421,038
-39 | zdubs | 3,782,245
+39 | zdubs | 3,782,293
 40 | thom_orrow | 3,744,970
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
@@ -572,7 +572,7 @@ Rank | Username | Totals Tips
 569 | Flamingo777 | 21,719
 570 | Tasty_Bag | 21,384
 571 | RamboBalboa21 | 21,083
-572 | ipad_daps | 20,864
+572 | ipad_daps | 20,933
 573 | Mrmakanakai | 20,654
 574 | shootingeagleyt | 20,611
 575 | DLPD-Camko | 20,377
