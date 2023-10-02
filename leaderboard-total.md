@@ -1,4 +1,4 @@
-Last updated: 23-10-02 17:21:06 UTC  
+Last updated: 23-10-02 17:30:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -97,7 +97,7 @@ Rank | Username | Totals Tips
 94 | ashketchup422 | 1,042,067
 95 | freechickens | 1,028,524
 96 | avatarbot | 1,027,000
-97 | Complete-Tadpole-728 | 1,012,833
+97 | Complete-Tadpole-728 | 1,019,276
 98 | LimpPeanut5633 | 1,010,654
 99 | CluelessSurvivor | 1,009,516
 100 | WarmBiertje | 1,000,000
