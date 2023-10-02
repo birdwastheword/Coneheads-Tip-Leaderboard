@@ -1,4 +1,4 @@
-Last updated: 23-10-02 23:30:50 UTC  
+Last updated: 23-10-02 23:40:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -92,8 +92,8 @@ Rank | Username | Totals Tips
 89 | noface_reddit | 1,107,689
 90 | Allions1 | 1,103,856
 91 | nichnotnick | 1,103,821
-92 | ID404_Not_Found_8964 | 1,066,725
-93 | Complete-Tadpole-728 | 1,057,839
+92 | Complete-Tadpole-728 | 1,087,839
+93 | ID404_Not_Found_8964 | 1,066,725
 94 | UniversalNoobMaster | 1,056,369
 95 | ashketchup422 | 1,042,067
 96 | freechickens | 1,028,524
@@ -142,9 +142,9 @@ Rank | Username | Totals Tips
 139 | MartynDr | 652,759
 140 | femacampcouncilor | 650,801
 141 | slirpo | 631,180
-142 | RazPie | 613,307
+142 | RazPie | 623,307
 143 | superlonelyboy | 611,557
-144 | Bobby_Juk | 601,706
+144 | Bobby_Juk | 602,126
 145 | Dripbot8 | 599,035
 146 | __PDS__ | 595,709
 147 | shiesto | 595,227
