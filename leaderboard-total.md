@@ -1,4 +1,4 @@
-Last updated: 23-10-02 03:20:23 UTC  
+Last updated: 23-10-02 03:30:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,583,196
 32 | GuyOne | 5,231,964
-33 | DontLaughArt | 4,802,200
+33 | DontLaughArt | 4,802,877
 34 | redzrex | 4,573,604
 35 | rustyybikes | 4,556,236
 36 | rikbona | 4,540,773
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | CMDRGlamdring | 2,899,584
-50 | Fenrir-1919 | 2,770,255
+50 | Fenrir-1919 | 2,770,863
 51 | Mean_Bandicoot_7481 | 2,752,108
 52 | ZoomLong | 2,641,251
 53 | ImAlekBan | 2,637,912
