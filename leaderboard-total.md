@@ -1,4 +1,4 @@
-Last updated: 23-10-02 19:40:54 UTC  
+Last updated: 23-10-02 19:50:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -35,7 +35,7 @@ Rank | Username | Totals Tips
 32 | GuyOne | 5,231,964
 33 | DontLaughArt | 4,802,877
 34 | redzrex | 4,576,267
-35 | rustyybikes | 4,556,236
+35 | rustyybikes | 4,558,899
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
 38 | birdwastheword | 4,421,038
