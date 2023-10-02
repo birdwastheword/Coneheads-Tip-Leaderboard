@@ -1,4 +1,4 @@
-Last updated: 23-10-02 02:52:42 UTC  
+Last updated: 23-10-02 03:05:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | formidable-opponent | 927,915
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
-109 | Westy3000 | 890,968
+109 | Westy3000 | 891,634
 110 | DogSpark84 | 869,754
 111 | Bobisdeadrun | 869,016
 112 | PortCity_MadMan | 861,511
