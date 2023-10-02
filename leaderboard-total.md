@@ -1,12 +1,12 @@
-Last updated: 23-10-02 01:32:06 UTC  
+Last updated: 23-10-02 02:05:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,125,730
+2 | nakamo-toe | 37,152,360
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,129,419
 5 | waterhasnocalories | 30,910,235
-6 | Jeff5704 | 29,400,435
+6 | Jeff5704 | 29,442,435
 7 | rickribera93 | 28,396,729
 8 | _ships | 19,497,175
 9 | ConeDesk | 17,947,653
@@ -99,7 +99,7 @@ Rank | Username | Totals Tips
 96 | avatarbot | 1,027,000
 97 | LimpPeanut5633 | 1,010,654
 98 | CluelessSurvivor | 1,009,516
-99 | Complete-Tadpole-728 | 1,004,147
+99 | Complete-Tadpole-728 | 1,008,070
 100 | WarmBiertje | 1,000,000
 101 | virmamies | 992,771
 102 | Alanski22 | 977,103
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | formidable-opponent | 927,915
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
-109 | Westy3000 | 890,524
+109 | Westy3000 | 890,968
 110 | DogSpark84 | 869,754
 111 | Bobisdeadrun | 869,016
 112 | PortCity_MadMan | 861,511
