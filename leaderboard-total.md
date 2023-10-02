@@ -1,4 +1,4 @@
-Last updated: 23-10-02 16:44:42 UTC  
+Last updated: 23-10-02 16:53:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -97,9 +97,9 @@ Rank | Username | Totals Tips
 94 | ashketchup422 | 1,042,067
 95 | freechickens | 1,028,524
 96 | avatarbot | 1,027,000
-97 | LimpPeanut5633 | 1,010,654
-98 | CluelessSurvivor | 1,009,516
-99 | Complete-Tadpole-728 | 1,008,070
+97 | Complete-Tadpole-728 | 1,010,733
+98 | LimpPeanut5633 | 1,010,654
+99 | CluelessSurvivor | 1,009,516
 100 | WarmBiertje | 1,000,000
 101 | virmamies | 992,771
 102 | Alanski22 | 977,103
@@ -239,8 +239,8 @@ Rank | Username | Totals Tips
 236 | CoverYourMaskHoles | 229,708
 237 | ShortBusCult | 228,485
 238 | Ashamed_Raccoon9918 | 224,697
-239 | SourBeefHoop | 217,512
-240 | SaberTurret | 216,537
+239 | SaberTurret | 219,200
+240 | SourBeefHoop | 217,512
 241 | phonebreaker8 | 215,189
 242 | yahuurdme | 214,974
 243 | Beenthorny | 212,362
