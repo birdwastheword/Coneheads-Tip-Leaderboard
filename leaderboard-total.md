@@ -1,4 +1,4 @@
-Last updated: 23-10-03 05:30:48 UTC  
+Last updated: 23-10-03 05:40:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | CMDRGlamdring | 2,899,584
-50 | Fenrir-1919 | 2,798,709
+50 | Fenrir-1919 | 2,799,317
 51 | Mean_Bandicoot_7481 | 2,752,108
 52 | ImAlekBan | 2,645,901
 53 | ZoomLong | 2,641,251
@@ -79,7 +79,7 @@ Rank | Username | Totals Tips
 76 | ultra_terrestrial | 1,588,125
 77 | ValiantJudge29500 | 1,585,705
 78 | YarOldeOrchard | 1,438,286
-79 | isthistomorrow_ | 1,381,135
+79 | isthistomorrow_ | 1,383,798
 80 | Extreme_Issue7325 | 1,345,890
 81 | saintajoras | 1,294,145
 82 | revdrgonzo | 1,246,055
