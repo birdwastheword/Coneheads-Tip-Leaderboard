@@ -1,8 +1,8 @@
-Last updated: 23-10-03 22:18:47 UTC  
+Last updated: 23-10-03 22:31:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,504,216
+2 | nakamo-toe | 37,530,846
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,152,170
 5 | waterhasnocalories | 30,910,235
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | VIVOffical | 6,478,468
 27 | HippieStarTraveler | 6,263,948
 28 | IveDoneItAtLast | 5,935,549
-29 | thelonliestcrowd | 5,745,191
+29 | thelonliestcrowd | 5,771,828
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,626,306
 32 | GuyOne | 5,231,964
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | WhateverAlready | 680,371
 133 | Duskopia | 680,133
 134 | Due_Insurance8159 | 678,620
-135 | MorrisBrett514 | 676,730
+135 | MorrisBrett514 | 677,150
 136 | SKITZ_ZA | 676,057
 137 | piebagz | 661,815
 138 | junkwatch | 658,669
