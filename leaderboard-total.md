@@ -1,4 +1,4 @@
-Last updated: 23-10-03 11:41:17 UTC  
+Last updated: 23-10-03 11:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | CMDRGlamdring | 2,899,584
-50 | Fenrir-1919 | 2,799,317
+50 | Fenrir-1919 | 2,799,386
 51 | Mean_Bandicoot_7481 | 2,752,108
 52 | ImAlekBan | 2,645,901
 53 | ZoomLong | 2,641,251
@@ -105,8 +105,8 @@ Rank | Username | Totals Tips
 102 | Alanski22 | 977,103
 103 | EvanIsBacon | 970,416
 104 | CHEROKEEJ4CK | 940,286
-105 | Forward_Today2849 | 932,405
-106 | formidable-opponent | 927,915
+105 | formidable-opponent | 935,692
+106 | Forward_Today2849 | 932,405
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
 109 | Westy3000 | 893,410
