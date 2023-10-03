@@ -1,4 +1,4 @@
-Last updated: 23-10-03 00:24:39 UTC  
+Last updated: 23-10-03 01:31:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
 11 | crypto_grandma | 14,572,030
-12 | SammyCraigar | 12,554,794
+12 | SammyCraigar | 12,557,457
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,393,477
 15 | Parush9 | 12,308,899
@@ -28,13 +28,13 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,352,468
 27 | HippieStarTraveler | 6,263,948
-28 | IveDoneItAtLast | 5,932,886
+28 | IveDoneItAtLast | 5,935,549
 29 | thelonliestcrowd | 5,745,191
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,583,616
 32 | GuyOne | 5,231,964
 33 | DontLaughArt | 4,802,877
-34 | redzrex | 4,576,267
+34 | redzrex | 4,578,930
 35 | rustyybikes | 4,558,899
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
@@ -92,7 +92,7 @@ Rank | Username | Totals Tips
 89 | noface_reddit | 1,107,689
 90 | Allions1 | 1,103,856
 91 | nichnotnick | 1,103,821
-92 | Complete-Tadpole-728 | 1,090,502
+92 | Complete-Tadpole-728 | 1,090,922
 93 | ID404_Not_Found_8964 | 1,066,725
 94 | UniversalNoobMaster | 1,056,369
 95 | ashketchup422 | 1,042,067
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | formidable-opponent | 927,915
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
-109 | Westy3000 | 892,966
+109 | Westy3000 | 893,188
 110 | DogSpark84 | 872,837
 111 | Bobisdeadrun | 869,016
 112 | PortCity_MadMan | 861,511
