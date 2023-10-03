@@ -1,4 +1,4 @@
-Last updated: 23-10-03 09:01:00 UTC  
+Last updated: 23-10-03 09:18:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | IveDoneItAtLast | 5,935,549
 29 | thelonliestcrowd | 5,745,191
 30 | Ginomania | 5,697,144
-31 | send420nudes | 5,583,616
+31 | send420nudes | 5,622,037
 32 | GuyOne | 5,231,964
 33 | DontLaughArt | 4,808,957
 34 | redzrex | 4,578,930
