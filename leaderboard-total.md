@@ -1,4 +1,4 @@
-Last updated: 23-10-02 23:50:52 UTC  
+Last updated: 23-10-03 00:24:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -92,7 +92,7 @@ Rank | Username | Totals Tips
 89 | noface_reddit | 1,107,689
 90 | Allions1 | 1,103,856
 91 | nichnotnick | 1,103,821
-92 | Complete-Tadpole-728 | 1,087,839
+92 | Complete-Tadpole-728 | 1,090,502
 93 | ID404_Not_Found_8964 | 1,066,725
 94 | UniversalNoobMaster | 1,056,369
 95 | ashketchup422 | 1,042,067
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | formidable-opponent | 927,915
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
-109 | Westy3000 | 892,744
+109 | Westy3000 | 892,966
 110 | DogSpark84 | 872,837
 111 | Bobisdeadrun | 869,016
 112 | PortCity_MadMan | 861,511
@@ -575,7 +575,7 @@ Rank | Username | Totals Tips
 572 | Flamingo777 | 21,719
 573 | Tasty_Bag | 21,384
 574 | RamboBalboa21 | 21,083
-575 | ipad_daps | 20,933
+575 | ipad_daps | 21,071
 576 | shootingeagleyt | 20,611
 577 | DLPD-Camko | 20,377
 578 | Bear-Bull-Pig | 20,231
@@ -673,10 +673,10 @@ Rank | Username | Totals Tips
 670 | Fit_Win_541 | 11,327
 671 | RedditReader825 | 11,226
 672 | Most_Border_3917 | 11,129
-673 | Bramberken05 | 11,110
-674 | GaryJulesMCOC | 11,110
-675 | Arj_123 | 11,032
-676 | xllw | 11,000
+673 | xllw | 11,123
+674 | Bramberken05 | 11,110
+675 | GaryJulesMCOC | 11,110
+676 | Arj_123 | 11,032
 677 | PurpleCoveredSnow | 10,915
 678 | Zealousideal-War6206 | 10,905
 679 | maurinet79 | 10,844
