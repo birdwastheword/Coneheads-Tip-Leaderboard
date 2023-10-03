@@ -1,4 +1,4 @@
-Last updated: 23-10-03 10:50:44 UTC  
+Last updated: 23-10-03 11:00:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -775,7 +775,7 @@ Rank | Username | Totals Tips
 772 | Schwoanz | 6,219
 773 | Machete521 | 6,166
 774 | solarssun | 6,111
-775 | final_lionel | 6,033
+775 | final_lionel | 6,075
 776 | DrunkDoge420 | 6,000
 777 | forceworks | 5,998
 778 | SecretSuch420 | 5,981
