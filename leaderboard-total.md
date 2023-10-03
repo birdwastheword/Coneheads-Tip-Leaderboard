@@ -1,8 +1,8 @@
-Last updated: 23-10-03 02:51:42 UTC  
+Last updated: 23-10-03 03:01:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,419,000
+2 | nakamo-toe | 37,424,326
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,146,844
 5 | waterhasnocalories | 30,910,235
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | formidable-opponent | 927,915
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
-109 | Westy3000 | 893,188
+109 | Westy3000 | 893,410
 110 | DogSpark84 | 872,837
 111 | Bobisdeadrun | 869,016
 112 | PortCity_MadMan | 861,511
