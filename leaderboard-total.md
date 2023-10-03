@@ -1,4 +1,4 @@
-Last updated: 23-10-03 07:17:01 UTC  
+Last updated: 23-10-03 07:25:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -144,7 +144,7 @@ Rank | Username | Totals Tips
 141 | slirpo | 631,180
 142 | RazPie | 623,307
 143 | superlonelyboy | 611,557
-144 | Bobby_Juk | 602,126
+144 | Bobby_Juk | 602,546
 145 | Dripbot8 | 599,035
 146 | __PDS__ | 595,709
 147 | shiesto | 595,227
