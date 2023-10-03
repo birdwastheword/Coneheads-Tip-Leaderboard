@@ -1,4 +1,4 @@
-Last updated: 23-10-03 07:33:55 UTC  
+Last updated: 23-10-03 07:42:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -319,11 +319,11 @@ Rank | Username | Totals Tips
 316 | jurgensdapimp | 111,618
 317 | Strong_Constant_1190 | 110,325
 318 | PushyDevolution | 110,216
-319 | Jlt42000 | 107,091
-320 | AD_VICTORIAM_x | 106,876
-321 | i_wake_up_at_12 | 106,333
-322 | diamondbored | 106,298
-323 | Ronitn | 105,500
+319 | Ronitn | 108,163
+320 | Jlt42000 | 107,091
+321 | AD_VICTORIAM_x | 106,876
+322 | i_wake_up_at_12 | 106,333
+323 | diamondbored | 106,298
 324 | redditinchina | 105,444
 325 | Chanyuui1 | 104,940
 326 | deathtr0 | 104,641
