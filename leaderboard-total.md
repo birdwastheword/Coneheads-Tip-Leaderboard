@@ -1,4 +1,4 @@
-Last updated: 23-10-03 10:32:47 UTC  
+Last updated: 23-10-03 10:41:08 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -464,7 +464,7 @@ Rank | Username | Totals Tips
 461 | kanem87 | 43,161
 462 | ACE415_ | 42,069
 463 | dead-spiral | 42,069
-464 | Expensive_Being_4038 | 41,812
+464 | Expensive_Being_4038 | 41,881
 465 | PushyDevoIution | 41,695
 466 | madridgalactico | 41,231
 467 | GuronT | 41,167
