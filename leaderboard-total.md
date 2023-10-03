@@ -1,4 +1,4 @@
-Last updated: 23-10-03 02:43:32 UTC  
+Last updated: 23-10-03 02:51:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | ImAlekBan | 2,645,901
 53 | ZoomLong | 2,641,251
 54 | _Royal_Insylum | 2,603,787
-55 | possibili-teas | 2,410,515
+55 | possibili-teas | 2,412,515
 56 | Richicash | 2,281,863
 57 | Autom4tic_Soze | 2,244,281
 58 | 0-Give-a-fucks | 2,103,252
