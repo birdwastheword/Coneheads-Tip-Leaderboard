@@ -1,4 +1,4 @@
-Last updated: 23-10-03 09:30:52 UTC  
+Last updated: 23-10-03 09:40:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -317,9 +317,9 @@ Rank | Username | Totals Tips
 314 | flying_bacon | 111,929
 315 | adrefofadre | 111,817
 316 | jurgensdapimp | 111,618
-317 | Strong_Constant_1190 | 110,325
-318 | PushyDevolution | 110,216
-319 | Ronitn | 108,163
+317 | Ronitn | 110,826
+318 | Strong_Constant_1190 | 110,325
+319 | PushyDevolution | 110,216
 320 | Jlt42000 | 107,091
 321 | AD_VICTORIAM_x | 106,876
 322 | i_wake_up_at_12 | 106,333
