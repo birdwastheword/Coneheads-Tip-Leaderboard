@@ -1,4 +1,4 @@
-Last updated: 23-10-03 11:15:43 UTC  
+Last updated: 23-10-03 11:24:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -143,7 +143,7 @@ Rank | Username | Totals Tips
 140 | femacampcouncilor | 650,801
 141 | RazPie | 633,307
 142 | slirpo | 631,180
-143 | Bobby_Juk | 613,524
+143 | Bobby_Juk | 613,944
 144 | superlonelyboy | 611,557
 145 | Dripbot8 | 599,035
 146 | __PDS__ | 595,709
@@ -168,8 +168,8 @@ Rank | Username | Totals Tips
 165 | Lady_Lucks_Man | 482,403
 166 | sinlesco | 465,153
 167 | WarmlyWacky | 462,118
-168 | MediaPrestigious8342 | 453,839
-169 | Overall-Extension608 | 453,528
+168 | Overall-Extension608 | 456,191
+169 | MediaPrestigious8342 | 453,839
 170 | AnduriII | 450,996
 171 | unhingedbigfoot | 439,874
 172 | Mopeiooo | 437,368
