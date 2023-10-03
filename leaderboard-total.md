@@ -1,4 +1,4 @@
-Last updated: 23-10-03 11:33:06 UTC  
+Last updated: 23-10-03 11:41:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -190,7 +190,7 @@ Rank | Username | Totals Tips
 187 | 83nno | 341,088
 188 | anony666mous | 341,008
 189 | tsudrat | 340,707
-190 | TummyLice | 326,736
+190 | TummyLice | 326,737
 191 | maxfra | 326,334
 192 | x52x | 324,929
 193 | Adrewmc | 321,178
