@@ -1,4 +1,4 @@
-Last updated: 23-10-03 11:50:50 UTC  
+Last updated: 23-10-03 12:09:14 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | CMDRGlamdring | 2,899,584
-50 | Fenrir-1919 | 2,799,386
+50 | Fenrir-1919 | 2,802,049
 51 | Mean_Bandicoot_7481 | 2,752,108
 52 | ImAlekBan | 2,645,901
 53 | ZoomLong | 2,641,251
@@ -143,7 +143,7 @@ Rank | Username | Totals Tips
 140 | femacampcouncilor | 650,801
 141 | RazPie | 633,307
 142 | slirpo | 631,180
-143 | Bobby_Juk | 613,944
+143 | Bobby_Juk | 614,364
 144 | superlonelyboy | 611,557
 145 | Dripbot8 | 599,035
 146 | __PDS__ | 595,709
@@ -1008,23 +1008,23 @@ Rank | Username | Totals Tips
 1005 | TriggerHappyEwok | 909
 1006 | Porescu | 909
 1007 | ChiefTecumsah | 909
-1008 | True_Sigma_1 | 853
-1009 | Xanthn | 840
-1010 | Geesle | 840
-1011 | experimentjon | 840
-1012 | tommyque | 840
-1013 | Embarrassed-Egg-545 | 840
-1014 | panjjang | 834
-1015 | Yegpetphoto | 825
-1016 | brymezHD | 769
-1017 | Ge_n0 | 729
-1018 | johnnyb0083 | 727
-1019 | SufficientNet9227 | 711
-1020 | o_LUCIFER_o | 709
-1021 | daigsischt | 696
-1022 | TheNano100 | 696
-1023 | Mysterious-Heart-459 | 696
-1024 | BuuWrath | 690
+1008 | BuuWrath | 882
+1009 | True_Sigma_1 | 853
+1010 | Xanthn | 840
+1011 | Geesle | 840
+1012 | experimentjon | 840
+1013 | tommyque | 840
+1014 | Embarrassed-Egg-545 | 840
+1015 | panjjang | 834
+1016 | Yegpetphoto | 825
+1017 | brymezHD | 769
+1018 | Ge_n0 | 729
+1019 | johnnyb0083 | 727
+1020 | SufficientNet9227 | 711
+1021 | o_LUCIFER_o | 709
+1022 | daigsischt | 696
+1023 | TheNano100 | 696
+1024 | Mysterious-Heart-459 | 696
 1025 | Indisciplinato | 677
 1026 | Troll_humper | 665
 1027 | justthebelton | 640
