@@ -1,4 +1,4 @@
-Last updated: 23-10-03 03:18:56 UTC  
+Last updated: 23-10-03 03:30:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -39,7 +39,7 @@ Rank | Username | Totals Tips
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
 38 | birdwastheword | 4,421,038
-39 | zdubs | 3,782,293
+39 | zdubs | 3,782,359
 40 | thom_orrow | 3,744,970
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
@@ -82,7 +82,7 @@ Rank | Username | Totals Tips
 79 | isthistomorrow_ | 1,381,135
 80 | Extreme_Issue7325 | 1,345,890
 81 | saintajoras | 1,294,145
-82 | revdrgonzo | 1,245,635
+82 | revdrgonzo | 1,246,055
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
 85 | Feetfailmenot | 1,170,705
