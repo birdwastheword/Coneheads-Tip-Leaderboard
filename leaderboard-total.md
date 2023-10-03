@@ -1,4 +1,4 @@
-Last updated: 23-10-03 03:40:25 UTC  
+Last updated: 23-10-03 03:50:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Ginomania | 5,697,144
 31 | send420nudes | 5,583,616
 32 | GuyOne | 5,231,964
-33 | DontLaughArt | 4,802,877
+33 | DontLaughArt | 4,808,957
 34 | redzrex | 4,578,930
 35 | rustyybikes | 4,558,899
 36 | rikbona | 4,540,773
