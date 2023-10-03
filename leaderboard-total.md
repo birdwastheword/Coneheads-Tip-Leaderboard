@@ -1,4 +1,4 @@
-Last updated: 23-10-03 03:01:02 UTC  
+Last updated: 23-10-03 03:18:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -44,13 +44,13 @@ Rank | Username | Totals Tips
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,482,392
-44 | Korean_Street_Pizza | 3,476,821
+44 | Korean_Street_Pizza | 3,477,241
 45 | ZukoBih | 3,472,050
 46 | LordBobTheWhale | 3,345,543
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | CMDRGlamdring | 2,899,584
-50 | Fenrir-1919 | 2,772,079
+50 | Fenrir-1919 | 2,798,709
 51 | Mean_Bandicoot_7481 | 2,752,108
 52 | ImAlekBan | 2,645,901
 53 | ZoomLong | 2,641,251
@@ -231,11 +231,11 @@ Rank | Username | Totals Tips
 228 | Truffle_Shuffle_85 | 243,967
 229 | Significant_Talk4943 | 243,839
 230 | joeviani | 241,717
-231 | MuhSound | 236,752
-232 | Zalkwalker | 235,069
-233 | Conetent | 234,739
-234 | alexthemay | 234,131
-235 | 192000Hertz | 231,784
+231 | 192000Hertz | 239,663
+232 | MuhSound | 236,752
+233 | Zalkwalker | 235,069
+234 | Conetent | 234,739
+235 | alexthemay | 234,131
 236 | CoverYourMaskHoles | 229,708
 237 | ShortBusCult | 228,485
 238 | Ashamed_Raccoon9918 | 224,697
