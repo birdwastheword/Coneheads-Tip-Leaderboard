@@ -1,4 +1,4 @@
-Last updated: 23-10-06 11:00:56 UTC  
+Last updated: 23-10-06 11:15:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,482,392
-44 | Korean_Street_Pizza | 3,477,661
+44 | Korean_Street_Pizza | 3,478,501
 45 | ZukoBih | 3,472,050
 46 | LordBobTheWhale | 3,345,543
 47 | evilninjarobot | 3,208,037
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | WhateverAlready | 680,371
 133 | Duskopia | 680,133
 134 | Due_Insurance8159 | 678,620
-135 | MorrisBrett514 | 677,150
+135 | MorrisBrett514 | 677,708
 136 | SKITZ_ZA | 676,057
 137 | piebagz | 661,815
 138 | junkwatch | 658,669
@@ -560,7 +560,7 @@ Rank | Username | Totals Tips
 557 | CowDapper7867 | 25,000
 558 | 4ucklehead | 24,684
 559 | SquatAngry | 23,630
-560 | WiseDude69 | 23,345
+560 | WiseDude69 | 23,414
 561 | Mrmakanakai | 23,276
 562 | africanasshat | 23,062
 563 | tiger1647 | 23,019
@@ -591,9 +591,9 @@ Rank | Username | Totals Tips
 588 | MalarkyD | 19,527
 589 | Defeat-the-Kraken | 19,378
 590 | This_Red_Apple | 19,249
-591 | ___MOM___ | 18,853
-592 | Fivebag | 18,704
-593 | amnotmethenwho | 18,593
+591 | amnotmethenwho | 19,201
+592 | ___MOM___ | 18,853
+593 | Fivebag | 18,704
 594 | D6P6 | 18,447
 595 | masterassassin93 | 18,409
 596 | Collectibl3 | 18,024
