@@ -1,8 +1,8 @@
-Last updated: 23-10-06 22:00:49 UTC  
+Last updated: 23-10-06 22:18:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,885,327
+2 | nakamo-toe | 37,887,990
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -90,9 +90,9 @@ Rank | Username | Totals Tips
 87 | pythonskynet | 1,147,213
 88 | beastlybaker | 1,138,701
 89 | noface_reddit | 1,111,889
-90 | Allions1 | 1,103,856
-91 | nichnotnick | 1,103,821
-92 | Complete-Tadpole-728 | 1,097,928
+90 | Complete-Tadpole-728 | 1,105,868
+91 | Allions1 | 1,103,856
+92 | nichnotnick | 1,103,821
 93 | UniversalNoobMaster | 1,071,789
 94 | ID404_Not_Found_8964 | 1,066,725
 95 | ashketchup422 | 1,042,067
