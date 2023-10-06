@@ -1,4 +1,4 @@
-Last updated: 23-10-06 08:50:34 UTC  
+Last updated: 23-10-06 09:00:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -596,11 +596,11 @@ Rank | Username | Totals Tips
 593 | D6P6 | 18,447
 594 | masterassassin93 | 18,409
 595 | Collectibl3 | 18,024
-596 | NSFWCryptoPosting | 17,775
-597 | augustsIippedaway | 17,739
-598 | PRYCDaddy | 17,718
-599 | omfglauren | 17,676
-600 | amnotmethenwho | 17,382
+596 | amnotmethenwho | 17,985
+597 | NSFWCryptoPosting | 17,775
+598 | augustsIippedaway | 17,739
+599 | PRYCDaddy | 17,718
+600 | omfglauren | 17,676
 601 | Steves1982 | 17,284
 602 | OutrageousStudy6752 | 17,087
 603 | Sebanimation | 17,073
