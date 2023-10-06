@@ -1,4 +1,4 @@
-Last updated: 23-10-06 12:43:20 UTC  
+Last updated: 23-10-06 13:00:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | SpookySYN | 12,393,477
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,881
-17 | avyun | 10,001,075
+17 | avyun | 10,001,215
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
 20 | Geniuskills | 8,164,883
@@ -30,7 +30,7 @@ Rank | Username | Totals Tips
 27 | HippieStarTraveler | 6,263,948
 28 | IveDoneItAtLast | 5,935,549
 29 | thelonliestcrowd | 5,771,828
-30 | Ginomania | 5,697,144
+30 | Ginomania | 5,720,504
 31 | send420nudes | 5,626,306
 32 | GuyOne | 5,231,964
 33 | DontLaughArt | 4,808,957
@@ -110,11 +110,11 @@ Rank | Username | Totals Tips
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
 109 | Westy3000 | 893,410
-110 | DogSpark84 | 872,837
-111 | Bobisdeadrun | 869,016
-112 | PortCity_MadMan | 861,511
+110 | PortCity_MadMan | 888,141
+111 | DogSpark84 | 872,837
+112 | Bobisdeadrun | 869,016
 113 | orangesandonions | 859,682
-114 | adrifing | 848,450
+114 | adrifing | 848,870
 115 | AustinTX1985 | 821,526
 116 | goldyluckinblokchain | 809,537
 117 | RegalReptile_ | 807,046
@@ -238,8 +238,8 @@ Rank | Username | Totals Tips
 235 | alexthemay | 234,131
 236 | CoverYourMaskHoles | 229,708
 237 | ShortBusCult | 228,485
-238 | Ashamed_Raccoon9918 | 224,697
-239 | SaberTurret | 224,526
+238 | SaberTurret | 227,189
+239 | Ashamed_Raccoon9918 | 224,697
 240 | SourBeefHoop | 217,512
 241 | phonebreaker8 | 215,189
 242 | yahuurdme | 214,974
