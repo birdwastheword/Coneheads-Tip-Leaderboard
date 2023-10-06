@@ -1,4 +1,4 @@
-Last updated: 23-10-06 15:40:28 UTC  
+Last updated: 23-10-06 15:51:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Geniuskills | 8,164,883
 21 | Homeslicekilla | 7,998,462
 22 | Puddin-Luv | 7,526,312
-23 | Skank_cunt_42 | 7,273,096
+23 | Skank_cunt_42 | 7,275,759
 24 | ashinamune | 6,782,503
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,478,468
@@ -768,14 +768,14 @@ Rank | Username | Totals Tips
 765 | dexabonk | 6,541
 766 | dorinosss | 6,529
 767 | _pondering_insomniac | 6,500
-768 | SeniorThiccBoi | 6,405
-769 | rpgruli | 6,364
-770 | ReasonReasonable7168 | 6,357
-771 | BostonianToro | 6,285
-772 | Schwoanz | 6,219
-773 | Machete521 | 6,166
-774 | solarssun | 6,111
-775 | final_lionel | 6,075
+768 | final_lionel | 6,495
+769 | SeniorThiccBoi | 6,405
+770 | rpgruli | 6,364
+771 | ReasonReasonable7168 | 6,357
+772 | BostonianToro | 6,285
+773 | Schwoanz | 6,219
+774 | Machete521 | 6,166
+775 | solarssun | 6,111
 776 | DrunkDoge420 | 6,000
 777 | forceworks | 5,998
 778 | SecretSuch420 | 5,981
