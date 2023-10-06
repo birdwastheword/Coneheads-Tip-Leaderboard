@@ -1,4 +1,4 @@
-Last updated: 23-10-06 16:50:59 UTC  
+Last updated: 23-10-06 17:00:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -81,7 +81,7 @@ Rank | Username | Totals Tips
 78 | YarOldeOrchard | 1,438,286
 79 | isthistomorrow_ | 1,383,798
 80 | Extreme_Issue7325 | 1,345,890
-81 | saintajoras | 1,302,972
+81 | saintajoras | 1,303,472
 82 | revdrgonzo | 1,246,055
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
