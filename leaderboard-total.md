@@ -1,8 +1,8 @@
-Last updated: 23-10-06 16:37:28 UTC  
+Last updated: 23-10-06 16:50:59 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,853,711
+2 | nakamo-toe | 37,856,034
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -89,10 +89,10 @@ Rank | Username | Totals Tips
 86 | Hot_Potato_Salad | 1,147,558
 87 | pythonskynet | 1,147,213
 88 | beastlybaker | 1,138,701
-89 | noface_reddit | 1,107,689
+89 | noface_reddit | 1,111,889
 90 | Allions1 | 1,103,856
 91 | nichnotnick | 1,103,821
-92 | Complete-Tadpole-728 | 1,095,265
+92 | Complete-Tadpole-728 | 1,097,928
 93 | UniversalNoobMaster | 1,071,789
 94 | ID404_Not_Found_8964 | 1,066,725
 95 | ashketchup422 | 1,042,067
