@@ -1,4 +1,4 @@
-Last updated: 23-10-06 09:00:59 UTC  
+Last updated: 23-10-06 09:18:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
 11 | crypto_grandma | 14,580,551
-12 | SammyCraigar | 12,557,457
+12 | SammyCraigar | 12,558,065
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,393,477
 15 | Parush9 | 12,308,899
@@ -593,10 +593,10 @@ Rank | Username | Totals Tips
 590 | This_Red_Apple | 19,249
 591 | ___MOM___ | 18,853
 592 | Fivebag | 18,704
-593 | D6P6 | 18,447
-594 | masterassassin93 | 18,409
-595 | Collectibl3 | 18,024
-596 | amnotmethenwho | 17,985
+593 | amnotmethenwho | 18,593
+594 | D6P6 | 18,447
+595 | masterassassin93 | 18,409
+596 | Collectibl3 | 18,024
 597 | NSFWCryptoPosting | 17,775
 598 | augustsIippedaway | 17,739
 599 | PRYCDaddy | 17,718
