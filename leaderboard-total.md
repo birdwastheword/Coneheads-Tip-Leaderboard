@@ -1,4 +1,4 @@
-Last updated: 23-10-06 13:40:43 UTC  
+Last updated: 23-10-06 13:50:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -417,13 +417,13 @@ Rank | Username | Totals Tips
 414 | Trink333 | 58,338
 415 | phrodreky | 58,261
 416 | Dottore_Bettore | 57,917
-417 | Outrageous_Storm6537 | 56,938
-418 | halfavocadoemoji | 56,666
-419 | chuloreddit | 55,947
-420 | imbarrydylan | 55,689
-421 | mofayew | 54,829
-422 | Lucabba | 54,738
-423 | Historical-Lychee-34 | 54,693
+417 | Historical-Lychee-34 | 57,356
+418 | Outrageous_Storm6537 | 56,938
+419 | halfavocadoemoji | 56,666
+420 | chuloreddit | 55,947
+421 | imbarrydylan | 55,689
+422 | mofayew | 54,829
+423 | Lucabba | 54,738
 424 | SandersIncBV | 54,288
 425 | Brandillio | 54,271
 426 | ysnmingle | 54,204
