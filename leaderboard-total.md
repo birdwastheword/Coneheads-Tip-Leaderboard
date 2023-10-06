@@ -1,10 +1,10 @@
-Last updated: 23-10-06 13:00:04 UTC  
+Last updated: 23-10-06 13:23:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
 2 | nakamo-toe | 37,819,092
 3 | Wonderful_Bad6531 | 36,372,142
-4 | cutsickass | 32,154,833
+4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
 6 | Jeff5704 | 29,475,152
 7 | rickribera93 | 28,396,729
@@ -135,7 +135,7 @@ Rank | Username | Totals Tips
 132 | WhateverAlready | 680,371
 133 | Duskopia | 680,133
 134 | Due_Insurance8159 | 678,620
-135 | MorrisBrett514 | 678,197
+135 | MorrisBrett514 | 678,617
 136 | SKITZ_ZA | 676,057
 137 | piebagz | 661,815
 138 | junkwatch | 658,669
