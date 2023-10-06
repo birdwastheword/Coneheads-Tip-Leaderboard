@@ -1,4 +1,4 @@
-Last updated: 23-10-06 10:41:02 UTC  
+Last updated: 23-10-06 10:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -288,8 +288,8 @@ Rank | Username | Totals Tips
 285 | luisantonio197 | 139,511
 286 | GrowinStuffAndThings | 137,461
 287 | Outrageous-Ad8481 | 137,001
-288 | BitCone_CONE | 135,670
-289 | youtooleyesing | 133,760
+288 | youtooleyesing | 136,423
+289 | BitCone_CONE | 135,670
 290 | MorrisWayne | 133,416
 291 | GoodMornEveGoodNight | 131,088
 292 | Mj_6o4 | 129,568
