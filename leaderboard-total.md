@@ -1,4 +1,4 @@
-Last updated: 23-10-06 01:31:25 UTC  
+Last updated: 23-10-06 02:05:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Geniuskills | 8,164,883
 21 | Homeslicekilla | 7,998,462
-22 | Puddin-Luv | 7,523,649
+22 | Puddin-Luv | 7,526,312
 23 | Skank_cunt_42 | 7,273,096
 24 | ashinamune | 6,782,503
 25 | Real_Player_0 | 6,599,143
@@ -224,14 +224,14 @@ Rank | Username | Totals Tips
 221 | thecrabdad | 256,177
 222 | BeardedBro_ | 252,130
 223 | Ambitious-Minimum-80 | 252,035
-224 | Sattack4000 | 250,837
-225 | 4gsboofd | 249,703
-226 | thestonkinator | 249,330
-227 | Gregoryonetulum | 249,309
-228 | Truffle_Shuffle_85 | 243,967
-229 | Significant_Talk4943 | 243,839
-230 | joeviani | 241,717
-231 | 192000Hertz | 239,663
+224 | 192000Hertz | 251,908
+225 | Sattack4000 | 250,837
+226 | 4gsboofd | 249,703
+227 | thestonkinator | 249,330
+228 | Gregoryonetulum | 249,309
+229 | Truffle_Shuffle_85 | 243,967
+230 | Significant_Talk4943 | 243,839
+231 | joeviani | 241,717
 232 | MuhSound | 236,752
 233 | Zalkwalker | 235,069
 234 | Conetent | 234,739
