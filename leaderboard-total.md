@@ -1,4 +1,4 @@
-Last updated: 23-10-06 00:24:15 UTC  
+Last updated: 23-10-06 01:31:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -271,8 +271,8 @@ Rank | Username | Totals Tips
 268 | MelonFarmer420 | 167,136
 269 | DamnWhySoLow | 166,675
 270 | Clonkerz | 158,075
-271 | martymartinator | 155,223
-272 | wato4000 | 154,847
+271 | wato4000 | 157,510
+272 | martymartinator | 155,223
 273 | 6reficul | 153,884
 274 | NotFullyTerrestrial | 151,302
 275 | Nxnng | 151,195
@@ -379,8 +379,8 @@ Rank | Username | Totals Tips
 376 | Steadfast_Apparition | 74,506
 377 | pwan7505 | 73,893
 378 | I_AM_MORE_BADASS | 73,121
-379 | adi_00_ | 71,759
-380 | Dazzling_Marzipan474 | 71,553
+379 | Dazzling_Marzipan474 | 71,973
+380 | adi_00_ | 71,759
 381 | CM19901 | 71,276
 382 | sparanaghcoar | 71,118
 383 | ElmerBlack | 70,850
