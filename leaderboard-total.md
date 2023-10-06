@@ -1,8 +1,8 @@
-Last updated: 23-10-06 16:00:54 UTC  
+Last updated: 23-10-06 16:25:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,819,092
+2 | nakamo-toe | 37,851,048
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,478,468
 27 | HippieStarTraveler | 6,264,368
-28 | IveDoneItAtLast | 5,935,549
+28 | IveDoneItAtLast | 5,938,212
 29 | thelonliestcrowd | 5,771,828
 30 | Ginomania | 5,747,134
 31 | send420nudes | 5,626,306
@@ -124,7 +124,7 @@ Rank | Username | Totals Tips
 121 | ziggybri | 783,883
 122 | dopelifer09 | 766,118
 123 | Obi1eyeKenobi | 730,328
-124 | crodbtc | 726,820
+124 | crodbtc | 729,483
 125 | Successful-Walk-3902 | 725,027
 126 | frickdom | 716,393
 127 | starterpack420694 | 710,420
@@ -190,7 +190,7 @@ Rank | Username | Totals Tips
 187 | 83nno | 341,088
 188 | anony666mous | 341,008
 189 | tsudrat | 340,707
-190 | TummyLice | 326,737
+190 | TummyLice | 327,403
 191 | maxfra | 326,334
 192 | x52x | 324,929
 193 | Adrewmc | 321,178
