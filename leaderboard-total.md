@@ -1,4 +1,4 @@
-Last updated: 23-10-06 21:41:56 UTC  
+Last updated: 23-10-06 21:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -138,7 +138,7 @@ Rank | Username | Totals Tips
 135 | Due_Insurance8159 | 678,620
 136 | SKITZ_ZA | 676,057
 137 | piebagz | 661,815
-138 | junkwatch | 658,669
+138 | junkwatch | 658,738
 139 | MartynDr | 652,759
 140 | femacampcouncilor | 650,801
 141 | RazPie | 633,307
