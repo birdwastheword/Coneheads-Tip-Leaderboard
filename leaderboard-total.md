@@ -1,4 +1,4 @@
-Last updated: 23-10-06 17:40:37 UTC  
+Last updated: 23-10-06 17:50:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -117,7 +117,7 @@ Rank | Username | Totals Tips
 114 | adrifing | 848,870
 115 | AustinTX1985 | 821,526
 116 | goldyluckinblokchain | 809,537
-117 | RegalReptile_ | 807,046
+117 | RegalReptile_ | 807,654
 118 | vbutarin | 802,000
 119 | na7oul | 800,000
 120 | Cravensworth_redux | 790,803
@@ -159,8 +159,8 @@ Rank | Username | Totals Tips
 156 | shreyaskg | 538,211
 157 | doktastonks | 536,651
 158 | Crypto-4-Freedom | 524,991
-159 | rolonic | 516,797
-160 | fettskull | 515,473
+159 | fettskull | 518,136
+160 | rolonic | 516,797
 161 | f0n1xr131ng | 509,681
 162 | AcceptableLeg8751 | 500,000
 163 | stockyewok | 491,842
@@ -186,8 +186,8 @@ Rank | Username | Totals Tips
 183 | hellosamaira | 373,235
 184 | Tinman_ApE | 362,406
 185 | farmertypoerror | 359,212
-186 | Outrageous-Skill-464 | 344,174
-187 | 83nno | 341,088
+186 | 83nno | 351,088
+187 | Outrageous-Skill-464 | 344,174
 188 | anony666mous | 341,008
 189 | tsudrat | 340,707
 190 | TummyLice | 327,403
