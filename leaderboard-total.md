@@ -1,4 +1,4 @@
-Last updated: 23-10-06 06:07:14 UTC  
+Last updated: 23-10-06 06:26:56 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -44,7 +44,7 @@ Rank | Username | Totals Tips
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,482,392
-44 | Korean_Street_Pizza | 3,477,241
+44 | Korean_Street_Pizza | 3,477,661
 45 | ZukoBih | 3,472,050
 46 | LordBobTheWhale | 3,345,543
 47 | evilninjarobot | 3,208,037
@@ -92,7 +92,7 @@ Rank | Username | Totals Tips
 89 | noface_reddit | 1,107,689
 90 | Allions1 | 1,103,856
 91 | nichnotnick | 1,103,821
-92 | Complete-Tadpole-728 | 1,094,845
+92 | Complete-Tadpole-728 | 1,095,265
 93 | UniversalNoobMaster | 1,071,789
 94 | ID404_Not_Found_8964 | 1,066,725
 95 | ashketchup422 | 1,042,067
@@ -270,8 +270,8 @@ Rank | Username | Totals Tips
 267 | ItailianStallion101 | 171,078
 268 | MelonFarmer420 | 167,136
 269 | DamnWhySoLow | 166,675
-270 | Clonkerz | 158,075
-271 | wato4000 | 157,510
+270 | wato4000 | 162,836
+271 | Clonkerz | 158,075
 272 | martymartinator | 155,223
 273 | 6reficul | 153,884
 274 | NotFullyTerrestrial | 151,302
