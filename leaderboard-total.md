@@ -1,4 +1,4 @@
-Last updated: 23-10-06 08:23:50 UTC  
+Last updated: 23-10-06 08:33:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -143,7 +143,7 @@ Rank | Username | Totals Tips
 140 | femacampcouncilor | 650,801
 141 | RazPie | 633,307
 142 | slirpo | 631,180
-143 | Bobby_Juk | 614,784
+143 | Bobby_Juk | 615,204
 144 | superlonelyboy | 611,557
 145 | Dripbot8 | 599,035
 146 | __PDS__ | 595,709
@@ -158,7 +158,7 @@ Rank | Username | Totals Tips
 155 | TubeNerd92 | 538,249
 156 | shreyaskg | 538,211
 157 | doktastonks | 536,651
-158 | Crypto-4-Freedom | 524,571
+158 | Crypto-4-Freedom | 524,991
 159 | rolonic | 516,797
 160 | fettskull | 515,473
 161 | f0n1xr131ng | 509,681
