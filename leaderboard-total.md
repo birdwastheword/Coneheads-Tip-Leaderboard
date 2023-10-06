@@ -1,4 +1,4 @@
-Last updated: 23-10-06 07:30:53 UTC  
+Last updated: 23-10-06 07:40:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -890,15 +890,15 @@ Rank | Username | Totals Tips
 887 | Bubster898 | 2,657
 888 | vexylopin | 2,589
 889 | beerdrinker_mavech | 2,558
-890 | Tha_Watcha | 2,506
-891 | RabidLabradoodle | 2,500
-892 | Lalit-K | 2,489
-893 | Poutcheki | 2,489
-894 | ConemanNFT | 2,482
-895 | offgridgecko | 2,454
-896 | birdstream | 2,427
-897 | That_Youth2223 | 2,414
-898 | Jako_RJB | 2,390
+890 | Jako_RJB | 2,528
+891 | Tha_Watcha | 2,506
+892 | RabidLabradoodle | 2,500
+893 | Lalit-K | 2,489
+894 | Poutcheki | 2,489
+895 | ConemanNFT | 2,482
+896 | offgridgecko | 2,454
+897 | birdstream | 2,427
+898 | That_Youth2223 | 2,414
 899 | MrD_12 | 2,376
 900 | SpySeaRamen | 2,340
 901 | bonneatoutfaire | 2,303
