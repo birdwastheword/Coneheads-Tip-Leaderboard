@@ -1,23 +1,23 @@
-Last updated: 23-10-06 12:09:17 UTC  
+Last updated: 23-10-06 12:43:20 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
 2 | nakamo-toe | 37,819,092
 3 | Wonderful_Bad6531 | 36,372,142
-4 | cutsickass | 32,152,170
+4 | cutsickass | 32,154,833
 5 | waterhasnocalories | 30,910,235
 6 | Jeff5704 | 29,475,152
 7 | rickribera93 | 28,396,729
 8 | _ships | 19,500,446
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
-11 | crypto_grandma | 14,580,551
+11 | crypto_grandma | 14,587,493
 12 | SammyCraigar | 12,558,673
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,393,477
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,881
-17 | avyun | 10,001,023
+17 | avyun | 10,001,075
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
 20 | Geniuskills | 8,164,883
@@ -286,9 +286,9 @@ Rank | Username | Totals Tips
 283 | SalliIsAFem | 140,361
 284 | ASingleGuitarString | 139,770
 285 | luisantonio197 | 139,511
-286 | GrowinStuffAndThings | 137,461
-287 | Outrageous-Ad8481 | 137,001
-288 | youtooleyesing | 136,423
+286 | youtooleyesing | 139,086
+287 | GrowinStuffAndThings | 137,461
+288 | Outrageous-Ad8481 | 137,001
 289 | BitCone_CONE | 135,670
 290 | MorrisWayne | 133,416
 291 | GoodMornEveGoodNight | 131,088
@@ -587,11 +587,11 @@ Rank | Username | Totals Tips
 584 | maliplazi | 20,000
 585 | Arash_Rezae | 20,000
 586 | PsLJdogg | 19,975
-587 | Iiwip | 19,533
-588 | MalarkyD | 19,527
-589 | Defeat-the-Kraken | 19,378
-590 | This_Red_Apple | 19,249
-591 | amnotmethenwho | 19,201
+587 | amnotmethenwho | 19,809
+588 | Iiwip | 19,533
+589 | MalarkyD | 19,527
+590 | Defeat-the-Kraken | 19,378
+591 | This_Red_Apple | 19,249
 592 | ___MOM___ | 18,853
 593 | Fivebag | 18,704
 594 | D6P6 | 18,447
