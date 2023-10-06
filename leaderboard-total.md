@@ -1,4 +1,4 @@
-Last updated: 23-10-06 11:50:48 UTC  
+Last updated: 23-10-06 12:09:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -229,7 +229,7 @@ Rank | Username | Totals Tips
 226 | 4gsboofd | 249,703
 227 | thestonkinator | 249,330
 228 | Gregoryonetulum | 249,309
-229 | Truffle_Shuffle_85 | 243,967
+229 | Truffle_Shuffle_85 | 246,630
 230 | Significant_Talk4943 | 243,839
 231 | joeviani | 241,717
 232 | MuhSound | 236,752
@@ -356,7 +356,7 @@ Rank | Username | Totals Tips
 353 | qwertywich | 87,473
 354 | bvandepol | 86,258
 355 | Mother-Werewolf185 | 85,579
-356 | drche35 | 84,642
+356 | drche35 | 85,062
 357 | Significant-Bet5762 | 84,400
 358 | Bobocod | 84,240
 359 | Puzzleheaded_Gift738 | 84,020
