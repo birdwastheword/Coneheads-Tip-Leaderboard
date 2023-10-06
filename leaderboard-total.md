@@ -1,4 +1,4 @@
-Last updated: 23-10-06 04:50:49 UTC  
+Last updated: 23-10-06 05:00:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -561,16 +561,16 @@ Rank | Username | Totals Tips
 558 | 4ucklehead | 24,684
 559 | SquatAngry | 23,630
 560 | WiseDude69 | 23,345
-561 | africanasshat | 23,062
-562 | tiger1647 | 23,019
-563 | AntonioTT05 | 22,876
-564 | Bundess | 22,746
-565 | SlowpokesEmporium | 22,664
-566 | Ryaol | 22,663
-567 | Particular_Equal_490 | 22,256
-568 | deezirae | 22,203
-569 | beejbum | 22,200
-570 | Mrmakanakai | 21,965
+561 | Mrmakanakai | 23,276
+562 | africanasshat | 23,062
+563 | tiger1647 | 23,019
+564 | AntonioTT05 | 22,876
+565 | Bundess | 22,746
+566 | SlowpokesEmporium | 22,664
+567 | Ryaol | 22,663
+568 | Particular_Equal_490 | 22,256
+569 | deezirae | 22,203
+570 | beejbum | 22,200
 571 | Matth3w_95 | 21,820
 572 | Flamingo777 | 21,719
 573 | Tasty_Bag | 21,384
