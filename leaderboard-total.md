@@ -1,4 +1,4 @@
-Last updated: 23-10-06 09:40:25 UTC  
+Last updated: 23-10-06 09:50:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -282,10 +282,10 @@ Rank | Username | Totals Tips
 279 | Doovs | 143,983
 280 | Sad_Entertainer9961 | 143,248
 281 | Legal-Appointment655 | 142,592
-282 | SalliIsAFem | 140,361
-283 | ASingleGuitarString | 139,770
-284 | luisantonio197 | 139,511
-285 | Kevin3683 | 139,279
+282 | Kevin3683 | 140,390
+283 | SalliIsAFem | 140,361
+284 | ASingleGuitarString | 139,770
+285 | luisantonio197 | 139,511
 286 | GrowinStuffAndThings | 137,461
 287 | Outrageous-Ad8481 | 137,001
 288 | BitCone_CONE | 135,670
