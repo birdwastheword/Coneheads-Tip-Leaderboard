@@ -1,4 +1,4 @@
-Last updated: 23-10-06 17:30:53 UTC  
+Last updated: 23-10-06 17:40:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -102,7 +102,7 @@ Rank | Username | Totals Tips
 99 | CluelessSurvivor | 1,009,516
 100 | WarmBiertje | 1,000,000
 101 | virmamies | 992,771
-102 | Alanski22 | 979,766
+102 | Alanski22 | 989,766
 103 | EvanIsBacon | 970,416
 104 | CHEROKEEJ4CK | 940,286
 105 | formidable-opponent | 935,692
