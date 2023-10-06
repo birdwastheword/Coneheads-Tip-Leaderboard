@@ -1,4 +1,4 @@
-Last updated: 23-10-06 06:44:55 UTC  
+Last updated: 23-10-06 06:53:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -344,15 +344,15 @@ Rank | Username | Totals Tips
 341 | kwickle | 92,805
 342 | H3adshotfox77 | 92,575
 343 | urlz | 92,095
-344 | Backwood20 | 90,298
-345 | Award-Bot | 90,000
-346 | Marauder2 | 89,421
-347 | MedicalJockey | 89,084
-348 | HokkaidoNights | 88,108
-349 | ShopALF | 88,011
-350 | Hoppy_Doodle | 88,000
-351 | BeefaloSlim | 87,885
-352 | XeroGrave | 87,816
+344 | XeroGrave | 90,479
+345 | Backwood20 | 90,298
+346 | Award-Bot | 90,000
+347 | Marauder2 | 89,421
+348 | MedicalJockey | 89,084
+349 | HokkaidoNights | 88,108
+350 | ShopALF | 88,011
+351 | Hoppy_Doodle | 88,000
+352 | BeefaloSlim | 87,885
 353 | qwertywich | 87,473
 354 | bvandepol | 86,258
 355 | Mother-Werewolf185 | 85,579
