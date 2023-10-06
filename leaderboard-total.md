@@ -1,4 +1,4 @@
-Last updated: 23-10-06 14:50:33 UTC  
+Last updated: 23-10-06 15:01:05 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | SpookySYN | 12,393,477
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,881
-17 | avyun | 10,001,215
+17 | avyun | 10,001,329
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
 20 | Geniuskills | 8,164,883
