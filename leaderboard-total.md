@@ -1,4 +1,4 @@
-Last updated: 23-10-06 17:00:58 UTC  
+Last updated: 23-10-06 17:18:19 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -81,7 +81,7 @@ Rank | Username | Totals Tips
 78 | YarOldeOrchard | 1,438,286
 79 | isthistomorrow_ | 1,383,798
 80 | Extreme_Issue7325 | 1,345,890
-81 | saintajoras | 1,303,472
+81 | saintajoras | 1,303,972
 82 | revdrgonzo | 1,246,055
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
@@ -263,11 +263,11 @@ Rank | Username | Totals Tips
 260 | ruccarucca | 180,270
 261 | Jadenindubai | 176,833
 262 | sjakkpila | 175,766
-263 | high5s_inureye | 173,714
-264 | YourThighsWarmMyEars | 172,697
-265 | Street_Addd | 171,939
-266 | MymannosaurusRex | 171,737
-267 | ItailianStallion101 | 171,078
+263 | ItailianStallion101 | 173,741
+264 | high5s_inureye | 173,714
+265 | YourThighsWarmMyEars | 172,697
+266 | Street_Addd | 171,939
+267 | MymannosaurusRex | 171,737
 268 | MelonFarmer420 | 167,136
 269 | DamnWhySoLow | 166,675
 270 | wato4000 | 162,836
