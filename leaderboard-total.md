@@ -1,4 +1,4 @@
-Last updated: 23-10-06 10:32:38 UTC  
+Last updated: 23-10-06 10:41:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | Affectionate_Hand_76 | 1,980,036
 62 | swampyswede | 1,957,496
 63 | catlover-100 | 1,931,330
-64 | djrcollectables | 1,909,988
+64 | djrcollectables | 1,912,651
 65 | Mundane-Farm-4117 | 1,876,713
 66 | LongCauliflower6791 | 1,872,970
 67 | jimfird | 1,850,236
