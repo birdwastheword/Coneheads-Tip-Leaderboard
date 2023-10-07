@@ -1,4 +1,4 @@
-Last updated: 23-10-07 23:00:47 UTC  
+Last updated: 23-10-07 23:17:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Geniuskills | 8,164,883
 21 | Homeslicekilla | 7,998,462
-22 | Puddin-Luv | 7,531,638
+22 | Puddin-Luv | 7,539,305
 23 | Skank_cunt_42 | 7,275,759
 24 | ashinamune | 6,783,111
 25 | Real_Player_0 | 6,599,143
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | Forward_Today2849 | 932,405
 107 | Modestexcuse | 903,684
 108 | thee_monster | 896,765
-109 | Westy3000 | 894,076
+109 | Westy3000 | 894,298
 110 | PortCity_MadMan | 888,141
 111 | DogSpark84 | 872,837
 112 | Bobisdeadrun | 869,016
