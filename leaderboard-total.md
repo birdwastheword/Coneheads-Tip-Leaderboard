@@ -1,4 +1,4 @@
-Last updated: 23-10-07 15:25:31 UTC  
+Last updated: 23-10-07 15:34:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,481,131
 27 | HippieStarTraveler | 6,264,368
-28 | IveDoneItAtLast | 5,946,878
+28 | IveDoneItAtLast | 5,973,508
 29 | thelonliestcrowd | 5,774,491
 30 | Ginomania | 5,747,134
 31 | send420nudes | 5,626,306
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | LordBobTheWhale | 3,345,543
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
-49 | CMDRGlamdring | 2,899,584
+49 | CMDRGlamdring | 2,899,653
 50 | Fenrir-1919 | 2,802,118
 51 | Mean_Bandicoot_7481 | 2,752,108
 52 | ImAlekBan | 2,645,901
@@ -143,7 +143,7 @@ Rank | Username | Totals Tips
 140 | femacampcouncilor | 650,801
 141 | RazPie | 633,307
 142 | slirpo | 631,180
-143 | Bobby_Juk | 621,790
+143 | Bobby_Juk | 622,210
 144 | superlonelyboy | 611,557
 145 | Dripbot8 | 599,035
 146 | __PDS__ | 595,709
