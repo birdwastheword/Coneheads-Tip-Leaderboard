@@ -1,8 +1,8 @@
-Last updated: 23-10-07 18:22:29 UTC  
+Last updated: 23-10-07 18:30:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 38,090,891
+2 | nakamo-toe | 38,093,554
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -241,8 +241,8 @@ Rank | Username | Totals Tips
 238 | SaberTurret | 227,189
 239 | Ashamed_Raccoon9918 | 224,697
 240 | SourBeefHoop | 217,512
-241 | phonebreaker8 | 215,189
-242 | yahuurdme | 214,974
+241 | yahuurdme | 215,394
+242 | phonebreaker8 | 215,189
 243 | skollywag92 | 214,114
 244 | Beenthorny | 212,362
 245 | SigSalvadore | 212,358
