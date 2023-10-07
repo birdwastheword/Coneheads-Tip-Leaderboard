@@ -1,4 +1,4 @@
-Last updated: 23-10-07 03:40:49 UTC  
+Last updated: 23-10-07 03:50:55 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | SpookySYN | 12,393,477
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,881
-17 | avyun | 10,002,091
+17 | avyun | 10,002,656
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
 20 | Geniuskills | 8,164,883
@@ -89,7 +89,7 @@ Rank | Username | Totals Tips
 86 | Hot_Potato_Salad | 1,147,558
 87 | pythonskynet | 1,147,213
 88 | beastlybaker | 1,138,701
-89 | Complete-Tadpole-728 | 1,126,023
+89 | Complete-Tadpole-728 | 1,131,023
 90 | noface_reddit | 1,111,889
 91 | Allions1 | 1,103,856
 92 | nichnotnick | 1,103,821
@@ -143,7 +143,7 @@ Rank | Username | Totals Tips
 140 | femacampcouncilor | 650,801
 141 | RazPie | 633,307
 142 | slirpo | 631,180
-143 | Bobby_Juk | 615,204
+143 | Bobby_Juk | 617,867
 144 | superlonelyboy | 611,557
 145 | Dripbot8 | 599,035
 146 | __PDS__ | 595,709
