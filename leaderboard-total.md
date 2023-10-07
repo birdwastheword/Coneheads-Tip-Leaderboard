@@ -1,4 +1,4 @@
-Last updated: 23-10-07 20:00:58 UTC  
+Last updated: 23-10-07 20:17:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -33,7 +33,7 @@ Rank | Username | Totals Tips
 30 | Ginomania | 5,747,134
 31 | send420nudes | 5,626,306
 32 | GuyOne | 5,232,572
-33 | DontLaughArt | 4,811,620
+33 | DontLaughArt | 4,824,283
 34 | redzrex | 4,578,930
 35 | rustyybikes | 4,558,899
 36 | rikbona | 4,540,773
@@ -203,19 +203,19 @@ Rank | Username | Totals Tips
 200 | liwipe | 304,467
 201 | VincentVanGTFO | 300,598
 202 | legionticket | 296,054
-203 | send_tacoz | 293,576
-204 | MadScientistTheFirst | 290,469
-205 | dinoyeti | 287,544
-206 | deedopete | 286,138
-207 | tjex666 | 283,221
-208 | Flimsy_Brilliant_239 | 283,107
-209 | astro_nut_ | 280,463
-210 | _Mitchee_ | 279,808
-211 | SnooMacarons9203 | 276,806
-212 | Virtual-Wrangler5955 | 274,995
-213 | Final-Scar-941 | 271,039
-214 | hey_barry | 269,698
-215 | OniCowboy | 268,626
+203 | OniCowboy | 295,257
+204 | send_tacoz | 293,576
+205 | MadScientistTheFirst | 290,469
+206 | dinoyeti | 287,544
+207 | deedopete | 286,138
+208 | tjex666 | 283,221
+209 | Flimsy_Brilliant_239 | 283,107
+210 | astro_nut_ | 280,463
+211 | _Mitchee_ | 279,808
+212 | SnooMacarons9203 | 276,806
+213 | Virtual-Wrangler5955 | 274,995
+214 | Final-Scar-941 | 271,039
+215 | hey_barry | 269,698
 216 | SetoXlll | 266,136
 217 | the_judge_168 | 265,399
 218 | coolpattakers | 262,340
@@ -230,7 +230,7 @@ Rank | Username | Totals Tips
 227 | thestonkinator | 249,330
 228 | Gregoryonetulum | 249,309
 229 | Truffle_Shuffle_85 | 246,630
-230 | joeviani | 245,077
+230 | joeviani | 245,917
 231 | Significant_Talk4943 | 244,259
 232 | MuhSound | 237,172
 233 | Zalkwalker | 235,069
