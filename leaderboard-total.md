@@ -1,4 +1,4 @@
-Last updated: 23-10-07 23:25:26 UTC  
+Last updated: 23-10-07 23:34:06 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Geniuskills | 8,164,883
 21 | Homeslicekilla | 7,998,462
-22 | Puddin-Luv | 7,539,305
+22 | Puddin-Luv | 7,541,968
 23 | Skank_cunt_42 | 7,275,759
 24 | ashinamune | 6,783,111
 25 | Real_Player_0 | 6,599,143
@@ -86,9 +86,9 @@ Rank | Username | Totals Tips
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
 85 | Feetfailmenot | 1,170,705
-86 | Hot_Potato_Salad | 1,147,558
-87 | pythonskynet | 1,147,213
-88 | Complete-Tadpole-728 | 1,145,875
+86 | Complete-Tadpole-728 | 1,153,721
+87 | Hot_Potato_Salad | 1,147,558
+88 | pythonskynet | 1,147,213
 89 | beastlybaker | 1,138,701
 90 | noface_reddit | 1,114,552
 91 | Allions1 | 1,103,994
