@@ -1,8 +1,8 @@
-Last updated: 23-10-07 04:00:57 UTC  
+Last updated: 23-10-07 04:21:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,917,891
+2 | nakamo-toe | 37,920,214
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -355,11 +355,11 @@ Rank | Username | Totals Tips
 352 | Hoppy_Doodle | 88,000
 353 | BeefaloSlim | 87,885
 354 | qwertywich | 87,473
-355 | bvandepol | 86,258
-356 | Mother-Werewolf185 | 85,579
-357 | drche35 | 85,062
-358 | Significant-Bet5762 | 84,400
-359 | Bobocod | 84,240
+355 | Bobocod | 86,903
+356 | bvandepol | 86,258
+357 | Mother-Werewolf185 | 85,579
+358 | drche35 | 85,062
+359 | Significant-Bet5762 | 84,400
 360 | Puzzleheaded_Gift738 | 84,020
 361 | ad5xlh | 83,996
 362 | shellystarzz | 83,509
@@ -406,9 +406,9 @@ Rank | Username | Totals Tips
 403 | lucrica | 59,987
 404 | Dboythegreat | 59,726
 405 | Big-Ticket1506 | 59,666
-406 | preemcuz | 59,154
-407 | ProfessionalIcy6456 | 59,043
-408 | foreignGER | 58,980
+406 | foreignGER | 59,400
+407 | preemcuz | 59,154
+408 | ProfessionalIcy6456 | 59,043
 409 | Bandit_005 | 58,966
 410 | RepublicRude6350 | 58,754
 411 | Wildspliffosis | 58,703
@@ -671,8 +671,8 @@ Rank | Username | Totals Tips
 668 | masstransience | 11,623
 669 | reddit_saltyaf | 11,603
 670 | IndependenceHungry69 | 11,561
-671 | Fit_Win_541 | 11,327
-672 | RedditReader825 | 11,226
+671 | RedditReader825 | 11,426
+672 | Fit_Win_541 | 11,327
 673 | Most_Border_3917 | 11,129
 674 | xllw | 11,123
 675 | Bramberken05 | 11,110
