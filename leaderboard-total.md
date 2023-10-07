@@ -1,4 +1,4 @@
-Last updated: 23-10-07 18:50:39 UTC  
+Last updated: 23-10-07 19:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -6,7 +6,7 @@ Rank | Username | Totals Tips
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
-6 | Jeff5704 | 29,517,152
+6 | Jeff5704 | 29,524,819
 7 | rickribera93 | 28,396,729
 8 | _ships | 19,503,717
 9 | ConeDesk | 17,947,653
@@ -26,9 +26,9 @@ Rank | Username | Totals Tips
 23 | Skank_cunt_42 | 7,275,759
 24 | ashinamune | 6,783,111
 25 | Real_Player_0 | 6,599,143
-26 | VIVOffical | 6,484,600
+26 | VIVOffical | 6,487,018
 27 | HippieStarTraveler | 6,264,368
-28 | IveDoneItAtLast | 5,973,508
+28 | IveDoneItAtLast | 5,974,356
 29 | thelonliestcrowd | 5,774,491
 30 | Ginomania | 5,747,134
 31 | send420nudes | 5,626,306
@@ -88,8 +88,8 @@ Rank | Username | Totals Tips
 85 | Feetfailmenot | 1,170,705
 86 | Hot_Potato_Salad | 1,147,558
 87 | pythonskynet | 1,147,213
-88 | beastlybaker | 1,138,701
-89 | Complete-Tadpole-728 | 1,138,449
+88 | Complete-Tadpole-728 | 1,138,869
+89 | beastlybaker | 1,138,701
 90 | noface_reddit | 1,114,552
 91 | Allions1 | 1,103,994
 92 | nichnotnick | 1,103,821
