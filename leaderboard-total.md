@@ -1,4 +1,4 @@
-Last updated: 23-10-07 16:32:49 UTC  
+Last updated: 23-10-07 16:41:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -454,15 +454,15 @@ Rank | Username | Totals Tips
 451 | Drlitez | 45,436
 452 | SnooRevelations6751 | 45,420
 453 | NickkyDC | 45,379
-454 | tentazoc | 45,088
-455 | acfranks | 45,083
-456 | Name_Trikolon | 45,002
-457 | Zap1324 | 44,531
-458 | Kilv3r | 44,021
-459 | ShadowKnight324 | 43,986
-460 | Coneboy2663 | 43,852
-461 | halfABsinC | 43,285
-462 | kanem87 | 43,161
+454 | kanem87 | 45,148
+455 | tentazoc | 45,088
+456 | acfranks | 45,083
+457 | Name_Trikolon | 45,002
+458 | Zap1324 | 44,531
+459 | Kilv3r | 44,021
+460 | ShadowKnight324 | 43,986
+461 | Coneboy2663 | 43,852
+462 | halfABsinC | 43,285
 463 | ACE415_ | 42,069
 464 | dead-spiral | 42,069
 465 | Expensive_Being_4038 | 41,881
