@@ -1,8 +1,8 @@
-Last updated: 23-10-07 04:21:38 UTC  
+Last updated: 23-10-07 04:30:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,920,214
+2 | nakamo-toe | 37,951,046
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 19,503,717
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
-11 | crypto_grandma | 14,587,493
+11 | crypto_grandma | 14,598,635
 12 | SammyCraigar | 12,558,673
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,393,477
@@ -487,17 +487,17 @@ Rank | Username | Totals Tips
 484 | lovenets_ | 38,182
 485 | rowdy1212 | 38,129
 486 | samer109 | 38,042
-487 | onetrueSage | 37,633
-488 | shitwhenismycakeday | 37,409
-489 | redditisalt | 37,307
-490 | Imalittlestitious86 | 37,090
-491 | CatastrophicSpecter | 36,839
-492 | degree-01 | 36,486
-493 | genesis_crazy_one | 36,237
-494 | mbashs | 36,030
-495 | stspts | 35,466
-496 | SirPesoOtaku | 35,144
-497 | East_Key_5930 | 35,115
+487 | East_Key_5930 | 37,778
+488 | onetrueSage | 37,633
+489 | shitwhenismycakeday | 37,409
+490 | redditisalt | 37,307
+491 | Imalittlestitious86 | 37,090
+492 | CatastrophicSpecter | 36,839
+493 | degree-01 | 36,486
+494 | genesis_crazy_one | 36,237
+495 | mbashs | 36,030
+496 | stspts | 35,466
+497 | SirPesoOtaku | 35,144
 498 | TRANZHUMANIST | 35,069
 499 | Big-Researcher-3855 | 35,019
 500 | BelowAveIntelligence | 34,132
