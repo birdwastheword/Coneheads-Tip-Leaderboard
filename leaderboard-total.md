@@ -1,4 +1,4 @@
-Last updated: 23-10-07 18:40:37 UTC  
+Last updated: 23-10-07 18:50:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -26,7 +26,7 @@ Rank | Username | Totals Tips
 23 | Skank_cunt_42 | 7,275,759
 24 | ashinamune | 6,783,111
 25 | Real_Player_0 | 6,599,143
-26 | VIVOffical | 6,483,794
+26 | VIVOffical | 6,484,600
 27 | HippieStarTraveler | 6,264,368
 28 | IveDoneItAtLast | 5,973,508
 29 | thelonliestcrowd | 5,774,491
