@@ -1,4 +1,4 @@
-Last updated: 23-10-07 17:34:09 UTC  
+Last updated: 23-10-07 17:42:25 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -91,7 +91,7 @@ Rank | Username | Totals Tips
 88 | beastlybaker | 1,138,701
 89 | Complete-Tadpole-728 | 1,138,029
 90 | noface_reddit | 1,114,552
-91 | Allions1 | 1,103,925
+91 | Allions1 | 1,103,994
 92 | nichnotnick | 1,103,821
 93 | UniversalNoobMaster | 1,071,789
 94 | ID404_Not_Found_8964 | 1,066,725
