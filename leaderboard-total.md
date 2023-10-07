@@ -1,4 +1,4 @@
-Last updated: 23-10-07 15:42:49 UTC  
+Last updated: 23-10-07 15:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -231,7 +231,7 @@ Rank | Username | Totals Tips
 228 | Gregoryonetulum | 249,309
 229 | Truffle_Shuffle_85 | 246,630
 230 | joeviani | 245,077
-231 | Significant_Talk4943 | 243,839
+231 | Significant_Talk4943 | 244,259
 232 | MuhSound | 237,172
 233 | Zalkwalker | 235,069
 234 | Conetent | 234,739
