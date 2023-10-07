@@ -1,4 +1,4 @@
-Last updated: 23-10-07 14:16:50 UTC  
+Last updated: 23-10-07 14:25:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -608,13 +608,13 @@ Rank | Username | Totals Tips
 605 | leviathynx | 16,901
 606 | MantisToboggan66 | 16,437
 607 | ipsole | 16,425
-608 | Fr3sh-Ch3mical | 16,393
-609 | SenseiRaheem | 16,379
-610 | mraksmeet | 16,284
-611 | deeeznotes | 16,235
-612 | Conflict63 | 16,063
-613 | Rookslook | 16,049
-614 | GlumDreamer | 15,978
+608 | GlumDreamer | 16,398
+609 | Fr3sh-Ch3mical | 16,393
+610 | SenseiRaheem | 16,379
+611 | mraksmeet | 16,284
+612 | deeeznotes | 16,235
+613 | Conflict63 | 16,063
+614 | Rookslook | 16,049
 615 | giooo_tdm | 15,964
 616 | Zwott | 15,441
 617 | diarpiiiii | 15,406
