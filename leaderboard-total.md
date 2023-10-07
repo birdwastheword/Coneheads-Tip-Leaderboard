@@ -1,4 +1,4 @@
-Last updated: 23-10-07 21:50:49 UTC  
+Last updated: 23-10-07 22:01:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -8,7 +8,7 @@ Rank | Username | Totals Tips
 5 | waterhasnocalories | 30,910,235
 6 | Jeff5704 | 29,524,819
 7 | rickribera93 | 28,396,729
-8 | _ships | 19,503,717
+8 | _ships | 19,504,523
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
 11 | crypto_grandma | 14,636,771
@@ -220,9 +220,9 @@ Rank | Username | Totals Tips
 217 | the_judge_168 | 265,399
 218 | coolpattakers | 262,340
 219 | tmanfromEarth | 258,392
-220 | Hactar_42 | 256,832
-221 | thecrabdad | 256,177
-222 | 192000Hertz | 254,571
+220 | 192000Hertz | 257,234
+221 | Hactar_42 | 256,832
+222 | thecrabdad | 256,177
 223 | BeardedBro_ | 252,130
 224 | Ambitious-Minimum-80 | 252,035
 225 | Sattack4000 | 250,837
