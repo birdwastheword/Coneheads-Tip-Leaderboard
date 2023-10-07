@@ -1,4 +1,4 @@
-Last updated: 23-10-06 23:50:36 UTC  
+Last updated: 23-10-07 00:24:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -81,7 +81,7 @@ Rank | Username | Totals Tips
 78 | YarOldeOrchard | 1,438,286
 79 | isthistomorrow_ | 1,383,798
 80 | Extreme_Issue7325 | 1,345,890
-81 | saintajoras | 1,303,972
+81 | saintajoras | 1,304,572
 82 | revdrgonzo | 1,246,055
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
@@ -324,8 +324,8 @@ Rank | Username | Totals Tips
 321 | AD_VICTORIAM_x | 106,876
 322 | i_wake_up_at_12 | 106,333
 323 | diamondbored | 106,298
-324 | redditinchina | 105,444
-325 | final_lionel | 105,260
+324 | final_lionel | 105,680
+325 | redditinchina | 105,444
 326 | Chanyuui1 | 104,940
 327 | deathtr0 | 104,641
 328 | Chill_Edoeard | 102,923
@@ -578,17 +578,17 @@ Rank | Username | Totals Tips
 575 | ipad_daps | 21,140
 576 | RamboBalboa21 | 21,083
 577 | shootingeagleyt | 20,611
-578 | DLPD-Camko | 20,377
-579 | Bear-Bull-Pig | 20,231
-580 | megabeth33 | 20,152
-581 | lookwhatumademedoo | 20,068
-582 | NoahG59 | 20,002
-583 | Yeh_nah_yeh_ | 20,000
-584 | PassiveRoadRage | 20,000
-585 | maliplazi | 20,000
-586 | Arash_Rezae | 20,000
-587 | PsLJdogg | 19,975
-588 | amnotmethenwho | 19,809
+578 | amnotmethenwho | 20,417
+579 | DLPD-Camko | 20,377
+580 | Bear-Bull-Pig | 20,231
+581 | megabeth33 | 20,152
+582 | lookwhatumademedoo | 20,068
+583 | NoahG59 | 20,002
+584 | Yeh_nah_yeh_ | 20,000
+585 | PassiveRoadRage | 20,000
+586 | maliplazi | 20,000
+587 | Arash_Rezae | 20,000
+588 | PsLJdogg | 19,975
 589 | Iiwip | 19,533
 590 | MalarkyD | 19,527
 591 | Defeat-the-Kraken | 19,378
