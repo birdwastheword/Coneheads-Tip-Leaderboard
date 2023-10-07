@@ -1,4 +1,4 @@
-Last updated: 23-10-07 01:29:37 UTC  
+Last updated: 23-10-07 02:04:39 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | SpookySYN | 12,393,477
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,881
-17 | avyun | 10,002,019
+17 | avyun | 10,002,091
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
 20 | Geniuskills | 8,164,883
@@ -232,7 +232,7 @@ Rank | Username | Totals Tips
 229 | Truffle_Shuffle_85 | 246,630
 230 | joeviani | 245,077
 231 | Significant_Talk4943 | 243,839
-232 | MuhSound | 236,752
+232 | MuhSound | 237,172
 233 | Zalkwalker | 235,069
 234 | Conetent | 234,739
 235 | alexthemay | 234,131
