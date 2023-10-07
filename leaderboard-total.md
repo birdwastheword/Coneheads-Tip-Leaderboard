@@ -1,4 +1,4 @@
-Last updated: 23-10-07 08:01:02 UTC  
+Last updated: 23-10-07 08:21:27 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 19,503,717
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
-11 | crypto_grandma | 14,614,036
+11 | crypto_grandma | 14,620,978
 12 | SammyCraigar | 12,558,673
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,393,477
@@ -50,7 +50,7 @@ Rank | Username | Totals Tips
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | CMDRGlamdring | 2,899,584
-50 | Fenrir-1919 | 2,802,049
+50 | Fenrir-1919 | 2,802,118
 51 | Mean_Bandicoot_7481 | 2,752,108
 52 | ImAlekBan | 2,645,901
 53 | ZoomLong | 2,641,251
@@ -89,8 +89,8 @@ Rank | Username | Totals Tips
 86 | Hot_Potato_Salad | 1,147,558
 87 | pythonskynet | 1,147,213
 88 | beastlybaker | 1,138,701
-89 | Complete-Tadpole-728 | 1,132,703
-90 | noface_reddit | 1,111,889
+89 | Complete-Tadpole-728 | 1,138,029
+90 | noface_reddit | 1,114,552
 91 | Allions1 | 1,103,856
 92 | nichnotnick | 1,103,821
 93 | UniversalNoobMaster | 1,071,789
