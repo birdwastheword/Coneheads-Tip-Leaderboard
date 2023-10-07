@@ -1,4 +1,4 @@
-Last updated: 23-10-07 07:41:03 UTC  
+Last updated: 23-10-07 07:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 19,503,717
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
-11 | crypto_grandma | 14,607,173
+11 | crypto_grandma | 14,611,373
 12 | SammyCraigar | 12,558,673
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,393,477
@@ -359,7 +359,7 @@ Rank | Username | Totals Tips
 356 | bvandepol | 86,258
 357 | Mother-Werewolf185 | 85,579
 358 | drche35 | 85,062
-359 | Significant-Bet5762 | 84,400
+359 | Significant-Bet5762 | 85,008
 360 | Puzzleheaded_Gift738 | 84,020
 361 | ad5xlh | 83,996
 362 | shellystarzz | 83,509
