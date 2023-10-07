@@ -1,4 +1,4 @@
-Last updated: 23-10-07 04:50:38 UTC  
+Last updated: 23-10-07 05:00:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -89,7 +89,7 @@ Rank | Username | Totals Tips
 86 | Hot_Potato_Salad | 1,147,558
 87 | pythonskynet | 1,147,213
 88 | beastlybaker | 1,138,701
-89 | Complete-Tadpole-728 | 1,131,023
+89 | Complete-Tadpole-728 | 1,131,863
 90 | noface_reddit | 1,111,889
 91 | Allions1 | 1,103,856
 92 | nichnotnick | 1,103,821
