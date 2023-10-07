@@ -1,4 +1,4 @@
-Last updated: 23-10-07 03:18:40 UTC  
+Last updated: 23-10-07 03:30:28 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -495,10 +495,10 @@ Rank | Username | Totals Tips
 492 | degree-01 | 36,486
 493 | genesis_crazy_one | 36,237
 494 | mbashs | 36,030
-495 | SirPesoOtaku | 35,144
-496 | East_Key_5930 | 35,115
-497 | TRANZHUMANIST | 35,069
-498 | stspts | 35,046
+495 | stspts | 35,466
+496 | SirPesoOtaku | 35,144
+497 | East_Key_5930 | 35,115
+498 | TRANZHUMANIST | 35,069
 499 | Big-Researcher-3855 | 35,019
 500 | BelowAveIntelligence | 34,132
 501 | Obvious-Ask-5747 | 33,806
