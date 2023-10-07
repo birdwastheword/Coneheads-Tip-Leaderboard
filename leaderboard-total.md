@@ -1,4 +1,4 @@
-Last updated: 23-10-07 21:00:45 UTC  
+Last updated: 23-10-07 21:14:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -143,7 +143,7 @@ Rank | Username | Totals Tips
 140 | femacampcouncilor | 650,801
 141 | RazPie | 633,307
 142 | slirpo | 631,180
-143 | Bobby_Juk | 622,630
+143 | Bobby_Juk | 623,050
 144 | superlonelyboy | 611,557
 145 | Dripbot8 | 599,035
 146 | __PDS__ | 595,709
