@@ -1,8 +1,8 @@
-Last updated: 23-10-07 22:01:01 UTC  
+Last updated: 23-10-07 22:18:10 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 38,096,217
+2 | nakamo-toe | 38,098,880
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -195,7 +195,7 @@ Rank | Username | Totals Tips
 192 | x52x | 324,929
 193 | Adrewmc | 321,178
 194 | Chapo_1992 | 315,419
-195 | Lastkidpicked94 | 312,785
+195 | Lastkidpicked94 | 314,122
 196 | EffinDrongoC | 312,738
 197 | pinkglue99 | 312,265
 198 | FluffyAspie | 306,743
@@ -208,19 +208,19 @@ Rank | Username | Totals Tips
 205 | MadScientistTheFirst | 290,469
 206 | dinoyeti | 287,544
 207 | deedopete | 286,138
-208 | tjex666 | 283,221
-209 | Flimsy_Brilliant_239 | 283,107
-210 | astro_nut_ | 280,463
-211 | _Mitchee_ | 279,808
-212 | SnooMacarons9203 | 276,806
-213 | Virtual-Wrangler5955 | 274,995
-214 | Final-Scar-941 | 271,039
-215 | hey_barry | 269,698
-216 | SetoXlll | 266,136
-217 | the_judge_168 | 265,399
-218 | coolpattakers | 262,340
-219 | tmanfromEarth | 258,392
-220 | 192000Hertz | 257,234
+208 | 192000Hertz | 283,897
+209 | tjex666 | 283,221
+210 | Flimsy_Brilliant_239 | 283,107
+211 | astro_nut_ | 280,463
+212 | _Mitchee_ | 279,808
+213 | SnooMacarons9203 | 276,806
+214 | Virtual-Wrangler5955 | 274,995
+215 | Final-Scar-941 | 271,039
+216 | hey_barry | 269,698
+217 | SetoXlll | 266,136
+218 | the_judge_168 | 265,399
+219 | coolpattakers | 262,340
+220 | tmanfromEarth | 258,392
 221 | Hactar_42 | 256,832
 222 | thecrabdad | 256,177
 223 | BeardedBro_ | 252,130
