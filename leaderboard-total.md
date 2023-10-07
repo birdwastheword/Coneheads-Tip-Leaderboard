@@ -1,8 +1,8 @@
-Last updated: 23-10-07 11:50:46 UTC  
+Last updated: 23-10-07 12:07:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 37,951,046
+2 | nakamo-toe | 37,953,709
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -143,7 +143,7 @@ Rank | Username | Totals Tips
 140 | femacampcouncilor | 650,801
 141 | RazPie | 633,307
 142 | slirpo | 631,180
-143 | Bobby_Juk | 617,867
+143 | Bobby_Juk | 618,287
 144 | superlonelyboy | 611,557
 145 | Dripbot8 | 599,035
 146 | __PDS__ | 595,709
