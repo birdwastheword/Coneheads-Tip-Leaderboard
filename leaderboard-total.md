@@ -1,4 +1,4 @@
-Last updated: 23-10-07 17:42:25 UTC  
+Last updated: 23-10-07 17:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -292,7 +292,7 @@ Rank | Username | Totals Tips
 289 | Outrageous-Ad8481 | 137,001
 290 | BitCone_CONE | 135,670
 291 | MorrisWayne | 133,416
-292 | GoodMornEveGoodNight | 131,088
+292 | GoodMornEveGoodNight | 131,508
 293 | Mj_6o4 | 129,568
 294 | Awake-- | 128,173
 295 | robnectar | 127,974
@@ -561,7 +561,7 @@ Rank | Username | Totals Tips
 558 | CowDapper7867 | 25,000
 559 | 4ucklehead | 24,684
 560 | SquatAngry | 23,630
-561 | WiseDude69 | 23,414
+561 | WiseDude69 | 23,483
 562 | Mrmakanakai | 23,276
 563 | africanasshat | 23,062
 564 | tiger1647 | 23,019
