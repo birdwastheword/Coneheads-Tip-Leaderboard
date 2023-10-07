@@ -1,4 +1,4 @@
-Last updated: 23-10-07 22:50:57 UTC  
+Last updated: 23-10-07 23:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -142,8 +142,8 @@ Rank | Username | Totals Tips
 139 | MartynDr | 652,759
 140 | femacampcouncilor | 650,801
 141 | RazPie | 633,307
-142 | slirpo | 631,180
-143 | Bobby_Juk | 623,050
+142 | Bobby_Juk | 633,050
+143 | slirpo | 631,180
 144 | superlonelyboy | 611,557
 145 | Dripbot8 | 599,035
 146 | __PDS__ | 595,709
@@ -360,7 +360,7 @@ Rank | Username | Totals Tips
 357 | bvandepol | 86,258
 358 | Significant-Bet5762 | 85,616
 359 | Mother-Werewolf185 | 85,579
-360 | drche35 | 85,062
+360 | drche35 | 85,131
 361 | Puzzleheaded_Gift738 | 84,020
 362 | ad5xlh | 83,996
 363 | shellystarzz | 83,509
