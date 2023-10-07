@@ -1,8 +1,8 @@
-Last updated: 23-10-07 18:00:41 UTC  
+Last updated: 23-10-07 18:22:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 38,006,232
+2 | nakamo-toe | 38,090,891
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -14,7 +14,7 @@ Rank | Username | Totals Tips
 11 | crypto_grandma | 14,636,771
 12 | SammyCraigar | 12,558,673
 13 | HODL-THE-LINE | 12,469,181
-14 | SpookySYN | 12,393,477
+14 | SpookySYN | 12,420,107
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,881
 17 | avyun | 10,002,757
@@ -89,7 +89,7 @@ Rank | Username | Totals Tips
 86 | Hot_Potato_Salad | 1,147,558
 87 | pythonskynet | 1,147,213
 88 | beastlybaker | 1,138,701
-89 | Complete-Tadpole-728 | 1,138,029
+89 | Complete-Tadpole-728 | 1,138,449
 90 | noface_reddit | 1,114,552
 91 | Allions1 | 1,103,994
 92 | nichnotnick | 1,103,821
@@ -199,7 +199,7 @@ Rank | Username | Totals Tips
 196 | EffinDrongoC | 312,738
 197 | pinkglue99 | 312,265
 198 | FluffyAspie | 306,743
-199 | S2K08 | 305,311
+199 | S2K08 | 305,731
 200 | liwipe | 304,467
 201 | VincentVanGTFO | 300,598
 202 | legionticket | 296,054
@@ -461,8 +461,8 @@ Rank | Username | Totals Tips
 458 | Zap1324 | 44,531
 459 | Kilv3r | 44,021
 460 | ShadowKnight324 | 43,986
-461 | Coneboy2663 | 43,852
-462 | stspts | 43,553
+461 | stspts | 43,973
+462 | Coneboy2663 | 43,852
 463 | halfABsinC | 43,285
 464 | ACE415_ | 42,069
 465 | dead-spiral | 42,069
