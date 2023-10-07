@@ -1,4 +1,4 @@
-Last updated: 23-10-07 09:00:39 UTC  
+Last updated: 23-10-07 09:16:11 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 19,503,717
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
-11 | crypto_grandma | 14,620,978
+11 | crypto_grandma | 14,625,247
 12 | SammyCraigar | 12,558,673
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,393,477
@@ -190,7 +190,7 @@ Rank | Username | Totals Tips
 187 | Outrageous-Skill-464 | 344,174
 188 | anony666mous | 341,008
 189 | tsudrat | 340,707
-190 | TummyLice | 327,403
+190 | TummyLice | 327,823
 191 | maxfra | 326,334
 192 | x52x | 324,929
 193 | Adrewmc | 321,178
