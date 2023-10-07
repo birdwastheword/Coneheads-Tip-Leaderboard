@@ -1,4 +1,4 @@
-Last updated: 23-10-07 11:14:07 UTC  
+Last updated: 23-10-07 11:22:35 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -512,23 +512,23 @@ Rank | Username | Totals Tips
 509 | n00b1shm4n | 32,159
 510 | Originalibb | 32,157
 511 | BottleNcanClapUrHand | 31,984
-512 | masedogg98 | 31,547
-513 | mihii12 | 31,378
-514 | OutTop | 31,069
-515 | Jo2Bax | 31,041
-516 | riceboi3789 | 31,000
-517 | ClubbyTheCub | 30,885
-518 | rOn3OW | 30,714
-519 | 2620lukas | 30,500
-520 | -Boxen | 30,420
-521 | LoudlySoupy | 30,408
-522 | MaestroMustache | 30,152
-523 | Extension-Survey3014 | 30,000
-524 | Potential_Fix_5007 | 29,897
-525 | Practical-Store9603 | 29,691
-526 | Gilbertll | 29,585
-527 | liberovento | 29,221
-528 | Locid | 28,938
+512 | Locid | 31,601
+513 | masedogg98 | 31,547
+514 | mihii12 | 31,378
+515 | OutTop | 31,069
+516 | Jo2Bax | 31,041
+517 | riceboi3789 | 31,000
+518 | ClubbyTheCub | 30,885
+519 | rOn3OW | 30,714
+520 | 2620lukas | 30,500
+521 | -Boxen | 30,420
+522 | LoudlySoupy | 30,408
+523 | MaestroMustache | 30,152
+524 | Extension-Survey3014 | 30,000
+525 | Potential_Fix_5007 | 29,897
+526 | Practical-Store9603 | 29,691
+527 | Gilbertll | 29,585
+528 | liberovento | 29,221
 529 | bentolman | 28,891
 530 | FoleyKali | 28,843
 531 | tahiraslam8k | 28,696
