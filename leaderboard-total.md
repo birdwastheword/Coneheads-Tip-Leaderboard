@@ -1,4 +1,4 @@
-Last updated: 23-10-07 07:00:59 UTC  
+Last updated: 23-10-07 07:15:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -199,8 +199,8 @@ Rank | Username | Totals Tips
 196 | EffinDrongoC | 312,738
 197 | pinkglue99 | 312,265
 198 | FluffyAspie | 306,674
-199 | liwipe | 304,467
-200 | S2K08 | 301,342
+199 | S2K08 | 305,311
+200 | liwipe | 304,467
 201 | VincentVanGTFO | 300,598
 202 | legionticket | 296,054
 203 | send_tacoz | 293,576
