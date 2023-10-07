@@ -1,4 +1,4 @@
-Last updated: 23-10-07 10:00:57 UTC  
+Last updated: 23-10-07 10:19:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -125,7 +125,7 @@ Rank | Username | Totals Tips
 122 | dopelifer09 | 766,118
 123 | Obi1eyeKenobi | 730,328
 124 | crodbtc | 729,483
-125 | Successful-Walk-3902 | 725,027
+125 | Successful-Walk-3902 | 727,967
 126 | frickdom | 716,393
 127 | starterpack420694 | 710,420
 128 | WarmIyWacky | 703,049
