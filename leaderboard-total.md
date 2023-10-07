@@ -1,4 +1,4 @@
-Last updated: 23-10-07 07:50:36 UTC  
+Last updated: 23-10-07 08:01:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 19,503,717
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
-11 | crypto_grandma | 14,611,373
+11 | crypto_grandma | 14,614,036
 12 | SammyCraigar | 12,558,673
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,393,477
@@ -577,8 +577,8 @@ Rank | Username | Totals Tips
 574 | Tasty_Bag | 21,384
 575 | ipad_daps | 21,140
 576 | RamboBalboa21 | 21,083
-577 | shootingeagleyt | 20,611
-578 | amnotmethenwho | 20,417
+577 | amnotmethenwho | 21,025
+578 | shootingeagleyt | 20,611
 579 | DLPD-Camko | 20,377
 580 | Bear-Bull-Pig | 20,231
 581 | megabeth33 | 20,152
