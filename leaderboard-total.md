@@ -1,4 +1,4 @@
-Last updated: 23-10-07 00:24:02 UTC  
+Last updated: 23-10-07 01:29:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -17,7 +17,7 @@ Rank | Username | Totals Tips
 14 | SpookySYN | 12,393,477
 15 | Parush9 | 12,308,899
 16 | Permanent_WSB_Bull | 11,206,881
-17 | avyun | 10,001,957
+17 | avyun | 10,002,019
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
 20 | Geniuskills | 8,164,883
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | VIVOffical | 6,481,131
 27 | HippieStarTraveler | 6,264,368
 28 | IveDoneItAtLast | 5,946,201
-29 | thelonliestcrowd | 5,771,828
+29 | thelonliestcrowd | 5,774,491
 30 | Ginomania | 5,747,134
 31 | send420nudes | 5,626,306
 32 | GuyOne | 5,231,964
@@ -132,13 +132,13 @@ Rank | Username | Totals Tips
 129 | Starterpack69420 | 696,969
 130 | abracadabra087 | 694,465
 131 | firstmatedotxyz | 688,743
-132 | MorrisBrett514 | 681,526
+132 | MorrisBrett514 | 682,366
 133 | WhateverAlready | 680,371
 134 | Duskopia | 680,133
 135 | Due_Insurance8159 | 678,620
 136 | SKITZ_ZA | 676,057
 137 | piebagz | 661,815
-138 | junkwatch | 658,738
+138 | junkwatch | 658,807
 139 | MartynDr | 652,759
 140 | femacampcouncilor | 650,801
 141 | RazPie | 633,307
@@ -158,12 +158,12 @@ Rank | Username | Totals Tips
 155 | TubeNerd92 | 538,249
 156 | shreyaskg | 538,211
 157 | doktastonks | 536,651
-158 | Crypto-4-Freedom | 525,411
+158 | Crypto-4-Freedom | 525,831
 159 | fettskull | 520,799
 160 | rolonic | 516,797
 161 | f0n1xr131ng | 509,681
 162 | AcceptableLeg8751 | 500,000
-163 | stockyewok | 491,842
+163 | stockyewok | 492,262
 164 | DAMG808 | 483,095
 165 | Lady_Lucks_Man | 482,403
 166 | sinlesco | 465,153
@@ -230,8 +230,8 @@ Rank | Username | Totals Tips
 227 | thestonkinator | 249,330
 228 | Gregoryonetulum | 249,309
 229 | Truffle_Shuffle_85 | 246,630
-230 | Significant_Talk4943 | 243,839
-231 | joeviani | 241,717
+230 | joeviani | 245,077
+231 | Significant_Talk4943 | 243,839
 232 | MuhSound | 236,752
 233 | Zalkwalker | 235,069
 234 | Conetent | 234,739
