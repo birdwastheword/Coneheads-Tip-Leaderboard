@@ -1,8 +1,8 @@
-Last updated: 23-10-08 16:40:43 UTC  
+Last updated: 23-10-08 16:50:40 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 38,208,023
+2 | nakamo-toe | 38,224,716
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -293,7 +293,7 @@ Rank | Username | Totals Tips
 290 | BitCone_CONE | 135,670
 291 | MorrisWayne | 133,416
 292 | GoodMornEveGoodNight | 131,508
-293 | Ronitn | 129,655
+293 | Ronitn | 130,075
 294 | Mj_6o4 | 129,568
 295 | Awake-- | 128,173
 296 | robnectar | 127,974
