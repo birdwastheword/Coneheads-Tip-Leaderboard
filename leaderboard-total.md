@@ -1,4 +1,4 @@
-Last updated: 23-10-08 19:30:44 UTC  
+Last updated: 23-10-08 19:40:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -85,8 +85,8 @@ Rank | Username | Totals Tips
 82 | revdrgonzo | 1,246,055
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
-85 | Feetfailmenot | 1,170,705
-86 | Complete-Tadpole-728 | 1,169,719
+85 | Complete-Tadpole-728 | 1,172,382
+86 | Feetfailmenot | 1,170,705
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
 89 | beastlybaker | 1,138,701
