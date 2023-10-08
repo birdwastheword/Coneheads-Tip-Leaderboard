@@ -1,4 +1,4 @@
-Last updated: 23-10-08 09:33:12 UTC  
+Last updated: 23-10-08 09:41:23 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -23,7 +23,7 @@ Rank | Username | Totals Tips
 20 | Geniuskills | 8,164,883
 21 | Homeslicekilla | 7,998,462
 22 | Puddin-Luv | 7,547,294
-23 | Skank_cunt_42 | 7,275,759
+23 | Skank_cunt_42 | 7,276,367
 24 | ashinamune | 6,783,111
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,487,018
