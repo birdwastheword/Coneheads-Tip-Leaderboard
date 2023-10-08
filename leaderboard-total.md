@@ -1,4 +1,4 @@
-Last updated: 23-10-08 22:17:53 UTC  
+Last updated: 23-10-08 22:30:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -563,7 +563,7 @@ Rank | Username | Totals Tips
 560 | CowDapper7867 | 25,000
 561 | 4ucklehead | 24,684
 562 | Mrmakanakai | 24,587
-563 | amnotmethenwho | 23,819
+563 | amnotmethenwho | 24,239
 564 | SquatAngry | 23,630
 565 | WiseDude69 | 23,483
 566 | tiger1647 | 23,439
