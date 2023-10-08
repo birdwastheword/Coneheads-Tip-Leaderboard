@@ -1,4 +1,4 @@
-Last updated: 23-10-08 03:40:30 UTC  
+Last updated: 23-10-08 03:50:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | LongCauliflower6791 | 1,872,970
 67 | jimfird | 1,850,236
 68 | Lillica_Golden_SHIB | 1,846,953
-69 | Own_Ad_4269 | 1,832,909
+69 | Own_Ad_4269 | 1,836,452
 70 | dealkhabari | 1,767,162
 71 | KONGXIANG | 1,718,942
 72 | Iulian_TechNewb | 1,717,286
@@ -110,7 +110,7 @@ Rank | Username | Totals Tips
 107 | PortCity_MadMan | 914,771
 108 | Modestexcuse | 903,684
 109 | thee_monster | 896,765
-110 | Westy3000 | 895,630
+110 | Westy3000 | 895,852
 111 | DogSpark84 | 872,837
 112 | Bobisdeadrun | 869,016
 113 | orangesandonions | 859,682
@@ -280,7 +280,7 @@ Rank | Username | Totals Tips
 277 | satoshi_oscar_wilde | 150,078
 278 | BitcoinRefuge | 148,181
 279 | jamjam794 | 147,342
-280 | Doovs | 143,983
+280 | Doovs | 144,591
 281 | Sad_Entertainer9961 | 143,248
 282 | Legal-Appointment655 | 142,592
 283 | Kevin3683 | 140,390
@@ -497,9 +497,9 @@ Rank | Username | Totals Tips
 494 | degree-01 | 36,486
 495 | genesis_crazy_one | 36,237
 496 | mbashs | 36,030
-497 | SirPesoOtaku | 35,144
-498 | Big-Researcher-3855 | 35,088
-499 | TRANZHUMANIST | 35,069
+497 | TRANZHUMANIST | 35,192
+498 | SirPesoOtaku | 35,144
+499 | Big-Researcher-3855 | 35,088
 500 | BelowAveIntelligence | 34,132
 501 | Obvious-Ask-5747 | 33,806
 502 | PoDunkYuppie | 33,513
@@ -686,12 +686,12 @@ Rank | Username | Totals Tips
 683 | ancheli | 10,588
 684 | Straton_Conemont_Inc | 10,550
 685 | Background-Ad-2102 | 10,450
-686 | 73i1 | 10,412
-687 | Gamestopisthe1 | 10,227
-688 | z6joker9 | 10,000
-689 | Consistent_Air_7646 | 10,000
-690 | xMikaRikax | 10,000
-691 | LordCitrus69 | 10,000
+686 | LordCitrus69 | 10,420
+687 | 73i1 | 10,412
+688 | Gamestopisthe1 | 10,227
+689 | z6joker9 | 10,000
+690 | Consistent_Air_7646 | 10,000
+691 | xMikaRikax | 10,000
 692 | No-Confusion7414 | 9,959
 693 | doctorwho_cares | 9,947
 694 | boopcorgi | 9,923
