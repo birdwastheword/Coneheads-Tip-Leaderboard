@@ -1,4 +1,4 @@
-Last updated: 23-10-08 13:31:03 UTC  
+Last updated: 23-10-08 13:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -31,7 +31,7 @@ Rank | Username | Totals Tips
 28 | IveDoneItAtLast | 5,977,019
 29 | thelonliestcrowd | 5,801,128
 30 | Ginomania | 5,747,134
-31 | send420nudes | 5,626,306
+31 | send420nudes | 5,630,575
 32 | GuyOne | 5,232,572
 33 | DontLaughArt | 4,824,283
 34 | redzrex | 4,582,013
@@ -139,7 +139,7 @@ Rank | Username | Totals Tips
 136 | Due_Insurance8159 | 678,620
 137 | SKITZ_ZA | 676,057
 138 | piebagz | 661,815
-139 | junkwatch | 659,647
+139 | junkwatch | 659,716
 140 | MartynDr | 653,179
 141 | femacampcouncilor | 650,801
 142 | Bobby_Juk | 633,890
