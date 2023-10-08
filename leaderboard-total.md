@@ -1,4 +1,4 @@
-Last updated: 23-10-08 09:41:23 UTC  
+Last updated: 23-10-08 09:50:31 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -205,8 +205,8 @@ Rank | Username | Totals Tips
 202 | legionticket | 296,054
 203 | OniCowboy | 295,257
 204 | send_tacoz | 293,576
-205 | MadScientistTheFirst | 290,469
-206 | dinoyeti | 287,544
+205 | dinoyeti | 292,544
+206 | MadScientistTheFirst | 290,469
 207 | deedopete | 286,138
 208 | 192000Hertz | 283,897
 209 | tjex666 | 283,221
