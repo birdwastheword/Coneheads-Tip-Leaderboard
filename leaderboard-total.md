@@ -1,12 +1,12 @@
-Last updated: 23-10-08 16:50:40 UTC  
+Last updated: 23-10-08 17:00:50 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 38,224,716
+2 | nakamo-toe | 38,230,042
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
-6 | Jeff5704 | 29,524,819
+6 | Jeff5704 | 29,551,456
 7 | rickribera93 | 28,396,729
 8 | _ships | 19,505,131
 9 | ConeDesk | 17,947,653
@@ -43,8 +43,8 @@ Rank | Username | Totals Tips
 40 | thom_orrow | 3,749,970
 41 | clean_cut89 | 3,737,311
 42 | bray_martin03 | 3,510,891
-43 | LuminousViper | 3,485,055
-44 | ZukoBih | 3,482,050
+43 | ZukoBih | 3,492,050
+44 | LuminousViper | 3,485,055
 45 | Korean_Street_Pizza | 3,479,761
 46 | LordBobTheWhale | 3,346,151
 47 | evilninjarobot | 3,208,037
