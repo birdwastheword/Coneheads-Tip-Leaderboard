@@ -1,4 +1,4 @@
-Last updated: 23-10-08 00:26:50 UTC  
+Last updated: 23-10-08 01:37:24 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
 11 | crypto_grandma | 14,636,771
-12 | SammyCraigar | 12,558,673
+12 | SammyCraigar | 12,561,336
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,420,107
 15 | Parush9 | 12,308,899
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,487,018
 27 | HippieStarTraveler | 6,264,368
-28 | IveDoneItAtLast | 5,974,356
+28 | IveDoneItAtLast | 5,977,019
 29 | thelonliestcrowd | 5,774,491
 30 | Ginomania | 5,747,134
 31 | send420nudes | 5,626,306
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | LongCauliflower6791 | 1,872,970
 67 | jimfird | 1,850,236
 68 | Lillica_Golden_SHIB | 1,846,953
-69 | Own_Ad_4269 | 1,811,499
+69 | Own_Ad_4269 | 1,818,896
 70 | dealkhabari | 1,767,162
 71 | KONGXIANG | 1,718,942
 72 | Iulian_TechNewb | 1,717,286
@@ -86,7 +86,7 @@ Rank | Username | Totals Tips
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
 85 | Feetfailmenot | 1,170,705
-86 | Complete-Tadpole-728 | 1,156,804
+86 | Complete-Tadpole-728 | 1,162,224
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
 89 | beastlybaker | 1,138,701
@@ -107,14 +107,14 @@ Rank | Username | Totals Tips
 104 | CHEROKEEJ4CK | 940,286
 105 | formidable-opponent | 935,692
 106 | Forward_Today2849 | 932,405
-107 | Modestexcuse | 903,684
-108 | thee_monster | 896,765
-109 | Westy3000 | 894,298
-110 | PortCity_MadMan | 888,141
+107 | PortCity_MadMan | 914,771
+108 | Modestexcuse | 903,684
+109 | thee_monster | 896,765
+110 | Westy3000 | 894,298
 111 | DogSpark84 | 872,837
 112 | Bobisdeadrun | 869,016
 113 | orangesandonions | 859,682
-114 | adrifing | 848,870
+114 | adrifing | 849,290
 115 | AustinTX1985 | 821,526
 116 | goldyluckinblokchain | 809,537
 117 | RegalReptile_ | 807,654
@@ -498,8 +498,8 @@ Rank | Username | Totals Tips
 495 | genesis_crazy_one | 36,237
 496 | mbashs | 36,030
 497 | SirPesoOtaku | 35,144
-498 | TRANZHUMANIST | 35,069
-499 | Big-Researcher-3855 | 35,019
+498 | Big-Researcher-3855 | 35,088
+499 | TRANZHUMANIST | 35,069
 500 | BelowAveIntelligence | 34,132
 501 | Obvious-Ask-5747 | 33,806
 502 | PoDunkYuppie | 33,513
@@ -574,10 +574,10 @@ Rank | Username | Totals Tips
 571 | beejbum | 22,200
 572 | Matth3w_95 | 21,820
 573 | Flamingo777 | 21,719
-574 | Tasty_Bag | 21,384
-575 | ipad_daps | 21,140
-576 | RamboBalboa21 | 21,083
-577 | amnotmethenwho | 21,063
+574 | amnotmethenwho | 21,483
+575 | Tasty_Bag | 21,384
+576 | ipad_daps | 21,140
+577 | RamboBalboa21 | 21,083
 578 | shootingeagleyt | 20,611
 579 | DLPD-Camko | 20,377
 580 | Bear-Bull-Pig | 20,231
