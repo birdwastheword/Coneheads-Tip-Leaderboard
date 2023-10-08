@@ -1,4 +1,4 @@
-Last updated: 23-10-08 17:51:31 UTC  
+Last updated: 23-10-08 18:01:02 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -81,7 +81,7 @@ Rank | Username | Totals Tips
 78 | YarOldeOrchard | 1,438,286
 79 | isthistomorrow_ | 1,383,798
 80 | Extreme_Issue7325 | 1,345,890
-81 | saintajoras | 1,308,572
+81 | saintajoras | 1,309,281
 82 | revdrgonzo | 1,246,055
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
@@ -331,7 +331,7 @@ Rank | Username | Totals Tips
 328 | deathtr0 | 104,641
 329 | Emeritux | 103,784
 330 | Chill_Edoeard | 102,923
-331 | XeroGrave | 100,479
+331 | XeroGrave | 100,899
 332 | ACorDC | 100,420
 333 | IHodlStill | 98,685
 334 | FeetAndHandFetish | 98,146
