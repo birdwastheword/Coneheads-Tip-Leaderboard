@@ -1,8 +1,8 @@
-Last updated: 23-10-08 03:50:31 UTC  
+Last updated: 23-10-08 04:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 38,135,822
+2 | nakamo-toe | 38,138,485
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -45,7 +45,7 @@ Rank | Username | Totals Tips
 42 | bray_martin03 | 3,510,891
 43 | LuminousViper | 3,482,392
 44 | ZukoBih | 3,482,050
-45 | Korean_Street_Pizza | 3,479,341
+45 | Korean_Street_Pizza | 3,479,761
 46 | LordBobTheWhale | 3,345,543
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
@@ -69,7 +69,7 @@ Rank | Username | Totals Tips
 66 | LongCauliflower6791 | 1,872,970
 67 | jimfird | 1,850,236
 68 | Lillica_Golden_SHIB | 1,846,953
-69 | Own_Ad_4269 | 1,836,452
+69 | Own_Ad_4269 | 1,839,480
 70 | dealkhabari | 1,767,162
 71 | KONGXIANG | 1,718,942
 72 | Iulian_TechNewb | 1,717,286
@@ -268,9 +268,9 @@ Rank | Username | Totals Tips
 265 | YourThighsWarmMyEars | 172,697
 266 | Street_Addd | 171,939
 267 | MymannosaurusRex | 171,737
-268 | MelonFarmer420 | 167,136
-269 | DamnWhySoLow | 166,675
-270 | wato4000 | 165,499
+268 | wato4000 | 168,162
+269 | MelonFarmer420 | 167,136
+270 | DamnWhySoLow | 166,675
 271 | Clonkerz | 158,075
 272 | SandersIncBV | 156,962
 273 | martymartinator | 155,223
