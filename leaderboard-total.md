@@ -1,4 +1,4 @@
-Last updated: 23-10-08 05:30:32 UTC  
+Last updated: 23-10-08 05:40:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -56,7 +56,7 @@ Rank | Username | Totals Tips
 53 | ZoomLong | 2,641,251
 54 | _Royal_Insylum | 2,603,787
 55 | possibili-teas | 2,412,515
-56 | Richicash | 2,281,863
+56 | Richicash | 2,291,863
 57 | Autom4tic_Soze | 2,244,281
 58 | 0-Give-a-fucks | 2,103,672
 59 | 002_timmy | 2,068,192
@@ -488,7 +488,7 @@ Rank | Username | Totals Tips
 485 | lovenets_ | 38,182
 486 | rowdy1212 | 38,129
 487 | samer109 | 38,042
-488 | East_Key_5930 | 37,778
+488 | East_Key_5930 | 37,901
 489 | onetrueSage | 37,633
 490 | shitwhenismycakeday | 37,409
 491 | redditisalt | 37,307
@@ -497,9 +497,9 @@ Rank | Username | Totals Tips
 494 | degree-01 | 36,486
 495 | genesis_crazy_one | 36,237
 496 | mbashs | 36,030
-497 | TRANZHUMANIST | 35,192
-498 | SirPesoOtaku | 35,144
-499 | Big-Researcher-3855 | 35,088
+497 | Big-Researcher-3855 | 35,657
+498 | TRANZHUMANIST | 35,192
+499 | SirPesoOtaku | 35,144
 500 | BelowAveIntelligence | 34,132
 501 | Obvious-Ask-5747 | 33,806
 502 | PoDunkYuppie | 33,513
