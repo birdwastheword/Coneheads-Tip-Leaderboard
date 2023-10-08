@@ -1,4 +1,4 @@
-Last updated: 23-10-08 15:51:06 UTC  
+Last updated: 23-10-08 16:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -230,8 +230,8 @@ Rank | Username | Totals Tips
 227 | thestonkinator | 249,330
 228 | Gregoryonetulum | 249,309
 229 | Truffle_Shuffle_85 | 246,630
-230 | joeviani | 245,917
-231 | Significant_Talk4943 | 245,679
+230 | Significant_Talk4943 | 246,099
+231 | joeviani | 245,917
 232 | MuhSound | 237,172
 233 | Conetent | 235,159
 234 | Zalkwalker | 235,069
@@ -447,7 +447,7 @@ Rank | Username | Totals Tips
 444 | Rbmui13 | 49,605
 445 | sicilian2124 | 49,529
 446 | Levl1Critter | 49,152
-447 | FalloutAssasin | 47,552
+447 | FalloutAssasin | 47,972
 448 | Cyber-Cafe | 47,247
 449 | kanem87 | 47,135
 450 | shredslanding | 46,650
