@@ -1,4 +1,4 @@
-Last updated: 23-10-08 08:00:51 UTC  
+Last updated: 23-10-08 08:21:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -64,7 +64,7 @@ Rank | Username | Totals Tips
 61 | Affectionate_Hand_76 | 1,980,036
 62 | swampyswede | 1,957,496
 63 | catlover-100 | 1,931,330
-64 | djrcollectables | 1,915,314
+64 | djrcollectables | 1,917,977
 65 | Mundane-Farm-4117 | 1,876,713
 66 | LongCauliflower6791 | 1,872,970
 67 | jimfird | 1,850,236
@@ -86,7 +86,7 @@ Rank | Username | Totals Tips
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
 85 | Feetfailmenot | 1,170,705
-86 | Complete-Tadpole-728 | 1,168,459
+86 | Complete-Tadpole-728 | 1,168,879
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
 89 | beastlybaker | 1,138,701
@@ -140,7 +140,7 @@ Rank | Username | Totals Tips
 137 | SKITZ_ZA | 676,057
 138 | piebagz | 661,815
 139 | junkwatch | 659,227
-140 | MartynDr | 652,759
+140 | MartynDr | 653,179
 141 | femacampcouncilor | 650,801
 142 | RazPie | 633,307
 143 | Bobby_Juk | 633,050
@@ -665,13 +665,13 @@ Rank | Username | Totals Tips
 662 | bageren | 12,038
 663 | Weezthajuice | 12,007
 664 | gnarlypoop | 11,924
-665 | charlythesecond | 11,794
-666 | Hofmaurerad | 11,711
-667 | allisonovo | 11,679
-668 | masstransience | 11,623
-669 | reddit_saltyaf | 11,603
-670 | IndependenceHungry69 | 11,561
-671 | RedditReader825 | 11,426
+665 | RedditReader825 | 11,846
+666 | charlythesecond | 11,794
+667 | Hofmaurerad | 11,711
+668 | allisonovo | 11,679
+669 | masstransience | 11,623
+670 | reddit_saltyaf | 11,603
+671 | IndependenceHungry69 | 11,561
 672 | Fit_Win_541 | 11,327
 673 | Most_Border_3917 | 11,129
 674 | xllw | 11,123
