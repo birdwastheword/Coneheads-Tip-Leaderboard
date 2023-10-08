@@ -1,4 +1,4 @@
-Last updated: 23-10-08 10:50:57 UTC  
+Last updated: 23-10-08 11:00:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -236,9 +236,9 @@ Rank | Username | Totals Tips
 233 | Conetent | 235,159
 234 | Zalkwalker | 235,069
 235 | alexthemay | 234,131
-236 | CoverYourMaskHoles | 229,708
-237 | ShortBusCult | 228,485
-238 | SaberTurret | 227,189
+236 | SaberTurret | 229,852
+237 | CoverYourMaskHoles | 229,708
+238 | ShortBusCult | 228,485
 239 | Ashamed_Raccoon9918 | 225,537
 240 | SourBeefHoop | 217,512
 241 | yahuurdme | 215,394
@@ -339,7 +339,7 @@ Rank | Username | Totals Tips
 336 | IOTA_Tesla | 96,607
 337 | RollingSkull0 | 95,883
 338 | BrendanTFirefly | 95,347
-339 | AhhhUhmmm | 95,250
+339 | AhhhUhmmm | 95,319
 340 | Arvalll | 94,992
 341 | wolfman333 | 93,986
 342 | kwickle | 93,305
