@@ -1,4 +1,4 @@
-Last updated: 23-10-08 07:01:01 UTC  
+Last updated: 23-10-08 07:15:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -464,7 +464,7 @@ Rank | Username | Totals Tips
 461 | ShadowKnight324 | 43,986
 462 | Coneboy2663 | 43,852
 463 | halfABsinC | 43,285
-464 | ACE415_ | 42,069
+464 | ACE415_ | 42,489
 465 | dead-spiral | 42,069
 466 | Expensive_Being_4038 | 41,881
 467 | PushyDevoIution | 41,695
