@@ -1,4 +1,4 @@
-Last updated: 23-10-08 22:00:57 UTC  
+Last updated: 23-10-08 22:17:53 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -85,7 +85,7 @@ Rank | Username | Totals Tips
 82 | revdrgonzo | 1,246,055
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
-85 | Complete-Tadpole-728 | 1,175,045
+85 | Complete-Tadpole-728 | 1,175,465
 86 | Feetfailmenot | 1,170,705
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | Forward_Today2849 | 932,405
 107 | PortCity_MadMan | 914,771
 108 | Modestexcuse | 903,684
-109 | Westy3000 | 897,406
+109 | Westy3000 | 898,960
 110 | thee_monster | 896,765
 111 | DogSpark84 | 872,837
 112 | Bobisdeadrun | 869,016
@@ -447,9 +447,9 @@ Rank | Username | Totals Tips
 444 | Rbmui13 | 49,605
 445 | sicilian2124 | 49,529
 446 | Levl1Critter | 49,152
-447 | FalloutAssasin | 47,972
-448 | Cyber-Cafe | 47,247
-449 | kanem87 | 47,135
+447 | kanem87 | 49,122
+448 | FalloutAssasin | 47,972
+449 | Cyber-Cafe | 47,247
 450 | shredslanding | 46,650
 451 | stspts | 46,636
 452 | Oue | 46,352
