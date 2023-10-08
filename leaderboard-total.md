@@ -1,4 +1,4 @@
-Last updated: 23-10-08 21:50:38 UTC  
+Last updated: 23-10-08 22:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -109,8 +109,8 @@ Rank | Username | Totals Tips
 106 | Forward_Today2849 | 932,405
 107 | PortCity_MadMan | 914,771
 108 | Modestexcuse | 903,684
-109 | thee_monster | 896,765
-110 | Westy3000 | 896,074
+109 | Westy3000 | 897,406
+110 | thee_monster | 896,765
 111 | DogSpark84 | 872,837
 112 | Bobisdeadrun | 869,016
 113 | orangesandonions | 859,682
