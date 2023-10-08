@@ -1,4 +1,4 @@
-Last updated: 23-10-08 09:00:50 UTC  
+Last updated: 23-10-08 09:16:18 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -55,7 +55,7 @@ Rank | Username | Totals Tips
 52 | ImAlekBan | 2,648,564
 53 | ZoomLong | 2,641,251
 54 | _Royal_Insylum | 2,603,787
-55 | possibili-teas | 2,412,515
+55 | possibili-teas | 2,413,515
 56 | Richicash | 2,291,863
 57 | Autom4tic_Soze | 2,244,281
 58 | 0-Give-a-fucks | 2,103,672
@@ -86,12 +86,12 @@ Rank | Username | Totals Tips
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
 85 | Feetfailmenot | 1,170,705
-86 | Complete-Tadpole-728 | 1,168,879
+86 | Complete-Tadpole-728 | 1,169,299
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
 89 | beastlybaker | 1,138,701
 90 | noface_reddit | 1,114,552
-91 | Allions1 | 1,103,994
+91 | Allions1 | 1,106,657
 92 | nichnotnick | 1,103,821
 93 | UniversalNoobMaster | 1,071,789
 94 | ID404_Not_Found_8964 | 1,066,725
