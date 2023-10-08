@@ -1,4 +1,4 @@
-Last updated: 23-10-08 16:32:15 UTC  
+Last updated: 23-10-08 16:40:43 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -293,12 +293,12 @@ Rank | Username | Totals Tips
 290 | BitCone_CONE | 135,670
 291 | MorrisWayne | 133,416
 292 | GoodMornEveGoodNight | 131,508
-293 | Mj_6o4 | 129,568
-294 | Awake-- | 128,173
-295 | robnectar | 127,974
-296 | DeanDeanington | 127,267
-297 | CalligrapherEnough83 | 127,227
-298 | Ronitn | 126,992
+293 | Ronitn | 129,655
+294 | Mj_6o4 | 129,568
+295 | Awake-- | 128,173
+296 | robnectar | 127,974
+297 | DeanDeanington | 127,267
+298 | CalligrapherEnough83 | 127,227
 299 | customsolitaires | 126,953
 300 | beanwiggin420 | 126,135
 301 | Trakorr | 125,110
