@@ -1,4 +1,4 @@
-Last updated: 23-10-08 10:19:30 UTC  
+Last updated: 23-10-08 10:30:38 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -93,15 +93,15 @@ Rank | Username | Totals Tips
 90 | noface_reddit | 1,114,552
 91 | Allions1 | 1,106,657
 92 | nichnotnick | 1,103,821
-93 | UniversalNoobMaster | 1,071,789
-94 | ID404_Not_Found_8964 | 1,066,725
-95 | ashketchup422 | 1,042,067
-96 | freechickens | 1,028,524
-97 | avatarbot | 1,027,000
-98 | LimpPeanut5633 | 1,010,654
-99 | CluelessSurvivor | 1,009,516
-100 | WarmBiertje | 1,000,000
-101 | virmamies | 992,771
+93 | virmamies | 1,092,771
+94 | UniversalNoobMaster | 1,071,789
+95 | ID404_Not_Found_8964 | 1,066,725
+96 | ashketchup422 | 1,042,067
+97 | freechickens | 1,028,524
+98 | avatarbot | 1,027,000
+99 | LimpPeanut5633 | 1,010,654
+100 | CluelessSurvivor | 1,009,516
+101 | WarmBiertje | 1,000,000
 102 | Alanski22 | 989,766
 103 | EvanIsBacon | 970,416
 104 | CHEROKEEJ4CK | 940,286
