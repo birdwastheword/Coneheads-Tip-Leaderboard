@@ -1,4 +1,4 @@
-Last updated: 23-10-08 05:50:36 UTC  
+Last updated: 23-10-08 06:00:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -86,7 +86,7 @@ Rank | Username | Totals Tips
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
 85 | Feetfailmenot | 1,170,705
-86 | Complete-Tadpole-728 | 1,167,970
+86 | Complete-Tadpole-728 | 1,168,039
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
 89 | beastlybaker | 1,138,701
@@ -223,10 +223,10 @@ Rank | Username | Totals Tips
 220 | tmanfromEarth | 258,392
 221 | Hactar_42 | 256,832
 222 | thecrabdad | 256,177
-223 | BeardedBro_ | 252,130
-224 | Ambitious-Minimum-80 | 252,035
-225 | Sattack4000 | 250,837
-226 | 4gsboofd | 249,703
+223 | 4gsboofd | 252,366
+224 | BeardedBro_ | 252,130
+225 | Ambitious-Minimum-80 | 252,035
+226 | Sattack4000 | 250,837
 227 | thestonkinator | 249,330
 228 | Gregoryonetulum | 249,309
 229 | Truffle_Shuffle_85 | 246,630
@@ -335,8 +335,8 @@ Rank | Username | Totals Tips
 332 | IHodlStill | 98,685
 333 | FeetAndHandFetish | 98,146
 334 | Knaeggebrott | 97,076
-335 | IOTA_Tesla | 96,607
-336 | CrossPuffs | 96,261
+335 | CrossPuffs | 96,681
+336 | IOTA_Tesla | 96,607
 337 | RollingSkull0 | 95,883
 338 | BrendanTFirefly | 95,347
 339 | AhhhUhmmm | 95,250
