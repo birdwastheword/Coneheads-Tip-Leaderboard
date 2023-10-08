@@ -1,4 +1,4 @@
-Last updated: 23-10-08 16:22:46 UTC  
+Last updated: 23-10-08 16:32:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,487,018
 27 | HippieStarTraveler | 6,264,437
-28 | IveDoneItAtLast | 5,988,063
+28 | IveDoneItAtLast | 5,990,726
 29 | thelonliestcrowd | 5,801,128
 30 | Ginomania | 5,747,134
 31 | send420nudes | 5,630,575
@@ -298,8 +298,8 @@ Rank | Username | Totals Tips
 295 | robnectar | 127,974
 296 | DeanDeanington | 127,267
 297 | CalligrapherEnough83 | 127,227
-298 | customsolitaires | 126,953
-299 | Ronitn | 126,572
+298 | Ronitn | 126,992
+299 | customsolitaires | 126,953
 300 | beanwiggin420 | 126,135
 301 | Trakorr | 125,110
 302 | stupidcupid112 | 121,841
