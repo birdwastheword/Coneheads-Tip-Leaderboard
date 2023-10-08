@@ -1,4 +1,4 @@
-Last updated: 23-10-08 22:30:47 UTC  
+Last updated: 23-10-08 22:40:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,487,018
 27 | HippieStarTraveler | 6,264,575
-28 | IveDoneItAtLast | 5,994,237
+28 | IveDoneItAtLast | 5,994,306
 29 | thelonliestcrowd | 5,801,128
 30 | Ginomania | 5,747,134
 31 | send420nudes | 5,630,575
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | Forward_Today2849 | 932,405
 107 | PortCity_MadMan | 914,771
 108 | Modestexcuse | 903,684
-109 | Westy3000 | 898,960
+109 | Westy3000 | 899,182
 110 | thee_monster | 896,765
 111 | DogSpark84 | 872,837
 112 | Bobisdeadrun | 869,016
@@ -190,7 +190,7 @@ Rank | Username | Totals Tips
 187 | Outrageous-Skill-464 | 344,174
 188 | anony666mous | 341,008
 189 | tsudrat | 340,707
-190 | TummyLice | 327,827
+190 | TummyLice | 328,493
 191 | maxfra | 326,334
 192 | x52x | 324,929
 193 | Adrewmc | 321,178
