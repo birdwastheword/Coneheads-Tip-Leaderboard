@@ -1,4 +1,4 @@
-Last updated: 23-10-08 14:00:49 UTC  
+Last updated: 23-10-08 14:16:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -28,7 +28,7 @@ Rank | Username | Totals Tips
 25 | Real_Player_0 | 6,599,143
 26 | VIVOffical | 6,487,018
 27 | HippieStarTraveler | 6,264,437
-28 | IveDoneItAtLast | 5,977,627
+28 | IveDoneItAtLast | 5,980,290
 29 | thelonliestcrowd | 5,801,128
 30 | Ginomania | 5,747,134
 31 | send420nudes | 5,630,575
@@ -56,7 +56,7 @@ Rank | Username | Totals Tips
 53 | ZoomLong | 2,641,251
 54 | _Royal_Insylum | 2,603,787
 55 | possibili-teas | 2,413,515
-56 | Richicash | 2,291,863
+56 | Richicash | 2,296,863
 57 | Autom4tic_Soze | 2,244,281
 58 | 0-Give-a-fucks | 2,103,672
 59 | 002_timmy | 2,068,192
