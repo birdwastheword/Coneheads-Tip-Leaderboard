@@ -1,4 +1,4 @@
-Last updated: 23-10-08 04:30:53 UTC  
+Last updated: 23-10-08 04:40:29 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -165,7 +165,7 @@ Rank | Username | Totals Tips
 162 | AcceptableLeg8751 | 500,000
 163 | stockyewok | 492,682
 164 | DAMG808 | 483,095
-165 | Lady_Lucks_Man | 482,403
+165 | Lady_Lucks_Man | 483,011
 166 | sinlesco | 465,153
 167 | WarmlyWacky | 462,118
 168 | Overall-Extension608 | 456,611
@@ -190,7 +190,7 @@ Rank | Username | Totals Tips
 187 | Outrageous-Skill-464 | 344,174
 188 | anony666mous | 341,008
 189 | tsudrat | 340,707
-190 | TummyLice | 327,823
+190 | TummyLice | 327,827
 191 | maxfra | 326,334
 192 | x52x | 324,929
 193 | Adrewmc | 321,178
