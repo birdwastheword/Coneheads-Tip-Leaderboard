@@ -1,4 +1,4 @@
-Last updated: 23-10-08 18:01:02 UTC  
+Last updated: 23-10-08 18:22:37 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -16,7 +16,7 @@ Rank | Username | Totals Tips
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,420,107
 15 | Parush9 | 12,308,899
-16 | Permanent_WSB_Bull | 11,206,881
+16 | Permanent_WSB_Bull | 11,217,881
 17 | avyun | 10,002,757
 18 | 8inchConer | 8,948,039
 19 | ArtConsitent | 8,827,674
@@ -159,7 +159,7 @@ Rank | Username | Totals Tips
 156 | shreyaskg | 538,211
 157 | doktastonks | 536,651
 158 | Crypto-4-Freedom | 526,671
-159 | fettskull | 523,462
+159 | fettskull | 526,125
 160 | rolonic | 517,217
 161 | f0n1xr131ng | 509,681
 162 | AcceptableLeg8751 | 500,000
