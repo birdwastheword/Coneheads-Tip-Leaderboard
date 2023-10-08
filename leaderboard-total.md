@@ -1,4 +1,4 @@
-Last updated: 23-10-08 11:50:32 UTC  
+Last updated: 23-10-08 12:07:45 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -46,7 +46,7 @@ Rank | Username | Totals Tips
 43 | LuminousViper | 3,482,392
 44 | ZukoBih | 3,482,050
 45 | Korean_Street_Pizza | 3,479,761
-46 | LordBobTheWhale | 3,345,543
+46 | LordBobTheWhale | 3,346,151
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
 49 | CMDRGlamdring | 2,900,073
@@ -231,7 +231,7 @@ Rank | Username | Totals Tips
 228 | Gregoryonetulum | 249,309
 229 | Truffle_Shuffle_85 | 246,630
 230 | joeviani | 245,917
-231 | Significant_Talk4943 | 244,259
+231 | Significant_Talk4943 | 245,679
 232 | MuhSound | 237,172
 233 | Conetent | 235,159
 234 | Zalkwalker | 235,069
