@@ -1,4 +1,4 @@
-Last updated: 23-10-08 02:29:52 UTC  
+Last updated: 23-10-08 02:40:33 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -86,7 +86,7 @@ Rank | Username | Totals Tips
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
 85 | Feetfailmenot | 1,170,705
-86 | Complete-Tadpole-728 | 1,165,307
+86 | Complete-Tadpole-728 | 1,167,970
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
 89 | beastlybaker | 1,138,701
@@ -270,7 +270,7 @@ Rank | Username | Totals Tips
 267 | MymannosaurusRex | 171,737
 268 | MelonFarmer420 | 167,136
 269 | DamnWhySoLow | 166,675
-270 | wato4000 | 162,836
+270 | wato4000 | 165,499
 271 | Clonkerz | 158,075
 272 | SandersIncBV | 156,962
 273 | martymartinator | 155,223
@@ -299,7 +299,7 @@ Rank | Username | Totals Tips
 296 | DeanDeanington | 127,267
 297 | CalligrapherEnough83 | 127,227
 298 | customsolitaires | 126,953
-299 | beanwiggin420 | 126,066
+299 | beanwiggin420 | 126,135
 300 | Trakorr | 125,110
 301 | stupidcupid112 | 121,841
 302 | Sativa55555 | 121,550
