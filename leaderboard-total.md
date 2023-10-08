@@ -1,10 +1,10 @@
-Last updated: 23-10-08 17:16:57 UTC  
+Last updated: 23-10-08 17:26:16 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 38,232,705
+2 | nakamo-toe | 38,238,031
 3 | Wonderful_Bad6531 | 36,372,142
-4 | cutsickass | 32,157,496
+4 | cutsickass | 32,167,496
 5 | waterhasnocalories | 30,910,235
 6 | Jeff5704 | 29,551,456
 7 | rickribera93 | 28,396,729
@@ -142,7 +142,7 @@ Rank | Username | Totals Tips
 139 | junkwatch | 659,716
 140 | MartynDr | 653,179
 141 | femacampcouncilor | 650,801
-142 | Bobby_Juk | 634,730
+142 | Bobby_Juk | 635,150
 143 | RazPie | 633,307
 144 | slirpo | 631,180
 145 | superlonelyboy | 611,557
