@@ -1,4 +1,4 @@
-Last updated: 23-10-08 12:38:46 UTC  
+Last updated: 23-10-08 12:55:46 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -305,7 +305,7 @@ Rank | Username | Totals Tips
 302 | Sativa55555 | 121,550
 303 | lucivaryas | 121,420
 304 | Schl0tz | 120,000
-305 | lordciders | 119,706
+305 | lordciders | 119,775
 306 | CaptainCheeseCake | 118,644
 307 | street_shark_puppet | 116,891
 308 | mvea | 115,748
