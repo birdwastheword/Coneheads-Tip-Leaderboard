@@ -1,4 +1,4 @@
-Last updated: 23-10-08 06:00:49 UTC  
+Last updated: 23-10-08 06:23:44 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -11,7 +11,7 @@ Rank | Username | Totals Tips
 8 | _ships | 19,505,131
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
-11 | crypto_grandma | 14,636,771
+11 | crypto_grandma | 14,641,181
 12 | SammyCraigar | 12,561,336
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,420,107
@@ -29,7 +29,7 @@ Rank | Username | Totals Tips
 26 | VIVOffical | 6,487,018
 27 | HippieStarTraveler | 6,264,368
 28 | IveDoneItAtLast | 5,977,019
-29 | thelonliestcrowd | 5,774,491
+29 | thelonliestcrowd | 5,801,128
 30 | Ginomania | 5,747,134
 31 | send420nudes | 5,626,306
 32 | GuyOne | 5,232,572
@@ -49,7 +49,7 @@ Rank | Username | Totals Tips
 46 | LordBobTheWhale | 3,345,543
 47 | evilninjarobot | 3,208,037
 48 | Dry_Badger_2403 | 3,193,857
-49 | CMDRGlamdring | 2,899,653
+49 | CMDRGlamdring | 2,900,073
 50 | Fenrir-1919 | 2,802,118
 51 | Mean_Bandicoot_7481 | 2,752,108
 52 | ImAlekBan | 2,648,564
@@ -86,7 +86,7 @@ Rank | Username | Totals Tips
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
 85 | Feetfailmenot | 1,170,705
-86 | Complete-Tadpole-728 | 1,168,039
+86 | Complete-Tadpole-728 | 1,168,459
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
 89 | beastlybaker | 1,138,701
@@ -186,7 +186,7 @@ Rank | Username | Totals Tips
 183 | hellosamaira | 373,235
 184 | Tinman_ApE | 362,406
 185 | farmertypoerror | 359,212
-186 | 83nno | 351,088
+186 | 83nno | 353,751
 187 | Outrageous-Skill-464 | 344,174
 188 | anony666mous | 341,008
 189 | tsudrat | 340,707
@@ -597,9 +597,9 @@ Rank | Username | Totals Tips
 594 | Fivebag | 18,704
 595 | D6P6 | 18,447
 596 | masterassassin93 | 18,409
-597 | Collectibl3 | 18,024
-598 | froi203 | 17,978
-599 | NSFWCryptoPosting | 17,775
+597 | NSFWCryptoPosting | 18,264
+598 | Collectibl3 | 18,024
+599 | froi203 | 17,978
 600 | augustsIippedaway | 17,739
 601 | PRYCDaddy | 17,718
 602 | omfglauren | 17,676
@@ -752,7 +752,7 @@ Rank | Username | Totals Tips
 749 | RiceRare | 7,491
 750 | Pengpangolin | 7,488
 751 | FlippiShh | 7,440
-752 | strworld | 7,302
+752 | strworld | 7,371
 753 | st3alth247 | 7,003
 754 | Alternative-Radish13 | 6,969
 755 | CryptoriumOfficial | 6,969
