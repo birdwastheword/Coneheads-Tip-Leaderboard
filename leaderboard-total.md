@@ -1,4 +1,4 @@
-Last updated: 23-10-08 05:00:50 UTC  
+Last updated: 23-10-08 05:18:21 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -342,8 +342,8 @@ Rank | Username | Totals Tips
 339 | AhhhUhmmm | 95,250
 340 | Arvalll | 94,992
 341 | wolfman333 | 93,986
-342 | DramaticProtogen | 92,937
-343 | kwickle | 92,805
+342 | kwickle | 93,305
+343 | DramaticProtogen | 92,937
 344 | H3adshotfox77 | 92,575
 345 | urlz | 92,095
 346 | XeroGrave | 90,479
