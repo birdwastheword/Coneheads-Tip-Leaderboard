@@ -1,4 +1,4 @@
-Last updated: 23-10-08 20:50:48 UTC  
+Last updated: 23-10-08 21:00:57 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -123,7 +123,7 @@ Rank | Username | Totals Tips
 120 | na7oul | 800,000
 121 | Cravensworth_redux | 790,803
 122 | ziggybri | 783,883
-123 | dopelifer09 | 766,118
+123 | dopelifer09 | 766,538
 124 | Obi1eyeKenobi | 730,328
 125 | crodbtc | 729,483
 126 | Successful-Walk-3902 | 727,967
