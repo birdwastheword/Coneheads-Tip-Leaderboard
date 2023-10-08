@@ -1,4 +1,4 @@
-Last updated: 23-10-08 07:40:29 UTC  
+Last updated: 23-10-08 07:50:48 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -12,7 +12,7 @@ Rank | Username | Totals Tips
 9 | ConeDesk | 17,947,653
 10 | transfermymoons | 15,021,858
 11 | crypto_grandma | 14,641,181
-12 | SammyCraigar | 12,561,336
+12 | SammyCraigar | 12,561,944
 13 | HODL-THE-LINE | 12,469,181
 14 | SpookySYN | 12,420,107
 15 | Parush9 | 12,308,899
@@ -248,8 +248,8 @@ Rank | Username | Totals Tips
 245 | SigSalvadore | 212,358
 246 | UWphoto | 211,312
 247 | Most_Being_4002 | 206,012
-248 | Esco1980 | 204,434
-249 | Heclalava | 203,538
+248 | Heclalava | 205,538
+249 | Esco1980 | 204,434
 250 | ziggyback | 203,369
 251 | CedricDiccory | 197,932
 252 | sudrats | 197,124
