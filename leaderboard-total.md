@@ -1,8 +1,8 @@
-Last updated: 23-10-08 15:34:07 UTC  
+Last updated: 23-10-08 15:42:42 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 38,198,997
+2 | nakamo-toe | 38,208,023
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -836,16 +836,16 @@ Rank | Username | Totals Tips
 833 | Lazy_Staff4893 | 4,000
 834 | Soil_Electronic | 3,975
 835 | Dreadaussie | 3,920
-836 | OisinT | 3,779
-837 | carsonthecarsinogen | 3,769
-838 | salt_yaf | 3,706
-839 | Plasticites | 3,687
-840 | chwick | 3,630
-841 | Gelato_33 | 3,628
-842 | Medfried | 3,561
-843 | _echnaton | 3,504
-844 | raulcras5 | 3,502
-845 | ced-uca | 3,497
+836 | ced-uca | 3,917
+837 | OisinT | 3,779
+838 | carsonthecarsinogen | 3,769
+839 | salt_yaf | 3,706
+840 | Plasticites | 3,687
+841 | chwick | 3,630
+842 | Gelato_33 | 3,628
+843 | Medfried | 3,561
+844 | _echnaton | 3,504
+845 | raulcras5 | 3,502
 846 | RepresentativeNo4743 | 3,489
 847 | JJJaxMax | 3,475
 848 | Mrcoolguynumberone | 3,420
