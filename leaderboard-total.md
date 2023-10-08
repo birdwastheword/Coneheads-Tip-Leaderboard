@@ -1,8 +1,8 @@
-Last updated: 23-10-08 14:25:48 UTC  
+Last updated: 23-10-08 14:34:01 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 38,193,671
+2 | nakamo-toe | 38,198,997
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,157,496
 5 | waterhasnocalories | 30,910,235
@@ -90,7 +90,7 @@ Rank | Username | Totals Tips
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
 89 | beastlybaker | 1,138,701
-90 | noface_reddit | 1,114,552
+90 | noface_reddit | 1,121,415
 91 | Allions1 | 1,106,657
 92 | nichnotnick | 1,103,821
 93 | virmamies | 1,092,771
@@ -366,13 +366,13 @@ Rank | Username | Totals Tips
 363 | shellystarzz | 83,509
 364 | Admirito | 82,353
 365 | standArtpluto | 82,100
-366 | LightninHooker | 80,639
-367 | mastermarvs | 80,384
-368 | Pwny_b0y | 79,447
-369 | TheOneWhoCared | 79,079
-370 | GodOfWarGuy737 | 79,069
-371 | Derefringence | 78,935
-372 | fleshlyLoath | 78,366
+366 | fleshlyLoath | 80,850
+367 | LightninHooker | 80,639
+368 | mastermarvs | 80,384
+369 | Pwny_b0y | 79,447
+370 | TheOneWhoCared | 79,079
+371 | GodOfWarGuy737 | 79,069
+372 | Derefringence | 78,935
 373 | mokkingjay | 77,914
 374 | HelicopterDear6064 | 77,619
 375 | Diamond_PnutBrain | 76,771
