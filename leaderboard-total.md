@@ -1,4 +1,4 @@
-Last updated: 23-10-08 05:40:47 UTC  
+Last updated: 23-10-08 05:50:36 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | send420nudes | 5,626,306
 32 | GuyOne | 5,232,572
 33 | DontLaughArt | 4,824,283
-34 | redzrex | 4,579,350
+34 | redzrex | 4,582,013
 35 | rustyybikes | 4,558,899
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
@@ -817,20 +817,20 @@ Rank | Username | Totals Tips
 814 | Sledheadjack | 4,528
 815 | ArrivalWrong7289 | 4,447
 816 | FoLKOM | 4,422
-817 | Secure-District-9999 | 4,340
-818 | _dual1ty | 4,333
-819 | DepressedVegabond | 4,300
-820 | ADT06 | 4,260
-821 | Werd2jaH | 4,205
-822 | OG_Bobcat32 | 4,200
-823 | officialzodiacbeats | 4,194
-824 | DrAgaricus | 4,111
-825 | Poyal_Rines | 4,015
-826 | Ronkad | 4,003
-827 | Puzzleheaded_Popup | 4,000
-828 | nathanroberts14 | 4,000
-829 | Lazy_Staff4893 | 4,000
-830 | WeaselJCD | 3,992
+817 | WeaselJCD | 4,412
+818 | Secure-District-9999 | 4,340
+819 | _dual1ty | 4,333
+820 | DepressedVegabond | 4,300
+821 | ADT06 | 4,260
+822 | Werd2jaH | 4,205
+823 | OG_Bobcat32 | 4,200
+824 | officialzodiacbeats | 4,194
+825 | DrAgaricus | 4,111
+826 | Poyal_Rines | 4,015
+827 | Ronkad | 4,003
+828 | Puzzleheaded_Popup | 4,000
+829 | nathanroberts14 | 4,000
+830 | Lazy_Staff4893 | 4,000
 831 | Soil_Electronic | 3,975
 832 | Dreadaussie | 3,920
 833 | OisinT | 3,779
