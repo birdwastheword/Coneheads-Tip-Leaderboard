@@ -1,4 +1,4 @@
-Last updated: 23-10-08 23:40:40 UTC  
+Last updated: 23-10-08 23:50:51 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -579,8 +579,8 @@ Rank | Username | Totals Tips
 576 | Defeat-the-Kraken | 22,041
 577 | Matth3w_95 | 21,820
 578 | Flamingo777 | 21,719
-579 | Tasty_Bag | 21,384
-580 | ipad_daps | 21,209
+579 | ipad_daps | 21,629
+580 | Tasty_Bag | 21,384
 581 | RamboBalboa21 | 21,083
 582 | shootingeagleyt | 20,611
 583 | DLPD-Camko | 20,377
