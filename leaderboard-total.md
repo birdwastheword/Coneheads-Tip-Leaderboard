@@ -1,4 +1,4 @@
-Last updated: 23-10-08 14:50:47 UTC  
+Last updated: 23-10-08 15:00:54 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -562,22 +562,22 @@ Rank | Username | Totals Tips
 559 | Mysterious-Bar-4721 | 25,000
 560 | CowDapper7867 | 25,000
 561 | 4ucklehead | 24,684
-562 | SquatAngry | 23,630
-563 | WiseDude69 | 23,483
-564 | tiger1647 | 23,439
-565 | Mrmakanakai | 23,276
-566 | africanasshat | 23,062
-567 | AntonioTT05 | 22,876
-568 | Bundess | 22,746
-569 | SlowpokesEmporium | 22,664
-570 | Ryaol | 22,663
-571 | Particular_Equal_490 | 22,256
-572 | deezirae | 22,203
-573 | beejbum | 22,200
-574 | Defeat-the-Kraken | 22,041
-575 | Matth3w_95 | 21,820
-576 | Flamingo777 | 21,719
-577 | amnotmethenwho | 21,483
+562 | amnotmethenwho | 23,819
+563 | SquatAngry | 23,630
+564 | WiseDude69 | 23,483
+565 | tiger1647 | 23,439
+566 | Mrmakanakai | 23,276
+567 | africanasshat | 23,062
+568 | AntonioTT05 | 22,876
+569 | Bundess | 22,746
+570 | SlowpokesEmporium | 22,664
+571 | Ryaol | 22,663
+572 | Particular_Equal_490 | 22,256
+573 | deezirae | 22,203
+574 | beejbum | 22,200
+575 | Defeat-the-Kraken | 22,041
+576 | Matth3w_95 | 21,820
+577 | Flamingo777 | 21,719
 578 | Tasty_Bag | 21,384
 579 | ipad_daps | 21,209
 580 | RamboBalboa21 | 21,083
