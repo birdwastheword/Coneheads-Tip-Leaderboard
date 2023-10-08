@@ -1,4 +1,4 @@
-Last updated: 23-10-08 08:40:50 UTC  
+Last updated: 23-10-08 08:50:32 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -529,9 +529,9 @@ Rank | Username | Totals Tips
 526 | Practical-Store9603 | 29,691
 527 | Gilbertll | 29,585
 528 | liberovento | 29,221
-529 | bentolman | 28,891
-530 | FoleyKali | 28,843
-531 | tahiraslam8k | 28,834
+529 | tahiraslam8k | 28,903
+530 | bentolman | 28,891
+531 | FoleyKali | 28,843
 532 | Fictional_Blook | 28,143
 533 | Fomo- | 28,020
 534 | hvefe | 28,005
