@@ -1,4 +1,4 @@
-Last updated: 23-10-08 01:37:24 UTC  
+Last updated: 23-10-08 02:09:52 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -86,7 +86,7 @@ Rank | Username | Totals Tips
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
 85 | Feetfailmenot | 1,170,705
-86 | Complete-Tadpole-728 | 1,162,224
+86 | Complete-Tadpole-728 | 1,165,307
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
 89 | beastlybaker | 1,138,701
@@ -110,7 +110,7 @@ Rank | Username | Totals Tips
 107 | PortCity_MadMan | 914,771
 108 | Modestexcuse | 903,684
 109 | thee_monster | 896,765
-110 | Westy3000 | 894,298
+110 | Westy3000 | 894,964
 111 | DogSpark84 | 872,837
 112 | Bobisdeadrun | 869,016
 113 | orangesandonions | 859,682
@@ -233,8 +233,8 @@ Rank | Username | Totals Tips
 230 | joeviani | 245,917
 231 | Significant_Talk4943 | 244,259
 232 | MuhSound | 237,172
-233 | Zalkwalker | 235,069
-234 | Conetent | 234,739
+233 | Conetent | 235,159
+234 | Zalkwalker | 235,069
 235 | alexthemay | 234,131
 236 | CoverYourMaskHoles | 229,708
 237 | ShortBusCult | 228,485
@@ -315,10 +315,10 @@ Rank | Username | Totals Tips
 312 | AlternativeBag2619 | 114,483
 313 | Fox1931 | 114,000
 314 | Showwwy87 | 113,586
-315 | flying_bacon | 111,929
-316 | adrefofadre | 111,817
-317 | jurgensdapimp | 111,618
-318 | Ronitn | 110,826
+315 | Ronitn | 113,489
+316 | flying_bacon | 111,929
+317 | adrefofadre | 111,817
+318 | jurgensdapimp | 111,618
 319 | Strong_Constant_1190 | 110,325
 320 | PushyDevolution | 110,216
 321 | Jlt42000 | 107,091
@@ -358,7 +358,7 @@ Rank | Username | Totals Tips
 355 | qwertywich | 87,473
 356 | Bobocod | 86,903
 357 | bvandepol | 86,258
-358 | Significant-Bet5762 | 85,616
+358 | Significant-Bet5762 | 86,224
 359 | Mother-Werewolf185 | 85,579
 360 | drche35 | 85,131
 361 | Puzzleheaded_Gift738 | 84,020
