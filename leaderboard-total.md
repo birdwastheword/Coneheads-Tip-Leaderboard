@@ -1,8 +1,8 @@
-Last updated: 23-10-09 00:25:17 UTC  
+Last updated: 23-10-09 01:32:04 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 38,257,193
+2 | nakamo-toe | 38,259,856
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,167,496
 5 | waterhasnocalories | 30,910,235
@@ -85,7 +85,7 @@ Rank | Username | Totals Tips
 82 | revdrgonzo | 1,246,055
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
-85 | Complete-Tadpole-728 | 1,177,985
+85 | Complete-Tadpole-728 | 1,178,405
 86 | Feetfailmenot | 1,170,705
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
@@ -109,7 +109,7 @@ Rank | Username | Totals Tips
 106 | Forward_Today2849 | 932,405
 107 | PortCity_MadMan | 914,771
 108 | Modestexcuse | 903,684
-109 | Westy3000 | 899,182
+109 | Westy3000 | 899,404
 110 | thee_monster | 896,765
 111 | DogSpark84 | 872,837
 112 | Bobisdeadrun | 869,016
@@ -184,7 +184,7 @@ Rank | Username | Totals Tips
 181 | SHIFTY-T3RROR | 385,866
 182 | zenhodl | 374,566
 183 | hellosamaira | 373,235
-184 | Tinman_ApE | 362,406
+184 | Tinman_ApE | 363,014
 185 | farmertypoerror | 359,212
 186 | 83nno | 353,874
 187 | Outrageous-Skill-464 | 344,174
