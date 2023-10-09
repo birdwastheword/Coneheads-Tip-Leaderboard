@@ -1,4 +1,4 @@
-Last updated: 23-10-09 04:00:42 UTC  
+Last updated: 23-10-09 04:22:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -34,7 +34,7 @@ Rank | Username | Totals Tips
 31 | send420nudes | 5,630,575
 32 | GuyOne | 5,232,572
 33 | DontLaughArt | 4,824,283
-34 | redzrex | 4,582,013
+34 | redzrex | 4,584,676
 35 | rustyybikes | 4,558,899
 36 | rikbona | 4,540,773
 37 | bigbilly1234567899 | 4,496,042
@@ -84,8 +84,8 @@ Rank | Username | Totals Tips
 81 | saintajoras | 1,309,281
 82 | revdrgonzo | 1,246,055
 83 | billywright4 | 1,195,269
-84 | HestiaIsTheBestia | 1,188,046
-85 | Complete-Tadpole-728 | 1,178,405
+84 | Complete-Tadpole-728 | 1,188,405
+85 | HestiaIsTheBestia | 1,188,046
 86 | Feetfailmenot | 1,170,705
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
@@ -139,7 +139,7 @@ Rank | Username | Totals Tips
 136 | Due_Insurance8159 | 678,620
 137 | SKITZ_ZA | 676,057
 138 | piebagz | 661,815
-139 | junkwatch | 659,716
+139 | junkwatch | 660,136
 140 | MartynDr | 653,179
 141 | femacampcouncilor | 650,801
 142 | Bobby_Juk | 635,570
@@ -268,7 +268,7 @@ Rank | Username | Totals Tips
 265 | YourThighsWarmMyEars | 172,697
 266 | Street_Addd | 171,939
 267 | MymannosaurusRex | 171,737
-268 | wato4000 | 168,162
+268 | wato4000 | 170,825
 269 | MelonFarmer420 | 167,136
 270 | DamnWhySoLow | 166,675
 271 | Clonkerz | 158,075
