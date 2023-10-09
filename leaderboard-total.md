@@ -1,4 +1,4 @@
-Last updated: 23-10-09 05:00:49 UTC  
+Last updated: 23-10-09 05:19:03 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -383,20 +383,20 @@ Rank | Username | Totals Tips
 380 | I_AM_MORE_BADASS | 73,121
 381 | Dazzling_Marzipan474 | 71,973
 382 | adi_00_ | 71,759
-383 | CM19901 | 71,276
-384 | sparanaghcoar | 71,118
-385 | ElmerBlack | 70,850
-386 | Atorcran | 70,496
-387 | Yoda975 | 70,123
-388 | Rush4Time | 70,079
-389 | Tapiz3land | 68,942
-390 | XBBlade | 68,321
-391 | Friendly-Airline2426 | 66,547
-392 | -geek | 66,318
-393 | imp3order | 65,546
-394 | KrunchyKushKing | 65,223
-395 | damnusernamegotcutof | 65,004
-396 | slug_tamer | 64,705
+383 | slug_tamer | 71,674
+384 | CM19901 | 71,276
+385 | sparanaghcoar | 71,118
+386 | ElmerBlack | 70,850
+387 | Atorcran | 70,496
+388 | Yoda975 | 70,123
+389 | Rush4Time | 70,079
+390 | Tapiz3land | 68,942
+391 | XBBlade | 68,321
+392 | Friendly-Airline2426 | 66,547
+393 | -geek | 66,318
+394 | imp3order | 65,546
+395 | KrunchyKushKing | 65,223
+396 | damnusernamegotcutof | 65,004
 397 | zuzieey7719 | 64,618
 398 | guokaidi | 63,581
 399 | meme_used | 63,516
