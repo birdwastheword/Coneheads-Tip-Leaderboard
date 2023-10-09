@@ -1,4 +1,4 @@
-Last updated: 23-10-09 04:50:45 UTC  
+Last updated: 23-10-09 05:00:49 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -84,7 +84,7 @@ Rank | Username | Totals Tips
 81 | saintajoras | 1,309,281
 82 | revdrgonzo | 1,246,055
 83 | billywright4 | 1,195,269
-84 | Complete-Tadpole-728 | 1,188,405
+84 | Complete-Tadpole-728 | 1,191,068
 85 | HestiaIsTheBestia | 1,188,046
 86 | Feetfailmenot | 1,170,705
 87 | Hot_Potato_Salad | 1,147,558
