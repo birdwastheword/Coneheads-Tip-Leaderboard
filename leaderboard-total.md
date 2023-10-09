@@ -1,4 +1,4 @@
-Last updated: 23-10-09 05:50:24 UTC  
+Last updated: 23-10-09 06:00:47 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -474,7 +474,7 @@ Rank | Username | Totals Tips
 471 | Motor-breath8 | 41,134
 472 | HodLMania | 41,111
 473 | ARoyaleWithCheese | 41,000
-474 | East_Key_5930 | 40,564
+474 | East_Key_5930 | 40,596
 475 | matdabom | 40,068
 476 | babuba1234321 | 40,000
 477 | YourLocalDuskFox | 40,000
