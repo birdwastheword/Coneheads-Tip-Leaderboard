@@ -1,8 +1,8 @@
-Last updated: 23-10-08 23:50:51 UTC  
+Last updated: 23-10-09 00:25:17 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
-2 | nakamo-toe | 38,252,991
+2 | nakamo-toe | 38,257,193
 3 | Wonderful_Bad6531 | 36,372,142
 4 | cutsickass | 32,167,496
 5 | waterhasnocalories | 30,910,235
@@ -22,7 +22,7 @@ Rank | Username | Totals Tips
 19 | ArtConsitent | 8,827,674
 20 | Geniuskills | 8,164,883
 21 | Homeslicekilla | 7,998,462
-22 | Puddin-Luv | 7,555,891
+22 | Puddin-Luv | 7,556,499
 23 | Skank_cunt_42 | 7,279,030
 24 | ashinamune | 6,783,111
 25 | Real_Player_0 | 6,599,143
@@ -85,7 +85,7 @@ Rank | Username | Totals Tips
 82 | revdrgonzo | 1,246,055
 83 | billywright4 | 1,195,269
 84 | HestiaIsTheBestia | 1,188,046
-85 | Complete-Tadpole-728 | 1,175,465
+85 | Complete-Tadpole-728 | 1,177,985
 86 | Feetfailmenot | 1,170,705
 87 | Hot_Potato_Salad | 1,147,558
 88 | pythonskynet | 1,147,213
