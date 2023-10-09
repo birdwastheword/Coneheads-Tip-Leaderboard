@@ -1,4 +1,4 @@
-Last updated: 23-10-09 04:22:15 UTC  
+Last updated: 23-10-09 04:32:15 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
@@ -474,22 +474,22 @@ Rank | Username | Totals Tips
 471 | Motor-breath8 | 41,134
 472 | HodLMania | 41,111
 473 | ARoyaleWithCheese | 41,000
-474 | matdabom | 40,068
-475 | babuba1234321 | 40,000
-476 | YourLocalDuskFox | 40,000
-477 | alex_si_davies | 39,965
-478 | Mortifer6 | 39,807
-479 | AMAxyz | 39,775
-480 | waterincorporated | 39,428
-481 | sM0k3dR4Gn | 39,279
-482 | Styl_Ianos_ | 39,262
-483 | mutinomonem | 38,823
-484 | TheChillDyl | 38,514
-485 | chaud3r | 38,290
-486 | lovenets_ | 38,182
-487 | rowdy1212 | 38,129
-488 | samer109 | 38,042
-489 | East_Key_5930 | 37,901
+474 | East_Key_5930 | 40,564
+475 | matdabom | 40,068
+476 | babuba1234321 | 40,000
+477 | YourLocalDuskFox | 40,000
+478 | alex_si_davies | 39,965
+479 | Mortifer6 | 39,807
+480 | AMAxyz | 39,775
+481 | waterincorporated | 39,428
+482 | sM0k3dR4Gn | 39,279
+483 | Styl_Ianos_ | 39,262
+484 | mutinomonem | 38,823
+485 | TheChillDyl | 38,514
+486 | chaud3r | 38,290
+487 | lovenets_ | 38,182
+488 | rowdy1212 | 38,129
+489 | samer109 | 38,042
 490 | onetrueSage | 37,633
 491 | shitwhenismycakeday | 37,409
 492 | redditisalt | 37,307
