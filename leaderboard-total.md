@@ -1,4 +1,4 @@
-Last updated: 25-05-15 19:25:46 UTC  
+Last updated: 25-05-15 19:35:58 UTC  
 Rank | Username | Totals Tips
 :-|:-|-:
 1 | Bitdream200K | 40,500,391
